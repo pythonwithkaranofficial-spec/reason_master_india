@@ -1,0 +1,443 @@
+{
+  "id": "classification",
+  "category": "verbal",
+  "name": "Classification / Odd One Out",
+  "iconName": "filter_list",
+  "shortcutSummary": "Find the common property shared by all but one item. The odd one out is the item that does NOT share that property. Always check at least two possible groupings before finalizing.",
+  "conceptExplanation": "Classification or Odd One Out questions ask you to identify the item that does not belong to a group. The group shares a common property — it could be based on meaning, category, mathematical property, or pattern. Your job is to find what unites the majority and which item breaks that unity.\n\nThese questions appear in every major exam: SSC, Banking, Railways, and Defence. They test your ability to categorize and spot the outlier quickly.",
+  "subtopics": [
+    {
+      "id": "word_classification",
+      "name": "Word-based Classification",
+      "explanation": "Group words by category, property, or meaning. The odd one is the word that belongs to a different category or lacks the shared property.",
+      "shortcuts": [
+        "Category Check: Identify what category most items belong to (fruits, animals, countries, etc.). The odd one is from a different category.",
+        "Property Check: If category is the same, check for a sub-property (e.g., all are mammals except one reptile).",
+        "Semantic Relationship: Sometimes the link is not category but relationship (all synonyms except one antonym)."
+      ],
+      "examples": [
+        {
+          "questionText": "Find the odd one out: Apple, Mango, Potato, Banana",
+          "difficulty": "easy",
+          "solutionSteps": "Apple, Mango, Banana are fruits. Potato is a vegetable. Answer: Potato",
+          "shortcutApplied": "Category Check"
+        },
+        {
+          "questionText": "Find the odd one out: January, March, June, July",
+          "difficulty": "medium",
+          "solutionSteps": "January (31 days), March (31 days), July (31 days) — all have 31 days. June has only 30 days. Answer: June",
+          "shortcutApplied": "Property Check"
+        },
+        {
+          "questionText": "Find the odd one out: Surgeon, Physician, Carpenter, Dentist",
+          "difficulty": "easy",
+          "solutionSteps": "Surgeon, Physician, Dentist are all medical professionals. Carpenter is not. Answer: Carpenter",
+          "shortcutApplied": "Category Check"
+        },
+        {
+          "questionText": "Find the odd one out: Mercury, Venus, Moon, Mars",
+          "difficulty": "medium",
+          "solutionSteps": "Mercury, Venus, Mars are planets. Moon is a natural satellite, not a planet. Answer: Moon",
+          "shortcutApplied": "Category Check"
+        },
+        {
+          "questionText": "Find the odd one out: Braille, Morse, Sanskrit, Semaphore",
+          "difficulty": "hard",
+          "solutionSteps": "Braille, Morse, and Semaphore are all communication codes/systems. Sanskrit is a language, not a code system. Answer: Sanskrit",
+          "shortcutApplied": "Property Check"
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "questionText": "Find the odd one out: Dog, Cat, Cow, Rose",
+          "options": [
+            "Dog",
+            "Cat",
+            "Rose",
+            "Cow"
+          ],
+          "correctIndex": 2,
+          "difficulty": "easy",
+          "solutionSteps": "Dog, Cat, Cow are animals. Rose is a flower. Answer: Rose.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Find the odd one out: 11, 13, 15, 17, 19",
+          "options": [
+            "11",
+            "13",
+            "15",
+            "17"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "solutionSteps": "11, 13, 17, 19 are prime numbers. 15 = 3×5 is not prime. Answer: 15.",
+          "examTags": [
+            "SSC CGL",
+            "RRB NTPC",
+            "IBPS Clerk"
+          ]
+        },
+        {
+          "questionText": "Find the odd one out: Mercury, Jupiter, Pluto, Saturn",
+          "options": [
+            "Mercury",
+            "Jupiter",
+            "Pluto",
+            "Saturn"
+          ],
+          "correctIndex": 2,
+          "difficulty": "easy",
+          "solutionSteps": "Mercury, Jupiter, Saturn are planets. Pluto is a dwarf planet (reclassified in 2006). Answer: Pluto.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL"
+          ]
+        },
+        {
+          "questionText": "Find the odd one out: 8, 27, 64, 100, 125",
+          "options": [
+            "8",
+            "27",
+            "100",
+            "125"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "solutionSteps": "8=2³, 27=3³, 64=4³, 125=5³ are perfect cubes. 100=10² is not a perfect cube. Answer: 100.",
+          "examTags": [
+            "SSC CGL",
+            "IBPS PO",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Find the odd one out: Square, Rectangle, Triangle, Circle, Hexagon",
+          "options": [
+            "Square",
+            "Triangle",
+            "Circle",
+            "Hexagon"
+          ],
+          "correctIndex": 2,
+          "difficulty": "easy",
+          "solutionSteps": "Square, Rectangle, Triangle, Hexagon are polygons (have straight sides). Circle has no straight sides. Answer: Circle.",
+          "examTags": [
+            "SSC CHSL",
+            "RRB Group D",
+            "SSC MTS"
+          ]
+        },
+        {
+          "questionText": "Find the odd one out: Potato, Carrot, Ginger, Apple",
+          "options": [
+            "Potato",
+            "Carrot",
+            "Apple",
+            "Ginger"
+          ],
+          "correctIndex": 2,
+          "difficulty": "easy",
+          "solutionSteps": "Potato, Carrot, Ginger are root vegetables. Apple is a fruit. Answer: Apple.",
+          "examTags": [
+            "SSC MTS",
+            "RRB Group D"
+          ]
+        },
+        {
+          "questionText": "Find the odd one out: Taj Mahal, Qutub Minar, Eiffel Tower, Red Fort",
+          "options": [
+            "Taj Mahal",
+            "Qutub Minar",
+            "Eiffel Tower",
+            "Red Fort"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "solutionSteps": "Taj Mahal, Qutub Minar, Red Fort are monuments in India. Eiffel Tower is in France. Answer: Eiffel Tower.",
+          "examTags": [
+            "SSC CGL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Find the odd one out: 2, 3, 5, 9, 11",
+          "options": [
+            "2",
+            "3",
+            "9",
+            "11"
+          ],
+          "correctIndex": 2,
+          "difficulty": "easy",
+          "solutionSteps": "2, 3, 5, 11 are prime numbers. 9 = 3×3 is not prime. Answer: 9.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Find the odd one out: Tennis, Cricket, Hockey, Chess",
+          "options": [
+            "Tennis",
+            "Cricket",
+            "Hockey",
+            "Chess"
+          ],
+          "correctIndex": 3,
+          "difficulty": "easy",
+          "solutionSteps": "Tennis, Cricket, Hockey are outdoor sports involving physical movement. Chess is an indoor board game. Answer: Chess.",
+          "examTags": [
+            "SSC CHSL",
+            "RRB Group D"
+          ]
+        },
+        {
+          "questionText": "Find the odd one out: 144, 169, 196, __(225)__, 260",
+          "options": [
+            "144",
+            "169",
+            "260",
+            "196"
+          ],
+          "correctIndex": 2,
+          "difficulty": "hard",
+          "solutionSteps": "144=12², 169=13², 196=14², 225=15² are perfect squares. 260 is not a perfect square. Answer: 260.",
+          "examTags": [
+            "SSC CGL",
+            "IBPS PO"
+          ]
+        },
+        {
+          "questionText": "Find the odd one out: Walk, Run, Sit, Jog",
+          "options": [
+            "Walk",
+            "Run",
+            "Sit",
+            "Jog"
+          ],
+          "correctIndex": 2,
+          "difficulty": "easy",
+          "solutionSteps": "Walk, Run, Jog all involve forward movement/locomotion. Sit does not involve movement. Answer: Sit.",
+          "examTags": [
+            "SSC MTS",
+            "RRB Group D"
+          ]
+        },
+        {
+          "questionText": "Find the odd one out: January, May, July, November",
+          "options": [
+            "January",
+            "May",
+            "July",
+            "November"
+          ],
+          "correctIndex": 3,
+          "difficulty": "medium",
+          "solutionSteps": "January (31), May (31), July (31) have 31 days. November has 30 days. Answer: November.",
+          "examTags": [
+            "SSC CGL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Find the odd one out: Sparrow, Parrot, Bat, Eagle",
+          "options": [
+            "Sparrow",
+            "Parrot",
+            "Bat",
+            "Eagle"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "solutionSteps": "Sparrow, Parrot, Eagle are birds. Bat is a mammal (despite flying). Answer: Bat.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Find the odd one out: Iron, Gold, Mercury, Copper",
+          "options": [
+            "Iron",
+            "Gold",
+            "Mercury",
+            "Copper"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "solutionSteps": "Iron, Gold, Copper are solid metals at room temperature. Mercury is the only liquid metal at room temperature. Answer: Mercury.",
+          "examTags": [
+            "SSC CGL",
+            "RRB NTPC",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Find the odd one out: Whale, Shark, Dolphin, Crocodile",
+          "options": [
+            "Whale",
+            "Shark",
+            "Dolphin",
+            "Crocodile"
+          ],
+          "correctIndex": 1,
+          "difficulty": "hard",
+          "solutionSteps": "Whale, Dolphin are marine mammals. Crocodile is a reptile. Shark is a fish. Among aquatic animals: Whale, Shark, Dolphin live in oceans. Crocodile lives in rivers/freshwater. OR: Whale, Dolphin, Crocodile breathe air (lungs). Shark breathes through gills. Answer depends on grouping. Most common answer: Shark (only fish, rest are non-fish).",
+          "examTags": [
+            "SSC CGL",
+            "IBPS PO"
+          ]
+        },
+        {
+          "questionText": "Find the odd one out: 121, 143, 169, 196",
+          "options": [
+            "121",
+            "143",
+            "169",
+            "196"
+          ],
+          "correctIndex": 1,
+          "difficulty": "medium",
+          "solutionSteps": "121=11², 169=13², 196=14² are perfect squares. 143=11×13 is not a perfect square. Answer: 143.",
+          "examTags": [
+            "SSC CGL",
+            "IBPS PO",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Find the odd one out: Pacific, Atlantic, Indian, Mediterranean",
+          "options": [
+            "Pacific",
+            "Atlantic",
+            "Indian",
+            "Mediterranean"
+          ],
+          "correctIndex": 3,
+          "difficulty": "medium",
+          "solutionSteps": "Pacific, Atlantic, Indian are oceans. Mediterranean is a sea, not an ocean. Answer: Mediterranean.",
+          "examTags": [
+            "SSC CGL",
+            "RRB NTPC",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Find the odd one out: 1, 8, 27, 65, 125",
+          "options": [
+            "1",
+            "8",
+            "65",
+            "125"
+          ],
+          "correctIndex": 2,
+          "difficulty": "hard",
+          "solutionSteps": "1=1³, 8=2³, 27=3³, 125=5³ are perfect cubes. 65 is not a perfect cube (4³=64, not 65). Answer: 65.",
+          "examTags": [
+            "SSC CGL",
+            "IBPS PO"
+          ]
+        },
+        {
+          "questionText": "Find the odd one out: Nile, Amazon, Sahara, Ganges",
+          "options": [
+            "Nile",
+            "Amazon",
+            "Sahara",
+            "Ganges"
+          ],
+          "correctIndex": 2,
+          "difficulty": "easy",
+          "solutionSteps": "Nile, Amazon, Ganges are rivers. Sahara is a desert. Answer: Sahara.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Find the odd one out: Keyboard, Mouse, CPU, Printer",
+          "options": [
+            "Keyboard",
+            "Mouse",
+            "CPU",
+            "Printer"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "solutionSteps": "Keyboard, Mouse are input devices. Printer is an output device. CPU is a processing unit (neither input nor output device). OR: Keyboard, Mouse, Printer are peripheral devices. CPU is the central processing unit. Answer: CPU.",
+          "examTags": [
+            "SSC CGL",
+            "RRB NTPC",
+            "IBPS Clerk"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "number_classification",
+      "name": "Number-based Classification",
+      "explanation": "Group numbers by mathematical property: prime, even/odd, perfect square, divisibility, digit sum, etc.",
+      "shortcuts": [
+        "Prime Check First: Check if all numbers are prime — the non-prime is the odd one.",
+        "Square/Cube Check: Check if numbers are perfect squares or cubes.",
+        "Divisibility Pattern: Check if all are divisible by a common factor."
+      ],
+      "examples": [
+        {
+          "questionText": "Find the odd one out: 2, 5, 7, 9, 11",
+          "difficulty": "easy",
+          "solutionSteps": "2, 5, 7, 11 are prime numbers. 9 = 3×3 is not prime. Answer: 9",
+          "shortcutApplied": "Prime Check First"
+        },
+        {
+          "questionText": "Find the odd one out: 16, 25, 36, 45, 64",
+          "difficulty": "medium",
+          "solutionSteps": "16=4², 25=5², 36=6², 64=8² are perfect squares. 45 is not a perfect square. Answer: 45",
+          "shortcutApplied": "Square/Cube Check"
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "questionText": "Find the odd one out: 4, 9, 16, 24, 36",
+          "options": [
+            "4",
+            "9",
+            "24",
+            "36"
+          ],
+          "correctIndex": 2,
+          "difficulty": "easy",
+          "solutionSteps": "4=2², 9=3², 16=4², 36=6² are perfect squares. 24 is not. Answer: 24.",
+          "examTags": [
+            "SSC CGL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Find the odd one out: 3, 6, 9, 14, 15",
+          "options": [
+            "3",
+            "6",
+            "14",
+            "15"
+          ],
+          "correctIndex": 2,
+          "difficulty": "easy",
+          "solutionSteps": "3, 6, 9, 15 are all divisible by 3. 14 is not divisible by 3. Answer: 14.",
+          "examTags": [
+            "SSC CHSL",
+            "RRB Group D"
+          ]
+        }
+      ]
+    }
+  ]
+}

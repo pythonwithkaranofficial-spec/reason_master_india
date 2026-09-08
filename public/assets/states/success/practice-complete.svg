@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 140" width="140" height="140" fill="none">
+  <!-- Subtle Framing Circular Ring -->
+  <circle cx="70" cy="70" r="64" fill="#F0FDF4" />
+  <circle cx="70" cy="70" r="56" stroke="#DCFCE7" stroke-width="1.5" stroke-dasharray="4 4" />
+
+  <!-- Academic Laurel Wreath Sprigs (Left & Right) -->
+  <!-- Left Laurel Sprig -->
+  <path d="M46 86 C36 74 38 56 46 44" stroke="#15803D" stroke-width="2.5" stroke-linecap="round" fill="none" />
+  <ellipse cx="38" cy="52" rx="4" ry="2.5" transform="rotate(-30 38 52)" fill="#16A34A" />
+  <ellipse cx="36" cy="64" rx="4" ry="2.5" transform="rotate(-15 36 64)" fill="#16A34A" />
+  <ellipse cx="40" cy="76" rx="4" ry="2.5" transform="rotate(15 40 76)" fill="#16A34A" />
+
+  <!-- Right Laurel Sprig -->
+  <path d="M94 86 C104 74 102 56 94 44" stroke="#15803D" stroke-width="2.5" stroke-linecap="round" fill="none" />
+  <ellipse cx="102" cy="52" rx="4" ry="2.5" transform="rotate(30 102 52)" fill="#16A34A" />
+  <ellipse cx="104" cy="64" rx="4" ry="2.5" transform="rotate(15 104 64)" fill="#16A34A" />
+  <ellipse cx="100" cy="76" rx="4" ry="2.5" transform="rotate(-15 100 76)" fill="#16A34A" />
+
+  <!-- Central Mastery Shield of Achievement -->
+  <path d="M70 34 L88 42 V62 C88 74 70 86 70 86 C70 86 52 74 52 62 V42 Z" fill="#16A34A" />
+  <path d="M70 38 L84 44 V60 C84 70 70 80 70 80 C70 80 56 70 56 60 V44 Z" fill="#15803D" />
+
+  <!-- Clean Precision Checkmark -->
+  <path d="M63 60 L68 65 L78 52" stroke="#FFFFFF" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" />
+
+  <!-- Merit Star at Apex -->
+  <polygon points="70,20 72,25 78,25 73,28 75,34 70,30 65,34 67,28 62,25 68,25" fill="#F59E0B" />
+</svg>

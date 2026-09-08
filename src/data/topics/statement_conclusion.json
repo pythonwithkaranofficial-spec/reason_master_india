@@ -1,0 +1,394 @@
+{
+  "id": "statement_conclusion",
+  "category": "verbal",
+  "name": "Statement & Conclusion",
+  "iconName": "check_circle",
+  "shortcutSummary": "A conclusion must logically follow from the statement without adding outside knowledge. If it requires an assumption not in the statement, it does not follow.",
+  "conceptExplanation": "Statement and Conclusion questions present a statement followed by two conclusions. You must determine which conclusion(s) logically follow from the statement alone — not from general knowledge or common sense.",
+  "subtopics": [
+    {
+      "id": "statement_conclusion_core",
+      "name": "Statement & Conclusion — Core Concepts",
+      "explanation": "Statement and Conclusion questions present a statement followed by two conclusions. You must determine which conclusion(s) logically follow from the statement alone — not from general knowledge or common sense.",
+      "shortcuts": [
+        "Strict Logic Rule: Only what is stated or directly implied counts — no outside knowledge.",
+        "Both/Neither Check: Always consider that both, one, or neither conclusion may follow.",
+        "Keyword Attention: Words like \"all\", \"some\", \"only\", \"always\", \"never\" critically change what follows."
+      ],
+      "examples": [
+        {
+          "questionText": "Sample easy question for Statement & Conclusion: Identify the basic concept being tested.",
+          "difficulty": "easy",
+          "solutionSteps": "Step 1: Read the question carefully.\nStep 2: Apply the fundamental concept of Statement & Conclusion.\nStep 3: Verify your answer.",
+          "shortcutApplied": "Basic Concept Application"
+        },
+        {
+          "questionText": "Sample medium question for Statement & Conclusion: Apply the standard shortcut method.",
+          "difficulty": "medium",
+          "solutionSteps": "Step 1: Identify what is being asked.\nStep 2: Apply the shortcut technique.\nStep 3: Cross-verify with the options.",
+          "shortcutApplied": "Standard Shortcut Method"
+        },
+        {
+          "questionText": "Sample medium-hard question for Statement & Conclusion: Multi-step problem requiring careful analysis.",
+          "difficulty": "medium",
+          "solutionSteps": "Step 1: Break the problem into parts.\nStep 2: Solve each part systematically.\nStep 3: Combine the results.\nStep 4: Verify.",
+          "shortcutApplied": "Systematic Analysis"
+        },
+        {
+          "questionText": "Sample hard question for Statement & Conclusion: Complex scenario with multiple conditions.",
+          "difficulty": "hard",
+          "solutionSteps": "Step 1: List all given conditions.\nStep 2: Apply elimination method.\nStep 3: Use the shortcut to narrow down.\nStep 4: Verify against all conditions.",
+          "shortcutApplied": "Elimination + Verification"
+        },
+        {
+          "questionText": "Sample advanced question for Statement & Conclusion: Tricky variation requiring deep understanding.",
+          "difficulty": "hard",
+          "solutionSteps": "Step 1: Identify the twist in the question.\nStep 2: Apply the advanced technique.\nStep 3: Double-check your reasoning.",
+          "shortcutApplied": "Advanced Technique"
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "questionText": "Statement & Conclusion Practice Q1: Apply the concepts learned to solve this easy level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 1,
+          "difficulty": "easy",
+          "solutionSteps": "Apply the standard method for Statement & Conclusion. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "IBPS PO",
+            "SBI PO",
+            "SSC CGL"
+          ]
+        },
+        {
+          "questionText": "Statement & Conclusion Practice Q2: Apply the concepts learned to solve this easy level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 2,
+          "difficulty": "easy",
+          "solutionSteps": "Apply the standard method for Statement & Conclusion. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "IBPS PO",
+            "SBI PO",
+            "SSC CGL"
+          ]
+        },
+        {
+          "questionText": "Statement & Conclusion Practice Q3: Apply the concepts learned to solve this easy level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 3,
+          "difficulty": "easy",
+          "solutionSteps": "Apply the standard method for Statement & Conclusion. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "IBPS PO",
+            "SBI PO",
+            "SSC CGL"
+          ]
+        },
+        {
+          "questionText": "Statement & Conclusion Practice Q4: Apply the concepts learned to solve this easy level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "solutionSteps": "Apply the standard method for Statement & Conclusion. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "IBPS PO",
+            "SBI PO",
+            "SSC CGL"
+          ]
+        },
+        {
+          "questionText": "Statement & Conclusion Practice Q5: Apply the concepts learned to solve this easy level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 1,
+          "difficulty": "easy",
+          "solutionSteps": "Apply the standard method for Statement & Conclusion. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "IBPS PO",
+            "SBI PO",
+            "SSC CGL"
+          ]
+        },
+        {
+          "questionText": "Statement & Conclusion Practice Q6: Apply the concepts learned to solve this easy level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 2,
+          "difficulty": "easy",
+          "solutionSteps": "Apply the standard method for Statement & Conclusion. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "IBPS PO",
+            "SBI PO",
+            "SSC CGL"
+          ]
+        },
+        {
+          "questionText": "Statement & Conclusion Practice Q7: Apply the concepts learned to solve this easy level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 3,
+          "difficulty": "easy",
+          "solutionSteps": "Apply the standard method for Statement & Conclusion. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "IBPS PO",
+            "SBI PO",
+            "SSC CGL"
+          ]
+        },
+        {
+          "questionText": "Statement & Conclusion Practice Q8: Apply the concepts learned to solve this medium level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "solutionSteps": "Apply the standard method for Statement & Conclusion. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "IBPS PO",
+            "SBI PO",
+            "SSC CGL"
+          ]
+        },
+        {
+          "questionText": "Statement & Conclusion Practice Q9: Apply the concepts learned to solve this medium level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 1,
+          "difficulty": "medium",
+          "solutionSteps": "Apply the standard method for Statement & Conclusion. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "IBPS PO",
+            "SBI PO",
+            "SSC CGL"
+          ]
+        },
+        {
+          "questionText": "Statement & Conclusion Practice Q10: Apply the concepts learned to solve this medium level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "solutionSteps": "Apply the standard method for Statement & Conclusion. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "IBPS PO",
+            "SBI PO",
+            "SSC CGL"
+          ]
+        },
+        {
+          "questionText": "Statement & Conclusion Practice Q11: Apply the concepts learned to solve this medium level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 3,
+          "difficulty": "medium",
+          "solutionSteps": "Apply the standard method for Statement & Conclusion. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "IBPS PO",
+            "SBI PO",
+            "SSC CGL"
+          ]
+        },
+        {
+          "questionText": "Statement & Conclusion Practice Q12: Apply the concepts learned to solve this medium level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "solutionSteps": "Apply the standard method for Statement & Conclusion. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "IBPS PO",
+            "SBI PO",
+            "SSC CGL"
+          ]
+        },
+        {
+          "questionText": "Statement & Conclusion Practice Q13: Apply the concepts learned to solve this medium level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 1,
+          "difficulty": "medium",
+          "solutionSteps": "Apply the standard method for Statement & Conclusion. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "IBPS PO",
+            "SBI PO",
+            "SSC CGL"
+          ]
+        },
+        {
+          "questionText": "Statement & Conclusion Practice Q14: Apply the concepts learned to solve this medium level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "solutionSteps": "Apply the standard method for Statement & Conclusion. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "IBPS PO",
+            "SBI PO",
+            "SSC CGL"
+          ]
+        },
+        {
+          "questionText": "Statement & Conclusion Practice Q15: Apply the concepts learned to solve this hard level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 3,
+          "difficulty": "hard",
+          "solutionSteps": "Apply the standard method for Statement & Conclusion. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "IBPS PO",
+            "SBI PO",
+            "SSC CGL"
+          ]
+        },
+        {
+          "questionText": "Statement & Conclusion Practice Q16: Apply the concepts learned to solve this hard level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 0,
+          "difficulty": "hard",
+          "solutionSteps": "Apply the standard method for Statement & Conclusion. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "IBPS PO",
+            "SBI PO",
+            "SSC CGL"
+          ]
+        },
+        {
+          "questionText": "Statement & Conclusion Practice Q17: Apply the concepts learned to solve this hard level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 1,
+          "difficulty": "hard",
+          "solutionSteps": "Apply the standard method for Statement & Conclusion. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "IBPS PO",
+            "SBI PO",
+            "SSC CGL"
+          ]
+        },
+        {
+          "questionText": "Statement & Conclusion Practice Q18: Apply the concepts learned to solve this hard level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 2,
+          "difficulty": "hard",
+          "solutionSteps": "Apply the standard method for Statement & Conclusion. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "IBPS PO",
+            "SBI PO",
+            "SSC CGL"
+          ]
+        },
+        {
+          "questionText": "Statement & Conclusion Practice Q19: Apply the concepts learned to solve this hard level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 3,
+          "difficulty": "hard",
+          "solutionSteps": "Apply the standard method for Statement & Conclusion. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "IBPS PO",
+            "SBI PO",
+            "SSC CGL"
+          ]
+        },
+        {
+          "questionText": "Statement & Conclusion Practice Q20: Apply the concepts learned to solve this hard level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 0,
+          "difficulty": "hard",
+          "solutionSteps": "Apply the standard method for Statement & Conclusion. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "IBPS PO",
+            "SBI PO",
+            "SSC CGL"
+          ]
+        }
+      ]
+    }
+  ]
+}

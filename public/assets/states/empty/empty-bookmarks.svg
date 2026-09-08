@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" fill="none">
+  <!-- Subtle Background Circular Halo -->
+  <circle cx="60" cy="60" r="54" fill="#EFF6FF" />
+  <circle cx="60" cy="60" r="48" stroke="#DBEAFE" stroke-width="1.5" stroke-dasharray="4 4" />
+
+  <!-- Open Study Folio Book -->
+  <path d="M26 82 C38 80 50 82 60 86 C70 82 82 80 94 82 V42 C82 40 70 42 60 46 C50 42 38 40 26 42 Z" fill="#FFFFFF" stroke="#94A3B8" stroke-width="2" stroke-linejoin="round" />
+  <!-- Spine Center Line -->
+  <line x1="60" y1="46" x2="60" y2="86" stroke="#64748B" stroke-width="2" />
+  
+  <!-- Content Rule Lines -->
+  <line x1="34" y1="52" x2="52" y2="54" stroke="#CBD5E1" stroke-width="2" stroke-linecap="round" />
+  <line x1="34" y1="60" x2="52" y2="62" stroke="#CBD5E1" stroke-width="2" stroke-linecap="round" />
+  <line x1="34" y1="68" x2="46" y2="70" stroke="#CBD5E1" stroke-width="2" stroke-linecap="round" />
+
+  <line x1="68" y1="54" x2="86" y2="52" stroke="#CBD5E1" stroke-width="2" stroke-linecap="round" />
+  <line x1="68" y1="62" x2="86" y2="60" stroke="#CBD5E1" stroke-width="2" stroke-linecap="round" />
+  <line x1="68" y1="70" x2="80" y2="68" stroke="#CBD5E1" stroke-width="2" stroke-linecap="round" />
+
+  <!-- Prominent Gold Bookmark Ribbon Dropping into Pages -->
+  <path d="M52 24 H68 V66 L60 58 L52 66 Z" fill="#F59E0B" />
+  <path d="M52 24 H68 V28 H52 Z" fill="#D97706" />
+  
+  <!-- Subtle Sparkle Node -->
+  <circle cx="60" cy="40" r="2.5" fill="#FFFFFF" />
+</svg>

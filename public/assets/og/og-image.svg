@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" fill="none">
+  <!-- Solid Background -->
+  <rect width="1200" height="630" fill="#0F172A" />
+
+  <!-- Subtle Framing Line -->
+  <rect x="32" y="32" width="1136" height="566" rx="16" stroke="#1E293B" stroke-width="2" />
+  
+  <!-- Left Side: Brand Symbol Large -->
+  <g transform="translate(100, 195)">
+    <rect width="240" height="240" rx="40" fill="#1E40AF" />
+    <path d="M120 40 L200 120 L120 200 L40 120 Z" stroke="#F59E0B" stroke-width="12" stroke-linejoin="round" fill="none"/>
+    <circle cx="120" cy="120" r="24" fill="#F59E0B"/>
+    <line x1="120" y1="50" x2="120" y2="96" stroke="#FFFFFF" stroke-width="10" stroke-linecap="round"/>
+    <line x1="120" y1="144" x2="120" y2="190" stroke="#FFFFFF" stroke-width="10" stroke-linecap="round"/>
+    <line x1="50" y1="120" x2="96" y2="120" stroke="#FFFFFF" stroke-width="10" stroke-linecap="round"/>
+    <line x1="144" y1="120" x2="190" y2="120" stroke="#FFFFFF" stroke-width="10" stroke-linecap="round"/>
+    <circle cx="120" cy="50" r="8" fill="#FFFFFF"/>
+    <circle cx="120" cy="190" r="8" fill="#FFFFFF"/>
+    <circle cx="50" cy="120" r="8" fill="#FFFFFF"/>
+    <circle cx="190" cy="120" r="8" fill="#FFFFFF"/>
+  </g>
+
+  <!-- Right Side: Typography & Metadata -->
+  <g transform="translate(380, 200)">
+    <!-- Pill Tag -->
+    <rect x="0" y="0" width="340" height="40" rx="8" fill="#1E3A8A" />
+    <text x="20" y="25" font-family="system-ui, -apple-system, sans-serif" font-weight="700" font-size="16" letter-spacing="1px" fill="#93C5FD">
+      AUTHORITATIVE REASONING PLATFORM
+    </text>
+
+    <!-- Main Title -->
+    <text x="0" y="95" font-family="system-ui, -apple-system, sans-serif" font-weight="800" font-size="60" letter-spacing="-1.5px" fill="#F8FAFC">
+      ReasonMaster<tspan fill="#F59E0B"> India</tspan>
+    </text>
+
+    <!-- Subtitle -->
+    <text x="0" y="145" font-family="system-ui, -apple-system, sans-serif" font-weight="500" font-size="26" fill="#94A3B8">
+      Reasoning Mastery for 64+ Indian Competitive Exams
+    </text>
+
+    <!-- Feature Badges -->
+    <g transform="translate(0, 190)">
+      <!-- Badge 1 -->
+      <rect x="0" y="0" width="180" height="44" rx="8" fill="#1E293B" stroke="#334155" stroke-width="1"/>
+      <text x="90" y="28" font-family="system-ui, -apple-system, sans-serif" font-weight="700" font-size="18" fill="#38BDF8" text-anchor="middle">
+        39 Master Topics
+      </text>
+
+      <!-- Badge 2 -->
+      <rect x="200" y="0" width="180" height="44" rx="8" fill="#1E293B" stroke="#334155" stroke-width="1"/>
+      <text x="290" y="28" font-family="system-ui, -apple-system, sans-serif" font-weight="700" font-size="18" fill="#FBBF24" text-anchor="middle">
+        19,500 MCQs
+      </text>
+
+      <!-- Badge 3 -->
+      <rect x="400" y="0" width="180" height="44" rx="8" fill="#1E293B" stroke="#334155" stroke-width="1"/>
+      <text x="490" y="28" font-family="system-ui, -apple-system, sans-serif" font-weight="700" font-size="18" fill="#4ADE80" text-anchor="middle">
+        64 Exam Profiles
+      </text>
+    </g>
+  </g>
+
+  <!-- Bottom Accent Stripe -->
+  <rect x="32" y="590" width="1136" height="8" rx="4" fill="#F59E0B" />
+</svg>

@@ -1,0 +1,394 @@
+{
+  "id": "alphabet_test",
+  "category": "verbal",
+  "name": "Alphabet Test",
+  "iconName": "abc",
+  "shortcutSummary": "Memorize EJOTY (E=5, J=10, O=15, T=20, Y=25) to instantly locate any letter's position. For opposite letters, sum is always 27 (A+Z=27, B+Y=27).",
+  "conceptExplanation": "Alphabet Test questions involve finding letter positions, forming meaningful words from jumbled letters, and letter arrangement puzzles. They frequently appear in SSC and Banking exams.",
+  "subtopics": [
+    {
+      "id": "alphabet_test_core",
+      "name": "Alphabet Test — Core Concepts",
+      "explanation": "Alphabet Test questions involve finding letter positions, forming meaningful words from jumbled letters, and letter arrangement puzzles. They frequently appear in SSC and Banking exams.",
+      "shortcuts": [
+        "EJOTY Method: E=5, J=10, O=15, T=20, Y=25 — anchor points for quick calculation",
+        "Opposite Letter Sum = 27: A(1)+Z(26)=27, B(2)+Y(25)=27, and so on",
+        "Left-Right Counting: From left = normal position. From right = 27 − position."
+      ],
+      "examples": [
+        {
+          "questionText": "Sample easy question for Alphabet Test: Identify the basic concept being tested.",
+          "difficulty": "easy",
+          "solutionSteps": "Step 1: Read the question carefully.\nStep 2: Apply the fundamental concept of Alphabet Test.\nStep 3: Verify your answer.",
+          "shortcutApplied": "Basic Concept Application"
+        },
+        {
+          "questionText": "Sample medium question for Alphabet Test: Apply the standard shortcut method.",
+          "difficulty": "medium",
+          "solutionSteps": "Step 1: Identify what is being asked.\nStep 2: Apply the shortcut technique.\nStep 3: Cross-verify with the options.",
+          "shortcutApplied": "Standard Shortcut Method"
+        },
+        {
+          "questionText": "Sample medium-hard question for Alphabet Test: Multi-step problem requiring careful analysis.",
+          "difficulty": "medium",
+          "solutionSteps": "Step 1: Break the problem into parts.\nStep 2: Solve each part systematically.\nStep 3: Combine the results.\nStep 4: Verify.",
+          "shortcutApplied": "Systematic Analysis"
+        },
+        {
+          "questionText": "Sample hard question for Alphabet Test: Complex scenario with multiple conditions.",
+          "difficulty": "hard",
+          "solutionSteps": "Step 1: List all given conditions.\nStep 2: Apply elimination method.\nStep 3: Use the shortcut to narrow down.\nStep 4: Verify against all conditions.",
+          "shortcutApplied": "Elimination + Verification"
+        },
+        {
+          "questionText": "Sample advanced question for Alphabet Test: Tricky variation requiring deep understanding.",
+          "difficulty": "hard",
+          "solutionSteps": "Step 1: Identify the twist in the question.\nStep 2: Apply the advanced technique.\nStep 3: Double-check your reasoning.",
+          "shortcutApplied": "Advanced Technique"
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "questionText": "Alphabet Test Practice Q1: Apply the concepts learned to solve this easy level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 1,
+          "difficulty": "easy",
+          "solutionSteps": "Apply the standard method for Alphabet Test. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Alphabet Test Practice Q2: Apply the concepts learned to solve this easy level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 2,
+          "difficulty": "easy",
+          "solutionSteps": "Apply the standard method for Alphabet Test. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Alphabet Test Practice Q3: Apply the concepts learned to solve this easy level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 3,
+          "difficulty": "easy",
+          "solutionSteps": "Apply the standard method for Alphabet Test. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Alphabet Test Practice Q4: Apply the concepts learned to solve this easy level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "solutionSteps": "Apply the standard method for Alphabet Test. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Alphabet Test Practice Q5: Apply the concepts learned to solve this easy level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 1,
+          "difficulty": "easy",
+          "solutionSteps": "Apply the standard method for Alphabet Test. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Alphabet Test Practice Q6: Apply the concepts learned to solve this easy level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 2,
+          "difficulty": "easy",
+          "solutionSteps": "Apply the standard method for Alphabet Test. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Alphabet Test Practice Q7: Apply the concepts learned to solve this easy level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 3,
+          "difficulty": "easy",
+          "solutionSteps": "Apply the standard method for Alphabet Test. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Alphabet Test Practice Q8: Apply the concepts learned to solve this medium level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "solutionSteps": "Apply the standard method for Alphabet Test. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Alphabet Test Practice Q9: Apply the concepts learned to solve this medium level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 1,
+          "difficulty": "medium",
+          "solutionSteps": "Apply the standard method for Alphabet Test. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Alphabet Test Practice Q10: Apply the concepts learned to solve this medium level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "solutionSteps": "Apply the standard method for Alphabet Test. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Alphabet Test Practice Q11: Apply the concepts learned to solve this medium level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 3,
+          "difficulty": "medium",
+          "solutionSteps": "Apply the standard method for Alphabet Test. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Alphabet Test Practice Q12: Apply the concepts learned to solve this medium level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "solutionSteps": "Apply the standard method for Alphabet Test. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Alphabet Test Practice Q13: Apply the concepts learned to solve this medium level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 1,
+          "difficulty": "medium",
+          "solutionSteps": "Apply the standard method for Alphabet Test. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Alphabet Test Practice Q14: Apply the concepts learned to solve this medium level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "solutionSteps": "Apply the standard method for Alphabet Test. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Alphabet Test Practice Q15: Apply the concepts learned to solve this hard level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 3,
+          "difficulty": "hard",
+          "solutionSteps": "Apply the standard method for Alphabet Test. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Alphabet Test Practice Q16: Apply the concepts learned to solve this hard level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 0,
+          "difficulty": "hard",
+          "solutionSteps": "Apply the standard method for Alphabet Test. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Alphabet Test Practice Q17: Apply the concepts learned to solve this hard level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 1,
+          "difficulty": "hard",
+          "solutionSteps": "Apply the standard method for Alphabet Test. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Alphabet Test Practice Q18: Apply the concepts learned to solve this hard level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 2,
+          "difficulty": "hard",
+          "solutionSteps": "Apply the standard method for Alphabet Test. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Alphabet Test Practice Q19: Apply the concepts learned to solve this hard level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 3,
+          "difficulty": "hard",
+          "solutionSteps": "Apply the standard method for Alphabet Test. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Alphabet Test Practice Q20: Apply the concepts learned to solve this hard level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 0,
+          "difficulty": "hard",
+          "solutionSteps": "Apply the standard method for Alphabet Test. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        }
+      ]
+    }
+  ]
+}

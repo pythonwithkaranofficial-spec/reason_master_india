@@ -1,0 +1,445 @@
+{
+  "id": "analogy",
+  "category": "verbal",
+  "name": "Analogy",
+  "iconName": "compare_arrows",
+  "shortcutSummary": "Identify the relationship in the given pair first (e.g., synonym, antonym, part-whole, cause-effect, tool-worker), then find the pair that mirrors that exact relationship. Never jump to options without naming the relationship type.",
+  "conceptExplanation": "Analogy means 'a similarity or comparison between two things.' In reasoning, you are given a pair of words/numbers/letters that share a specific relationship, and you must identify another pair that shares the same relationship.\n\nAnalogy questions appear in almost every competitive exam — SSC, Banking, Railways, and Defence. They test your ability to recognize patterns and relationships quickly.\n\nTypes of Analogies:\n1. Word-based: Relationships between words (synonym, antonym, part-whole, category-member, worker-tool, etc.)\n2. Number-based: Mathematical relationships between numbers (square, cube, double, percentage, etc.)\n3. Alphabet-based: Positional relationships between letters (opposite letters, position gaps, etc.)\n4. Mixed: Combinations of word + number or letter + number patterns.",
+  "subtopics": [
+    {
+      "id": "word_analogy",
+      "name": "Word-based Analogy",
+      "explanation": "In word-based analogy, two words share a specific semantic relationship. Common relationships include: Synonym (Happy : Joyful), Antonym (Hot : Cold), Part-Whole (Wheel : Car), Worker-Tool (Carpenter : Hammer), Product-Source (Milk : Cow), Male-Female (Bull : Cow), Young-Adult (Kitten : Cat), Place-Famous For (Agra : Taj Mahal), and Cause-Effect (Fire : Smoke).",
+      "shortcuts": [
+        "Name-the-Relationship First: Before looking at options, state the relationship in one phrase — e.g., 'tool used by a worker.' Then check which option matches that exact phrase.",
+        "Order Matters: A:B :: C:D means A relates to B in the same way C relates to D. Don't reverse the order.",
+        "Eliminate by Category: If the given pair is a Part-Whole relationship, eliminate any option that shows a synonym or antonym relationship."
+      ],
+      "examples": [
+        {
+          "questionText": "Doctor : Stethoscope :: Carpenter : ?",
+          "difficulty": "easy",
+          "solutionSteps": "Step 1: Identify the relationship — a Doctor uses a Stethoscope as their primary tool.\nStep 2: Apply the same relationship — a Carpenter uses a Hammer as their primary tool.\nAnswer: Hammer",
+          "shortcutApplied": "Name-the-Relationship First"
+        },
+        {
+          "questionText": "Pen : Writer :: Needle : ?",
+          "difficulty": "easy",
+          "solutionSteps": "Step 1: Relationship — a Pen is a tool used by a Writer.\nStep 2: A Needle is a tool used by a Tailor.\nAnswer: Tailor",
+          "shortcutApplied": "Name-the-Relationship First"
+        },
+        {
+          "questionText": "Mango : Fruit :: Carrot : ?",
+          "difficulty": "medium",
+          "solutionSteps": "Step 1: Mango is a type of Fruit (member : category).\nStep 2: Carrot is a type of Vegetable.\nAnswer: Vegetable",
+          "shortcutApplied": "Eliminate by Category"
+        },
+        {
+          "questionText": "Marathon : Race :: Hibernation : ?",
+          "difficulty": "medium",
+          "solutionSteps": "Step 1: Marathon is a type of Race.\nStep 2: Hibernation is a type of Sleep.\nAnswer: Sleep",
+          "shortcutApplied": "Name-the-Relationship First"
+        },
+        {
+          "questionText": "Archipelago : Islands :: Constellation : ?",
+          "difficulty": "hard",
+          "solutionSteps": "Step 1: An Archipelago is a group of Islands.\nStep 2: A Constellation is a group of Stars.\nAnswer: Stars",
+          "shortcutApplied": "Name-the-Relationship First"
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "questionText": "Bird : Wing :: Fish : ?",
+          "options": [
+            "Water",
+            "Fin",
+            "Scale",
+            "Gill"
+          ],
+          "correctIndex": 1,
+          "difficulty": "easy",
+          "solutionSteps": "A Bird uses its Wing to move. A Fish uses its Fin to move. Answer: Fin.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Cow : Calf :: Horse : ?",
+          "options": [
+            "Pony",
+            "Colt",
+            "Lamb",
+            "Cub"
+          ],
+          "correctIndex": 1,
+          "difficulty": "easy",
+          "solutionSteps": "Calf is the young one of a Cow. Colt is the young one of a Horse. Answer: Colt.",
+          "examTags": [
+            "SSC MTS",
+            "RRB Group D"
+          ]
+        },
+        {
+          "questionText": "Cobbler : Leather :: Tailor : ?",
+          "options": [
+            "Needle",
+            "Cloth",
+            "Thread",
+            "Shirt"
+          ],
+          "correctIndex": 1,
+          "difficulty": "easy",
+          "solutionSteps": "A Cobbler works with Leather as raw material. A Tailor works with Cloth as raw material. Answer: Cloth.",
+          "examTags": [
+            "SSC CGL",
+            "IBPS Clerk"
+          ]
+        },
+        {
+          "questionText": "Thermometer : Temperature :: Barometer : ?",
+          "options": [
+            "Rain",
+            "Pressure",
+            "Humidity",
+            "Wind"
+          ],
+          "correctIndex": 1,
+          "difficulty": "easy",
+          "solutionSteps": "A Thermometer measures Temperature. A Barometer measures (atmospheric) Pressure. Answer: Pressure.",
+          "examTags": [
+            "SSC CGL",
+            "RRB NTPC",
+            "IBPS PO"
+          ]
+        },
+        {
+          "questionText": "Kangaroo : Australia :: Kiwi : ?",
+          "options": [
+            "India",
+            "New Zealand",
+            "Indonesia",
+            "Japan"
+          ],
+          "correctIndex": 1,
+          "difficulty": "easy",
+          "solutionSteps": "Kangaroo is the national/iconic animal of Australia. Kiwi is the national bird of New Zealand. Answer: New Zealand.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Ophthalmologist : Eyes :: Dermatologist : ?",
+          "options": [
+            "Heart",
+            "Brain",
+            "Skin",
+            "Bones"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "solutionSteps": "An Ophthalmologist treats Eyes. A Dermatologist treats Skin. Answer: Skin.",
+          "examTags": [
+            "SSC CGL",
+            "IBPS PO",
+            "SBI PO"
+          ]
+        },
+        {
+          "questionText": "Bees : Swarm :: Fish : ?",
+          "options": [
+            "Flock",
+            "Herd",
+            "Shoal",
+            "Pack"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "solutionSteps": "A group of Bees is called a Swarm. A group of Fish is called a Shoal. Answer: Shoal.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS Clerk"
+          ]
+        },
+        {
+          "questionText": "Elated : Despondent :: Luminous : ?",
+          "options": [
+            "Bright",
+            "Dim",
+            "Radiant",
+            "Shiny"
+          ],
+          "correctIndex": 1,
+          "difficulty": "medium",
+          "solutionSteps": "Elated (very happy) is the antonym of Despondent (very sad). Luminous (bright) is the antonym of Dim. Answer: Dim.",
+          "examTags": [
+            "SSC CGL",
+            "SBI PO",
+            "IBPS PO"
+          ]
+        },
+        {
+          "questionText": "Symphony : Music :: Epic : ?",
+          "options": [
+            "Poetry",
+            "Drama",
+            "Literature",
+            "Song"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "solutionSteps": "A Symphony is a form of Music. An Epic is a form of Literature. Answer: Literature.",
+          "examTags": [
+            "SSC CGL",
+            "IBPS PO"
+          ]
+        },
+        {
+          "questionText": "Acrophobia : Heights :: Claustrophobia : ?",
+          "options": [
+            "Water",
+            "Fire",
+            "Enclosed Spaces",
+            "Darkness"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "solutionSteps": "Acrophobia is fear of Heights. Claustrophobia is fear of Enclosed Spaces. Answer: Enclosed Spaces.",
+          "examTags": [
+            "SSC CGL",
+            "SBI PO",
+            "RRB NTPC"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "number_analogy",
+      "name": "Number-based Analogy",
+      "explanation": "In number-based analogy, a pair of numbers shares a mathematical relationship such as squaring, cubing, doubling, addition of digits, prime relationships, etc. You must identify the rule and apply it to find the answer.",
+      "shortcuts": [
+        "Check Squares and Cubes First: Most number analogies use n² or n³ relationships — e.g., 4:16 means 4² = 16.",
+        "Digit Sum Trick: If squares/cubes don't work, check if the relationship is based on sum of digits, product of digits, or reversal.",
+        "Look for ±1 Patterns: Many tricky analogies use n²+1, n²-1, n³+1, etc."
+      ],
+      "examples": [
+        {
+          "questionText": "8 : 64 :: 11 : ?",
+          "difficulty": "easy",
+          "solutionSteps": "Step 1: 8² = 64.\nStep 2: 11² = 121.\nAnswer: 121",
+          "shortcutApplied": "Check Squares and Cubes First"
+        },
+        {
+          "questionText": "5 : 126 :: 7 : ?",
+          "difficulty": "medium",
+          "solutionSteps": "Step 1: 5³ = 125, 125 + 1 = 126.\nStep 2: 7³ = 343, 343 + 1 = 344.\nAnswer: 344",
+          "shortcutApplied": "Look for ±1 Patterns"
+        },
+        {
+          "questionText": "6 : 222 :: 8 : ?",
+          "difficulty": "hard",
+          "solutionSteps": "Step 1: 6³ = 216, 216 + 6 = 222. So the pattern is n³ + n.\nStep 2: 8³ = 512, 512 + 8 = 520.\nAnswer: 520",
+          "shortcutApplied": "Look for ±1 Patterns"
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "questionText": "9 : 81 :: 12 : ?",
+          "options": [
+            "124",
+            "132",
+            "144",
+            "156"
+          ],
+          "correctIndex": 2,
+          "difficulty": "easy",
+          "solutionSteps": "9² = 81. So 12² = 144. Answer: 144.",
+          "examTags": [
+            "SSC CGL",
+            "RRB NTPC",
+            "SSC CHSL"
+          ]
+        },
+        {
+          "questionText": "3 : 28 :: 5 : ?",
+          "options": [
+            "124",
+            "126",
+            "130",
+            "125"
+          ],
+          "correctIndex": 1,
+          "difficulty": "medium",
+          "solutionSteps": "3³ = 27, 27 + 1 = 28. So 5³ = 125, 125 + 1 = 126. Answer: 126.",
+          "examTags": [
+            "SSC CGL",
+            "IBPS PO"
+          ]
+        },
+        {
+          "questionText": "7 : 56 :: 9 : ?",
+          "options": [
+            "81",
+            "90",
+            "72",
+            "99"
+          ],
+          "correctIndex": 1,
+          "difficulty": "medium",
+          "solutionSteps": "7 × 8 = 56 (n × (n+1)). So 9 × 10 = 90. Answer: 90.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "4 : 65 :: 6 : ?",
+          "options": [
+            "215",
+            "216",
+            "217",
+            "218"
+          ],
+          "correctIndex": 2,
+          "difficulty": "hard",
+          "solutionSteps": "4³ = 64, 64 + 1 = 65. So 6³ = 216, 216 + 1 = 217. Answer: 217.",
+          "examTags": [
+            "SSC CGL",
+            "IBPS PO",
+            "SBI PO"
+          ]
+        },
+        {
+          "questionText": "2 : 10 :: 4 : ?",
+          "options": [
+            "48",
+            "52",
+            "64",
+            "68"
+          ],
+          "correctIndex": 3,
+          "difficulty": "hard",
+          "solutionSteps": "2³ + 2 = 8 + 2 = 10. So 4³ + 4 = 64 + 4 = 68. Answer: 68.",
+          "examTags": [
+            "SSC CGL",
+            "IBPS PO"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "alphabet_analogy",
+      "name": "Alphabet-based Analogy",
+      "explanation": "In alphabet-based analogy, letters relate to each other by their position in the English alphabet (A=1, B=2, ... Z=26). Common relationships include opposite letters (A↔Z, B↔Y), position gaps, and reverse patterns.",
+      "shortcuts": [
+        "Opposite Letter Rule: A↔Z, B↔Y, C↔X... Two opposite letters always sum to 27. Memorize: ATBYCX pattern.",
+        "Position Gap Method: Find the gap between letter positions in the first pair, apply the same gap to the second pair.",
+        "EJOTY Memorization: E=5, J=10, O=15, T=20, Y=25 — these anchor points help you quickly calculate any letter's position."
+      ],
+      "examples": [
+        {
+          "questionText": "AZ : BY :: CX : ?",
+          "difficulty": "easy",
+          "solutionSteps": "Step 1: A(1)→B(2) = +1, Z(26)→Y(25) = -1. Pattern: first letter moves forward, second moves backward.\nStep 2: C(3)→D(4), X(24)→W(23).\nAnswer: DW",
+          "shortcutApplied": "Position Gap Method"
+        },
+        {
+          "questionText": "BCDE : WXYZ :: FGHI : ?",
+          "difficulty": "medium",
+          "solutionSteps": "Step 1: B=2, W=23. 2+23=25. C=3, X=24. 3+24=27. Actually: BCDE reversed positions → W=B's opposite is Y, but the pattern is: each letter maps to its opposite. B↔Y, C↔X, D↔W, E↔V → YXWV. Wait, let me recheck. B(2)→W(23), gap=21. C(3)→X(24), gap=21. So F(6)→F+21=27=AA? No. Let me reconsider: BCDE→WXYZ. B=2,W=23; C=3,X=24; D=4,Y=25; E=5,Z=26. Each pair sums to 25. So F=6→25-6=19=S; G=7→18=R; H=8→17=Q; I=9→16=P.\nAnswer: SRQP",
+          "shortcutApplied": "Opposite Letter Rule"
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "questionText": "B : Y :: D : ?",
+          "options": [
+            "W",
+            "V",
+            "U",
+            "X"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "solutionSteps": "B=2, Y=25. 2+25=27 (opposite letters). D=4, so opposite = 27-4 = 23 = W. Answer: W.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "ACE : FHJ :: KMO : ?",
+          "options": [
+            "PRT",
+            "QSU",
+            "PRU",
+            "PST"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "solutionSteps": "A→F = +5, C→H = +5, E→J = +5. So K+5=P, M+5=R, O+5=T. Answer: PRT.",
+          "examTags": [
+            "SSC CGL",
+            "IBPS PO",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "AZ : CX :: EV : ?",
+          "options": [
+            "GT",
+            "HU",
+            "FW",
+            "GU"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "solutionSteps": "A→C = +2, Z→X = -2. So E+2=G, V-2=T. Answer: GT.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL"
+          ]
+        },
+        {
+          "questionText": "SEND : VHQG :: BANK : ?",
+          "options": [
+            "EDQN",
+            "ECPN",
+            "EDPN",
+            "ECQN"
+          ],
+          "correctIndex": 0,
+          "difficulty": "hard",
+          "solutionSteps": "S+3=V, E+3=H, N+3=Q, D+3=G. Each letter +3. B+3=E, A+3=D, N+3=Q, K+3=N. Answer: EDQN.",
+          "examTags": [
+            "SSC CGL",
+            "IBPS PO",
+            "SBI PO"
+          ]
+        },
+        {
+          "questionText": "MN : OP :: QR : ?",
+          "options": [
+            "ST",
+            "TU",
+            "RS",
+            "UV"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "solutionSteps": "M→O = +2, N→P = +2. So Q+2=S, R+2=T. Answer: ST.",
+          "examTags": [
+            "SSC MTS",
+            "RRB Group D"
+          ]
+        }
+      ]
+    }
+  ]
+}

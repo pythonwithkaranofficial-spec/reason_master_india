@@ -1,0 +1,394 @@
+{
+  "id": "seating_circular",
+  "category": "verbal",
+  "name": "Seating Arrangement — Circular",
+  "iconName": "radio_button_checked",
+  "shortcutSummary": "In circular arrangements, draw a circle with equally spaced positions. Clockwise = Right, Anticlockwise = Left. 'Facing center' means everyone looks inward; 'facing outward' means everyone looks out.",
+  "conceptExplanation": "Circular and Rectangular seating arrangement questions involve people sitting around a circular table or rectangular table. You must determine positions based on who sits next to whom, who faces whom, and directional clues.",
+  "subtopics": [
+    {
+      "id": "seating_circular_core",
+      "name": "Seating Arrangement — Circular — Core Concepts",
+      "explanation": "Circular and Rectangular seating arrangement questions involve people sitting around a circular table or rectangular table. You must determine positions based on who sits next to whom, who faces whom, and directional clues.",
+      "shortcuts": [
+        "Center-Facing Convention: If facing center, the person to your immediate left is in the clockwise direction.",
+        "Outward-Facing Reversal: If facing outward, left and right swap compared to facing center.",
+        "Opposite Position: In a circle of n people, the person directly opposite is n/2 positions away."
+      ],
+      "examples": [
+        {
+          "questionText": "Sample easy question for Seating Arrangement — Circular: Identify the basic concept being tested.",
+          "difficulty": "easy",
+          "solutionSteps": "Step 1: Read the question carefully.\nStep 2: Apply the fundamental concept of Seating Arrangement — Circular.\nStep 3: Verify your answer.",
+          "shortcutApplied": "Basic Concept Application"
+        },
+        {
+          "questionText": "Sample medium question for Seating Arrangement — Circular: Apply the standard shortcut method.",
+          "difficulty": "medium",
+          "solutionSteps": "Step 1: Identify what is being asked.\nStep 2: Apply the shortcut technique.\nStep 3: Cross-verify with the options.",
+          "shortcutApplied": "Standard Shortcut Method"
+        },
+        {
+          "questionText": "Sample medium-hard question for Seating Arrangement — Circular: Multi-step problem requiring careful analysis.",
+          "difficulty": "medium",
+          "solutionSteps": "Step 1: Break the problem into parts.\nStep 2: Solve each part systematically.\nStep 3: Combine the results.\nStep 4: Verify.",
+          "shortcutApplied": "Systematic Analysis"
+        },
+        {
+          "questionText": "Sample hard question for Seating Arrangement — Circular: Complex scenario with multiple conditions.",
+          "difficulty": "hard",
+          "solutionSteps": "Step 1: List all given conditions.\nStep 2: Apply elimination method.\nStep 3: Use the shortcut to narrow down.\nStep 4: Verify against all conditions.",
+          "shortcutApplied": "Elimination + Verification"
+        },
+        {
+          "questionText": "Sample advanced question for Seating Arrangement — Circular: Tricky variation requiring deep understanding.",
+          "difficulty": "hard",
+          "solutionSteps": "Step 1: Identify the twist in the question.\nStep 2: Apply the advanced technique.\nStep 3: Double-check your reasoning.",
+          "shortcutApplied": "Advanced Technique"
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "questionText": "Seating Arrangement — Circular Practice Q1: Apply the concepts learned to solve this easy level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 1,
+          "difficulty": "easy",
+          "solutionSteps": "Apply the standard method for Seating Arrangement — Circular. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "IBPS PO",
+            "SBI PO",
+            "IBPS Clerk"
+          ]
+        },
+        {
+          "questionText": "Seating Arrangement — Circular Practice Q2: Apply the concepts learned to solve this easy level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 2,
+          "difficulty": "easy",
+          "solutionSteps": "Apply the standard method for Seating Arrangement — Circular. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "IBPS PO",
+            "SBI PO",
+            "IBPS Clerk"
+          ]
+        },
+        {
+          "questionText": "Seating Arrangement — Circular Practice Q3: Apply the concepts learned to solve this easy level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 3,
+          "difficulty": "easy",
+          "solutionSteps": "Apply the standard method for Seating Arrangement — Circular. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "IBPS PO",
+            "SBI PO",
+            "IBPS Clerk"
+          ]
+        },
+        {
+          "questionText": "Seating Arrangement — Circular Practice Q4: Apply the concepts learned to solve this easy level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "solutionSteps": "Apply the standard method for Seating Arrangement — Circular. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "IBPS PO",
+            "SBI PO",
+            "IBPS Clerk"
+          ]
+        },
+        {
+          "questionText": "Seating Arrangement — Circular Practice Q5: Apply the concepts learned to solve this easy level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 1,
+          "difficulty": "easy",
+          "solutionSteps": "Apply the standard method for Seating Arrangement — Circular. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "IBPS PO",
+            "SBI PO",
+            "IBPS Clerk"
+          ]
+        },
+        {
+          "questionText": "Seating Arrangement — Circular Practice Q6: Apply the concepts learned to solve this easy level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 2,
+          "difficulty": "easy",
+          "solutionSteps": "Apply the standard method for Seating Arrangement — Circular. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "IBPS PO",
+            "SBI PO",
+            "IBPS Clerk"
+          ]
+        },
+        {
+          "questionText": "Seating Arrangement — Circular Practice Q7: Apply the concepts learned to solve this easy level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 3,
+          "difficulty": "easy",
+          "solutionSteps": "Apply the standard method for Seating Arrangement — Circular. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "IBPS PO",
+            "SBI PO",
+            "IBPS Clerk"
+          ]
+        },
+        {
+          "questionText": "Seating Arrangement — Circular Practice Q8: Apply the concepts learned to solve this medium level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "solutionSteps": "Apply the standard method for Seating Arrangement — Circular. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "IBPS PO",
+            "SBI PO",
+            "IBPS Clerk"
+          ]
+        },
+        {
+          "questionText": "Seating Arrangement — Circular Practice Q9: Apply the concepts learned to solve this medium level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 1,
+          "difficulty": "medium",
+          "solutionSteps": "Apply the standard method for Seating Arrangement — Circular. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "IBPS PO",
+            "SBI PO",
+            "IBPS Clerk"
+          ]
+        },
+        {
+          "questionText": "Seating Arrangement — Circular Practice Q10: Apply the concepts learned to solve this medium level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "solutionSteps": "Apply the standard method for Seating Arrangement — Circular. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "IBPS PO",
+            "SBI PO",
+            "IBPS Clerk"
+          ]
+        },
+        {
+          "questionText": "Seating Arrangement — Circular Practice Q11: Apply the concepts learned to solve this medium level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 3,
+          "difficulty": "medium",
+          "solutionSteps": "Apply the standard method for Seating Arrangement — Circular. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "IBPS PO",
+            "SBI PO",
+            "IBPS Clerk"
+          ]
+        },
+        {
+          "questionText": "Seating Arrangement — Circular Practice Q12: Apply the concepts learned to solve this medium level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "solutionSteps": "Apply the standard method for Seating Arrangement — Circular. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "IBPS PO",
+            "SBI PO",
+            "IBPS Clerk"
+          ]
+        },
+        {
+          "questionText": "Seating Arrangement — Circular Practice Q13: Apply the concepts learned to solve this medium level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 1,
+          "difficulty": "medium",
+          "solutionSteps": "Apply the standard method for Seating Arrangement — Circular. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "IBPS PO",
+            "SBI PO",
+            "IBPS Clerk"
+          ]
+        },
+        {
+          "questionText": "Seating Arrangement — Circular Practice Q14: Apply the concepts learned to solve this medium level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "solutionSteps": "Apply the standard method for Seating Arrangement — Circular. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "IBPS PO",
+            "SBI PO",
+            "IBPS Clerk"
+          ]
+        },
+        {
+          "questionText": "Seating Arrangement — Circular Practice Q15: Apply the concepts learned to solve this hard level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 3,
+          "difficulty": "hard",
+          "solutionSteps": "Apply the standard method for Seating Arrangement — Circular. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "IBPS PO",
+            "SBI PO",
+            "IBPS Clerk"
+          ]
+        },
+        {
+          "questionText": "Seating Arrangement — Circular Practice Q16: Apply the concepts learned to solve this hard level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 0,
+          "difficulty": "hard",
+          "solutionSteps": "Apply the standard method for Seating Arrangement — Circular. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "IBPS PO",
+            "SBI PO",
+            "IBPS Clerk"
+          ]
+        },
+        {
+          "questionText": "Seating Arrangement — Circular Practice Q17: Apply the concepts learned to solve this hard level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 1,
+          "difficulty": "hard",
+          "solutionSteps": "Apply the standard method for Seating Arrangement — Circular. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "IBPS PO",
+            "SBI PO",
+            "IBPS Clerk"
+          ]
+        },
+        {
+          "questionText": "Seating Arrangement — Circular Practice Q18: Apply the concepts learned to solve this hard level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 2,
+          "difficulty": "hard",
+          "solutionSteps": "Apply the standard method for Seating Arrangement — Circular. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "IBPS PO",
+            "SBI PO",
+            "IBPS Clerk"
+          ]
+        },
+        {
+          "questionText": "Seating Arrangement — Circular Practice Q19: Apply the concepts learned to solve this hard level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 3,
+          "difficulty": "hard",
+          "solutionSteps": "Apply the standard method for Seating Arrangement — Circular. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "IBPS PO",
+            "SBI PO",
+            "IBPS Clerk"
+          ]
+        },
+        {
+          "questionText": "Seating Arrangement — Circular Practice Q20: Apply the concepts learned to solve this hard level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 0,
+          "difficulty": "hard",
+          "solutionSteps": "Apply the standard method for Seating Arrangement — Circular. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "IBPS PO",
+            "SBI PO",
+            "IBPS Clerk"
+          ]
+        }
+      ]
+    }
+  ]
+}

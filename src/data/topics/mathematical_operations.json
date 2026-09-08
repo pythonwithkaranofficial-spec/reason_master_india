@@ -1,0 +1,394 @@
+{
+  "id": "mathematical_operations",
+  "category": "nonverbal",
+  "name": "Mathematical Operations",
+  "iconName": "calculate",
+  "shortcutSummary": "Replace the substituted symbols with their original mathematical operators, then solve the expression following BODMAS order. Double-check by verifying the equation balances.",
+  "conceptExplanation": "Mathematical Operations (Symbol Substitution) questions replace standard math operators (+, −, ×, ÷) with symbols or interchange them. You must substitute back and solve.\n\nExample: If + means ×, − means ÷, × means +, ÷ means −, then find: 8 + 6 − 3 × 4 ÷ 2 = ?",
+  "subtopics": [
+    {
+      "id": "mathematical_operations_core",
+      "name": "Mathematical Operations — Core Concepts",
+      "explanation": "Mathematical Operations (Symbol Substitution) questions replace standard math operators (+, −, ×, ÷) with symbols or interchange them. You must substitute back and solve.\n\nExample: If + means ×, − means ÷, × means +, ÷ means −, then find: 8 + 6 − 3 × 4 ÷ 2 = ?",
+      "shortcuts": [
+        "Substitute First: Write out the expression with real operators before calculating.",
+        "BODMAS After Substitution: Apply BODMAS to the substituted expression, not the original.",
+        "Verify with Options: Plug in the answer to verify the equation works."
+      ],
+      "examples": [
+        {
+          "questionText": "Sample easy question for Mathematical Operations: Identify the basic concept being tested.",
+          "difficulty": "easy",
+          "solutionSteps": "Step 1: Read the question carefully.\nStep 2: Apply the fundamental concept of Mathematical Operations.\nStep 3: Verify your answer.",
+          "shortcutApplied": "Basic Concept Application"
+        },
+        {
+          "questionText": "Sample medium question for Mathematical Operations: Apply the standard shortcut method.",
+          "difficulty": "medium",
+          "solutionSteps": "Step 1: Identify what is being asked.\nStep 2: Apply the shortcut technique.\nStep 3: Cross-verify with the options.",
+          "shortcutApplied": "Standard Shortcut Method"
+        },
+        {
+          "questionText": "Sample medium-hard question for Mathematical Operations: Multi-step problem requiring careful analysis.",
+          "difficulty": "medium",
+          "solutionSteps": "Step 1: Break the problem into parts.\nStep 2: Solve each part systematically.\nStep 3: Combine the results.\nStep 4: Verify.",
+          "shortcutApplied": "Systematic Analysis"
+        },
+        {
+          "questionText": "Sample hard question for Mathematical Operations: Complex scenario with multiple conditions.",
+          "difficulty": "hard",
+          "solutionSteps": "Step 1: List all given conditions.\nStep 2: Apply elimination method.\nStep 3: Use the shortcut to narrow down.\nStep 4: Verify against all conditions.",
+          "shortcutApplied": "Elimination + Verification"
+        },
+        {
+          "questionText": "Sample advanced question for Mathematical Operations: Tricky variation requiring deep understanding.",
+          "difficulty": "hard",
+          "solutionSteps": "Step 1: Identify the twist in the question.\nStep 2: Apply the advanced technique.\nStep 3: Double-check your reasoning.",
+          "shortcutApplied": "Advanced Technique"
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "questionText": "Mathematical Operations Practice Q1: Apply the concepts learned to solve this easy level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 1,
+          "difficulty": "easy",
+          "solutionSteps": "Apply the standard method for Mathematical Operations. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Mathematical Operations Practice Q2: Apply the concepts learned to solve this easy level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 2,
+          "difficulty": "easy",
+          "solutionSteps": "Apply the standard method for Mathematical Operations. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Mathematical Operations Practice Q3: Apply the concepts learned to solve this easy level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 3,
+          "difficulty": "easy",
+          "solutionSteps": "Apply the standard method for Mathematical Operations. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Mathematical Operations Practice Q4: Apply the concepts learned to solve this easy level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "solutionSteps": "Apply the standard method for Mathematical Operations. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Mathematical Operations Practice Q5: Apply the concepts learned to solve this easy level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 1,
+          "difficulty": "easy",
+          "solutionSteps": "Apply the standard method for Mathematical Operations. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Mathematical Operations Practice Q6: Apply the concepts learned to solve this easy level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 2,
+          "difficulty": "easy",
+          "solutionSteps": "Apply the standard method for Mathematical Operations. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Mathematical Operations Practice Q7: Apply the concepts learned to solve this easy level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 3,
+          "difficulty": "easy",
+          "solutionSteps": "Apply the standard method for Mathematical Operations. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Mathematical Operations Practice Q8: Apply the concepts learned to solve this medium level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "solutionSteps": "Apply the standard method for Mathematical Operations. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Mathematical Operations Practice Q9: Apply the concepts learned to solve this medium level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 1,
+          "difficulty": "medium",
+          "solutionSteps": "Apply the standard method for Mathematical Operations. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Mathematical Operations Practice Q10: Apply the concepts learned to solve this medium level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "solutionSteps": "Apply the standard method for Mathematical Operations. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Mathematical Operations Practice Q11: Apply the concepts learned to solve this medium level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 3,
+          "difficulty": "medium",
+          "solutionSteps": "Apply the standard method for Mathematical Operations. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Mathematical Operations Practice Q12: Apply the concepts learned to solve this medium level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "solutionSteps": "Apply the standard method for Mathematical Operations. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Mathematical Operations Practice Q13: Apply the concepts learned to solve this medium level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 1,
+          "difficulty": "medium",
+          "solutionSteps": "Apply the standard method for Mathematical Operations. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Mathematical Operations Practice Q14: Apply the concepts learned to solve this medium level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "solutionSteps": "Apply the standard method for Mathematical Operations. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Mathematical Operations Practice Q15: Apply the concepts learned to solve this hard level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 3,
+          "difficulty": "hard",
+          "solutionSteps": "Apply the standard method for Mathematical Operations. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Mathematical Operations Practice Q16: Apply the concepts learned to solve this hard level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 0,
+          "difficulty": "hard",
+          "solutionSteps": "Apply the standard method for Mathematical Operations. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Mathematical Operations Practice Q17: Apply the concepts learned to solve this hard level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 1,
+          "difficulty": "hard",
+          "solutionSteps": "Apply the standard method for Mathematical Operations. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Mathematical Operations Practice Q18: Apply the concepts learned to solve this hard level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 2,
+          "difficulty": "hard",
+          "solutionSteps": "Apply the standard method for Mathematical Operations. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Mathematical Operations Practice Q19: Apply the concepts learned to solve this hard level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 3,
+          "difficulty": "hard",
+          "solutionSteps": "Apply the standard method for Mathematical Operations. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Mathematical Operations Practice Q20: Apply the concepts learned to solve this hard level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 0,
+          "difficulty": "hard",
+          "solutionSteps": "Apply the standard method for Mathematical Operations. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        }
+      ]
+    }
+  ]
+}

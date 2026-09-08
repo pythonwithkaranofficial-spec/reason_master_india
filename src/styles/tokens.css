@@ -1,0 +1,223 @@
+/**
+ * ReasonMaster India - Design Token System
+ * Flat, solid-color palette with Zero Gradients & Zero 3D transforms.
+ * Light, Dark, and High-Contrast Accessibility Tokens.
+ */
+
+:root {
+  /* Core Academic Navy & Saffron Gold Brand Identity */
+  --color-primary: #1e40af;
+  --color-primary-hover: #1d4ed8;
+  --color-primary-active: #1e3a8a;
+  --color-primary-subtle: #eff6ff;
+  --color-primary-contrast: #ffffff;
+
+  --color-accent: #d97706;
+  --color-accent-hover: #b45309;
+  --color-accent-subtle: #fffbeb;
+  --color-accent-contrast: #ffffff;
+
+  /* Surfaces & Backgrounds */
+  --bg-page: #f8fafc;
+  --bg-surface: #ffffff;
+  --bg-surface-elevated: #ffffff;
+  --bg-surface-hover: #f1f5f9;
+  --bg-surface-active: #e2e8f0;
+  --bg-subtle: #f1f5f9;
+  --bg-inset: #e2e8f0;
+
+  /* Text & Content */
+  --text-primary: #0f172a;
+  --text-secondary: #475569;
+  --text-muted: #64748b;
+  --text-inverse: #ffffff;
+  --text-link: #1e40af;
+  --text-link-hover: #1d4ed8;
+
+  /* Borders & Dividers */
+  --border-color: #e2e8f0;
+  --border-subtle: #f1f5f9;
+  --border-strong: #cbd5e1;
+  --border-focus: #1e40af;
+
+  /* Semantic Feedback */
+  --color-success: #059669;
+  --color-success-bg: #ecfdf5;
+  --color-success-border: #a7f3d0;
+  --color-success-text: #065f46;
+
+  --color-warning: #d97706;
+  --color-warning-bg: #fffbeb;
+  --color-warning-border: #fde68a;
+  --color-warning-text: #92400e;
+
+  --color-error: #dc2626;
+  --color-error-bg: #fef2f2;
+  --color-error-border: #fecaca;
+  --color-error-text: #991b1b;
+
+  --color-info: #0284c7;
+  --color-info-bg: #f0f9ff;
+  --color-info-border: #bae6fd;
+  --color-info-text: #075985;
+
+  /* Difficulty Badges */
+  --diff-easy-bg: #ecfdf5;
+  --diff-easy-text: #065f46;
+  --diff-easy-border: #a7f3d0;
+
+  --diff-medium-bg: #fffbeb;
+  --diff-medium-text: #92400e;
+  --diff-medium-border: #fde68a;
+
+  --diff-hard-bg: #fef2f2;
+  --diff-hard-text: #991b1b;
+  --diff-hard-border: #fecaca;
+
+  /* Topic Group Color Accents (Solid Flat fills) */
+  --group-verbal-bg: #eff6ff;
+  --group-verbal-border: #bfdbfe;
+  --group-verbal-text: #1e40af;
+
+  --group-nonverbal-bg: #f5f3ff;
+  --group-nonverbal-border: #ddd6fe;
+  --group-nonverbal-text: #6d28d9;
+
+  --group-exam-bg: #f0fdf4;
+  --group-exam-border: #bbf7d0;
+  --group-exam-text: #166534;
+
+  /* Spacing */
+  --space-1: 0.25rem;  /* 4px */
+  --space-2: 0.5rem;   /* 8px */
+  --space-3: 0.75rem;  /* 12px */
+  --space-4: 1rem;     /* 16px */
+  --space-5: 1.25rem;  /* 20px */
+  --space-6: 1.5rem;   /* 24px */
+  --space-8: 2rem;     /* 32px */
+  --space-10: 2.5rem;  /* 40px */
+  --space-12: 3rem;    /* 48px */
+  --space-16: 4rem;    /* 64px */
+
+  /* Radius */
+  --radius-sm: 6px;
+  --radius-md: 10px;
+  --radius-lg: 14px;
+  --radius-xl: 20px;
+  --radius-full: 9999px;
+
+  /* Shadows (Subtle, non-3D, solid-compatible) */
+  --shadow-sm: 0 1px 2px 0 rgba(15, 23, 42, 0.05);
+  --shadow-md: 0 4px 6px -1px rgba(15, 23, 42, 0.07), 0 2px 4px -2px rgba(15, 23, 42, 0.05);
+  --shadow-lg: 0 10px 15px -3px rgba(15, 23, 42, 0.08), 0 4px 6px -4px rgba(15, 23, 42, 0.04);
+
+  /* Transitions */
+  --transition-fast: 150ms cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-normal: 200ms cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-slow: 300ms cubic-bezier(0.4, 0, 0.2, 1);
+
+  /* Layout */
+  --container-max-width: 1536px;
+  --navbar-max-width: 1680px;
+  --header-height: 68px;
+  --mobile-nav-height: 64px;
+
+  /* Centralized Navigation Tokens (Section 25A) */
+  --nav-height: 68px;
+  --nav-brand-gap: 0.75rem;
+  --nav-item-gap: 0.35rem;
+  --nav-item-padding-x: 0.75rem;
+  --nav-item-padding-y: 0.45rem;
+  --nav-icon-size: 18px;
+  --nav-icon-gap: 0.45rem;
+  --nav-utility-gap: 0.45rem;
+}
+
+/* Dark Theme Tokens */
+[data-theme="dark"] {
+  --color-primary: #3b82f6;
+  --color-primary-hover: #60a5fa;
+  --color-primary-active: #2563eb;
+  --color-primary-subtle: #1e293b;
+  --color-primary-contrast: #0f172a;
+
+  --color-accent: #f59e0b;
+  --color-accent-hover: #fbbf24;
+  --color-accent-subtle: #292524;
+  --color-accent-contrast: #0f172a;
+
+  /* Surfaces */
+  --bg-page: #0b1120;
+  --bg-surface: #131d33;
+  --bg-surface-elevated: #1a2744;
+  --bg-surface-hover: #213254;
+  --bg-surface-active: #2a3e66;
+  --bg-subtle: #17233d;
+  --bg-inset: #090e1a;
+
+  /* Text */
+  --text-primary: #f8fafc;
+  --text-secondary: #cbd5e1;
+  --text-muted: #94a3b8;
+  --text-inverse: #0f172a;
+  --text-link: #60a5fa;
+  --text-link-hover: #93c5fd;
+
+  /* Borders */
+  --border-color: #233354;
+  --border-subtle: #1a2744;
+  --border-strong: #334b79;
+  --border-focus: #60a5fa;
+
+  /* Semantic Feedback */
+  --color-success: #10b981;
+  --color-success-bg: #064e3b;
+  --color-success-border: #047857;
+  --color-success-text: #a7f3d0;
+
+  --color-warning: #f59e0b;
+  --color-warning-bg: #78350f;
+  --color-warning-border: #b45309;
+  --color-warning-text: #fde68a;
+
+  --color-error: #ef4444;
+  --color-error-bg: #7f1d1d;
+  --color-error-border: #b91c1c;
+  --color-error-text: #fecaca;
+
+  --color-info: #38bdf8;
+  --color-info-bg: #0c4a6e;
+  --color-info-border: #0284c7;
+  --color-info-text: #bae6fd;
+
+  /* Difficulty Badges */
+  --diff-easy-bg: #064e3b;
+  --diff-easy-text: #a7f3d0;
+  --diff-easy-border: #047857;
+
+  --diff-medium-bg: #78350f;
+  --diff-medium-text: #fde68a;
+  --diff-medium-border: #b45309;
+
+  --diff-hard-bg: #7f1d1d;
+  --diff-hard-text: #fecaca;
+  --diff-hard-border: #b91c1c;
+
+  /* Topic Group Color Accents */
+  --group-verbal-bg: #172554;
+  --group-verbal-border: #1e3a8a;
+  --group-verbal-text: #93c5fd;
+
+  --group-nonverbal-bg: #2e1065;
+  --group-nonverbal-border: #4c1d95;
+  --group-nonverbal-text: #c4b5fd;
+
+  --group-exam-bg: #064e3b;
+  --group-exam-border: #047857;
+  --group-exam-text: #a7f3d0;
+
+  /* Shadows for dark mode */
+  --shadow-sm: 0 1px 2px 0 rgba(0, 0, 0, 0.4);
+  --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.4), 0 2px 4px -2px rgba(0, 0, 0, 0.3);
+  --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.5), 0 4px 6px -4px rgba(0, 0, 0, 0.3);
+}

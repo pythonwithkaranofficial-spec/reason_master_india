@@ -1,0 +1,442 @@
+{
+  "id": "blood_relations",
+  "category": "verbal",
+  "name": "Blood Relations",
+  "iconName": "family_restroom",
+  "shortcutSummary": "Draw a family tree using symbols (+ for male, − for female, = for married, arrows for parent→child) as you read the statement, left to right. Never solve in your head beyond 2 relations.",
+  "conceptExplanation": "Blood Relation questions test your ability to determine how two people in a family are related. You are given a series of relationships and must deduce the final connection.\n\nThese appear heavily in Banking (IBPS, SBI), SSC, and Railways exams. The key skill is systematic diagram drawing rather than mental calculation.\n\nTypes: Direct relation (simple statements), Coded blood relation (symbols replace relationships), and Family tree puzzles (complex multi-person arrangements).",
+  "subtopics": [
+    {
+      "id": "direct_relation",
+      "name": "Direct Blood Relation",
+      "explanation": "Simple verbal statements describe relationships step by step. You must trace the chain to find the final relationship between two people.",
+      "shortcuts": [
+        "Symbol Tree Method — Assign + (male) and − (female) symbols and draw arrows while reading. Don't re-read the statement.",
+        "Same-Generation Shortcut — Siblings/cousins sit on the same horizontal line in your tree.",
+        "Reverse-Check Trick — After solving, restate the found relation in the reverse direction to verify."
+      ],
+      "examples": [
+        {
+          "questionText": "Pointing to a photograph, a man said, \"She is the daughter of my grandfather's only son.\" How is the woman related to the man?",
+          "difficulty": "easy",
+          "solutionSteps": "Step 1: Grandfather's only son = the man's father (since the grandfather has only one son, that must be the man's father).\nStep 2: Father's daughter = the man's sister.\nAnswer: Sister",
+          "shortcutApplied": "Symbol Tree Method"
+        },
+        {
+          "questionText": "A is B's sister. C is B's mother. D is C's father. E is D's mother. Then how is A related to D?",
+          "difficulty": "medium",
+          "solutionSteps": "Step 1: Draw tree: D → C (D is C's father, so C is D's child)\nStep 2: C → B (C is B's mother, so B is C's child)\nStep 3: A is B's sister, so A is also C's child, and thus D's grandchild.\nAnswer: A is D's granddaughter",
+          "shortcutApplied": "Symbol Tree Method + Same-Generation Shortcut"
+        },
+        {
+          "questionText": "Pointing to a man in a photograph, Asha said, \"His mother's only daughter is my mother.\" How is Asha related to that man?",
+          "difficulty": "medium",
+          "solutionSteps": "Step 1: The man's mother's only daughter = the man's mother's only female child. If the man's mother has only one daughter, that daughter could be the man's sister.\nStep 2: That daughter is Asha's mother.\nStep 3: So the man is Asha's mother's brother = Asha's uncle.\nStep 4: Therefore Asha is the man's niece.\nAnswer: Niece",
+          "shortcutApplied": "Symbol Tree Method"
+        },
+        {
+          "questionText": "P is the brother of Q. Q is the sister of R. R is the father of S. How is P related to S?",
+          "difficulty": "easy",
+          "solutionSteps": "Step 1: P and Q are siblings (P is Q's brother).\nStep 2: Q and R are siblings (Q is R's sister).\nStep 3: So P, Q, R are all siblings.\nStep 4: R is S's father. P is R's sibling.\nStep 5: Therefore P is S's uncle.\nAnswer: Uncle",
+          "shortcutApplied": "Same-Generation Shortcut"
+        },
+        {
+          "questionText": "A said to B, \"Your mother's husband's sister is my aunt.\" How is A related to B?",
+          "difficulty": "hard",
+          "solutionSteps": "Step 1: B's mother's husband = B's father.\nStep 2: B's father's sister = B's aunt (bua/paternal aunt).\nStep 3: This person is also A's aunt.\nStep 4: So A and B share the same paternal aunt, meaning they are siblings or cousins.\nAnswer: Sibling/Cousin (most likely sibling if same parents implied)",
+          "shortcutApplied": "Reverse-Check Trick"
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "questionText": "Pointing to a man, a woman said, \"He is the only son of my father.\" How is the man related to the woman?",
+          "options": [
+            "Father",
+            "Brother",
+            "Uncle",
+            "Cousin"
+          ],
+          "correctIndex": 1,
+          "difficulty": "easy",
+          "solutionSteps": "My father's only son = my brother. Answer: Brother.",
+          "examTags": [
+            "SSC CGL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "If A is the father of B, and B is the sister of C, how is A related to C?",
+          "options": [
+            "Uncle",
+            "Father",
+            "Brother",
+            "Grandfather"
+          ],
+          "correctIndex": 1,
+          "difficulty": "easy",
+          "solutionSteps": "B is C's sister → B and C have the same parents → A is father of both B and C. Answer: Father.",
+          "examTags": [
+            "SSC CGL",
+            "IBPS Clerk"
+          ]
+        },
+        {
+          "questionText": "Introducing a girl, Ramesh said, \"She is the only daughter of my father's wife.\" How is the girl related to Ramesh?",
+          "options": [
+            "Mother",
+            "Aunt",
+            "Sister",
+            "Daughter"
+          ],
+          "correctIndex": 2,
+          "difficulty": "easy",
+          "solutionSteps": "My father's wife = my mother. My mother's only daughter = my sister. Answer: Sister.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL"
+          ]
+        },
+        {
+          "questionText": "A is the son of B. C is A's sister. D is C's mother. E is B's father. How is E related to D?",
+          "options": [
+            "Father",
+            "Father-in-law",
+            "Husband",
+            "Brother"
+          ],
+          "correctIndex": 1,
+          "difficulty": "medium",
+          "solutionSteps": "A and C are siblings. B is their father, D is their mother. E is B's father. So E is D's father-in-law. Answer: Father-in-law.",
+          "examTags": [
+            "SSC CGL",
+            "IBPS PO"
+          ]
+        },
+        {
+          "questionText": "Pointing to a photograph, Ramesh said, \"He is the son of the only daughter of my mother.\" How is the person in the photo related to Ramesh?",
+          "options": [
+            "Nephew",
+            "Son",
+            "Brother",
+            "Uncle"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "solutionSteps": "My mother's only daughter = my sister. My sister's son = my nephew. Answer: Nephew.",
+          "examTags": [
+            "SSC CGL",
+            "RRB NTPC",
+            "IBPS Clerk"
+          ]
+        },
+        {
+          "questionText": "If \"P × Q\" means P is the mother of Q, \"P + Q\" means P is the father of Q, \"P − Q\" means P is the brother of Q. What does \"A + B − C\" mean?",
+          "options": [
+            "A is the uncle of C",
+            "A is the father of C",
+            "A is the brother of C",
+            "A is the grandfather of C"
+          ],
+          "correctIndex": 1,
+          "difficulty": "medium",
+          "solutionSteps": "A + B → A is father of B. B − C → B is brother of C. So A is father of B, and B is C's brother. Therefore A is also C's father. Answer: A is father of C.",
+          "examTags": [
+            "SSC CGL",
+            "IBPS PO",
+            "SBI PO"
+          ]
+        },
+        {
+          "questionText": "A man said, \"This girl is the wife of the grandson of my mother.\" How is the man related to the girl?",
+          "options": [
+            "Grandfather",
+            "Father-in-law",
+            "Husband",
+            "Father"
+          ],
+          "correctIndex": 1,
+          "difficulty": "medium",
+          "solutionSteps": "My mother's grandson = my son. This girl is my son's wife. I am her father-in-law. Answer: Father-in-law.",
+          "examTags": [
+            "SSC CGL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "If M is the brother of N, B is the daughter of M, and A is the son of N, how is B related to A?",
+          "options": [
+            "Sister",
+            "Cousin",
+            "Aunt",
+            "Niece"
+          ],
+          "correctIndex": 1,
+          "difficulty": "easy",
+          "solutionSteps": "M and N are brothers. B is M's daughter. A is N's son. B and A are children of two brothers → they are cousins. Answer: Cousin.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Pointing to a lady, a man said, \"Her brother's father is the only son of my grandfather.\" How is the lady related to the man?",
+          "options": [
+            "Mother",
+            "Sister",
+            "Aunt",
+            "Daughter"
+          ],
+          "correctIndex": 1,
+          "difficulty": "hard",
+          "solutionSteps": "My grandfather's only son = my father. The lady's brother's father = my father. So the lady's father = my father. The lady is my sister. Answer: Sister.",
+          "examTags": [
+            "SSC CGL",
+            "IBPS PO",
+            "SBI PO"
+          ]
+        },
+        {
+          "questionText": "A and B are married. C is A's mother. D is C's father. E is D's mother. How is A related to E?",
+          "options": [
+            "Grandson",
+            "Great-grandson",
+            "Son",
+            "Great-great-grandson"
+          ],
+          "correctIndex": 1,
+          "difficulty": "hard",
+          "solutionSteps": "E → D (E is D's mother) → C (D is C's father) → A (C is A's mother). E → D → C → A. A is E's great-grandson. Answer: Great-grandson.",
+          "examTags": [
+            "SSC CGL",
+            "IBPS PO"
+          ]
+        },
+        {
+          "questionText": "X is Y's brother. Y is Z's father. W is Z's brother. How is X related to W?",
+          "options": [
+            "Father",
+            "Uncle",
+            "Brother",
+            "Grandfather"
+          ],
+          "correctIndex": 1,
+          "difficulty": "easy",
+          "solutionSteps": "Y is Z's father. W is Z's brother → Y is W's father too. X is Y's brother. So X is W's uncle. Answer: Uncle.",
+          "examTags": [
+            "SSC CGL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Rita said, \"Mohan's mother is the only daughter of my mother.\" How is Rita related to Mohan?",
+          "options": [
+            "Grandmother",
+            "Mother",
+            "Aunt",
+            "Sister"
+          ],
+          "correctIndex": 1,
+          "difficulty": "medium",
+          "solutionSteps": "My mother's only daughter = Rita herself. So Rita is Mohan's mother. Answer: Mother.",
+          "examTags": [
+            "SSC CGL",
+            "IBPS Clerk",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Pointing to a man in a photograph, a woman says, \"His mother's only daughter is my mother.\" How is the woman related to the man?",
+          "options": [
+            "Niece",
+            "Cousin",
+            "Sister",
+            "Daughter"
+          ],
+          "correctIndex": 0,
+          "difficulty": "hard",
+          "solutionSteps": "The man's mother's only daughter = man's sister. The woman says \"she is my mother.\" So the man's sister is the woman's mother. Therefore the man is the woman's maternal uncle. The woman is the man's niece. Answer: Niece.",
+          "examTags": [
+            "SSC CGL",
+            "IBPS PO",
+            "SBI PO"
+          ]
+        },
+        {
+          "questionText": "If A+B means A is the son of B, A-B means A is the wife of B, what does P+Q-R mean?",
+          "options": [
+            "P is the son of R's wife",
+            "P is the daughter-in-law of Q",
+            "P is Q's son and R's wife",
+            "P is R's son"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "solutionSteps": "P+Q → P is son of Q. Q-R → Q is wife of R. So P is the son of Q, and Q is R's wife. Therefore P is R's son as well. Best description: P is Q's son and R's wife... Wait, re-read: P+Q-R. P+Q = P is son of Q. Then (P is son of Q) - R. Hmm, this should chain: P+Q means P is son of Q. Q-R means Q is wife of R. So P is son of Q who is wife of R. P is R and Q's son. Answer: P is Q's son (and also R's son since Q is R's wife).",
+          "examTags": [
+            "IBPS PO",
+            "SBI PO"
+          ]
+        },
+        {
+          "questionText": "A is the father of C and D is the son of B. E is the brother of A. C is the sister of D. How is B related to E?",
+          "options": [
+            "Daughter",
+            "Sister-in-law",
+            "Husband",
+            "Wife"
+          ],
+          "correctIndex": 1,
+          "difficulty": "hard",
+          "solutionSteps": "A is father of C. C is sister of D → A is also father of D. D is son of B → B is D's mother (since A is D's father, B must be A's wife). E is brother of A. So B is E's sister-in-law (wife of E's brother). Answer: Sister-in-law.",
+          "examTags": [
+            "SSC CGL",
+            "IBPS PO"
+          ]
+        },
+        {
+          "questionText": "Introducing a boy, a girl said, \"He is the son of my mother's only child.\" How is the boy related to the girl?",
+          "options": [
+            "Son",
+            "Brother",
+            "Cousin",
+            "Nephew"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "solutionSteps": "My mother's only child = myself. So he is my son. Answer: Son.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL"
+          ]
+        },
+        {
+          "questionText": "Q is the brother of R. P is the sister of Q. T is the brother of S. S is the daughter of R. How is T related to P?",
+          "options": [
+            "Father",
+            "Nephew",
+            "Uncle",
+            "Grandfather"
+          ],
+          "correctIndex": 1,
+          "difficulty": "hard",
+          "solutionSteps": "Q and R are siblings. P is Q's (and R's) sister. S is R's daughter. T is S's brother → T is also R's child. So T is R's son/child, and P is R's sister. T is P's nephew. Answer: Nephew.",
+          "examTags": [
+            "SSC CGL",
+            "IBPS PO",
+            "SBI PO"
+          ]
+        },
+        {
+          "questionText": "A woman introduces a man as \"the son of my mother's brother.\" How is the man related to the woman?",
+          "options": [
+            "Nephew",
+            "Son",
+            "Cousin",
+            "Uncle"
+          ],
+          "correctIndex": 2,
+          "difficulty": "easy",
+          "solutionSteps": "My mother's brother = my maternal uncle (mama). His son = my cousin. Answer: Cousin.",
+          "examTags": [
+            "SSC CGL",
+            "RRB NTPC",
+            "SSC CHSL"
+          ]
+        },
+        {
+          "questionText": "If X is the husband of Y and Y is the sister of Z, how is X related to Z?",
+          "options": [
+            "Brother",
+            "Brother-in-law",
+            "Cousin",
+            "Uncle"
+          ],
+          "correctIndex": 1,
+          "difficulty": "easy",
+          "solutionSteps": "X is married to Y. Y is Z's sister. So X is Z's brother-in-law. Answer: Brother-in-law.",
+          "examTags": [
+            "SSC CGL",
+            "IBPS Clerk"
+          ]
+        },
+        {
+          "questionText": "Ravi said, \"Anita's father is the only son of my father.\" How is Anita related to Ravi?",
+          "options": [
+            "Sister",
+            "Daughter",
+            "Niece",
+            "Cousin"
+          ],
+          "correctIndex": 1,
+          "difficulty": "medium",
+          "solutionSteps": "My father's only son = myself (Ravi). So Anita's father = Ravi. Anita is Ravi's daughter. Answer: Daughter.",
+          "examTags": [
+            "SSC CGL",
+            "IBPS PO",
+            "RRB NTPC"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "coded_blood_relation",
+      "name": "Coded Blood Relation",
+      "explanation": "Symbols like +, -, ×, ÷, $, # etc. are used to represent relationships (e.g., A+B means A is the father of B). You must decode the symbols and then determine the relationship.",
+      "shortcuts": [
+        "Build a Legend First: Write down what each symbol means before attempting the question.",
+        "Convert to Words: Replace each symbol with its meaning and read the statement as plain English.",
+        "Gender from Context: Determine gender from relationship terms (father=male, mother=female, etc.)."
+      ],
+      "examples": [
+        {
+          "questionText": "If A+B means A is the father of B, A-B means A is the mother of B, A×B means A is the brother of B, then what does P+Q×R mean?",
+          "difficulty": "medium",
+          "solutionSteps": "Step 1: P+Q means P is Q's father.\nStep 2: Q×R means Q is R's brother.\nStep 3: So P is the father of Q, and Q is the brother of R.\nStep 4: Therefore P is R's father as well (since Q and R have the same father).\nAnswer: P is R's father",
+          "shortcutApplied": "Build a Legend First"
+        },
+        {
+          "questionText": "If A$B means A is father of B, A#B means A is mother of B, A&B means A is brother of B. What is the relation of P to R in: P$Q&R?",
+          "difficulty": "medium",
+          "solutionSteps": "Step 1: P$Q means P is father of Q.\nStep 2: Q&R means Q is brother of R.\nStep 3: Q and R are siblings, and P is their father.\nAnswer: P is R's father",
+          "shortcutApplied": "Convert to Words"
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "questionText": "If A@B means A is the mother of B, A#B means A is the father of B, A&B means A is the sister of B. What is the relation of P to R in P#Q&R?",
+          "options": [
+            "Father",
+            "Uncle",
+            "Mother",
+            "Brother"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "solutionSteps": "P#Q → P is father of Q. Q&R → Q is sister of R. So P is father of Q and R (siblings). P is R's father. Answer: Father.",
+          "examTags": [
+            "SSC CGL",
+            "IBPS PO"
+          ]
+        },
+        {
+          "questionText": "If + means father, - means mother, × means brother, ÷ means sister. What does A+B÷C mean?",
+          "options": [
+            "A is uncle of C",
+            "A is father of C's sister",
+            "A is grandfather of C",
+            "A is father of C"
+          ],
+          "correctIndex": 3,
+          "difficulty": "medium",
+          "solutionSteps": "A+B → A is father of B. B÷C → B is sister of C. So B and C are siblings, and A is their father. A is C's father. Answer: A is father of C.",
+          "examTags": [
+            "SSC CGL",
+            "IBPS PO",
+            "SBI PO"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4024 @@
+[
+  {
+    "id": "ssc_cgl",
+    "name": "SSC CGL (Combined Graduate Level)",
+    "shortName": "CGL",
+    "category": "ssc",
+    "conductingBody": "Staff Selection Commission",
+    "description": "Premier graduate-level recruitment for Group B & C gazetted and non-gazetted posts in central ministries and departments.",
+    "iconName": "school",
+    "topicMappings": [
+      {
+        "topicId": "analogy",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "classification",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "series_completion",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "coding_decoding",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "nonverbal_series",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "mathematical_operations",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "missing_character",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "blood_relations",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "direction_sense",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "ranking_order",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "alphabet_test",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "syllogism",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "logical_venn_diagrams",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "mirror_images",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "water_images",
+        "priority": "medium",
+        "weight": 2,
+        "frequency": "occasional"
+      },
+      {
+        "topicId": "paper_folding",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "counting_figures",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "cubes_and_dice",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "embedded_figures",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      }
+    ]
+  },
+  {
+    "id": "ssc_chsl",
+    "name": "SSC CHSL (10+2 Higher Secondary)",
+    "shortName": "CHSL",
+    "category": "ssc",
+    "conductingBody": "Staff Selection Commission",
+    "description": "Recruitment for Lower Division Clerk (LDC), Junior Secretariat Assistant (JSA), and Data Entry Operators (DEO).",
+    "iconName": "school",
+    "topicMappings": [
+      {
+        "topicId": "analogy",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "classification",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "series_completion",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "coding_decoding",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "mathematical_operations",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "mirror_images",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "paper_folding",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "direction_sense",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "ranking_order",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "alphabet_test",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "blood_relations",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "counting_figures",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "cubes_and_dice",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "nonverbal_series",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "missing_character",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      }
+    ]
+  },
+  {
+    "id": "ssc_cpo",
+    "name": "SSC CPO (Central Police Organisation)",
+    "shortName": "CPO",
+    "category": "ssc",
+    "conductingBody": "Staff Selection Commission",
+    "description": "Sub-Inspector in Delhi Police, CAPFs (BSF, CISF, CRPF, ITBP, SSB) with 50 Reasoning marks in Paper-I.",
+    "iconName": "local_police",
+    "topicMappings": [
+      {
+        "topicId": "analogy",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "classification",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "series_completion",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "coding_decoding",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "blood_relations",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "direction_sense",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "ranking_order",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "syllogism",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "logical_venn_diagrams",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "mathematical_operations",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "mirror_images",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "paper_cutting",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "cubes_and_dice",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "counting_figures",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "nonverbal_series",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      }
+    ]
+  },
+  {
+    "id": "ssc_mts",
+    "name": "SSC MTS (Multi-Tasking Staff) & Havaldar",
+    "shortName": "MTS",
+    "category": "ssc",
+    "conductingBody": "Staff Selection Commission",
+    "description": "10th pass entry exam for General Central Service Group C non-gazetted, non-ministerial posts.",
+    "iconName": "school",
+    "topicMappings": [
+      {
+        "topicId": "analogy",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "classification",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "series_completion",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "coding_decoding",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "direction_sense",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "alphabet_test",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "mirror_images",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "nonverbal_series",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "mathematical_operations",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "missing_character",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "odd_figure_out",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      }
+    ]
+  },
+  {
+    "id": "ssc_gd",
+    "name": "SSC GD Constable",
+    "shortName": "GD",
+    "category": "ssc",
+    "conductingBody": "Staff Selection Commission",
+    "description": "General Duty Constable recruitment for BSF, CISF, CRPF, ITBP, SSB, SSF, and Assam Rifles.",
+    "iconName": "shield",
+    "topicMappings": [
+      {
+        "topicId": "analogy",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "classification",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "series_completion",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "coding_decoding",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "blood_relations",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "direction_sense",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "mirror_images",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "nonverbal_series",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "counting_figures",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "mathematical_operations",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      }
+    ]
+  },
+  {
+    "id": "ssc_stenographer",
+    "name": "SSC Stenographer (Grade C & D)",
+    "shortName": "Steno",
+    "category": "ssc",
+    "conductingBody": "Staff Selection Commission",
+    "description": "Stenographer Grade C (Group B non-gazetted) and Grade D (Group C) posts with 50 Reasoning questions in Tier-I.",
+    "iconName": "school",
+    "topicMappings": [
+      {
+        "topicId": "analogy",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "classification",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "series_completion",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "coding_decoding",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "blood_relations",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "direction_sense",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "ranking_order",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "alphabet_test",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "syllogism",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "logical_venn_diagrams",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "paper_folding",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "cubes_and_dice",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      }
+    ]
+  },
+  {
+    "id": "ssc_selection_post",
+    "name": "SSC Selection Posts (Matric / Inter / Grad)",
+    "shortName": "Sel Post",
+    "category": "ssc",
+    "conductingBody": "Staff Selection Commission",
+    "description": "Specialized technical and non-technical vacancies across central government regional directorates.",
+    "iconName": "school",
+    "topicMappings": [
+      {
+        "topicId": "analogy",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "classification",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "series_completion",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "coding_decoding",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "mathematical_operations",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "direction_sense",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "blood_relations",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "nonverbal_series",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "embedded_figures",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      }
+    ]
+  },
+  {
+    "id": "ibps_po",
+    "name": "IBPS PO (Probationary Officer / MT)",
+    "shortName": "IBPS PO",
+    "category": "banking",
+    "conductingBody": "Institute of Banking Personnel Selection",
+    "description": "Officer cadre recruitment across 11 nationalized public sector banks (PSBs).",
+    "iconName": "account_balance",
+    "topicMappings": [
+      {
+        "topicId": "syllogism",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "inequality",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "seating_linear",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "seating_circular",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "puzzles_floor",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "puzzles_box",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "puzzles_scheduling",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "coding_decoding",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "input_output",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "data_sufficiency",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "blood_relations",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "direction_sense",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "ranking_order",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "statement_assumption",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "critical_reasoning",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      }
+    ]
+  },
+  {
+    "id": "ibps_clerk",
+    "name": "IBPS Clerk (Clerical Cadre)",
+    "shortName": "IBPS Clk",
+    "category": "banking",
+    "conductingBody": "Institute of Banking Personnel Selection",
+    "description": "Customer service associate and clerical appointments in public sector banks.",
+    "iconName": "account_balance",
+    "topicMappings": [
+      {
+        "topicId": "syllogism",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "inequality",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "seating_linear",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "seating_circular",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "puzzles_floor",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "puzzles_scheduling",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "coding_decoding",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "alphabet_test",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "blood_relations",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "direction_sense",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "ranking_order",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      }
+    ]
+  },
+  {
+    "id": "sbi_po",
+    "name": "SBI PO (State Bank of India Probationary Officer)",
+    "shortName": "SBI PO",
+    "category": "banking",
+    "conductingBody": "State Bank of India",
+    "description": "India's most coveted banking entrance featuring high-difficulty puzzles, critical reasoning, and advanced input-output.",
+    "iconName": "account_balance",
+    "topicMappings": [
+      {
+        "topicId": "puzzles_floor",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "puzzles_box",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "puzzles_scheduling",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "seating_circular",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "seating_linear",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "syllogism",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "input_output",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "critical_reasoning",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "data_sufficiency",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "inequality",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "coding_decoding",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "blood_relations",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "statement_argument",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "statement_assumption",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      }
+    ]
+  },
+  {
+    "id": "sbi_clerk",
+    "name": "SBI Clerk (Junior Associate)",
+    "shortName": "SBI Clk",
+    "category": "banking",
+    "conductingBody": "State Bank of India",
+    "description": "Junior Associates (Customer Support & Sales) across SBI branches nationwide.",
+    "iconName": "account_balance",
+    "topicMappings": [
+      {
+        "topicId": "syllogism",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "inequality",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "seating_linear",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "seating_circular",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "puzzles_floor",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "puzzles_scheduling",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "alphabet_test",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "coding_decoding",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "blood_relations",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "direction_sense",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "ranking_order",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      }
+    ]
+  },
+  {
+    "id": "rbi_grade_b",
+    "name": "RBI Grade B (Officers in Grade B - DR)",
+    "shortName": "RBI B",
+    "category": "banking",
+    "conductingBody": "Reserve Bank of India",
+    "description": "Apex central banking examination featuring 60 high-difficulty reasoning marks in Phase-I.",
+    "iconName": "account_balance",
+    "topicMappings": [
+      {
+        "topicId": "puzzles_floor",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "puzzles_box",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "seating_circular",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "critical_reasoning",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "analytical_reasoning",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "input_output",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "data_sufficiency",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "syllogism",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "inequality",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "coding_decoding",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      }
+    ]
+  },
+  {
+    "id": "rbi_assistant",
+    "name": "RBI Assistant",
+    "shortName": "RBI Asst",
+    "category": "banking",
+    "conductingBody": "Reserve Bank of India",
+    "description": "Clerical cadre appointments across 17 regional reserve bank offices.",
+    "iconName": "account_balance",
+    "topicMappings": [
+      {
+        "topicId": "syllogism",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "inequality",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "seating_circular",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "seating_linear",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "puzzles_floor",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "alphabet_test",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "coding_decoding",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "blood_relations",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "direction_sense",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      }
+    ]
+  },
+  {
+    "id": "ibps_rrb_office_assistant",
+    "name": "IBPS RRB Office Assistant (Gramin Bank Clerk)",
+    "shortName": "RRB Asst",
+    "category": "banking",
+    "conductingBody": "IBPS",
+    "description": "Regional Rural Banks clerk recruitment with 40 reasoning questions in prelims.",
+    "iconName": "account_balance",
+    "topicMappings": [
+      {
+        "topicId": "syllogism",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "inequality",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "seating_linear",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "seating_circular",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "puzzles_scheduling",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "alphabet_test",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "coding_decoding",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "blood_relations",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "direction_sense",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "ranking_order",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      }
+    ]
+  },
+  {
+    "id": "ibps_rrb_officer_scale_1",
+    "name": "IBPS RRB Officer Scale I (Gramin Bank PO)",
+    "shortName": "RRB Scale 1",
+    "category": "banking",
+    "conductingBody": "IBPS",
+    "description": "Assistant Manager appointments across 43 Regional Rural Banks with 40 prelims reasoning questions.",
+    "iconName": "account_balance",
+    "topicMappings": [
+      {
+        "topicId": "seating_circular",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "seating_linear",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "puzzles_floor",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "puzzles_box",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "syllogism",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "inequality",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "blood_relations",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "direction_sense",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "input_output",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "data_sufficiency",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      }
+    ]
+  },
+  {
+    "id": "ibps_rrb_officer_scale_2",
+    "name": "IBPS RRB Officer Scale II (General Banking / Specialist)",
+    "shortName": "RRB Scale 2",
+    "category": "banking",
+    "conductingBody": "IBPS",
+    "description": "Direct manager-level single-window examination for experienced professionals.",
+    "iconName": "account_balance",
+    "topicMappings": [
+      {
+        "topicId": "puzzles_floor",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "seating_circular",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "syllogism",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "data_sufficiency",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "input_output",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "critical_reasoning",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "inequality",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      }
+    ]
+  },
+  {
+    "id": "ibps_rrb_officer_scale_3",
+    "name": "IBPS RRB Officer Scale III (Senior Manager)",
+    "shortName": "RRB Scale 3",
+    "category": "banking",
+    "conductingBody": "IBPS",
+    "description": "Senior Manager appointments in RRBs with comprehensive analytical & logical reasoning testing.",
+    "iconName": "account_balance",
+    "topicMappings": [
+      {
+        "topicId": "critical_reasoning",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "analytical_reasoning",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "puzzles_box",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "data_sufficiency",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "syllogism",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "seating_circular",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      }
+    ]
+  },
+  {
+    "id": "nabard_grade_a",
+    "name": "NABARD Grade A (Assistant Manager - RDBS)",
+    "shortName": "NABARD A",
+    "category": "banking",
+    "conductingBody": "National Bank for Agriculture and Rural Development",
+    "description": "Assistant Manager rural development banking officer test with 20 reasoning questions.",
+    "iconName": "account_balance",
+    "topicMappings": [
+      {
+        "topicId": "syllogism",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "inequality",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "seating_circular",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "puzzles_floor",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "blood_relations",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "direction_sense",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "coding_decoding",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      }
+    ]
+  },
+  {
+    "id": "nabard_grade_b",
+    "name": "NABARD Grade B (Manager - RDBS)",
+    "shortName": "NABARD B",
+    "category": "banking",
+    "conductingBody": "NABARD",
+    "description": "Managerial level selection requiring advanced puzzle solving and analytical deduction.",
+    "iconName": "account_balance",
+    "topicMappings": [
+      {
+        "topicId": "puzzles_box",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "critical_reasoning",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "seating_circular",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "data_sufficiency",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "syllogism",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      }
+    ]
+  },
+  {
+    "id": "sebi_grade_a",
+    "name": "SEBI Grade A (Assistant Manager - General)",
+    "shortName": "SEBI A",
+    "category": "banking",
+    "conductingBody": "Securities and Exchange Board of India",
+    "description": "Securities market regulator Phase-I reasoning paper test.",
+    "iconName": "account_balance",
+    "topicMappings": [
+      {
+        "topicId": "syllogism",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "inequality",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "seating_circular",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "puzzles_floor",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "critical_reasoning",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "coding_decoding",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "blood_relations",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      }
+    ]
+  },
+  {
+    "id": "sidbi_grade_a",
+    "name": "SIDBI Grade A (Assistant Manager - General)",
+    "shortName": "SIDBI A",
+    "category": "banking",
+    "conductingBody": "Small Industries Development Bank of India",
+    "description": "Principal MSME financial institution officer cadre recruitment with 50 reasoning marks.",
+    "iconName": "account_balance",
+    "topicMappings": [
+      {
+        "topicId": "seating_circular",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "puzzles_floor",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "syllogism",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "inequality",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "input_output",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "data_sufficiency",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "blood_relations",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      }
+    ]
+  },
+  {
+    "id": "lic_aao",
+    "name": "LIC AAO (Assistant Administrative Officer)",
+    "shortName": "LIC AAO",
+    "category": "insurance",
+    "conductingBody": "Life Insurance Corporation of India",
+    "description": "Officer cadre examination in LIC with 35 reasoning marks in preliminary phase.",
+    "iconName": "health_and_safety",
+    "topicMappings": [
+      {
+        "topicId": "syllogism",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "inequality",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "seating_circular",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "seating_linear",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "puzzles_floor",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "coding_decoding",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "blood_relations",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "direction_sense",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      }
+    ]
+  },
+  {
+    "id": "lic_assistant",
+    "name": "LIC Assistant (Clerical Staff)",
+    "shortName": "LIC Asst",
+    "category": "insurance",
+    "conductingBody": "LIC of India",
+    "description": "Cashier, Single Window Operator, and customer service assistant across LIC divisional offices.",
+    "iconName": "health_and_safety",
+    "topicMappings": [
+      {
+        "topicId": "syllogism",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "inequality",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "seating_linear",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "alphabet_test",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "coding_decoding",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "blood_relations",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "direction_sense",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      }
+    ]
+  },
+  {
+    "id": "niacl_ao",
+    "name": "NIACL AO (Administrative Officer - Scale I)",
+    "shortName": "NIACL AO",
+    "category": "insurance",
+    "conductingBody": "New India Assurance Company Limited",
+    "description": "Generalist administrative officer appointments in premier public non-life insurer.",
+    "iconName": "health_and_safety",
+    "topicMappings": [
+      {
+        "topicId": "syllogism",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "seating_circular",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "puzzles_floor",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "inequality",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "input_output",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "coding_decoding",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "blood_relations",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      }
+    ]
+  },
+  {
+    "id": "niacl_assistant",
+    "name": "NIACL Assistant (Class III Cadre)",
+    "shortName": "NIACL Asst",
+    "category": "insurance",
+    "conductingBody": "New India Assurance",
+    "description": "Regional office clerical and policy processing assistant recruitment.",
+    "iconName": "health_and_safety",
+    "topicMappings": [
+      {
+        "topicId": "syllogism",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "inequality",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "seating_linear",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "alphabet_test",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "blood_relations",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "direction_sense",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      }
+    ]
+  },
+  {
+    "id": "uiic_ao",
+    "name": "UIIC AO (Administrative Officer - Scale I)",
+    "shortName": "UIIC AO",
+    "category": "insurance",
+    "conductingBody": "United India Insurance Company",
+    "description": "Scale I Officer selection with 50 Reasoning marks testing speed and puzzle precision.",
+    "iconName": "health_and_safety",
+    "topicMappings": [
+      {
+        "topicId": "syllogism",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "seating_circular",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "puzzles_scheduling",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "inequality",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "blood_relations",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "direction_sense",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      }
+    ]
+  },
+  {
+    "id": "oicl_ao",
+    "name": "OICL AO (Administrative Officer)",
+    "shortName": "OICL AO",
+    "category": "insurance",
+    "conductingBody": "Oriental Insurance Company Limited",
+    "description": "Recruitment for Generalist and Specialist Scale-I Administrative Officers.",
+    "iconName": "health_and_safety",
+    "topicMappings": [
+      {
+        "topicId": "syllogism",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "seating_linear",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "puzzles_box",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "inequality",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "coding_decoding",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "data_sufficiency",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      }
+    ]
+  },
+  {
+    "id": "gic_assistant_manager",
+    "name": "GIC Assistant Manager (Scale I)",
+    "shortName": "GIC AM",
+    "category": "insurance",
+    "conductingBody": "General Insurance Corporation of India",
+    "description": "National Reinsurer officer selection focusing on higher-order logical reasoning.",
+    "iconName": "health_and_safety",
+    "topicMappings": [
+      {
+        "topicId": "critical_reasoning",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "analytical_reasoning",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "seating_circular",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "syllogism",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "data_sufficiency",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      }
+    ]
+  },
+  {
+    "id": "rrb_ntpc",
+    "name": "RRB NTPC (Non-Technical Popular Categories)",
+    "shortName": "NTPC",
+    "category": "railway",
+    "conductingBody": "Railway Recruitment Control Board",
+    "description": "Station Master, Goods Train Manager, Senior Clerk, and Commercial Apprentice appointments with 30 marks in CBT-1 & 35 in CBT-2.",
+    "iconName": "train",
+    "topicMappings": [
+      {
+        "topicId": "analogy",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "classification",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "series_completion",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "coding_decoding",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "logical_venn_diagrams",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "syllogism",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "mathematical_operations",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "blood_relations",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "direction_sense",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "ranking_order",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "statement_conclusion",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "counting_figures",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "mirror_images",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "cubes_and_dice",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "missing_character",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      }
+    ]
+  },
+  {
+    "id": "rrb_group_d",
+    "name": "RRB Group D (RRC Level-1 Posts)",
+    "shortName": "Grp D",
+    "category": "railway",
+    "conductingBody": "Railway Recruitment Cells",
+    "description": "Track Maintainer, Pointsman, Assistant Workshop, and technical departmental personnel testing.",
+    "iconName": "train",
+    "topicMappings": [
+      {
+        "topicId": "analogy",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "classification",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "series_completion",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "coding_decoding",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "mathematical_operations",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "mirror_images",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "direction_sense",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "counting_figures",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "cubes_and_dice",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "nonverbal_series",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "missing_character",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      }
+    ]
+  },
+  {
+    "id": "rrb_alp",
+    "name": "RRB ALP (Assistant Loco Pilot)",
+    "shortName": "ALP",
+    "category": "railway",
+    "conductingBody": "Railway Recruitment Control Board",
+    "description": "Locomotive driver trainee selection with CBT-1 (25 reasoning marks) and CBT-2 Part A testing.",
+    "iconName": "train",
+    "topicMappings": [
+      {
+        "topicId": "analogy",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "classification",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "series_completion",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "coding_decoding",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "mirror_images",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "water_images",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "counting_figures",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "cubes_and_dice",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "nonverbal_series",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "mathematical_operations",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      }
+    ]
+  },
+  {
+    "id": "rrb_technician",
+    "name": "RRB Technician (Grade I Signal & Grade III)",
+    "shortName": "RRB Tech",
+    "category": "railway",
+    "conductingBody": "Railway Recruitment Board",
+    "description": "Direct computer-based testing for Signal & Telecommunication and Workshop technicians.",
+    "iconName": "train",
+    "topicMappings": [
+      {
+        "topicId": "analogy",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "series_completion",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "coding_decoding",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "mathematical_operations",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "direction_sense",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "mirror_images",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "counting_figures",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      }
+    ]
+  },
+  {
+    "id": "rrb_je",
+    "name": "RRB JE (Junior Engineer - Civil, Mech, Elect, IT)",
+    "shortName": "RRB JE",
+    "category": "railway",
+    "conductingBody": "Railway Recruitment Board",
+    "description": "Recruitment for Junior Engineers and Depot Material Superintendents with 25 reasoning questions in CBT-1.",
+    "iconName": "train",
+    "topicMappings": [
+      {
+        "topicId": "analogy",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "classification",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "series_completion",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "coding_decoding",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "blood_relations",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "direction_sense",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "syllogism",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "logical_venn_diagrams",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "mathematical_operations",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      }
+    ]
+  },
+  {
+    "id": "rrb_ministerial_isolated",
+    "name": "RRB Ministerial & Isolated Categories (Steno / Staff)",
+    "shortName": "RRB Min",
+    "category": "railway",
+    "conductingBody": "Railway Recruitment Board",
+    "description": "Stenographer, Law Assistant, Chief Law Assistant, and Junior Translator vacancies testing.",
+    "iconName": "train",
+    "topicMappings": [
+      {
+        "topicId": "analogy",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "classification",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "series_completion",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "coding_decoding",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "alphabet_test",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "direction_sense",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      }
+    ]
+  },
+  {
+    "id": "cds",
+    "name": "CDS (Combined Defence Services)",
+    "shortName": "CDS",
+    "category": "defence",
+    "conductingBody": "Union Public Service Commission (UPSC)",
+    "description": "Officer entry for Indian Military Academy, Naval Academy, Air Force Academy, and Officers Training Academy.",
+    "iconName": "military_tech",
+    "topicMappings": [
+      {
+        "topicId": "critical_reasoning",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "statement_conclusion",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "logical_venn_diagrams",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "cause_and_effect",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "analogy",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "series_completion",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "direction_sense",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "counting_figures",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "cubes_and_dice",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      }
+    ]
+  },
+  {
+    "id": "afcat",
+    "name": "AFCAT (Air Force Common Admission Test)",
+    "shortName": "AFCAT",
+    "category": "defence",
+    "conductingBody": "Indian Air Force",
+    "description": "Commissioned Officer selection for Flying, Ground Duty Technical, and Non-Technical branches featuring 32 reasoning questions.",
+    "iconName": "military_tech",
+    "topicMappings": [
+      {
+        "topicId": "analogy",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "classification",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "logical_venn_diagrams",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "embedded_figures",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "figure_completion",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "odd_figure_out",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "series_completion",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "coding_decoding",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "blood_relations",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "direction_sense",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      }
+    ]
+  },
+  {
+    "id": "nda",
+    "name": "NDA (National Defence Academy & NA)",
+    "shortName": "NDA",
+    "category": "defence",
+    "conductingBody": "UPSC",
+    "description": "10+2 entry for Army, Navy, and Air Force wings of the NDA testing spatial and logical aptitude.",
+    "iconName": "military_tech",
+    "topicMappings": [
+      {
+        "topicId": "analogy",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "series_completion",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "coding_decoding",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "direction_sense",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "blood_relations",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "counting_figures",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "cubes_and_dice",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      }
+    ]
+  },
+  {
+    "id": "indian_army_agniveer",
+    "name": "Indian Army Agniveer (GD, Tech, Tradesmen)",
+    "shortName": "Army Agni",
+    "category": "defence",
+    "conductingBody": "Join Indian Army (CEE)",
+    "description": "Common Entrance Examination testing reasoning ability and general intellectual aptitude.",
+    "iconName": "military_tech",
+    "topicMappings": [
+      {
+        "topicId": "analogy",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "series_completion",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "coding_decoding",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "blood_relations",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "direction_sense",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "alphabet_test",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      }
+    ]
+  },
+  {
+    "id": "indian_navy_agniveer",
+    "name": "Indian Navy Agniveer (SSR & MR)",
+    "shortName": "Navy Agni",
+    "category": "defence",
+    "conductingBody": "Indian Navy (INET)",
+    "description": "Senior Secondary Recruit (SSR) and Matric Recruit (MR) selection with reasoning section.",
+    "iconName": "military_tech",
+    "topicMappings": [
+      {
+        "topicId": "analogy",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "series_completion",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "coding_decoding",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "direction_sense",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "nonverbal_series",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "mirror_images",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      }
+    ]
+  },
+  {
+    "id": "indian_air_force_agniveer",
+    "name": "Indian Air Force Agniveer Vayu (Other Than Science)",
+    "shortName": "IAF Vayu",
+    "category": "defence",
+    "conductingBody": "Indian Air Force (STAR)",
+    "description": "RAGA (Reasoning & General Awareness) paper testing verbal and non-verbal spatial reasoning.",
+    "iconName": "military_tech",
+    "topicMappings": [
+      {
+        "topicId": "analogy",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "series_completion",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "nonverbal_series",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "odd_figure_out",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "coding_decoding",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "blood_relations",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "direction_sense",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "mathematical_operations",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      }
+    ]
+  },
+  {
+    "id": "police_si",
+    "name": "Police Constable / SI (All India Benchmark)",
+    "shortName": "Police SI",
+    "category": "police",
+    "conductingBody": "State Police Recruitment Boards",
+    "description": "Universal standardized baseline pattern for state and central police written examinations.",
+    "iconName": "local_police",
+    "topicMappings": [
+      {
+        "topicId": "analogy",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "classification",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "series_completion",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "coding_decoding",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "blood_relations",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "direction_sense",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "ranking_order",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "alphabet_test",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "mathematical_operations",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "mirror_images",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      }
+    ]
+  },
+  {
+    "id": "delhi_police_constable",
+    "name": "Delhi Police Constable (Executive)",
+    "shortName": "DP Const",
+    "category": "police",
+    "conductingBody": "SSC / Delhi Police",
+    "description": "Premier metropolitan police constable examination featuring 25 reasoning questions in CBT.",
+    "iconName": "local_police",
+    "topicMappings": [
+      {
+        "topicId": "analogy",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "classification",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "series_completion",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "coding_decoding",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "nonverbal_series",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "mirror_images",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "paper_cutting",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "counting_figures",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "direction_sense",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      }
+    ]
+  },
+  {
+    "id": "delhi_police_si",
+    "name": "Delhi Police Sub-Inspector (Executive)",
+    "shortName": "DP SI",
+    "category": "police",
+    "conductingBody": "SSC (CPO)",
+    "description": "Sub-Inspector appointments in Delhi Police with 50 marks allocated to general intelligence.",
+    "iconName": "local_police",
+    "topicMappings": [
+      {
+        "topicId": "analogy",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "classification",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "series_completion",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "coding_decoding",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "blood_relations",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "direction_sense",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "syllogism",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "ranking_order",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "logical_venn_diagrams",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "paper_folding",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      }
+    ]
+  },
+  {
+    "id": "up_police_constable",
+    "name": "UP Police Constable (Civil & PAC)",
+    "shortName": "UP Const",
+    "category": "police",
+    "conductingBody": "UPPRPB",
+    "description": "Uttar Pradesh Police Recruitment Board exam testing mental aptitude and reasoning (56 marks).",
+    "iconName": "local_police",
+    "topicMappings": [
+      {
+        "topicId": "analogy",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "series_completion",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "coding_decoding",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "blood_relations",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "direction_sense",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "ranking_order",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "alphabet_test",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "logical_venn_diagrams",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "mathematical_operations",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "mirror_images",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      }
+    ]
+  },
+  {
+    "id": "up_police_si",
+    "name": "UP Police SI (Daroga - Civil & Platoon Commander)",
+    "shortName": "UP SI",
+    "category": "police",
+    "conductingBody": "UPPRPB",
+    "description": "Sub-Inspector written test with 40 questions (100 marks) in Reasoning & Mental Ability.",
+    "iconName": "local_police",
+    "topicMappings": [
+      {
+        "topicId": "syllogism",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "seating_linear",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "seating_circular",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "input_output",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "inequality",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "blood_relations",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "direction_sense",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "statement_conclusion",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "statement_argument",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "data_sufficiency",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      }
+    ]
+  },
+  {
+    "id": "rajasthan_police_constable",
+    "name": "Rajasthan Police Constable",
+    "shortName": "Raj Const",
+    "category": "police",
+    "conductingBody": "Rajasthan Police Recruitment Board",
+    "description": "Recruitment testing Reasoning, Logic, and Basic Computer proficiency (60 marks).",
+    "iconName": "local_police",
+    "topicMappings": [
+      {
+        "topicId": "analogy",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "classification",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "series_completion",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "coding_decoding",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "blood_relations",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "direction_sense",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "logical_venn_diagrams",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "counting_figures",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      }
+    ]
+  },
+  {
+    "id": "rajasthan_police_si",
+    "name": "Rajasthan Police SI (Sub-Inspector / Platoon)",
+    "shortName": "Raj SI",
+    "category": "police",
+    "conductingBody": "RPSC",
+    "description": "RPSC Sub-Inspector Paper-II (General Knowledge & General Science including Reasoning).",
+    "iconName": "local_police",
+    "topicMappings": [
+      {
+        "topicId": "statement_assumption",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "statement_argument",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "analytical_reasoning",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "blood_relations",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "direction_sense",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "coding_decoding",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      }
+    ]
+  },
+  {
+    "id": "bihar_police_constable",
+    "name": "Bihar Police Constable (CSBC)",
+    "shortName": "Bihar Const",
+    "category": "police",
+    "conductingBody": "Central Selection Board of Constable (CSBC)",
+    "description": "State constable recruitment testing general aptitude and mental ability.",
+    "iconName": "local_police",
+    "topicMappings": [
+      {
+        "topicId": "analogy",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "series_completion",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "coding_decoding",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "blood_relations",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "direction_sense",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "mathematical_operations",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      }
+    ]
+  },
+  {
+    "id": "bihar_police_si",
+    "name": "Bihar Police SI (BPSSC Daroga & Sergeant)",
+    "shortName": "Bihar SI",
+    "category": "police",
+    "conductingBody": "Bihar Police Sub-ordinate Services Commission",
+    "description": "Mains Paper-II testing General Studies, Mental Ability, and Mathematics.",
+    "iconName": "local_police",
+    "topicMappings": [
+      {
+        "topicId": "analogy",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "classification",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "series_completion",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "blood_relations",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "direction_sense",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "syllogism",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "logical_venn_diagrams",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      }
+    ]
+  },
+  {
+    "id": "mp_police_constable",
+    "name": "MP Police Constable (General Duty & Radio)",
+    "shortName": "MP Const",
+    "category": "police",
+    "conductingBody": "MPESB (Vyapam)",
+    "description": "Madhya Pradesh Employee Selection Board exam with 40 marks in Intellectual Ability & Mental Aptitude.",
+    "iconName": "local_police",
+    "topicMappings": [
+      {
+        "topicId": "analogy",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "series_completion",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "coding_decoding",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "blood_relations",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "direction_sense",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "ranking_order",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "mirror_images",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "counting_figures",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      }
+    ]
+  },
+  {
+    "id": "mp_police_si",
+    "name": "MP Police SI (Subedar & Sub-Inspector)",
+    "shortName": "MP SI",
+    "category": "police",
+    "conductingBody": "MPESB",
+    "description": "MP Police Sub-Inspector Paper testing General Knowledge and Reasoning Ability.",
+    "iconName": "local_police",
+    "topicMappings": [
+      {
+        "topicId": "syllogism",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "series_completion",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "coding_decoding",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "blood_relations",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "direction_sense",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "seating_linear",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "logical_venn_diagrams",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      }
+    ]
+  },
+  {
+    "id": "fci_assistant_grade_3",
+    "name": "FCI Assistant Grade III (General, Depot, Accounts)",
+    "shortName": "FCI AG-3",
+    "category": "central_govt",
+    "conductingBody": "Food Corporation of India",
+    "description": "Phase-I online examination featuring 25 reasoning questions across all technical and general streams.",
+    "iconName": "business",
+    "topicMappings": [
+      {
+        "topicId": "syllogism",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "inequality",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "seating_circular",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "puzzles_floor",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "coding_decoding",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "blood_relations",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "direction_sense",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      }
+    ]
+  },
+  {
+    "id": "fci_manager",
+    "name": "FCI Manager (Category II)",
+    "shortName": "FCI Mgr",
+    "category": "central_govt",
+    "conductingBody": "Food Corporation of India",
+    "description": "Management trainee and executive appointments testing advanced problem solving and data analysis.",
+    "iconName": "business",
+    "topicMappings": [
+      {
+        "topicId": "puzzles_floor",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "seating_circular",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "syllogism",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "data_sufficiency",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "inequality",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      }
+    ]
+  },
+  {
+    "id": "epfo_ssa",
+    "name": "EPFO SSA (Social Security Assistant)",
+    "shortName": "EPFO SSA",
+    "category": "central_govt",
+    "conductingBody": "NTA / EPFO",
+    "description": "National Testing Agency conducted CBT with 30 General Aptitude / Reasoning questions.",
+    "iconName": "business",
+    "topicMappings": [
+      {
+        "topicId": "analogy",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "series_completion",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "coding_decoding",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "syllogism",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "seating_circular",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "blood_relations",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "direction_sense",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "mathematical_operations",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      }
+    ]
+  },
+  {
+    "id": "epfo_eo_ao",
+    "name": "EPFO EO/AO (Enforcement Officer / Accounts Officer)",
+    "shortName": "EPFO EO",
+    "category": "central_govt",
+    "conductingBody": "UPSC",
+    "description": "UPSC Special Recruitment Test testing General Mental Ability & Quantitative Aptitude.",
+    "iconName": "business",
+    "topicMappings": [
+      {
+        "topicId": "critical_reasoning",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "analytical_reasoning",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "statement_conclusion",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "syllogism",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "direction_sense",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "blood_relations",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      }
+    ]
+  },
+  {
+    "id": "esic_udc",
+    "name": "ESIC UDC (Upper Division Clerk)",
+    "shortName": "ESIC UDC",
+    "category": "central_govt",
+    "conductingBody": "Employees State Insurance Corporation",
+    "description": "Prelims (25 questions, 50 marks) and Mains testing general intelligence & reasoning ability.",
+    "iconName": "business",
+    "topicMappings": [
+      {
+        "topicId": "syllogism",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "inequality",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "seating_linear",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "puzzles_floor",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "alphabet_test",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "blood_relations",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "direction_sense",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      }
+    ]
+  },
+  {
+    "id": "esic_stenographer",
+    "name": "ESIC Stenographer",
+    "shortName": "ESIC Steno",
+    "category": "central_govt",
+    "conductingBody": "ESIC",
+    "description": "Direct recruitment with 50 Reasoning marks in Phase-I main examination.",
+    "iconName": "business",
+    "topicMappings": [
+      {
+        "topicId": "analogy",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "classification",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "series_completion",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "coding_decoding",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "direction_sense",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "blood_relations",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      }
+    ]
+  },
+  {
+    "id": "state_pcs",
+    "name": "State PCS (General Provincial Civil Services)",
+    "shortName": "State PCS",
+    "category": "state_psc",
+    "conductingBody": "State Public Service Commissions",
+    "description": "Standardized state civil service preliminary aptitude paper benchmark.",
+    "iconName": "gavel",
+    "topicMappings": [
+      {
+        "topicId": "analogy",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "series_completion",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "coding_decoding",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "blood_relations",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "direction_sense",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "syllogism",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "logical_venn_diagrams",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "statement_conclusion",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "critical_reasoning",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "analytical_reasoning",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      }
+    ]
+  },
+  {
+    "id": "upsc_csat",
+    "name": "UPSC CSAT (Civil Services Prelims Paper-II)",
+    "shortName": "CSAT",
+    "category": "state_psc",
+    "conductingBody": "Union Public Service Commission",
+    "description": "Qualifying Paper-II (80 questions, 200 marks) testing critical reasoning, syllogisms, analytical deduction, and decision making.",
+    "iconName": "gavel",
+    "topicMappings": [
+      {
+        "topicId": "critical_reasoning",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "statement_assumption",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "statement_conclusion",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "analytical_reasoning",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "syllogism",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "data_sufficiency",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "seating_circular",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "puzzles_scheduling",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "direction_sense",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "blood_relations",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      }
+    ]
+  },
+  {
+    "id": "uppsc_pcs",
+    "name": "UPPSC Combined State / Upper Subordinate (PCS Prelims CSAT)",
+    "shortName": "UPPSC",
+    "category": "state_psc",
+    "conductingBody": "Uttar Pradesh Public Service Commission",
+    "description": "General Studies Paper-II qualifying aptitude paper testing reasoning and communication skills.",
+    "iconName": "gavel",
+    "topicMappings": [
+      {
+        "topicId": "statement_conclusion",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "critical_reasoning",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "logical_venn_diagrams",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "coding_decoding",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "series_completion",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "direction_sense",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "blood_relations",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "syllogism",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      }
+    ]
+  },
+  {
+    "id": "bpsc",
+    "name": "BPSC CCE (Bihar Combined Competitive Examination)",
+    "shortName": "BPSC",
+    "category": "state_psc",
+    "conductingBody": "Bihar Public Service Commission",
+    "description": "Integrated CCE Prelims featuring 10-15 reasoning and mental ability questions.",
+    "iconName": "gavel",
+    "topicMappings": [
+      {
+        "topicId": "series_completion",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "coding_decoding",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "analogy",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "direction_sense",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "blood_relations",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "ranking_order",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      }
+    ]
+  },
+  {
+    "id": "mppsc",
+    "name": "MPPSC State Service Prelims (General Aptitude Paper-II)",
+    "shortName": "MPPSC",
+    "category": "state_psc",
+    "conductingBody": "Madhya Pradesh Public Service Commission",
+    "description": "State Service Prelims Paper-II testing logical reasoning, analytical ability, and decision making.",
+    "iconName": "gavel",
+    "topicMappings": [
+      {
+        "topicId": "critical_reasoning",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "statement_conclusion",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "logical_venn_diagrams",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "series_completion",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "coding_decoding",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "blood_relations",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "direction_sense",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      }
+    ]
+  },
+  {
+    "id": "rajasthan_ras",
+    "name": "RPSC RAS / RTS (Rajasthan Administrative Services)",
+    "shortName": "RAS",
+    "category": "state_psc",
+    "conductingBody": "Rajasthan Public Service Commission",
+    "description": "General Knowledge & General Science Prelims Paper with 20 Reasoning questions.",
+    "iconName": "gavel",
+    "topicMappings": [
+      {
+        "topicId": "statement_assumption",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "statement_argument",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "course_of_action",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "coding_decoding",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "blood_relations",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "direction_sense",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "seating_circular",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      }
+    ]
+  },
+  {
+    "id": "hpsc",
+    "name": "HPSC HCS (Haryana Civil Services Prelims CSAT)",
+    "shortName": "HCS",
+    "category": "state_psc",
+    "conductingBody": "Haryana Public Service Commission",
+    "description": "Paper-II Civil Services Aptitude Test (CSAT) testing analytical reasoning, syllogisms, and mental ability.",
+    "iconName": "gavel",
+    "topicMappings": [
+      {
+        "topicId": "critical_reasoning",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "analytical_reasoning",
+        "priority": "high",
+        "weight": 5,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "syllogism",
+        "priority": "high",
+        "weight": 4,
+        "frequency": "frequent"
+      },
+      {
+        "topicId": "seating_linear",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "coding_decoding",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      },
+      {
+        "topicId": "direction_sense",
+        "priority": "medium",
+        "weight": 3,
+        "frequency": "common"
+      }
+    ]
+  }
+]

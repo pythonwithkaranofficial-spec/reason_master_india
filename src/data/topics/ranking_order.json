@@ -1,0 +1,394 @@
+{
+  "id": "ranking_order",
+  "category": "verbal",
+  "name": "Ranking, Order & Sequence",
+  "iconName": "format_list_numbered",
+  "shortcutSummary": "Use the formula: Total = Rank from Top + Rank from Bottom − 1. For finding rank from one end given the other, rearrange: Rank from other end = Total − Given rank + 1.",
+  "conceptExplanation": "Ranking questions give you a person's position from one or both ends of a line/row and ask you to find the total number of people, or a specific position. They also include interchanging positions and comparing ranks.",
+  "subtopics": [
+    {
+      "id": "ranking_order_core",
+      "name": "Ranking, Order & Sequence — Core Concepts",
+      "explanation": "Ranking questions give you a person's position from one or both ends of a line/row and ask you to find the total number of people, or a specific position. They also include interchanging positions and comparing ranks.",
+      "shortcuts": [
+        "Total Formula: Total = Top Rank + Bottom Rank − 1",
+        "Interchange Trick: After interchange, new rank = other person's old rank",
+        "Between Count: People between two = |Rank1 − Rank2| − 1"
+      ],
+      "examples": [
+        {
+          "questionText": "In a row of 30 students, Ravi is 12th from the left end. What is his position from the right end?",
+          "difficulty": "easy",
+          "solutionSteps": "Position from right = Total - Position from left + 1 = 30 - 12 + 1 = 19th. Answer: 19th",
+          "shortcutApplied": "Total Formula"
+        },
+        {
+          "questionText": "In a row, Mohan is 15th from the left and 20th from the right. How many students are in the row?",
+          "difficulty": "easy",
+          "solutionSteps": "Total = Left position + Right position - 1 = 15 + 20 - 1 = 34. Answer: 34",
+          "shortcutApplied": "Total Formula"
+        },
+        {
+          "questionText": "In a class, Riya ranks 7th from top and 26th from bottom. How many students are in the class?",
+          "difficulty": "easy",
+          "solutionSteps": "Total = 7 + 26 - 1 = 32. Answer: 32 students",
+          "shortcutApplied": "Total Formula"
+        },
+        {
+          "questionText": "Suresh is 10th from the left and Ramesh is 8th from the right in a row of 30. How many students are between them?",
+          "difficulty": "medium",
+          "solutionSteps": "Ramesh from left = 30 - 8 + 1 = 23rd. Between Suresh (10th) and Ramesh (23rd) = 23 - 10 - 1 = 12. Answer: 12 students",
+          "shortcutApplied": "Between Count"
+        },
+        {
+          "questionText": "In a row of students, A is 18th from left and B is 18th from right. If they interchange, A becomes 25th from left. How many students are there?",
+          "difficulty": "hard",
+          "solutionSteps": "After interchange, A takes B's position. A is now 25th from left = B's original position from left. B's original position from right = 18th. Total = 25 + 18 - 1 = 42. Answer: 42 students",
+          "shortcutApplied": "Interchange Trick"
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "questionText": "Ranking, Order & Sequence Practice Q1: Apply the concepts learned to solve this easy level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 1,
+          "difficulty": "easy",
+          "solutionSteps": "Apply the standard method for Ranking, Order & Sequence. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "IBPS Clerk",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Ranking, Order & Sequence Practice Q2: Apply the concepts learned to solve this easy level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 2,
+          "difficulty": "easy",
+          "solutionSteps": "Apply the standard method for Ranking, Order & Sequence. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "IBPS Clerk",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Ranking, Order & Sequence Practice Q3: Apply the concepts learned to solve this easy level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 3,
+          "difficulty": "easy",
+          "solutionSteps": "Apply the standard method for Ranking, Order & Sequence. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "IBPS Clerk",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Ranking, Order & Sequence Practice Q4: Apply the concepts learned to solve this easy level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "solutionSteps": "Apply the standard method for Ranking, Order & Sequence. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "IBPS Clerk",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Ranking, Order & Sequence Practice Q5: Apply the concepts learned to solve this easy level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 1,
+          "difficulty": "easy",
+          "solutionSteps": "Apply the standard method for Ranking, Order & Sequence. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "IBPS Clerk",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Ranking, Order & Sequence Practice Q6: Apply the concepts learned to solve this easy level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 2,
+          "difficulty": "easy",
+          "solutionSteps": "Apply the standard method for Ranking, Order & Sequence. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "IBPS Clerk",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Ranking, Order & Sequence Practice Q7: Apply the concepts learned to solve this easy level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 3,
+          "difficulty": "easy",
+          "solutionSteps": "Apply the standard method for Ranking, Order & Sequence. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "IBPS Clerk",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Ranking, Order & Sequence Practice Q8: Apply the concepts learned to solve this medium level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "solutionSteps": "Apply the standard method for Ranking, Order & Sequence. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "IBPS Clerk",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Ranking, Order & Sequence Practice Q9: Apply the concepts learned to solve this medium level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 1,
+          "difficulty": "medium",
+          "solutionSteps": "Apply the standard method for Ranking, Order & Sequence. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "IBPS Clerk",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Ranking, Order & Sequence Practice Q10: Apply the concepts learned to solve this medium level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "solutionSteps": "Apply the standard method for Ranking, Order & Sequence. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "IBPS Clerk",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Ranking, Order & Sequence Practice Q11: Apply the concepts learned to solve this medium level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 3,
+          "difficulty": "medium",
+          "solutionSteps": "Apply the standard method for Ranking, Order & Sequence. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "IBPS Clerk",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Ranking, Order & Sequence Practice Q12: Apply the concepts learned to solve this medium level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "solutionSteps": "Apply the standard method for Ranking, Order & Sequence. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "IBPS Clerk",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Ranking, Order & Sequence Practice Q13: Apply the concepts learned to solve this medium level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 1,
+          "difficulty": "medium",
+          "solutionSteps": "Apply the standard method for Ranking, Order & Sequence. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "IBPS Clerk",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Ranking, Order & Sequence Practice Q14: Apply the concepts learned to solve this medium level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "solutionSteps": "Apply the standard method for Ranking, Order & Sequence. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "IBPS Clerk",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Ranking, Order & Sequence Practice Q15: Apply the concepts learned to solve this hard level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 3,
+          "difficulty": "hard",
+          "solutionSteps": "Apply the standard method for Ranking, Order & Sequence. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "IBPS Clerk",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Ranking, Order & Sequence Practice Q16: Apply the concepts learned to solve this hard level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 0,
+          "difficulty": "hard",
+          "solutionSteps": "Apply the standard method for Ranking, Order & Sequence. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "IBPS Clerk",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Ranking, Order & Sequence Practice Q17: Apply the concepts learned to solve this hard level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 1,
+          "difficulty": "hard",
+          "solutionSteps": "Apply the standard method for Ranking, Order & Sequence. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "IBPS Clerk",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Ranking, Order & Sequence Practice Q18: Apply the concepts learned to solve this hard level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 2,
+          "difficulty": "hard",
+          "solutionSteps": "Apply the standard method for Ranking, Order & Sequence. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "IBPS Clerk",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Ranking, Order & Sequence Practice Q19: Apply the concepts learned to solve this hard level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 3,
+          "difficulty": "hard",
+          "solutionSteps": "Apply the standard method for Ranking, Order & Sequence. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "IBPS Clerk",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Ranking, Order & Sequence Practice Q20: Apply the concepts learned to solve this hard level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 0,
+          "difficulty": "hard",
+          "solutionSteps": "Apply the standard method for Ranking, Order & Sequence. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "IBPS Clerk",
+            "RRB NTPC"
+          ]
+        }
+      ]
+    }
+  ]
+}

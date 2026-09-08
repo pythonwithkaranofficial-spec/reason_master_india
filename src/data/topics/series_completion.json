@@ -1,0 +1,754 @@
+{
+  "id": "series_completion",
+  "category": "verbal",
+  "name": "Series Completion",
+  "iconName": "trending_up",
+  "shortcutSummary": "Find the pattern by checking differences between consecutive terms. If first differences are not constant, check second differences. For letter series, convert to numbers (A=1, B=2...) and find the pattern.",
+  "conceptExplanation": "Series Completion questions give you a sequence with a missing term. You must identify the pattern — arithmetic, geometric, alternating, or mixed — and predict the next or missing term.\n\nTypes include: Number series, Alphabet series, Alpha-numeric series, and Missing term series. These are among the most frequently asked topics in SSC, Banking, and Railways exams.",
+  "subtopics": [
+    {
+      "id": "number_series",
+      "name": "Number Series",
+      "explanation": "A sequence of numbers following a pattern. Common patterns: constant difference (AP), constant ratio (GP), squares, cubes, alternating operations, and nested patterns.",
+      "shortcuts": [
+        "Difference Method: Calculate differences between consecutive terms. If differences are constant → AP. If differences form their own pattern → look deeper.",
+        "Ratio Method: Divide consecutive terms. If ratios are constant → GP.",
+        "Alternating Pattern: Check if odd-positioned and even-positioned terms follow separate patterns."
+      ],
+      "examples": [
+        {
+          "questionText": "What comes next: 2, 4, 6, 8, ?",
+          "difficulty": "easy",
+          "solutionSteps": "Constant difference of 2. Next: 10.",
+          "shortcutApplied": "Difference Method: Calculate differences between consecutive terms. If differences are constant → AP. If differences form their own pattern → look deeper."
+        },
+        {
+          "questionText": "What comes next: 3, 6, 12, 24, ?",
+          "difficulty": "medium",
+          "solutionSteps": "Each term × 2. Next: 48.",
+          "shortcutApplied": "Ratio Method: Divide consecutive terms. If ratios are constant → GP."
+        },
+        {
+          "questionText": "What comes next: 2, 3, 5, 8, 13, ?",
+          "difficulty": "hard",
+          "solutionSteps": "Differences: 1, 2, 3, 5. The differences themselves form: 1, 2, 3, 5 (Fibonacci-like). Next diff = 3+5 = 8. Answer: 13+8 = 21.",
+          "shortcutApplied": "Alternating Pattern: Check if odd-positioned and even-positioned terms follow separate patterns."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "questionText": "Number Series Practice Q1: Apply the concepts learned to solve this easy level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 1,
+          "difficulty": "easy",
+          "solutionSteps": "Apply the standard method for Number Series. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "IBPS PO",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Number Series Practice Q2: Apply the concepts learned to solve this easy level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 2,
+          "difficulty": "easy",
+          "solutionSteps": "Apply the standard method for Number Series. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "IBPS PO",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Number Series Practice Q3: Apply the concepts learned to solve this easy level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 3,
+          "difficulty": "easy",
+          "solutionSteps": "Apply the standard method for Number Series. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "IBPS PO",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Number Series Practice Q4: Apply the concepts learned to solve this easy level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "solutionSteps": "Apply the standard method for Number Series. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "IBPS PO",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Number Series Practice Q5: Apply the concepts learned to solve this easy level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 1,
+          "difficulty": "easy",
+          "solutionSteps": "Apply the standard method for Number Series. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "IBPS PO",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Number Series Practice Q6: Apply the concepts learned to solve this easy level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 2,
+          "difficulty": "easy",
+          "solutionSteps": "Apply the standard method for Number Series. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "IBPS PO",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Number Series Practice Q7: Apply the concepts learned to solve this easy level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 3,
+          "difficulty": "easy",
+          "solutionSteps": "Apply the standard method for Number Series. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "IBPS PO",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Number Series Practice Q8: Apply the concepts learned to solve this medium level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "solutionSteps": "Apply the standard method for Number Series. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "IBPS PO",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Number Series Practice Q9: Apply the concepts learned to solve this medium level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 1,
+          "difficulty": "medium",
+          "solutionSteps": "Apply the standard method for Number Series. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "IBPS PO",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Number Series Practice Q10: Apply the concepts learned to solve this medium level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "solutionSteps": "Apply the standard method for Number Series. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "IBPS PO",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Number Series Practice Q11: Apply the concepts learned to solve this medium level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 3,
+          "difficulty": "medium",
+          "solutionSteps": "Apply the standard method for Number Series. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "IBPS PO",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Number Series Practice Q12: Apply the concepts learned to solve this medium level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "solutionSteps": "Apply the standard method for Number Series. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "IBPS PO",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Number Series Practice Q13: Apply the concepts learned to solve this medium level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 1,
+          "difficulty": "medium",
+          "solutionSteps": "Apply the standard method for Number Series. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "IBPS PO",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Number Series Practice Q14: Apply the concepts learned to solve this medium level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "solutionSteps": "Apply the standard method for Number Series. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "IBPS PO",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Number Series Practice Q15: Apply the concepts learned to solve this hard level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 3,
+          "difficulty": "hard",
+          "solutionSteps": "Apply the standard method for Number Series. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "IBPS PO",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Number Series Practice Q16: Apply the concepts learned to solve this hard level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 0,
+          "difficulty": "hard",
+          "solutionSteps": "Apply the standard method for Number Series. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "IBPS PO",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Number Series Practice Q17: Apply the concepts learned to solve this hard level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 1,
+          "difficulty": "hard",
+          "solutionSteps": "Apply the standard method for Number Series. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "IBPS PO",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Number Series Practice Q18: Apply the concepts learned to solve this hard level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 2,
+          "difficulty": "hard",
+          "solutionSteps": "Apply the standard method for Number Series. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "IBPS PO",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Number Series Practice Q19: Apply the concepts learned to solve this hard level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 3,
+          "difficulty": "hard",
+          "solutionSteps": "Apply the standard method for Number Series. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "IBPS PO",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Number Series Practice Q20: Apply the concepts learned to solve this hard level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 0,
+          "difficulty": "hard",
+          "solutionSteps": "Apply the standard method for Number Series. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "IBPS PO",
+            "RRB NTPC"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "alphabet_series",
+      "name": "Alphabet Series",
+      "explanation": "A sequence of letters or letter groups following a positional pattern. Convert letters to numbers to spot the pattern.",
+      "shortcuts": [
+        "EJOTY Trick: E=5, J=10, O=15, T=20, Y=25 — use these as anchor points for quick position calculation.",
+        "Gap Method: Find the positional gap between consecutive letters.",
+        "Reverse Pattern: Check if the series alternates between forward and backward movement."
+      ],
+      "examples": [
+        {
+          "questionText": "What comes next: A, C, E, G, ?",
+          "difficulty": "easy",
+          "solutionSteps": "Gap of 2 between each letter. G+2 = I.",
+          "shortcutApplied": "EJOTY Trick: E=5, J=10, O=15, T=20, Y=25 — use these as anchor points for quick position calculation."
+        },
+        {
+          "questionText": "What comes next: B, E, H, K, ?",
+          "difficulty": "medium",
+          "solutionSteps": "Gap of 3. K(11)+3 = N(14).",
+          "shortcutApplied": "Gap Method: Find the positional gap between consecutive letters."
+        },
+        {
+          "questionText": "What comes next: Z, X, U, Q, ?",
+          "difficulty": "hard",
+          "solutionSteps": "Gaps: -2, -3, -4. Next gap: -5. Q(17)-5 = L(12).",
+          "shortcutApplied": "Reverse Pattern: Check if the series alternates between forward and backward movement."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "questionText": "Alphabet Series Practice Q1: Apply the concepts learned to solve this easy level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 1,
+          "difficulty": "easy",
+          "solutionSteps": "Apply the standard method for Alphabet Series. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Alphabet Series Practice Q2: Apply the concepts learned to solve this easy level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 2,
+          "difficulty": "easy",
+          "solutionSteps": "Apply the standard method for Alphabet Series. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Alphabet Series Practice Q3: Apply the concepts learned to solve this easy level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 3,
+          "difficulty": "easy",
+          "solutionSteps": "Apply the standard method for Alphabet Series. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Alphabet Series Practice Q4: Apply the concepts learned to solve this easy level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "solutionSteps": "Apply the standard method for Alphabet Series. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Alphabet Series Practice Q5: Apply the concepts learned to solve this easy level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 1,
+          "difficulty": "easy",
+          "solutionSteps": "Apply the standard method for Alphabet Series. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Alphabet Series Practice Q6: Apply the concepts learned to solve this easy level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 2,
+          "difficulty": "easy",
+          "solutionSteps": "Apply the standard method for Alphabet Series. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Alphabet Series Practice Q7: Apply the concepts learned to solve this easy level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 3,
+          "difficulty": "easy",
+          "solutionSteps": "Apply the standard method for Alphabet Series. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Alphabet Series Practice Q8: Apply the concepts learned to solve this medium level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "solutionSteps": "Apply the standard method for Alphabet Series. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Alphabet Series Practice Q9: Apply the concepts learned to solve this medium level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 1,
+          "difficulty": "medium",
+          "solutionSteps": "Apply the standard method for Alphabet Series. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Alphabet Series Practice Q10: Apply the concepts learned to solve this medium level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "solutionSteps": "Apply the standard method for Alphabet Series. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Alphabet Series Practice Q11: Apply the concepts learned to solve this medium level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 3,
+          "difficulty": "medium",
+          "solutionSteps": "Apply the standard method for Alphabet Series. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Alphabet Series Practice Q12: Apply the concepts learned to solve this medium level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "solutionSteps": "Apply the standard method for Alphabet Series. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Alphabet Series Practice Q13: Apply the concepts learned to solve this medium level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 1,
+          "difficulty": "medium",
+          "solutionSteps": "Apply the standard method for Alphabet Series. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Alphabet Series Practice Q14: Apply the concepts learned to solve this medium level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "solutionSteps": "Apply the standard method for Alphabet Series. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Alphabet Series Practice Q15: Apply the concepts learned to solve this hard level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 3,
+          "difficulty": "hard",
+          "solutionSteps": "Apply the standard method for Alphabet Series. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Alphabet Series Practice Q16: Apply the concepts learned to solve this hard level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 0,
+          "difficulty": "hard",
+          "solutionSteps": "Apply the standard method for Alphabet Series. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Alphabet Series Practice Q17: Apply the concepts learned to solve this hard level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 1,
+          "difficulty": "hard",
+          "solutionSteps": "Apply the standard method for Alphabet Series. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Alphabet Series Practice Q18: Apply the concepts learned to solve this hard level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 2,
+          "difficulty": "hard",
+          "solutionSteps": "Apply the standard method for Alphabet Series. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Alphabet Series Practice Q19: Apply the concepts learned to solve this hard level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 3,
+          "difficulty": "hard",
+          "solutionSteps": "Apply the standard method for Alphabet Series. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Alphabet Series Practice Q20: Apply the concepts learned to solve this hard level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 0,
+          "difficulty": "hard",
+          "solutionSteps": "Apply the standard method for Alphabet Series. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        }
+      ]
+    }
+  ]
+}

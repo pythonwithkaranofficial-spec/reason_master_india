@@ -1,0 +1,394 @@
+{
+  "id": "data_sufficiency",
+  "category": "verbal",
+  "name": "Data Sufficiency",
+  "iconName": "data_usage",
+  "shortcutSummary": "Check each statement independently first, then together. A statement is sufficient if it alone provides enough information to answer the question definitively.",
+  "conceptExplanation": "Data Sufficiency questions ask whether the given statements provide enough data to answer a question. You must determine if Statement I alone, Statement II alone, both together, or neither is sufficient.",
+  "subtopics": [
+    {
+      "id": "data_sufficiency_core",
+      "name": "Data Sufficiency — Core Concepts",
+      "explanation": "Data Sufficiency questions ask whether the given statements provide enough data to answer a question. You must determine if Statement I alone, Statement II alone, both together, or neither is sufficient.",
+      "shortcuts": [
+        "Independent Check: Test each statement alone before combining them.",
+        "Definitive Answer Required: The data must give one clear answer, not multiple possibilities.",
+        "Don't Solve Fully: You only need to determine IF you CAN answer, not compute the exact answer."
+      ],
+      "examples": [
+        {
+          "questionText": "Sample easy question for Data Sufficiency: Identify the basic concept being tested.",
+          "difficulty": "easy",
+          "solutionSteps": "Step 1: Read the question carefully.\nStep 2: Apply the fundamental concept of Data Sufficiency.\nStep 3: Verify your answer.",
+          "shortcutApplied": "Basic Concept Application"
+        },
+        {
+          "questionText": "Sample medium question for Data Sufficiency: Apply the standard shortcut method.",
+          "difficulty": "medium",
+          "solutionSteps": "Step 1: Identify what is being asked.\nStep 2: Apply the shortcut technique.\nStep 3: Cross-verify with the options.",
+          "shortcutApplied": "Standard Shortcut Method"
+        },
+        {
+          "questionText": "Sample medium-hard question for Data Sufficiency: Multi-step problem requiring careful analysis.",
+          "difficulty": "medium",
+          "solutionSteps": "Step 1: Break the problem into parts.\nStep 2: Solve each part systematically.\nStep 3: Combine the results.\nStep 4: Verify.",
+          "shortcutApplied": "Systematic Analysis"
+        },
+        {
+          "questionText": "Sample hard question for Data Sufficiency: Complex scenario with multiple conditions.",
+          "difficulty": "hard",
+          "solutionSteps": "Step 1: List all given conditions.\nStep 2: Apply elimination method.\nStep 3: Use the shortcut to narrow down.\nStep 4: Verify against all conditions.",
+          "shortcutApplied": "Elimination + Verification"
+        },
+        {
+          "questionText": "Sample advanced question for Data Sufficiency: Tricky variation requiring deep understanding.",
+          "difficulty": "hard",
+          "solutionSteps": "Step 1: Identify the twist in the question.\nStep 2: Apply the advanced technique.\nStep 3: Double-check your reasoning.",
+          "shortcutApplied": "Advanced Technique"
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "questionText": "Data Sufficiency Practice Q1: Apply the concepts learned to solve this easy level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 1,
+          "difficulty": "easy",
+          "solutionSteps": "Apply the standard method for Data Sufficiency. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "IBPS PO",
+            "SBI PO",
+            "SSC CGL"
+          ]
+        },
+        {
+          "questionText": "Data Sufficiency Practice Q2: Apply the concepts learned to solve this easy level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 2,
+          "difficulty": "easy",
+          "solutionSteps": "Apply the standard method for Data Sufficiency. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "IBPS PO",
+            "SBI PO",
+            "SSC CGL"
+          ]
+        },
+        {
+          "questionText": "Data Sufficiency Practice Q3: Apply the concepts learned to solve this easy level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 3,
+          "difficulty": "easy",
+          "solutionSteps": "Apply the standard method for Data Sufficiency. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "IBPS PO",
+            "SBI PO",
+            "SSC CGL"
+          ]
+        },
+        {
+          "questionText": "Data Sufficiency Practice Q4: Apply the concepts learned to solve this easy level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "solutionSteps": "Apply the standard method for Data Sufficiency. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "IBPS PO",
+            "SBI PO",
+            "SSC CGL"
+          ]
+        },
+        {
+          "questionText": "Data Sufficiency Practice Q5: Apply the concepts learned to solve this easy level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 1,
+          "difficulty": "easy",
+          "solutionSteps": "Apply the standard method for Data Sufficiency. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "IBPS PO",
+            "SBI PO",
+            "SSC CGL"
+          ]
+        },
+        {
+          "questionText": "Data Sufficiency Practice Q6: Apply the concepts learned to solve this easy level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 2,
+          "difficulty": "easy",
+          "solutionSteps": "Apply the standard method for Data Sufficiency. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "IBPS PO",
+            "SBI PO",
+            "SSC CGL"
+          ]
+        },
+        {
+          "questionText": "Data Sufficiency Practice Q7: Apply the concepts learned to solve this easy level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 3,
+          "difficulty": "easy",
+          "solutionSteps": "Apply the standard method for Data Sufficiency. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "IBPS PO",
+            "SBI PO",
+            "SSC CGL"
+          ]
+        },
+        {
+          "questionText": "Data Sufficiency Practice Q8: Apply the concepts learned to solve this medium level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "solutionSteps": "Apply the standard method for Data Sufficiency. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "IBPS PO",
+            "SBI PO",
+            "SSC CGL"
+          ]
+        },
+        {
+          "questionText": "Data Sufficiency Practice Q9: Apply the concepts learned to solve this medium level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 1,
+          "difficulty": "medium",
+          "solutionSteps": "Apply the standard method for Data Sufficiency. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "IBPS PO",
+            "SBI PO",
+            "SSC CGL"
+          ]
+        },
+        {
+          "questionText": "Data Sufficiency Practice Q10: Apply the concepts learned to solve this medium level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "solutionSteps": "Apply the standard method for Data Sufficiency. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "IBPS PO",
+            "SBI PO",
+            "SSC CGL"
+          ]
+        },
+        {
+          "questionText": "Data Sufficiency Practice Q11: Apply the concepts learned to solve this medium level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 3,
+          "difficulty": "medium",
+          "solutionSteps": "Apply the standard method for Data Sufficiency. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "IBPS PO",
+            "SBI PO",
+            "SSC CGL"
+          ]
+        },
+        {
+          "questionText": "Data Sufficiency Practice Q12: Apply the concepts learned to solve this medium level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "solutionSteps": "Apply the standard method for Data Sufficiency. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "IBPS PO",
+            "SBI PO",
+            "SSC CGL"
+          ]
+        },
+        {
+          "questionText": "Data Sufficiency Practice Q13: Apply the concepts learned to solve this medium level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 1,
+          "difficulty": "medium",
+          "solutionSteps": "Apply the standard method for Data Sufficiency. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "IBPS PO",
+            "SBI PO",
+            "SSC CGL"
+          ]
+        },
+        {
+          "questionText": "Data Sufficiency Practice Q14: Apply the concepts learned to solve this medium level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "solutionSteps": "Apply the standard method for Data Sufficiency. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "IBPS PO",
+            "SBI PO",
+            "SSC CGL"
+          ]
+        },
+        {
+          "questionText": "Data Sufficiency Practice Q15: Apply the concepts learned to solve this hard level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 3,
+          "difficulty": "hard",
+          "solutionSteps": "Apply the standard method for Data Sufficiency. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "IBPS PO",
+            "SBI PO",
+            "SSC CGL"
+          ]
+        },
+        {
+          "questionText": "Data Sufficiency Practice Q16: Apply the concepts learned to solve this hard level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 0,
+          "difficulty": "hard",
+          "solutionSteps": "Apply the standard method for Data Sufficiency. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "IBPS PO",
+            "SBI PO",
+            "SSC CGL"
+          ]
+        },
+        {
+          "questionText": "Data Sufficiency Practice Q17: Apply the concepts learned to solve this hard level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 1,
+          "difficulty": "hard",
+          "solutionSteps": "Apply the standard method for Data Sufficiency. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "IBPS PO",
+            "SBI PO",
+            "SSC CGL"
+          ]
+        },
+        {
+          "questionText": "Data Sufficiency Practice Q18: Apply the concepts learned to solve this hard level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 2,
+          "difficulty": "hard",
+          "solutionSteps": "Apply the standard method for Data Sufficiency. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "IBPS PO",
+            "SBI PO",
+            "SSC CGL"
+          ]
+        },
+        {
+          "questionText": "Data Sufficiency Practice Q19: Apply the concepts learned to solve this hard level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 3,
+          "difficulty": "hard",
+          "solutionSteps": "Apply the standard method for Data Sufficiency. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "IBPS PO",
+            "SBI PO",
+            "SSC CGL"
+          ]
+        },
+        {
+          "questionText": "Data Sufficiency Practice Q20: Apply the concepts learned to solve this hard level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 0,
+          "difficulty": "hard",
+          "solutionSteps": "Apply the standard method for Data Sufficiency. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "IBPS PO",
+            "SBI PO",
+            "SSC CGL"
+          ]
+        }
+      ]
+    }
+  ]
+}

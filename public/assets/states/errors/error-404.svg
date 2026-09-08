@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 140" width="140" height="140" fill="none">
+  <!-- Subtle Framing Halo -->
+  <circle cx="70" cy="70" r="64" fill="#FEF2F2" />
+  <circle cx="70" cy="70" r="56" stroke="#FEE2E2" stroke-width="1.5" stroke-dasharray="5 5" />
+
+  <!-- Geometric Logic Path with Disconnection -->
+  <path d="M30 70 H52" stroke="#DC2626" stroke-width="3" stroke-linecap="round" />
+  <path d="M88 70 H110" stroke="#DC2626" stroke-width="3" stroke-linecap="round" />
+  
+  <!-- Disconnected Waypoint Nodes -->
+  <circle cx="52" cy="70" r="5" fill="#EF4444" />
+  <circle cx="88" cy="70" r="5" fill="#EF4444" />
+
+  <!-- Center 404 Shield / Emblem -->
+  <rect x="52" y="44" width="36" height="52" rx="8" fill="#FFFFFF" stroke="#DC2626" stroke-width="2.5" />
+  
+  <!-- 404 Monospace Glyph Representation -->
+  <text x="70" y="68" font-family="monospace, -apple-system, sans-serif" font-weight="900" font-size="16" fill="#991B1B" text-anchor="middle">
+    404
+  </text>
+  
+  <!-- Disconnected Inquiry Dot -->
+  <circle cx="70" cy="80" r="3" fill="#F59E0B" />
+
+  <!-- Floating Question Sparkles -->
+  <path d="M42 42 L46 46 M46 42 L42 46" stroke="#94A3B8" stroke-width="2" stroke-linecap="round" />
+  <path d="M96 92 L100 96 M100 92 L96 96" stroke="#94A3B8" stroke-width="2" stroke-linecap="round" />
+</svg>

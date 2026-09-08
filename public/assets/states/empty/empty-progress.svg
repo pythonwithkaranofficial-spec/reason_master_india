@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" fill="none">
+  <!-- Circular Halo -->
+  <circle cx="60" cy="60" r="54" fill="#F0FDF4" />
+  <circle cx="60" cy="60" r="48" stroke="#DCFCE7" stroke-width="1.5" stroke-dasharray="4 4" />
+
+  <!-- Navigational Compass Dial -->
+  <circle cx="60" cy="60" r="32" fill="#FFFFFF" stroke="#16A34A" stroke-width="2.5" />
+  
+  <!-- Compass Degree Marks -->
+  <circle cx="60" cy="34" r="1.5" fill="#15803D" />
+  <circle cx="60" cy="86" r="1.5" fill="#15803D" />
+  <circle cx="34" cy="60" r="1.5" fill="#15803D" />
+  <circle cx="86" cy="60" r="1.5" fill="#15803D" />
+
+  <!-- Magnetic Needle Pointer (Pointing to North Mastery) -->
+  <polygon points="60,36 65,60 60,56 55,60" fill="#F59E0B" />
+  <polygon points="60,84 65,60 60,64 55,60" fill="#94A3B8" />
+  <circle cx="60" cy="60" r="4" fill="#1E293B" />
+  <circle cx="60" cy="60" r="1.5" fill="#FFFFFF" />
+
+  <!-- Progress Flag Pin at Top -->
+  <line x1="60" y1="20" x2="60" y2="34" stroke="#D97706" stroke-width="2" />
+  <polygon points="60,20 74,24 60,28" fill="#F59E0B" />
+</svg>

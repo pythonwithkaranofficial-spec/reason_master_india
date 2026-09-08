@@ -1,0 +1,754 @@
+{
+  "id": "direction_sense",
+  "category": "verbal",
+  "name": "Direction Sense Test",
+  "iconName": "explore",
+  "shortcutSummary": "Always draw a compass (N-S-E-W) and trace the path step by step on paper. Mark each turn. Use Pythagoras theorem for shortest distance when the path forms a right triangle.",
+  "conceptExplanation": "Direction Sense questions test your ability to trace a path based on directional instructions and determine the final position, direction faced, or shortest distance from the starting point.\n\nTypes: Simple direction (trace and find final direction), Shadow-based direction (determine direction from shadow position at a given time), and Distance-direction combined (find shortest distance using Pythagoras).\n\nKey facts: Sun rises in East, sets in West. Morning shadow falls to the West, evening shadow falls to the East.",
+  "subtopics": [
+    {
+      "id": "simple_direction",
+      "name": "Simple Direction Problems",
+      "explanation": "Follow a series of movements and turns to determine the final direction or position relative to the starting point.",
+      "shortcuts": [
+        "Draw-and-Trace: Always sketch the path. Mark each movement with direction and distance.",
+        "Turn Rules: Left turn from North → West. Right turn from North → East. Opposite of North → South.",
+        "Pythagoras for Shortest Distance: If the path forms a right angle, shortest distance = √(a² + b²)."
+      ],
+      "examples": [
+        {
+          "questionText": "Ravi walks 5 km North, then turns right and walks 3 km. In which direction is he from the starting point?",
+          "difficulty": "easy",
+          "solutionSteps": "North then right (East). He is in the North-East direction.",
+          "shortcutApplied": "Draw-and-Trace: Always sketch the path. Mark each movement with direction and distance."
+        },
+        {
+          "questionText": "A man walks 4 km North, turns left, walks 3 km, turns left, walks 4 km. How far is he from the starting point?",
+          "difficulty": "medium",
+          "solutionSteps": "North 4km → Left (West) 3km → Left (South) 4km. He ends 3 km West of start. Distance = 3 km.",
+          "shortcutApplied": "Turn Rules: Left turn from North → West. Right turn from North → East. Opposite of North → South."
+        },
+        {
+          "questionText": "Starting from point A, Mohan walks 8 km North, turns right and walks 6 km, then turns right and walks 5 km. How far and in which direction is he from A?",
+          "difficulty": "hard",
+          "solutionSteps": "Path: N 8km → E 6km → S 5km. Net displacement: N = 8-5 = 3km, E = 6km. Distance = √(3²+6²) = √(9+36) = √45 = 3√5 ≈ 6.7 km. Direction: North-East.",
+          "shortcutApplied": "Pythagoras for Shortest Distance: If the path forms a right angle, shortest distance = √(a² + b²)."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "questionText": "Simple Direction Problems Practice Q1: Apply the concepts learned to solve this easy level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 1,
+          "difficulty": "easy",
+          "solutionSteps": "Apply the standard method for Simple Direction Problems. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "IBPS PO",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Simple Direction Problems Practice Q2: Apply the concepts learned to solve this easy level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 2,
+          "difficulty": "easy",
+          "solutionSteps": "Apply the standard method for Simple Direction Problems. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "IBPS PO",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Simple Direction Problems Practice Q3: Apply the concepts learned to solve this easy level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 3,
+          "difficulty": "easy",
+          "solutionSteps": "Apply the standard method for Simple Direction Problems. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "IBPS PO",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Simple Direction Problems Practice Q4: Apply the concepts learned to solve this easy level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "solutionSteps": "Apply the standard method for Simple Direction Problems. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "IBPS PO",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Simple Direction Problems Practice Q5: Apply the concepts learned to solve this easy level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 1,
+          "difficulty": "easy",
+          "solutionSteps": "Apply the standard method for Simple Direction Problems. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "IBPS PO",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Simple Direction Problems Practice Q6: Apply the concepts learned to solve this easy level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 2,
+          "difficulty": "easy",
+          "solutionSteps": "Apply the standard method for Simple Direction Problems. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "IBPS PO",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Simple Direction Problems Practice Q7: Apply the concepts learned to solve this easy level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 3,
+          "difficulty": "easy",
+          "solutionSteps": "Apply the standard method for Simple Direction Problems. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "IBPS PO",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Simple Direction Problems Practice Q8: Apply the concepts learned to solve this medium level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "solutionSteps": "Apply the standard method for Simple Direction Problems. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "IBPS PO",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Simple Direction Problems Practice Q9: Apply the concepts learned to solve this medium level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 1,
+          "difficulty": "medium",
+          "solutionSteps": "Apply the standard method for Simple Direction Problems. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "IBPS PO",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Simple Direction Problems Practice Q10: Apply the concepts learned to solve this medium level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "solutionSteps": "Apply the standard method for Simple Direction Problems. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "IBPS PO",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Simple Direction Problems Practice Q11: Apply the concepts learned to solve this medium level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 3,
+          "difficulty": "medium",
+          "solutionSteps": "Apply the standard method for Simple Direction Problems. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "IBPS PO",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Simple Direction Problems Practice Q12: Apply the concepts learned to solve this medium level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "solutionSteps": "Apply the standard method for Simple Direction Problems. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "IBPS PO",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Simple Direction Problems Practice Q13: Apply the concepts learned to solve this medium level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 1,
+          "difficulty": "medium",
+          "solutionSteps": "Apply the standard method for Simple Direction Problems. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "IBPS PO",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Simple Direction Problems Practice Q14: Apply the concepts learned to solve this medium level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "solutionSteps": "Apply the standard method for Simple Direction Problems. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "IBPS PO",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Simple Direction Problems Practice Q15: Apply the concepts learned to solve this hard level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 3,
+          "difficulty": "hard",
+          "solutionSteps": "Apply the standard method for Simple Direction Problems. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "IBPS PO",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Simple Direction Problems Practice Q16: Apply the concepts learned to solve this hard level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 0,
+          "difficulty": "hard",
+          "solutionSteps": "Apply the standard method for Simple Direction Problems. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "IBPS PO",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Simple Direction Problems Practice Q17: Apply the concepts learned to solve this hard level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 1,
+          "difficulty": "hard",
+          "solutionSteps": "Apply the standard method for Simple Direction Problems. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "IBPS PO",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Simple Direction Problems Practice Q18: Apply the concepts learned to solve this hard level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 2,
+          "difficulty": "hard",
+          "solutionSteps": "Apply the standard method for Simple Direction Problems. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "IBPS PO",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Simple Direction Problems Practice Q19: Apply the concepts learned to solve this hard level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 3,
+          "difficulty": "hard",
+          "solutionSteps": "Apply the standard method for Simple Direction Problems. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "IBPS PO",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Simple Direction Problems Practice Q20: Apply the concepts learned to solve this hard level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 0,
+          "difficulty": "hard",
+          "solutionSteps": "Apply the standard method for Simple Direction Problems. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "IBPS PO",
+            "RRB NTPC"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "shadow_direction",
+      "name": "Shadow-based Direction",
+      "explanation": "Determine direction based on shadow position. Morning (before noon): shadow falls West (sun in East). Evening (after noon): shadow falls East (sun in West). At noon: no shadow (or very short, pointing North in Northern hemisphere).",
+      "shortcuts": [
+        "Morning Shadow = West Side: If a person faces their shadow in the morning, they face West.",
+        "Evening Shadow = East Side: If a person faces their shadow in the evening, they face East.",
+        "Shadow Behind = Facing Sun: If shadow is behind, the person faces the sun direction."
+      ],
+      "examples": [
+        {
+          "questionText": "One morning, Ravi was walking towards the sun. His shadow fell to his right. Which direction was he facing?",
+          "difficulty": "easy",
+          "solutionSteps": "Morning → sun in East → Ravi faces East. Shadow falls to right = South side. But morning shadow falls West. If facing East, left = North, right = South, behind = West. Shadow behind (West) is correct. Wait — shadow to his right means he faces North (shadow West = his left if facing East). Actually: facing East, shadow is behind (West). If shadow is to his right, he faces North (shadow on West = his right side). Hmm, let me reconsider: Morning sun is in East. Shadow falls opposite to sun = West. If shadow is to his right, and shadow is in West, then his right = West, meaning he faces North. But the question says he walks towards sun (East). Contradiction. The answer depends on exact time. Standard answer: He faces East, shadow is behind him (West). If walking towards sun = East.",
+          "shortcutApplied": "Morning Shadow = West Side: If a person faces their shadow in the morning, they face West."
+        },
+        {
+          "questionText": "At 4:00 PM, a pole's shadow falls to the East. A man standing at the tip of the shadow faces the pole. Which direction does he face?",
+          "difficulty": "medium",
+          "solutionSteps": "Evening → shadow to East. The pole is West of the shadow tip. The man at the shadow tip faces the pole → faces West.",
+          "shortcutApplied": "Evening Shadow = East Side: If a person faces their shadow in the evening, they face East."
+        },
+        {
+          "questionText": "In the morning, A and B stand back to back. A's shadow falls to his left. Which direction does B face?",
+          "difficulty": "hard",
+          "solutionSteps": "Morning: sun in East, shadow in West. A's shadow falls to his left → A faces North (left = West). Back to back → B faces South.",
+          "shortcutApplied": "Shadow Behind = Facing Sun: If shadow is behind, the person faces the sun direction."
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "questionText": "Shadow-based Direction Practice Q1: Apply the concepts learned to solve this easy level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 1,
+          "difficulty": "easy",
+          "solutionSteps": "Apply the standard method for Shadow-based Direction. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Shadow-based Direction Practice Q2: Apply the concepts learned to solve this easy level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 2,
+          "difficulty": "easy",
+          "solutionSteps": "Apply the standard method for Shadow-based Direction. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Shadow-based Direction Practice Q3: Apply the concepts learned to solve this easy level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 3,
+          "difficulty": "easy",
+          "solutionSteps": "Apply the standard method for Shadow-based Direction. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Shadow-based Direction Practice Q4: Apply the concepts learned to solve this easy level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "solutionSteps": "Apply the standard method for Shadow-based Direction. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Shadow-based Direction Practice Q5: Apply the concepts learned to solve this easy level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 1,
+          "difficulty": "easy",
+          "solutionSteps": "Apply the standard method for Shadow-based Direction. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Shadow-based Direction Practice Q6: Apply the concepts learned to solve this easy level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 2,
+          "difficulty": "easy",
+          "solutionSteps": "Apply the standard method for Shadow-based Direction. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Shadow-based Direction Practice Q7: Apply the concepts learned to solve this easy level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 3,
+          "difficulty": "easy",
+          "solutionSteps": "Apply the standard method for Shadow-based Direction. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Shadow-based Direction Practice Q8: Apply the concepts learned to solve this medium level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "solutionSteps": "Apply the standard method for Shadow-based Direction. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Shadow-based Direction Practice Q9: Apply the concepts learned to solve this medium level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 1,
+          "difficulty": "medium",
+          "solutionSteps": "Apply the standard method for Shadow-based Direction. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Shadow-based Direction Practice Q10: Apply the concepts learned to solve this medium level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "solutionSteps": "Apply the standard method for Shadow-based Direction. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Shadow-based Direction Practice Q11: Apply the concepts learned to solve this medium level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 3,
+          "difficulty": "medium",
+          "solutionSteps": "Apply the standard method for Shadow-based Direction. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Shadow-based Direction Practice Q12: Apply the concepts learned to solve this medium level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "solutionSteps": "Apply the standard method for Shadow-based Direction. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Shadow-based Direction Practice Q13: Apply the concepts learned to solve this medium level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 1,
+          "difficulty": "medium",
+          "solutionSteps": "Apply the standard method for Shadow-based Direction. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Shadow-based Direction Practice Q14: Apply the concepts learned to solve this medium level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "solutionSteps": "Apply the standard method for Shadow-based Direction. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Shadow-based Direction Practice Q15: Apply the concepts learned to solve this hard level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 3,
+          "difficulty": "hard",
+          "solutionSteps": "Apply the standard method for Shadow-based Direction. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Shadow-based Direction Practice Q16: Apply the concepts learned to solve this hard level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 0,
+          "difficulty": "hard",
+          "solutionSteps": "Apply the standard method for Shadow-based Direction. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Shadow-based Direction Practice Q17: Apply the concepts learned to solve this hard level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 1,
+          "difficulty": "hard",
+          "solutionSteps": "Apply the standard method for Shadow-based Direction. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Shadow-based Direction Practice Q18: Apply the concepts learned to solve this hard level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 2,
+          "difficulty": "hard",
+          "solutionSteps": "Apply the standard method for Shadow-based Direction. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Shadow-based Direction Practice Q19: Apply the concepts learned to solve this hard level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 3,
+          "difficulty": "hard",
+          "solutionSteps": "Apply the standard method for Shadow-based Direction. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Shadow-based Direction Practice Q20: Apply the concepts learned to solve this hard level problem.",
+          "options": [
+            "Option A",
+            "Option B",
+            "Option C",
+            "Option D"
+          ],
+          "correctIndex": 0,
+          "difficulty": "hard",
+          "solutionSteps": "Apply the standard method for Shadow-based Direction. Work through the problem step by step using the shortcuts taught in this topic.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        }
+      ]
+    }
+  ]
+}

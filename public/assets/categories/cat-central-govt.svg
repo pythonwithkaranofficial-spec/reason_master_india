@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" fill="none">
+  <!-- Rounded Base Container -->
+  <rect width="64" height="64" rx="14" fill="#FFFBEB" />
+  <rect x="2" y="2" width="60" height="60" rx="12" stroke="#FDE68A" stroke-width="1.5" />
+
+  <!-- Central Secretariat Apex Dome & Civic Wheel Geometry -->
+  <!-- Stately Apex Dome -->
+  <path d="M22 28 C22 20 42 20 42 28 Z" fill="#B45309" />
+  <rect x="31" y="15" width="2" height="6" fill="#D97706" />
+  <circle cx="32" cy="14" r="2" fill="#F59E0B" />
+  <!-- Cornice -->
+  <rect x="19" y="28" width="26" height="3" rx="1" fill="#78350F" />
+  <!-- Classical Colonnade Base -->
+  <rect x="21" y="32" width="22" height="10" rx="1" fill="#D97706" />
+  <rect x="17" y="42" width="30" height="3" rx="1" fill="#78350F" />
+  <!-- Ashoka Chakra Spokes Motif on Center Doorway -->
+  <circle cx="32" cy="37" r="3.5" stroke="#FFFFFF" stroke-width="1.5" fill="none" />
+  <circle cx="32" cy="37" r="1" fill="#FFFFFF" />
+  <line x1="32" y1="34" x2="32" y2="40" stroke="#FFFFFF" stroke-width="0.8" />
+  <line x1="29" y1="37" x2="35" y2="37" stroke="#FFFFFF" stroke-width="0.8" />
+  <!-- Plinth Foundation -->
+  <rect x="14" y="46" width="36" height="3" rx="1.5" fill="#B45309" />
+</svg>

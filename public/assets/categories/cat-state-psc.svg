@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" fill="none">
+  <!-- Rounded Base Container -->
+  <rect width="64" height="64" rx="14" fill="#FAF5FF" />
+  <rect x="2" y="2" width="60" height="60" rx="12" stroke="#F3E8FF" stroke-width="1.5" />
+
+  <!-- Administrative Parchment Scroll & Laurel Crest -->
+  <!-- Parchment Body -->
+  <rect x="20" y="16" width="24" height="32" rx="3" fill="#6B21A8" />
+  <!-- Rolled Scroll Header & Footer Ends -->
+  <rect x="18" y="14" width="28" height="5" rx="2.5" fill="#9333EA" />
+  <rect x="18" y="45" width="28" height="5" rx="2.5" fill="#9333EA" />
+  <!-- Text Rule Lines -->
+  <line x1="25" y1="23" x2="39" y2="23" stroke="#E9D5FF" stroke-width="1.5" stroke-linecap="round" />
+  <line x1="25" y1="28" x2="39" y2="28" stroke="#E9D5FF" stroke-width="1.5" stroke-linecap="round" />
+  <line x1="25" y1="33" x2="35" y2="33" stroke="#E9D5FF" stroke-width="1.5" stroke-linecap="round" />
+  <!-- Golden Seal of Administration with Ribbon -->
+  <circle cx="32" cy="40" r="5" fill="#F59E0B" />
+  <path d="M30 44 L28 50 L32 48 L36 50 L34 44 Z" fill="#D97706" />
+</svg>

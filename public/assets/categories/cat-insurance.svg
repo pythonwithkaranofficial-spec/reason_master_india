@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" fill="none">
+  <!-- Rounded Base Container -->
+  <rect width="64" height="64" rx="14" fill="#F0FDFA" />
+  <rect x="2" y="2" width="60" height="60" rx="12" stroke="#CCFBF1" stroke-width="1.5" />
+
+  <!-- Shield of Protection with Protective Hands / Life Spark -->
+  <!-- Outer Shield Crest -->
+  <path d="M32 14 L46 20 V33 C46 43 32 50 32 50 C32 50 18 43 18 33 V20 Z" fill="#0D9488" />
+  <!-- Inner Shield Inset -->
+  <path d="M32 18 L42 22.5 V32 C42 40 32 46 32 46 C32 46 22 40 22 32 V22.5 Z" fill="#115E59" />
+  <!-- Protective Flame / Life Spark Motif -->
+  <path d="M32 24 C32 24 37 29 37 34 C37 37 34.5 39 32 39 C29.5 39 27 37 27 34 C27 29 32 24 32 24 Z" fill="#F59E0B" />
+  <circle cx="32" cy="34" r="2.5" fill="#FFFFFF" />
+</svg>
