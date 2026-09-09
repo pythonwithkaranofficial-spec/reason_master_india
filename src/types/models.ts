@@ -18,6 +18,7 @@ export interface WorkedExample {
   shortcutApplied?: string;
   difficulty?: DifficultyLevel;
   figureRef?: string;
+  figureData?: string;
 }
 
 export interface PracticeQuestion {
@@ -29,6 +30,7 @@ export interface PracticeQuestion {
   hint?: string;
   difficulty?: DifficultyLevel;
   figureRef?: string;
+  figureData?: string;
   examTags?: string[];
 }
 

@@ -308,6 +308,8 @@ function ResultContent() {
                     <NonVerbalFigureRenderer
                       topicId={q.topicId}
                       questionText={q.questionText}
+                      figureData={q.figureData}
+                      figureRef={q.figureRef}
                       isSolution={true}
                     />
 

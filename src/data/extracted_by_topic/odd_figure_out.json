@@ -1,0 +1,932 @@
+{
+  "topicId": "odd_figure_out",
+  "topicName": "Odd Figure Out",
+  "totalQuestions": 25,
+  "questions": [
+    {
+      "id": "ssc_nv_q156",
+      "topicId": "odd_figure_out",
+      "subtopicId": "odd_figure_out_core",
+      "questionType": "figure",
+      "question": "Three of the four figures are similar in a certain way. Select the figure that is different from the rest. (1) Figure I (2) Figure II (3) Figure III (4) Figure IV",
+      "questionText": "Three of the four figures are similar in a certain way. Select the figure that is different from the rest. (1) Figure I (2) Figure II (3) Figure III (4) Figure IV",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (2)",
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (2) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (2) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Odd Figure Out",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 84,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q156.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q156.png"
+    },
+    {
+      "id": "ssc_nv_q157",
+      "topicId": "odd_figure_out",
+      "subtopicId": "odd_figure_out_core",
+      "questionType": "figure",
+      "question": "Three of the four figures are similar in a certain way. Select the figure that is different from the rest. (1) Figure I (2) Figure II (3) Figure III (4) Figure IV",
+      "questionText": "Three of the four figures are similar in a certain way. Select the figure that is different from the rest. (1) Figure I (2) Figure II (3) Figure III (4) Figure IV",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (4)",
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (4) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (4) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Odd Figure Out",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 84,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q157.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q157.png"
+    },
+    {
+      "id": "ssc_nv_q158",
+      "topicId": "odd_figure_out",
+      "subtopicId": "odd_figure_out_core",
+      "questionType": "figure",
+      "question": "Three of the four figures are similar in a certain way. Select the figure that is different from the rest. (1) Figure I (2) Figure II (3) Figure III (4) Figure IV",
+      "questionText": "Three of the four figures are similar in a certain way. Select the figure that is different from the rest. (1) Figure I (2) Figure II (3) Figure III (4) Figure IV",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (3)",
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (3) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (3) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Odd Figure Out",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 85,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q158.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q158.png"
+    },
+    {
+      "id": "ssc_nv_q159",
+      "topicId": "odd_figure_out",
+      "subtopicId": "odd_figure_out_core",
+      "questionType": "figure",
+      "question": "Three of the four figures are similar in a certain way. Select the figure that is different from the rest. (1) Figure I (2) Figure II (3) Figure III (4) Figure IV",
+      "questionText": "Three of the four figures are similar in a certain way. Select the figure that is different from the rest. (1) Figure I (2) Figure II (3) Figure III (4) Figure IV",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (2)",
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (2) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (2) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Odd Figure Out",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 85,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q159.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q159.png"
+    },
+    {
+      "id": "ssc_nv_q160",
+      "topicId": "odd_figure_out",
+      "subtopicId": "odd_figure_out_core",
+      "questionType": "figure",
+      "question": "Three of the four figures are similar in a certain way. Select the figure that is different from the rest. (1) Figure I (2) Figure II (3) Figure III (4) Figure IV",
+      "questionText": "Three of the four figures are similar in a certain way. Select the figure that is different from the rest. (1) Figure I (2) Figure II (3) Figure III (4) Figure IV",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (4)",
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (4) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (4) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Odd Figure Out",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 86,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q160.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q160.png"
+    },
+    {
+      "id": "ssc_nv_q161",
+      "topicId": "odd_figure_out",
+      "subtopicId": "odd_figure_out_core",
+      "questionType": "figure",
+      "question": "Three of the four figures are similar in a certain way. Select the figure that is different from the rest. (1) Figure I (2) Figure II (3) Figure III (4) Figure IV",
+      "questionText": "Three of the four figures are similar in a certain way. Select the figure that is different from the rest. (1) Figure I (2) Figure II (3) Figure III (4) Figure IV",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (2)",
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (2) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (2) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Odd Figure Out",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 86,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q161.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q161.png"
+    },
+    {
+      "id": "ssc_nv_q162",
+      "topicId": "odd_figure_out",
+      "subtopicId": "odd_figure_out_core",
+      "questionType": "figure",
+      "question": "Three of the four figures are similar in a certain way. Select the figure that is different from the rest. (1) Figure I (2) Figure II (3) Figure III (4) Figure IV",
+      "questionText": "Three of the four figures are similar in a certain way. Select the figure that is different from the rest. (1) Figure I (2) Figure II (3) Figure III (4) Figure IV",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (2)",
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (2) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (2) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Odd Figure Out",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 87,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q162.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q162.png"
+    },
+    {
+      "id": "ssc_nv_q163",
+      "topicId": "odd_figure_out",
+      "subtopicId": "odd_figure_out_core",
+      "questionType": "figure",
+      "question": "Three of the four figures are similar in a certain way. Select the figure that is different from the rest. (1) Figure I (2) Figure II (3) Figure III (4) Figure IV",
+      "questionText": "Three of the four figures are similar in a certain way. Select the figure that is different from the rest. (1) Figure I (2) Figure II (3) Figure III (4) Figure IV",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (4)",
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (4) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (4) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Odd Figure Out",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 87,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q163.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q163.png"
+    },
+    {
+      "id": "ssc_nv_q164",
+      "topicId": "odd_figure_out",
+      "subtopicId": "odd_figure_out_core",
+      "questionType": "figure",
+      "question": "Three of the four figures are similar in a certain way. Select the figure that is different from the rest. (1) Figure I (2) Figure II (3) Figure III (4) Figure IV",
+      "questionText": "Three of the four figures are similar in a certain way. Select the figure that is different from the rest. (1) Figure I (2) Figure II (3) Figure III (4) Figure IV",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (1)",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (1) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (1) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Odd Figure Out",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 88,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q164.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q164.png"
+    },
+    {
+      "id": "ssc_nv_q165",
+      "topicId": "odd_figure_out",
+      "subtopicId": "odd_figure_out_core",
+      "questionType": "figure",
+      "question": "Three of the four figures are similar in a certain way. Select the figure that is different from the rest. (1) Figure I (2) Figure II (3) Figure III (4) Figure IV",
+      "questionText": "Three of the four figures are similar in a certain way. Select the figure that is different from the rest. (1) Figure I (2) Figure II (3) Figure III (4) Figure IV",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (1)",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (1) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (1) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Odd Figure Out",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 88,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q165.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q165.png"
+    },
+    {
+      "id": "ssc_nv_q166",
+      "topicId": "odd_figure_out",
+      "subtopicId": "odd_figure_out_core",
+      "questionType": "figure",
+      "question": "Three of the four figures are similar in a certain way. Select the figure that is different from the rest. (1) Figure I (2) Figure II (3) Figure III (4) Figure IV",
+      "questionText": "Three of the four figures are similar in a certain way. Select the figure that is different from the rest. (1) Figure I (2) Figure II (3) Figure III (4) Figure IV",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (4)",
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (4) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (4) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Odd Figure Out",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 89,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q166.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q166.png"
+    },
+    {
+      "id": "ssc_nv_q167",
+      "topicId": "odd_figure_out",
+      "subtopicId": "odd_figure_out_core",
+      "questionType": "figure",
+      "question": "Three of the four figures are similar in a certain way. Select the figure that is different from the rest. (1) Figure I (2) Figure II (3) Figure III (4) Figure IV",
+      "questionText": "Three of the four figures are similar in a certain way. Select the figure that is different from the rest. (1) Figure I (2) Figure II (3) Figure III (4) Figure IV",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (2)",
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (2) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (2) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Odd Figure Out",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 89,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q167.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q167.png"
+    },
+    {
+      "id": "ssc_nv_q168",
+      "topicId": "odd_figure_out",
+      "subtopicId": "odd_figure_out_core",
+      "questionType": "figure",
+      "question": "Three of the four figures are similar in a certain way. Select the figure that is different from the rest. (1) Figure I (2) Figure II (3) Figure III (4) Figure IV",
+      "questionText": "Three of the four figures are similar in a certain way. Select the figure that is different from the rest. (1) Figure I (2) Figure II (3) Figure III (4) Figure IV",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (4)",
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (4) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (4) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Odd Figure Out",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 90,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q168.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q168.png"
+    },
+    {
+      "id": "ssc_nv_q169",
+      "topicId": "odd_figure_out",
+      "subtopicId": "odd_figure_out_core",
+      "questionType": "figure",
+      "question": "Three of the four figures are similar in a certain way. Select the figure that is different from the rest. (1) Figure I (2) Figure II (3) Figure III (4) Figure IV",
+      "questionText": "Three of the four figures are similar in a certain way. Select the figure that is different from the rest. (1) Figure I (2) Figure II (3) Figure III (4) Figure IV",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (1)",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (1) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (1) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Odd Figure Out",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 90,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q169.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q169.png"
+    },
+    {
+      "id": "ssc_nv_q170",
+      "topicId": "odd_figure_out",
+      "subtopicId": "odd_figure_out_core",
+      "questionType": "figure",
+      "question": "Three of the four figures are similar in a certain way. Select the figure that is different from the rest. (1) Figure I (2) Figure II (3) Figure III (4) Figure IV",
+      "questionText": "Three of the four figures are similar in a certain way. Select the figure that is different from the rest. (1) Figure I (2) Figure II (3) Figure III (4) Figure IV",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (4)",
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (4) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (4) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Odd Figure Out",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 92,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q170.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q170.png"
+    },
+    {
+      "id": "ssc_nv_q171",
+      "topicId": "odd_figure_out",
+      "subtopicId": "odd_figure_out_core",
+      "questionType": "figure",
+      "question": "Three of the four figures are similar in a certain way. Select the figure that is different from the rest. (1) Figure I (2) Figure II (3) Figure III (4) Figure IV",
+      "questionText": "Three of the four figures are similar in a certain way. Select the figure that is different from the rest. (1) Figure I (2) Figure II (3) Figure III (4) Figure IV",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (2)",
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (2) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (2) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Odd Figure Out",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 92,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q171.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q171.png"
+    },
+    {
+      "id": "ssc_nv_q172",
+      "topicId": "odd_figure_out",
+      "subtopicId": "odd_figure_out_core",
+      "questionType": "figure",
+      "question": "Three of the four figures are similar in a certain way. Select the figure that is different from the rest. (1) Figure I (2) Figure II (3) Figure III (4) Figure IV",
+      "questionText": "Three of the four figures are similar in a certain way. Select the figure that is different from the rest. (1) Figure I (2) Figure II (3) Figure III (4) Figure IV",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (3)",
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (3) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (3) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Odd Figure Out",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 93,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q172.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q172.png"
+    },
+    {
+      "id": "ssc_nv_q173",
+      "topicId": "odd_figure_out",
+      "subtopicId": "odd_figure_out_core",
+      "questionType": "figure",
+      "question": "Three of the four figures are similar in a certain way. Select the figure that is different from the rest. (1) Figure I (2) Figure II (3) Figure III (4) Figure IV",
+      "questionText": "Three of the four figures are similar in a certain way. Select the figure that is different from the rest. (1) Figure I (2) Figure II (3) Figure III (4) Figure IV",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (4)",
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (4) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (4) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Odd Figure Out",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 93,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q173.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q173.png"
+    },
+    {
+      "id": "ssc_nv_q174",
+      "topicId": "odd_figure_out",
+      "subtopicId": "odd_figure_out_core",
+      "questionType": "figure",
+      "question": "Three of the four figures are similar in a certain way. Select the figure that is different from the rest. (1) Figure I (2) Figure II (3) Figure III (4) Figure IV",
+      "questionText": "Three of the four figures are similar in a certain way. Select the figure that is different from the rest. (1) Figure I (2) Figure II (3) Figure III (4) Figure IV",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (1)",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (1) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (1) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Odd Figure Out",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 94,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q174.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q174.png"
+    },
+    {
+      "id": "ssc_nv_q175",
+      "topicId": "odd_figure_out",
+      "subtopicId": "odd_figure_out_core",
+      "questionType": "figure",
+      "question": "Three of the four figures are similar in a certain way. Select the figure that is different from the rest. (1) Figure I (2) Figure II (3) Figure III (4) Figure IV",
+      "questionText": "Three of the four figures are similar in a certain way. Select the figure that is different from the rest. (1) Figure I (2) Figure II (3) Figure III (4) Figure IV",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (4)",
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (4) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (4) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Odd Figure Out",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 94,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q175.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q175.png"
+    },
+    {
+      "id": "ssc_nv_q176",
+      "topicId": "odd_figure_out",
+      "subtopicId": "odd_figure_out_core",
+      "questionType": "figure",
+      "question": "Three of the four figures are similar in a certain way. Select the figure that is different from the rest. (1) Figure I (2) Figure II (3) Figure III (4) Figure IV",
+      "questionText": "Three of the four figures are similar in a certain way. Select the figure that is different from the rest. (1) Figure I (2) Figure II (3) Figure III (4) Figure IV",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (2)",
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (2) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (2) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Odd Figure Out",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 95,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q176.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q176.png"
+    },
+    {
+      "id": "ssc_nv_q177",
+      "topicId": "odd_figure_out",
+      "subtopicId": "odd_figure_out_core",
+      "questionType": "figure",
+      "question": "Three of the four figures are similar in a certain way. Select the figure that is different from the rest. (1) Figure I (2) Figure II (3) Figure III (4) Figure IV",
+      "questionText": "Three of the four figures are similar in a certain way. Select the figure that is different from the rest. (1) Figure I (2) Figure II (3) Figure III (4) Figure IV",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (4)",
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (4) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (4) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Odd Figure Out",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 95,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q177.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q177.png"
+    },
+    {
+      "id": "ssc_nv_q178",
+      "topicId": "odd_figure_out",
+      "subtopicId": "odd_figure_out_core",
+      "questionType": "figure",
+      "question": "Three of the four figures are similar in a certain way. Select the figure that is different from the rest. (1) Figure I (2) Figure II (3) Figure III (4) Figure IV",
+      "questionText": "Three of the four figures are similar in a certain way. Select the figure that is different from the rest. (1) Figure I (2) Figure II (3) Figure III (4) Figure IV",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (4)",
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (4) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (4) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Odd Figure Out",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 96,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q178.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q178.png"
+    },
+    {
+      "id": "ssc_nv_q179",
+      "topicId": "odd_figure_out",
+      "subtopicId": "odd_figure_out_core",
+      "questionType": "figure",
+      "question": "Three of the four figures are similar in a certain way. Select the figure that is different from the rest. (1) Figure I (2) Figure II (3) Figure III (4) Figure IV",
+      "questionText": "Three of the four figures are similar in a certain way. Select the figure that is different from the rest. (1) Figure I (2) Figure II (3) Figure III (4) Figure IV",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (1)",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (1) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (1) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Odd Figure Out",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 96,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q179.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q179.png"
+    },
+    {
+      "id": "ssc_nv_q180",
+      "topicId": "odd_figure_out",
+      "subtopicId": "odd_figure_out_core",
+      "questionType": "figure",
+      "question": "Three of the four figures are similar in a certain way. Select the figure that is different from the rest. (1) Figure I (2) Figure II (3) Figure III (4) Figure IV",
+      "questionText": "Three of the four figures are similar in a certain way. Select the figure that is different from the rest. (1) Figure I (2) Figure II (3) Figure III (4) Figure IV",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (4)",
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (4) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (4) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Odd Figure Out",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 97,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q180.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q180.png"
+    }
+  ]
+}

@@ -115,6 +115,7 @@ export function WorkedExampleViewer({ examples, topicId }: WorkedExampleViewerPr
                   topicId={topicId || ""}
                   questionText={problemText}
                   figureRef={example.figureRef}
+                  figureData={example.figureData}
                   isSolution={true}
                 />
 

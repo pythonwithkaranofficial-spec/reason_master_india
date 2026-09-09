@@ -16,6 +16,8 @@ interface NonVerbalFigureRendererProps {
   topicId: string;
   questionText?: string;
   figureRef?: string;
+  figureData?: string;
+  figureUrl?: string;
   isSolution?: boolean;
 }
 
@@ -51,8 +53,60 @@ export function NonVerbalFigureRenderer({
   topicId,
   questionText = "",
   figureRef,
+  figureData,
+  figureUrl,
   isSolution = false,
 }: NonVerbalFigureRendererProps) {
+  // Check if diagram image is provided (from extracted PDF assets)
+  const imgSource = figureUrl || figureData || (figureRef?.startsWith("/images/") ? figureRef : null);
+
+  if (imgSource) {
+    return (
+      <div
+        className="diagram-figure-wrapper"
+        style={{
+          display: "flex",
+          flexDirection: "column",
+          alignItems: "center",
+          justifyContent: "center",
+          padding: "var(--space-4)",
+          background: "var(--bg-surface)",
+          border: "1.5px solid var(--border-color)",
+          borderRadius: "var(--radius-lg)",
+          boxShadow: "0 4px 12px rgba(0, 0, 0, 0.05)",
+          maxWidth: "100%",
+          margin: "0 auto var(--space-4)",
+        }}
+      >
+        <img
+          src={imgSource}
+          alt="Reasoning Question Diagram"
+          style={{
+            maxWidth: "100%",
+            maxHeight: "360px",
+            objectFit: "contain",
+            borderRadius: "var(--radius-md)",
+            filter: "contrast(1.03)",
+          }}
+          loading="lazy"
+        />
+        <span
+          style={{
+            marginTop: "var(--space-2)",
+            fontSize: "0.8rem",
+            color: "var(--text-muted)",
+            fontWeight: 500,
+            display: "flex",
+            alignItems: "center",
+            gap: "4px",
+          }}
+        >
+          <span>📐</span> Authentic Question Figure
+        </span>
+      </div>
+    );
+  }
+
   const normalizedTopic = topicId.toLowerCase();
   const text = questionText.toLowerCase();
 

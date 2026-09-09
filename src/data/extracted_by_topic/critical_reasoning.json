@@ -1,0 +1,1673 @@
+{
+  "topicId": "critical_reasoning",
+  "topicName": "Essential Part",
+  "totalQuestions": 49,
+  "questions": [
+    {
+      "id": "gossc_500_q132",
+      "topicId": "critical_reasoning",
+      "subtopicId": "critical_reasoning_core",
+      "questionType": "text",
+      "question": "Which word does NOT belong with the others?",
+      "questionText": "Which word does NOT belong with the others?",
+      "options": [
+        "area",
+        "variable",
+        "circumference",
+        "quadrilateral"
+      ],
+      "correctAnswer": "variable",
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "hint": "Examine the core structural rule for Essential Part.",
+      "explanation": "Area, circumference, and quadrilateral are all terms used in the study of geometry. Variable is a term generally used in the study of algebra.",
+      "solutionSteps": [
+        "Step 1: Read the condition and isolate the logical premise.",
+        "Step 2: Test each option against the constraints.",
+        "Step 3: Area, circumference, and quadrilateral are all terms used in the study of geometry. Variable is a term generally used in the study of algebra."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Essential Part",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_cpo"
+      ],
+      "pageNumber": 26,
+      "sourcePdf": "500-Reasoning-Problems-GOSSC.in_.pdf"
+    },
+    {
+      "id": "gossc_500_q133",
+      "topicId": "critical_reasoning",
+      "subtopicId": "critical_reasoning_core",
+      "questionType": "text",
+      "question": "Which word does NOT belong with the others?",
+      "questionText": "Which word does NOT belong with the others?",
+      "options": [
+        "mayor",
+        "lawyer",
+        "governor",
+        "senator"
+      ],
+      "correctAnswer": "lawyer",
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "hint": "Examine the core structural rule for Essential Part.",
+      "explanation": "The mayor, governor, and senator are all per- sons elected to government ofﬁces; the lawyer is not an elected ofﬁcial.",
+      "solutionSteps": [
+        "Step 1: Read the condition and isolate the logical premise.",
+        "Step 2: Test each option against the constraints.",
+        "Step 3: The mayor, governor, and senator are all per- sons elected to government ofﬁces; the lawyer is not an elected ofﬁcial."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Essential Part",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_cpo"
+      ],
+      "pageNumber": 26,
+      "sourcePdf": "500-Reasoning-Problems-GOSSC.in_.pdf"
+    },
+    {
+      "id": "gossc_500_q134",
+      "topicId": "critical_reasoning",
+      "subtopicId": "critical_reasoning_core",
+      "questionType": "text",
+      "question": "Which word does NOT belong with the others?",
+      "questionText": "Which word does NOT belong with the others?",
+      "options": [
+        "acute",
+        "right",
+        "obtuse",
+        "parallel"
+      ],
+      "correctAnswer": "parallel",
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "hint": "Examine the core structural rule for Essential Part.",
+      "explanation": "Acute, right, and obtuse are geometric terms describing particular angles. Parallel refers to two lines that never intersect.",
+      "solutionSteps": [
+        "Step 1: Read the condition and isolate the logical premise.",
+        "Step 2: Test each option against the constraints.",
+        "Step 3: Acute, right, and obtuse are geometric terms describing particular angles. Parallel refers to two lines that never intersect."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Essential Part",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_cpo"
+      ],
+      "pageNumber": 26,
+      "sourcePdf": "500-Reasoning-Problems-GOSSC.in_.pdf"
+    },
+    {
+      "id": "gossc_500_q135",
+      "topicId": "critical_reasoning",
+      "subtopicId": "critical_reasoning_core",
+      "questionType": "text",
+      "question": "Which word does NOT belong with the others?",
+      "questionText": "Which word does NOT belong with the others?",
+      "options": [
+        "wing",
+        "ﬁn",
+        "beak",
+        "rudder"
+      ],
+      "correctAnswer": "beak",
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "hint": "Examine the core structural rule for Essential Part.",
+      "explanation": "The wing, ﬁn, and rudder are all parts of an airplane.",
+      "solutionSteps": [
+        "Step 1: Read the condition and isolate the logical premise.",
+        "Step 2: Test each option against the constraints.",
+        "Step 3: The wing, ﬁn, and rudder are all parts of an airplane."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Essential Part",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_cpo"
+      ],
+      "pageNumber": 26,
+      "sourcePdf": "500-Reasoning-Problems-GOSSC.in_.pdf"
+    },
+    {
+      "id": "gossc_500_q136",
+      "topicId": "critical_reasoning",
+      "subtopicId": "critical_reasoning_core",
+      "questionType": "text",
+      "question": "Which word does NOT belong with the others?",
+      "questionText": "Which word does NOT belong with the others?",
+      "options": [
+        "aorta",
+        "heart",
+        "liver",
+        "stomach"
+      ],
+      "correctAnswer": "aorta",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Examine the core structural rule for Essential Part.",
+      "explanation": "The heart, liver, and stomach are all organs of the body. The aorta is an artery, not an organ. 107 \u0002 Set 9 (Page 17)",
+      "solutionSteps": [
+        "Step 1: Read the condition and isolate the logical premise.",
+        "Step 2: Test each option against the constraints.",
+        "Step 3: The heart, liver, and stomach are all organs of the body. The aorta is an artery, not an organ. 107 \u0002 Set 9 (Page 17)"
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Essential Part",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_cpo"
+      ],
+      "pageNumber": 26,
+      "sourcePdf": "500-Reasoning-Problems-GOSSC.in_.pdf"
+    },
+    {
+      "id": "gossc_500_q138",
+      "topicId": "critical_reasoning",
+      "subtopicId": "critical_reasoning_core",
+      "questionType": "text",
+      "question": "guitar",
+      "questionText": "guitar",
+      "options": [
+        "band",
+        "teacher",
+        "songs",
+        "strings"
+      ],
+      "correctAnswer": "strings",
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "hint": "Examine the core structural rule for Essential Part.",
+      "explanation": "A guitar does not exist without strings, so strings are an essential part of a guitar. A band is not necessary to a guitar (choice a). Guitar playing can be learned without a teacher (choice b). Songs are byproducts of a guitar (choice c).",
+      "solutionSteps": [
+        "Step 1: Read the condition and isolate the logical premise.",
+        "Step 2: Test each option against the constraints.",
+        "Step 3: A guitar does not exist without strings, so strings are an essential part of a guitar. A band is not necessary to a guitar (choice a). Guitar playing can be learned without a teacher (choice b). Songs are byproducts of a guitar (choice c)."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Essential Part",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_cpo"
+      ],
+      "pageNumber": 27,
+      "sourcePdf": "500-Reasoning-Problems-GOSSC.in_.pdf"
+    },
+    {
+      "id": "gossc_500_q140",
+      "topicId": "critical_reasoning",
+      "subtopicId": "critical_reasoning_core",
+      "questionType": "text",
+      "question": "respiration",
+      "questionText": "respiration",
+      "options": [
+        "mouth",
+        "circulation",
+        "oxygen",
+        "carbon monoxide"
+      ],
+      "correctAnswer": "oxygen",
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "hint": "Examine the core structural rule for Essential Part.",
+      "explanation": "A person or animal must take in oxygen for respiration to occur. A mouth (choice a) is not essential because breathing can occur through the nose. Choices b and d are clearly not essen- tial and can be ruled out.",
+      "solutionSteps": [
+        "Step 1: Read the condition and isolate the logical premise.",
+        "Step 2: Test each option against the constraints.",
+        "Step 3: A person or animal must take in oxygen for respiration to occur. A mouth (choice a) is not essential because breathing can occur through the nose. Choices b and d are clearly not essen- tial and can be ruled out."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Essential Part",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_cpo"
+      ],
+      "pageNumber": 27,
+      "sourcePdf": "500-Reasoning-Problems-GOSSC.in_.pdf"
+    },
+    {
+      "id": "gossc_500_q141",
+      "topicId": "critical_reasoning",
+      "subtopicId": "critical_reasoning_core",
+      "questionType": "text",
+      "question": "election",
+      "questionText": "election",
+      "options": [
+        "president",
+        "voter",
+        "November",
+        "nation"
+      ],
+      "correctAnswer": "voter",
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "hint": "Examine the core structural rule for Essential Part.",
+      "explanation": "An election does not exist without voters. The election of a president (choice a) is a byproduct. Not all elections are held in November (choice c), nor are they nationwide (choice d).",
+      "solutionSteps": [
+        "Step 1: Read the condition and isolate the logical premise.",
+        "Step 2: Test each option against the constraints.",
+        "Step 3: An election does not exist without voters. The election of a president (choice a) is a byproduct. Not all elections are held in November (choice c), nor are they nationwide (choice d)."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Essential Part",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_cpo"
+      ],
+      "pageNumber": 27,
+      "sourcePdf": "500-Reasoning-Problems-GOSSC.in_.pdf"
+    },
+    {
+      "id": "gossc_500_q142",
+      "topicId": "critical_reasoning",
+      "subtopicId": "critical_reasoning_core",
+      "questionType": "text",
+      "question": "diploma",
+      "questionText": "diploma",
+      "options": [
+        "principal",
+        "curriculum",
+        "employment",
+        "graduation"
+      ],
+      "correctAnswer": "graduation",
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "hint": "Examine the core structural rule for Essential Part.",
+      "explanation": "A diploma is awarded at graduation, so gradu- ation is essential to obtaining a diploma. Employment may be a byproduct (choice c). A principal and a curriculum (choices a and b) may play a role in the awarding of some diplo- mas, but they are not essential.",
+      "solutionSteps": [
+        "Step 1: Read the condition and isolate the logical premise.",
+        "Step 2: Test each option against the constraints.",
+        "Step 3: A diploma is awarded at graduation, so gradu- ation is essential to obtaining a diploma. Employment may be a byproduct (choice c). A principal and a curriculum (choices a and b) may play a role in the awarding of some diplo- mas, but they are not essential."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Essential Part",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_cpo"
+      ],
+      "pageNumber": 27,
+      "sourcePdf": "500-Reasoning-Problems-GOSSC.in_.pdf"
+    },
+    {
+      "id": "gossc_500_q143",
+      "topicId": "critical_reasoning",
+      "subtopicId": "critical_reasoning_core",
+      "questionType": "text",
+      "question": "swimming",
+      "questionText": "swimming",
+      "options": [
+        "pool",
+        "bathing suit",
+        "water",
+        "life jacket"
+      ],
+      "correctAnswer": "water",
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "hint": "Examine the core structural rule for Essential Part.",
+      "explanation": "Water is essential for swimming—without water, there is no swimming. The other choices are things that may or may not be present.",
+      "solutionSteps": [
+        "Step 1: Read the condition and isolate the logical premise.",
+        "Step 2: Test each option against the constraints.",
+        "Step 3: Water is essential for swimming—without water, there is no swimming. The other choices are things that may or may not be present."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Essential Part",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_cpo"
+      ],
+      "pageNumber": 27,
+      "sourcePdf": "500-Reasoning-Problems-GOSSC.in_.pdf"
+    },
+    {
+      "id": "gossc_500_q144",
+      "topicId": "critical_reasoning",
+      "subtopicId": "critical_reasoning_core",
+      "questionType": "text",
+      "question": "school",
+      "questionText": "school",
+      "options": [
+        "student",
+        "report card",
+        "test",
+        "learning"
+      ],
+      "correctAnswer": "student",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Examine the core structural rule for Essential Part.",
+      "explanation": "Without students, a school cannot exist; there- fore, students are the essential part of schools. The other choices may be related, but they are not essential.",
+      "solutionSteps": [
+        "Step 1: Read the condition and isolate the logical premise.",
+        "Step 2: Test each option against the constraints.",
+        "Step 3: Without students, a school cannot exist; there- fore, students are the essential part of schools. The other choices may be related, but they are not essential."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Essential Part",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_cpo"
+      ],
+      "pageNumber": 27,
+      "sourcePdf": "500-Reasoning-Problems-GOSSC.in_.pdf"
+    },
+    {
+      "id": "gossc_500_q145",
+      "topicId": "critical_reasoning",
+      "subtopicId": "critical_reasoning_core",
+      "questionType": "text",
+      "question": "language",
+      "questionText": "language",
+      "options": [
+        "tongue",
+        "slang",
+        "writing",
+        "words"
+      ],
+      "correctAnswer": "words",
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "hint": "Examine the core structural rule for Essential Part.",
+      "explanation": "Words are a necessary part of language. Slang is not necessary to language (choice b). Not all languages are written (choice c). Words do not have to be spoken in order to be part of a lan- guage (choice a).",
+      "solutionSteps": [
+        "Step 1: Read the condition and isolate the logical premise.",
+        "Step 2: Test each option against the constraints.",
+        "Step 3: Words are a necessary part of language. Slang is not necessary to language (choice b). Not all languages are written (choice c). Words do not have to be spoken in order to be part of a lan- guage (choice a)."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Essential Part",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_cpo"
+      ],
+      "pageNumber": 27,
+      "sourcePdf": "500-Reasoning-Problems-GOSSC.in_.pdf"
+    },
+    {
+      "id": "gossc_500_q146",
+      "topicId": "critical_reasoning",
+      "subtopicId": "critical_reasoning_core",
+      "questionType": "text",
+      "question": "desert",
+      "questionText": "desert",
+      "options": [
+        "cactus",
+        "arid",
+        "oasis",
+        "ﬂat"
+      ],
+      "correctAnswer": "arid",
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "hint": "Examine the core structural rule for Essential Part.",
+      "explanation": "A desert is an arid tract of land. Not all deserts are ﬂat (choice d). Not all deserts have cacti or oases (choices a and c).",
+      "solutionSteps": [
+        "Step 1: Read the condition and isolate the logical premise.",
+        "Step 2: Test each option against the constraints.",
+        "Step 3: A desert is an arid tract of land. Not all deserts are ﬂat (choice d). Not all deserts have cacti or oases (choices a and c)."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Essential Part",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_cpo"
+      ],
+      "pageNumber": 27,
+      "sourcePdf": "500-Reasoning-Problems-GOSSC.in_.pdf"
+    },
+    {
+      "id": "gossc_500_q147",
+      "topicId": "critical_reasoning",
+      "subtopicId": "critical_reasoning_core",
+      "questionType": "text",
+      "question": "lightning",
+      "questionText": "lightning",
+      "options": [
+        "electricity",
+        "thunder",
+        "brightness",
+        "rain"
+      ],
+      "correctAnswer": "electricity",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Examine the core structural rule for Essential Part.",
+      "explanation": "Lightning is produced from a discharge of elec- tricity, so electricity is essential. Thunder and rain are not essential to the production of light- ning (choices b and d). Brightness may be a byproduct of lightning, but it is not essential (choice c).",
+      "solutionSteps": [
+        "Step 1: Read the condition and isolate the logical premise.",
+        "Step 2: Test each option against the constraints.",
+        "Step 3: Lightning is produced from a discharge of elec- tricity, so electricity is essential. Thunder and rain are not essential to the production of light- ning (choices b and d). Brightness may be a byproduct of lightning, but it is not essential (choice c)."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Essential Part",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_cpo"
+      ],
+      "pageNumber": 27,
+      "sourcePdf": "500-Reasoning-Problems-GOSSC.in_.pdf"
+    },
+    {
+      "id": "gossc_500_q148",
+      "topicId": "critical_reasoning",
+      "subtopicId": "critical_reasoning_core",
+      "questionType": "text",
+      "question": "monopoly",
+      "questionText": "monopoly",
+      "options": [
+        "corrupt",
+        "exclusive",
+        "rich",
+        "gigantic"
+      ],
+      "correctAnswer": "exclusive",
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "hint": "Examine the core structural rule for Essential Part.",
+      "explanation": "The essential part of a monopoly is that it involves exclusive ownership or control.",
+      "solutionSteps": [
+        "Step 1: Read the condition and isolate the logical premise.",
+        "Step 2: Test each option against the constraints.",
+        "Step 3: The essential part of a monopoly is that it involves exclusive ownership or control."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Essential Part",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_cpo"
+      ],
+      "pageNumber": 28,
+      "sourcePdf": "500-Reasoning-Problems-GOSSC.in_.pdf"
+    },
+    {
+      "id": "gossc_500_q149",
+      "topicId": "critical_reasoning",
+      "subtopicId": "critical_reasoning_core",
+      "questionType": "text",
+      "question": "harvest",
+      "questionText": "harvest",
+      "options": [
+        "autumn",
+        "stockpile",
+        "tractor",
+        "crop"
+      ],
+      "correctAnswer": "crop",
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "hint": "Examine the core structural rule for Essential Part.",
+      "explanation": "To harvest something, one must have a crop, which is the essential element for this item. Autumn (choice a) is not the only time crops are harvested. There may not be enough of a crop to stockpile (choice b), and you can har- vest crops without a tractor (choice c).",
+      "solutionSteps": [
+        "Step 1: Read the condition and isolate the logical premise.",
+        "Step 2: Test each option against the constraints.",
+        "Step 3: To harvest something, one must have a crop, which is the essential element for this item. Autumn (choice a) is not the only time crops are harvested. There may not be enough of a crop to stockpile (choice b), and you can har- vest crops without a tractor (choice c)."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Essential Part",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_cpo"
+      ],
+      "pageNumber": 28,
+      "sourcePdf": "500-Reasoning-Problems-GOSSC.in_.pdf"
+    },
+    {
+      "id": "gossc_500_q152",
+      "topicId": "critical_reasoning",
+      "subtopicId": "critical_reasoning_core",
+      "questionType": "text",
+      "question": "inﬁrmary",
+      "questionText": "inﬁrmary",
+      "options": [
+        "surgery",
+        "disease",
+        "patient",
+        "receptionist"
+      ],
+      "correctAnswer": "patient",
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "hint": "Examine the core structural rule for Essential Part.",
+      "explanation": "An inﬁrmary is a place that takes care of the inﬁrm, sick, or injured. Without patients, there is no inﬁrmary. Surgery (choice a) may not be required for patients. A disease (choice b) is not necessary because the inﬁrmary may only see patients with injuries. A receptionist (choice d) would be helpful but not essential.",
+      "solutionSteps": [
+        "Step 1: Read the condition and isolate the logical premise.",
+        "Step 2: Test each option against the constraints.",
+        "Step 3: An inﬁrmary is a place that takes care of the inﬁrm, sick, or injured. Without patients, there is no inﬁrmary. Surgery (choice a) may not be required for patients. A disease (choice b) is not necessary because the inﬁrmary may only see patients with injuries. A receptionist (choice d) would be helpful but not essential."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Essential Part",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_cpo"
+      ],
+      "pageNumber": 29,
+      "sourcePdf": "500-Reasoning-Problems-GOSSC.in_.pdf"
+    },
+    {
+      "id": "gossc_500_q153",
+      "topicId": "critical_reasoning",
+      "subtopicId": "critical_reasoning_core",
+      "questionType": "text",
+      "question": "facsimile",
+      "questionText": "facsimile",
+      "options": [
+        "picture",
+        "image",
+        "mimeograph",
+        "copier"
+      ],
+      "correctAnswer": "image",
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "hint": "Examine the core structural rule for Essential Part.",
+      "explanation": "A facsimile must involve an image of some sort. The image or facsimile need not, however, be a picture (choice a). A mimeograph and a copier machine (choices c and d) are just a two of the ways that images may be produced, so they do not qualify as the essential element for this item.",
+      "solutionSteps": [
+        "Step 1: Read the condition and isolate the logical premise.",
+        "Step 2: Test each option against the constraints.",
+        "Step 3: A facsimile must involve an image of some sort. The image or facsimile need not, however, be a picture (choice a). A mimeograph and a copier machine (choices c and d) are just a two of the ways that images may be produced, so they do not qualify as the essential element for this item."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Essential Part",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_cpo"
+      ],
+      "pageNumber": 29,
+      "sourcePdf": "500-Reasoning-Problems-GOSSC.in_.pdf"
+    },
+    {
+      "id": "gossc_500_q154",
+      "topicId": "critical_reasoning",
+      "subtopicId": "critical_reasoning_core",
+      "questionType": "text",
+      "question": "domicile",
+      "questionText": "domicile",
+      "options": [
+        "tenant",
+        "dwelling",
+        "kitchen",
+        "house"
+      ],
+      "correctAnswer": "dwelling",
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "hint": "Examine the core structural rule for Essential Part.",
+      "explanation": "A domicile is a legal residence, so dwelling is the essential component for this item. You do not need a tenant (choice a) in the domicile, nor do you need a kitchen (choice c). A house (choice d) is just one form of a domicile (which could also be a tent, hogan, van, camper, motor home, apartment, dormitory, etc.).",
+      "solutionSteps": [
+        "Step 1: Read the condition and isolate the logical premise.",
+        "Step 2: Test each option against the constraints.",
+        "Step 3: A domicile is a legal residence, so dwelling is the essential component for this item. You do not need a tenant (choice a) in the domicile, nor do you need a kitchen (choice c). A house (choice d) is just one form of a domicile (which could also be a tent, hogan, van, camper, motor home, apartment, dormitory, etc.)."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Essential Part",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_cpo"
+      ],
+      "pageNumber": 29,
+      "sourcePdf": "500-Reasoning-Problems-GOSSC.in_.pdf"
+    },
+    {
+      "id": "gossc_500_q155",
+      "topicId": "critical_reasoning",
+      "subtopicId": "critical_reasoning_core",
+      "questionType": "text",
+      "question": "culture",
+      "questionText": "culture",
+      "options": [
+        "civility",
+        "education",
+        "agriculture",
+        "customs"
+      ],
+      "correctAnswer": "customs",
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "hint": "Examine the core structural rule for Essential Part.",
+      "explanation": "A culture is the behavior pattern of a particu- lar population, so customs are the essential element. A culture may or may not be civil or educated (choices a and b). A culture may be an agricultural society (choice c), but this is not the essential element.",
+      "solutionSteps": [
+        "Step 1: Read the condition and isolate the logical premise.",
+        "Step 2: Test each option against the constraints.",
+        "Step 3: A culture is the behavior pattern of a particu- lar population, so customs are the essential element. A culture may or may not be civil or educated (choices a and b). A culture may be an agricultural society (choice c), but this is not the essential element."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Essential Part",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_cpo"
+      ],
+      "pageNumber": 29,
+      "sourcePdf": "500-Reasoning-Problems-GOSSC.in_.pdf"
+    },
+    {
+      "id": "gossc_500_q156",
+      "topicId": "critical_reasoning",
+      "subtopicId": "critical_reasoning_core",
+      "questionType": "text",
+      "question": "bonus",
+      "questionText": "bonus",
+      "options": [
+        "reward",
+        "raise",
+        "cash",
+        "employer"
+      ],
+      "correctAnswer": "reward",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Examine the core structural rule for Essential Part.",
+      "explanation": "A bonus is something given or paid beyond what is usual or expected, so reward is the essential element. A bonus may not involve a raise in pay or cash (choices b and c), and it may be received from someone other than an employer (choice d).",
+      "solutionSteps": [
+        "Step 1: Read the condition and isolate the logical premise.",
+        "Step 2: Test each option against the constraints.",
+        "Step 3: A bonus is something given or paid beyond what is usual or expected, so reward is the essential element. A bonus may not involve a raise in pay or cash (choices b and c), and it may be received from someone other than an employer (choice d)."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Essential Part",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_cpo"
+      ],
+      "pageNumber": 29,
+      "sourcePdf": "500-Reasoning-Problems-GOSSC.in_.pdf"
+    },
+    {
+      "id": "gossc_500_q157",
+      "topicId": "critical_reasoning",
+      "subtopicId": "critical_reasoning_core",
+      "questionType": "text",
+      "question": "antique",
+      "questionText": "antique",
+      "options": [
+        "rarity",
+        "artifact",
+        "aged",
+        "prehistoric"
+      ],
+      "correctAnswer": "aged",
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "hint": "Examine the core structural rule for Essential Part.",
+      "explanation": "An antique is something that belongs to, or was made in, an earlier period. It may or may not be a rarity (choice a), and it does not have to be an artifact, an object produced or shaped by human craft (choice b). An antique is old but does not have to be prehistoric (choice d).",
+      "solutionSteps": [
+        "Step 1: Read the condition and isolate the logical premise.",
+        "Step 2: Test each option against the constraints.",
+        "Step 3: An antique is something that belongs to, or was made in, an earlier period. It may or may not be a rarity (choice a), and it does not have to be an artifact, an object produced or shaped by human craft (choice b). An antique is old but does not have to be prehistoric (choice d)."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Essential Part",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_cpo"
+      ],
+      "pageNumber": 29,
+      "sourcePdf": "500-Reasoning-Problems-GOSSC.in_.pdf"
+    },
+    {
+      "id": "gossc_500_q158",
+      "topicId": "critical_reasoning",
+      "subtopicId": "critical_reasoning_core",
+      "questionType": "text",
+      "question": "itinerary",
+      "questionText": "itinerary",
+      "options": [
+        "map",
+        "route",
+        "travel",
+        "guidebook"
+      ],
+      "correctAnswer": "route",
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "hint": "Examine the core structural rule for Essential Part.",
+      "explanation": "An itinerary is a proposed route of a journey. A map (choice a) is not necessary to have a planned route. Travel (choice c) is usually the outcome of an itinerary, but not always. A guidebook (choice d) may be used to plan the journey but is not essential.",
+      "solutionSteps": [
+        "Step 1: Read the condition and isolate the logical premise.",
+        "Step 2: Test each option against the constraints.",
+        "Step 3: An itinerary is a proposed route of a journey. A map (choice a) is not necessary to have a planned route. Travel (choice c) is usually the outcome of an itinerary, but not always. A guidebook (choice d) may be used to plan the journey but is not essential."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Essential Part",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_cpo"
+      ],
+      "pageNumber": 29,
+      "sourcePdf": "500-Reasoning-Problems-GOSSC.in_.pdf"
+    },
+    {
+      "id": "gossc_500_q159",
+      "topicId": "critical_reasoning",
+      "subtopicId": "critical_reasoning_core",
+      "questionType": "text",
+      "question": "orchestra",
+      "questionText": "orchestra",
+      "options": [
+        "violin",
+        "stage",
+        "musician",
+        "soloist"
+      ],
+      "correctAnswer": "musician",
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "hint": "Examine the core structural rule for Essential Part.",
+      "explanation": "An orchestra is a large group of musicians, so musicians are essential. Although many orches- tras have violin sections, violins aren’t essential to an orchestra (choice a). Neither a stage (choice b) nor a soloist (choice d) is necessary.",
+      "solutionSteps": [
+        "Step 1: Read the condition and isolate the logical premise.",
+        "Step 2: Test each option against the constraints.",
+        "Step 3: An orchestra is a large group of musicians, so musicians are essential. Although many orches- tras have violin sections, violins aren’t essential to an orchestra (choice a). Neither a stage (choice b) nor a soloist (choice d) is necessary."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Essential Part",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_cpo"
+      ],
+      "pageNumber": 29,
+      "sourcePdf": "500-Reasoning-Problems-GOSSC.in_.pdf"
+    },
+    {
+      "id": "gossc_500_q160",
+      "topicId": "critical_reasoning",
+      "subtopicId": "critical_reasoning_core",
+      "questionType": "text",
+      "question": "knowledge",
+      "questionText": "knowledge",
+      "options": [
+        "school",
+        "teacher",
+        "textbook",
+        "learning"
+      ],
+      "correctAnswer": "learning",
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "hint": "Examine the core structural rule for Essential Part.",
+      "explanation": "Knowledge is understanding gained through experience or study, so learning is the essential element. A school (choice a) is not necessary for learning or knowledge to take place, nor is a teacher or a textbook (choices b and c).",
+      "solutionSteps": [
+        "Step 1: Read the condition and isolate the logical premise.",
+        "Step 2: Test each option against the constraints.",
+        "Step 3: Knowledge is understanding gained through experience or study, so learning is the essential element. A school (choice a) is not necessary for learning or knowledge to take place, nor is a teacher or a textbook (choices b and c)."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Essential Part",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_cpo"
+      ],
+      "pageNumber": 29,
+      "sourcePdf": "500-Reasoning-Problems-GOSSC.in_.pdf"
+    },
+    {
+      "id": "gossc_500_q161",
+      "topicId": "critical_reasoning",
+      "subtopicId": "critical_reasoning_core",
+      "questionType": "text",
+      "question": "dimension",
+      "questionText": "dimension",
+      "options": [
+        "compass",
+        "ruler",
+        "inch",
+        "measure"
+      ],
+      "correctAnswer": "measure",
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "hint": "Examine the core structural rule for Essential Part.",
+      "explanation": "A dimension is a measure of spatial content. A compass (choice a) and ruler (choice b) may help determine the dimension, but other instruments may also be used, so these are not the essential element here. An inch (choice c) is only one way to determine a dimension.",
+      "solutionSteps": [
+        "Step 1: Read the condition and isolate the logical premise.",
+        "Step 2: Test each option against the constraints.",
+        "Step 3: A dimension is a measure of spatial content. A compass (choice a) and ruler (choice b) may help determine the dimension, but other instruments may also be used, so these are not the essential element here. An inch (choice c) is only one way to determine a dimension."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Essential Part",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_cpo"
+      ],
+      "pageNumber": 29,
+      "sourcePdf": "500-Reasoning-Problems-GOSSC.in_.pdf"
+    },
+    {
+      "id": "gossc_500_q162",
+      "topicId": "critical_reasoning",
+      "subtopicId": "critical_reasoning_core",
+      "questionType": "text",
+      "question": "sustenance",
+      "questionText": "sustenance",
+      "options": [
+        "nourishment",
+        "water",
+        "grains",
+        "menu"
+      ],
+      "correctAnswer": "nourishment",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Examine the core structural rule for Essential Part.",
+      "explanation": "Sustenance is something, especially food, that sustains life or health, so nourishment is the essential element. Water and grains (choices b and c) are components of nourishment, but other things can be taken in as well. A menu (choice d) may present a list of foods, but it is not essential to sustenance.",
+      "solutionSteps": [
+        "Step 1: Read the condition and isolate the logical premise.",
+        "Step 2: Test each option against the constraints.",
+        "Step 3: Sustenance is something, especially food, that sustains life or health, so nourishment is the essential element. Water and grains (choices b and c) are components of nourishment, but other things can be taken in as well. A menu (choice d) may present a list of foods, but it is not essential to sustenance."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Essential Part",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_cpo"
+      ],
+      "pageNumber": 29,
+      "sourcePdf": "500-Reasoning-Problems-GOSSC.in_.pdf"
+    },
+    {
+      "id": "gossc_500_q163",
+      "topicId": "critical_reasoning",
+      "subtopicId": "critical_reasoning_core",
+      "questionType": "text",
+      "question": "ovation",
+      "questionText": "ovation",
+      "options": [
+        "outburst",
+        "bravo",
+        "applause",
+        "encore"
+      ],
+      "correctAnswer": "applause",
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "hint": "Examine the core structural rule for Essential Part.",
+      "explanation": "An ovation is prolonged, enthusiastic applause, so applause is necessary to an ovation. An out- burst (choice a) may take place during an ova- tion; “bravo” (choice b) may or may not be uttered; and an encore (choice d) would take place after an ovation.",
+      "solutionSteps": [
+        "Step 1: Read the condition and isolate the logical premise.",
+        "Step 2: Test each option against the constraints.",
+        "Step 3: An ovation is prolonged, enthusiastic applause, so applause is necessary to an ovation. An out- burst (choice a) may take place during an ova- tion; “bravo” (choice b) may or may not be uttered; and an encore (choice d) would take place after an ovation."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Essential Part",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_cpo"
+      ],
+      "pageNumber": 29,
+      "sourcePdf": "500-Reasoning-Problems-GOSSC.in_.pdf"
+    },
+    {
+      "id": "gossc_500_q164",
+      "topicId": "critical_reasoning",
+      "subtopicId": "critical_reasoning_core",
+      "questionType": "text",
+      "question": "vertebrate",
+      "questionText": "vertebrate",
+      "options": [
+        "backbone",
+        "reptile",
+        "mammal",
+        "animal"
+      ],
+      "correctAnswer": "backbone",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Examine the core structural rule for Essential Part.",
+      "explanation": "All vertebrates have a backbone. Reptiles (choice b) are vertebrates, but so are many other animals. Mammals (choice c) are verte- brates, but so are birds and reptiles. All verte- brates (choice d) are animals, but not all animals are vertebrates. 109",
+      "solutionSteps": [
+        "Step 1: Read the condition and isolate the logical premise.",
+        "Step 2: Test each option against the constraints.",
+        "Step 3: All vertebrates have a backbone. Reptiles (choice b) are vertebrates, but so are many other animals. Mammals (choice c) are verte- brates, but so are birds and reptiles. All verte- brates (choice d) are animals, but not all animals are vertebrates. 109"
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Essential Part",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_cpo"
+      ],
+      "pageNumber": 30,
+      "sourcePdf": "500-Reasoning-Problems-GOSSC.in_.pdf"
+    },
+    {
+      "id": "gossc_500_q165",
+      "topicId": "critical_reasoning",
+      "subtopicId": "critical_reasoning_core",
+      "questionType": "text",
+      "question": "provisions",
+      "questionText": "provisions",
+      "options": [
+        "groceries",
+        "supplies",
+        "gear",
+        "caterers"
+      ],
+      "correctAnswer": "supplies",
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "hint": "Examine the core structural rule for Essential Part.",
+      "explanation": "Provisions imply the general supplies needed, so choice b is the essential element. The other choices are byproducts, but they are not essential.",
+      "solutionSteps": [
+        "Step 1: Read the condition and isolate the logical premise.",
+        "Step 2: Test each option against the constraints.",
+        "Step 3: Provisions imply the general supplies needed, so choice b is the essential element. The other choices are byproducts, but they are not essential."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Essential Part",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_cpo"
+      ],
+      "pageNumber": 30,
+      "sourcePdf": "500-Reasoning-Problems-GOSSC.in_.pdf"
+    },
+    {
+      "id": "gossc_500_q166",
+      "topicId": "critical_reasoning",
+      "subtopicId": "critical_reasoning_core",
+      "questionType": "text",
+      "question": "purchase",
+      "questionText": "purchase",
+      "options": [
+        "trade",
+        "money",
+        "bank",
+        "acquisition"
+      ],
+      "correctAnswer": "acquisition",
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "hint": "Examine the core structural rule for Essential Part.",
+      "explanation": "A purchase is an acquisition of something. A purchase may be made by trade (choice a) or with money (choice b), so those are not essen- tial elements. A bank (choice c) may or may not be involved in a purchase. 110 \u0002 Set 11 (Page 21)",
+      "solutionSteps": [
+        "Step 1: Read the condition and isolate the logical premise.",
+        "Step 2: Test each option against the constraints.",
+        "Step 3: A purchase is an acquisition of something. A purchase may be made by trade (choice a) or with money (choice b), so those are not essen- tial elements. A bank (choice c) may or may not be involved in a purchase. 110 \u0002 Set 11 (Page 21)"
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Essential Part",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_cpo"
+      ],
+      "pageNumber": 30,
+      "sourcePdf": "500-Reasoning-Problems-GOSSC.in_.pdf"
+    },
+    {
+      "id": "gossc_500_q168",
+      "topicId": "critical_reasoning",
+      "subtopicId": "critical_reasoning_core",
+      "questionType": "text",
+      "question": "recipe",
+      "questionText": "recipe",
+      "options": [
+        "desserts",
+        "directions",
+        "cookbook",
+        "utensils"
+      ],
+      "correctAnswer": "directions",
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "hint": "Examine the core structural rule for Essential Part.",
+      "explanation": "A recipe is a list of directions to make some- thing. Recipes may be used to prepare desserts (choice a), among other things. One does not need a cookbook (choice c) to have a recipe, and utensils (choice d) may or may not be used to make a recipe.",
+      "solutionSteps": [
+        "Step 1: Read the condition and isolate the logical premise.",
+        "Step 2: Test each option against the constraints.",
+        "Step 3: A recipe is a list of directions to make some- thing. Recipes may be used to prepare desserts (choice a), among other things. One does not need a cookbook (choice c) to have a recipe, and utensils (choice d) may or may not be used to make a recipe."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Essential Part",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_cpo"
+      ],
+      "pageNumber": 31,
+      "sourcePdf": "500-Reasoning-Problems-GOSSC.in_.pdf"
+    },
+    {
+      "id": "gossc_500_q169",
+      "topicId": "critical_reasoning",
+      "subtopicId": "critical_reasoning_core",
+      "questionType": "text",
+      "question": "hurricane",
+      "questionText": "hurricane",
+      "options": [
+        "beach",
+        "cyclone",
+        "damage",
+        "wind"
+      ],
+      "correctAnswer": "wind",
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "hint": "Examine the core structural rule for Essential Part.",
+      "explanation": "A hurricane cannot exist without wind. A beach is not essential to a hurricane (choice a). A hur- ricane is a type of cyclone, which rules out choice b. Not all hurricanes cause damage (choice c).",
+      "solutionSteps": [
+        "Step 1: Read the condition and isolate the logical premise.",
+        "Step 2: Test each option against the constraints.",
+        "Step 3: A hurricane cannot exist without wind. A beach is not essential to a hurricane (choice a). A hur- ricane is a type of cyclone, which rules out choice b. Not all hurricanes cause damage (choice c)."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Essential Part",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_cpo"
+      ],
+      "pageNumber": 31,
+      "sourcePdf": "500-Reasoning-Problems-GOSSC.in_.pdf"
+    },
+    {
+      "id": "gossc_500_q170",
+      "topicId": "critical_reasoning",
+      "subtopicId": "critical_reasoning_core",
+      "questionType": "text",
+      "question": "autograph",
+      "questionText": "autograph",
+      "options": [
+        "athlete",
+        "actor",
+        "signature",
+        "pen"
+      ],
+      "correctAnswer": "signature",
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "hint": "Examine the core structural rule for Essential Part.",
+      "explanation": "Without a signature, there is no autograph. Athletes and actors (choices a and b) may sign autographs, but they are not essential. An auto- graph can be signed with something other than a pen (choice d).",
+      "solutionSteps": [
+        "Step 1: Read the condition and isolate the logical premise.",
+        "Step 2: Test each option against the constraints.",
+        "Step 3: Without a signature, there is no autograph. Athletes and actors (choices a and b) may sign autographs, but they are not essential. An auto- graph can be signed with something other than a pen (choice d)."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Essential Part",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_cpo"
+      ],
+      "pageNumber": 31,
+      "sourcePdf": "500-Reasoning-Problems-GOSSC.in_.pdf"
+    },
+    {
+      "id": "gossc_500_q287",
+      "topicId": "critical_reasoning",
+      "subtopicId": "critical_reasoning_core",
+      "questionType": "text",
+      "question": "UMBRAGE : OFFENSE",
+      "questionText": "UMBRAGE : OFFENSE",
+      "options": [
+        "confusion : penance",
+        "inﬁnity : meaning",
+        "decorum : decoration",
+        "elation : jubilance"
+      ],
+      "correctAnswer": "elation : jubilance",
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "hint": "Examine the core structural rule for Matching Definitions.",
+      "explanation": "Umbrage and offense are synonyms; elation and jubilance are synonyms.",
+      "solutionSteps": [
+        "Step 1: Read the condition and isolate the logical premise.",
+        "Step 2: Test each option against the constraints.",
+        "Step 3: Umbrage and offense are synonyms; elation and jubilance are synonyms."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Matching Definitions",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_cpo"
+      ],
+      "pageNumber": 52,
+      "sourcePdf": "500-Reasoning-Problems-GOSSC.in_.pdf"
+    },
+    {
+      "id": "gossc_500_q288",
+      "topicId": "critical_reasoning",
+      "subtopicId": "critical_reasoning_core",
+      "questionType": "text",
+      "question": "PROFESSOR : ERUDITE",
+      "questionText": "PROFESSOR : ERUDITE",
+      "options": [
+        "aviator : licensed",
+        "inventor : imaginative",
+        "procrastinator : conscientious",
+        "overseer : wealthy"
+      ],
+      "correctAnswer": "inventor : imaginative",
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "hint": "Examine the core structural rule for Matching Definitions.",
+      "explanation": "Being erudite is a trait of a professor; being imaginative is a trait of an inventor.",
+      "solutionSteps": [
+        "Step 1: Read the condition and isolate the logical premise.",
+        "Step 2: Test each option against the constraints.",
+        "Step 3: Being erudite is a trait of a professor; being imaginative is a trait of an inventor."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Matching Definitions",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_cpo"
+      ],
+      "pageNumber": 52,
+      "sourcePdf": "500-Reasoning-Problems-GOSSC.in_.pdf"
+    },
+    {
+      "id": "gossc_500_q289",
+      "topicId": "critical_reasoning",
+      "subtopicId": "critical_reasoning_core",
+      "questionType": "text",
+      "question": "DEPENDABLE : CAPRICIOUS",
+      "questionText": "DEPENDABLE : CAPRICIOUS",
+      "options": [
+        "fallible : cantankerous",
+        "erasable : obtuse",
+        "malleable : limpid",
+        "capable : inept"
+      ],
+      "correctAnswer": "capable : inept",
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "hint": "Examine the core structural rule for Matching Definitions.",
+      "explanation": "Dependable and capricious are antonyms; capable and inept are antonyms.",
+      "solutionSteps": [
+        "Step 1: Read the condition and isolate the logical premise.",
+        "Step 2: Test each option against the constraints.",
+        "Step 3: Dependable and capricious are antonyms; capable and inept are antonyms."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Matching Definitions",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_cpo"
+      ],
+      "pageNumber": 52,
+      "sourcePdf": "500-Reasoning-Problems-GOSSC.in_.pdf"
+    },
+    {
+      "id": "gossc_500_q290",
+      "topicId": "critical_reasoning",
+      "subtopicId": "critical_reasoning_core",
+      "questionType": "text",
+      "question": "FROND : PALM",
+      "questionText": "FROND : PALM",
+      "options": [
+        "quill : porcupine",
+        "blade : evergreen",
+        "scale : wallaby",
+        "tusk : alligator"
+      ],
+      "correctAnswer": "quill : porcupine",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Examine the core structural rule for Matching Definitions.",
+      "explanation": "A palm (tree) has fronds; a porcupine has quills.",
+      "solutionSteps": [
+        "Step 1: Read the condition and isolate the logical premise.",
+        "Step 2: Test each option against the constraints.",
+        "Step 3: A palm (tree) has fronds; a porcupine has quills."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Matching Definitions",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_cpo"
+      ],
+      "pageNumber": 52,
+      "sourcePdf": "500-Reasoning-Problems-GOSSC.in_.pdf"
+    },
+    {
+      "id": "gossc_500_q291",
+      "topicId": "critical_reasoning",
+      "subtopicId": "critical_reasoning_core",
+      "questionType": "text",
+      "question": "METAPHOR : SYMBOL",
+      "questionText": "METAPHOR : SYMBOL",
+      "options": [
+        "pentameter : poem",
+        "rhythm : melody",
+        "nuance : song",
+        "slang : usage"
+      ],
+      "correctAnswer": "pentameter : poem",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Examine the core structural rule for Matching Definitions.",
+      "explanation": "A metaphor is a symbol; an analogy is a comparison.",
+      "solutionSteps": [
+        "Step 1: Read the condition and isolate the logical premise.",
+        "Step 2: Test each option against the constraints.",
+        "Step 3: A metaphor is a symbol; an analogy is a comparison."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Matching Definitions",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_cpo"
+      ],
+      "pageNumber": 52,
+      "sourcePdf": "500-Reasoning-Problems-GOSSC.in_.pdf"
+    },
+    {
+      "id": "gossc_500_q292",
+      "topicId": "critical_reasoning",
+      "subtopicId": "critical_reasoning_core",
+      "questionType": "text",
+      "question": "DIRGE : FUNERAL",
+      "questionText": "DIRGE : FUNERAL",
+      "options": [
+        "chain : letter",
+        "bell : church",
+        "telephone : call",
+        "jingle : commercial"
+      ],
+      "correctAnswer": "jingle : commercial",
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "hint": "Examine the core structural rule for Matching Definitions.",
+      "explanation": "A dirge is a song used at a funeral; a jingle is a song used in a commercial.",
+      "solutionSteps": [
+        "Step 1: Read the condition and isolate the logical premise.",
+        "Step 2: Test each option against the constraints.",
+        "Step 3: A dirge is a song used at a funeral; a jingle is a song used in a commercial."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Matching Definitions",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_cpo"
+      ],
+      "pageNumber": 52,
+      "sourcePdf": "500-Reasoning-Problems-GOSSC.in_.pdf"
+    },
+    {
+      "id": "gossc_500_q293",
+      "topicId": "critical_reasoning",
+      "subtopicId": "critical_reasoning_core",
+      "questionType": "text",
+      "question": "FERAL : TAME",
+      "questionText": "FERAL : TAME",
+      "options": [
+        "rancid : rational",
+        "repetitive : recurrent",
+        "nettlesome : annoying",
+        "repentant : honorable"
+      ],
+      "correctAnswer": "rancid : rational",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Examine the core structural rule for Matching Definitions.",
+      "explanation": "Feral and tame are antonyms; ephemeral and immortal are antonyms.",
+      "solutionSteps": [
+        "Step 1: Read the condition and isolate the logical premise.",
+        "Step 2: Test each option against the constraints.",
+        "Step 3: Feral and tame are antonyms; ephemeral and immortal are antonyms."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Matching Definitions",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_cpo"
+      ],
+      "pageNumber": 52,
+      "sourcePdf": "500-Reasoning-Problems-GOSSC.in_.pdf"
+    },
+    {
+      "id": "gossc_500_q294",
+      "topicId": "critical_reasoning",
+      "subtopicId": "critical_reasoning_core",
+      "questionType": "text",
+      "question": "SPY : CLANDESTINE",
+      "questionText": "SPY : CLANDESTINE",
+      "options": [
+        "accountant : meticulous",
+        "furrier : rambunctious",
+        "lawyer : ironic",
+        "shepherd : garrulous"
+      ],
+      "correctAnswer": "accountant : meticulous",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Examine the core structural rule for Matching Definitions.",
+      "explanation": "A spy acts in a clandestine manner; an account- ant acts in a meticulous manner.",
+      "solutionSteps": [
+        "Step 1: Read the condition and isolate the logical premise.",
+        "Step 2: Test each option against the constraints.",
+        "Step 3: A spy acts in a clandestine manner; an account- ant acts in a meticulous manner."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Matching Definitions",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_cpo"
+      ],
+      "pageNumber": 52,
+      "sourcePdf": "500-Reasoning-Problems-GOSSC.in_.pdf"
+    },
+    {
+      "id": "gossc_500_q295",
+      "topicId": "critical_reasoning",
+      "subtopicId": "critical_reasoning_core",
+      "questionType": "text",
+      "question": "DOMINANCE : HEGEMONY",
+      "questionText": "DOMINANCE : HEGEMONY",
+      "options": [
+        "romance : sympathy",
+        "furtherance : melancholy",
+        "independence : autonomy",
+        "tolerance : philanthropy"
+      ],
+      "correctAnswer": "independence : autonomy",
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "hint": "Examine the core structural rule for Matching Definitions.",
+      "explanation": "Hegemony means dominance; autonomy means independence.",
+      "solutionSteps": [
+        "Step 1: Read the condition and isolate the logical premise.",
+        "Step 2: Test each option against the constraints.",
+        "Step 3: Hegemony means dominance; autonomy means independence."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Matching Definitions",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_cpo"
+      ],
+      "pageNumber": 52,
+      "sourcePdf": "500-Reasoning-Problems-GOSSC.in_.pdf"
+    },
+    {
+      "id": "gossc_500_q296",
+      "topicId": "critical_reasoning",
+      "subtopicId": "critical_reasoning_core",
+      "questionType": "text",
+      "question": "AERIE : EAGLE",
+      "questionText": "AERIE : EAGLE",
+      "options": [
+        "capital : government",
+        "bridge : architect",
+        "unit : apartment",
+        "kennel : veterinarian"
+      ],
+      "correctAnswer": "capital : government",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Examine the core structural rule for Matching Definitions.",
+      "explanation": "An aerie is where an eagle lives; a house is where a person lives. 119 \u0002 Set 18 (Page 42)",
+      "solutionSteps": [
+        "Step 1: Read the condition and isolate the logical premise.",
+        "Step 2: Test each option against the constraints.",
+        "Step 3: An aerie is where an eagle lives; a house is where a person lives. 119 \u0002 Set 18 (Page 42)"
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Matching Definitions",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_cpo"
+      ],
+      "pageNumber": 52,
+      "sourcePdf": "500-Reasoning-Problems-GOSSC.in_.pdf"
+    },
+    {
+      "id": "gossc_500_q297",
+      "topicId": "critical_reasoning",
+      "subtopicId": "critical_reasoning_core",
+      "questionType": "text",
+      "question": "Here are some words translated from an artiﬁcial language. granamelke means big tree pinimelke means little tree melkehoon means tree house Which word could mean “big house”?",
+      "questionText": "Here are some words translated from an artiﬁcial language. granamelke means big tree pinimelke means little tree melkehoon means tree house Which word could mean “big house”?",
+      "options": [
+        "granahoon",
+        "pinishur",
+        "pinihoon",
+        "melkegrana"
+      ],
+      "correctAnswer": "granahoon",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Examine the core structural rule for Matching Definitions.",
+      "explanation": "Grana means big; melke means tree; pini means little; hoon means house. Therefore, granahoon means big house.",
+      "solutionSteps": [
+        "Step 1: Read the condition and isolate the logical premise.",
+        "Step 2: Test each option against the constraints.",
+        "Step 3: Grana means big; melke means tree; pini means little; hoon means house. Therefore, granahoon means big house."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Matching Definitions",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_cpo"
+      ],
+      "pageNumber": 53,
+      "sourcePdf": "500-Reasoning-Problems-GOSSC.in_.pdf"
+    },
+    {
+      "id": "gossc_500_q298",
+      "topicId": "critical_reasoning",
+      "subtopicId": "critical_reasoning_core",
+      "questionType": "text",
+      "question": "Here are some words translated from an artiﬁcial language. lelibroon means yellow hat plekafroti means ﬂower garden frotimix means garden salad Which word could mean “yellow ﬂower”?",
+      "questionText": "Here are some words translated from an artiﬁcial language. lelibroon means yellow hat plekafroti means ﬂower garden frotimix means garden salad Which word could mean “yellow ﬂower”?",
+      "options": [
+        "lelifroti",
+        "lelipleka",
+        "plekabroon",
+        "frotibroon"
+      ],
+      "correctAnswer": "lelipleka",
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "hint": "Examine the core structural rule for Matching Definitions.",
+      "explanation": "Leli means yellow; broon means hat; pleka means ﬂower; froti means garden; mix means salad. Therefore, lelipleka means yellow ﬂower.",
+      "solutionSteps": [
+        "Step 1: Read the condition and isolate the logical premise.",
+        "Step 2: Test each option against the constraints.",
+        "Step 3: Leli means yellow; broon means hat; pleka means ﬂower; froti means garden; mix means salad. Therefore, lelipleka means yellow ﬂower."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Matching Definitions",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_cpo"
+      ],
+      "pageNumber": 53,
+      "sourcePdf": "500-Reasoning-Problems-GOSSC.in_.pdf"
+    },
+    {
+      "id": "gossc_500_q299",
+      "topicId": "critical_reasoning",
+      "subtopicId": "critical_reasoning_core",
+      "questionType": "text",
+      "question": "Here are some words translated from an artiﬁcial language. moolokarn means blue sky wilkospadi means bicycle race moolowilko means blue bicycle Which word could mean “racecar”?",
+      "questionText": "Here are some words translated from an artiﬁcial language. moolokarn means blue sky wilkospadi means bicycle race moolowilko means blue bicycle Which word could mean “racecar”?",
+      "options": [
+        "wilkozwet",
+        "spadiwilko",
+        "moolobreil",
+        "spadivolo"
+      ],
+      "correctAnswer": "spadivolo",
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "hint": "Examine the core structural rule for Matching Definitions.",
+      "explanation": "From wilkospadi, you can determine that wilko means bicicyle and spadi means race. Therefore, the ﬁrst part of the word that means racecar should begin with spadi. That limits your choices to b and d. Choice b, spadiwilko, is incorrect because we have already determined that wilko means bicycle. Therefore, the answer must be choice d, spadivolo.",
+      "solutionSteps": [
+        "Step 1: Read the condition and isolate the logical premise.",
+        "Step 2: Test each option against the constraints.",
+        "Step 3: From wilkospadi, you can determine that wilko means bicicyle and spadi means race. Therefore, the ﬁrst part of the word that means racecar should begin with spadi. That limits your choices to b and d. Choice b, spadiwilko, is incorrect because we have already determined that wilko means bicycle. Therefore, the answer must be choice d, spadivolo."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Matching Definitions",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_cpo"
+      ],
+      "pageNumber": 53,
+      "sourcePdf": "500-Reasoning-Problems-GOSSC.in_.pdf"
+    },
+    {
+      "id": "gossc_500_q300",
+      "topicId": "critical_reasoning",
+      "subtopicId": "critical_reasoning_core",
+      "questionType": "text",
+      "question": "Here are some words translated from an artiﬁcial language. daftafoni means advisement imodafta means misadvise imolokti means misconduct Which word could mean “statement”?",
+      "questionText": "Here are some words translated from an artiﬁcial language. daftafoni means advisement imodafta means misadvise imolokti means misconduct Which word could mean “statement”?",
+      "options": [
+        "kratafoni",
+        "kratadafta",
+        "loktifoni",
+        "daftaimo"
+      ],
+      "correctAnswer": "kratafoni",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Examine the core structural rule for Matching Definitions.",
+      "explanation": "Dafta means advise; foni is the same as the sufﬁx –ment; imo is the same as the preﬁx mis–; lokti means conduct. Since the only word in the answer choices that hasn’t been deﬁned is krata, it is reasonable to assume that krata means state. Therefore, kratafoni is the only choice that could mean statement.",
+      "solutionSteps": [
+        "Step 1: Read the condition and isolate the logical premise.",
+        "Step 2: Test each option against the constraints.",
+        "Step 3: Dafta means advise; foni is the same as the sufﬁx –ment; imo is the same as the preﬁx mis–; lokti means conduct. Since the only word in the answer choices that hasn’t been deﬁned is krata, it is reasonable to assume that krata means state. Therefore, kratafoni is the only choice that could mean statement."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Matching Definitions",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_cpo"
+      ],
+      "pageNumber": 53,
+      "sourcePdf": "500-Reasoning-Problems-GOSSC.in_.pdf"
+    },
+    {
+      "id": "gossc_500_q301",
+      "topicId": "critical_reasoning",
+      "subtopicId": "critical_reasoning_core",
+      "questionType": "text",
+      "question": "Here are some words translated from an artiﬁcial language. dionot means oak tree blyonot means oak leaf blycrin means maple leaf Which word could mean “maple syrup”?",
+      "questionText": "Here are some words translated from an artiﬁcial language. dionot means oak tree blyonot means oak leaf blycrin means maple leaf Which word could mean “maple syrup”?",
+      "options": [
+        "blymuth",
+        "hupponot",
+        "patricrin",
+        "crinweel"
+      ],
+      "correctAnswer": "patricrin",
+      "correctIndex": 2,
+      "difficulty": "hard",
+      "hint": "Examine the core structural rule for Matching Definitions.",
+      "explanation": "In this language, the adjective follows the noun. From dionot and blyonot, you can determine that onot means oak. From blyonot and blycrin, you can determine that bly means leaf. There- fore, crin means maple. Because the adjective maple comes after the noun, patricrin is the only possible choice.",
+      "solutionSteps": [
+        "Step 1: Read the condition and isolate the logical premise.",
+        "Step 2: Test each option against the constraints.",
+        "Step 3: In this language, the adjective follows the noun. From dionot and blyonot, you can determine that onot means oak. From blyonot and blycrin, you can determine that bly means leaf. There- fore, crin means maple. Because the adjective maple comes after the noun, patricrin is the only possible choice."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Matching Definitions",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_cpo"
+      ],
+      "pageNumber": 53,
+      "sourcePdf": "500-Reasoning-Problems-GOSSC.in_.pdf"
+    }
+  ]
+}

@@ -1,7 +1,747 @@
 {
   "topicId": "embedded_figures",
-  "totalQuestions": 500,
+  "totalQuestions": 520,
   "questions": [
+    {
+      "id": "ssc_nv_q181",
+      "topicId": "embedded_figures",
+      "subtopicId": "embedded_figures_core",
+      "questionType": "figure",
+      "question": "Select the option in which the given figure is embedded.",
+      "questionText": "Select the option in which the given figure is embedded.",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (3)",
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (3) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (3) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Embedded Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 98,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q181.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q181.png"
+    },
+    {
+      "id": "ssc_nv_q182",
+      "topicId": "embedded_figures",
+      "subtopicId": "embedded_figures_core",
+      "questionType": "figure",
+      "question": "Select the option in which the given figure is embedded.",
+      "questionText": "Select the option in which the given figure is embedded.",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (1)",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (1) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (1) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Embedded Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 98,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q182.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q182.png"
+    },
+    {
+      "id": "ssc_nv_q183",
+      "topicId": "embedded_figures",
+      "subtopicId": "embedded_figures_core",
+      "questionType": "figure",
+      "question": "Select the option in which the given figure is embedded.",
+      "questionText": "Select the option in which the given figure is embedded.",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (4)",
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (4) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (4) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Embedded Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 99,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q183.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q183.png"
+    },
+    {
+      "id": "ssc_nv_q184",
+      "topicId": "embedded_figures",
+      "subtopicId": "embedded_figures_core",
+      "questionType": "figure",
+      "question": "Select the option in which the given figure is embedded.",
+      "questionText": "Select the option in which the given figure is embedded.",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (2)",
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (2) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (2) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Embedded Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 99,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q184.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q184.png"
+    },
+    {
+      "id": "ssc_nv_q185",
+      "topicId": "embedded_figures",
+      "subtopicId": "embedded_figures_core",
+      "questionType": "figure",
+      "question": "Select the option in which the given figure is embedded.",
+      "questionText": "Select the option in which the given figure is embedded.",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (2)",
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (2) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (2) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Embedded Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 100,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q185.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q185.png"
+    },
+    {
+      "id": "ssc_nv_q186",
+      "topicId": "embedded_figures",
+      "subtopicId": "embedded_figures_core",
+      "questionType": "figure",
+      "question": "Select the option in which the given figure is embedded.",
+      "questionText": "Select the option in which the given figure is embedded.",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (4)",
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (4) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (4) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Embedded Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 100,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q186.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q186.png"
+    },
+    {
+      "id": "ssc_nv_q187",
+      "topicId": "embedded_figures",
+      "subtopicId": "embedded_figures_core",
+      "questionType": "figure",
+      "question": "Select the option in which the given figure is embedded.",
+      "questionText": "Select the option in which the given figure is embedded.",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (1)",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (1) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (1) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Embedded Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 101,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q187.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q187.png"
+    },
+    {
+      "id": "ssc_nv_q188",
+      "topicId": "embedded_figures",
+      "subtopicId": "embedded_figures_core",
+      "questionType": "figure",
+      "question": "Select the option in which the given figure is embedded.",
+      "questionText": "Select the option in which the given figure is embedded.",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (3)",
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (3) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (3) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Embedded Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 101,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q188.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q188.png"
+    },
+    {
+      "id": "ssc_nv_q189",
+      "topicId": "embedded_figures",
+      "subtopicId": "embedded_figures_core",
+      "questionType": "figure",
+      "question": "Select the option in which the given figure is embedded.",
+      "questionText": "Select the option in which the given figure is embedded.",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (4)",
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (4) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (4) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Embedded Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 102,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q189.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q189.png"
+    },
+    {
+      "id": "ssc_nv_q190",
+      "topicId": "embedded_figures",
+      "subtopicId": "embedded_figures_core",
+      "questionType": "figure",
+      "question": "Select the option in which the given figure is embedded.",
+      "questionText": "Select the option in which the given figure is embedded.",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (2)",
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (2) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (2) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Embedded Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 102,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q190.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q190.png"
+    },
+    {
+      "id": "ssc_nv_q191",
+      "topicId": "embedded_figures",
+      "subtopicId": "embedded_figures_core",
+      "questionType": "figure",
+      "question": "Select the option in which the given figure is embedded.",
+      "questionText": "Select the option in which the given figure is embedded.",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (3)",
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (3) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (3) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Embedded Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 103,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q191.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q191.png"
+    },
+    {
+      "id": "ssc_nv_q192",
+      "topicId": "embedded_figures",
+      "subtopicId": "embedded_figures_core",
+      "questionType": "figure",
+      "question": "Select the option in which the given figure is embedded.",
+      "questionText": "Select the option in which the given figure is embedded.",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (1)",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (1) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (1) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Embedded Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 103,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q192.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q192.png"
+    },
+    {
+      "id": "ssc_nv_q193",
+      "topicId": "embedded_figures",
+      "subtopicId": "embedded_figures_core",
+      "questionType": "figure",
+      "question": "Select the option in which the given figure is embedded.",
+      "questionText": "Select the option in which the given figure is embedded.",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (1)",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (1) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (1) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Embedded Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 104,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q193.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q193.png"
+    },
+    {
+      "id": "ssc_nv_q194",
+      "topicId": "embedded_figures",
+      "subtopicId": "embedded_figures_core",
+      "questionType": "figure",
+      "question": "Select the option in which the given figure is embedded.",
+      "questionText": "Select the option in which the given figure is embedded.",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (3)",
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (3) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (3) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Embedded Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 104,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q194.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q194.png"
+    },
+    {
+      "id": "ssc_nv_q195",
+      "topicId": "embedded_figures",
+      "subtopicId": "embedded_figures_core",
+      "questionType": "figure",
+      "question": "Select the option in which the given figure is embedded.",
+      "questionText": "Select the option in which the given figure is embedded.",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (2)",
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (2) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (2) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Embedded Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 105,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q195.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q195.png"
+    },
+    {
+      "id": "ssc_nv_q196",
+      "topicId": "embedded_figures",
+      "subtopicId": "embedded_figures_core",
+      "questionType": "figure",
+      "question": "Select the option in which the given figure is embedded.",
+      "questionText": "Select the option in which the given figure is embedded.",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (4)",
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (4) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (4) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Embedded Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 105,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q196.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q196.png"
+    },
+    {
+      "id": "ssc_nv_q197",
+      "topicId": "embedded_figures",
+      "subtopicId": "embedded_figures_core",
+      "questionType": "figure",
+      "question": "Select the option in which the given figure is embedded.",
+      "questionText": "Select the option in which the given figure is embedded.",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (2)",
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (2) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (2) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Embedded Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 106,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q197.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q197.png"
+    },
+    {
+      "id": "ssc_nv_q198",
+      "topicId": "embedded_figures",
+      "subtopicId": "embedded_figures_core",
+      "questionType": "figure",
+      "question": "Select the option in which the given figure is embedded.",
+      "questionText": "Select the option in which the given figure is embedded.",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (1)",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (1) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (1) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Embedded Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 106,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q198.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q198.png"
+    },
+    {
+      "id": "ssc_nv_q199",
+      "topicId": "embedded_figures",
+      "subtopicId": "embedded_figures_core",
+      "questionType": "figure",
+      "question": "Select the option in which the given figure is embedded.",
+      "questionText": "Select the option in which the given figure is embedded.",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (4)",
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (4) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (4) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Embedded Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 107,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q199.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q199.png"
+    },
+    {
+      "id": "ssc_nv_q200",
+      "topicId": "embedded_figures",
+      "subtopicId": "embedded_figures_core",
+      "questionType": "figure",
+      "question": "Select the option in which the given figure is embedded.",
+      "questionText": "Select the option in which the given figure is embedded.",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (3)",
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (3) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (3) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Embedded Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 107,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q200.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q200.png"
+    },
     {
       "id": "emb_fig_1",
       "topicId": "embedded_figures",

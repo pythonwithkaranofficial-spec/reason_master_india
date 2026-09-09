@@ -1,0 +1,1117 @@
+{
+  "topicId": "paper_cutting",
+  "topicName": "Paper Folding & Cutting",
+  "totalQuestions": 30,
+  "questions": [
+    {
+      "id": "ssc_nv_q71",
+      "topicId": "paper_cutting",
+      "subtopicId": "paper_cutting_core",
+      "questionType": "figure",
+      "question": "The paper is folded as shown and then punched. Which option shows the pattern when the paper is completely unfolded?",
+      "questionText": "The paper is folded as shown and then punched. Which option shows the pattern when the paper is completely unfolded?",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (2)",
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (2) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (2) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Paper Folding & Cutting",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 39,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q71.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q71.png"
+    },
+    {
+      "id": "ssc_nv_q72",
+      "topicId": "paper_cutting",
+      "subtopicId": "paper_cutting_core",
+      "questionType": "figure",
+      "question": "The paper is folded as shown and then punched. Which option shows the pattern when the paper is completely unfolded?",
+      "questionText": "The paper is folded as shown and then punched. Which option shows the pattern when the paper is completely unfolded?",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (2)",
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (2) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (2) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Paper Folding & Cutting",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 40,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q72.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q72.png"
+    },
+    {
+      "id": "ssc_nv_q73",
+      "topicId": "paper_cutting",
+      "subtopicId": "paper_cutting_core",
+      "questionType": "figure",
+      "question": "The paper is folded as shown and then punched. Which option shows the pattern when the paper is completely unfolded?",
+      "questionText": "The paper is folded as shown and then punched. Which option shows the pattern when the paper is completely unfolded?",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (3)",
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (3) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (3) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Paper Folding & Cutting",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 40,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q73.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q73.png"
+    },
+    {
+      "id": "ssc_nv_q74",
+      "topicId": "paper_cutting",
+      "subtopicId": "paper_cutting_core",
+      "questionType": "figure",
+      "question": "The paper is folded as shown and then punched. Which option shows the pattern when the paper is completely unfolded?",
+      "questionText": "The paper is folded as shown and then punched. Which option shows the pattern when the paper is completely unfolded?",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (4)",
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (4) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (4) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Paper Folding & Cutting",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 41,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q74.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q74.png"
+    },
+    {
+      "id": "ssc_nv_q75",
+      "topicId": "paper_cutting",
+      "subtopicId": "paper_cutting_core",
+      "questionType": "figure",
+      "question": "The paper is folded as shown and then punched. Which option shows the pattern when the paper is completely unfolded?",
+      "questionText": "The paper is folded as shown and then punched. Which option shows the pattern when the paper is completely unfolded?",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (4)",
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (4) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (4) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Paper Folding & Cutting",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 41,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q75.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q75.png"
+    },
+    {
+      "id": "ssc_nv_q76",
+      "topicId": "paper_cutting",
+      "subtopicId": "paper_cutting_core",
+      "questionType": "figure",
+      "question": "The paper is folded as shown and then punched. Which option shows the pattern when the paper is completely unfolded?",
+      "questionText": "The paper is folded as shown and then punched. Which option shows the pattern when the paper is completely unfolded?",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (2)",
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (2) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (2) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Paper Folding & Cutting",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 42,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q76.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q76.png"
+    },
+    {
+      "id": "ssc_nv_q77",
+      "topicId": "paper_cutting",
+      "subtopicId": "paper_cutting_core",
+      "questionType": "figure",
+      "question": "The paper is folded as shown and then punched. Which option shows the pattern when the paper is completely unfolded?",
+      "questionText": "The paper is folded as shown and then punched. Which option shows the pattern when the paper is completely unfolded?",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (4)",
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (4) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (4) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Paper Folding & Cutting",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 42,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q77.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q77.png"
+    },
+    {
+      "id": "ssc_nv_q78",
+      "topicId": "paper_cutting",
+      "subtopicId": "paper_cutting_core",
+      "questionType": "figure",
+      "question": "The paper is folded as shown and then punched. Which option shows the pattern when the paper is completely unfolded?",
+      "questionText": "The paper is folded as shown and then punched. Which option shows the pattern when the paper is completely unfolded?",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (3)",
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (3) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (3) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Paper Folding & Cutting",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 43,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q78.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q78.png"
+    },
+    {
+      "id": "ssc_nv_q79",
+      "topicId": "paper_cutting",
+      "subtopicId": "paper_cutting_core",
+      "questionType": "figure",
+      "question": "The paper is folded as shown and then punched. Which option shows the pattern when the paper is completely unfolded?",
+      "questionText": "The paper is folded as shown and then punched. Which option shows the pattern when the paper is completely unfolded?",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (3)",
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (3) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (3) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Paper Folding & Cutting",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 43,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q79.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q79.png"
+    },
+    {
+      "id": "ssc_nv_q80",
+      "topicId": "paper_cutting",
+      "subtopicId": "paper_cutting_core",
+      "questionType": "figure",
+      "question": "The paper is folded as shown and then punched. Which option shows the pattern when the paper is completely unfolded?",
+      "questionText": "The paper is folded as shown and then punched. Which option shows the pattern when the paper is completely unfolded?",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (2)",
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (2) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (2) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Paper Folding & Cutting",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 44,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q80.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q80.png"
+    },
+    {
+      "id": "ssc_nv_q81",
+      "topicId": "paper_cutting",
+      "subtopicId": "paper_cutting_core",
+      "questionType": "figure",
+      "question": "The paper is folded as shown and then punched. Which option shows the pattern when the paper is completely unfolded?",
+      "questionText": "The paper is folded as shown and then punched. Which option shows the pattern when the paper is completely unfolded?",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (2)",
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (2) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (2) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Paper Folding & Cutting",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 44,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q81.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q81.png"
+    },
+    {
+      "id": "ssc_nv_q82",
+      "topicId": "paper_cutting",
+      "subtopicId": "paper_cutting_core",
+      "questionType": "figure",
+      "question": "The paper is folded as shown and then punched. Which option shows the pattern when the paper is completely unfolded?",
+      "questionText": "The paper is folded as shown and then punched. Which option shows the pattern when the paper is completely unfolded?",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (4)",
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (4) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (4) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Paper Folding & Cutting",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 45,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q82.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q82.png"
+    },
+    {
+      "id": "ssc_nv_q83",
+      "topicId": "paper_cutting",
+      "subtopicId": "paper_cutting_core",
+      "questionType": "figure",
+      "question": "The paper is folded as shown and then punched. Which option shows the pattern when the paper is completely unfolded?",
+      "questionText": "The paper is folded as shown and then punched. Which option shows the pattern when the paper is completely unfolded?",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (3)",
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (3) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (3) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Paper Folding & Cutting",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 45,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q83.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q83.png"
+    },
+    {
+      "id": "ssc_nv_q84",
+      "topicId": "paper_cutting",
+      "subtopicId": "paper_cutting_core",
+      "questionType": "figure",
+      "question": "The paper is folded as shown and then punched. Which option shows the pattern when the paper is completely unfolded?",
+      "questionText": "The paper is folded as shown and then punched. Which option shows the pattern when the paper is completely unfolded?",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (1)",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (1) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (1) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Paper Folding & Cutting",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 46,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q84.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q84.png"
+    },
+    {
+      "id": "ssc_nv_q85",
+      "topicId": "paper_cutting",
+      "subtopicId": "paper_cutting_core",
+      "questionType": "figure",
+      "question": "The paper is folded as shown and then punched. Which option shows the pattern when the paper is completely unfolded?",
+      "questionText": "The paper is folded as shown and then punched. Which option shows the pattern when the paper is completely unfolded?",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (2)",
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (2) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (2) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Paper Folding & Cutting",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 46,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q85.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q85.png"
+    },
+    {
+      "id": "ssc_nv_q86",
+      "topicId": "paper_cutting",
+      "subtopicId": "paper_cutting_core",
+      "questionType": "figure",
+      "question": "The paper is folded as shown and then punched. Which option shows the pattern when the paper is completely unfolded?",
+      "questionText": "The paper is folded as shown and then punched. Which option shows the pattern when the paper is completely unfolded?",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (3)",
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (3) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (3) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Paper Folding & Cutting",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 47,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q86.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q86.png"
+    },
+    {
+      "id": "ssc_nv_q87",
+      "topicId": "paper_cutting",
+      "subtopicId": "paper_cutting_core",
+      "questionType": "figure",
+      "question": "The paper is folded as shown and then punched. Which option shows the pattern when the paper is completely unfolded?",
+      "questionText": "The paper is folded as shown and then punched. Which option shows the pattern when the paper is completely unfolded?",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (2)",
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (2) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (2) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Paper Folding & Cutting",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 47,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q87.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q87.png"
+    },
+    {
+      "id": "ssc_nv_q88",
+      "topicId": "paper_cutting",
+      "subtopicId": "paper_cutting_core",
+      "questionType": "figure",
+      "question": "The paper is folded as shown and then punched. Which option shows the pattern when the paper is completely unfolded?",
+      "questionText": "The paper is folded as shown and then punched. Which option shows the pattern when the paper is completely unfolded?",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (2)",
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (2) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (2) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Paper Folding & Cutting",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 48,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q88.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q88.png"
+    },
+    {
+      "id": "ssc_nv_q89",
+      "topicId": "paper_cutting",
+      "subtopicId": "paper_cutting_core",
+      "questionType": "figure",
+      "question": "The paper is folded as shown and then punched. Which option shows the pattern when the paper is completely unfolded?",
+      "questionText": "The paper is folded as shown and then punched. Which option shows the pattern when the paper is completely unfolded?",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (3)",
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (3) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (3) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Paper Folding & Cutting",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 48,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q89.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q89.png"
+    },
+    {
+      "id": "ssc_nv_q90",
+      "topicId": "paper_cutting",
+      "subtopicId": "paper_cutting_core",
+      "questionType": "figure",
+      "question": "The paper is folded as shown and then punched. Which option shows the pattern when the paper is completely unfolded?",
+      "questionText": "The paper is folded as shown and then punched. Which option shows the pattern when the paper is completely unfolded?",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (2)",
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (2) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (2) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Paper Folding & Cutting",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 49,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q90.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q90.png"
+    },
+    {
+      "id": "ssc_nv_q91",
+      "topicId": "paper_cutting",
+      "subtopicId": "paper_cutting_core",
+      "questionType": "figure",
+      "question": "The paper is folded as shown and then punched. Which option shows the pattern when the paper is completely unfolded?",
+      "questionText": "The paper is folded as shown and then punched. Which option shows the pattern when the paper is completely unfolded?",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (1)",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (1) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (1) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Paper Folding & Cutting",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 49,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q91.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q91.png"
+    },
+    {
+      "id": "ssc_nv_q92",
+      "topicId": "paper_cutting",
+      "subtopicId": "paper_cutting_core",
+      "questionType": "figure",
+      "question": "The paper is folded as shown and then punched. Which option shows the pattern when the paper is completely unfolded?",
+      "questionText": "The paper is folded as shown and then punched. Which option shows the pattern when the paper is completely unfolded?",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (3)",
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (3) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (3) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Paper Folding & Cutting",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 50,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q92.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q92.png"
+    },
+    {
+      "id": "ssc_nv_q93",
+      "topicId": "paper_cutting",
+      "subtopicId": "paper_cutting_core",
+      "questionType": "figure",
+      "question": "The paper is folded as shown and then punched. Which option shows the pattern when the paper is completely unfolded?",
+      "questionText": "The paper is folded as shown and then punched. Which option shows the pattern when the paper is completely unfolded?",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (1)",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (1) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (1) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Paper Folding & Cutting",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 50,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q93.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q93.png"
+    },
+    {
+      "id": "ssc_nv_q94",
+      "topicId": "paper_cutting",
+      "subtopicId": "paper_cutting_core",
+      "questionType": "figure",
+      "question": "The paper is folded as shown and then punched. Which option shows the pattern when the paper is completely unfolded?",
+      "questionText": "The paper is folded as shown and then punched. Which option shows the pattern when the paper is completely unfolded?",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (2)",
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (2) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (2) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Paper Folding & Cutting",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 51,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q94.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q94.png"
+    },
+    {
+      "id": "ssc_nv_q95",
+      "topicId": "paper_cutting",
+      "subtopicId": "paper_cutting_core",
+      "questionType": "figure",
+      "question": "The paper is folded as shown and then punched. Which option shows the pattern when the paper is completely unfolded?",
+      "questionText": "The paper is folded as shown and then punched. Which option shows the pattern when the paper is completely unfolded?",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (2)",
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (2) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (2) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Paper Folding & Cutting",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 51,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q95.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q95.png"
+    },
+    {
+      "id": "ssc_nv_q96",
+      "topicId": "paper_cutting",
+      "subtopicId": "paper_cutting_core",
+      "questionType": "figure",
+      "question": "The paper is folded as shown and then punched. Which option shows the pattern when the paper is completely unfolded?",
+      "questionText": "The paper is folded as shown and then punched. Which option shows the pattern when the paper is completely unfolded?",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (3)",
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (3) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (3) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Paper Folding & Cutting",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 52,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q96.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q96.png"
+    },
+    {
+      "id": "ssc_nv_q97",
+      "topicId": "paper_cutting",
+      "subtopicId": "paper_cutting_core",
+      "questionType": "figure",
+      "question": "The paper is folded as shown and then punched. Which option shows the pattern when the paper is completely unfolded?",
+      "questionText": "The paper is folded as shown and then punched. Which option shows the pattern when the paper is completely unfolded?",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (1)",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (1) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (1) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Paper Folding & Cutting",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 53,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q97.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q97.png"
+    },
+    {
+      "id": "ssc_nv_q98",
+      "topicId": "paper_cutting",
+      "subtopicId": "paper_cutting_core",
+      "questionType": "figure",
+      "question": "The paper is folded as shown and then punched. Which option shows the pattern when the paper is completely unfolded?",
+      "questionText": "The paper is folded as shown and then punched. Which option shows the pattern when the paper is completely unfolded?",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (1)",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (1) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (1) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Paper Folding & Cutting",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 53,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q98.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q98.png"
+    },
+    {
+      "id": "ssc_nv_q99",
+      "topicId": "paper_cutting",
+      "subtopicId": "paper_cutting_core",
+      "questionType": "figure",
+      "question": "The paper is folded as shown and then punched. Which option shows the pattern when the paper is completely unfolded?",
+      "questionText": "The paper is folded as shown and then punched. Which option shows the pattern when the paper is completely unfolded?",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (2)",
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (2) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (2) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Paper Folding & Cutting",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 54,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q99.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q99.png"
+    },
+    {
+      "id": "ssc_nv_q100",
+      "topicId": "paper_cutting",
+      "subtopicId": "paper_cutting_core",
+      "questionType": "figure",
+      "question": "The paper is folded as shown and then punched. Which option shows the pattern when the paper is completely unfolded?",
+      "questionText": "The paper is folded as shown and then punched. Which option shows the pattern when the paper is completely unfolded?",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (4)",
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (4) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (4) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Paper Folding & Cutting",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 54,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q100.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q100.png"
+    }
+  ]
+}

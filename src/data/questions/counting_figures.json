@@ -1,7 +1,4727 @@
 {
   "topicId": "counting_figures",
-  "totalQuestions": 500,
+  "totalQuestions": 640,
   "questions": [
+    {
+      "id": "ssc_counting_figures_q1",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "How many triangles are there in a triangle divided by one line from vertex to the opposite base?",
+      "questionText": "How many triangles are there in a triangle divided by one line from vertex to the opposite base?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "1"
+      ],
+      "correctAnswer": "Option (B)",
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (B). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (B). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 2,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q2",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "A triangle divided by 2 lines from the same vertex to the base forms how many triangles?",
+      "questionText": "A triangle divided by 2 lines from the same vertex to the base forms how many triangles?",
+      "options": [
+        "3",
+        "4",
+        "6",
+        "5"
+      ],
+      "correctAnswer": "Option (C)",
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 2,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q3",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "How many triangles are in a triangle with a median drawn (one line from vertex to midpoint of base)?",
+      "questionText": "How many triangles are in a triangle with a median drawn (one line from vertex to midpoint of base)?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "1"
+      ],
+      "correctAnswer": "Option (B)",
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (B). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (B). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 2,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q4",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "A triangle is divided into 4 equal smaller triangles (like a Sierpinski pattern, 1 level). How many total triangles are there?",
+      "questionText": "A triangle is divided into 4 equal smaller triangles (like a Sierpinski pattern, 1 level). How many total triangles are there?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "8"
+      ],
+      "correctAnswer": "Option (B)",
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (B). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (B). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 2,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q5",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "How many triangles are formed when a square is divided by both diagonals?",
+      "questionText": "How many triangles are formed when a square is divided by both diagonals?",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "correctAnswer": "Option (B)",
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (B). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (B). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 2,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q6",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "Two triangles placed base to base (like a diamond/rhombus shape) form how many total triangles?",
+      "questionText": "Two triangles placed base to base (like a diamond/rhombus shape) form how many total triangles?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctAnswer": "Option (B)",
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (B). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (B). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 2,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q7",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "A large triangle divided by 3 lines parallel to the base (creating 4 rows) has how many triangles pointing upward only?",
+      "questionText": "A large triangle divided by 3 lines parallel to the base (creating 4 rows) has how many triangles pointing upward only?",
+      "options": [
+        "4",
+        "6",
+        "10",
+        "8"
+      ],
+      "correctAnswer": "Option (C)",
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 2,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q8",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "In a figure with a triangle inside a triangle (two nested triangles), how many triangles are there?",
+      "questionText": "In a figure with a triangle inside a triangle (two nested triangles), how many triangles are there?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctAnswer": "Option (B)",
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (B). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (B). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 3,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q9",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "A triangle divided into 9 equal smaller triangles (3 rows) — how many total triangles are there?",
+      "questionText": "A triangle divided into 9 equal smaller triangles (3 rows) — how many total triangles are there?",
+      "options": [
+        "9",
+        "13",
+        "18",
+        "10"
+      ],
+      "correctAnswer": "Option (B)",
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (B). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (B). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 3,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q10",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "How many triangles are formed in a figure where 3 lines pass through a single point inside a triangle, each connecting to a vertex?",
+      "questionText": "How many triangles are formed in a figure where 3 lines pass through a single point inside a triangle, each connecting to a vertex?",
+      "options": [
+        "3",
+        "6",
+        "9",
+        "12"
+      ],
+      "correctAnswer": "Option (B)",
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (B). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (B). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 3,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q11",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "A right-angled triangle is divided by the altitude from the right angle to the hypotenuse. How many triangles are formed in total?",
+      "questionText": "A right-angled triangle is divided by the altitude from the right angle to the hypotenuse. How many triangles are formed in total?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctAnswer": "Option (B)",
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (B). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (B). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 3,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q12",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "How many triangles are there in a Star of David (hexagram) figure?",
+      "questionText": "How many triangles are there in a Star of David (hexagram) figure?",
+      "options": [
+        "6",
+        "8",
+        "12",
+        "2"
+      ],
+      "correctAnswer": "Option (C)",
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 3,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q13",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "A triangle has 2 lines drawn from two different vertices to the opposite sides (not crossing each other). How many triangles are formed?",
+      "questionText": "A triangle has 2 lines drawn from two different vertices to the opposite sides (not crossing each other). How many triangles are formed?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correctAnswer": "Option (B)",
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (B). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (B). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 3,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q14",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "In a figure, 4 triangles share a common vertex at the center. How many total triangles are visible?",
+      "questionText": "In a figure, 4 triangles share a common vertex at the center. How many total triangles are visible?",
+      "options": [
+        "4",
+        "6",
+        "8",
+        "10"
+      ],
+      "correctAnswer": "Option (B)",
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (B). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (B). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 3,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q15",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "How many triangles are in a figure that shows an equilateral triangle divided into 4 equal parts? Counting Figure Questions",
+      "questionText": "How many triangles are in a figure that shows an equilateral triangle divided into 4 equal parts? Counting Figure Questions",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "8"
+      ],
+      "correctAnswer": "Option (B)",
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (B). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (B). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 3,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q16",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "A triangle is divided by lines from all 3 vertices to the midpoints of opposite sides (medial triangle). How many triangles are formed?",
+      "questionText": "A triangle is divided by lines from all 3 vertices to the midpoints of opposite sides (medial triangle). How many triangles are formed?",
+      "options": [
+        "4",
+        "6",
+        "8",
+        "12"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 4,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q17",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "Two triangles overlap partially. Minimum number of triangles visible is:",
+      "questionText": "Two triangles overlap partially. Minimum number of triangles visible is:",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctAnswer": "Option (C)",
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 4,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q18",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "In a triangle divided into 16 equal smaller triangles (4 rows), total triangles =?",
+      "questionText": "In a triangle divided into 16 equal smaller triangles (4 rows), total triangles =?",
+      "options": [
+        "16",
+        "18",
+        "27",
+        "22"
+      ],
+      "correctAnswer": "Option (C)",
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 4,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q19",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "How many triangles are formed in a rectangle divided by both diagonals?",
+      "questionText": "How many triangles are formed in a rectangle divided by both diagonals?",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "correctAnswer": "Option (B)",
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (B). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (B). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 4,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q20",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "A triangle with one internal point connected to all three vertices — how many triangles are formed?",
+      "questionText": "A triangle with one internal point connected to all three vertices — how many triangles are formed?",
+      "options": [
+        "3",
+        "4",
+        "6",
+        "9"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 4,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q21",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "How many triangles are in a figure showing 3 overlapping triangles arranged in a circular pattern?",
+      "questionText": "How many triangles are in a figure showing 3 overlapping triangles arranged in a circular pattern?",
+      "options": [
+        "6",
+        "9",
+        "12",
+        "15"
+      ],
+      "correctAnswer": "Option (B)",
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (B). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (B). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 4,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q22",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "A large triangle is divided into 2 rows of smaller triangles. How many total triangles?",
+      "questionText": "A large triangle is divided into 2 rows of smaller triangles. How many total triangles?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctAnswer": "Option (C)",
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 4,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q23",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "In a figure with two triangles placed tip to tip (hourglass shape), how many triangles are Counting Figure Questions",
+      "questionText": "In a figure with two triangles placed tip to tip (hourglass shape), how many triangles are Counting Figure Questions",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 4,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q24",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "How many triangles are formed when 4 straight lines all pass through one common point?",
+      "questionText": "How many triangles are formed when 4 straight lines all pass through one common point?",
+      "options": [
+        "4",
+        "6",
+        "8",
+        "12"
+      ],
+      "correctAnswer": "Option (C)",
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 5,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q25",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "A triangle divided by 3 parallel lines to the base (4 rows). Total upward + downward triangles =?",
+      "questionText": "A triangle divided by 3 parallel lines to the base (4 rows). Total upward + downward triangles =?",
+      "options": [
+        "10",
+        "13",
+        "16",
+        "20"
+      ],
+      "correctAnswer": "Option (B)",
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (B). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (B). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 5,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q26",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "A 2×2 grid has how many total squares?",
+      "questionText": "A 2×2 grid has how many total squares?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "3"
+      ],
+      "correctAnswer": "Option (B)",
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (B). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (B). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 5,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q27",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "A 3×3 grid has how many total squares?",
+      "questionText": "A 3×3 grid has how many total squares?",
+      "options": [
+        "9",
+        "12",
+        "14",
+        "16"
+      ],
+      "correctAnswer": "Option (C)",
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 5,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q28",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "A 4×4 grid has how many total squares?",
+      "questionText": "A 4×4 grid has how many total squares?",
+      "options": [
+        "16",
+        "20",
+        "24",
+        "30"
+      ],
+      "correctAnswer": "Option (D)",
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (D). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (D). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 6,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q29",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "A 2×3 grid has how many total rectangles (including squares)?",
+      "questionText": "A 2×3 grid has how many total rectangles (including squares)?",
+      "options": [
+        "6",
+        "10",
+        "12",
+        "18"
+      ],
+      "correctAnswer": "Option (D)",
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (D). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (D). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 6,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q30",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "A 1×4 grid (one row, 4 columns) has how many total rectangles?",
+      "questionText": "A 1×4 grid (one row, 4 columns) has how many total rectangles?",
+      "options": [
+        "4",
+        "6",
+        "8",
+        "10"
+      ],
+      "correctAnswer": "Option (D)",
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (D). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (D). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 6,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q31",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "How many squares are in a 5×5 grid?",
+      "questionText": "How many squares are in a 5×5 grid?",
+      "options": [
+        "25",
+        "30",
+        "55",
+        "50"
+      ],
+      "correctAnswer": "Option (C)",
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 6,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q32",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "A single square divided by both diagonals — how many triangles are formed?",
+      "questionText": "A single square divided by both diagonals — how many triangles are formed?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "6"
+      ],
+      "correctAnswer": "Option (C)",
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 6,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q33",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "How many rectangles are in a 3×3 grid?",
+      "questionText": "How many rectangles are in a 3×3 grid?",
+      "options": [
+        "18",
+        "24",
+        "36",
+        "30"
+      ],
+      "correctAnswer": "Option (C)",
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 7,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q34",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "A 2×2 grid — how many rectangles (including squares) are there?",
+      "questionText": "A 2×2 grid — how many rectangles (including squares) are there?",
+      "options": [
+        "6",
+        "8",
+        "9",
+        "10"
+      ],
+      "correctAnswer": "Option (C)",
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 7,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q35",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "In a 1×3 row grid, how many rectangles are there?",
+      "questionText": "In a 1×3 row grid, how many rectangles are there?",
+      "options": [
+        "3",
+        "4",
+        "6",
+        "5"
+      ],
+      "correctAnswer": "Option (C)",
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 7,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q36",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "How many squares of all sizes are in a 3×4 grid?",
+      "questionText": "How many squares of all sizes are in a 3×4 grid?",
+      "options": [
+        "12",
+        "18",
+        "20",
+        "22"
+      ],
+      "correctAnswer": "Option (C)",
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 7,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q37",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "A rectangle divided into 4 equal smaller rectangles by one horizontal and one vertical line — how many total rectangles?",
+      "questionText": "A rectangle divided into 4 equal smaller rectangles by one horizontal and one vertical line — how many total rectangles?",
+      "options": [
+        "4",
+        "7",
+        "9",
+        "5"
+      ],
+      "correctAnswer": "Option (C)",
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 7,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q38",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "How many squares are formed in a figure with 3×3 grid drawn inside a larger square?",
+      "questionText": "How many squares are formed in a figure with 3×3 grid drawn inside a larger square?",
+      "options": [
+        "9",
+        "13",
+        "14",
+        "16"
+      ],
+      "correctAnswer": "Option (C)",
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 8,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q39",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "A square divided by 3 horizontal and 3 vertical lines (4×4 inner grid) — total squares =?",
+      "questionText": "A square divided by 3 horizontal and 3 vertical lines (4×4 inner grid) — total squares =?",
+      "options": [
+        "16",
+        "20",
+        "30",
+        "36"
+      ],
+      "correctAnswer": "Option (C)",
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 8,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q40",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "In a figure showing a large square with 4 smaller squares inside arranged in a 2×2 pattern, total squares are:",
+      "questionText": "In a figure showing a large square with 4 smaller squares inside arranged in a 2×2 pattern, total squares are:",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "8"
+      ],
+      "correctAnswer": "Option (B)",
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (B). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (B). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 8,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q41",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "How many rectangles are in a 2×4 grid?",
+      "questionText": "How many rectangles are in a 2×4 grid?",
+      "options": [
+        "8",
+        "15",
+        "18",
+        "30"
+      ],
+      "correctAnswer": "Option (D)",
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (D). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (D). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 8,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q42",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "A square is divided into 9 equal smaller squares (3×3). How many squares of size 2×2 are inside?",
+      "questionText": "A square is divided into 9 equal smaller squares (3×3). How many squares of size 2×2 are inside?",
+      "options": [
+        "1",
+        "2",
+        "4",
+        "6"
+      ],
+      "correctAnswer": "Option (C)",
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 8,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q43",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "How many total rectangles are in a figure with 2 rows and 5 columns? Counting Figure Questions",
+      "questionText": "How many total rectangles are in a figure with 2 rows and 5 columns? Counting Figure Questions",
+      "options": [
+        "10",
+        "20",
+        "30",
+        "45"
+      ],
+      "correctAnswer": "Option (D)",
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (D). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (D). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 8,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q44",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "A 4×4 grid has how many rectangles in total?",
+      "questionText": "A 4×4 grid has how many rectangles in total?",
+      "options": [
+        "36",
+        "64",
+        "100",
+        "16"
+      ],
+      "correctAnswer": "Option (C)",
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 9,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q45",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "A square divided only by one diagonal — how many triangles are formed?",
+      "questionText": "A square divided only by one diagonal — how many triangles are formed?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctAnswer": "Option (B)",
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (B). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (B). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 9,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q46",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "In a 3×3 grid, how many squares of exactly size 2×2 are there?",
+      "questionText": "In a 3×3 grid, how many squares of exactly size 2×2 are there?",
+      "options": [
+        "1",
+        "2",
+        "4",
+        "6"
+      ],
+      "correctAnswer": "Option (C)",
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 9,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q47",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "A rectangle divided into 3 equal columns and 2 equal rows — total rectangles =?",
+      "questionText": "A rectangle divided into 3 equal columns and 2 equal rows — total rectangles =?",
+      "options": [
+        "6",
+        "12",
+        "18",
+        "24"
+      ],
+      "correctAnswer": "Option (C)",
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 9,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q48",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "In a figure showing a large square divided into 4 equal squares, and each of those divided into 4 again — total squares of all sizes =?",
+      "questionText": "In a figure showing a large square divided into 4 equal squares, and each of those divided into 4 again — total squares of all sizes =?",
+      "options": [
+        "16",
+        "20",
+        "21",
+        "25"
+      ],
+      "correctAnswer": "Option (C)",
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 9,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q49",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "How many squares are in a 2×4 rectangle grid?",
+      "questionText": "How many squares are in a 2×4 rectangle grid?",
+      "options": [
+        "8",
+        "11",
+        "12",
+        "10"
+      ],
+      "correctAnswer": "Option (B)",
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (B). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (B). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 10,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q50",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "A chessboard (8×8) has how many total squares?",
+      "questionText": "A chessboard (8×8) has how many total squares?",
+      "options": [
+        "64",
+        "100",
+        "196",
+        "204"
+      ],
+      "correctAnswer": "Option (D)",
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (D). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (D). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 10,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q51",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "1 straight line divides a plane into how many regions?",
+      "questionText": "1 straight line divides a plane into how many regions?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctAnswer": "Option (B)",
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (B). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (B). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 10,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q52",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "2 parallel lines divide a plane into how many regions?",
+      "questionText": "2 parallel lines divide a plane into how many regions?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctAnswer": "Option (B)",
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (B). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (B). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 10,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q53",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "2 intersecting lines divide a plane into how many regions?",
+      "questionText": "2 intersecting lines divide a plane into how many regions?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctAnswer": "Option (C)",
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 10,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q54",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "3 lines, all passing through a single point, divide a plane into how many regions?",
+      "questionText": "3 lines, all passing through a single point, divide a plane into how many regions?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correctAnswer": "Option (C)",
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 11,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q55",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "3 lines, no two parallel and no three concurrent, divide a plane into how many regions?",
+      "questionText": "3 lines, no two parallel and no three concurrent, divide a plane into how many regions?",
+      "options": [
+        "4",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctAnswer": "Option (C)",
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 11,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q56",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "How many regions does a circle divide a plane into?",
+      "questionText": "How many regions does a circle divide a plane into?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctAnswer": "Option (B)",
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (B). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (B). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 11,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q57",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "2 circles (overlapping) divide a plane into how many regions?",
+      "questionText": "2 circles (overlapping) divide a plane into how many regions?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctAnswer": "Option (D)",
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (D). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (D). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 11,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q58",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "3 circles, each overlapping the other two but not all three overlapping at the same point — how many regions?",
+      "questionText": "3 circles, each overlapping the other two but not all three overlapping at the same point — how many regions?",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correctAnswer": "Option (C)",
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 11,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q59",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "How many line segments are formed when 5 points are placed on a straight line? Counting Figure Questions",
+      "questionText": "How many line segments are formed when 5 points are placed on a straight line? Counting Figure Questions",
+      "options": [
+        "5",
+        "8",
+        "10",
+        "12"
+      ],
+      "correctAnswer": "Option (C)",
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 11,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q60",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "How many lines can be drawn through 4 points, no three of which are collinear?",
+      "questionText": "How many lines can be drawn through 4 points, no three of which are collinear?",
+      "options": [
+        "4",
+        "6",
+        "8",
+        "12"
+      ],
+      "correctAnswer": "Option (B)",
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (B). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (B). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 12,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q61",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "4 lines, no two parallel and no three concurrent — how many regions do they divide the plane into?",
+      "questionText": "4 lines, no two parallel and no three concurrent — how many regions do they divide the plane into?",
+      "options": [
+        "8",
+        "10",
+        "11",
+        "12"
+      ],
+      "correctAnswer": "Option (C)",
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 12,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q62",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "How many intersection points can 5 lines (no two parallel, no three concurrent) form?",
+      "questionText": "How many intersection points can 5 lines (no two parallel, no three concurrent) form?",
+      "options": [
+        "5",
+        "8",
+        "10",
+        "12"
+      ],
+      "correctAnswer": "Option (C)",
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 12,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q63",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "A line passes through a circle. How many regions are formed?",
+      "questionText": "A line passes through a circle. How many regions are formed?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctAnswer": "Option (D)",
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (D). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (D). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 12,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q64",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "Two lines pass through a circle (intersecting inside). How many regions are formed?",
+      "questionText": "Two lines pass through a circle (intersecting inside). How many regions are formed?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctAnswer": "Option (D)",
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (D). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (D). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 12,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q65",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "How many diagonals does a hexagon have?",
+      "questionText": "How many diagonals does a hexagon have?",
+      "options": [
+        "6",
+        "8",
+        "9",
+        "12"
+      ],
+      "correctAnswer": "Option (C)",
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 13,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q66",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "How many diagonals does a pentagon have?",
+      "questionText": "How many diagonals does a pentagon have?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "8"
+      ],
+      "correctAnswer": "Option (B)",
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (B). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (B). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 13,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q67",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "How many diagonals does an octagon have?",
+      "questionText": "How many diagonals does an octagon have?",
+      "options": [
+        "16",
+        "18",
+        "20",
+        "24"
+      ],
+      "correctAnswer": "Option (C)",
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 13,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q68",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "5 lines all passing through the same point divide the plane into:",
+      "questionText": "5 lines all passing through the same point divide the plane into:",
+      "options": [
+        "5",
+        "8",
+        "10",
+        "12"
+      ],
+      "correctAnswer": "Option (C)",
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 13,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q69",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "How many triangles can be formed using 6 points on a circle?",
+      "questionText": "How many triangles can be formed using 6 points on a circle?",
+      "options": [
+        "10",
+        "15",
+        "20",
+        "6"
+      ],
+      "correctAnswer": "Option (C)",
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 13,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q70",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "A straight line cuts across a triangle. What is the maximum number of regions formed?",
+      "questionText": "A straight line cuts across a triangle. What is the maximum number of regions formed?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctAnswer": "Option (B)",
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (B). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (B). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 14,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q71",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "Two circles placed separately (not overlapping) — total regions in the plane:",
+      "questionText": "Two circles placed separately (not overlapping) — total regions in the plane:",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctAnswer": "Option (B)",
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (B). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (B). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 14,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q72",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "One circle inside another circle (nested) — total regions:",
+      "questionText": "One circle inside another circle (nested) — total regions:",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctAnswer": "Option (B)",
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (B). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (B). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 14,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q73",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "Three circles, none overlapping — total regions:",
+      "questionText": "Three circles, none overlapping — total regions:",
+      "options": [
+        "3",
+        "4",
+        "6",
+        "7"
+      ],
+      "correctAnswer": "Option (B)",
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (B). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (B). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 14,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q74",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "A circle divided by 2 diameters — how many regions inside the circle?",
+      "questionText": "A circle divided by 2 diameters — how many regions inside the circle?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "6"
+      ],
+      "correctAnswer": "Option (C)",
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 14,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q75",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "A circle divided by 3 diameters — how many regions?",
+      "questionText": "A circle divided by 3 diameters — how many regions?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctAnswer": "Option (D)",
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (D). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (D). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 14,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q76",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "How many regions does a circle divided by 4 diameters create?",
+      "questionText": "How many regions does a circle divided by 4 diameters create?",
+      "options": [
+        "4",
+        "6",
+        "8",
+        "10"
+      ],
+      "correctAnswer": "Option (C)",
+      "correctIndex": 2,
+      "difficulty": "hard",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 15,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q77",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "A rectangle has a circle drawn inside it touching all 4 sides. How many regions are formed?",
+      "questionText": "A rectangle has a circle drawn inside it touching all 4 sides. How many regions are formed?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctAnswer": "Option (B)",
+      "correctIndex": 1,
+      "difficulty": "hard",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (B). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (B). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 15,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q78",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "In a figure with 3 circles all passing through a common point — how many regions are formed approximately?",
+      "questionText": "In a figure with 3 circles all passing through a common point — how many regions are formed approximately?",
+      "options": [
+        "4",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctAnswer": "Option (C)",
+      "correctIndex": 2,
+      "difficulty": "hard",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 15,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q79",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "A triangle is drawn inside a circle. How many regions are formed?",
+      "questionText": "A triangle is drawn inside a circle. How many regions are formed?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctAnswer": "Option (C)",
+      "correctIndex": 2,
+      "difficulty": "hard",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 15,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q80",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "How many regions are formed when a square is drawn inside a circle?",
+      "questionText": "How many regions are formed when a square is drawn inside a circle?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctAnswer": "Option (B)",
+      "correctIndex": 1,
+      "difficulty": "hard",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (B). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (B). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 15,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q81",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "Two squares, one inside the other — total regions:",
+      "questionText": "Two squares, one inside the other — total regions:",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctAnswer": "Option (B)",
+      "correctIndex": 1,
+      "difficulty": "hard",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (B). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (B). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 16,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q82",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "A figure shows a circle with a diameter and a chord. How many regions inside the circle are there?",
+      "questionText": "A figure shows a circle with a diameter and a chord. How many regions inside the circle are there?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctAnswer": "Option (B)",
+      "correctIndex": 1,
+      "difficulty": "hard",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (B). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (B). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 16,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q83",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "How many regions are formed by drawing 2 chords inside a circle (not passing through center, intersecting inside)?",
+      "questionText": "How many regions are formed by drawing 2 chords inside a circle (not passing through center, intersecting inside)?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctAnswer": "Option (C)",
+      "correctIndex": 2,
+      "difficulty": "hard",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 16,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q84",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "How many regions are formed by 3 chords inside a circle, each pair intersecting inside?",
+      "questionText": "How many regions are formed by 3 chords inside a circle, each pair intersecting inside?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctAnswer": "Option (C)",
+      "correctIndex": 2,
+      "difficulty": "hard",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 16,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q85",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "A triangle with a circle inscribed inside it — total regions:",
+      "questionText": "A triangle with a circle inscribed inside it — total regions:",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctAnswer": "Option (B)",
+      "correctIndex": 1,
+      "difficulty": "hard",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (B). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (B). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 16,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q86",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "How many regions are formed when 4 chords in a circle all intersect at different interior points?",
+      "questionText": "How many regions are formed when 4 chords in a circle all intersect at different interior points?",
+      "options": [
+        "8",
+        "10",
+        "11",
+        "14"
+      ],
+      "correctAnswer": "Option (C)",
+      "correctIndex": 2,
+      "difficulty": "hard",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 17,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q87",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "A figure shows two rectangles overlapping. How many regions are formed?",
+      "questionText": "A figure shows two rectangles overlapping. How many regions are formed?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctAnswer": "Option (B)",
+      "correctIndex": 1,
+      "difficulty": "hard",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (B). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (B). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 17,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q88",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "Three rectangles, each overlapping the next but not all three overlapping — how many regions?",
+      "questionText": "Three rectangles, each overlapping the next but not all three overlapping — how many regions?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "7"
+      ],
+      "correctAnswer": "Option (B)",
+      "correctIndex": 1,
+      "difficulty": "hard",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (B). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (B). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 17,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q89",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "How many total figures (triangles + rectangles + other) can be counted in a figure showing a square with both diagonals drawn?",
+      "questionText": "How many total figures (triangles + rectangles + other) can be counted in a figure showing a square with both diagonals drawn?",
+      "options": [
+        "4 triangles only",
+        "4 triangles + 1 square = 5",
+        "8 triangles + 1 square = 9",
+        "4 triangles + 4 rectangles + 1 square"
+      ],
+      "correctAnswer": "Option (B)",
+      "correctIndex": 1,
+      "difficulty": "hard",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (B). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (B). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 17,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q90",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "A hexagon divided by all its diagonals from one vertex — how many triangles are formed?",
+      "questionText": "A hexagon divided by all its diagonals from one vertex — how many triangles are formed?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "correctAnswer": "Option (B)",
+      "correctIndex": 1,
+      "difficulty": "hard",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (B). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (B). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 17,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q91",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "In a Venn diagram with 2 overlapping circles, how many distinct regions are there?",
+      "questionText": "In a Venn diagram with 2 overlapping circles, how many distinct regions are there?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctAnswer": "Option (B)",
+      "correctIndex": 1,
+      "difficulty": "hard",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (B). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (B). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 18,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q92",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "In a Venn diagram with 3 overlapping circles (all three overlapping each other and at center), how many regions are there?",
+      "questionText": "In a Venn diagram with 3 overlapping circles (all three overlapping each other and at center), how many regions are there?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correctAnswer": "Option (C)",
+      "correctIndex": 2,
+      "difficulty": "hard",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 18,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q93",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "A cross (+) shaped figure — how many rectangles can be counted in it?",
+      "questionText": "A cross (+) shaped figure — how many rectangles can be counted in it?",
+      "options": [
+        "4",
+        "6",
+        "8",
+        "3"
+      ],
+      "correctAnswer": "Option (B)",
+      "correctIndex": 1,
+      "difficulty": "hard",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (B). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (B). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 18,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q94",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "An L-shaped figure made of 3 unit squares — how many rectangles are there?",
+      "questionText": "An L-shaped figure made of 3 unit squares — how many rectangles are there?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correctAnswer": "Option (B)",
+      "correctIndex": 1,
+      "difficulty": "hard",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (B). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (B). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 18,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q95",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "A figure shows 5 concentric circles (one inside the other). How many regions are formed?",
+      "questionText": "A figure shows 5 concentric circles (one inside the other). How many regions are formed?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "10"
+      ],
+      "correctAnswer": "Option (C)",
+      "correctIndex": 2,
+      "difficulty": "hard",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 18,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q96",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "How many squares are visible in a figure showing a 3×3 grid with the center square removed?",
+      "questionText": "How many squares are visible in a figure showing a 3×3 grid with the center square removed?",
+      "options": [
+        "8",
+        "12",
+        "13",
+        "14"
+      ],
+      "correctAnswer": "Option (C)",
+      "correctIndex": 2,
+      "difficulty": "hard",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 19,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q97",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "In a figure with 4 overlapping circles arranged in a ring pattern, minimum number of regions formed:",
+      "questionText": "In a figure with 4 overlapping circles arranged in a ring pattern, minimum number of regions formed:",
+      "options": [
+        "4",
+        "8",
+        "9",
+        "12"
+      ],
+      "correctAnswer": "Option (C)",
+      "correctIndex": 2,
+      "difficulty": "hard",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 19,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q98",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "A figure shows a large triangle divided into smaller triangles with 3 rows. Downward- pointing triangles only — how many?",
+      "questionText": "A figure shows a large triangle divided into smaller triangles with 3 rows. Downward- pointing triangles only — how many?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctAnswer": "Option (C)",
+      "correctIndex": 2,
+      "difficulty": "hard",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 19,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q99",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "Total triangles (up + down) in a triangle divided into 3 rows =?",
+      "questionText": "Total triangles (up + down) in a triangle divided into 3 rows =?",
+      "options": [
+        "9",
+        "12",
+        "13",
+        "16"
+      ],
+      "correctAnswer": "Option (C)",
+      "correctIndex": 2,
+      "difficulty": "hard",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (C). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 19,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_counting_figures_q100",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "A figure shows a rectangle divided into 4 rows and 5 columns. How many total rectangles are there?",
+      "questionText": "A figure shows a rectangle divided into 4 rows and 5 columns. How many total rectangles are there?",
+      "options": [
+        "20",
+        "50",
+        "90",
+        "150"
+      ],
+      "correctAnswer": "Option (D)",
+      "correctIndex": 3,
+      "difficulty": "hard",
+      "hint": "Focus on standard concepts and formulas of Counting Figures.",
+      "explanation": "The correct answer is Option (D). Applying the fundamental rules of Counting Figures leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Counting Figures.",
+        "Step 3: The correct answer is Option (D). Applying the fundamental rules of Counting Figures leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 19,
+      "sourcePdf": "counting-figure-questions.pdf"
+    },
+    {
+      "id": "ssc_tier2_q31",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "How many squares are there in the following figure?",
+      "questionText": "How many squares are there in the following figure?",
+      "options": [
+        "12",
+        "16",
+        "13",
+        "14"
+      ],
+      "correctAnswer": "14",
+      "correctIndex": 3,
+      "difficulty": "hard",
+      "hint": "Tier 2 questions require multi-stage arithmetic and logical deductions.",
+      "explanation": "S32. Ans.(b) There are 18 triangles",
+      "solutionSteps": [
+        "Step 1: Understand the given relationships and mathematical conditions.",
+        "Step 2: Solve step-by-step for the unknown variable.",
+        "Step 3: S32. Ans.(b) There are 18 triangles"
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl_tier2",
+        "ssc_cgl"
+      ],
+      "pageNumber": 3,
+      "sourcePdf": "100-Reasoning-Questions-With-Solutions-for-SSC-CGL-Tier-2-Exam.pdf"
+    },
+    {
+      "id": "ssc_tier2_q32",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "How many triangles are there in the following figure?",
+      "questionText": "How many triangles are there in the following figure?",
+      "options": [
+        "14",
+        "18",
+        "20",
+        "16"
+      ],
+      "correctAnswer": "14",
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "hint": "Tier 2 questions require multi-stage arithmetic and logical deductions.",
+      "explanation": "Detailed logical deduction.",
+      "solutionSteps": [
+        "Step 1: Understand the given relationships and mathematical conditions.",
+        "Step 2: Solve step-by-step for the unknown variable.",
+        "Step 3: Detailed logical deduction."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl_tier2",
+        "ssc_cgl"
+      ],
+      "pageNumber": 4,
+      "sourcePdf": "100-Reasoning-Questions-With-Solutions-for-SSC-CGL-Tier-2-Exam.pdf"
+    },
+    {
+      "id": "ssc_tier2_q33",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "How many triangles are there in the following figure?",
+      "questionText": "How many triangles are there in the following figure?",
+      "options": [
+        "18",
+        "12",
+        "14",
+        "16"
+      ],
+      "correctAnswer": "16",
+      "correctIndex": 3,
+      "difficulty": "hard",
+      "hint": "Tier 2 questions require multi-stage arithmetic and logical deductions.",
+      "explanation": "S34. Ans.(d)",
+      "solutionSteps": [
+        "Step 1: Understand the given relationships and mathematical conditions.",
+        "Step 2: Solve step-by-step for the unknown variable.",
+        "Step 3: S34. Ans.(d)"
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl_tier2",
+        "ssc_cgl"
+      ],
+      "pageNumber": 4,
+      "sourcePdf": "100-Reasoning-Questions-With-Solutions-for-SSC-CGL-Tier-2-Exam.pdf"
+    },
+    {
+      "id": "ssc_tier2_q34",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "How many squares are there in the following figure?",
+      "questionText": "How many squares are there in the following figure?",
+      "options": [
+        "12",
+        "18",
+        "16",
+        "14"
+      ],
+      "correctAnswer": "12",
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "hint": "Tier 2 questions require multi-stage arithmetic and logical deductions.",
+      "explanation": "Detailed logical deduction.",
+      "solutionSteps": [
+        "Step 1: Understand the given relationships and mathematical conditions.",
+        "Step 2: Solve step-by-step for the unknown variable.",
+        "Step 3: Detailed logical deduction."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl_tier2",
+        "ssc_cgl"
+      ],
+      "pageNumber": 4,
+      "sourcePdf": "100-Reasoning-Questions-With-Solutions-for-SSC-CGL-Tier-2-Exam.pdf"
+    },
+    {
+      "id": "ssc_tier2_q35",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "How many triangles are there in the following figure?",
+      "questionText": "How many triangles are there in the following figure?",
+      "options": [
+        "12",
+        "13",
+        "11",
+        "15"
+      ],
+      "correctAnswer": "15",
+      "correctIndex": 3,
+      "difficulty": "hard",
+      "hint": "Tier 2 questions require multi-stage arithmetic and logical deductions.",
+      "explanation": "S36. Ans.(a)",
+      "solutionSteps": [
+        "Step 1: Understand the given relationships and mathematical conditions.",
+        "Step 2: Solve step-by-step for the unknown variable.",
+        "Step 3: S36. Ans.(a)"
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl_tier2",
+        "ssc_cgl"
+      ],
+      "pageNumber": 4,
+      "sourcePdf": "100-Reasoning-Questions-With-Solutions-for-SSC-CGL-Tier-2-Exam.pdf"
+    },
+    {
+      "id": "ssc_tier2_q36",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "How many triangles are there in the following figure?",
+      "questionText": "How many triangles are there in the following figure?",
+      "options": [
+        "32",
+        "24",
+        "28",
+        "36"
+      ],
+      "correctAnswer": "32",
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "hint": "Tier 2 questions require multi-stage arithmetic and logical deductions.",
+      "explanation": "Detailed logical deduction.",
+      "solutionSteps": [
+        "Step 1: Understand the given relationships and mathematical conditions.",
+        "Step 2: Solve step-by-step for the unknown variable.",
+        "Step 3: Detailed logical deduction."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl_tier2",
+        "ssc_cgl"
+      ],
+      "pageNumber": 4,
+      "sourcePdf": "100-Reasoning-Questions-With-Solutions-for-SSC-CGL-Tier-2-Exam.pdf"
+    },
+    {
+      "id": "ssc_tier2_q37",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "How many triangles are there in the following figure?",
+      "questionText": "How many triangles are there in the following figure?",
+      "options": [
+        "14",
+        "13",
+        "17",
+        "15"
+      ],
+      "correctAnswer": "15",
+      "correctIndex": 3,
+      "difficulty": "hard",
+      "hint": "Tier 2 questions require multi-stage arithmetic and logical deductions.",
+      "explanation": "S38. Ans.(a)",
+      "solutionSteps": [
+        "Step 1: Understand the given relationships and mathematical conditions.",
+        "Step 2: Solve step-by-step for the unknown variable.",
+        "Step 3: S38. Ans.(a)"
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl_tier2",
+        "ssc_cgl"
+      ],
+      "pageNumber": 4,
+      "sourcePdf": "100-Reasoning-Questions-With-Solutions-for-SSC-CGL-Tier-2-Exam.pdf"
+    },
+    {
+      "id": "ssc_tier2_q38",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "How many triangles are there in the following figure?",
+      "questionText": "How many triangles are there in the following figure?",
+      "options": [
+        "18",
+        "20",
+        "16",
+        "14"
+      ],
+      "correctAnswer": "18",
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "hint": "Tier 2 questions require multi-stage arithmetic and logical deductions.",
+      "explanation": "Detailed logical deduction.",
+      "solutionSteps": [
+        "Step 1: Understand the given relationships and mathematical conditions.",
+        "Step 2: Solve step-by-step for the unknown variable.",
+        "Step 3: Detailed logical deduction."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl_tier2",
+        "ssc_cgl"
+      ],
+      "pageNumber": 4,
+      "sourcePdf": "100-Reasoning-Questions-With-Solutions-for-SSC-CGL-Tier-2-Exam.pdf"
+    },
+    {
+      "id": "ssc_tier2_q39",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "How many triangles are there in the following figure?",
+      "questionText": "How many triangles are there in the following figure?",
+      "options": [
+        "27",
+        "29",
+        "31",
+        "25"
+      ],
+      "correctAnswer": "29",
+      "correctIndex": 1,
+      "difficulty": "hard",
+      "hint": "Tier 2 questions require multi-stage arithmetic and logical deductions.",
+      "explanation": "29 triangles.",
+      "solutionSteps": [
+        "Step 1: Understand the given relationships and mathematical conditions.",
+        "Step 2: Solve step-by-step for the unknown variable.",
+        "Step 3: 29 triangles."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl_tier2",
+        "ssc_cgl"
+      ],
+      "pageNumber": 4,
+      "sourcePdf": "100-Reasoning-Questions-With-Solutions-for-SSC-CGL-Tier-2-Exam.pdf"
+    },
+    {
+      "id": "ssc_tier2_q40",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "How many triangles are there in the following figure?",
+      "questionText": "How many triangles are there in the following figure?",
+      "options": [
+        "14",
+        "24",
+        "22",
+        "18"
+      ],
+      "correctAnswer": "22",
+      "correctIndex": 2,
+      "difficulty": "hard",
+      "hint": "Tier 2 questions require multi-stage arithmetic and logical deductions.",
+      "explanation": "S41. Ans.(d) Opposite side",
+      "solutionSteps": [
+        "Step 1: Understand the given relationships and mathematical conditions.",
+        "Step 2: Solve step-by-step for the unknown variable.",
+        "Step 3: S41. Ans.(d) Opposite side"
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl_tier2",
+        "ssc_cgl"
+      ],
+      "pageNumber": 5,
+      "sourcePdf": "100-Reasoning-Questions-With-Solutions-for-SSC-CGL-Tier-2-Exam.pdf"
+    },
+    {
+      "id": "ssc_tier2_q51",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "Select the option in which the given figure is embedded.",
+      "questionText": "Select the option in which the given figure is embedded.",
+      "options": [
+        "Option (a)",
+        "Option (b)",
+        "Option (c)",
+        "Option (d)"
+      ],
+      "correctAnswer": "Option (D)",
+      "correctIndex": 3,
+      "difficulty": "hard",
+      "hint": "Tier 2 questions require multi-stage arithmetic and logical deductions.",
+      "explanation": "S52. Ans.(a)",
+      "solutionSteps": [
+        "Step 1: Understand the given relationships and mathematical conditions.",
+        "Step 2: Solve step-by-step for the unknown variable.",
+        "Step 3: S52. Ans.(a)"
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl_tier2",
+        "ssc_cgl"
+      ],
+      "pageNumber": 6,
+      "sourcePdf": "100-Reasoning-Questions-With-Solutions-for-SSC-CGL-Tier-2-Exam.pdf"
+    },
+    {
+      "id": "ssc_tier2_q52",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "Select the option in which the given figure is embedded.",
+      "questionText": "Select the option in which the given figure is embedded.",
+      "options": [
+        "Option (a)",
+        "Option (b)",
+        "Option (c)",
+        "Option (d)"
+      ],
+      "correctAnswer": "(b)",
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "hint": "Tier 2 questions require multi-stage arithmetic and logical deductions.",
+      "explanation": "Detailed logical deduction.",
+      "solutionSteps": [
+        "Step 1: Understand the given relationships and mathematical conditions.",
+        "Step 2: Solve step-by-step for the unknown variable.",
+        "Step 3: Detailed logical deduction."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl_tier2",
+        "ssc_cgl"
+      ],
+      "pageNumber": 6,
+      "sourcePdf": "100-Reasoning-Questions-With-Solutions-for-SSC-CGL-Tier-2-Exam.pdf"
+    },
+    {
+      "id": "ssc_tier2_q53",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "Select the option in which the given figure is embedded (Rotation not allowed).",
+      "questionText": "Select the option in which the given figure is embedded (Rotation not allowed).",
+      "options": [
+        "Option (a)",
+        "Option (b)",
+        "Option (c)",
+        "Option (d)"
+      ],
+      "correctAnswer": "(b)",
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "hint": "Tier 2 questions require multi-stage arithmetic and logical deductions.",
+      "explanation": "S54. Ans.(d)",
+      "solutionSteps": [
+        "Step 1: Understand the given relationships and mathematical conditions.",
+        "Step 2: Solve step-by-step for the unknown variable.",
+        "Step 3: S54. Ans.(d)"
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl_tier2",
+        "ssc_cgl"
+      ],
+      "pageNumber": 7,
+      "sourcePdf": "100-Reasoning-Questions-With-Solutions-for-SSC-CGL-Tier-2-Exam.pdf"
+    },
+    {
+      "id": "ssc_tier2_q54",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "Select the option in which the given figure is embedded.",
+      "questionText": "Select the option in which the given figure is embedded.",
+      "options": [
+        "Option (a)",
+        "Option (b)",
+        "Option (c)",
+        "Option (d)"
+      ],
+      "correctAnswer": "(b)",
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "hint": "Tier 2 questions require multi-stage arithmetic and logical deductions.",
+      "explanation": "Detailed logical deduction.",
+      "solutionSteps": [
+        "Step 1: Understand the given relationships and mathematical conditions.",
+        "Step 2: Solve step-by-step for the unknown variable.",
+        "Step 3: Detailed logical deduction."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl_tier2",
+        "ssc_cgl"
+      ],
+      "pageNumber": 7,
+      "sourcePdf": "100-Reasoning-Questions-With-Solutions-for-SSC-CGL-Tier-2-Exam.pdf"
+    },
+    {
+      "id": "ssc_tier2_q55",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "Select the option in which the given figure is embedded.",
+      "questionText": "Select the option in which the given figure is embedded.",
+      "options": [
+        "Option (a)",
+        "Option (b)",
+        "Option (c)",
+        "Option (d)"
+      ],
+      "correctAnswer": "Option (C)",
+      "correctIndex": 2,
+      "difficulty": "hard",
+      "hint": "Tier 2 questions require multi-stage arithmetic and logical deductions.",
+      "explanation": "S56. Ans.(d)",
+      "solutionSteps": [
+        "Step 1: Understand the given relationships and mathematical conditions.",
+        "Step 2: Solve step-by-step for the unknown variable.",
+        "Step 3: S56. Ans.(d)"
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl_tier2",
+        "ssc_cgl"
+      ],
+      "pageNumber": 7,
+      "sourcePdf": "100-Reasoning-Questions-With-Solutions-for-SSC-CGL-Tier-2-Exam.pdf"
+    },
+    {
+      "id": "ssc_tier2_q56",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "Select the figure in which the given figure is embedded.",
+      "questionText": "Select the figure in which the given figure is embedded.",
+      "options": [
+        "Option (a)",
+        "Option (b)",
+        "Option (c)",
+        "Option (d)"
+      ],
+      "correctAnswer": "(b)",
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "hint": "Tier 2 questions require multi-stage arithmetic and logical deductions.",
+      "explanation": "Detailed logical deduction.",
+      "solutionSteps": [
+        "Step 1: Understand the given relationships and mathematical conditions.",
+        "Step 2: Solve step-by-step for the unknown variable.",
+        "Step 3: Detailed logical deduction."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl_tier2",
+        "ssc_cgl"
+      ],
+      "pageNumber": 7,
+      "sourcePdf": "100-Reasoning-Questions-With-Solutions-for-SSC-CGL-Tier-2-Exam.pdf"
+    },
+    {
+      "id": "ssc_tier2_q57",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "Select the figure in which the given figure is embedded.",
+      "questionText": "Select the figure in which the given figure is embedded.",
+      "options": [
+        "Option (a)",
+        "Option (b)",
+        "Option (c)",
+        "Option (d)"
+      ],
+      "correctAnswer": "Option (C)",
+      "correctIndex": 2,
+      "difficulty": "hard",
+      "hint": "Tier 2 questions require multi-stage arithmetic and logical deductions.",
+      "explanation": "S58. Ans.(d)",
+      "solutionSteps": [
+        "Step 1: Understand the given relationships and mathematical conditions.",
+        "Step 2: Solve step-by-step for the unknown variable.",
+        "Step 3: S58. Ans.(d)"
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl_tier2",
+        "ssc_cgl"
+      ],
+      "pageNumber": 8,
+      "sourcePdf": "100-Reasoning-Questions-With-Solutions-for-SSC-CGL-Tier-2-Exam.pdf"
+    },
+    {
+      "id": "ssc_tier2_q58",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "Select the figure in which the given figure is embedded.",
+      "questionText": "Select the figure in which the given figure is embedded.",
+      "options": [
+        "Option (a)",
+        "Option (b)",
+        "Option (c)",
+        "Option (d)"
+      ],
+      "correctAnswer": "(b)",
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "hint": "Tier 2 questions require multi-stage arithmetic and logical deductions.",
+      "explanation": "Detailed logical deduction.",
+      "solutionSteps": [
+        "Step 1: Understand the given relationships and mathematical conditions.",
+        "Step 2: Solve step-by-step for the unknown variable.",
+        "Step 3: Detailed logical deduction."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl_tier2",
+        "ssc_cgl"
+      ],
+      "pageNumber": 8,
+      "sourcePdf": "100-Reasoning-Questions-With-Solutions-for-SSC-CGL-Tier-2-Exam.pdf"
+    },
+    {
+      "id": "ssc_tier2_q59",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "Select the figure in which the given figure is embedded.",
+      "questionText": "Select the figure in which the given figure is embedded.",
+      "options": [
+        "Option (a)",
+        "Option (b)",
+        "Option (c)",
+        "Option (d)"
+      ],
+      "correctAnswer": "Option (C)",
+      "correctIndex": 2,
+      "difficulty": "hard",
+      "hint": "Tier 2 questions require multi-stage arithmetic and logical deductions.",
+      "explanation": "S60. Ans.(a)",
+      "solutionSteps": [
+        "Step 1: Understand the given relationships and mathematical conditions.",
+        "Step 2: Solve step-by-step for the unknown variable.",
+        "Step 3: S60. Ans.(a)"
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl_tier2",
+        "ssc_cgl"
+      ],
+      "pageNumber": 8,
+      "sourcePdf": "100-Reasoning-Questions-With-Solutions-for-SSC-CGL-Tier-2-Exam.pdf"
+    },
+    {
+      "id": "ssc_tier2_q60",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "Select the figure in which the given figure is embedded.",
+      "questionText": "Select the figure in which the given figure is embedded.",
+      "options": [
+        "Option (a)",
+        "Option (b)",
+        "Option (c)",
+        "Option (d)"
+      ],
+      "correctAnswer": "(b)",
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "hint": "Tier 2 questions require multi-stage arithmetic and logical deductions.",
+      "explanation": "Detailed logical deduction.",
+      "solutionSteps": [
+        "Step 1: Understand the given relationships and mathematical conditions.",
+        "Step 2: Solve step-by-step for the unknown variable.",
+        "Step 3: Detailed logical deduction."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl_tier2",
+        "ssc_cgl"
+      ],
+      "pageNumber": 8,
+      "sourcePdf": "100-Reasoning-Questions-With-Solutions-for-SSC-CGL-Tier-2-Exam.pdf"
+    },
+    {
+      "id": "ssc_tier2_q61",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "Select the figure that will come next in the following figure series.",
+      "questionText": "Select the figure that will come next in the following figure series.",
+      "options": [
+        "Option (a)",
+        "Option (b)",
+        "Option (c)",
+        "Option (d)"
+      ],
+      "correctAnswer": "Option (D)",
+      "correctIndex": 3,
+      "difficulty": "hard",
+      "hint": "Tier 2 questions require multi-stage arithmetic and logical deductions.",
+      "explanation": "S62. Ans.(d)",
+      "solutionSteps": [
+        "Step 1: Understand the given relationships and mathematical conditions.",
+        "Step 2: Solve step-by-step for the unknown variable.",
+        "Step 3: S62. Ans.(d)"
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl_tier2",
+        "ssc_cgl"
+      ],
+      "pageNumber": 9,
+      "sourcePdf": "100-Reasoning-Questions-With-Solutions-for-SSC-CGL-Tier-2-Exam.pdf"
+    },
+    {
+      "id": "ssc_tier2_q62",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "Select the figure that will come next in the following figure series.",
+      "questionText": "Select the figure that will come next in the following figure series.",
+      "options": [
+        "Option (a)",
+        "Option (b)",
+        "Option (c)",
+        "Option (d)"
+      ],
+      "correctAnswer": "(b)",
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "hint": "Tier 2 questions require multi-stage arithmetic and logical deductions.",
+      "explanation": "Detailed logical deduction.",
+      "solutionSteps": [
+        "Step 1: Understand the given relationships and mathematical conditions.",
+        "Step 2: Solve step-by-step for the unknown variable.",
+        "Step 3: Detailed logical deduction."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl_tier2",
+        "ssc_cgl"
+      ],
+      "pageNumber": 9,
+      "sourcePdf": "100-Reasoning-Questions-With-Solutions-for-SSC-CGL-Tier-2-Exam.pdf"
+    },
+    {
+      "id": "ssc_tier2_q63",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "Select the figure that will come next in the following figure series.",
+      "questionText": "Select the figure that will come next in the following figure series.",
+      "options": [
+        "Option (a)",
+        "Option (b)",
+        "Option (c)",
+        "Option (d)"
+      ],
+      "correctAnswer": "Option (D)",
+      "correctIndex": 3,
+      "difficulty": "hard",
+      "hint": "Tier 2 questions require multi-stage arithmetic and logical deductions.",
+      "explanation": "Circle is rotated 2 blocks anti-clockwise in each step. Cross is rotated clockwise by 1, 2, 3 and 4 blocks in each step.",
+      "solutionSteps": [
+        "Step 1: Understand the given relationships and mathematical conditions.",
+        "Step 2: Solve step-by-step for the unknown variable.",
+        "Step 3: Circle is rotated 2 blocks anti-clockwise in each step. Cross is rotated clockwise by 1, 2, 3 and 4 blocks in each step."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl_tier2",
+        "ssc_cgl"
+      ],
+      "pageNumber": 9,
+      "sourcePdf": "100-Reasoning-Questions-With-Solutions-for-SSC-CGL-Tier-2-Exam.pdf"
+    },
+    {
+      "id": "ssc_tier2_q64",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "Select the figure that will come text in the following figure series.",
+      "questionText": "Select the figure that will come text in the following figure series.",
+      "options": [
+        "Option (a)",
+        "Option (b)",
+        "Option (c)",
+        "Option (d)"
+      ],
+      "correctAnswer": "(d)",
+      "correctIndex": 1,
+      "difficulty": "hard",
+      "hint": "Tier 2 questions require multi-stage arithmetic and logical deductions.",
+      "explanation": "S65. Ans.(a)",
+      "solutionSteps": [
+        "Step 1: Understand the given relationships and mathematical conditions.",
+        "Step 2: Solve step-by-step for the unknown variable.",
+        "Step 3: S65. Ans.(a)"
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl_tier2",
+        "ssc_cgl"
+      ],
+      "pageNumber": 9,
+      "sourcePdf": "100-Reasoning-Questions-With-Solutions-for-SSC-CGL-Tier-2-Exam.pdf"
+    },
+    {
+      "id": "ssc_tier2_q65",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "Select the figure that will come next in the following figure series.",
+      "questionText": "Select the figure that will come next in the following figure series.",
+      "options": [
+        "Option (a)",
+        "Option (b)",
+        "Option (c)",
+        "Option (d)"
+      ],
+      "correctAnswer": "(b)",
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "hint": "Tier 2 questions require multi-stage arithmetic and logical deductions.",
+      "explanation": "Detailed logical deduction.",
+      "solutionSteps": [
+        "Step 1: Understand the given relationships and mathematical conditions.",
+        "Step 2: Solve step-by-step for the unknown variable.",
+        "Step 3: Detailed logical deduction."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl_tier2",
+        "ssc_cgl"
+      ],
+      "pageNumber": 10,
+      "sourcePdf": "100-Reasoning-Questions-With-Solutions-for-SSC-CGL-Tier-2-Exam.pdf"
+    },
+    {
+      "id": "ssc_tier2_q66",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "Select the figure that will come next in the following figure series.",
+      "questionText": "Select the figure that will come next in the following figure series.",
+      "options": [
+        "Option (a)",
+        "Option (b)",
+        "Option (c)",
+        "Option (d)"
+      ],
+      "correctAnswer": "Option (D)",
+      "correctIndex": 3,
+      "difficulty": "hard",
+      "hint": "Tier 2 questions require multi-stage arithmetic and logical deductions.",
+      "explanation": "S67. Ans.(c) Small circle moves one block clockwise. And lines moves +1, +2, +3 blocks clockwise in each step.",
+      "solutionSteps": [
+        "Step 1: Understand the given relationships and mathematical conditions.",
+        "Step 2: Solve step-by-step for the unknown variable.",
+        "Step 3: S67. Ans.(c) Small circle moves one block clockwise. And lines moves +1, +2, +3 blocks clockwise in each step."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl_tier2",
+        "ssc_cgl"
+      ],
+      "pageNumber": 10,
+      "sourcePdf": "100-Reasoning-Questions-With-Solutions-for-SSC-CGL-Tier-2-Exam.pdf"
+    },
+    {
+      "id": "ssc_tier2_q67",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "Select the figure that will come next in the following figure series.",
+      "questionText": "Select the figure that will come next in the following figure series.",
+      "options": [
+        "Option (a)",
+        "Option (b)",
+        "Option (c)",
+        "Option (d)"
+      ],
+      "correctAnswer": "(b)",
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "hint": "Tier 2 questions require multi-stage arithmetic and logical deductions.",
+      "explanation": "Detailed logical deduction.",
+      "solutionSteps": [
+        "Step 1: Understand the given relationships and mathematical conditions.",
+        "Step 2: Solve step-by-step for the unknown variable.",
+        "Step 3: Detailed logical deduction."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl_tier2",
+        "ssc_cgl"
+      ],
+      "pageNumber": 10,
+      "sourcePdf": "100-Reasoning-Questions-With-Solutions-for-SSC-CGL-Tier-2-Exam.pdf"
+    },
+    {
+      "id": "ssc_tier2_q68",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "Select the figure that will come next in the following figure series.",
+      "questionText": "Select the figure that will come next in the following figure series.",
+      "options": [
+        "Option (a)",
+        "Option (b)",
+        "Option (c)",
+        "Option (d)"
+      ],
+      "correctAnswer": "(d)",
+      "correctIndex": 1,
+      "difficulty": "hard",
+      "hint": "Tier 2 questions require multi-stage arithmetic and logical deductions.",
+      "explanation": "S69. Ans.(b)",
+      "solutionSteps": [
+        "Step 1: Understand the given relationships and mathematical conditions.",
+        "Step 2: Solve step-by-step for the unknown variable.",
+        "Step 3: S69. Ans.(b)"
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl_tier2",
+        "ssc_cgl"
+      ],
+      "pageNumber": 10,
+      "sourcePdf": "100-Reasoning-Questions-With-Solutions-for-SSC-CGL-Tier-2-Exam.pdf"
+    },
+    {
+      "id": "ssc_tier2_q69",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "Select the figure that will come next in the following figure series.",
+      "questionText": "Select the figure that will come next in the following figure series.",
+      "options": [
+        "Option (a)",
+        "Option (b)",
+        "Option (c)",
+        "Option (d)"
+      ],
+      "correctAnswer": "(b)",
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "hint": "Tier 2 questions require multi-stage arithmetic and logical deductions.",
+      "explanation": "Detailed logical deduction.",
+      "solutionSteps": [
+        "Step 1: Understand the given relationships and mathematical conditions.",
+        "Step 2: Solve step-by-step for the unknown variable.",
+        "Step 3: Detailed logical deduction."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl_tier2",
+        "ssc_cgl"
+      ],
+      "pageNumber": 11,
+      "sourcePdf": "100-Reasoning-Questions-With-Solutions-for-SSC-CGL-Tier-2-Exam.pdf"
+    },
+    {
+      "id": "ssc_tier2_q70",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "Select the figure that will come next in the following figure series.",
+      "questionText": "Select the figure that will come next in the following figure series.",
+      "options": [
+        "Option (a)",
+        "Option (b)",
+        "Option (c)",
+        "Option (d)"
+      ],
+      "correctAnswer": "Option (D)",
+      "correctIndex": 3,
+      "difficulty": "hard",
+      "hint": "Tier 2 questions require multi-stage arithmetic and logical deductions.",
+      "explanation": "S71. Ans.(a) 12 – 8 ÷ 12 × 9 + 3 = 9 12 – - 8 12 × 9 + 3 = 9 12 – 6 + 3 = 9",
+      "solutionSteps": [
+        "Step 1: Understand the given relationships and mathematical conditions.",
+        "Step 2: Solve step-by-step for the unknown variable.",
+        "Step 3: S71. Ans.(a) 12 – 8 ÷ 12 × 9 + 3 = 9 12 – - 8 12 × 9 + 3 = 9 12 – 6 + 3 = 9"
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl_tier2",
+        "ssc_cgl"
+      ],
+      "pageNumber": 11,
+      "sourcePdf": "100-Reasoning-Questions-With-Solutions-for-SSC-CGL-Tier-2-Exam.pdf"
+    },
+    {
+      "id": "ssc_tier2_q81",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "Select the correct mirror image of the given figure when the mirror is placed to the right of the figure.",
+      "questionText": "Select the correct mirror image of the given figure when the mirror is placed to the right of the figure.",
+      "options": [
+        "Option (a)",
+        "Option (b)",
+        "Option (c)",
+        "Option (d)"
+      ],
+      "correctAnswer": "Option (D)",
+      "correctIndex": 3,
+      "difficulty": "hard",
+      "hint": "Tier 2 questions require multi-stage arithmetic and logical deductions.",
+      "explanation": "S82. Ans.(c)",
+      "solutionSteps": [
+        "Step 1: Understand the given relationships and mathematical conditions.",
+        "Step 2: Solve step-by-step for the unknown variable.",
+        "Step 3: S82. Ans.(c)"
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl_tier2",
+        "ssc_cgl"
+      ],
+      "pageNumber": 12,
+      "sourcePdf": "100-Reasoning-Questions-With-Solutions-for-SSC-CGL-Tier-2-Exam.pdf"
+    },
+    {
+      "id": "ssc_tier2_q82",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "Select the correct mirror image of the given figure when the mirror is placed to the right of the figure.",
+      "questionText": "Select the correct mirror image of the given figure when the mirror is placed to the right of the figure.",
+      "options": [
+        "Option (a)",
+        "Option (b)",
+        "Option (c)",
+        "Option (d)"
+      ],
+      "correctAnswer": "(b)",
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "hint": "Tier 2 questions require multi-stage arithmetic and logical deductions.",
+      "explanation": "Detailed logical deduction.",
+      "solutionSteps": [
+        "Step 1: Understand the given relationships and mathematical conditions.",
+        "Step 2: Solve step-by-step for the unknown variable.",
+        "Step 3: Detailed logical deduction."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl_tier2",
+        "ssc_cgl"
+      ],
+      "pageNumber": 12,
+      "sourcePdf": "100-Reasoning-Questions-With-Solutions-for-SSC-CGL-Tier-2-Exam.pdf"
+    },
+    {
+      "id": "ssc_tier2_q83",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "Select the correct mirror image of the given figure when the mirror is placed to the right of the figure.",
+      "questionText": "Select the correct mirror image of the given figure when the mirror is placed to the right of the figure.",
+      "options": [
+        "Option (a)",
+        "Option (b)",
+        "Option (c)",
+        "Option (d)"
+      ],
+      "correctAnswer": "Option (D)",
+      "correctIndex": 3,
+      "difficulty": "hard",
+      "hint": "Tier 2 questions require multi-stage arithmetic and logical deductions.",
+      "explanation": "S84. Ans.(c)",
+      "solutionSteps": [
+        "Step 1: Understand the given relationships and mathematical conditions.",
+        "Step 2: Solve step-by-step for the unknown variable.",
+        "Step 3: S84. Ans.(c)"
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl_tier2",
+        "ssc_cgl"
+      ],
+      "pageNumber": 12,
+      "sourcePdf": "100-Reasoning-Questions-With-Solutions-for-SSC-CGL-Tier-2-Exam.pdf"
+    },
+    {
+      "id": "ssc_tier2_q84",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "Select the correct mirror image of the given figure when the mirror is placed to the right of the figure.",
+      "questionText": "Select the correct mirror image of the given figure when the mirror is placed to the right of the figure.",
+      "options": [
+        "Option (a)",
+        "Option (b)",
+        "Option (c)",
+        "Option (d)"
+      ],
+      "correctAnswer": "(b)",
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "hint": "Tier 2 questions require multi-stage arithmetic and logical deductions.",
+      "explanation": "Detailed logical deduction.",
+      "solutionSteps": [
+        "Step 1: Understand the given relationships and mathematical conditions.",
+        "Step 2: Solve step-by-step for the unknown variable.",
+        "Step 3: Detailed logical deduction."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl_tier2",
+        "ssc_cgl"
+      ],
+      "pageNumber": 13,
+      "sourcePdf": "100-Reasoning-Questions-With-Solutions-for-SSC-CGL-Tier-2-Exam.pdf"
+    },
+    {
+      "id": "ssc_tier2_q85",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "Select the correct mirror image of the given figure when the mirror is placed to the right of the figure.",
+      "questionText": "Select the correct mirror image of the given figure when the mirror is placed to the right of the figure.",
+      "options": [
+        "Option (a)",
+        "Option (b)",
+        "Option (c)",
+        "Option (d)"
+      ],
+      "correctAnswer": "(d)",
+      "correctIndex": 1,
+      "difficulty": "hard",
+      "hint": "Tier 2 questions require multi-stage arithmetic and logical deductions.",
+      "explanation": "S86. Ans.(c)",
+      "solutionSteps": [
+        "Step 1: Understand the given relationships and mathematical conditions.",
+        "Step 2: Solve step-by-step for the unknown variable.",
+        "Step 3: S86. Ans.(c)"
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl_tier2",
+        "ssc_cgl"
+      ],
+      "pageNumber": 13,
+      "sourcePdf": "100-Reasoning-Questions-With-Solutions-for-SSC-CGL-Tier-2-Exam.pdf"
+    },
+    {
+      "id": "ssc_tier2_q86",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "Identify the mirror image of the following figure when the mirror is placed to the right of the figure.",
+      "questionText": "Identify the mirror image of the following figure when the mirror is placed to the right of the figure.",
+      "options": [
+        "Option (a)",
+        "Option (b)",
+        "Option (c)",
+        "Option (d)"
+      ],
+      "correctAnswer": "(b)",
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "hint": "Tier 2 questions require multi-stage arithmetic and logical deductions.",
+      "explanation": "Detailed logical deduction.",
+      "solutionSteps": [
+        "Step 1: Understand the given relationships and mathematical conditions.",
+        "Step 2: Solve step-by-step for the unknown variable.",
+        "Step 3: Detailed logical deduction."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl_tier2",
+        "ssc_cgl"
+      ],
+      "pageNumber": 13,
+      "sourcePdf": "100-Reasoning-Questions-With-Solutions-for-SSC-CGL-Tier-2-Exam.pdf"
+    },
+    {
+      "id": "ssc_tier2_q87",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "Identify the mirror image of the following figure of the mirror is placed to the right of the figure.",
+      "questionText": "Identify the mirror image of the following figure of the mirror is placed to the right of the figure.",
+      "options": [
+        "Option (a)",
+        "Option (b)",
+        "Option (c)",
+        "Option (d)"
+      ],
+      "correctAnswer": "(d)",
+      "correctIndex": 1,
+      "difficulty": "hard",
+      "hint": "Tier 2 questions require multi-stage arithmetic and logical deductions.",
+      "explanation": "S88. Ans.(b)",
+      "solutionSteps": [
+        "Step 1: Understand the given relationships and mathematical conditions.",
+        "Step 2: Solve step-by-step for the unknown variable.",
+        "Step 3: S88. Ans.(b)"
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl_tier2",
+        "ssc_cgl"
+      ],
+      "pageNumber": 13,
+      "sourcePdf": "100-Reasoning-Questions-With-Solutions-for-SSC-CGL-Tier-2-Exam.pdf"
+    },
+    {
+      "id": "ssc_tier2_q88",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "Select the mirror image of the given when the mirror is placed to the right of the figure.",
+      "questionText": "Select the mirror image of the given when the mirror is placed to the right of the figure.",
+      "options": [
+        "Option (a)",
+        "Option (b)",
+        "Option (c)",
+        "Option (d)"
+      ],
+      "correctAnswer": "(b)",
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "hint": "Tier 2 questions require multi-stage arithmetic and logical deductions.",
+      "explanation": "Detailed logical deduction.",
+      "solutionSteps": [
+        "Step 1: Understand the given relationships and mathematical conditions.",
+        "Step 2: Solve step-by-step for the unknown variable.",
+        "Step 3: Detailed logical deduction."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl_tier2",
+        "ssc_cgl"
+      ],
+      "pageNumber": 14,
+      "sourcePdf": "100-Reasoning-Questions-With-Solutions-for-SSC-CGL-Tier-2-Exam.pdf"
+    },
+    {
+      "id": "ssc_tier2_q89",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "Select the mirror image of the given figure when the mirror is placed to the right of the figure.",
+      "questionText": "Select the mirror image of the given figure when the mirror is placed to the right of the figure.",
+      "options": [
+        "Option (a)",
+        "Option (b)",
+        "Option (c)",
+        "Option (d)"
+      ],
+      "correctAnswer": "(b)",
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "hint": "Tier 2 questions require multi-stage arithmetic and logical deductions.",
+      "explanation": "S90. Ans.(c)",
+      "solutionSteps": [
+        "Step 1: Understand the given relationships and mathematical conditions.",
+        "Step 2: Solve step-by-step for the unknown variable.",
+        "Step 3: S90. Ans.(c)"
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl_tier2",
+        "ssc_cgl"
+      ],
+      "pageNumber": 14,
+      "sourcePdf": "100-Reasoning-Questions-With-Solutions-for-SSC-CGL-Tier-2-Exam.pdf"
+    },
+    {
+      "id": "ssc_tier2_q90",
+      "topicId": "counting_figures",
+      "subtopicId": "counting_figures_core",
+      "questionType": "text",
+      "question": "Select the mirror image of the given figure when the mirror is placed to the right of the figure.",
+      "questionText": "Select the mirror image of the given figure when the mirror is placed to the right of the figure.",
+      "options": [
+        "Option (a)",
+        "Option (b)",
+        "Option (c)",
+        "Option (d)"
+      ],
+      "correctAnswer": "(b)",
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "hint": "Tier 2 questions require multi-stage arithmetic and logical deductions.",
+      "explanation": "Detailed logical deduction.",
+      "solutionSteps": [
+        "Step 1: Understand the given relationships and mathematical conditions.",
+        "Step 2: Solve step-by-step for the unknown variable.",
+        "Step 3: Detailed logical deduction."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Counting Figures",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl_tier2",
+        "ssc_cgl"
+      ],
+      "pageNumber": 14,
+      "sourcePdf": "100-Reasoning-Questions-With-Solutions-for-SSC-CGL-Tier-2-Exam.pdf"
+    },
     {
       "id": "cnt_fig_1",
       "topicId": "counting_figures",

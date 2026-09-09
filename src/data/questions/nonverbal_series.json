@@ -1,7 +1,2597 @@
 {
   "topicId": "nonverbal_series",
-  "totalQuestions": 500,
+  "totalQuestions": 570,
   "questions": [
+    {
+      "id": "ssc_nv_q1",
+      "topicId": "nonverbal_series",
+      "subtopicId": "nonverbal_series_core",
+      "questionType": "figure",
+      "question": "Select the figure that will come next in the following series.",
+      "questionText": "Select the figure that will come next in the following series.",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (2)",
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (2) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (2) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Non-Verbal Series",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 2,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q1.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q1.png"
+    },
+    {
+      "id": "ssc_nv_q2",
+      "topicId": "nonverbal_series",
+      "subtopicId": "nonverbal_series_core",
+      "questionType": "figure",
+      "question": "Select the figure that will come next in the following series.",
+      "questionText": "Select the figure that will come next in the following series.",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (4)",
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (4) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (4) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Non-Verbal Series",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 2,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q2.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q2.png"
+    },
+    {
+      "id": "ssc_nv_q3",
+      "topicId": "nonverbal_series",
+      "subtopicId": "nonverbal_series_core",
+      "questionType": "figure",
+      "question": "Select the figure that will come next in the following series.",
+      "questionText": "Select the figure that will come next in the following series.",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (1)",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (1) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (1) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Non-Verbal Series",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 3,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q3.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q3.png"
+    },
+    {
+      "id": "ssc_nv_q4",
+      "topicId": "nonverbal_series",
+      "subtopicId": "nonverbal_series_core",
+      "questionType": "figure",
+      "question": "Select the figure that will come next in the following series.",
+      "questionText": "Select the figure that will come next in the following series.",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (3)",
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (3) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (3) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Non-Verbal Series",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 3,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q4.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q4.png"
+    },
+    {
+      "id": "ssc_nv_q5",
+      "topicId": "nonverbal_series",
+      "subtopicId": "nonverbal_series_core",
+      "questionType": "figure",
+      "question": "Select the figure that will come next in the following series.",
+      "questionText": "Select the figure that will come next in the following series.",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (4)",
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (4) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (4) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Non-Verbal Series",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 4,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q5.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q5.png"
+    },
+    {
+      "id": "ssc_nv_q6",
+      "topicId": "nonverbal_series",
+      "subtopicId": "nonverbal_series_core",
+      "questionType": "figure",
+      "question": "Select the figure that will come next in the following series.",
+      "questionText": "Select the figure that will come next in the following series.",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (4)",
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (4) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (4) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Non-Verbal Series",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 4,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q6.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q6.png"
+    },
+    {
+      "id": "ssc_nv_q7",
+      "topicId": "nonverbal_series",
+      "subtopicId": "nonverbal_series_core",
+      "questionType": "figure",
+      "question": "Select the figure that will come next in the following series.",
+      "questionText": "Select the figure that will come next in the following series.",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (2)",
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (2) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (2) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Non-Verbal Series",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 5,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q7.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q7.png"
+    },
+    {
+      "id": "ssc_nv_q8",
+      "topicId": "nonverbal_series",
+      "subtopicId": "nonverbal_series_core",
+      "questionType": "figure",
+      "question": "Select the figure that will come next in the following series.",
+      "questionText": "Select the figure that will come next in the following series.",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (1)",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (1) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (1) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Non-Verbal Series",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 5,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q8.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q8.png"
+    },
+    {
+      "id": "ssc_nv_q9",
+      "topicId": "nonverbal_series",
+      "subtopicId": "nonverbal_series_core",
+      "questionType": "figure",
+      "question": "Select the figure that will come next in the following series.",
+      "questionText": "Select the figure that will come next in the following series.",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (2)",
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (2) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (2) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Non-Verbal Series",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 6,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q9.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q9.png"
+    },
+    {
+      "id": "ssc_nv_q10",
+      "topicId": "nonverbal_series",
+      "subtopicId": "nonverbal_series_core",
+      "questionType": "figure",
+      "question": "Select the figure that will come next in the following series.",
+      "questionText": "Select the figure that will come next in the following series.",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (2)",
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (2) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (2) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Non-Verbal Series",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 6,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q10.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q10.png"
+    },
+    {
+      "id": "ssc_nv_q11",
+      "topicId": "nonverbal_series",
+      "subtopicId": "nonverbal_series_core",
+      "questionType": "figure",
+      "question": "Select the figure that will come next in the following series.",
+      "questionText": "Select the figure that will come next in the following series.",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (2)",
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (2) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (2) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Non-Verbal Series",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 7,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q11.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q11.png"
+    },
+    {
+      "id": "ssc_nv_q12",
+      "topicId": "nonverbal_series",
+      "subtopicId": "nonverbal_series_core",
+      "questionType": "figure",
+      "question": "Select the figure that will come next in the following series.",
+      "questionText": "Select the figure that will come next in the following series.",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (3)",
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (3) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (3) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Non-Verbal Series",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 7,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q12.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q12.png"
+    },
+    {
+      "id": "ssc_nv_q13",
+      "topicId": "nonverbal_series",
+      "subtopicId": "nonverbal_series_core",
+      "questionType": "figure",
+      "question": "Select the figure that will come next in the following series.",
+      "questionText": "Select the figure that will come next in the following series.",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (4)",
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (4) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (4) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Non-Verbal Series",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 8,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q13.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q13.png"
+    },
+    {
+      "id": "ssc_nv_q14",
+      "topicId": "nonverbal_series",
+      "subtopicId": "nonverbal_series_core",
+      "questionType": "figure",
+      "question": "Select the figure that will come next in the following series.",
+      "questionText": "Select the figure that will come next in the following series.",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (3)",
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (3) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (3) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Non-Verbal Series",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 8,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q14.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q14.png"
+    },
+    {
+      "id": "ssc_nv_q15",
+      "topicId": "nonverbal_series",
+      "subtopicId": "nonverbal_series_core",
+      "questionType": "figure",
+      "question": "Select the figure that will come next in the following series.",
+      "questionText": "Select the figure that will come next in the following series.",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (2)",
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (2) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (2) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Non-Verbal Series",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 9,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q15.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q15.png"
+    },
+    {
+      "id": "ssc_nv_q16",
+      "topicId": "nonverbal_series",
+      "subtopicId": "nonverbal_series_core",
+      "questionType": "figure",
+      "question": "Select the figure that will come next in the following series.",
+      "questionText": "Select the figure that will come next in the following series.",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (3)",
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (3) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (3) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Non-Verbal Series",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 9,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q16.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q16.png"
+    },
+    {
+      "id": "ssc_nv_q17",
+      "topicId": "nonverbal_series",
+      "subtopicId": "nonverbal_series_core",
+      "questionType": "figure",
+      "question": "Select the figure that will come next in the following series.",
+      "questionText": "Select the figure that will come next in the following series.",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (3)",
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (3) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (3) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Non-Verbal Series",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 10,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q17.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q17.png"
+    },
+    {
+      "id": "ssc_nv_q18",
+      "topicId": "nonverbal_series",
+      "subtopicId": "nonverbal_series_core",
+      "questionType": "figure",
+      "question": "Select the figure that will come next in the following series.",
+      "questionText": "Select the figure that will come next in the following series.",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (4)",
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (4) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (4) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Non-Verbal Series",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 10,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q18.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q18.png"
+    },
+    {
+      "id": "ssc_nv_q19",
+      "topicId": "nonverbal_series",
+      "subtopicId": "nonverbal_series_core",
+      "questionType": "figure",
+      "question": "Select the figure that will come next in the following series.",
+      "questionText": "Select the figure that will come next in the following series.",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (3)",
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (3) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (3) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Non-Verbal Series",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 11,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q19.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q19.png"
+    },
+    {
+      "id": "ssc_nv_q20",
+      "topicId": "nonverbal_series",
+      "subtopicId": "nonverbal_series_core",
+      "questionType": "figure",
+      "question": "Select the figure that will come next in the following series.",
+      "questionText": "Select the figure that will come next in the following series.",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (1)",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (1) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (1) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Non-Verbal Series",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 11,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q20.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q20.png"
+    },
+    {
+      "id": "ssc_nv_q21",
+      "topicId": "nonverbal_series",
+      "subtopicId": "nonverbal_series_core",
+      "questionType": "figure",
+      "question": "Select the figure that will come next in the following series.",
+      "questionText": "Select the figure that will come next in the following series.",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (1)",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (1) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (1) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Non-Verbal Series",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 12,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q21.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q21.png"
+    },
+    {
+      "id": "ssc_nv_q22",
+      "topicId": "nonverbal_series",
+      "subtopicId": "nonverbal_series_core",
+      "questionType": "figure",
+      "question": "Select the figure that will come next in the following series.",
+      "questionText": "Select the figure that will come next in the following series.",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (4)",
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (4) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (4) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Non-Verbal Series",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 13,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q22.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q22.png"
+    },
+    {
+      "id": "ssc_nv_q23",
+      "topicId": "nonverbal_series",
+      "subtopicId": "nonverbal_series_core",
+      "questionType": "figure",
+      "question": "Select the figure that will come next in the following series.",
+      "questionText": "Select the figure that will come next in the following series.",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (2)",
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (2) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (2) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Non-Verbal Series",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 13,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q23.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q23.png"
+    },
+    {
+      "id": "ssc_nv_q24",
+      "topicId": "nonverbal_series",
+      "subtopicId": "nonverbal_series_core",
+      "questionType": "figure",
+      "question": "Select the figure that will come next in the following series.",
+      "questionText": "Select the figure that will come next in the following series.",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (2)",
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (2) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (2) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Non-Verbal Series",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 14,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q24.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q24.png"
+    },
+    {
+      "id": "ssc_nv_q25",
+      "topicId": "nonverbal_series",
+      "subtopicId": "nonverbal_series_core",
+      "questionType": "figure",
+      "question": "Select the figure that will come next in the following series.",
+      "questionText": "Select the figure that will come next in the following series.",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (1)",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (1) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (1) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Non-Verbal Series",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 14,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q25.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q25.png"
+    },
+    {
+      "id": "ssc_nv_q26",
+      "topicId": "nonverbal_series",
+      "subtopicId": "nonverbal_series_core",
+      "questionType": "figure",
+      "question": "Select the figure that will come next in the following series.",
+      "questionText": "Select the figure that will come next in the following series.",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (4)",
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (4) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (4) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Non-Verbal Series",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 15,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q26.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q26.png"
+    },
+    {
+      "id": "ssc_nv_q27",
+      "topicId": "nonverbal_series",
+      "subtopicId": "nonverbal_series_core",
+      "questionType": "figure",
+      "question": "Select the figure that will come next in the following series.",
+      "questionText": "Select the figure that will come next in the following series.",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (3)",
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (3) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (3) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Non-Verbal Series",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 15,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q27.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q27.png"
+    },
+    {
+      "id": "ssc_nv_q28",
+      "topicId": "nonverbal_series",
+      "subtopicId": "nonverbal_series_core",
+      "questionType": "figure",
+      "question": "Select the figure that will come next in the following series.",
+      "questionText": "Select the figure that will come next in the following series.",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (4)",
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (4) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (4) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Non-Verbal Series",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 16,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q28.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q28.png"
+    },
+    {
+      "id": "ssc_nv_q29",
+      "topicId": "nonverbal_series",
+      "subtopicId": "nonverbal_series_core",
+      "questionType": "figure",
+      "question": "Select the figure that will come next in the following series.",
+      "questionText": "Select the figure that will come next in the following series.",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (3)",
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (3) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (3) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Non-Verbal Series",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 16,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q29.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q29.png"
+    },
+    {
+      "id": "ssc_nv_q30",
+      "topicId": "nonverbal_series",
+      "subtopicId": "nonverbal_series_core",
+      "questionType": "figure",
+      "question": "Select the figure that will come next in the following series.",
+      "questionText": "Select the figure that will come next in the following series.",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (4)",
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (4) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (4) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Non-Verbal Series",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 17,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q30.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q30.png"
+    },
+    {
+      "id": "ssc_nv_q31",
+      "topicId": "nonverbal_series",
+      "subtopicId": "nonverbal_series_core",
+      "questionType": "figure",
+      "question": "Select the figure that will come next in the following series.",
+      "questionText": "Select the figure that will come next in the following series.",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (1)",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (1) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (1) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Non-Verbal Series",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 17,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q31.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q31.png"
+    },
+    {
+      "id": "ssc_nv_q32",
+      "topicId": "nonverbal_series",
+      "subtopicId": "nonverbal_series_core",
+      "questionType": "figure",
+      "question": "Select the figure that will come next in the following series.",
+      "questionText": "Select the figure that will come next in the following series.",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (4)",
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (4) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (4) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Non-Verbal Series",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 18,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q32.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q32.png"
+    },
+    {
+      "id": "ssc_nv_q33",
+      "topicId": "nonverbal_series",
+      "subtopicId": "nonverbal_series_core",
+      "questionType": "figure",
+      "question": "Select the figure that will come next in the following series.",
+      "questionText": "Select the figure that will come next in the following series.",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (4)",
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (4) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (4) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Non-Verbal Series",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 18,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q33.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q33.png"
+    },
+    {
+      "id": "ssc_nv_q34",
+      "topicId": "nonverbal_series",
+      "subtopicId": "nonverbal_series_core",
+      "questionType": "figure",
+      "question": "Select the figure that will come next in the following series.",
+      "questionText": "Select the figure that will come next in the following series.",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (1)",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (1) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (1) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Non-Verbal Series",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 19,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q34.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q34.png"
+    },
+    {
+      "id": "ssc_nv_q35",
+      "topicId": "nonverbal_series",
+      "subtopicId": "nonverbal_series_core",
+      "questionType": "figure",
+      "question": "Select the figure that will come next in the following series.",
+      "questionText": "Select the figure that will come next in the following series.",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (1)",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (1) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (1) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Non-Verbal Series",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 19,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q35.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q35.png"
+    },
+    {
+      "id": "ssc_nv_q36",
+      "topicId": "nonverbal_series",
+      "subtopicId": "nonverbal_series_core",
+      "questionType": "figure",
+      "question": "Count the number of squares in the given figure. (1) 2 (2) 5 (3) 10 (4) 4",
+      "questionText": "Count the number of squares in the given figure. (1) 2 (2) 5 (3) 10 (4) 4",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (2)",
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (2) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (2) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Non-Verbal Series",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 20,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q36.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q36.png"
+    },
+    {
+      "id": "ssc_nv_q37",
+      "topicId": "nonverbal_series",
+      "subtopicId": "nonverbal_series_core",
+      "questionType": "figure",
+      "question": "Count the number of squares in the given figure. (1) 8 (2) 13 (3) 5 (4) 9",
+      "questionText": "Count the number of squares in the given figure. (1) 8 (2) 13 (3) 5 (4) 9",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (1)",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (1) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (1) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Non-Verbal Series",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 20,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q37.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q37.png"
+    },
+    {
+      "id": "ssc_nv_q38",
+      "topicId": "nonverbal_series",
+      "subtopicId": "nonverbal_series_core",
+      "questionType": "figure",
+      "question": "Count the number of squares in the given figure. (1) 12 (2) 13 (3) 4 (4) 8",
+      "questionText": "Count the number of squares in the given figure. (1) 12 (2) 13 (3) 4 (4) 8",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (4)",
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (4) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (4) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Non-Verbal Series",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 21,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q38.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q38.png"
+    },
+    {
+      "id": "ssc_nv_q39",
+      "topicId": "nonverbal_series",
+      "subtopicId": "nonverbal_series_core",
+      "questionType": "figure",
+      "question": "Count the number of squares in the given figure. (1) 13 (2) 14 (3) 18 (4) 15",
+      "questionText": "Count the number of squares in the given figure. (1) 13 (2) 14 (3) 18 (4) 15",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (2)",
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (2) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (2) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Non-Verbal Series",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 21,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q39.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q39.png"
+    },
+    {
+      "id": "ssc_nv_q40",
+      "topicId": "nonverbal_series",
+      "subtopicId": "nonverbal_series_core",
+      "questionType": "figure",
+      "question": "Count the number of squares in the given figure. (1) 13 (2) 11 (3) 7 (4) 14",
+      "questionText": "Count the number of squares in the given figure. (1) 13 (2) 11 (3) 7 (4) 14",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (2)",
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (2) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (2) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Non-Verbal Series",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 22,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q40.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q40.png"
+    },
+    {
+      "id": "ssc_nv_q41",
+      "topicId": "nonverbal_series",
+      "subtopicId": "nonverbal_series_core",
+      "questionType": "figure",
+      "question": "Count the number of squares in the given figure. (1) 13 (2) 8 (3) 11 (4) 12",
+      "questionText": "Count the number of squares in the given figure. (1) 13 (2) 8 (3) 11 (4) 12",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (3)",
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (3) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (3) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Non-Verbal Series",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 22,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q41.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q41.png"
+    },
+    {
+      "id": "ssc_nv_q42",
+      "topicId": "nonverbal_series",
+      "subtopicId": "nonverbal_series_core",
+      "questionType": "figure",
+      "question": "Count the number of squares in the given figure. (1) 20 (2) 15 (3) 17 (4) 25",
+      "questionText": "Count the number of squares in the given figure. (1) 20 (2) 15 (3) 17 (4) 25",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (1)",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (1) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (1) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Non-Verbal Series",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 23,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q42.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q42.png"
+    },
+    {
+      "id": "ssc_nv_q43",
+      "topicId": "nonverbal_series",
+      "subtopicId": "nonverbal_series_core",
+      "questionType": "figure",
+      "question": "Count the number of squares in the given figure. (1) 15 (2) 25 (3) 20 (4) 23",
+      "questionText": "Count the number of squares in the given figure. (1) 15 (2) 25 (3) 20 (4) 23",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (3)",
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (3) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (3) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Non-Verbal Series",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 23,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q43.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q43.png"
+    },
+    {
+      "id": "ssc_nv_q44",
+      "topicId": "nonverbal_series",
+      "subtopicId": "nonverbal_series_core",
+      "questionType": "figure",
+      "question": "Count the number of rectangles in the given figure. (1) 9 (2) 14 (3) 7 (4) 11",
+      "questionText": "Count the number of rectangles in the given figure. (1) 9 (2) 14 (3) 7 (4) 11",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (1)",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (1) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (1) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Non-Verbal Series",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 24,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q44.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q44.png"
+    },
+    {
+      "id": "ssc_nv_q45",
+      "topicId": "nonverbal_series",
+      "subtopicId": "nonverbal_series_core",
+      "questionType": "figure",
+      "question": "Count the number of rectangles in the given figure. (1) 17 (2) 18 (3) 15 (4) 13",
+      "questionText": "Count the number of rectangles in the given figure. (1) 17 (2) 18 (3) 15 (4) 13",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (2)",
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (2) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (2) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Non-Verbal Series",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 24,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q45.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q45.png"
+    },
+    {
+      "id": "ssc_nv_q46",
+      "topicId": "nonverbal_series",
+      "subtopicId": "nonverbal_series_core",
+      "questionType": "figure",
+      "question": "Count the number of rectangles in the given figure. (1) 16 (2) 22 (3) 18 (4) 21",
+      "questionText": "Count the number of rectangles in the given figure. (1) 16 (2) 22 (3) 18 (4) 21",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (3)",
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (3) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (3) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Non-Verbal Series",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 25,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q46.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q46.png"
+    },
+    {
+      "id": "ssc_nv_q47",
+      "topicId": "nonverbal_series",
+      "subtopicId": "nonverbal_series_core",
+      "questionType": "figure",
+      "question": "Count the number of rectangles in the given figure. (1) 38 (2) 31 (3) 36 (4) 35",
+      "questionText": "Count the number of rectangles in the given figure. (1) 38 (2) 31 (3) 36 (4) 35",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (3)",
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (3) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (3) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Non-Verbal Series",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 26,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q47.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q47.png"
+    },
+    {
+      "id": "ssc_nv_q48",
+      "topicId": "nonverbal_series",
+      "subtopicId": "nonverbal_series_core",
+      "questionType": "figure",
+      "question": "Count the number of rectangles in the given figure. (1) 59 (2) 65 (3) 60 (4) 57",
+      "questionText": "Count the number of rectangles in the given figure. (1) 59 (2) 65 (3) 60 (4) 57",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (3)",
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (3) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (3) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Non-Verbal Series",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 26,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q48.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q48.png"
+    },
+    {
+      "id": "ssc_nv_q49",
+      "topicId": "nonverbal_series",
+      "subtopicId": "nonverbal_series_core",
+      "questionType": "figure",
+      "question": "Count the number of rectangles in the given figure. (1) 60 (2) 56 (3) 58 (4) 61",
+      "questionText": "Count the number of rectangles in the given figure. (1) 60 (2) 56 (3) 58 (4) 61",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (1)",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (1) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (1) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Non-Verbal Series",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 27,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q49.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q49.png"
+    },
+    {
+      "id": "ssc_nv_q50",
+      "topicId": "nonverbal_series",
+      "subtopicId": "nonverbal_series_core",
+      "questionType": "figure",
+      "question": "Count the number of rectangles in the given figure. (1) 100 (2) 104 (3) 103 (4) 99",
+      "questionText": "Count the number of rectangles in the given figure. (1) 100 (2) 104 (3) 103 (4) 99",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (1)",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (1) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (1) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Non-Verbal Series",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 27,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q50.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q50.png"
+    },
+    {
+      "id": "ssc_nv_q51",
+      "topicId": "nonverbal_series",
+      "subtopicId": "nonverbal_series_core",
+      "questionType": "figure",
+      "question": "Count the number of triangles in the given figure. (1) 5 (2) 8 (3) 6 (4) 2",
+      "questionText": "Count the number of triangles in the given figure. (1) 5 (2) 8 (3) 6 (4) 2",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (3)",
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (3) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (3) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Non-Verbal Series",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 28,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q51.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q51.png"
+    },
+    {
+      "id": "ssc_nv_q52",
+      "topicId": "nonverbal_series",
+      "subtopicId": "nonverbal_series_core",
+      "questionType": "figure",
+      "question": "Count the number of triangles in the given figure. (1) 15 (2) 7 (3) 5 (4) 10",
+      "questionText": "Count the number of triangles in the given figure. (1) 15 (2) 7 (3) 5 (4) 10",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (4)",
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (4) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (4) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Non-Verbal Series",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 28,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q52.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q52.png"
+    },
+    {
+      "id": "ssc_nv_q53",
+      "topicId": "nonverbal_series",
+      "subtopicId": "nonverbal_series_core",
+      "questionType": "figure",
+      "question": "Count the number of triangles in the given figure. (1) 15 (2) 13 (3) 17 (4) 14",
+      "questionText": "Count the number of triangles in the given figure. (1) 15 (2) 13 (3) 17 (4) 14",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (1)",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (1) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (1) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Non-Verbal Series",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 29,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q53.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q53.png"
+    },
+    {
+      "id": "ssc_nv_q54",
+      "topicId": "nonverbal_series",
+      "subtopicId": "nonverbal_series_core",
+      "questionType": "figure",
+      "question": "Count the number of triangles in the given figure. (1) 26 (2) 25 (3) 21 (4) 16",
+      "questionText": "Count the number of triangles in the given figure. (1) 26 (2) 25 (3) 21 (4) 16",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (3)",
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (3) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (3) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Non-Verbal Series",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 29,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q54.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q54.png"
+    },
+    {
+      "id": "ssc_nv_q55",
+      "topicId": "nonverbal_series",
+      "subtopicId": "nonverbal_series_core",
+      "questionType": "figure",
+      "question": "Count the number of triangles in the given figure. (1) 33 (2) 24 (3) 28 (4) 26",
+      "questionText": "Count the number of triangles in the given figure. (1) 33 (2) 24 (3) 28 (4) 26",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (3)",
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (3) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (3) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Non-Verbal Series",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 30,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q55.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q55.png"
+    },
+    {
+      "id": "ssc_nv_q56",
+      "topicId": "nonverbal_series",
+      "subtopicId": "nonverbal_series_core",
+      "questionType": "figure",
+      "question": "Count the number of triangles in the given figure. (1) 7 (2) 5 (3) 4 (4) 6",
+      "questionText": "Count the number of triangles in the given figure. (1) 7 (2) 5 (3) 4 (4) 6",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (4)",
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (4) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (4) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Non-Verbal Series",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 30,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q56.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q56.png"
+    },
+    {
+      "id": "ssc_nv_q57",
+      "topicId": "nonverbal_series",
+      "subtopicId": "nonverbal_series_core",
+      "questionType": "figure",
+      "question": "Count the number of triangles in the given figure. (1) 10 (2) 15 (3) 13 (4) 7",
+      "questionText": "Count the number of triangles in the given figure. (1) 10 (2) 15 (3) 13 (4) 7",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (1)",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (1) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (1) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Non-Verbal Series",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 31,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q57.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q57.png"
+    },
+    {
+      "id": "ssc_nv_q58",
+      "topicId": "nonverbal_series",
+      "subtopicId": "nonverbal_series_core",
+      "questionType": "figure",
+      "question": "Count the number of triangles in the given figure. (1) 19 (2) 15 (3) 13 (4) 20",
+      "questionText": "Count the number of triangles in the given figure. (1) 19 (2) 15 (3) 13 (4) 20",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (2)",
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (2) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (2) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Non-Verbal Series",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 31,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q58.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q58.png"
+    },
+    {
+      "id": "ssc_nv_q59",
+      "topicId": "nonverbal_series",
+      "subtopicId": "nonverbal_series_core",
+      "questionType": "figure",
+      "question": "Count the number of triangles in the given figure. (1) 23 (2) 21 (3) 26 (4) 24",
+      "questionText": "Count the number of triangles in the given figure. (1) 23 (2) 21 (3) 26 (4) 24",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (2)",
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (2) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (2) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Non-Verbal Series",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 32,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q59.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q59.png"
+    },
+    {
+      "id": "ssc_nv_q60",
+      "topicId": "nonverbal_series",
+      "subtopicId": "nonverbal_series_core",
+      "questionType": "figure",
+      "question": "Count the number of triangles in the given figure. (1) 28 (2) 27 (3) 26 (4) 23",
+      "questionText": "Count the number of triangles in the given figure. (1) 28 (2) 27 (3) 26 (4) 23",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (1)",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (1) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (1) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Non-Verbal Series",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 32,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q60.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q60.png"
+    },
+    {
+      "id": "ssc_nv_q61",
+      "topicId": "nonverbal_series",
+      "subtopicId": "nonverbal_series_core",
+      "questionType": "figure",
+      "question": "How many straight line segments of all possible lengths are present in the figure? (1) 5 (2) 8 (3) 6 (4) 4",
+      "questionText": "How many straight line segments of all possible lengths are present in the figure? (1) 5 (2) 8 (3) 6 (4) 4",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (3)",
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (3) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (3) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Non-Verbal Series",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 33,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q61.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q61.png"
+    },
+    {
+      "id": "ssc_nv_q62",
+      "topicId": "nonverbal_series",
+      "subtopicId": "nonverbal_series_core",
+      "questionType": "figure",
+      "question": "How many straight line segments of all possible lengths are present in the figure? (1) 13 (2) 10 (3) 15 (4) 17",
+      "questionText": "How many straight line segments of all possible lengths are present in the figure? (1) 13 (2) 10 (3) 15 (4) 17",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (1)",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (1) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (1) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Non-Verbal Series",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 33,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q62.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q62.png"
+    },
+    {
+      "id": "ssc_nv_q63",
+      "topicId": "nonverbal_series",
+      "subtopicId": "nonverbal_series_core",
+      "questionType": "figure",
+      "question": "How many straight line segments of all possible lengths are present in the figure? (1) 23 (2) 24 (3) 22 (4) 19",
+      "questionText": "How many straight line segments of all possible lengths are present in the figure? (1) 23 (2) 24 (3) 22 (4) 19",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (2)",
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (2) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (2) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Non-Verbal Series",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 34,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q63.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q63.png"
+    },
+    {
+      "id": "ssc_nv_q64",
+      "topicId": "nonverbal_series",
+      "subtopicId": "nonverbal_series_core",
+      "questionType": "figure",
+      "question": "How many straight line segments of all possible lengths are present in the figure? (1) 20 (2) 22 (3) 24 (4) 25",
+      "questionText": "How many straight line segments of all possible lengths are present in the figure? (1) 20 (2) 22 (3) 24 (4) 25",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (1)",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (1) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (1) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Non-Verbal Series",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 34,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q64.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q64.png"
+    },
+    {
+      "id": "ssc_nv_q65",
+      "topicId": "nonverbal_series",
+      "subtopicId": "nonverbal_series_core",
+      "questionType": "figure",
+      "question": "How many straight line segments of all possible lengths are present in the figure? (1) 32 (2) 31 (3) 34 (4) 29",
+      "questionText": "How many straight line segments of all possible lengths are present in the figure? (1) 32 (2) 31 (3) 34 (4) 29",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (2)",
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (2) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (2) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Non-Verbal Series",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 35,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q65.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q65.png"
+    },
+    {
+      "id": "ssc_nv_q66",
+      "topicId": "nonverbal_series",
+      "subtopicId": "nonverbal_series_core",
+      "questionType": "figure",
+      "question": "How many straight line segments of all possible lengths are present in the figure? (1) 41 (2) 45 (3) 40 (4) 42",
+      "questionText": "How many straight line segments of all possible lengths are present in the figure? (1) 41 (2) 45 (3) 40 (4) 42",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (4)",
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (4) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (4) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Non-Verbal Series",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 35,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q66.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q66.png"
+    },
+    {
+      "id": "ssc_nv_q67",
+      "topicId": "nonverbal_series",
+      "subtopicId": "nonverbal_series_core",
+      "questionType": "figure",
+      "question": "How many straight line segments of all possible lengths are present in the figure? (1) 6 (2) 8 (3) 9 (4) 11",
+      "questionText": "How many straight line segments of all possible lengths are present in the figure? (1) 6 (2) 8 (3) 9 (4) 11",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (3)",
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (3) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (3) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Non-Verbal Series",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 36,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q67.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q67.png"
+    },
+    {
+      "id": "ssc_nv_q68",
+      "topicId": "nonverbal_series",
+      "subtopicId": "nonverbal_series_core",
+      "questionType": "figure",
+      "question": "How many straight line segments of all possible lengths are present in the figure? (1) 16 (2) 19 (3) 18 (4) 21",
+      "questionText": "How many straight line segments of all possible lengths are present in the figure? (1) 16 (2) 19 (3) 18 (4) 21",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (1)",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (1) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (1) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Non-Verbal Series",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 36,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q68.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q68.png"
+    },
+    {
+      "id": "ssc_nv_q69",
+      "topicId": "nonverbal_series",
+      "subtopicId": "nonverbal_series_core",
+      "questionType": "figure",
+      "question": "How many straight line segments of all possible lengths are present in the figure? (1) 26 (2) 22 (3) 23 (4) 28",
+      "questionText": "How many straight line segments of all possible lengths are present in the figure? (1) 26 (2) 22 (3) 23 (4) 28",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (3)",
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (3) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (3) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Non-Verbal Series",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 37,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q69.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q69.png"
+    },
+    {
+      "id": "ssc_nv_q70",
+      "topicId": "nonverbal_series",
+      "subtopicId": "nonverbal_series_core",
+      "questionType": "figure",
+      "question": "How many straight line segments of all possible lengths are present in the figure? (1) 31 (2) 34 (3) 39 (4) 35",
+      "questionText": "How many straight line segments of all possible lengths are present in the figure? (1) 31 (2) 34 (3) 39 (4) 35",
+      "options": [
+        "Figure (1)",
+        "Figure (2)",
+        "Figure (3)",
+        "Figure (4)"
+      ],
+      "correctAnswer": "Figure (2)",
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "hint": "Analyze rotation, shifting of elements, and changes in symbols sequentially.",
+      "explanation": "Examining the pattern of transformation across the figures, Figure (2) correctly satisfies the sequential rules and spatial orientation.",
+      "solutionSteps": [
+        "Step 1: Track the movement or rotation of each individual element.",
+        "Step 2: Note the alternating patterns (shading, inversion, addition of lines).",
+        "Step 3: Option (2) is the only figure conforming to all conditions."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Non-Verbal Series",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_cpo"
+      ],
+      "pageNumber": 37,
+      "sourcePdf": "Non_Verbal_Reasoning_SSC_200_Questions.pdf",
+      "figureUrl": "/images/questions/non_verbal/nonverbal_q70.png",
+      "figureData": "/images/questions/non_verbal/nonverbal_q70.png"
+    },
     {
       "id": "nonv_ser_1",
       "topicId": "nonverbal_series",

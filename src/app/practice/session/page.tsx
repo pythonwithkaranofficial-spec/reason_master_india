@@ -407,6 +407,8 @@ function SessionRunner() {
             <NonVerbalFigureRenderer
               topicId={currentQ.topicId}
               questionText={currentQ.questionText}
+              figureData={currentQ.figureData}
+              figureRef={currentQ.figureRef}
               isSolution={mode === "instant" && isAnswered}
             />
           </div>

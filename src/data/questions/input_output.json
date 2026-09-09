@@ -1,7 +1,3407 @@
 {
   "topicId": "input_output",
-  "totalQuestions": 500,
+  "totalQuestions": 600,
   "questions": [
+    {
+      "id": "ssc_input_output_q1",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: sky 45 73 rain 28 cloud 91 Step I: 91 sky 45 73 rain 28 cloud Step II: 91 73 sky 45 rain 28 cloud What will be Step III?",
+      "questionText": "Input: sky 45 73 rain 28 cloud 91 Step I: 91 sky 45 73 rain 28 cloud Step II: 91 73 sky 45 rain 28 cloud What will be Step III?",
+      "options": [
+        "91 73 45 sky rain 28 cloud",
+        "91 73 45 28 sky rain cloud",
+        "91 73 sky 45 28 rain cloud",
+        "91 73 45 rain sky 28 cloud"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 2,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q2",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: 34 ball 78 run 56 high 12 Step I: 78 34 ball run 56 high 12 Step II: 78 56 34 ball run high 12 What will be Step III?",
+      "questionText": "Input: 34 ball 78 run 56 high 12 Step I: 78 34 ball run 56 high 12 Step II: 78 56 34 ball run high 12 What will be Step III?",
+      "options": [
+        "78 56 34 12 ball run high",
+        "78 56 34 ball 12 run high",
+        "78 56 34 12 ball high run",
+        "78 56 12 34 ball run high"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 2,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q3",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: moon 62 night 39 88 star 14 Step I: 88 moon 62 night 39 star 14 Step II: 88 62 moon night 39 star 14 What will be Step III?",
+      "questionText": "Input: moon 62 night 39 88 star 14 Step I: 88 moon 62 night 39 star 14 Step II: 88 62 moon night 39 star 14 What will be Step III?",
+      "options": [
+        "88 62 39 moon night star 14",
+        "88 62 39 14 moon night star",
+        "88 62 moon 39 night star 14",
+        "88 62 39 night moon star 14"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 2,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q4",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: 55 tree 82 river 19 sand 67 Step I: 82 55 tree river 19 sand 67 Step II: 82 67 55 tree river 19 sand What will be Step III?",
+      "questionText": "Input: 55 tree 82 river 19 sand 67 Step I: 82 55 tree river 19 sand 67 Step II: 82 67 55 tree river 19 sand What will be Step III?",
+      "options": [
+        "82 67 55 19 tree river sand",
+        "82 67 55 tree 19 river sand",
+        "82 67 55 19 river tree sand",
+        "82 67 19 55 tree river sand"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 2,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q5",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: gold 44 72 iron 33 wood 61 Step I: 72 gold 44 iron 33 wood 61 Step II: 72 61 gold 44 iron 33 wood What will be Step III?",
+      "questionText": "Input: gold 44 72 iron 33 wood 61 Step I: 72 gold 44 iron 33 wood 61 Step II: 72 61 gold 44 iron 33 wood What will be Step III?",
+      "options": [
+        "72 61 44 gold iron 33 wood",
+        "72 61 44 33 gold iron wood",
+        "72 61 gold 44 33 iron wood",
+        "72 61 33 44 gold iron wood"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 3,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q6",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: 29 blue 74 red 53 pink 41 Step I: 74 29 blue red 53 pink 41 Step II: 74 53 29 blue red pink 41 What will be Step III?",
+      "questionText": "Input: 29 blue 74 red 53 pink 41 Step I: 74 29 blue red 53 pink 41 Step II: 74 53 29 blue red pink 41 What will be Step III?",
+      "options": [
+        "74 53 41 29 blue red pink",
+        "74 53 29 41 blue red pink",
+        "74 53 41 blue 29 red pink",
+        "74 53 29 blue 41 red pink"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 3,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q7",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: lamp 37 95 desk 58 book 22 Step I: 95 lamp 37 desk 58 book 22 Step II: 95 58 lamp 37 desk book 22 What will be Step III?",
+      "questionText": "Input: lamp 37 95 desk 58 book 22 Step I: 95 lamp 37 desk 58 book 22 Step II: 95 58 lamp 37 desk book 22 What will be Step III?",
+      "options": [
+        "95 58 37 lamp desk book 22",
+        "95 58 37 22 lamp desk book",
+        "95 58 lamp 37 22 desk book",
+        "95 58 22 37 lamp desk book"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 3,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q8",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: 66 cat 81 dog 43 rat 27 Step I: 81 66 cat dog 43 rat 27 Step II: 81 66 43 cat dog rat 27 What will be Step III?",
+      "questionText": "Input: 66 cat 81 dog 43 rat 27 Step I: 81 66 cat dog 43 rat 27 Step II: 81 66 43 cat dog rat 27 What will be Step III?",
+      "options": [
+        "81 66 43 27 cat dog rat",
+        "81 66 43 cat 27 dog rat",
+        "81 66 27 43 cat dog rat",
+        "81 43 66 27 cat dog rat"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 3,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q9",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: pen 52 76 ink 31 page 64 Step I: 76 pen 52 ink 31 page 64 Step II: 76 64 pen 52 ink 31 page What will be Step III?",
+      "questionText": "Input: pen 52 76 ink 31 page 64 Step I: 76 pen 52 ink 31 page 64 Step II: 76 64 pen 52 ink 31 page What will be Step III?",
+      "options": [
+        "76 64 52 pen ink 31 page",
+        "76 64 52 31 pen ink page",
+        "76 64 pen 52 31 ink page",
+        "76 64 31 52 pen ink page"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 4,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q10",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: 48 fire 86 ice 57 air 23 Step I: 86 48 fire ice 57 air 23 Step II: 86 57 48 fire ice air 23 What will be Step III?",
+      "questionText": "Input: 48 fire 86 ice 57 air 23 Step I: 86 48 fire ice 57 air 23 Step II: 86 57 48 fire ice air 23 What will be Step III?",
+      "options": [
+        "86 57 48 23 fire ice air",
+        "86 57 48 fire 23 ice air",
+        "86 57 23 48 fire ice air",
+        "86 57 48 ice 23 fire air"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 4,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q11",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: rose 63 91 lily 38 tulip 75 Step I: 91 rose 63 lily 38 tulip 75 Step II: 91 75 rose 63 lily 38 tulip What will be Step III?",
+      "questionText": "Input: rose 63 91 lily 38 tulip 75 Step I: 91 rose 63 lily 38 tulip 75 Step II: 91 75 rose 63 lily 38 tulip What will be Step III?",
+      "options": [
+        "91 75 63 rose lily 38 tulip",
+        "91 75 63 38 rose lily tulip",
+        "91 75 rose 63 38 lily tulip",
+        "91 75 38 63 rose lily tulip"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 4,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q12",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: 17 box 94 cup 53 jar 42 Step I: 94 17 box cup 53 jar 42 Step II: 94 53 17 box cup jar 42 What will be Step III?",
+      "questionText": "Input: 17 box 94 cup 53 jar 42 Step I: 94 17 box cup 53 jar 42 Step II: 94 53 17 box cup jar 42 What will be Step III?",
+      "options": [
+        "94 53 42 17 box cup jar",
+        "94 53 17 42 box cup jar",
+        "94 53 42 box 17 cup jar",
+        "94 53 17 box 42 cup jar"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 5,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q13",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: fast 26 84 slow 49 calm 71 Step I: 84 fast 26 slow 49 calm 71 Step II: 84 71 fast 26 slow 49 calm What will be Step III?",
+      "questionText": "Input: fast 26 84 slow 49 calm 71 Step I: 84 fast 26 slow 49 calm 71 Step II: 84 71 fast 26 slow 49 calm What will be Step III?",
+      "options": [
+        "84 71 49 fast slow 26 calm",
+        "84 71 26 fast slow 49 calm",
+        "84 71 49 26 fast slow calm",
+        "84 71 fast 49 26 slow calm"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 5,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q14",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: 38 hill 77 lake 54 road 21 Step I: 77 38 hill lake 54 road 21 Step II: 77 54 38 hill lake road 21 What will be Step III?",
+      "questionText": "Input: 38 hill 77 lake 54 road 21 Step I: 77 38 hill lake 54 road 21 Step II: 77 54 38 hill lake road 21 What will be Step III?",
+      "options": [
+        "77 54 38 21 hill lake road",
+        "77 54 38 hill 21 lake road",
+        "77 54 21 38 hill lake road",
+        "77 38 54 21 hill lake road"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 5,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q15",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: town 59 87 city 32 land 68 Step I: 87 town 59 city 32 land 68 Step II: 87 68 town 59 city 32 land What will be Step III?",
+      "questionText": "Input: town 59 87 city 32 land 68 Step I: 87 town 59 city 32 land 68 Step II: 87 68 town 59 city 32 land What will be Step III?",
+      "options": [
+        "87 68 59 town city 32 land",
+        "87 68 59 32 town city land",
+        "87 68 town 59 32 city land",
+        "87 68 32 59 town city land"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 5,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q16",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: 46 wind 93 rain 61 snow 35 Step I: 93 46 wind rain 61 snow 35 Step II: 93 61 46 wind rain snow 35 What will be Step III?",
+      "questionText": "Input: 46 wind 93 rain 61 snow 35 Step I: 93 46 wind rain 61 snow 35 Step II: 93 61 46 wind rain snow 35 What will be Step III?",
+      "options": [
+        "93 61 46 35 wind rain snow",
+        "93 61 46 wind 35 rain snow",
+        "93 61 35 46 wind rain snow",
+        "93 46 61 35 wind rain snow"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 5,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q17",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: king 74 96 queen 53 jack 82 Step I: 96 king 74 queen 53 jack 82 Step II: 96 82 king 74 queen 53 jack What will be Step III?",
+      "questionText": "Input: king 74 96 queen 53 jack 82 Step I: 96 king 74 queen 53 jack 82 Step II: 96 82 king 74 queen 53 jack What will be Step III?",
+      "options": [
+        "96 82 74 king queen 53 jack",
+        "96 82 74 53 king queen jack",
+        "96 82 king 74 53 queen jack",
+        "96 82 53 74 king queen jack"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 6,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q18",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: 25 star 68 moon 47 sun 83 Step I: 83 25 star moon 47 sun 68 Step II: 83 68 25 star moon 47 sun What will be Step III?",
+      "questionText": "Input: 25 star 68 moon 47 sun 83 Step I: 83 25 star moon 47 sun 68 Step II: 83 68 25 star moon 47 sun What will be Step III?",
+      "options": [
+        "83 68 47 25 star moon sun",
+        "83 68 25 47 star moon sun",
+        "83 68 47 star 25 moon sun",
+        "83 68 25 star 47 moon sun"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 6,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q19",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: wave 41 79 sand 36 shore 62 Step I: 79 wave 41 sand 36 shore 62 Step II: 79 62 wave 41 sand 36 shore What will be Step III?",
+      "questionText": "Input: wave 41 79 sand 36 shore 62 Step I: 79 wave 41 sand 36 shore 62 Step II: 79 62 wave 41 sand 36 shore What will be Step III?",
+      "options": [
+        "79 62 41 wave sand 36 shore",
+        "79 62 41 36 wave sand shore",
+        "79 62 wave 41 36 sand shore",
+        "79 62 36 41 wave sand shore"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 6,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q20",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: 57 farm 88 crop 43 soil 71 Step I: 88 57 farm crop 43 soil 71 Step II: 88 71 57 farm crop 43 soil What will be Step III?",
+      "questionText": "Input: 57 farm 88 crop 43 soil 71 Step I: 88 57 farm crop 43 soil 71 Step II: 88 71 57 farm crop 43 soil What will be Step III?",
+      "options": [
+        "88 71 57 43 farm crop soil",
+        "88 71 57 farm 43 crop soil",
+        "88 71 43 57 farm crop soil",
+        "88 57 71 43 farm crop soil"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 6,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q21",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: rock 33 69 stone 54 mud 87 Step I: 87 rock 33 stone 54 mud 69 Step II: 87 69 rock 33 stone 54 mud What will be Step III? Input Output Questions",
+      "questionText": "Input: rock 33 69 stone 54 mud 87 Step I: 87 rock 33 stone 54 mud 69 Step II: 87 69 rock 33 stone 54 mud What will be Step III? Input Output Questions",
+      "options": [
+        "87 69 54 rock stone 33 mud",
+        "87 69 33 rock stone 54 mud",
+        "87 69 54 33 rock stone mud",
+        "87 69 rock 54 33 stone mud"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 6,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q22",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: 72 bird 58 fish 39 frog 85 Step I: 85 72 bird fish 39 frog 58 Step II: 85 72 58 bird fish 39 frog What will be Step III?",
+      "questionText": "Input: 72 bird 58 fish 39 frog 85 Step I: 85 72 bird fish 39 frog 58 Step II: 85 72 58 bird fish 39 frog What will be Step III?",
+      "options": [
+        "85 72 58 39 bird fish frog",
+        "85 72 58 bird 39 fish frog",
+        "85 72 39 58 bird fish frog",
+        "85 58 72 39 bird fish frog"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 7,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q23",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: dark 61 78 light 45 dim 92 Step I: 92 dark 61 light 45 dim 78 Step II: 92 78 dark 61 light 45 dim What will be Step III?",
+      "questionText": "Input: dark 61 78 light 45 dim 92 Step I: 92 dark 61 light 45 dim 78 Step II: 92 78 dark 61 light 45 dim What will be Step III?",
+      "options": [
+        "92 78 61 dark light 45 dim",
+        "92 78 61 45 dark light dim",
+        "92 78 dark 61 45 light dim",
+        "92 78 45 61 dark light dim"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 7,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q24",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: 86 door 52 wall 37 roof 64 Step I: 86 64 door wall 37 roof 52 Step II: 86 64 52 door wall 37 roof What will be Step III?",
+      "questionText": "Input: 86 door 52 wall 37 roof 64 Step I: 86 64 door wall 37 roof 52 Step II: 86 64 52 door wall 37 roof What will be Step III?",
+      "options": [
+        "86 64 52 37 door wall roof",
+        "86 64 52 door 37 wall roof",
+        "86 64 37 52 door wall roof",
+        "86 52 64 37 door wall roof"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 7,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q25",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: cold 48 76 heat 31 warm 59 Step I: 76 cold 48 heat 31 warm 59 Step II: 76 59 cold 48 heat 31 warm What will be Step III?",
+      "questionText": "Input: cold 48 76 heat 31 warm 59 Step I: 76 cold 48 heat 31 warm 59 Step II: 76 59 cold 48 heat 31 warm What will be Step III?",
+      "options": [
+        "76 59 48 cold heat 31 warm",
+        "76 59 48 31 cold heat warm",
+        "76 59 cold 48 31 heat warm",
+        "76 59 31 48 cold heat warm"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 7,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q26",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: 65 map 89 key 43 lock 27 Step I: 89 65 map key 43 lock 27 Input Output Questions",
+      "questionText": "Input: 65 map 89 key 43 lock 27 Step I: 89 65 map key 43 lock 27 Input Output Questions",
+      "options": [
+        "89 65 43 27 map key lock",
+        "89 65 43 map 27 key lock",
+        "89 65 27 43 map key lock",
+        "89 43 65 27 map key lock"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 7,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q27",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: hill 36 82 dale 57 vale 71 Step I: 82 hill 36 dale 57 vale 71 Step II: 82 71 hill 36 dale 57 vale What will be Step III?",
+      "questionText": "Input: hill 36 82 dale 57 vale 71 Step I: 82 hill 36 dale 57 vale 71 Step II: 82 71 hill 36 dale 57 vale What will be Step III?",
+      "options": [
+        "82 71 57 hill dale 36 vale",
+        "82 71 36 hill dale 57 vale",
+        "82 71 57 36 hill dale vale",
+        "82 71 hill 57 36 dale vale"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 8,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q28",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: 53 lake 67 pond 84 river 29 Step I: 84 53 lake pond 67 river 29 Step II: 84 67 53 lake pond river 29 What will be Step III?",
+      "questionText": "Input: 53 lake 67 pond 84 river 29 Step I: 84 53 lake pond 67 river 29 Step II: 84 67 53 lake pond river 29 What will be Step III?",
+      "options": [
+        "84 67 53 29 lake pond river",
+        "84 67 53 lake 29 pond river",
+        "84 67 29 53 lake pond river",
+        "84 53 67 29 lake pond river"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 8,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q29",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: soft 77 93 hard 62 firm 84 Step I: 93 soft 77 hard 62 firm 84 Step II: 93 84 soft 77 hard 62 firm What will be Step III?",
+      "questionText": "Input: soft 77 93 hard 62 firm 84 Step I: 93 soft 77 hard 62 firm 84 Step II: 93 84 soft 77 hard 62 firm What will be Step III?",
+      "options": [
+        "93 84 77 soft hard 62 firm",
+        "93 84 77 62 soft hard firm",
+        "93 84 soft 77 62 hard firm",
+        "93 84 62 77 soft hard firm"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 8,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q30",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: 44 coat 98 hat 73 belt 56 Step I: 98 44 coat hat 73 belt 56 Step II: 98 73 44 coat hat belt 56 What will be Step III?",
+      "questionText": "Input: 44 coat 98 hat 73 belt 56 Step I: 98 44 coat hat 73 belt 56 Step II: 98 73 44 coat hat belt 56 What will be Step III?",
+      "options": [
+        "98 73 56 44 coat hat belt",
+        "98 73 44 56 coat hat belt",
+        "98 73 56 coat 44 hat belt",
+        "98 73 44 coat 56 hat belt"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 8,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q31",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: deep 22 75 wide 48 long 63 Step I: 75 deep 22 wide 48 long 63 Step II: 75 63 deep 22 wide 48 long What will be Step III?",
+      "questionText": "Input: deep 22 75 wide 48 long 63 Step I: 75 deep 22 wide 48 long 63 Step II: 75 63 deep 22 wide 48 long What will be Step III?",
+      "options": [
+        "75 63 48 deep wide 22 long",
+        "75 63 22 deep wide 48 long",
+        "75 63 48 22 deep wide long",
+        "75 63 deep 48 22 wide long"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 9,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q32",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: 81 ring 47 band 35 cord 69 Step I: 81 69 ring band 35 cord 47 Step II: 81 69 47 ring band 35 cord What will be Step III?",
+      "questionText": "Input: 81 ring 47 band 35 cord 69 Step I: 81 69 ring band 35 cord 47 Step II: 81 69 47 ring band 35 cord What will be Step III?",
+      "options": [
+        "81 69 47 35 ring band cord",
+        "81 69 47 ring 35 band cord",
+        "81 69 35 47 ring band cord",
+        "81 47 69 35 ring band cord"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 9,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q33",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: jump 59 88 run 43 walk 76 Step I: 88 jump 59 run 43 walk 76 Step II: 88 76 jump 59 run 43 walk What will be Step III?",
+      "questionText": "Input: jump 59 88 run 43 walk 76 Step I: 88 jump 59 run 43 walk 76 Step II: 88 76 jump 59 run 43 walk What will be Step III?",
+      "options": [
+        "88 76 59 jump run 43 walk",
+        "88 76 59 43 jump run walk",
+        "88 76 jump 59 43 run walk",
+        "88 76 43 59 jump run walk"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 9,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q34",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: 37 cup 74 mug 51 jug 28 Step I: 74 37 cup mug 51 jug 28 Step II: 74 51 37 cup mug jug 28 What will be Step III?",
+      "questionText": "Input: 37 cup 74 mug 51 jug 28 Step I: 74 37 cup mug 51 jug 28 Step II: 74 51 37 cup mug jug 28 What will be Step III?",
+      "options": [
+        "74 51 37 28 cup mug jug",
+        "74 51 37 cup 28 mug jug",
+        "74 51 28 37 cup mug jug",
+        "74 37 51 28 cup mug jug"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 9,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q35",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: thin 64 97 thick 82 wide 51 Step I: 97 thin 64 thick 82 wide 51 Step II: 97 82 thin 64 thick wide 51 What will be Step III? Input Output Questions",
+      "questionText": "Input: thin 64 97 thick 82 wide 51 Step I: 97 thin 64 thick 82 wide 51 Step II: 97 82 thin 64 thick wide 51 What will be Step III? Input Output Questions",
+      "options": [
+        "97 82 64 thin thick 51 wide",
+        "97 82 64 51 thin thick wide",
+        "97 82 thin 64 51 thick wide",
+        "97 82 51 64 thin thick wide"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 9,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q36",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: 26 nail 83 bolt 57 pin 42 Step I: 83 26 nail bolt 57 pin 42 Step II: 83 57 26 nail bolt pin 42 What will be Step III?",
+      "questionText": "Input: 26 nail 83 bolt 57 pin 42 Step I: 83 26 nail bolt 57 pin 42 Step II: 83 57 26 nail bolt pin 42 What will be Step III?",
+      "options": [
+        "83 57 42 26 nail bolt pin",
+        "83 57 26 42 nail bolt pin",
+        "83 57 42 nail 26 bolt pin",
+        "83 57 26 nail 42 bolt pin"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 10,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q37",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: earn 73 96 spend 84 save 61 Step I: 96 earn 73 spend 84 save 61 Step II: 96 84 earn 73 spend save 61 What will be Step III?",
+      "questionText": "Input: earn 73 96 spend 84 save 61 Step I: 96 earn 73 spend 84 save 61 Step II: 96 84 earn 73 spend save 61 What will be Step III?",
+      "options": [
+        "96 84 73 earn spend 61 save",
+        "96 84 73 61 earn spend save",
+        "96 84 earn 73 61 spend save",
+        "96 84 61 73 earn spend save"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 10,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q38",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: 58 leaf 79 stem 34 root 63 Step I: 79 58 leaf stem 34 root 63 Step II: 79 63 58 leaf stem 34 root What will be Step III?",
+      "questionText": "Input: 58 leaf 79 stem 34 root 63 Step I: 79 58 leaf stem 34 root 63 Step II: 79 63 58 leaf stem 34 root What will be Step III?",
+      "options": [
+        "79 63 58 34 leaf stem root",
+        "79 63 58 leaf 34 stem root",
+        "79 63 34 58 leaf stem root",
+        "79 58 63 34 leaf stem root"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 10,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q39",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: sharp 31 86 blunt 62 rough 74 Step I: 86 sharp 31 blunt 62 rough 74 Step II: 86 74 sharp 31 blunt 62 rough What will be Step III?",
+      "questionText": "Input: sharp 31 86 blunt 62 rough 74 Step I: 86 sharp 31 blunt 62 rough 74 Step II: 86 74 sharp 31 blunt 62 rough What will be Step III?",
+      "options": [
+        "86 74 62 sharp blunt 31 rough",
+        "86 74 31 sharp blunt 62 rough",
+        "86 74 62 31 sharp blunt rough",
+        "86 74 sharp 62 31 blunt rough"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 10,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q40",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: 47 chair 85 table 36 stool 72 Step I: 85 47 chair table 36 stool 72 Input Output Questions",
+      "questionText": "Input: 47 chair 85 table 36 stool 72 Step I: 85 47 chair table 36 stool 72 Input Output Questions",
+      "options": [
+        "85 72 47 36 chair table stool",
+        "85 72 47 chair 36 table stool",
+        "85 72 36 47 chair table stool",
+        "85 47 72 36 chair table stool"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 10,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q41",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: proud 68 94 brave 57 bold 79 Step I: 94 proud 68 brave 57 bold 79 Step II: 94 79 proud 68 brave 57 bold What will be Step III?",
+      "questionText": "Input: proud 68 94 brave 57 bold 79 Step I: 94 proud 68 brave 57 bold 79 Step II: 94 79 proud 68 brave 57 bold What will be Step III?",
+      "options": [
+        "94 79 68 proud brave 57 bold",
+        "94 79 68 57 proud brave bold",
+        "94 79 proud 68 57 brave bold",
+        "94 79 57 68 proud brave bold"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 11,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q42",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: 23 fish 76 bird 54 frog 41 Step I: 76 23 fish bird 54 frog 41 Step II: 76 54 23 fish bird frog 41 What will be Step III?",
+      "questionText": "Input: 23 fish 76 bird 54 frog 41 Step I: 76 23 fish bird 54 frog 41 Step II: 76 54 23 fish bird frog 41 What will be Step III?",
+      "options": [
+        "76 54 41 23 fish bird frog",
+        "76 54 23 41 fish bird frog",
+        "76 54 41 fish 23 bird frog",
+        "76 54 23 fish 41 bird frog"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 11,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q43",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: clean 55 87 dirty 69 messy 32 Step I: 87 clean 55 dirty 69 messy 32 Step II: 87 69 clean 55 dirty messy 32 What will be Step III?",
+      "questionText": "Input: clean 55 87 dirty 69 messy 32 Step I: 87 clean 55 dirty 69 messy 32 Step II: 87 69 clean 55 dirty messy 32 What will be Step III?",
+      "options": [
+        "87 69 55 clean dirty 32 messy",
+        "87 69 55 32 clean dirty messy",
+        "87 69 clean 55 32 dirty messy",
+        "87 69 32 55 clean dirty messy"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 11,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q44",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: 61 sword 78 bow 45 axe 93 Step I: 93 61 sword bow 45 axe 78 Step II: 93 78 61 sword bow 45 axe What will be Step III?",
+      "questionText": "Input: 61 sword 78 bow 45 axe 93 Step I: 93 61 sword bow 45 axe 78 Step II: 93 78 61 sword bow 45 axe What will be Step III?",
+      "options": [
+        "93 78 61 45 sword bow axe",
+        "93 78 61 sword 45 bow axe",
+        "93 78 45 61 sword bow axe",
+        "93 61 78 45 sword bow axe"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 11,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q45",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: smart 44 92 wise 71 keen 83 Step I: 92 smart 44 wise 71 keen 83 Step II: 92 83 smart 44 wise 71 keen What will be Step III?",
+      "questionText": "Input: smart 44 92 wise 71 keen 83 Step I: 92 smart 44 wise 71 keen 83 Step II: 92 83 smart 44 wise 71 keen What will be Step III?",
+      "options": [
+        "92 83 71 smart wise 44 keen",
+        "92 83 44 smart wise 71 keen",
+        "92 83 71 44 smart wise keen",
+        "92 83 smart 71 44 wise keen"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 12,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q46",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: 39 grape 75 apple 58 mango 21 Step I: 75 39 grape apple 58 mango 21 Step II: 75 58 39 grape apple mango 21 What will be Step III?",
+      "questionText": "Input: 39 grape 75 apple 58 mango 21 Step I: 75 39 grape apple 58 mango 21 Step II: 75 58 39 grape apple mango 21 What will be Step III?",
+      "options": [
+        "75 58 39 21 grape apple mango",
+        "75 58 39 grape 21 apple mango",
+        "75 58 21 39 grape apple mango",
+        "75 39 58 21 grape apple mango"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 12,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q47",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: green 52 81 blue 47 red 76 Step I: 81 green 52 blue 47 red 76 Step II: 81 76 green 52 blue 47 red What will be Step III?",
+      "questionText": "Input: green 52 81 blue 47 red 76 Step I: 81 green 52 blue 47 red 76 Step II: 81 76 green 52 blue 47 red What will be Step III?",
+      "options": [
+        "81 76 52 green blue 47 red",
+        "81 76 52 47 green blue red",
+        "81 76 green 52 47 blue red",
+        "81 76 47 52 green blue red"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 12,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q48",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: 84 north 67 south 49 east 31 Step I: 84 67 north south 49 east 31 Step II: 84 67 49 north south east 31 What will be Step III?",
+      "questionText": "Input: 84 north 67 south 49 east 31 Step I: 84 67 north south 49 east 31 Step II: 84 67 49 north south east 31 What will be Step III?",
+      "options": [
+        "84 67 49 31 north south east",
+        "84 67 49 north 31 south east",
+        "84 67 31 49 north south east",
+        "84 49 67 31 north south east"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 12,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q49",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: proud 43 68 noble 57 kind 81 Step I: 81 proud 43 noble 57 kind 68 Step II: 81 68 proud 43 noble 57 kind What will be Step III?",
+      "questionText": "Input: proud 43 68 noble 57 kind 81 Step I: 81 proud 43 noble 57 kind 68 Step II: 81 68 proud 43 noble 57 kind What will be Step III?",
+      "options": [
+        "81 68 57 proud noble 43 kind",
+        "81 68 43 proud noble 57 kind",
+        "81 68 57 43 proud noble kind",
+        "81 68 proud 57 43 noble kind"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 12,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q50",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: 72 road 58 path 37 lane 91 Step I: 91 72 road path 37 lane 58 Step II: 91 72 58 road path 37 lane What will be Step III?",
+      "questionText": "Input: 72 road 58 path 37 lane 91 Step I: 91 72 road path 37 lane 58 Step II: 91 72 58 road path 37 lane What will be Step III?",
+      "options": [
+        "91 72 58 37 road path lane",
+        "91 72 58 road 37 path lane",
+        "91 72 37 58 road path lane",
+        "91 58 72 37 road path lane"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 13,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q51",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: warm 66 89 cool 74 mild 52 Step I: 89 warm 66 cool 74 mild 52 Step II: 89 74 warm 66 cool mild 52 What will be Step III?",
+      "questionText": "Input: warm 66 89 cool 74 mild 52 Step I: 89 warm 66 cool 74 mild 52 Step II: 89 74 warm 66 cool mild 52 What will be Step III?",
+      "options": [
+        "89 74 66 warm cool 52 mild",
+        "89 74 66 52 warm cool mild",
+        "89 74 warm 66 52 cool mild",
+        "89 74 52 66 warm cool mild"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 13,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q52",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: 35 iron 96 gold 71 coal 58 Step I: 96 35 iron gold 71 coal 58 Step II: 96 71 35 iron gold coal 58 What will be Step III?",
+      "questionText": "Input: 35 iron 96 gold 71 coal 58 Step I: 96 35 iron gold 71 coal 58 Step II: 96 71 35 iron gold coal 58 What will be Step III?",
+      "options": [
+        "96 71 58 35 iron gold coal",
+        "96 71 35 58 iron gold coal",
+        "96 71 58 iron 35 gold coal",
+        "96 71 35 iron 58 gold coal"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 13,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q53",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: brave 47 73 calm 29 kind 68 Step I: 73 brave 47 calm 29 kind 68 Step II: 73 68 brave 47 calm 29 kind What will be Step III?",
+      "questionText": "Input: brave 47 73 calm 29 kind 68 Step I: 73 brave 47 calm 29 kind 68 Step II: 73 68 brave 47 calm 29 kind What will be Step III?",
+      "options": [
+        "73 68 47 brave calm 29 kind",
+        "73 68 47 29 brave calm kind",
+        "73 68 brave 47 29 calm kind",
+        "73 68 29 47 brave calm kind"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 13,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q54",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: 54 town 87 city 63 port 32 Step I: 87 54 town city 63 port 32 Step II: 87 63 54 town city port 32 What will be Step III? Input Output Questions",
+      "questionText": "Input: 54 town 87 city 63 port 32 Step I: 87 54 town city 63 port 32 Step II: 87 63 54 town city port 32 What will be Step III? Input Output Questions",
+      "options": [
+        "87 63 54 32 town city port",
+        "87 63 54 town 32 city port",
+        "87 63 32 54 town city port",
+        "87 54 63 32 town city port"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 13,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q55",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: high 38 92 low 75 mid 61 Step I: 92 high 38 low 75 mid 61 Step II: 92 75 high 38 low mid 61 What will be Step III?",
+      "questionText": "Input: high 38 92 low 75 mid 61 Step I: 92 high 38 low 75 mid 61 Step II: 92 75 high 38 low mid 61 What will be Step III?",
+      "options": [
+        "92 75 61 high low 38 mid",
+        "92 75 38 high low 61 mid",
+        "92 75 61 38 high low mid",
+        "92 75 high 61 38 low mid"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 14,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q56",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: 43 desk 79 shelf 56 rack 88 Step I: 88 43 desk shelf 56 rack 79 Step II: 88 79 43 desk shelf 56 rack What will be Step III?",
+      "questionText": "Input: 43 desk 79 shelf 56 rack 88 Step I: 88 43 desk shelf 56 rack 79 Step II: 88 79 43 desk shelf 56 rack What will be Step III?",
+      "options": [
+        "88 79 56 43 desk shelf rack",
+        "88 79 43 56 desk shelf rack",
+        "88 79 56 desk 43 shelf rack",
+        "88 79 43 desk 56 shelf rack"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 14,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q57",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: quick 55 84 slow 37 fast 71 Step I: 84 quick 55 slow 37 fast 71 Step II: 84 71 quick 55 slow 37 fast What will be Step III?",
+      "questionText": "Input: quick 55 84 slow 37 fast 71 Step I: 84 quick 55 slow 37 fast 71 Step II: 84 71 quick 55 slow 37 fast What will be Step III?",
+      "options": [
+        "84 71 55 quick slow 37 fast",
+        "84 71 55 37 quick slow fast",
+        "84 71 quick 55 37 slow fast",
+        "84 71 37 55 quick slow fast"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 14,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q58",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: 62 flag 97 mast 84 pole 73 Step I: 97 62 flag mast 84 pole 73 Step II: 97 84 62 flag mast pole 73 What will be Step III?",
+      "questionText": "Input: 62 flag 97 mast 84 pole 73 Step I: 97 62 flag mast 84 pole 73 Step II: 97 84 62 flag mast pole 73 What will be Step III?",
+      "options": [
+        "97 84 73 62 flag mast pole",
+        "97 84 62 73 flag mast pole",
+        "97 84 73 flag 62 mast pole",
+        "97 84 62 flag 73 mast pole"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 14,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q59",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: loud 34 76 soft 58 low 91 Step I: 91 loud 34 soft 58 low 76 Input Output Questions",
+      "questionText": "Input: loud 34 76 soft 58 low 91 Step I: 91 loud 34 soft 58 low 76 Input Output Questions",
+      "options": [
+        "91 76 58 loud soft 34 low",
+        "91 76 34 loud soft 58 low",
+        "91 76 58 34 loud soft low",
+        "91 76 loud 58 34 soft low"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 14,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q60",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: 77 gate 53 door 29 wall 64 Step I: 77 64 gate door 29 wall 53 Step II: 77 64 53 gate door 29 wall What will be Step III?",
+      "questionText": "Input: 77 gate 53 door 29 wall 64 Step I: 77 64 gate door 29 wall 53 Step II: 77 64 53 gate door 29 wall What will be Step III?",
+      "options": [
+        "77 64 53 29 gate door wall",
+        "77 64 53 gate 29 door wall",
+        "77 64 29 53 gate door wall",
+        "77 53 64 29 gate door wall"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 15,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q61",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: raw 49 86 ripe 67 fresh 73 Step I: 86 raw 49 ripe 67 fresh 73 Step II: 86 73 raw 49 ripe 67 fresh What will be Step III?",
+      "questionText": "Input: raw 49 86 ripe 67 fresh 73 Step I: 86 raw 49 ripe 67 fresh 73 Step II: 86 73 raw 49 ripe 67 fresh What will be Step III?",
+      "options": [
+        "86 73 67 raw ripe 49 fresh",
+        "86 73 49 raw ripe 67 fresh",
+        "86 73 67 49 raw ripe fresh",
+        "86 73 raw 67 49 ripe fresh"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 15,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q62",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: 28 coal 85 wood 51 coke 74 Step I: 85 28 coal wood 51 coke 74 Step II: 85 74 28 coal wood 51 coke What will be Step III?",
+      "questionText": "Input: 28 coal 85 wood 51 coke 74 Step I: 85 28 coal wood 51 coke 74 Step II: 85 74 28 coal wood 51 coke What will be Step III?",
+      "options": [
+        "85 74 51 28 coal wood coke",
+        "85 74 28 51 coal wood coke",
+        "85 74 51 coal 28 wood coke",
+        "85 74 28 coal 51 wood coke"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 15,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q63",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: wide 63 91 thin 47 flat 82 Step I: 91 wide 63 thin 47 flat 82 Step II: 91 82 wide 63 thin 47 flat What will be Step III?",
+      "questionText": "Input: wide 63 91 thin 47 flat 82 Step I: 91 wide 63 thin 47 flat 82 Step II: 91 82 wide 63 thin 47 flat What will be Step III?",
+      "options": [
+        "91 82 63 wide thin 47 flat",
+        "91 82 63 47 wide thin flat",
+        "91 82 wide 63 47 thin flat",
+        "91 82 47 63 wide thin flat"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 15,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q64",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: 56 net 79 web 43 mesh 61 Step I: 79 56 net web 43 mesh 61 Step II: 79 61 56 net web 43 mesh What will be Step III?",
+      "questionText": "Input: 56 net 79 web 43 mesh 61 Step I: 79 56 net web 43 mesh 61 Step II: 79 61 56 net web 43 mesh What will be Step III?",
+      "options": [
+        "79 61 56 43 net web mesh",
+        "79 61 56 net 43 web mesh",
+        "79 61 43 56 net web mesh",
+        "79 56 61 43 net web mesh"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 16,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q65",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: plain 71 98 fancy 86 bold 54 Step I: 98 plain 71 fancy 86 bold 54 Step II: 98 86 plain 71 fancy bold 54 What will be Step III?",
+      "questionText": "Input: plain 71 98 fancy 86 bold 54 Step I: 98 plain 71 fancy 86 bold 54 Step II: 98 86 plain 71 fancy bold 54 What will be Step III?",
+      "options": [
+        "98 86 71 plain fancy 54 bold",
+        "98 86 71 54 plain fancy bold",
+        "98 86 plain 71 54 fancy bold",
+        "98 86 54 71 plain fancy bold"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 16,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q66",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: 33 kite 88 boat 62 ship 45 Step I: 88 33 kite boat 62 ship 45 Step II: 88 62 33 kite boat ship 45 What will be Step III?",
+      "questionText": "Input: 33 kite 88 boat 62 ship 45 Step I: 88 33 kite boat 62 ship 45 Step II: 88 62 33 kite boat ship 45 What will be Step III?",
+      "options": [
+        "88 62 45 33 kite boat ship",
+        "88 62 33 45 kite boat ship",
+        "88 62 45 kite 33 boat ship",
+        "88 62 33 kite 45 boat ship"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 16,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q67",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: sunny 57 83 rainy 41 windy 76 Step I: 83 sunny 57 rainy 41 windy 76 Step II: 83 76 sunny 57 rainy 41 windy What will be Step III?",
+      "questionText": "Input: sunny 57 83 rainy 41 windy 76 Step I: 83 sunny 57 rainy 41 windy 76 Step II: 83 76 sunny 57 rainy 41 windy What will be Step III?",
+      "options": [
+        "83 76 57 sunny rainy 41 windy",
+        "83 76 57 41 sunny rainy windy",
+        "83 76 sunny 57 41 rainy windy",
+        "83 76 41 57 sunny rainy windy"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 16,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q68",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: 94 note 76 tone 58 beat 39 Step I: 94 76 note tone 58 beat 39 Step II: 94 76 58 note tone beat 39 What will be Step III?",
+      "questionText": "Input: 94 note 76 tone 58 beat 39 Step I: 94 76 note tone 58 beat 39 Step II: 94 76 58 note tone beat 39 What will be Step III?",
+      "options": [
+        "94 76 58 39 note tone beat",
+        "94 76 58 note 39 tone beat",
+        "94 76 39 58 note tone beat",
+        "94 58 76 39 note tone beat"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 16,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q69",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: tiny 26 74 huge 53 vast 68 Step I: 74 tiny 26 huge 53 vast 68 Step II: 74 68 tiny 26 huge 53 vast What will be Step III?",
+      "questionText": "Input: tiny 26 74 huge 53 vast 68 Step I: 74 tiny 26 huge 53 vast 68 Step II: 74 68 tiny 26 huge 53 vast What will be Step III?",
+      "options": [
+        "74 68 53 tiny huge 26 vast",
+        "74 68 26 tiny huge 53 vast",
+        "74 68 53 26 tiny huge vast",
+        "74 68 tiny 53 26 huge vast"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 17,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q70",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: 46 sand 93 dust 67 mud 38 Step I: 93 46 sand dust 67 mud 38 Step II: 93 67 46 sand dust mud 38 What will be Step III?",
+      "questionText": "Input: 46 sand 93 dust 67 mud 38 Step I: 93 46 sand dust 67 mud 38 Step II: 93 67 46 sand dust mud 38 What will be Step III?",
+      "options": [
+        "93 67 46 38 sand dust mud",
+        "93 67 46 sand 38 dust mud",
+        "93 67 38 46 sand dust mud",
+        "93 46 67 38 sand dust mud"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 17,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q71",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: sleek 72 88 dull 64 pale 95 Step I: 95 sleek 72 dull 64 pale 88 Step II: 95 88 sleek 72 dull 64 pale What will be Step III?",
+      "questionText": "Input: sleek 72 88 dull 64 pale 95 Step I: 95 sleek 72 dull 64 pale 88 Step II: 95 88 sleek 72 dull 64 pale What will be Step III?",
+      "options": [
+        "95 88 72 sleek dull 64 pale",
+        "95 88 72 64 sleek dull pale",
+        "95 88 sleek 72 64 dull pale",
+        "95 88 64 72 sleek dull pale"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 17,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q72",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: 83 pipe 67 drum 45 bell 29 Step I: 83 67 pipe drum 45 bell 29 Step II: 83 67 45 pipe drum bell 29 What will be Step III?",
+      "questionText": "Input: 83 pipe 67 drum 45 bell 29 Step I: 83 67 pipe drum 45 bell 29 Step II: 83 67 45 pipe drum bell 29 What will be Step III?",
+      "options": [
+        "83 67 45 29 pipe drum bell",
+        "83 67 45 pipe 29 drum bell",
+        "83 67 29 45 pipe drum bell",
+        "83 45 67 29 pipe drum bell"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 17,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q73",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: neat 38 77 messy 52 tidy 69 Step I: 77 neat 38 messy 52 tidy 69 Step II: 77 69 neat 38 messy 52 tidy What will be Step III? Input Output Questions",
+      "questionText": "Input: neat 38 77 messy 52 tidy 69 Step I: 77 neat 38 messy 52 tidy 69 Step II: 77 69 neat 38 messy 52 tidy What will be Step III? Input Output Questions",
+      "options": [
+        "77 69 52 neat messy 38 tidy",
+        "77 69 38 neat messy 52 tidy",
+        "77 69 52 38 neat messy tidy",
+        "77 69 neat 52 38 messy tidy"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 17,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q74",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: 59 tent 84 hut 73 den 48 Step I: 84 59 tent hut 73 den 48 Step II: 84 73 59 tent hut den 48 What will be Step III?",
+      "questionText": "Input: 59 tent 84 hut 73 den 48 Step I: 84 59 tent hut 73 den 48 Step II: 84 73 59 tent hut den 48 What will be Step III?",
+      "options": [
+        "84 73 59 48 tent hut den",
+        "84 73 59 tent 48 hut den",
+        "84 73 48 59 tent hut den",
+        "84 59 73 48 tent hut den"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 18,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q75",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: swift 43 96 slow 78 lazy 85 Step I: 96 swift 43 slow 78 lazy 85 Step II: 96 85 swift 43 slow 78 lazy What will be Step III?",
+      "questionText": "Input: swift 43 96 slow 78 lazy 85 Step I: 96 swift 43 slow 78 lazy 85 Step II: 96 85 swift 43 slow 78 lazy What will be Step III?",
+      "options": [
+        "96 85 78 swift slow 43 lazy",
+        "96 85 43 swift slow 78 lazy",
+        "96 85 78 43 swift slow lazy",
+        "96 85 swift 78 43 slow lazy"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 18,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q76",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: 74 pen 53 ink 36 pad 92 Step I: 92 74 pen ink 36 pad 53 Step II: 92 74 53 pen ink 36 pad What will be Step III?",
+      "questionText": "Input: 74 pen 53 ink 36 pad 92 Step I: 92 74 pen ink 36 pad 53 Step II: 92 74 53 pen ink 36 pad What will be Step III?",
+      "options": [
+        "92 74 53 36 pen ink pad",
+        "92 74 53 pen 36 ink pad",
+        "92 74 36 53 pen ink pad",
+        "92 53 74 36 pen ink pad"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 18,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q77",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: east 61 79 west 45 north 87 Step I: 87 east 61 west 45 north 79 Step II: 87 79 east 61 west 45 north What will be Step III?",
+      "questionText": "Input: east 61 79 west 45 north 87 Step I: 87 east 61 west 45 north 79 Step II: 87 79 east 61 west 45 north What will be Step III?",
+      "options": [
+        "87 79 61 east west 45 north",
+        "87 79 61 45 east west north",
+        "87 79 east 61 45 west north",
+        "87 79 45 61 east west north"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 18,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q78",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: 52 wool 68 silk 39 lace 74 Step I: 74 52 wool silk 39 lace 68 Input Output Questions",
+      "questionText": "Input: 52 wool 68 silk 39 lace 74 Step I: 74 52 wool silk 39 lace 68 Input Output Questions",
+      "options": [
+        "74 68 52 39 wool silk lace",
+        "74 68 52 wool 39 silk lace",
+        "74 68 39 52 wool silk lace",
+        "74 52 68 39 wool silk lace"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 18,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q79",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: rigid 55 82 soft 47 hard 76 Step I: 82 rigid 55 soft 47 hard 76 Step II: 82 76 rigid 55 soft 47 hard What will be Step III?",
+      "questionText": "Input: rigid 55 82 soft 47 hard 76 Step I: 82 rigid 55 soft 47 hard 76 Step II: 82 76 rigid 55 soft 47 hard What will be Step III?",
+      "options": [
+        "82 76 55 rigid soft 47 hard",
+        "82 76 55 47 rigid soft hard",
+        "82 76 rigid 55 47 soft hard",
+        "82 76 47 55 rigid soft hard"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 19,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q80",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: 67 fork 91 knife 83 spoon 42 Step I: 91 67 fork knife 83 spoon 42 Step II: 91 83 67 fork knife spoon 42 What will be Step III?",
+      "questionText": "Input: 67 fork 91 knife 83 spoon 42 Step I: 91 67 fork knife 83 spoon 42 Step II: 91 83 67 fork knife spoon 42 What will be Step III?",
+      "options": [
+        "91 83 67 42 fork knife spoon",
+        "91 83 67 fork 42 knife spoon",
+        "91 83 42 67 fork knife spoon",
+        "91 67 83 42 fork knife spoon"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 19,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q81",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: pitch 36 85 tone 62 note 77 Step I: 85 pitch 36 tone 62 note 77 Step II: 85 77 pitch 36 tone 62 note What will be Step III?",
+      "questionText": "Input: pitch 36 85 tone 62 note 77 Step I: 85 pitch 36 tone 62 note 77 Step II: 85 77 pitch 36 tone 62 note What will be Step III?",
+      "options": [
+        "85 77 62 pitch tone 36 note",
+        "85 77 36 pitch tone 62 note",
+        "85 77 62 36 pitch tone note",
+        "85 77 pitch 62 36 tone note"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 19,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q82",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: 48 yarn 76 thread 57 rope 83 Step I: 83 48 yarn thread 57 rope 76 Step II: 83 76 48 yarn thread 57 rope What will be Step III?",
+      "questionText": "Input: 48 yarn 76 thread 57 rope 83 Step I: 83 48 yarn thread 57 rope 76 Step II: 83 76 48 yarn thread 57 rope What will be Step III?",
+      "options": [
+        "83 76 57 48 yarn thread rope",
+        "83 76 48 57 yarn thread rope",
+        "83 76 57 yarn 48 thread rope",
+        "83 76 48 yarn 57 thread rope"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 19,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q83",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: oval 34 72 round 58 flat 96 Step I: 96 oval 34 round 58 flat 72 Step II: 96 72 oval 34 round 58 flat What will be Step III?",
+      "questionText": "Input: oval 34 72 round 58 flat 96 Step I: 96 oval 34 round 58 flat 72 Step II: 96 72 oval 34 round 58 flat What will be Step III?",
+      "options": [
+        "96 72 58 oval round 34 flat",
+        "96 72 34 oval round 58 flat",
+        "96 72 58 34 oval round flat",
+        "96 72 oval 58 34 round flat"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 20,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q84",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: 83 cloud 47 storm 64 mist 29 Step I: 83 64 cloud storm 47 mist 29 Step II: 83 64 47 cloud storm mist 29 What will be Step III?",
+      "questionText": "Input: 83 cloud 47 storm 64 mist 29 Step I: 83 64 cloud storm 47 mist 29 Step II: 83 64 47 cloud storm mist 29 What will be Step III?",
+      "options": [
+        "83 64 47 29 cloud storm mist",
+        "83 64 47 cloud 29 storm mist",
+        "83 64 29 47 cloud storm mist",
+        "83 47 64 29 cloud storm mist"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 20,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q85",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: fresh 69 93 stale 82 old 74 Step I: 93 fresh 69 stale 82 old 74 Step II: 93 82 fresh 69 stale old 74 What will be Step III?",
+      "questionText": "Input: fresh 69 93 stale 82 old 74 Step I: 93 fresh 69 stale 82 old 74 Step II: 93 82 fresh 69 stale old 74 What will be Step III?",
+      "options": [
+        "93 82 74 fresh stale 69 old",
+        "93 82 69 fresh stale 74 old",
+        "93 82 74 69 fresh stale old",
+        "93 82 fresh 74 69 stale old"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 20,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q86",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: 53 brick 88 stone 61 tile 76 Step I: 88 53 brick stone 61 tile 76 Step II: 88 76 53 brick stone 61 tile What will be Step III?",
+      "questionText": "Input: 53 brick 88 stone 61 tile 76 Step I: 88 53 brick stone 61 tile 76 Step II: 88 76 53 brick stone 61 tile What will be Step III?",
+      "options": [
+        "88 76 61 53 brick stone tile",
+        "88 76 53 61 brick stone tile",
+        "88 76 61 brick 53 stone tile",
+        "88 76 53 brick 61 stone tile"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 20,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q87",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: clear 42 87 foggy 65 hazy 78 Step I: 87 clear 42 foggy 65 hazy 78 Step II: 87 78 clear 42 foggy 65 hazy What will be Step III?",
+      "questionText": "Input: clear 42 87 foggy 65 hazy 78 Step I: 87 clear 42 foggy 65 hazy 78 Step II: 87 78 clear 42 foggy 65 hazy What will be Step III?",
+      "options": [
+        "87 78 65 clear foggy 42 hazy",
+        "87 78 42 clear foggy 65 hazy",
+        "87 78 65 42 clear foggy hazy",
+        "87 78 clear 65 42 foggy hazy"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 20,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q88",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: 76 song 54 tune 38 beat 91 Step I: 91 76 song tune 38 beat 54 Step II: 91 76 54 song tune 38 beat What will be Step III?",
+      "questionText": "Input: 76 song 54 tune 38 beat 91 Step I: 91 76 song tune 38 beat 54 Step II: 91 76 54 song tune 38 beat What will be Step III?",
+      "options": [
+        "91 76 54 38 song tune beat",
+        "91 76 54 song 38 tune beat",
+        "91 76 38 54 song tune beat",
+        "91 54 76 38 song tune beat"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 21,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q89",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: right 57 84 wrong 69 true 48 Step I: 84 right 57 wrong 69 true 48 Step II: 84 69 right 57 wrong true 48 What will be Step III?",
+      "questionText": "Input: right 57 84 wrong 69 true 48 Step I: 84 right 57 wrong 69 true 48 Step II: 84 69 right 57 wrong true 48 What will be Step III?",
+      "options": [
+        "84 69 57 right wrong 48 true",
+        "84 69 57 48 right wrong true",
+        "84 69 right 57 48 wrong true",
+        "84 69 48 57 right wrong true"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 21,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q90",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: 66 horn 78 drum 53 flute 89 Step I: 89 66 horn drum 53 flute 78 Step II: 89 78 66 horn drum 53 flute What will be Step III?",
+      "questionText": "Input: 66 horn 78 drum 53 flute 89 Step I: 89 66 horn drum 53 flute 78 Step II: 89 78 66 horn drum 53 flute What will be Step III?",
+      "options": [
+        "89 78 66 53 horn drum flute",
+        "89 78 66 horn 53 drum flute",
+        "89 78 53 66 horn drum flute",
+        "89 66 78 53 horn drum flute"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 21,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q91",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: dense 31 79 sparse 64 thin 57 Step I: 79 dense 31 sparse 64 thin 57 Step II: 79 64 dense 31 sparse thin 57 What will be Step III?",
+      "questionText": "Input: dense 31 79 sparse 64 thin 57 Step I: 79 dense 31 sparse 64 thin 57 Step II: 79 64 dense 31 sparse thin 57 What will be Step III?",
+      "options": [
+        "79 64 57 dense sparse 31 thin",
+        "79 64 31 dense sparse 57 thin",
+        "79 64 57 31 dense sparse thin",
+        "79 64 dense 57 31 sparse thin"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 21,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q92",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: 85 coin 47 note 73 cash 36 Step I: 85 73 coin note 47 cash 36 Step II: 85 73 47 coin note cash 36 What will be Step III? Input Output Questions",
+      "questionText": "Input: 85 coin 47 note 73 cash 36 Step I: 85 73 coin note 47 cash 36 Step II: 85 73 47 coin note cash 36 What will be Step III? Input Output Questions",
+      "options": [
+        "85 73 47 36 coin note cash",
+        "85 73 47 coin 36 note cash",
+        "85 73 36 47 coin note cash",
+        "85 47 73 36 coin note cash"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 21,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q93",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: plain 48 76 fancy 61 rich 87 Step I: 87 plain 48 fancy 61 rich 76 Step II: 87 76 plain 48 fancy 61 rich What will be Step III?",
+      "questionText": "Input: plain 48 76 fancy 61 rich 87 Step I: 87 plain 48 fancy 61 rich 76 Step II: 87 76 plain 48 fancy 61 rich What will be Step III?",
+      "options": [
+        "87 76 61 plain fancy 48 rich",
+        "87 76 48 plain fancy 61 rich",
+        "87 76 61 48 plain fancy rich",
+        "87 76 plain 61 48 fancy rich"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 22,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q94",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: 37 tap 69 pipe 54 valve 82 Step I: 82 37 tap pipe 54 valve 69 Step II: 82 69 37 tap pipe 54 valve What will be Step III?",
+      "questionText": "Input: 37 tap 69 pipe 54 valve 82 Step I: 82 37 tap pipe 54 valve 69 Step II: 82 69 37 tap pipe 54 valve What will be Step III?",
+      "options": [
+        "82 69 54 37 tap pipe valve",
+        "82 69 37 54 tap pipe valve",
+        "82 69 54 tap 37 pipe valve",
+        "82 69 37 tap 54 pipe valve"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 22,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q95",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: tall 55 92 short 78 long 63 Step I: 92 tall 55 short 78 long 63 Step II: 92 78 tall 55 short long 63 What will be Step III?",
+      "questionText": "Input: tall 55 92 short 78 long 63 Step I: 92 tall 55 short 78 long 63 Step II: 92 78 tall 55 short long 63 What will be Step III?",
+      "options": [
+        "92 78 63 tall short 55 long",
+        "92 78 55 tall short 63 long",
+        "92 78 63 55 tall short long",
+        "92 78 tall 63 55 short long"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 22,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q96",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: 71 arch 58 dome 43 spire 86 Step I: 86 71 arch dome 43 spire 58 Step II: 86 71 58 arch dome 43 spire What will be Step III?",
+      "questionText": "Input: 71 arch 58 dome 43 spire 86 Step I: 86 71 arch dome 43 spire 58 Step II: 86 71 58 arch dome 43 spire What will be Step III?",
+      "options": [
+        "86 71 58 43 arch dome spire",
+        "86 71 58 arch 43 dome spire",
+        "86 71 43 58 arch dome spire",
+        "86 58 71 43 arch dome spire"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 22,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q97",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: cold 44 81 hot 67 warm 73 Step I: 81 cold 44 hot 67 warm 73 Input Output Questions",
+      "questionText": "Input: cold 44 81 hot 67 warm 73 Step I: 81 cold 44 hot 67 warm 73 Input Output Questions",
+      "options": [
+        "81 73 67 cold hot 44 warm",
+        "81 73 44 cold hot 67 warm",
+        "81 73 67 44 cold hot warm",
+        "81 73 cold 67 44 hot warm"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 22,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q98",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: 68 wheel 53 axle 41 gear 79 Step I: 79 68 wheel axle 41 gear 53 Step II: 79 68 53 wheel axle 41 gear What will be Step III?",
+      "questionText": "Input: 68 wheel 53 axle 41 gear 79 Step I: 79 68 wheel axle 41 gear 53 Step II: 79 68 53 wheel axle 41 gear What will be Step III?",
+      "options": [
+        "79 68 53 41 wheel axle gear",
+        "79 68 53 wheel 41 axle gear",
+        "79 68 41 53 wheel axle gear",
+        "79 53 68 41 wheel axle gear"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 23,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q99",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: lost 39 86 found 72 kept 58 Step I: 86 lost 39 found 72 kept 58 Step II: 86 72 lost 39 found kept 58 What will be Step III?",
+      "questionText": "Input: lost 39 86 found 72 kept 58 Step I: 86 lost 39 found 72 kept 58 Step II: 86 72 lost 39 found kept 58 What will be Step III?",
+      "options": [
+        "86 72 58 lost found 39 kept",
+        "86 72 39 lost found 58 kept",
+        "86 72 58 39 lost found kept",
+        "86 72 lost 58 39 found kept"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 23,
+      "sourcePdf": "input-output-questions.pdf"
+    },
+    {
+      "id": "ssc_input_output_q100",
+      "topicId": "input_output",
+      "subtopicId": "input_output_core",
+      "questionType": "text",
+      "question": "Input: 62 wire 94 cord 78 rope 51 Step I: 94 62 wire cord 78 rope 51 Step II: 94 78 62 wire cord rope 51 What will be Step III?",
+      "questionText": "Input: 62 wire 94 cord 78 rope 51 Step I: 94 62 wire cord 78 rope 51 Step II: 94 78 62 wire cord rope 51 What will be Step III?",
+      "options": [
+        "94 78 62 51 wire cord rope",
+        "94 78 62 wire 51 cord rope",
+        "94 78 51 62 wire cord rope",
+        "94 62 78 51 wire cord rope"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "hint": "Focus on standard concepts and formulas of Input Output.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Input Output.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Input Output leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Input Output",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 23,
+      "sourcePdf": "input-output-questions.pdf"
+    },
     {
       "id": "inp_out_1",
       "topicId": "input_output",

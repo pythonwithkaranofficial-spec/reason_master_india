@@ -1,7 +1,3617 @@
 {
   "topicId": "statement_conclusion",
-  "totalQuestions": 500,
+  "totalQuestions": 605,
   "questions": [
+    {
+      "id": "ssc_statement_conclusion_q1",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "Statement: All roads are bridges. Some bridges are highways. Conclusions: I. Some highways are roads. II. Some roads are highways.",
+      "questionText": "Statement: All roads are bridges. Some bridges are highways. Conclusions: I. Some highways are roads. II. Some roads are highways.",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Both I and II follow",
+        "Neither I nor II follows"
+      ],
+      "correctAnswer": "Option (D)",
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Statement and Conclusion.",
+      "explanation": "The correct answer is Option (D). Applying the fundamental rules of Statement and Conclusion leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Statement and Conclusion.",
+        "Step 3: The correct answer is Option (D). Applying the fundamental rules of Statement and Conclusion leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Statement and Conclusion",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 2,
+      "sourcePdf": "Statement_and_Conclusion_Questions.pdf"
+    },
+    {
+      "id": "ssc_statement_conclusion_q2",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "Statement: Some fruits are apples. All apples are sweet. Conclusions: I. All fruits are sweet. II. Some sweet things are fruits.",
+      "questionText": "Statement: Some fruits are apples. All apples are sweet. Conclusions: I. All fruits are sweet. II. Some sweet things are fruits.",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Both I and II follow",
+        "Neither follows"
+      ],
+      "correctAnswer": "Option (B)",
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Statement and Conclusion.",
+      "explanation": "The correct answer is Option (B). Applying the fundamental rules of Statement and Conclusion leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Statement and Conclusion.",
+        "Step 3: The correct answer is Option (B). Applying the fundamental rules of Statement and Conclusion leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Statement and Conclusion",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 2,
+      "sourcePdf": "Statement_and_Conclusion_Questions.pdf"
+    },
+    {
+      "id": "ssc_statement_conclusion_q3",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "Statement: All stars are suns. All suns are planets. Conclusions: I. All planets are stars. II. All stars are planets.",
+      "questionText": "Statement: All stars are suns. All suns are planets. Conclusions: I. All planets are stars. II. All stars are planets.",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Both follow",
+        "None follows"
+      ],
+      "correctAnswer": "Option (B)",
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Statement and Conclusion.",
+      "explanation": "The correct answer is Option (B). Applying the fundamental rules of Statement and Conclusion leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Statement and Conclusion.",
+        "Step 3: The correct answer is Option (B). Applying the fundamental rules of Statement and Conclusion leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Statement and Conclusion",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 2,
+      "sourcePdf": "Statement_and_Conclusion_Questions.pdf"
+    },
+    {
+      "id": "ssc_statement_conclusion_q4",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "Statement: Some pens are pencils. No pencil is eraser. Conclusions: I. Some pens are erasers. II. No pen is eraser.",
+      "questionText": "Statement: Some pens are pencils. No pencil is eraser. Conclusions: I. Some pens are erasers. II. No pen is eraser.",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Both follow",
+        "Either I or II follows"
+      ],
+      "correctAnswer": "Option (D)",
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Statement and Conclusion.",
+      "explanation": "The correct answer is Option (D). Applying the fundamental rules of Statement and Conclusion leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Statement and Conclusion.",
+        "Step 3: The correct answer is Option (D). Applying the fundamental rules of Statement and Conclusion leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Statement and Conclusion",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 3,
+      "sourcePdf": "Statement_and_Conclusion_Questions.pdf"
+    },
+    {
+      "id": "ssc_statement_conclusion_q5",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "Statement: All flowers are beautiful. Some flowers are red. Conclusions: I. Some beautiful things are red. II. All red things are flowers.",
+      "questionText": "Statement: All flowers are beautiful. Some flowers are red. Conclusions: I. Some beautiful things are red. II. All red things are flowers.",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Both follow",
+        "None follows"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Statement and Conclusion.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Statement and Conclusion leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Statement and Conclusion.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Statement and Conclusion leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Statement and Conclusion",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 3,
+      "sourcePdf": "Statement_and_Conclusion_Questions.pdf"
+    },
+    {
+      "id": "ssc_statement_conclusion_q6",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "Statement: All birds can fly. Some animals can fly. Conclusions: I. Some animals are birds. II. Some birds are animals.",
+      "questionText": "Statement: All birds can fly. Some animals can fly. Conclusions: I. Some animals are birds. II. Some birds are animals.",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Both follow",
+        "None follows"
+      ],
+      "correctAnswer": "Option (D)",
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Statement and Conclusion.",
+      "explanation": "The correct answer is Option (D). Applying the fundamental rules of Statement and Conclusion leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Statement and Conclusion.",
+        "Step 3: The correct answer is Option (D). Applying the fundamental rules of Statement and Conclusion leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Statement and Conclusion",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 3,
+      "sourcePdf": "Statement_and_Conclusion_Questions.pdf"
+    },
+    {
+      "id": "ssc_statement_conclusion_q7",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "Statement: All doctors are educated. No teacher is doctor. Conclusions: I. No teacher is educated. II. Some educated persons are not teachers.",
+      "questionText": "Statement: All doctors are educated. No teacher is doctor. Conclusions: I. No teacher is educated. II. Some educated persons are not teachers.",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Both follow",
+        "None follows"
+      ],
+      "correctAnswer": "Option (B)",
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Statement and Conclusion.",
+      "explanation": "The correct answer is Option (B). Applying the fundamental rules of Statement and Conclusion leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Statement and Conclusion.",
+        "Step 3: The correct answer is Option (B). Applying the fundamental rules of Statement and Conclusion leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Statement and Conclusion",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 3,
+      "sourcePdf": "Statement_and_Conclusion_Questions.pdf"
+    },
+    {
+      "id": "ssc_statement_conclusion_q8",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "Statement: All books are pages. Some pages are torn. Conclusions: I. Some books are torn. II. All torn things are books.",
+      "questionText": "Statement: All books are pages. Some pages are torn. Conclusions: I. Some books are torn. II. All torn things are books.",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Both follow",
+        "None follows"
+      ],
+      "correctAnswer": "Option (D)",
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Statement and Conclusion.",
+      "explanation": "The correct answer is Option (D). Applying the fundamental rules of Statement and Conclusion leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Statement and Conclusion.",
+        "Step 3: The correct answer is Option (D). Applying the fundamental rules of Statement and Conclusion leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Statement and Conclusion",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 3,
+      "sourcePdf": "Statement_and_Conclusion_Questions.pdf"
+    },
+    {
+      "id": "ssc_statement_conclusion_q9",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "Statement: Some chairs are tables. All tables are wooden. Conclusions: I. Some chairs are wooden. II. All wooden things are tables.",
+      "questionText": "Statement: Some chairs are tables. All tables are wooden. Conclusions: I. Some chairs are wooden. II. All wooden things are tables.",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Both follow",
+        "None follows"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Statement and Conclusion.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Statement and Conclusion leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Statement and Conclusion.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Statement and Conclusion leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Statement and Conclusion",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 3,
+      "sourcePdf": "Statement_and_Conclusion_Questions.pdf"
+    },
+    {
+      "id": "ssc_statement_conclusion_q10",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "Statement: All trains are fast. No bus is fast. Conclusions: I. No bus is train. II. All fast things are trains.",
+      "questionText": "Statement: All trains are fast. No bus is fast. Conclusions: I. No bus is train. II. All fast things are trains.",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Both follow",
+        "None follows"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Statement and Conclusion.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Statement and Conclusion leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Statement and Conclusion.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Statement and Conclusion leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Statement and Conclusion",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 4,
+      "sourcePdf": "Statement_and_Conclusion_Questions.pdf"
+    },
+    {
+      "id": "ssc_statement_conclusion_q11",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "Statement: Some computers are machines. All machines are tools. Conclusions: I. All tools are computers. II. Some computers are tools.",
+      "questionText": "Statement: Some computers are machines. All machines are tools. Conclusions: I. All tools are computers. II. Some computers are tools.",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Both follow",
+        "None follows"
+      ],
+      "correctAnswer": "Option (B)",
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Statement and Conclusion.",
+      "explanation": "The correct answer is Option (B). Applying the fundamental rules of Statement and Conclusion leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Statement and Conclusion.",
+        "Step 3: The correct answer is Option (B). Applying the fundamental rules of Statement and Conclusion leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Statement and Conclusion",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 4,
+      "sourcePdf": "Statement_and_Conclusion_Questions.pdf"
+    },
+    {
+      "id": "ssc_statement_conclusion_q12",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "Statement: Some boys are men. All men are strong. Conclusions: I. Some boys are strong. II. Some strong are boys.",
+      "questionText": "Statement: Some boys are men. All men are strong. Conclusions: I. Some boys are strong. II. Some strong are boys.",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Both follow",
+        "None follows"
+      ],
+      "correctAnswer": "Option (C)",
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Statement and Conclusion.",
+      "explanation": "The correct answer is Option (C). Applying the fundamental rules of Statement and Conclusion leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Statement and Conclusion.",
+        "Step 3: The correct answer is Option (C). Applying the fundamental rules of Statement and Conclusion leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Statement and Conclusion",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 4,
+      "sourcePdf": "Statement_and_Conclusion_Questions.pdf"
+    },
+    {
+      "id": "ssc_statement_conclusion_q13",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "Statement: All rivers flow. Some rivers are polluted. Conclusions: I. Some polluted things flow. II. All polluted things are rivers.",
+      "questionText": "Statement: All rivers flow. Some rivers are polluted. Conclusions: I. Some polluted things flow. II. All polluted things are rivers.",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Both follow",
+        "None follows"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Statement and Conclusion.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Statement and Conclusion leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Statement and Conclusion.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Statement and Conclusion leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Statement and Conclusion",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 4,
+      "sourcePdf": "Statement_and_Conclusion_Questions.pdf"
+    },
+    {
+      "id": "ssc_statement_conclusion_q14",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "Statement: No dog is cat. All cats are animals. Conclusions: I. No dog is animal. II. Some animals are not dogs.",
+      "questionText": "Statement: No dog is cat. All cats are animals. Conclusions: I. No dog is animal. II. Some animals are not dogs.",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Both follow",
+        "None follows"
+      ],
+      "correctAnswer": "Option (B)",
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Statement and Conclusion.",
+      "explanation": "The correct answer is Option (B). Applying the fundamental rules of Statement and Conclusion leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Statement and Conclusion.",
+        "Step 3: The correct answer is Option (B). Applying the fundamental rules of Statement and Conclusion leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Statement and Conclusion",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 5,
+      "sourcePdf": "Statement_and_Conclusion_Questions.pdf"
+    },
+    {
+      "id": "ssc_statement_conclusion_q15",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "Statement: Some people are honest. All honest are brave. Conclusions: I. Some brave are people. II. All brave are honest.",
+      "questionText": "Statement: Some people are honest. All honest are brave. Conclusions: I. Some brave are people. II. All brave are honest.",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Both follow",
+        "None follows"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Statement and Conclusion.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Statement and Conclusion leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Statement and Conclusion.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Statement and Conclusion leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Statement and Conclusion",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 5,
+      "sourcePdf": "Statement_and_Conclusion_Questions.pdf"
+    },
+    {
+      "id": "ssc_statement_conclusion_q16",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "Statement: All mobiles are gadgets. Some gadgets are laptops. Conclusions: I. Some mobiles are laptops. II. All laptops are mobiles.",
+      "questionText": "Statement: All mobiles are gadgets. Some gadgets are laptops. Conclusions: I. Some mobiles are laptops. II. All laptops are mobiles.",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Both follow",
+        "None follows"
+      ],
+      "correctAnswer": "Option (D)",
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Statement and Conclusion.",
+      "explanation": "The correct answer is Option (D). Applying the fundamental rules of Statement and Conclusion leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Statement and Conclusion.",
+        "Step 3: The correct answer is Option (D). Applying the fundamental rules of Statement and Conclusion leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Statement and Conclusion",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 5,
+      "sourcePdf": "Statement_and_Conclusion_Questions.pdf"
+    },
+    {
+      "id": "ssc_statement_conclusion_q17",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "Statement: Some teachers are readers. Some readers are writers. Conclusions: I. Some writers are teachers. II. Some teachers are writers.",
+      "questionText": "Statement: Some teachers are readers. Some readers are writers. Conclusions: I. Some writers are teachers. II. Some teachers are writers.",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Both follow",
+        "None follows"
+      ],
+      "correctAnswer": "Option (D)",
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Statement and Conclusion.",
+      "explanation": "The correct answer is Option (D). Applying the fundamental rules of Statement and Conclusion leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Statement and Conclusion.",
+        "Step 3: The correct answer is Option (D). Applying the fundamental rules of Statement and Conclusion leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Statement and Conclusion",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 5,
+      "sourcePdf": "Statement_and_Conclusion_Questions.pdf"
+    },
+    {
+      "id": "ssc_statement_conclusion_q18",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "Statement: All bags are plastic. Some plastic is harmful. Conclusions: I. Some bags are harmful. II. All harmful things are bags.",
+      "questionText": "Statement: All bags are plastic. Some plastic is harmful. Conclusions: I. Some bags are harmful. II. All harmful things are bags.",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Both follow",
+        "None follows"
+      ],
+      "correctAnswer": "Option (D)",
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Statement and Conclusion.",
+      "explanation": "The correct answer is Option (D). Applying the fundamental rules of Statement and Conclusion leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Statement and Conclusion.",
+        "Step 3: The correct answer is Option (D). Applying the fundamental rules of Statement and Conclusion leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Statement and Conclusion",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 5,
+      "sourcePdf": "Statement_and_Conclusion_Questions.pdf"
+    },
+    {
+      "id": "ssc_statement_conclusion_q19",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "Statement: No student is lazy. All lazy are failures. Conclusions: I. No student is failure. II. All failures are lazy.",
+      "questionText": "Statement: No student is lazy. All lazy are failures. Conclusions: I. No student is failure. II. All failures are lazy.",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Both follow",
+        "None follows"
+      ],
+      "correctAnswer": "Option (D)",
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Statement and Conclusion.",
+      "explanation": "The correct answer is Option (D). Applying the fundamental rules of Statement and Conclusion leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Statement and Conclusion.",
+        "Step 3: The correct answer is Option (D). Applying the fundamental rules of Statement and Conclusion leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Statement and Conclusion",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 5,
+      "sourcePdf": "Statement_and_Conclusion_Questions.pdf"
+    },
+    {
+      "id": "ssc_statement_conclusion_q20",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "Statement: All cars are vehicles. Some vehicles are expensive. Conclusions: I. Some cars are expensive. II. Some expensive things are vehicles.",
+      "questionText": "Statement: All cars are vehicles. Some vehicles are expensive. Conclusions: I. Some cars are expensive. II. Some expensive things are vehicles.",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Both follow",
+        "None follows"
+      ],
+      "correctAnswer": "Option (B)",
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Statement and Conclusion.",
+      "explanation": "The correct answer is Option (B). Applying the fundamental rules of Statement and Conclusion leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Statement and Conclusion.",
+        "Step 3: The correct answer is Option (B). Applying the fundamental rules of Statement and Conclusion leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Statement and Conclusion",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 6,
+      "sourcePdf": "Statement_and_Conclusion_Questions.pdf"
+    },
+    {
+      "id": "ssc_statement_conclusion_q21",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "Statement: Some keys are locks. All locks are metal. Conclusions: I. Some keys are metal. II. Some metal are keys.",
+      "questionText": "Statement: Some keys are locks. All locks are metal. Conclusions: I. Some keys are metal. II. Some metal are keys.",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Both follow",
+        "None follows"
+      ],
+      "correctAnswer": "Option (C)",
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Statement and Conclusion.",
+      "explanation": "The correct answer is Option (C). Applying the fundamental rules of Statement and Conclusion leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Statement and Conclusion.",
+        "Step 3: The correct answer is Option (C). Applying the fundamental rules of Statement and Conclusion leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Statement and Conclusion",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 6,
+      "sourcePdf": "Statement_and_Conclusion_Questions.pdf"
+    },
+    {
+      "id": "ssc_statement_conclusion_q22",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "Statement: No flower is fruit. All fruits are sweet. Conclusions: I. No flower is sweet. II. Some sweets are fruits.",
+      "questionText": "Statement: No flower is fruit. All fruits are sweet. Conclusions: I. No flower is sweet. II. Some sweets are fruits.",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Both follow",
+        "None follows"
+      ],
+      "correctAnswer": "Option (B)",
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Statement and Conclusion.",
+      "explanation": "The correct answer is Option (B). Applying the fundamental rules of Statement and Conclusion leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Statement and Conclusion.",
+        "Step 3: The correct answer is Option (B). Applying the fundamental rules of Statement and Conclusion leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Statement and Conclusion",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 6,
+      "sourcePdf": "Statement_and_Conclusion_Questions.pdf"
+    },
+    {
+      "id": "ssc_statement_conclusion_q23",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "Statement: All actors are artists. Some artists are dancers. Conclusions: I. Some actors are dancers. II. All dancers are actors.",
+      "questionText": "Statement: All actors are artists. Some artists are dancers. Conclusions: I. Some actors are dancers. II. All dancers are actors.",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Both follow",
+        "None follows"
+      ],
+      "correctAnswer": "Option (D)",
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Statement and Conclusion.",
+      "explanation": "The correct answer is Option (D). Applying the fundamental rules of Statement and Conclusion leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Statement and Conclusion.",
+        "Step 3: The correct answer is Option (D). Applying the fundamental rules of Statement and Conclusion leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Statement and Conclusion",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 6,
+      "sourcePdf": "Statement_and_Conclusion_Questions.pdf"
+    },
+    {
+      "id": "ssc_statement_conclusion_q24",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "Statement: Some trees are green. All green things are plants. Conclusions: I. Some trees are plants. II. All trees are green.",
+      "questionText": "Statement: Some trees are green. All green things are plants. Conclusions: I. Some trees are plants. II. All trees are green.",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Both follow",
+        "None follows"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Statement and Conclusion.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Statement and Conclusion leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Statement and Conclusion.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Statement and Conclusion leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Statement and Conclusion",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 8,
+      "sourcePdf": "Statement_and_Conclusion_Questions.pdf"
+    },
+    {
+      "id": "ssc_statement_conclusion_q25",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "Statement: All engineers are hardworking. Some hardworking are successful. Conclusions: I. Some engineers are successful. II. Some successful are engineers.",
+      "questionText": "Statement: All engineers are hardworking. Some hardworking are successful. Conclusions: I. Some engineers are successful. II. Some successful are engineers.",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Both follow",
+        "None follows"
+      ],
+      "correctAnswer": "Option (D)",
+      "correctIndex": 3,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Statement and Conclusion.",
+      "explanation": "The correct answer is Option (D). Applying the fundamental rules of Statement and Conclusion leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Statement and Conclusion.",
+        "Step 3: The correct answer is Option (D). Applying the fundamental rules of Statement and Conclusion leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Statement and Conclusion",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 8,
+      "sourcePdf": "Statement_and_Conclusion_Questions.pdf"
+    },
+    {
+      "id": "ssc_statement_conclusion_q26",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "Statement: Some bottles are glass. All glass is breakable. Conclusions: I. Some bottles are breakable. II. All breakable are bottles.",
+      "questionText": "Statement: Some bottles are glass. All glass is breakable. Conclusions: I. Some bottles are breakable. II. All breakable are bottles.",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Both follow",
+        "None follows"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Statement and Conclusion.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Statement and Conclusion leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Statement and Conclusion.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Statement and Conclusion leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Statement and Conclusion",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 8,
+      "sourcePdf": "Statement_and_Conclusion_Questions.pdf"
+    },
+    {
+      "id": "ssc_statement_conclusion_q27",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "Statement: All papers are pens. No pen is an eraser. Conclusions: I. No paper is an eraser. II. Some pens are papers.",
+      "questionText": "Statement: All papers are pens. No pen is an eraser. Conclusions: I. No paper is an eraser. II. Some pens are papers.",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Both I and II follow",
+        "Neither I nor II follows"
+      ],
+      "correctAnswer": "Option (C)",
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Statement and Conclusion.",
+      "explanation": "The correct answer is Option (C). Applying the fundamental rules of Statement and Conclusion leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Statement and Conclusion.",
+        "Step 3: The correct answer is Option (C). Applying the fundamental rules of Statement and Conclusion leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Statement and Conclusion",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 8,
+      "sourcePdf": "Statement_and_Conclusion_Questions.pdf"
+    },
+    {
+      "id": "ssc_statement_conclusion_q28",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "Statement: Some birds are flying. All flying things have wings. Conclusions: I. Some birds have wings. II. All wings belong to birds.",
+      "questionText": "Statement: Some birds are flying. All flying things have wings. Conclusions: I. Some birds have wings. II. All wings belong to birds.",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Both follow",
+        "None follows"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Statement and Conclusion.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Statement and Conclusion leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Statement and Conclusion.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Statement and Conclusion leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Statement and Conclusion",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 8,
+      "sourcePdf": "Statement_and_Conclusion_Questions.pdf"
+    },
+    {
+      "id": "ssc_statement_conclusion_q29",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "Statement: All bottles are containers. No container is plastic. Conclusions: I. No bottle is plastic. II. Some containers are bottles.",
+      "questionText": "Statement: All bottles are containers. No container is plastic. Conclusions: I. No bottle is plastic. II. Some containers are bottles.",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Both follow",
+        "None follows"
+      ],
+      "correctAnswer": "Option (C)",
+      "correctIndex": 2,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Statement and Conclusion.",
+      "explanation": "The correct answer is Option (C). Applying the fundamental rules of Statement and Conclusion leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Statement and Conclusion.",
+        "Step 3: The correct answer is Option (C). Applying the fundamental rules of Statement and Conclusion leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Statement and Conclusion",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 8,
+      "sourcePdf": "Statement_and_Conclusion_Questions.pdf"
+    },
+    {
+      "id": "ssc_statement_conclusion_q30",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "Statement: Some men are rich. No rich man is poor. Conclusions: I. No man is poor. II. Some men are not poor.",
+      "questionText": "Statement: Some men are rich. No rich man is poor. Conclusions: I. No man is poor. II. Some men are not poor.",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Both follow",
+        "None follows"
+      ],
+      "correctAnswer": "Option (B)",
+      "correctIndex": 1,
+      "difficulty": "easy",
+      "hint": "Focus on standard concepts and formulas of Statement and Conclusion.",
+      "explanation": "The correct answer is Option (B). Applying the fundamental rules of Statement and Conclusion leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Statement and Conclusion.",
+        "Step 3: The correct answer is Option (B). Applying the fundamental rules of Statement and Conclusion leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Statement and Conclusion",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 9,
+      "sourcePdf": "Statement_and_Conclusion_Questions.pdf"
+    },
+    {
+      "id": "ssc_statement_conclusion_q31",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "Statement: All buses are trucks. All trucks are vehicles. Conclusions: I. All buses are vehicles. II. All vehicles are buses.",
+      "questionText": "Statement: All buses are trucks. All trucks are vehicles. Conclusions: I. All buses are vehicles. II. All vehicles are buses.",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Both follow",
+        "None follows"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Statement and Conclusion.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Statement and Conclusion leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Statement and Conclusion.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Statement and Conclusion leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Statement and Conclusion",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 9,
+      "sourcePdf": "Statement_and_Conclusion_Questions.pdf"
+    },
+    {
+      "id": "ssc_statement_conclusion_q32",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "Statement: Some mobiles are phones. All phones are devices. Conclusions: I. Some devices are mobiles. II. All devices are phones.",
+      "questionText": "Statement: Some mobiles are phones. All phones are devices. Conclusions: I. Some devices are mobiles. II. All devices are phones.",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Both follow",
+        "None follows"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Statement and Conclusion.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Statement and Conclusion leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Statement and Conclusion.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Statement and Conclusion leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Statement and Conclusion",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 9,
+      "sourcePdf": "Statement_and_Conclusion_Questions.pdf"
+    },
+    {
+      "id": "ssc_statement_conclusion_q33",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "Statement: All cups are plates. Some plates are bowls. Conclusions: I. Some cups are bowls. II. Some bowls are plates.",
+      "questionText": "Statement: All cups are plates. Some plates are bowls. Conclusions: I. Some cups are bowls. II. Some bowls are plates.",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Both follow",
+        "None follows"
+      ],
+      "correctAnswer": "Option (B)",
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Statement and Conclusion.",
+      "explanation": "The correct answer is Option (B). Applying the fundamental rules of Statement and Conclusion leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Statement and Conclusion.",
+        "Step 3: The correct answer is Option (B). Applying the fundamental rules of Statement and Conclusion leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Statement and Conclusion",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 9,
+      "sourcePdf": "Statement_and_Conclusion_Questions.pdf"
+    },
+    {
+      "id": "ssc_statement_conclusion_q34",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "Statement: Some birds are black. All black are crows. Conclusions: I. Some crows are birds. II. Some birds are crows.",
+      "questionText": "Statement: Some birds are black. All black are crows. Conclusions: I. Some crows are birds. II. Some birds are crows.",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Both follow",
+        "None follows"
+      ],
+      "correctAnswer": "Option (C)",
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Statement and Conclusion.",
+      "explanation": "The correct answer is Option (C). Applying the fundamental rules of Statement and Conclusion leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Statement and Conclusion.",
+        "Step 3: The correct answer is Option (C). Applying the fundamental rules of Statement and Conclusion leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Statement and Conclusion",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 10,
+      "sourcePdf": "Statement_and_Conclusion_Questions.pdf"
+    },
+    {
+      "id": "ssc_statement_conclusion_q35",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "Statement: All soldiers are brave. Some brave are strong. Conclusions: I. Some soldiers are strong. II. All strong are brave.",
+      "questionText": "Statement: All soldiers are brave. Some brave are strong. Conclusions: I. Some soldiers are strong. II. All strong are brave.",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Both follow",
+        "None follows"
+      ],
+      "correctAnswer": "Option (D)",
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Statement and Conclusion.",
+      "explanation": "The correct answer is Option (D). Applying the fundamental rules of Statement and Conclusion leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Statement and Conclusion.",
+        "Step 3: The correct answer is Option (D). Applying the fundamental rules of Statement and Conclusion leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Statement and Conclusion",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 10,
+      "sourcePdf": "Statement_and_Conclusion_Questions.pdf"
+    },
+    {
+      "id": "ssc_statement_conclusion_q36",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "Statement: No mango is apple. Some apples are sweet. Conclusions: I. Some mangoes are sweet. II. Some sweets are not mangoes.",
+      "questionText": "Statement: No mango is apple. Some apples are sweet. Conclusions: I. Some mangoes are sweet. II. Some sweets are not mangoes.",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Both follow",
+        "None follows"
+      ],
+      "correctAnswer": "Option (B)",
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Statement and Conclusion.",
+      "explanation": "The correct answer is Option (B). Applying the fundamental rules of Statement and Conclusion leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Statement and Conclusion.",
+        "Step 3: The correct answer is Option (B). Applying the fundamental rules of Statement and Conclusion leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Statement and Conclusion",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 10,
+      "sourcePdf": "Statement_and_Conclusion_Questions.pdf"
+    },
+    {
+      "id": "ssc_statement_conclusion_q37",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "Statement: All cats are animals. Some animals are wild. Conclusions: I. Some cats are wild. II. Some wild are animals.",
+      "questionText": "Statement: All cats are animals. Some animals are wild. Conclusions: I. Some cats are wild. II. Some wild are animals.",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Both follow",
+        "None follows"
+      ],
+      "correctAnswer": "Option (B)",
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Statement and Conclusion.",
+      "explanation": "The correct answer is Option (B). Applying the fundamental rules of Statement and Conclusion leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Statement and Conclusion.",
+        "Step 3: The correct answer is Option (B). Applying the fundamental rules of Statement and Conclusion leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Statement and Conclusion",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 10,
+      "sourcePdf": "Statement_and_Conclusion_Questions.pdf"
+    },
+    {
+      "id": "ssc_statement_conclusion_q38",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "Statement: Some lamps are bulbs. All bulbs are lights. Conclusions: I. Some lamps are lights. II. All lights are bulbs.",
+      "questionText": "Statement: Some lamps are bulbs. All bulbs are lights. Conclusions: I. Some lamps are lights. II. All lights are bulbs.",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Both follow",
+        "None follows"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Statement and Conclusion.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Statement and Conclusion leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Statement and Conclusion.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Statement and Conclusion leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Statement and Conclusion",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 10,
+      "sourcePdf": "Statement_and_Conclusion_Questions.pdf"
+    },
+    {
+      "id": "ssc_statement_conclusion_q39",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "Statement: No pen is pencil. All pencils are sharp. Conclusions: I. No pen is sharp. II. Some sharp are pencils.",
+      "questionText": "Statement: No pen is pencil. All pencils are sharp. Conclusions: I. No pen is sharp. II. Some sharp are pencils.",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Both follow",
+        "None follows"
+      ],
+      "correctAnswer": "Option (B)",
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Statement and Conclusion.",
+      "explanation": "The correct answer is Option (B). Applying the fundamental rules of Statement and Conclusion leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Statement and Conclusion.",
+        "Step 3: The correct answer is Option (B). Applying the fundamental rules of Statement and Conclusion leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Statement and Conclusion",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 10,
+      "sourcePdf": "Statement_and_Conclusion_Questions.pdf"
+    },
+    {
+      "id": "ssc_statement_conclusion_q40",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "Statement: All squares are rectangles. All rectangles are shapes. Conclusions: I. All squares are shapes. II. All shapes are rectangles.",
+      "questionText": "Statement: All squares are rectangles. All rectangles are shapes. Conclusions: I. All squares are shapes. II. All shapes are rectangles.",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Both follow",
+        "None follows"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Statement and Conclusion.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Statement and Conclusion leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Statement and Conclusion.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Statement and Conclusion leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Statement and Conclusion",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 11,
+      "sourcePdf": "Statement_and_Conclusion_Questions.pdf"
+    },
+    {
+      "id": "ssc_statement_conclusion_q41",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "Statement: Some girls are students. Some students are dancers. Conclusions: I. Some dancers are girls. II. Some students are girls.",
+      "questionText": "Statement: Some girls are students. Some students are dancers. Conclusions: I. Some dancers are girls. II. Some students are girls.",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Both follow",
+        "None follows"
+      ],
+      "correctAnswer": "Option (B)",
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Statement and Conclusion.",
+      "explanation": "The correct answer is Option (B). Applying the fundamental rules of Statement and Conclusion leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Statement and Conclusion.",
+        "Step 3: The correct answer is Option (B). Applying the fundamental rules of Statement and Conclusion leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Statement and Conclusion",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 11,
+      "sourcePdf": "Statement_and_Conclusion_Questions.pdf"
+    },
+    {
+      "id": "ssc_statement_conclusion_q42",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "Statement: All fans are electric. Some electric things are costly. Conclusions: I. Some fans are costly. II. All costly are electric.",
+      "questionText": "Statement: All fans are electric. Some electric things are costly. Conclusions: I. Some fans are costly. II. All costly are electric.",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Both follow",
+        "None follows"
+      ],
+      "correctAnswer": "Option (D)",
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Statement and Conclusion.",
+      "explanation": "The correct answer is Option (D). Applying the fundamental rules of Statement and Conclusion leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Statement and Conclusion.",
+        "Step 3: The correct answer is Option (D). Applying the fundamental rules of Statement and Conclusion leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Statement and Conclusion",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 11,
+      "sourcePdf": "Statement_and_Conclusion_Questions.pdf"
+    },
+    {
+      "id": "ssc_statement_conclusion_q43",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "Statement: No stone is diamond. All diamonds are precious. Conclusions: I. No stone is precious. II. Some precious things are diamonds.",
+      "questionText": "Statement: No stone is diamond. All diamonds are precious. Conclusions: I. No stone is precious. II. Some precious things are diamonds.",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Both follow",
+        "None follows"
+      ],
+      "correctAnswer": "Option (B)",
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Statement and Conclusion.",
+      "explanation": "The correct answer is Option (B). Applying the fundamental rules of Statement and Conclusion leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Statement and Conclusion.",
+        "Step 3: The correct answer is Option (B). Applying the fundamental rules of Statement and Conclusion leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Statement and Conclusion",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 11,
+      "sourcePdf": "Statement_and_Conclusion_Questions.pdf"
+    },
+    {
+      "id": "ssc_statement_conclusion_q44",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "Statement: All rooms are halls. No hall is kitchen. Conclusions: I. No room is kitchen. II. Some halls are rooms.",
+      "questionText": "Statement: All rooms are halls. No hall is kitchen. Conclusions: I. No room is kitchen. II. Some halls are rooms.",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Both follow",
+        "None follows"
+      ],
+      "correctAnswer": "Option (C)",
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Statement and Conclusion.",
+      "explanation": "The correct answer is Option (C). Applying the fundamental rules of Statement and Conclusion leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Statement and Conclusion.",
+        "Step 3: The correct answer is Option (C). Applying the fundamental rules of Statement and Conclusion leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Statement and Conclusion",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 12,
+      "sourcePdf": "Statement_and_Conclusion_Questions.pdf"
+    },
+    {
+      "id": "ssc_statement_conclusion_q45",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "Statement: Some boys are tall. Some tall are athletes. Conclusions: I. Some boys are athletes. II. Some athletes are boys.",
+      "questionText": "Statement: Some boys are tall. Some tall are athletes. Conclusions: I. Some boys are athletes. II. Some athletes are boys.",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Both follow",
+        "None follows"
+      ],
+      "correctAnswer": "Option (D)",
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Statement and Conclusion.",
+      "explanation": "The correct answer is Option (D). Applying the fundamental rules of Statement and Conclusion leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Statement and Conclusion.",
+        "Step 3: The correct answer is Option (D). Applying the fundamental rules of Statement and Conclusion leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Statement and Conclusion",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 12,
+      "sourcePdf": "Statement_and_Conclusion_Questions.pdf"
+    },
+    {
+      "id": "ssc_statement_conclusion_q46",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "Statement: All roses are flowers. Some flowers are yellow. Conclusions: I. Some roses are yellow. II. Some yellow are roses.",
+      "questionText": "Statement: All roses are flowers. Some flowers are yellow. Conclusions: I. Some roses are yellow. II. Some yellow are roses.",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Both follow",
+        "None follows"
+      ],
+      "correctAnswer": "Option (D)",
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Statement and Conclusion.",
+      "explanation": "The correct answer is Option (D). Applying the fundamental rules of Statement and Conclusion leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Statement and Conclusion.",
+        "Step 3: The correct answer is Option (D). Applying the fundamental rules of Statement and Conclusion leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Statement and Conclusion",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 12,
+      "sourcePdf": "Statement_and_Conclusion_Questions.pdf"
+    },
+    {
+      "id": "ssc_statement_conclusion_q47",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "Statement: No pen is blue. All blue are ink. Conclusions: I. Some ink are blue. II. No pen is ink.",
+      "questionText": "Statement: No pen is blue. All blue are ink. Conclusions: I. Some ink are blue. II. No pen is ink.",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Both follow",
+        "None follows"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Statement and Conclusion.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Statement and Conclusion leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Statement and Conclusion.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Statement and Conclusion leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Statement and Conclusion",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 12,
+      "sourcePdf": "Statement_and_Conclusion_Questions.pdf"
+    },
+    {
+      "id": "ssc_statement_conclusion_q48",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "Statement: All cars are vehicles. Some vehicles are buses. Conclusions: I. Some buses are cars. II. Some cars are buses.",
+      "questionText": "Statement: All cars are vehicles. Some vehicles are buses. Conclusions: I. Some buses are cars. II. Some cars are buses.",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Both follow",
+        "None follows"
+      ],
+      "correctAnswer": "Option (D)",
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Statement and Conclusion.",
+      "explanation": "The correct answer is Option (D). Applying the fundamental rules of Statement and Conclusion leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Statement and Conclusion.",
+        "Step 3: The correct answer is Option (D). Applying the fundamental rules of Statement and Conclusion leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Statement and Conclusion",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 12,
+      "sourcePdf": "Statement_and_Conclusion_Questions.pdf"
+    },
+    {
+      "id": "ssc_statement_conclusion_q49",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "Statement: Some cups are glasses. All glasses are transparent. Conclusions: I. Some cups are transparent. II. All transparent are glasses.",
+      "questionText": "Statement: Some cups are glasses. All glasses are transparent. Conclusions: I. Some cups are transparent. II. All transparent are glasses.",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Both follow",
+        "None follows"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Statement and Conclusion.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Statement and Conclusion leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Statement and Conclusion.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Statement and Conclusion leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Statement and Conclusion",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 12,
+      "sourcePdf": "Statement_and_Conclusion_Questions.pdf"
+    },
+    {
+      "id": "ssc_statement_conclusion_q50",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "Statement: No table is chair. Some chairs are wooden. Conclusions: I. Some wooden are not tables. II. All tables are wooden.",
+      "questionText": "Statement: No table is chair. Some chairs are wooden. Conclusions: I. Some wooden are not tables. II. All tables are wooden.",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Both follow",
+        "None follows"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Focus on standard concepts and formulas of Statement and Conclusion.",
+      "explanation": "The correct answer is Option (A). Applying the fundamental rules of Statement and Conclusion leads to this result.",
+      "solutionSteps": [
+        "Step 1: Identify the given information in the problem.",
+        "Step 2: Apply the logical deduction rules for Statement and Conclusion.",
+        "Step 3: The correct answer is Option (A). Applying the fundamental rules of Statement and Conclusion leads to this result."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Statement and Conclusion",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts"
+      ],
+      "pageNumber": 13,
+      "sourcePdf": "Statement_and_Conclusion_Questions.pdf"
+    },
+    {
+      "id": "gossc_500_q317",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "Here are some words translated from an arti- ﬁcial language. gemolinea means fair warning gerimitu means report card gilageri means weather report Which word could mean “fair weather?”",
+      "questionText": "Here are some words translated from an arti- ﬁcial language. gemolinea means fair warning gerimitu means report card gilageri means weather report Which word could mean “fair weather?”",
+      "options": [
+        "gemogila",
+        "gerigeme",
+        "gemomitu",
+        "gerimita"
+      ],
+      "correctAnswer": "gemogila",
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "hint": "Examine the core structural rule for Verbal Reasoning.",
+      "explanation": "Gemo means fair; linea means warning; geri means report; mitu means card; and gila means weather. Thus, gemogila is the correct choice.",
+      "solutionSteps": [
+        "Step 1: Read the condition and isolate the logical premise.",
+        "Step 2: Test each option against the constraints.",
+        "Step 3: Gemo means fair; linea means warning; geri means report; mitu means card; and gila means weather. Thus, gemogila is the correct choice."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Verbal Reasoning",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_cpo"
+      ],
+      "pageNumber": 57,
+      "sourcePdf": "500-Reasoning-Problems-GOSSC.in_.pdf"
+    },
+    {
+      "id": "gossc_500_q318",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "Here are some words translated from an arti- ﬁcial language. aptaose means ﬁrst base eptaose means second base lartabuk means ballpark Which word could mean “baseball”?",
+      "questionText": "Here are some words translated from an arti- ﬁcial language. aptaose means ﬁrst base eptaose means second base lartabuk means ballpark Which word could mean “baseball”?",
+      "options": [
+        "buklarta",
+        "oseepta",
+        "bukose",
+        "oselarta"
+      ],
+      "correctAnswer": "oselarta",
+      "correctIndex": 3,
+      "difficulty": "hard",
+      "hint": "Examine the core structural rule for Verbal Reasoning.",
+      "explanation": "Apta means ﬁrst; ose means base; epta means second; larta means ball; and buk means park. Thus, oselarta means baseball.",
+      "solutionSteps": [
+        "Step 1: Read the condition and isolate the logical premise.",
+        "Step 2: Test each option against the constraints.",
+        "Step 3: Apta means ﬁrst; ose means base; epta means second; larta means ball; and buk means park. Thus, oselarta means baseball."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Verbal Reasoning",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_cpo"
+      ],
+      "pageNumber": 57,
+      "sourcePdf": "500-Reasoning-Problems-GOSSC.in_.pdf"
+    },
+    {
+      "id": "gossc_500_q319",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "Here are some words translated from an arti- ﬁcial language. relftaga means carefree otaga means careful fertaga means careless Which word could mean “aftercare”?",
+      "questionText": "Here are some words translated from an arti- ﬁcial language. relftaga means carefree otaga means careful fertaga means careless Which word could mean “aftercare”?",
+      "options": [
+        "zentaga",
+        "tagafer",
+        "tagazen",
+        "relffer"
+      ],
+      "correctAnswer": "tagazen",
+      "correctIndex": 2,
+      "difficulty": "hard",
+      "hint": "Examine the core structural rule for Verbal Reasoning.",
+      "explanation": "In this language, the root word taga, which means care, follows the afﬁx (relf, o–, or fer–). Therefore, in the word aftercare, the root word and the afﬁx would be reversed in the artiﬁcial language. The only choice, then, is tagazen, because tagafer would mean less care.",
+      "solutionSteps": [
+        "Step 1: Read the condition and isolate the logical premise.",
+        "Step 2: Test each option against the constraints.",
+        "Step 3: In this language, the root word taga, which means care, follows the afﬁx (relf, o–, or fer–). Therefore, in the word aftercare, the root word and the afﬁx would be reversed in the artiﬁcial language. The only choice, then, is tagazen, because tagafer would mean less care."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Verbal Reasoning",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_cpo"
+      ],
+      "pageNumber": 57,
+      "sourcePdf": "500-Reasoning-Problems-GOSSC.in_.pdf"
+    },
+    {
+      "id": "gossc_500_q320",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "Here are some words translated from an arti- ﬁcial language. malgauper means peach cobbler malgaport means peach juice moggagrop means apple jelly Which word could mean “apple juice”?",
+      "questionText": "Here are some words translated from an arti- ﬁcial language. malgauper means peach cobbler malgaport means peach juice moggagrop means apple jelly Which word could mean “apple juice”?",
+      "options": [
+        "moggaport",
+        "malgaauper",
+        "gropport",
+        "moggagrop"
+      ],
+      "correctAnswer": "moggaport",
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "hint": "Examine the core structural rule for Verbal Reasoning.",
+      "explanation": "Malga means peach; uper means cobbler; port means juice; mogga means apple; and grop means jelly. Therefore, moggaport means apple juice. 121 \u0002 Set 20 (Page 48)",
+      "solutionSteps": [
+        "Step 1: Read the condition and isolate the logical premise.",
+        "Step 2: Test each option against the constraints.",
+        "Step 3: Malga means peach; uper means cobbler; port means juice; mogga means apple; and grop means jelly. Therefore, moggaport means apple juice. 121 \u0002 Set 20 (Page 48)"
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Verbal Reasoning",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_cpo"
+      ],
+      "pageNumber": 57,
+      "sourcePdf": "500-Reasoning-Problems-GOSSC.in_.pdf"
+    },
+    {
+      "id": "gossc_500_q321",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "Violating an Apartment Lease occurs when a tenant does something prohibited by the legally binding document that he or she has signed with a landlord. Which situation below is the best example of Violating an Apartment Lease?",
+      "questionText": "Violating an Apartment Lease occurs when a tenant does something prohibited by the legally binding document that he or she has signed with a landlord. Which situation below is the best example of Violating an Apartment Lease?",
+      "options": [
+        "Tim has decided to move to another city, so",
+        "Valerie recently lost her job and, for the last",
+        "Mark writes a letter to his landlord that lists",
+        "Leslie thinks that her landlord is neglecting"
+      ],
+      "correctAnswer": "Valerie recently lost her job and, for the last",
+      "correctIndex": 1,
+      "difficulty": "hard",
+      "hint": "Examine the core structural rule for Verbal Reasoning.",
+      "explanation": "Valerie signed a legally binding document that requires her to pay a monthly rent for her apart- ment and she has failed to do this for the last three months. Therefore, she has violated her apartment lease.",
+      "solutionSteps": [
+        "Step 1: Read the condition and isolate the logical premise.",
+        "Step 2: Test each option against the constraints.",
+        "Step 3: Valerie signed a legally binding document that requires her to pay a monthly rent for her apart- ment and she has failed to do this for the last three months. Therefore, she has violated her apartment lease."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Verbal Reasoning",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_cpo"
+      ],
+      "pageNumber": 58,
+      "sourcePdf": "500-Reasoning-Problems-GOSSC.in_.pdf"
+    },
+    {
+      "id": "gossc_500_q322",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "It is appropriate to compensate someone if you have damaged his or her property in some way. This is called Restitution. Which situation below is the best example of Restitution?",
+      "questionText": "It is appropriate to compensate someone if you have damaged his or her property in some way. This is called Restitution. Which situation below is the best example of Restitution?",
+      "options": [
+        "Jake borrows Leslie’s camera and the lens",
+        "Rebecca borrows her neighbor’s car, and",
+        "Aaron asks Tom to check in on his apart-",
+        "Lisa suspects that the pothole in her com-"
+      ],
+      "correctAnswer": "Jake borrows Leslie’s camera and the lens",
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "hint": "Examine the core structural rule for Verbal Reasoning.",
+      "explanation": "Jake damaged Leslie’s camera while it was in his possession and he has agreed to compensate Leslie for the cost of the repair.",
+      "solutionSteps": [
+        "Step 1: Read the condition and isolate the logical premise.",
+        "Step 2: Test each option against the constraints.",
+        "Step 3: Jake damaged Leslie’s camera while it was in his possession and he has agreed to compensate Leslie for the cost of the repair."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Verbal Reasoning",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_cpo"
+      ],
+      "pageNumber": 58,
+      "sourcePdf": "500-Reasoning-Problems-GOSSC.in_.pdf"
+    },
+    {
+      "id": "gossc_500_q323",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "People speculate when they consider a situa- tion and assume something to be true based on inconclusive evidence. Which situation below is the best example of Speculation?",
+      "questionText": "People speculate when they consider a situa- tion and assume something to be true based on inconclusive evidence. Which situation below is the best example of Speculation?",
+      "options": [
+        "Francine decides that it would be appropri-",
+        "Mary spends thirty minutes sitting in trafﬁc",
+        "After consulting several guidebooks and her",
+        "When Emily opens the door in tears, Theo"
+      ],
+      "correctAnswer": "When Emily opens the door in tears, Theo",
+      "correctIndex": 3,
+      "difficulty": "hard",
+      "hint": "Examine the core structural rule for Verbal Reasoning.",
+      "explanation": "This is the only situation in which someone makes an assumption that is not based on con- clusive evidence. Choices a and c reﬂect situa- tions in which assumptions are made based on evidence. In choice b, Mary is not assuming anything to be true. She is simply wishing that she’d made a different decision.",
+      "solutionSteps": [
+        "Step 1: Read the condition and isolate the logical premise.",
+        "Step 2: Test each option against the constraints.",
+        "Step 3: This is the only situation in which someone makes an assumption that is not based on con- clusive evidence. Choices a and c reﬂect situa- tions in which assumptions are made based on evidence. In choice b, Mary is not assuming anything to be true. She is simply wishing that she’d made a different decision."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Verbal Reasoning",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_cpo"
+      ],
+      "pageNumber": 58,
+      "sourcePdf": "500-Reasoning-Problems-GOSSC.in_.pdf"
+    },
+    {
+      "id": "gossc_500_q324",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "A Guarantee is a promise or assurance that attests to the quality of a product that is either (1) given in writing by the manufac- turer or (2) given verbally by the person sell- ing the product. Which situation below is the best example of a Guarantee?",
+      "questionText": "A Guarantee is a promise or assurance that attests to the quality of a product that is either (1) given in writing by the manufac- turer or (2) given verbally by the person sell- ing the product. Which situation below is the best example of a Guarantee?",
+      "options": [
+        "Melissa purchases a DVD player with the",
+        "The salesperson advises Curt to be sure that",
+        "The local auto body shop specializes in",
+        "Lori buys a used digital camera from her"
+      ],
+      "correctAnswer": "Lori buys a used digital camera from her",
+      "correctIndex": 3,
+      "difficulty": "hard",
+      "hint": "Examine the core structural rule for Verbal Reasoning.",
+      "explanation": "Choices a, b, and c do not describe situations in which a product is guaranteed. Only choice d reﬂects a situation in which a seller attests to the quality of a product by giving the buyer a promise or assurance about its quality.",
+      "solutionSteps": [
+        "Step 1: Read the condition and isolate the logical premise.",
+        "Step 2: Test each option against the constraints.",
+        "Step 3: Choices a, b, and c do not describe situations in which a product is guaranteed. Only choice d reﬂects a situation in which a seller attests to the quality of a product by giving the buyer a promise or assurance about its quality."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Verbal Reasoning",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_cpo"
+      ],
+      "pageNumber": 59,
+      "sourcePdf": "500-Reasoning-Problems-GOSSC.in_.pdf"
+    },
+    {
+      "id": "gossc_500_q325",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "Reentry occurs when a person leaves his or her social system for a period of time and then returns. Which situation below best describes Reentry?",
+      "questionText": "Reentry occurs when a person leaves his or her social system for a period of time and then returns. Which situation below best describes Reentry?",
+      "options": [
+        "When he is offered a better paying position,",
+        "Catherine is spending her junior year of",
+        "Malcolm is readjusting to civilian life after",
+        "After several miserable months, Sharon"
+      ],
+      "correctAnswer": "Malcolm is readjusting to civilian life after",
+      "correctIndex": 2,
+      "difficulty": "hard",
+      "hint": "Examine the core structural rule for Verbal Reasoning.",
+      "explanation": "Malcolm is the only person returning to a social system that he has been away from for an extended period of time.",
+      "solutionSteps": [
+        "Step 1: Read the condition and isolate the logical premise.",
+        "Step 2: Test each option against the constraints.",
+        "Step 3: Malcolm is the only person returning to a social system that he has been away from for an extended period of time."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Verbal Reasoning",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_cpo"
+      ],
+      "pageNumber": 59,
+      "sourcePdf": "500-Reasoning-Problems-GOSSC.in_.pdf"
+    },
+    {
+      "id": "gossc_500_q326",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "Embellishing the Truth occurs when a per- son adds ﬁctitious details or exaggerates facts or true stories. Which situation below is the best example of Embellishing the Truth?",
+      "questionText": "Embellishing the Truth occurs when a per- son adds ﬁctitious details or exaggerates facts or true stories. Which situation below is the best example of Embellishing the Truth?",
+      "options": [
+        "Isabel goes to the theater, and the next day,",
+        "The realtor describes the house, which is",
+        "During the job interview, Fred, who has",
+        "The basketball coach says it is likely that"
+      ],
+      "correctAnswer": "The realtor describes the house, which is",
+      "correctIndex": 1,
+      "difficulty": "hard",
+      "hint": "Examine the core structural rule for Verbal Reasoning.",
+      "explanation": "The realtor is using a clear exaggeration when she states that a house which is eleven blocks away from the ocean is prime waterfront property.",
+      "solutionSteps": [
+        "Step 1: Read the condition and isolate the logical premise.",
+        "Step 2: Test each option against the constraints.",
+        "Step 3: The realtor is using a clear exaggeration when she states that a house which is eleven blocks away from the ocean is prime waterfront property."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Verbal Reasoning",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_cpo"
+      ],
+      "pageNumber": 59,
+      "sourcePdf": "500-Reasoning-Problems-GOSSC.in_.pdf"
+    },
+    {
+      "id": "gossc_500_q327",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "Applying for Seasonal Employment occurs when a person requests to be considered for a job that is dependent on a particular season or time of year. Which situation below is the best example of Applying for Seasonal Employment?",
+      "questionText": "Applying for Seasonal Employment occurs when a person requests to be considered for a job that is dependent on a particular season or time of year. Which situation below is the best example of Applying for Seasonal Employment?",
+      "options": [
+        "The ski instructors at Top of the Peak Ski",
+        "Matthew prefers jobs that allow him to",
+        "Lucinda makes an appointment with the",
+        "Doug’s ice cream shop stays open until"
+      ],
+      "correctAnswer": "Lucinda makes an appointment with the",
+      "correctIndex": 2,
+      "difficulty": "hard",
+      "hint": "Examine the core structural rule for Verbal Reasoning.",
+      "explanation": "Although the ski instructors at Top of the Peak Ski School do work seasonally, choice a does not describe anyone applying for seasonal employment. In choice b, the statement that Matthew likes to work outdoors tells us noth- ing about seasonal employment or someone applying for it. And although choice d describes a business with seasonal hours, it does not describe a person applying for seasonal work. Choice c, on the other hand, very speciﬁcally depicts a person, Lucinda, who is applying for a job as a summer waitress at a beach resort, which is dependent upon a particular season of the year.",
+      "solutionSteps": [
+        "Step 1: Read the condition and isolate the logical premise.",
+        "Step 2: Test each option against the constraints.",
+        "Step 3: Although the ski instructors at Top of the Peak Ski School do work seasonally, choice a does not describe anyone applying for seasonal employment. In choice b, the statement that Matthew likes to work outdoors tells us noth- ing about seasonal employment or someone applying for it. And although choice d describes a business with seasonal hours, it does not describe a person applying for seasonal work. Choice c, on the other hand, very speciﬁcally depicts a person, Lucinda, who is applying for a job as a summer waitress at a beach resort, which is dependent upon a particular season of the year."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Verbal Reasoning",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_cpo"
+      ],
+      "pageNumber": 59,
+      "sourcePdf": "500-Reasoning-Problems-GOSSC.in_.pdf"
+    },
+    {
+      "id": "gossc_500_q328",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "An Informal Gathering occurs when a group of people get together in a casual, relaxed manner. Which situation below is the best example of an Informal Gathering?",
+      "questionText": "An Informal Gathering occurs when a group of people get together in a casual, relaxed manner. Which situation below is the best example of an Informal Gathering?",
+      "options": [
+        "The book club meets on the ﬁrst Thursday",
+        "After ﬁnding out about his promotion,",
+        "Mary sends out 25 invitations for the bridal",
+        "Whenever she eats at the Mexican restau-"
+      ],
+      "correctAnswer": "After ﬁnding out about his promotion,",
+      "correctIndex": 1,
+      "difficulty": "hard",
+      "hint": "Examine the core structural rule for Verbal Reasoning.",
+      "explanation": "After getting some good news, Jeremy and a few friends casually get together for a drink after work, thereby having an informal gather- ing. Choices a and c describe more formal types of gatherings. Choice d describes a chance or coincidental kind of meeting.",
+      "solutionSteps": [
+        "Step 1: Read the condition and isolate the logical premise.",
+        "Step 2: Test each option against the constraints.",
+        "Step 3: After getting some good news, Jeremy and a few friends casually get together for a drink after work, thereby having an informal gather- ing. Choices a and c describe more formal types of gatherings. Choice d describes a chance or coincidental kind of meeting."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Verbal Reasoning",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_cpo"
+      ],
+      "pageNumber": 60,
+      "sourcePdf": "500-Reasoning-Problems-GOSSC.in_.pdf"
+    },
+    {
+      "id": "gossc_500_q329",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "The rules of baseball state that a batter Legally Completes His Time at Bat when he is put out or becomes a base runner. Which situation below is the best example of a bat- ter Legally Completing His Time at Bat?",
+      "questionText": "The rules of baseball state that a batter Legally Completes His Time at Bat when he is put out or becomes a base runner. Which situation below is the best example of a bat- ter Legally Completing His Time at Bat?",
+      "options": [
+        "Jared’s blooper over the head of the short-",
+        "The umpire calls a strike, even though the",
+        "The pitcher throws his famous knuckleball,",
+        "The count is two balls and two strikes as"
+      ],
+      "correctAnswer": "Jared’s blooper over the head of the short-",
+      "correctIndex": 0,
+      "difficulty": "hard",
+      "hint": "Examine the core structural rule for Verbal Reasoning.",
+      "explanation": "The fact that Jared is in scoring position due to his blooper indicates that he has hit the ball and is now a base runner; therefore, he has legally completed his time at bat. Choices b and c both describe situations in which a strike is called, but they do not state that the batter has been put out or that he is now a base runner. Choice d describes a situation in which the bat- ter, Mario, is still at the plate waiting for the next pitch.",
+      "solutionSteps": [
+        "Step 1: Read the condition and isolate the logical premise.",
+        "Step 2: Test each option against the constraints.",
+        "Step 3: The fact that Jared is in scoring position due to his blooper indicates that he has hit the ball and is now a base runner; therefore, he has legally completed his time at bat. Choices b and c both describe situations in which a strike is called, but they do not state that the batter has been put out or that he is now a base runner. Choice d describes a situation in which the bat- ter, Mario, is still at the plate waiting for the next pitch."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Verbal Reasoning",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_cpo"
+      ],
+      "pageNumber": 60,
+      "sourcePdf": "500-Reasoning-Problems-GOSSC.in_.pdf"
+    },
+    {
+      "id": "gossc_500_q330",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "In the Maple Hill school district, a Five-Day Suspension occurs when a student is not permitted to attend school for ﬁve days for (1) physically assaulting another student, a teacher, or a school employee or (2) willfully destructing or defacing school property. Which situation below is the best example of a Five-Day Suspension?",
+      "questionText": "In the Maple Hill school district, a Five-Day Suspension occurs when a student is not permitted to attend school for ﬁve days for (1) physically assaulting another student, a teacher, or a school employee or (2) willfully destructing or defacing school property. Which situation below is the best example of a Five-Day Suspension?",
+      "options": [
+        "Lillian gets caught cheating on a math test",
+        "Marc is asked to leave the classroom due to",
+        "Franny uses spray paint to write derogatory",
+        "Ms. Farmer tells her class that students who"
+      ],
+      "correctAnswer": "Franny uses spray paint to write derogatory",
+      "correctIndex": 2,
+      "difficulty": "hard",
+      "hint": "Examine the core structural rule for Verbal Reasoning.",
+      "explanation": "Although choices a and c both describe sus- pensions, only choice c describes a suspension that is the result of one of the two scenarios given in the deﬁnition of a ﬁve-day suspension (physical assault or destructing or defacing school property). Therefore, we can assume that Franny’s suspension, which is the result of spray painting school property, will be a ﬁve- day suspension. Since the deﬁnition doesn’t provide any information about suspensions for cheating, we can assume that Lillian’s suspen- sion does not fall into the ﬁve-day suspension category.",
+      "solutionSteps": [
+        "Step 1: Read the condition and isolate the logical premise.",
+        "Step 2: Test each option against the constraints.",
+        "Step 3: Although choices a and c both describe sus- pensions, only choice c describes a suspension that is the result of one of the two scenarios given in the deﬁnition of a ﬁve-day suspension (physical assault or destructing or defacing school property). Therefore, we can assume that Franny’s suspension, which is the result of spray painting school property, will be a ﬁve- day suspension. Since the deﬁnition doesn’t provide any information about suspensions for cheating, we can assume that Lillian’s suspen- sion does not fall into the ﬁve-day suspension category."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Verbal Reasoning",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_cpo"
+      ],
+      "pageNumber": 60,
+      "sourcePdf": "500-Reasoning-Problems-GOSSC.in_.pdf"
+    },
+    {
+      "id": "gossc_500_q331",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "A Tiebreaker is an additional contest or period of play designed to establish a winner among tied contestants. Which situation below is the best example of a Tiebreaker?",
+      "questionText": "A Tiebreaker is an additional contest or period of play designed to establish a winner among tied contestants. Which situation below is the best example of a Tiebreaker?",
+      "options": [
+        "At halftime, the score is tied at 28.",
+        "Mary and Megan have each scored three",
+        "The referee tosses a coin to decide which",
+        "The Sharks and the Bears each ﬁnished"
+      ],
+      "correctAnswer": "The Sharks and the Bears each ﬁnished",
+      "correctIndex": 3,
+      "difficulty": "hard",
+      "hint": "Examine the core structural rule for Verbal Reasoning.",
+      "explanation": "This is the only choice that indicates that an additional period of play is taking place to determine the winner of a game that ended in a tie.",
+      "solutionSteps": [
+        "Step 1: Read the condition and isolate the logical premise.",
+        "Step 2: Test each option against the constraints.",
+        "Step 3: This is the only choice that indicates that an additional period of play is taking place to determine the winner of a game that ended in a tie."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Verbal Reasoning",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_cpo"
+      ],
+      "pageNumber": 60,
+      "sourcePdf": "500-Reasoning-Problems-GOSSC.in_.pdf"
+    },
+    {
+      "id": "ssc_1000_q24",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "Two statements: I. All artists are creative. II. Some creative are dancers. Conclusion:",
+      "questionText": "Two statements: I. All artists are creative. II. Some creative are dancers. Conclusion:",
+      "options": [
+        "Some",
+        "Some",
+        "No",
+        "Option d"
+      ],
+      "correctAnswer": "No",
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "hint": "Follow the established principles for Statement and Conclusion.",
+      "explanation": "Applying standard logical deduction rules for Statement and Conclusion: No is the correct solution.",
+      "solutionSteps": [
+        "Step 1: Identify the underlying pattern and given conditions.",
+        "Step 2: Test options systematically.",
+        "Step 3: Option (D) satisfies all requirements."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Statement and Conclusion",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_gd"
+      ],
+      "pageNumber": 5,
+      "sourcePdf": "1000-Reasoning-Questions-for-SSC.pdf"
+    },
+    {
+      "id": "ssc_1000_q44",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "Statements: All roses are flowers. No flower is stone. Conclusion:",
+      "questionText": "Statements: All roses are flowers. No flower is stone. Conclusion:",
+      "options": [
+        "No rose is stone",
+        "Some roses",
+        "Some flowers",
+        "Option d"
+      ],
+      "correctAnswer": "Some flowers",
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "hint": "Follow the established principles for Statement and Conclusion.",
+      "explanation": "Applying standard logical deduction rules for Statement and Conclusion: Some flowers is the correct solution.",
+      "solutionSteps": [
+        "Step 1: Identify the underlying pattern and given conditions.",
+        "Step 2: Test options systematically.",
+        "Step 3: Option (D) satisfies all requirements."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Statement and Conclusion",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_gd"
+      ],
+      "pageNumber": 7,
+      "sourcePdf": "1000-Reasoning-Questions-for-SSC.pdf"
+    },
+    {
+      "id": "ssc_1000_q77",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "Statements: All dogs are cats. All cats are rats. Conclusions:",
+      "questionText": "Statements: All dogs are cats. All cats are rats. Conclusions:",
+      "options": [
+        "Option a",
+        "Option b",
+        "Option c",
+        "Option d"
+      ],
+      "correctAnswer": "Option (A)",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Follow the established principles for Statement and Conclusion.",
+      "explanation": "Applying standard logical deduction rules for Statement and Conclusion: Option (A) is the correct solution.",
+      "solutionSteps": [
+        "Step 1: Identify the underlying pattern and given conditions.",
+        "Step 2: Test options systematically.",
+        "Step 3: Option (A) satisfies all requirements."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Statement and Conclusion",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_gd"
+      ],
+      "pageNumber": 11,
+      "sourcePdf": "1000-Reasoning-Questions-for-SSC.pdf"
+    },
+    {
+      "id": "ssc_1000_q111",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "Statements: All books are pens. Some pens are pencils. Conclusions:",
+      "questionText": "Statements: All books are pens. Some pens are pencils. Conclusions:",
+      "options": [
+        "Option a",
+        "Option b",
+        "Option c",
+        "Option d"
+      ],
+      "correctAnswer": "Option (C)",
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "hint": "Follow the established principles for Statement and Conclusion.",
+      "explanation": "Applying standard logical deduction rules for Statement and Conclusion: Option (C) is the correct solution.",
+      "solutionSteps": [
+        "Step 1: Identify the underlying pattern and given conditions.",
+        "Step 2: Test options systematically.",
+        "Step 3: Option (C) satisfies all requirements."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Statement and Conclusion",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_gd"
+      ],
+      "pageNumber": 15,
+      "sourcePdf": "1000-Reasoning-Questions-for-SSC.pdf"
+    },
+    {
+      "id": "ssc_1000_q624",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "Two statements: All pens are books. All books are papers. Conclusion: All pens are papers.",
+      "questionText": "Two statements: All pens are books. All books are papers. Conclusion: All pens are papers.",
+      "options": [
+        "True",
+        "F",
+        "None of these",
+        "Option d"
+      ],
+      "correctAnswer": "None of these",
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "hint": "Follow the established principles for Statement and Conclusion.",
+      "explanation": "Applying standard logical deduction rules for Statement and Conclusion: None of these is the correct solution.",
+      "solutionSteps": [
+        "Step 1: Identify the underlying pattern and given conditions.",
+        "Step 2: Test options systematically.",
+        "Step 3: Option (D) satisfies all requirements."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Statement and Conclusion",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_gd"
+      ],
+      "pageNumber": 80,
+      "sourcePdf": "1000-Reasoning-Questions-for-SSC.pdf"
+    },
+    {
+      "id": "ssc_1000_q625",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "Statements: Some fruits are apples. All apples are sweet. Conclusion: Some fruits are sweet.",
+      "questionText": "Statements: Some fruits are apples. All apples are sweet. Conclusion: Some fruits are sweet.",
+      "options": [
+        "True",
+        "F",
+        "None of these",
+        "Option d"
+      ],
+      "correctAnswer": "True",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Follow the established principles for Statement and Conclusion.",
+      "explanation": "Applying standard logical deduction rules for Statement and Conclusion: True is the correct solution.",
+      "solutionSteps": [
+        "Step 1: Identify the underlying pattern and given conditions.",
+        "Step 2: Test options systematically.",
+        "Step 3: Option (A) satisfies all requirements."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Statement and Conclusion",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_gd"
+      ],
+      "pageNumber": 80,
+      "sourcePdf": "1000-Reasoning-Questions-for-SSC.pdf"
+    },
+    {
+      "id": "ssc_1000_q653",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "Statements: All cats are animals. Some animals are dogs. Conclusion: Some cats are dogs.",
+      "questionText": "Statements: All cats are animals. Some animals are dogs. Conclusion: Some cats are dogs.",
+      "options": [
+        "True",
+        "F",
+        "None of these",
+        "Option d"
+      ],
+      "correctAnswer": "True",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Follow the established principles for Statement and Conclusion.",
+      "explanation": "Applying standard logical deduction rules for Statement and Conclusion: True is the correct solution.",
+      "solutionSteps": [
+        "Step 1: Identify the underlying pattern and given conditions.",
+        "Step 2: Test options systematically.",
+        "Step 3: Option (A) satisfies all requirements."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Statement and Conclusion",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_gd"
+      ],
+      "pageNumber": 83,
+      "sourcePdf": "1000-Reasoning-Questions-for-SSC.pdf"
+    },
+    {
+      "id": "ssc_1000_q654",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "Statements: All roses are flowers. No flower is tree. Conclusion: No rose is tree.",
+      "questionText": "Statements: All roses are flowers. No flower is tree. Conclusion: No rose is tree.",
+      "options": [
+        "True",
+        "F",
+        "None of these",
+        "Option d"
+      ],
+      "correctAnswer": "F",
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "hint": "Follow the established principles for Statement and Conclusion.",
+      "explanation": "Applying standard logical deduction rules for Statement and Conclusion: F is the correct solution.",
+      "solutionSteps": [
+        "Step 1: Identify the underlying pattern and given conditions.",
+        "Step 2: Test options systematically.",
+        "Step 3: Option (B) satisfies all requirements."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Statement and Conclusion",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_gd"
+      ],
+      "pageNumber": 83,
+      "sourcePdf": "1000-Reasoning-Questions-for-SSC.pdf"
+    },
+    {
+      "id": "ssc_1000_q676",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "Statements: Some books are pens. All pens are copies. Conclusion: Some books are copies.",
+      "questionText": "Statements: Some books are pens. All pens are copies. Conclusion: Some books are copies.",
+      "options": [
+        "True",
+        "F",
+        "None of these",
+        "Option d"
+      ],
+      "correctAnswer": "None of these",
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "hint": "Follow the established principles for Statement and Conclusion.",
+      "explanation": "Applying standard logical deduction rules for Statement and Conclusion: None of these is the correct solution.",
+      "solutionSteps": [
+        "Step 1: Identify the underlying pattern and given conditions.",
+        "Step 2: Test options systematically.",
+        "Step 3: Option (D) satisfies all requirements."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Statement and Conclusion",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_gd"
+      ],
+      "pageNumber": 86,
+      "sourcePdf": "1000-Reasoning-Questions-for-SSC.pdf"
+    },
+    {
+      "id": "ssc_1000_q677",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "Statements: All buses are vehicles. Some vehicles are cars. Conclusion: Some buses are cars.",
+      "questionText": "Statements: All buses are vehicles. Some vehicles are cars. Conclusion: Some buses are cars.",
+      "options": [
+        "True",
+        "F",
+        "None of these",
+        "Option d"
+      ],
+      "correctAnswer": "True",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Follow the established principles for Statement and Conclusion.",
+      "explanation": "Applying standard logical deduction rules for Statement and Conclusion: True is the correct solution.",
+      "solutionSteps": [
+        "Step 1: Identify the underlying pattern and given conditions.",
+        "Step 2: Test options systematically.",
+        "Step 3: Option (A) satisfies all requirements."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Statement and Conclusion",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_gd"
+      ],
+      "pageNumber": 86,
+      "sourcePdf": "1000-Reasoning-Questions-for-SSC.pdf"
+    },
+    {
+      "id": "ssc_1000_q699",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "Statements: All men are humans. Some humans are doctors. Conclusion: Some men are doctors.",
+      "questionText": "Statements: All men are humans. Some humans are doctors. Conclusion: Some men are doctors.",
+      "options": [
+        "True",
+        "F",
+        "None of these",
+        "Option d"
+      ],
+      "correctAnswer": "",
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "hint": "Follow the established principles for Statement and Conclusion.",
+      "explanation": "Applying standard logical deduction rules for Statement and Conclusion:  is the correct solution.",
+      "solutionSteps": [
+        "Step 1: Identify the underlying pattern and given conditions.",
+        "Step 2: Test options systematically.",
+        "Step 3: Option (C) satisfies all requirements."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Statement and Conclusion",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_gd"
+      ],
+      "pageNumber": 89,
+      "sourcePdf": "1000-Reasoning-Questions-for-SSC.pdf"
+    },
+    {
+      "id": "ssc_1000_q700",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "Statements: Some boys are students. All students are players. Conclusion: Some boys are players.",
+      "questionText": "Statements: Some boys are students. All students are players. Conclusion: Some boys are players.",
+      "options": [
+        "True",
+        "F",
+        "None of these",
+        "Option d"
+      ],
+      "correctAnswer": "None of these",
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "hint": "Follow the established principles for Statement and Conclusion.",
+      "explanation": "Applying standard logical deduction rules for Statement and Conclusion: None of these is the correct solution.",
+      "solutionSteps": [
+        "Step 1: Identify the underlying pattern and given conditions.",
+        "Step 2: Test options systematically.",
+        "Step 3: Option (D) satisfies all requirements."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Statement and Conclusion",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_gd"
+      ],
+      "pageNumber": 89,
+      "sourcePdf": "1000-Reasoning-Questions-for-SSC.pdf"
+    },
+    {
+      "id": "ssc_1000_q809",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "Statements: All flowers are trees. Some trees are fruits. Conclusions: I. Some fruits are flowers. II. Some trees are flowers.",
+      "questionText": "Statements: All flowers are trees. Some trees are fruits. Conclusions: I. Some fruits are flowers. II. Some trees are flowers.",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "None follows",
+        "Option d"
+      ],
+      "correctAnswer": "Only I follows",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Follow the established principles for Statement and Conclusion.",
+      "explanation": "Applying standard logical deduction rules for Statement and Conclusion: Only I follows is the correct solution.",
+      "solutionSteps": [
+        "Step 1: Identify the underlying pattern and given conditions.",
+        "Step 2: Test options systematically.",
+        "Step 3: Option (A) satisfies all requirements."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Statement and Conclusion",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_gd"
+      ],
+      "pageNumber": 103,
+      "sourcePdf": "1000-Reasoning-Questions-for-SSC.pdf"
+    },
+    {
+      "id": "ssc_1000_q840",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "Syllogism: All poets are artists. Some artists are singers. Conclusions: I) Some poets are singers. II) Some singers are artists.",
+      "questionText": "Syllogism: All poets are artists. Some artists are singers. Conclusions: I) Some poets are singers. II) Some singers are artists.",
+      "options": [
+        "Only I",
+        "None",
+        "Option c",
+        "Option d"
+      ],
+      "correctAnswer": "Option (D)",
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "hint": "Follow the established principles for Statement and Conclusion.",
+      "explanation": "Applying standard logical deduction rules for Statement and Conclusion: Option (D) is the correct solution.",
+      "solutionSteps": [
+        "Step 1: Identify the underlying pattern and given conditions.",
+        "Step 2: Test options systematically.",
+        "Step 3: Option (D) satisfies all requirements."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Statement and Conclusion",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_gd"
+      ],
+      "pageNumber": 104,
+      "sourcePdf": "1000-Reasoning-Questions-for-SSC.pdf"
+    },
+    {
+      "id": "ssc_1000_q856",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "Syllogism: Some cars are red. All red are fast. Conclusions: I) Some cars are fast. II) All fast are cars.",
+      "questionText": "Syllogism: Some cars are red. All red are fast. Conclusions: I) Some cars are fast. II) All fast are cars.",
+      "options": [
+        "Only I",
+        "None",
+        "Option c",
+        "Option d"
+      ],
+      "correctAnswer": "Option (D)",
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "hint": "Follow the established principles for Statement and Conclusion.",
+      "explanation": "Applying standard logical deduction rules for Statement and Conclusion: Option (D) is the correct solution.",
+      "solutionSteps": [
+        "Step 1: Identify the underlying pattern and given conditions.",
+        "Step 2: Test options systematically.",
+        "Step 3: Option (D) satisfies all requirements."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Statement and Conclusion",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_gd"
+      ],
+      "pageNumber": 104,
+      "sourcePdf": "1000-Reasoning-Questions-for-SSC.pdf"
+    },
+    {
+      "id": "ssc_1000_q873",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "Syllogism: No pens are pencils. Some pencils are erasers. Conclusions: I) Some erasers are not pens. II) No erasers are pens.",
+      "questionText": "Syllogism: No pens are pencils. Some pencils are erasers. Conclusions: I) Some erasers are not pens. II) No erasers are pens.",
+      "options": [
+        "Only I",
+        "None",
+        "Option c",
+        "Option d"
+      ],
+      "correctAnswer": "Only I",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Follow the established principles for Statement and Conclusion.",
+      "explanation": "Applying standard logical deduction rules for Statement and Conclusion: Only I is the correct solution.",
+      "solutionSteps": [
+        "Step 1: Identify the underlying pattern and given conditions.",
+        "Step 2: Test options systematically.",
+        "Step 3: Option (A) satisfies all requirements."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Statement and Conclusion",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_gd"
+      ],
+      "pageNumber": 104,
+      "sourcePdf": "1000-Reasoning-Questions-for-SSC.pdf"
+    },
+    {
+      "id": "ssc_1000_q909",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "Statement: All books are papers. Some papers are pens. Conclusion: I. Some books are pens. II. All pens are books.",
+      "questionText": "Statement: All books are papers. Some papers are pens. Conclusion: I. Some books are pens. II. All pens are books.",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Neither follows",
+        "Option d"
+      ],
+      "correctAnswer": "Only I follows",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Follow the established principles for Statement and Conclusion.",
+      "explanation": "Applying standard logical deduction rules for Statement and Conclusion: Only I follows is the correct solution.",
+      "solutionSteps": [
+        "Step 1: Identify the underlying pattern and given conditions.",
+        "Step 2: Test options systematically.",
+        "Step 3: Option (A) satisfies all requirements."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Statement and Conclusion",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_gd"
+      ],
+      "pageNumber": 104,
+      "sourcePdf": "1000-Reasoning-Questions-for-SSC.pdf"
+    },
+    {
+      "id": "ssc_1000_q940",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "Statement: All cars are bikes. All bikes are buses. Conclusion: I. All cars are buses. II. All buses are cars.",
+      "questionText": "Statement: All cars are bikes. All bikes are buses. Conclusion: I. All cars are buses. II. All buses are cars.",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Neither follows",
+        "Option d"
+      ],
+      "correctAnswer": "Neither follows",
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "hint": "Follow the established principles for Statement and Conclusion.",
+      "explanation": "Applying standard logical deduction rules for Statement and Conclusion: Neither follows is the correct solution.",
+      "solutionSteps": [
+        "Step 1: Identify the underlying pattern and given conditions.",
+        "Step 2: Test options systematically.",
+        "Step 3: Option (D) satisfies all requirements."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Statement and Conclusion",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_gd"
+      ],
+      "pageNumber": 104,
+      "sourcePdf": "1000-Reasoning-Questions-for-SSC.pdf"
+    },
+    {
+      "id": "ssc_1000_q968",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "Statement: All roses are flowers. Some flowers are red. Conclusion: I. Some roses are red. II. All flowers are roses.",
+      "questionText": "Statement: All roses are flowers. Some flowers are red. Conclusion: I. Some roses are red. II. All flowers are roses.",
+      "options": [
+        "Only I follows",
+        "Only II follows",
+        "Neither follows",
+        "Option d"
+      ],
+      "correctAnswer": "",
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "hint": "Follow the established principles for Statement and Conclusion.",
+      "explanation": "Applying standard logical deduction rules for Statement and Conclusion:  is the correct solution.",
+      "solutionSteps": [
+        "Step 1: Identify the underlying pattern and given conditions.",
+        "Step 2: Test options systematically.",
+        "Step 3: Option (D) satisfies all requirements."
+      ],
+      "subject": "General Intelligence & Reasoning",
+      "topic": "Statement and Conclusion",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_gd"
+      ],
+      "pageNumber": 104,
+      "sourcePdf": "1000-Reasoning-Questions-for-SSC.pdf"
+    },
+    {
+      "id": "ssc_hi_1000_q24",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "दो कथन: I. सभी कलाकार रचनाsमक हp। II. कुछ रचनाsमक cयि7त नतkक हp। !नqकषk:",
+      "questionText": "दो कथन: I. सभी कलाकार रचनाsमक हp। II. कुछ रचनाsमक cयि7त नतkक हp। !नqकषk:",
+      "options": [
+        "कुछ नतkक कलाकार हp",
+        "सभी रचनाsमक",
+        "कुछ कलाकार नतkक हो सकते हp",
+        "कोई नतkक कलाकार नह1ं है"
+      ],
+      "correctAnswer": "कोई नतkक कलाकार नह1ं है",
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "hint": "Statement & Conclusion (कथन और निष्कर्ष) के स्थापित नियमों का पालन करें।",
+      "explanation": "Statement & Conclusion (कथन और निष्कर्ष) के तार्किक सिद्धांतों के अनुसार सही उत्तर कोई नतkक कलाकार नह1ं है है (उत्तर तालिका विकल्प D)।",
+      "solutionSteps": [
+        "चरण 1: दी गई शर्तों और आंकड़ों का विश्लेषण करें।",
+        "चरण 2: विकल्पों का क्रमवार परीक्षण करें।",
+        "चरण 3: निष्कर्ष: विकल्प (D) कोई नतkक कलाकार नह1ं है सही है।"
+      ],
+      "subject": "General Intelligence & Reasoning (Hindi)",
+      "topic": "Statement & Conclusion (कथन और निष्कर्ष)",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_gd"
+      ],
+      "pageNumber": 4,
+      "sourcePdf": "1000-resoning-questions-for-ssc-exams-hindi.pdf"
+    },
+    {
+      "id": "ssc_hi_1000_q44",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "कथन: सभी गुलाब फूल हp। कोई फूल पsथर नह1ं है। !नqकषk:",
+      "questionText": "कथन: सभी गुलाब फूल हp। कोई फूल पsथर नह1ं है। !नqकषk:",
+      "options": [
+        "कोई गुलाब पsथर नह1ं है",
+        "कुछ गुलाब पsथर हp",
+        "सभी पsथर गुलाब हp",
+        "कुछ फूल पsथर हp \n\nSS"
+      ],
+      "correctAnswer": "कुछ फूल पsथर हp \n\nSS",
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "hint": "Statement & Conclusion (कथन और निष्कर्ष) के स्थापित नियमों का पालन करें।",
+      "explanation": "Statement & Conclusion (कथन और निष्कर्ष) के तार्किक सिद्धांतों के अनुसार सही उत्तर कुछ फूल पsथर हp \n\nSS है (उत्तर तालिका विकल्प D)।",
+      "solutionSteps": [
+        "चरण 1: दी गई शर्तों और आंकड़ों का विश्लेषण करें।",
+        "चरण 2: विकल्पों का क्रमवार परीक्षण करें।",
+        "चरण 3: निष्कर्ष: विकल्प (D) कुछ फूल पsथर हp \n\nSS सही है।"
+      ],
+      "subject": "General Intelligence & Reasoning (Hindi)",
+      "topic": "Statement & Conclusion (कथन और निष्कर्ष)",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_gd"
+      ],
+      "pageNumber": 6,
+      "sourcePdf": "1000-resoning-questions-for-ssc-exams-hindi.pdf"
+    },
+    {
+      "id": "ssc_hi_1000_q77",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "कथन: सभी कुeे hबि€लयाँ हp। सभी hबि€लयाँ चूहे हp। !नqकषk:",
+      "questionText": "कथन: सभी कुeे hबि€लयाँ हp। सभी hबि€लयाँ चूहे हp। !नqकषk:",
+      "options": [
+        "विकल्प a",
+        "विकल्प b",
+        "विकल्प c",
+        "विकल्प d"
+      ],
+      "correctAnswer": "विकल्प (A)",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Statement & Conclusion (कथन और निष्कर्ष) के स्थापित नियमों का पालन करें।",
+      "explanation": "Statement & Conclusion (कथन और निष्कर्ष) के तार्किक सिद्धांतों के अनुसार सही उत्तर विकल्प (A) है (उत्तर तालिका विकल्प A)।",
+      "solutionSteps": [
+        "चरण 1: दी गई शर्तों और आंकड़ों का विश्लेषण करें।",
+        "चरण 2: विकल्पों का क्रमवार परीक्षण करें।",
+        "चरण 3: निष्कर्ष: विकल्प (A) विकल्प (A) सही है।"
+      ],
+      "subject": "General Intelligence & Reasoning (Hindi)",
+      "topic": "Statement & Conclusion (कथन और निष्कर्ष)",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_gd"
+      ],
+      "pageNumber": 10,
+      "sourcePdf": "1000-resoning-questions-for-ssc-exams-hindi.pdf"
+    },
+    {
+      "id": "ssc_hi_1000_q111",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "कथन: सभी पुIतक. पेन हp। कुछ पेन प.$सल हp। !नqकषk:",
+      "questionText": "कथन: सभी पुIतक. पेन हp। कुछ पेन प.$सल हp। !नqकषk:",
+      "options": [
+        "विकल्प a",
+        "विकल्प b",
+        "विकल्प c",
+        "विकल्प d"
+      ],
+      "correctAnswer": "विकल्प (C)",
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "hint": "Statement & Conclusion (कथन और निष्कर्ष) के स्थापित नियमों का पालन करें।",
+      "explanation": "Statement & Conclusion (कथन और निष्कर्ष) के तार्किक सिद्धांतों के अनुसार सही उत्तर विकल्प (C) है (उत्तर तालिका विकल्प C)।",
+      "solutionSteps": [
+        "चरण 1: दी गई शर्तों और आंकड़ों का विश्लेषण करें।",
+        "चरण 2: विकल्पों का क्रमवार परीक्षण करें।",
+        "चरण 3: निष्कर्ष: विकल्प (C) विकल्प (C) सही है।"
+      ],
+      "subject": "General Intelligence & Reasoning (Hindi)",
+      "topic": "Statement & Conclusion (कथन और निष्कर्ष)",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_gd"
+      ],
+      "pageNumber": 14,
+      "sourcePdf": "1000-resoning-questions-for-ssc-exams-hindi.pdf"
+    },
+    {
+      "id": "ssc_hi_1000_q624",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "कथन: सभी पेन पुIतक. हp। सभी पुIतक. कागज हp। !नqकषk: सभी पेन कागज हp।",
+      "questionText": "कथन: सभी पेन पुIतक. हp। सभी पुIतक. कागज हp। !नqकषk: सभी पेन कागज हp।",
+      "options": [
+        "सsय",
+        "असsय",
+        "!नधाkKरत नह1ं",
+        "इनम. से कोई नह1ं"
+      ],
+      "correctAnswer": "इनम. से कोई नह1ं",
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "hint": "Statement & Conclusion (कथन और निष्कर्ष) के स्थापित नियमों का पालन करें।",
+      "explanation": "Statement & Conclusion (कथन और निष्कर्ष) के तार्किक सिद्धांतों के अनुसार सही उत्तर इनम. से कोई नह1ं है (उत्तर तालिका विकल्प D)।",
+      "solutionSteps": [
+        "चरण 1: दी गई शर्तों और आंकड़ों का विश्लेषण करें।",
+        "चरण 2: विकल्पों का क्रमवार परीक्षण करें।",
+        "चरण 3: निष्कर्ष: विकल्प (D) इनम. से कोई नह1ं सही है।"
+      ],
+      "subject": "General Intelligence & Reasoning (Hindi)",
+      "topic": "Statement & Conclusion (कथन और निष्कर्ष)",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_gd"
+      ],
+      "pageNumber": 71,
+      "sourcePdf": "1000-resoning-questions-for-ssc-exams-hindi.pdf"
+    },
+    {
+      "id": "ssc_hi_1000_q625",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "कथन: कुछ फल सेब हp। सभी सेब मीठे हp। !नqकषk: कुछ फल मीठे हp।",
+      "questionText": "कथन: कुछ फल सेब हp। सभी सेब मीठे हp। !नqकषk: कुछ फल मीठे हp।",
+      "options": [
+        "सsय",
+        "असsय",
+        "!नधाkKरत नह1ं",
+        "इनम. से कोई नह1ं"
+      ],
+      "correctAnswer": "सsय",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Statement & Conclusion (कथन और निष्कर्ष) के स्थापित नियमों का पालन करें।",
+      "explanation": "Statement & Conclusion (कथन और निष्कर्ष) के तार्किक सिद्धांतों के अनुसार सही उत्तर सsय है (उत्तर तालिका विकल्प A)।",
+      "solutionSteps": [
+        "चरण 1: दी गई शर्तों और आंकड़ों का विश्लेषण करें।",
+        "चरण 2: विकल्पों का क्रमवार परीक्षण करें।",
+        "चरण 3: निष्कर्ष: विकल्प (A) सsय सही है।"
+      ],
+      "subject": "General Intelligence & Reasoning (Hindi)",
+      "topic": "Statement & Conclusion (कथन और निष्कर्ष)",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_gd"
+      ],
+      "pageNumber": 71,
+      "sourcePdf": "1000-resoning-questions-for-ssc-exams-hindi.pdf"
+    },
+    {
+      "id": "ssc_hi_1000_q653",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "कथन: सभी hबि€लयाँ जानवर हp। कुछ जानवर कुeे हp। !नqकषk: कुछ hबि€लयाँ कुeे हp।",
+      "questionText": "कथन: सभी hबि€लयाँ जानवर हp। कुछ जानवर कुeे हp। !नqकषk: कुछ hबि€लयाँ कुeे हp।",
+      "options": [
+        "सsय",
+        "असsय \n\nSS",
+        "!नधाkKरत नह1ं",
+        "इनम. से कोई नह1ं"
+      ],
+      "correctAnswer": "सsय",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Statement & Conclusion (कथन और निष्कर्ष) के स्थापित नियमों का पालन करें।",
+      "explanation": "Statement & Conclusion (कथन और निष्कर्ष) के तार्किक सिद्धांतों के अनुसार सही उत्तर सsय है (उत्तर तालिका विकल्प A)।",
+      "solutionSteps": [
+        "चरण 1: दी गई शर्तों और आंकड़ों का विश्लेषण करें।",
+        "चरण 2: विकल्पों का क्रमवार परीक्षण करें।",
+        "चरण 3: निष्कर्ष: विकल्प (A) सsय सही है।"
+      ],
+      "subject": "General Intelligence & Reasoning (Hindi)",
+      "topic": "Statement & Conclusion (कथन और निष्कर्ष)",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_gd"
+      ],
+      "pageNumber": 74,
+      "sourcePdf": "1000-resoning-questions-for-ssc-exams-hindi.pdf"
+    },
+    {
+      "id": "ssc_hi_1000_q654",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "कथन: सभी गुलाब फूल हp। कोई फूल पेड़ नह1ं है। !नqकषk: कोई गुलाब पेड़ नह1ं है।",
+      "questionText": "कथन: सभी गुलाब फूल हp। कोई फूल पेड़ नह1ं है। !नqकषk: कोई गुलाब पेड़ नह1ं है।",
+      "options": [
+        "सsय",
+        "असsय",
+        "!नधाkKरत नह1ं",
+        "इनम. से कोई नह1ं"
+      ],
+      "correctAnswer": "असsय",
+      "correctIndex": 1,
+      "difficulty": "medium",
+      "hint": "Statement & Conclusion (कथन और निष्कर्ष) के स्थापित नियमों का पालन करें।",
+      "explanation": "Statement & Conclusion (कथन और निष्कर्ष) के तार्किक सिद्धांतों के अनुसार सही उत्तर असsय है (उत्तर तालिका विकल्प B)।",
+      "solutionSteps": [
+        "चरण 1: दी गई शर्तों और आंकड़ों का विश्लेषण करें।",
+        "चरण 2: विकल्पों का क्रमवार परीक्षण करें।",
+        "चरण 3: निष्कर्ष: विकल्प (B) असsय सही है।"
+      ],
+      "subject": "General Intelligence & Reasoning (Hindi)",
+      "topic": "Statement & Conclusion (कथन और निष्कर्ष)",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_gd"
+      ],
+      "pageNumber": 74,
+      "sourcePdf": "1000-resoning-questions-for-ssc-exams-hindi.pdf"
+    },
+    {
+      "id": "ssc_hi_1000_q676",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "कथन: कुछ पुIतक. पेन हp। सभी पेन कॉपी हp। !नqकषk: कुछ पुIतक. कॉपी हp।",
+      "questionText": "कथन: कुछ पुIतक. पेन हp। सभी पेन कॉपी हp। !नqकषk: कुछ पुIतक. कॉपी हp।",
+      "options": [
+        "सsय",
+        "असsय",
+        "!नधाkKरत नह1ं",
+        "इनम. से कोई नह1ं"
+      ],
+      "correctAnswer": "इनम. से कोई नह1ं",
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "hint": "Statement & Conclusion (कथन और निष्कर्ष) के स्थापित नियमों का पालन करें।",
+      "explanation": "Statement & Conclusion (कथन और निष्कर्ष) के तार्किक सिद्धांतों के अनुसार सही उत्तर इनम. से कोई नह1ं है (उत्तर तालिका विकल्प D)।",
+      "solutionSteps": [
+        "चरण 1: दी गई शर्तों और आंकड़ों का विश्लेषण करें।",
+        "चरण 2: विकल्पों का क्रमवार परीक्षण करें।",
+        "चरण 3: निष्कर्ष: विकल्प (D) इनम. से कोई नह1ं सही है।"
+      ],
+      "subject": "General Intelligence & Reasoning (Hindi)",
+      "topic": "Statement & Conclusion (कथन और निष्कर्ष)",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_gd"
+      ],
+      "pageNumber": 77,
+      "sourcePdf": "1000-resoning-questions-for-ssc-exams-hindi.pdf"
+    },
+    {
+      "id": "ssc_hi_1000_q677",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "कथन: सभी बस. वाहन हp। कुछ वाहन कार हp। !नqकषk: कुछ बस. कार हp।",
+      "questionText": "कथन: सभी बस. वाहन हp। कुछ वाहन कार हp। !नqकषk: कुछ बस. कार हp।",
+      "options": [
+        "सsय",
+        "असsय",
+        "!नधाkKरत नह1ं",
+        "इनम. से कोई नह1ं"
+      ],
+      "correctAnswer": "सsय",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Statement & Conclusion (कथन और निष्कर्ष) के स्थापित नियमों का पालन करें।",
+      "explanation": "Statement & Conclusion (कथन और निष्कर्ष) के तार्किक सिद्धांतों के अनुसार सही उत्तर सsय है (उत्तर तालिका विकल्प A)।",
+      "solutionSteps": [
+        "चरण 1: दी गई शर्तों और आंकड़ों का विश्लेषण करें।",
+        "चरण 2: विकल्पों का क्रमवार परीक्षण करें।",
+        "चरण 3: निष्कर्ष: विकल्प (A) सsय सही है।"
+      ],
+      "subject": "General Intelligence & Reasoning (Hindi)",
+      "topic": "Statement & Conclusion (कथन और निष्कर्ष)",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_gd"
+      ],
+      "pageNumber": 77,
+      "sourcePdf": "1000-resoning-questions-for-ssc-exams-hindi.pdf"
+    },
+    {
+      "id": "ssc_hi_1000_q699",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "कथन: सभी पुwष मानव हp। कुछ मानव डॉ7टर हp। !नqकषk: कुछ पुwष डॉ7टर हp।",
+      "questionText": "कथन: सभी पुwष मानव हp। कुछ मानव डॉ7टर हp। !नqकषk: कुछ पुwष डॉ7टर हp।",
+      "options": [
+        "सsय",
+        "असsय",
+        "!नधाkKरत नह1ं",
+        "इनम. से कोई नह1ं"
+      ],
+      "correctAnswer": "!नधाkKरत नह1ं",
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "hint": "Statement & Conclusion (कथन और निष्कर्ष) के स्थापित नियमों का पालन करें।",
+      "explanation": "Statement & Conclusion (कथन और निष्कर्ष) के तार्किक सिद्धांतों के अनुसार सही उत्तर !नधाkKरत नह1ं है (उत्तर तालिका विकल्प C)।",
+      "solutionSteps": [
+        "चरण 1: दी गई शर्तों और आंकड़ों का विश्लेषण करें।",
+        "चरण 2: विकल्पों का क्रमवार परीक्षण करें।",
+        "चरण 3: निष्कर्ष: विकल्प (C) !नधाkKरत नह1ं सही है।"
+      ],
+      "subject": "General Intelligence & Reasoning (Hindi)",
+      "topic": "Statement & Conclusion (कथन और निष्कर्ष)",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_gd"
+      ],
+      "pageNumber": 79,
+      "sourcePdf": "1000-resoning-questions-for-ssc-exams-hindi.pdf"
+    },
+    {
+      "id": "ssc_hi_1000_q700",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "कथन: कुछ लड़के NवBयाथ} हp। सभी NवBयाथ} &खलाड़ी हp। !नqकषk: कुछ लड़के &खलाड़ी हp।",
+      "questionText": "कथन: कुछ लड़के NवBयाथ} हp। सभी NवBयाथ} &खलाड़ी हp। !नqकषk: कुछ लड़के &खलाड़ी हp।",
+      "options": [
+        "सsय",
+        "असsय",
+        "!नधाkKरत नह1ं",
+        "इनम. से कोई नह1ं"
+      ],
+      "correctAnswer": "इनम. से कोई नह1ं",
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "hint": "Statement & Conclusion (कथन और निष्कर्ष) के स्थापित नियमों का पालन करें।",
+      "explanation": "Statement & Conclusion (कथन और निष्कर्ष) के तार्किक सिद्धांतों के अनुसार सही उत्तर इनम. से कोई नह1ं है (उत्तर तालिका विकल्प D)।",
+      "solutionSteps": [
+        "चरण 1: दी गई शर्तों और आंकड़ों का विश्लेषण करें।",
+        "चरण 2: विकल्पों का क्रमवार परीक्षण करें।",
+        "चरण 3: निष्कर्ष: विकल्प (D) इनम. से कोई नह1ं सही है।"
+      ],
+      "subject": "General Intelligence & Reasoning (Hindi)",
+      "topic": "Statement & Conclusion (कथन और निष्कर्ष)",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_gd"
+      ],
+      "pageNumber": 79,
+      "sourcePdf": "1000-resoning-questions-for-ssc-exams-hindi.pdf"
+    },
+    {
+      "id": "ssc_hi_1000_q809",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "कथन: सभी फूल पेड़ हp। कुछ पेड़ फल हp। !नqकषk: I. कुछ फल फूल हp। II. कुछ पेड़ फूल हp।",
+      "questionText": "कथन: सभी फूल पेड़ हp। कुछ पेड़ फल हp। !नqकषk: I. कुछ फल फूल हp। II. कुछ पेड़ फूल हp।",
+      "options": [
+        "केवल I अनुसरण करता है",
+        "केवल II अनुसरण करता है",
+        "दोनJ अनुसरण करते हp",
+        "कोई भी अनुसरण नह1ं करता"
+      ],
+      "correctAnswer": "केवल I अनुसरण करता है",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Statement & Conclusion (कथन और निष्कर्ष) के स्थापित नियमों का पालन करें।",
+      "explanation": "Statement & Conclusion (कथन और निष्कर्ष) के तार्किक सिद्धांतों के अनुसार सही उत्तर केवल I अनुसरण करता है है (उत्तर तालिका विकल्प A)।",
+      "solutionSteps": [
+        "चरण 1: दी गई शर्तों और आंकड़ों का विश्लेषण करें।",
+        "चरण 2: विकल्पों का क्रमवार परीक्षण करें।",
+        "चरण 3: निष्कर्ष: विकल्प (A) केवल I अनुसरण करता है सही है।"
+      ],
+      "subject": "General Intelligence & Reasoning (Hindi)",
+      "topic": "Statement & Conclusion (कथन और निष्कर्ष)",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_gd"
+      ],
+      "pageNumber": 91,
+      "sourcePdf": "1000-resoning-questions-for-ssc-exams-hindi.pdf"
+    },
+    {
+      "id": "ssc_hi_1000_q840",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "कथन: सभी कNव कलाकार हp। कुछ कलाकार गायक हp। !नqकषk: I. कुछ कNव गायक हp। II. कुछ गायक कलाकार हp।",
+      "questionText": "कथन: सभी कNव कलाकार हp। कुछ कलाकार गायक हp। !नqकषk: I. कुछ कNव गायक हp। II. कुछ गायक कलाकार हp।",
+      "options": [
+        "केवल I",
+        "केवल II",
+        "दोनJ",
+        "कोई नह1ं"
+      ],
+      "correctAnswer": "कोई नह1ं",
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "hint": "Statement & Conclusion (कथन और निष्कर्ष) के स्थापित नियमों का पालन करें।",
+      "explanation": "Statement & Conclusion (कथन और निष्कर्ष) के तार्किक सिद्धांतों के अनुसार सही उत्तर कोई नह1ं है (उत्तर तालिका विकल्प D)।",
+      "solutionSteps": [
+        "चरण 1: दी गई शर्तों और आंकड़ों का विश्लेषण करें।",
+        "चरण 2: विकल्पों का क्रमवार परीक्षण करें।",
+        "चरण 3: निष्कर्ष: विकल्प (D) कोई नह1ं सही है।"
+      ],
+      "subject": "General Intelligence & Reasoning (Hindi)",
+      "topic": "Statement & Conclusion (कथन और निष्कर्ष)",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_gd"
+      ],
+      "pageNumber": 95,
+      "sourcePdf": "1000-resoning-questions-for-ssc-exams-hindi.pdf"
+    },
+    {
+      "id": "ssc_hi_1000_q856",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "कथन: कुछ कार. लाल हp। सभी लाल वाहन तेज हp। !नqकषk: I. कुछ कार. तेज हp। II. सभी तेज वाहन कार. हp।",
+      "questionText": "कथन: कुछ कार. लाल हp। सभी लाल वाहन तेज हp। !नqकषk: I. कुछ कार. तेज हp। II. सभी तेज वाहन कार. हp।",
+      "options": [
+        "केवल I",
+        "केवल II",
+        "दोनJ",
+        "कोई नह1ं"
+      ],
+      "correctAnswer": "कोई नह1ं",
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "hint": "Statement & Conclusion (कथन और निष्कर्ष) के स्थापित नियमों का पालन करें।",
+      "explanation": "Statement & Conclusion (कथन और निष्कर्ष) के तार्किक सिद्धांतों के अनुसार सही उत्तर कोई नह1ं है (उत्तर तालिका विकल्प D)।",
+      "solutionSteps": [
+        "चरण 1: दी गई शर्तों और आंकड़ों का विश्लेषण करें।",
+        "चरण 2: विकल्पों का क्रमवार परीक्षण करें।",
+        "चरण 3: निष्कर्ष: विकल्प (D) कोई नह1ं सही है।"
+      ],
+      "subject": "General Intelligence & Reasoning (Hindi)",
+      "topic": "Statement & Conclusion (कथन और निष्कर्ष)",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_gd"
+      ],
+      "pageNumber": 97,
+      "sourcePdf": "1000-resoning-questions-for-ssc-exams-hindi.pdf"
+    },
+    {
+      "id": "ssc_hi_1000_q873",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "कथन: कोई पेन प.$सल नह1ं है। कुछ प.$सल. रबर हp। !नqकषk: I. कुछ रबर पेन नह1ं हp। II. कोई रबर पेन नह1ं है।",
+      "questionText": "कथन: कोई पेन प.$सल नह1ं है। कुछ प.$सल. रबर हp। !नqकषk: I. कुछ रबर पेन नह1ं हp। II. कोई रबर पेन नह1ं है।",
+      "options": [
+        "केवल I",
+        "केवल II",
+        "दोनJ",
+        "कोई नह1ं"
+      ],
+      "correctAnswer": "केवल I",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Statement & Conclusion (कथन और निष्कर्ष) के स्थापित नियमों का पालन करें।",
+      "explanation": "Statement & Conclusion (कथन और निष्कर्ष) के तार्किक सिद्धांतों के अनुसार सही उत्तर केवल I है (उत्तर तालिका विकल्प A)।",
+      "solutionSteps": [
+        "चरण 1: दी गई शर्तों और आंकड़ों का विश्लेषण करें।",
+        "चरण 2: विकल्पों का क्रमवार परीक्षण करें।",
+        "चरण 3: निष्कर्ष: विकल्प (A) केवल I सही है।"
+      ],
+      "subject": "General Intelligence & Reasoning (Hindi)",
+      "topic": "Statement & Conclusion (कथन और निष्कर्ष)",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_gd"
+      ],
+      "pageNumber": 99,
+      "sourcePdf": "1000-resoning-questions-for-ssc-exams-hindi.pdf"
+    },
+    {
+      "id": "ssc_hi_1000_q888",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "कथन: सभी वगk आयत हp। कुछ आयत वृe हp। !नqकषk: I. कुछ वगk वृe हp। II. सभी वृe आयत हp।",
+      "questionText": "कथन: सभी वगk आयत हp। कुछ आयत वृe हp। !नqकषk: I. कुछ वगk वृe हp। II. सभी वृe आयत हp।",
+      "options": [
+        "केवल I",
+        "केवल II",
+        "दोनJ \n\nSS",
+        "कोई नह1ं"
+      ],
+      "correctAnswer": "कोई नह1ं",
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "hint": "Statement & Conclusion (कथन और निष्कर्ष) के स्थापित नियमों का पालन करें।",
+      "explanation": "Statement & Conclusion (कथन और निष्कर्ष) के तार्किक सिद्धांतों के अनुसार सही उत्तर कोई नह1ं है (उत्तर तालिका विकल्प D)।",
+      "solutionSteps": [
+        "चरण 1: दी गई शर्तों और आंकड़ों का विश्लेषण करें।",
+        "चरण 2: विकल्पों का क्रमवार परीक्षण करें।",
+        "चरण 3: निष्कर्ष: विकल्प (D) कोई नह1ं सही है।"
+      ],
+      "subject": "General Intelligence & Reasoning (Hindi)",
+      "topic": "Statement & Conclusion (कथन और निष्कर्ष)",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_gd"
+      ],
+      "pageNumber": 100,
+      "sourcePdf": "1000-resoning-questions-for-ssc-exams-hindi.pdf"
+    },
+    {
+      "id": "ssc_hi_1000_q899",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "कथन: कुछ फल सेब हp। सभी सेब मीठे हp। !नqकषk: I. कुछ फल मीठे हp। II. सभी मीठे फल हp।",
+      "questionText": "कथन: कुछ फल सेब हp। सभी सेब मीठे हp। !नqकषk: I. कुछ फल मीठे हp। II. सभी मीठे फल हp।",
+      "options": [
+        "केवल I",
+        "केवल II",
+        "दोनJ",
+        "कोई नह1ं"
+      ],
+      "correctAnswer": "दोनJ",
+      "correctIndex": 2,
+      "difficulty": "medium",
+      "hint": "Statement & Conclusion (कथन और निष्कर्ष) के स्थापित नियमों का पालन करें।",
+      "explanation": "Statement & Conclusion (कथन और निष्कर्ष) के तार्किक सिद्धांतों के अनुसार सही उत्तर दोनJ है (उत्तर तालिका विकल्प C)।",
+      "solutionSteps": [
+        "चरण 1: दी गई शर्तों और आंकड़ों का विश्लेषण करें।",
+        "चरण 2: विकल्पों का क्रमवार परीक्षण करें।",
+        "चरण 3: निष्कर्ष: विकल्प (C) दोनJ सही है।"
+      ],
+      "subject": "General Intelligence & Reasoning (Hindi)",
+      "topic": "Statement & Conclusion (कथन और निष्कर्ष)",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_gd"
+      ],
+      "pageNumber": 101,
+      "sourcePdf": "1000-resoning-questions-for-ssc-exams-hindi.pdf"
+    },
+    {
+      "id": "ssc_hi_1000_q909",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "कथन: सभी पुIतक. कागज़ हp। कुछ कागज़ पेन हp। !नqकषk: I. कुछ पुIतक. पेन हp। II. सभी पेन पुIतक. हp।",
+      "questionText": "कथन: सभी पुIतक. कागज़ हp। कुछ कागज़ पेन हp। !नqकषk: I. कुछ पुIतक. पेन हp। II. सभी पेन पुIतक. हp।",
+      "options": [
+        "केवल I अनुसरण करता है",
+        "केवल II अनुसरण करता है",
+        "दोनJ अनुसरण करते हp",
+        "कोई भी अनुसरण नह1ं करता"
+      ],
+      "correctAnswer": "केवल I अनुसरण करता है",
+      "correctIndex": 0,
+      "difficulty": "medium",
+      "hint": "Statement & Conclusion (कथन और निष्कर्ष) के स्थापित नियमों का पालन करें।",
+      "explanation": "Statement & Conclusion (कथन और निष्कर्ष) के तार्किक सिद्धांतों के अनुसार सही उत्तर केवल I अनुसरण करता है है (उत्तर तालिका विकल्प A)।",
+      "solutionSteps": [
+        "चरण 1: दी गई शर्तों और आंकड़ों का विश्लेषण करें।",
+        "चरण 2: विकल्पों का क्रमवार परीक्षण करें।",
+        "चरण 3: निष्कर्ष: विकल्प (A) केवल I अनुसरण करता है सही है।"
+      ],
+      "subject": "General Intelligence & Reasoning (Hindi)",
+      "topic": "Statement & Conclusion (कथन और निष्कर्ष)",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_gd"
+      ],
+      "pageNumber": 103,
+      "sourcePdf": "1000-resoning-questions-for-ssc-exams-hindi.pdf"
+    },
+    {
+      "id": "ssc_hi_1000_q940",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "कथन: सभी कार. बाइक हp। सभी बाइक बस हp। !नqकषk: I. सभी कार. बस हp। II. सभी बस. कार हp।",
+      "questionText": "कथन: सभी कार. बाइक हp। सभी बाइक बस हp। !नqकषk: I. सभी कार. बस हp। II. सभी बस. कार हp।",
+      "options": [
+        "केवल I अनुसरण करता है",
+        "केवल II अनुसरण करता है",
+        "दोनJ अनुसरण करते हp",
+        "कोई भी अनुसरण नह1ं करता"
+      ],
+      "correctAnswer": "कोई भी अनुसरण नह1ं करता",
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "hint": "Statement & Conclusion (कथन और निष्कर्ष) के स्थापित नियमों का पालन करें।",
+      "explanation": "Statement & Conclusion (कथन और निष्कर्ष) के तार्किक सिद्धांतों के अनुसार सही उत्तर कोई भी अनुसरण नह1ं करता है (उत्तर तालिका विकल्प D)।",
+      "solutionSteps": [
+        "चरण 1: दी गई शर्तों और आंकड़ों का विश्लेषण करें।",
+        "चरण 2: विकल्पों का क्रमवार परीक्षण करें।",
+        "चरण 3: निष्कर्ष: विकल्प (D) कोई भी अनुसरण नह1ं करता सही है।"
+      ],
+      "subject": "General Intelligence & Reasoning (Hindi)",
+      "topic": "Statement & Conclusion (कथन और निष्कर्ष)",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_gd"
+      ],
+      "pageNumber": 106,
+      "sourcePdf": "1000-resoning-questions-for-ssc-exams-hindi.pdf"
+    },
+    {
+      "id": "ssc_hi_1000_q968",
+      "topicId": "statement_conclusion",
+      "subtopicId": "statement_conclusion_core",
+      "questionType": "text",
+      "question": "कथन: सभी गुलाब फूल हp। कुछ फूल लाल हp। !नqकषk: I. कुछ गुलाब लाल हp। II. सभी फूल गुलाब हp।",
+      "questionText": "कथन: सभी गुलाब फूल हp। कुछ फूल लाल हp। !नqकषk: I. कुछ गुलाब लाल हp। II. सभी फूल गुलाब हp।",
+      "options": [
+        "केवल I अनुसरण करता है",
+        "केवल II अनुसरण करता है",
+        "कोई भी अनुसरण नह1ं करता",
+        "दोनJ अनुसरण करते हp"
+      ],
+      "correctAnswer": "दोनJ अनुसरण करते हp",
+      "correctIndex": 3,
+      "difficulty": "medium",
+      "hint": "Statement & Conclusion (कथन और निष्कर्ष) के स्थापित नियमों का पालन करें।",
+      "explanation": "Statement & Conclusion (कथन और निष्कर्ष) के तार्किक सिद्धांतों के अनुसार सही उत्तर दोनJ अनुसरण करते हp है (उत्तर तालिका विकल्प D)।",
+      "solutionSteps": [
+        "चरण 1: दी गई शर्तों और आंकड़ों का विश्लेषण करें।",
+        "चरण 2: विकल्पों का क्रमवार परीक्षण करें।",
+        "चरण 3: निष्कर्ष: विकल्प (D) दोनJ अनुसरण करते हp सही है।"
+      ],
+      "subject": "General Intelligence & Reasoning (Hindi)",
+      "topic": "Statement & Conclusion (कथन और निष्कर्ष)",
+      "examCategory": "ssc",
+      "examTags": [
+        "ssc_cgl",
+        "ssc_chsl",
+        "ssc_mts",
+        "ssc_gd"
+      ],
+      "pageNumber": 109,
+      "sourcePdf": "1000-resoning-questions-for-ssc-exams-hindi.pdf"
+    },
     {
       "id": "stmt_conc_1",
       "topicId": "statement_conclusion",

@@ -118,6 +118,7 @@ export function PracticeQuestionViewer({ questions, topicId }: PracticeQuestionV
               topicId={topicId || ""}
               questionText={q.questionText}
               figureRef={q.figureRef}
+              figureData={q.figureData}
               isSolution={isAnswered}
             />
 
