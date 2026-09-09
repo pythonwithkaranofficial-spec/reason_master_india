@@ -227,9 +227,8 @@ export default function PracticeHubPage() {
                       fontWeight: 600,
                       fontSize: "0.92rem",
                       color: "var(--text-primary)",
-                      whiteSpace: "nowrap",
-                      overflow: "hidden",
-                      textOverflow: "ellipsis",
+                      lineHeight: 1.35,
+                      wordBreak: "break-word",
                     }}
                   >
                     {topic.name}

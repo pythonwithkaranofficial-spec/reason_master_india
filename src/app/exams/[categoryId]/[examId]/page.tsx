@@ -131,27 +131,92 @@ export default async function ExamDetailPage({ params }: ExamDetailPageProps) {
                     style={{
                       textDecoration: "none",
                       borderLeft: "4px solid var(--color-error)",
+                      display: "flex",
+                      flexDirection: "column",
+                      justifyContent: "space-between",
+                      height: "100%",
                     }}
                   >
-                    <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", gap: "var(--space-2)", marginBottom: "var(--space-2)" }}>
-                      <div style={{ display: "flex", alignItems: "center", gap: "var(--space-2.5)", minWidth: 0 }}>
-                        <TopicIcon topicId={m.topicId} category={topicSummary.category} size={16} badgeSize={32} variant="badge" />
-                        <h3 style={{ fontSize: "1.05rem", color: "var(--text-primary)", whiteSpace: "nowrap", overflow: "hidden", textOverflow: "ellipsis" }}>
-                          {topicSummary.name}
-                        </h3>
+                    <div>
+                      <div
+                        style={{
+                          display: "flex",
+                          alignItems: "center",
+                          justifyContent: "space-between",
+                          gap: "var(--space-3)",
+                          marginBottom: "var(--space-3)",
+                        }}
+                      >
+                        <div style={{ display: "flex", alignItems: "center", gap: "var(--space-3)" }}>
+                          <TopicIcon topicId={m.topicId} category={topicSummary.category} size={18} badgeSize={36} variant="badge" />
+                          <span
+                            style={{
+                              fontSize: "0.75rem",
+                              fontWeight: 700,
+                              letterSpacing: "0.5px",
+                              textTransform: "uppercase",
+                              color: topicSummary.category === "verbal" ? "var(--group-verbal-text)" : "var(--group-nonverbal-text)",
+                              backgroundColor: topicSummary.category === "verbal" ? "var(--group-verbal-bg)" : "var(--group-nonverbal-bg)",
+                              padding: "2px 8px",
+                              borderRadius: "var(--radius-sm)",
+                            }}
+                          >
+                            {topicSummary.category === "verbal" ? "Verbal" : "Non-Verbal"}
+                          </span>
+                        </div>
+
+                        <span className="badge badge-hard" style={{ fontSize: "0.72rem", flexShrink: 0, fontWeight: 700 }}>
+                          Weight: {m.weight}/5
+                        </span>
                       </div>
-                      <span className="badge badge-hard" style={{ fontSize: "0.7rem", flexShrink: 0 }}>
-                        Weight: {m.weight}/5
-                      </span>
+
+                      <h3
+                        style={{
+                          fontSize: "1.08rem",
+                          fontWeight: 700,
+                          color: "var(--text-primary)",
+                          lineHeight: 1.35,
+                          marginBottom: "var(--space-2)",
+                          whiteSpace: "normal",
+                          wordBreak: "break-word",
+                        }}
+                      >
+                        {topicSummary.name}
+                      </h3>
+
+                      <p
+                        style={{
+                          fontSize: "0.85rem",
+                          color: "var(--text-secondary)",
+                          lineHeight: 1.5,
+                          marginBottom: "var(--space-3)",
+                          display: "-webkit-box",
+                          WebkitLineClamp: 3,
+                          WebkitBoxOrient: "vertical",
+                          overflow: "hidden",
+                        }}
+                      >
+                        {topicSummary.shortcutSummary || "Master core concepts, shortcut rules, and high-frequency patterns."}
+                      </p>
                     </div>
 
-                    <p style={{ fontSize: "0.85rem", color: "var(--text-secondary)", marginBottom: "var(--space-3)", display: "-webkit-box", WebkitLineClamp: 2, WebkitBoxOrient: "vertical", overflow: "hidden" }}>
-                      {topicSummary.shortcutSummary || "Master core concepts and rules."}
-                    </p>
-
-                    <div style={{ display: "flex", justifyContent: "space-between", fontSize: "0.8rem", color: "var(--text-muted)" }}>
-                      <span>{topicSummary.category === "verbal" ? "Verbal" : "Non-Verbal"}</span>
-                      <span style={{ color: "var(--color-primary)", fontWeight: 600 }}>Study Topic →</span>
+                    <div
+                      style={{
+                        borderTop: "1px solid var(--border-subtle)",
+                        paddingTop: "var(--space-3)",
+                        marginTop: "auto",
+                        display: "flex",
+                        alignItems: "center",
+                        justifyContent: "space-between",
+                        fontSize: "0.82rem",
+                      }}
+                    >
+                      <span style={{ color: "var(--text-muted)", fontSize: "0.78rem" }}>
+                        {topicSummary.practiceCount || 500} Practice MCQs
+                      </span>
+                      <span style={{ color: "var(--color-primary)", fontWeight: 700, display: "flex", alignItems: "center", gap: "2px" }}>
+                        Study Topic →
+                      </span>
                     </div>
                   </Link>
                 );
@@ -186,27 +251,92 @@ export default async function ExamDetailPage({ params }: ExamDetailPageProps) {
                     style={{
                       textDecoration: "none",
                       borderLeft: "4px solid var(--color-warning)",
+                      display: "flex",
+                      flexDirection: "column",
+                      justifyContent: "space-between",
+                      height: "100%",
                     }}
                   >
-                    <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", gap: "var(--space-2)", marginBottom: "var(--space-2)" }}>
-                      <div style={{ display: "flex", alignItems: "center", gap: "var(--space-2.5)", minWidth: 0 }}>
-                        <TopicIcon topicId={m.topicId} category={topicSummary.category} size={16} badgeSize={32} variant="badge" />
-                        <h3 style={{ fontSize: "1.05rem", color: "var(--text-primary)", whiteSpace: "nowrap", overflow: "hidden", textOverflow: "ellipsis" }}>
-                          {topicSummary.name}
-                        </h3>
+                    <div>
+                      <div
+                        style={{
+                          display: "flex",
+                          alignItems: "center",
+                          justifyContent: "space-between",
+                          gap: "var(--space-3)",
+                          marginBottom: "var(--space-3)",
+                        }}
+                      >
+                        <div style={{ display: "flex", alignItems: "center", gap: "var(--space-3)" }}>
+                          <TopicIcon topicId={m.topicId} category={topicSummary.category} size={18} badgeSize={36} variant="badge" />
+                          <span
+                            style={{
+                              fontSize: "0.75rem",
+                              fontWeight: 700,
+                              letterSpacing: "0.5px",
+                              textTransform: "uppercase",
+                              color: topicSummary.category === "verbal" ? "var(--group-verbal-text)" : "var(--group-nonverbal-text)",
+                              backgroundColor: topicSummary.category === "verbal" ? "var(--group-verbal-bg)" : "var(--group-nonverbal-bg)",
+                              padding: "2px 8px",
+                              borderRadius: "var(--radius-sm)",
+                            }}
+                          >
+                            {topicSummary.category === "verbal" ? "Verbal" : "Non-Verbal"}
+                          </span>
+                        </div>
+
+                        <span className="badge badge-medium" style={{ fontSize: "0.72rem", flexShrink: 0, fontWeight: 700 }}>
+                          Weight: {m.weight}/5
+                        </span>
                       </div>
-                      <span className="badge badge-medium" style={{ fontSize: "0.7rem", flexShrink: 0 }}>
-                        Weight: {m.weight}/5
-                      </span>
+
+                      <h3
+                        style={{
+                          fontSize: "1.08rem",
+                          fontWeight: 700,
+                          color: "var(--text-primary)",
+                          lineHeight: 1.35,
+                          marginBottom: "var(--space-2)",
+                          whiteSpace: "normal",
+                          wordBreak: "break-word",
+                        }}
+                      >
+                        {topicSummary.name}
+                      </h3>
+
+                      <p
+                        style={{
+                          fontSize: "0.85rem",
+                          color: "var(--text-secondary)",
+                          lineHeight: 1.5,
+                          marginBottom: "var(--space-3)",
+                          display: "-webkit-box",
+                          WebkitLineClamp: 3,
+                          WebkitBoxOrient: "vertical",
+                          overflow: "hidden",
+                        }}
+                      >
+                        {topicSummary.shortcutSummary || "Master core concepts, shortcut rules, and high-frequency patterns."}
+                      </p>
                     </div>
 
-                    <p style={{ fontSize: "0.85rem", color: "var(--text-secondary)", marginBottom: "var(--space-3)", display: "-webkit-box", WebkitLineClamp: 2, WebkitBoxOrient: "vertical", overflow: "hidden" }}>
-                      {topicSummary.shortcutSummary || "Master core concepts and rules."}
-                    </p>
-
-                    <div style={{ display: "flex", justifyContent: "space-between", fontSize: "0.8rem", color: "var(--text-muted)" }}>
-                      <span>{topicSummary.category === "verbal" ? "Verbal" : "Non-Verbal"}</span>
-                      <span style={{ color: "var(--color-primary)", fontWeight: 600 }}>Study Topic →</span>
+                    <div
+                      style={{
+                        borderTop: "1px solid var(--border-subtle)",
+                        paddingTop: "var(--space-3)",
+                        marginTop: "auto",
+                        display: "flex",
+                        alignItems: "center",
+                        justifyContent: "space-between",
+                        fontSize: "0.82rem",
+                      }}
+                    >
+                      <span style={{ color: "var(--text-muted)", fontSize: "0.78rem" }}>
+                        {topicSummary.practiceCount || 500} Practice MCQs
+                      </span>
+                      <span style={{ color: "var(--color-primary)", fontWeight: 700, display: "flex", alignItems: "center", gap: "2px" }}>
+                        Study Topic →
+                      </span>
                     </div>
                   </Link>
                 );
@@ -241,23 +371,92 @@ export default async function ExamDetailPage({ params }: ExamDetailPageProps) {
                     style={{
                       textDecoration: "none",
                       borderLeft: "4px solid var(--color-success)",
+                      display: "flex",
+                      flexDirection: "column",
+                      justifyContent: "space-between",
+                      height: "100%",
                     }}
                   >
-                    <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", gap: "var(--space-2)", marginBottom: "var(--space-2)" }}>
-                      <div style={{ display: "flex", alignItems: "center", gap: "var(--space-2.5)", minWidth: 0 }}>
-                        <TopicIcon topicId={m.topicId} category={topicSummary.category} size={16} badgeSize={32} variant="badge" />
-                        <h3 style={{ fontSize: "1.05rem", color: "var(--text-primary)", whiteSpace: "nowrap", overflow: "hidden", textOverflow: "ellipsis" }}>
-                          {topicSummary.name}
-                        </h3>
+                    <div>
+                      <div
+                        style={{
+                          display: "flex",
+                          alignItems: "center",
+                          justifyContent: "space-between",
+                          gap: "var(--space-3)",
+                          marginBottom: "var(--space-3)",
+                        }}
+                      >
+                        <div style={{ display: "flex", alignItems: "center", gap: "var(--space-3)" }}>
+                          <TopicIcon topicId={m.topicId} category={topicSummary.category} size={18} badgeSize={36} variant="badge" />
+                          <span
+                            style={{
+                              fontSize: "0.75rem",
+                              fontWeight: 700,
+                              letterSpacing: "0.5px",
+                              textTransform: "uppercase",
+                              color: topicSummary.category === "verbal" ? "var(--group-verbal-text)" : "var(--group-nonverbal-text)",
+                              backgroundColor: topicSummary.category === "verbal" ? "var(--group-verbal-bg)" : "var(--group-nonverbal-bg)",
+                              padding: "2px 8px",
+                              borderRadius: "var(--radius-sm)",
+                            }}
+                          >
+                            {topicSummary.category === "verbal" ? "Verbal" : "Non-Verbal"}
+                          </span>
+                        </div>
+
+                        <span className="badge badge-easy" style={{ fontSize: "0.72rem", flexShrink: 0, fontWeight: 700 }}>
+                          Weight: {m.weight}/5
+                        </span>
                       </div>
-                      <span className="badge badge-easy" style={{ fontSize: "0.7rem", flexShrink: 0 }}>
-                        Weight: {m.weight}/5
-                      </span>
+
+                      <h3
+                        style={{
+                          fontSize: "1.08rem",
+                          fontWeight: 700,
+                          color: "var(--text-primary)",
+                          lineHeight: 1.35,
+                          marginBottom: "var(--space-2)",
+                          whiteSpace: "normal",
+                          wordBreak: "break-word",
+                        }}
+                      >
+                        {topicSummary.name}
+                      </h3>
+
+                      <p
+                        style={{
+                          fontSize: "0.85rem",
+                          color: "var(--text-secondary)",
+                          lineHeight: 1.5,
+                          marginBottom: "var(--space-3)",
+                          display: "-webkit-box",
+                          WebkitLineClamp: 3,
+                          WebkitBoxOrient: "vertical",
+                          overflow: "hidden",
+                        }}
+                      >
+                        {topicSummary.shortcutSummary || "Master core concepts, shortcut rules, and high-frequency patterns."}
+                      </p>
                     </div>
 
-                    <div style={{ display: "flex", justifyContent: "space-between", fontSize: "0.8rem", color: "var(--text-muted)" }}>
-                      <span>{topicSummary.category === "verbal" ? "Verbal" : "Non-Verbal"}</span>
-                      <span style={{ color: "var(--color-primary)", fontWeight: 600 }}>Study Topic →</span>
+                    <div
+                      style={{
+                        borderTop: "1px solid var(--border-subtle)",
+                        paddingTop: "var(--space-3)",
+                        marginTop: "auto",
+                        display: "flex",
+                        alignItems: "center",
+                        justifyContent: "space-between",
+                        fontSize: "0.82rem",
+                      }}
+                    >
+                      <span style={{ color: "var(--text-muted)", fontSize: "0.78rem" }}>
+                        {topicSummary.practiceCount || 500} Practice MCQs
+                      </span>
+                      <span style={{ color: "var(--color-primary)", fontWeight: 700, display: "flex", alignItems: "center", gap: "2px" }}>
+                        Study Topic →
+                      </span>
                     </div>
                   </Link>
                 );

@@ -211,9 +211,9 @@ export default function StatsPage() {
                   >
                     <div>
                       <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", marginBottom: "var(--space-2)", gap: "var(--space-2)" }}>
-                        <div style={{ display: "flex", alignItems: "center", gap: "var(--space-2)", minWidth: 0 }}>
-                          <TopicIcon topicId={w.topicId} size={14} badgeSize={26} variant="badge" />
-                          <h4 style={{ fontSize: "1rem", whiteSpace: "nowrap", overflow: "hidden", textOverflow: "ellipsis" }}>
+                        <div style={{ display: "flex", alignItems: "center", gap: "var(--space-3)", minWidth: 0 }}>
+                          <TopicIcon topicId={w.topicId} size={15} badgeSize={28} variant="badge" />
+                          <h4 style={{ fontSize: "0.95rem", fontWeight: 600, lineHeight: 1.3, wordBreak: "break-word" }}>
                             {w.topicName}
                           </h4>
                         </div>
@@ -264,7 +264,7 @@ export default function StatsPage() {
                   return (
                     <div key={topic.topicId}>
                       <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", marginBottom: "4px", fontSize: "0.9rem" }}>
-                        <div style={{ display: "flex", alignItems: "center", gap: "var(--space-2.5)", minWidth: 0 }}>
+                        <div style={{ display: "flex", alignItems: "center", gap: "var(--space-2)", minWidth: 0 }}>
                           <TopicIcon topicId={topic.topicId} category={topic.category} size={14} badgeSize={26} variant="badge" />
                           <Link href={`/topics/${topic.topicId}`} style={{ fontWeight: 600, color: "var(--text-primary)" }}>
                             {topic.topicName}
