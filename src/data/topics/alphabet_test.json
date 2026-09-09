@@ -49,343 +49,463 @@
       ],
       "practiceQuestions": [
         {
-          "questionText": "Alphabet Test Practice Q1: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "Which letter is 2 th to the left of the 10 th letter from the left end in the English alphabet?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Alphabet Test. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Alphabet Test Practice Q2: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 2,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Alphabet Test. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Alphabet Test Practice Q3: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Alphabet Test. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Alphabet Test Practice Q4: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "H",
+            "B",
+            "C",
+            "J"
           ],
           "correctIndex": 0,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Alphabet Test. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Same side direction: Left of Left -> Subtract (m - n).",
+          "explanation": "Rule: Left of Left = (m - n) from the left end. Here: 10 - 2 = 8 th letter from the left, which is H.",
+          "solutionSteps": "Step 1: Identify reference direction and destination direction.\nStep 2: Same sides (Left & Left) -> Subtract: 10 - 2 = 8.\nStep 3: Count from the left end of the alphabet to find H.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         },
         {
-          "questionText": "Alphabet Test Practice Q5: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "Which letter is 4 th to the left of the 12 th letter from the left end in the English alphabet?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Alphabet Test. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Alphabet Test Practice Q6: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "F",
+            "A",
+            "H",
+            "U"
           ],
           "correctIndex": 2,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Alphabet Test. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Same side direction: Left of Left -> Subtract (m - n).",
+          "explanation": "Rule: Left of Left = (m - n) from the left end. Here: 12 - 4 = 8 th letter from the left, which is H.",
+          "solutionSteps": "Step 1: Identify reference direction and destination direction.\nStep 2: Same sides (Left & Left) -> Subtract: 12 - 4 = 8.\nStep 3: Count from the left end of the alphabet to find H.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         },
         {
-          "questionText": "Alphabet Test Practice Q7: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "Which letter is 6 th to the left of the 14 th letter from the left end in the English alphabet?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "X",
+            "H",
+            "W",
+            "C"
           ],
-          "correctIndex": 3,
+          "correctIndex": 1,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Alphabet Test. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Same side direction: Left of Left -> Subtract (m - n).",
+          "explanation": "Rule: Left of Left = (m - n) from the left end. Here: 14 - 6 = 8 th letter from the left, which is H.",
+          "solutionSteps": "Step 1: Identify reference direction and destination direction.\nStep 2: Same sides (Left & Left) -> Subtract: 14 - 6 = 8.\nStep 3: Count from the left end of the alphabet to find H.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         },
         {
-          "questionText": "Alphabet Test Practice Q8: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "Which letter is 2 th to the left of the 16 th letter from the left end in the English alphabet?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "N",
+            "H",
+            "T",
+            "G"
           ],
           "correctIndex": 0,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Alphabet Test. Work through the problem step by step using the shortcuts taught in this topic.",
+          "difficulty": "easy",
+          "hint": "Same side direction: Left of Left -> Subtract (m - n).",
+          "explanation": "Rule: Left of Left = (m - n) from the left end. Here: 16 - 2 = 14 th letter from the left, which is N.",
+          "solutionSteps": "Step 1: Identify reference direction and destination direction.\nStep 2: Same sides (Left & Left) -> Subtract: 16 - 2 = 14.\nStep 3: Count from the left end of the alphabet to find N.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         },
         {
-          "questionText": "Alphabet Test Practice Q9: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "Which letter is 4 th to the left of the 18 th letter from the left end in the English alphabet?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "C",
+            "N",
+            "J",
+            "M"
+          ],
+          "correctIndex": 1,
+          "difficulty": "easy",
+          "hint": "Same side direction: Left of Left -> Subtract (m - n).",
+          "explanation": "Rule: Left of Left = (m - n) from the left end. Here: 18 - 4 = 14 th letter from the left, which is N.",
+          "solutionSteps": "Step 1: Identify reference direction and destination direction.\nStep 2: Same sides (Left & Left) -> Subtract: 18 - 4 = 14.\nStep 3: Count from the left end of the alphabet to find N.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
+          ]
+        },
+        {
+          "questionText": "Which letter is 6 th to the left of the 20 th letter from the left end in the English alphabet?",
+          "options": [
+            "N",
+            "T",
+            "Q",
+            "A"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "hint": "Same side direction: Left of Left -> Subtract (m - n).",
+          "explanation": "Rule: Left of Left = (m - n) from the left end. Here: 20 - 6 = 14 th letter from the left, which is N.",
+          "solutionSteps": "Step 1: Identify reference direction and destination direction.\nStep 2: Same sides (Left & Left) -> Subtract: 20 - 6 = 14.\nStep 3: Count from the left end of the alphabet to find N.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
+          ]
+        },
+        {
+          "questionText": "Which letter is 4 th to the right of the 5 th letter from the left end in the English alphabet?",
+          "options": [
+            "M",
+            "I",
+            "Y",
+            "W"
           ],
           "correctIndex": 1,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Alphabet Test. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Opposite side direction: Right of Left -> Add (m + n).",
+          "explanation": "Rule: Right of Left = (m + n) from the left end. Here: 5 + 4 = 9 th letter from the left, which is I.",
+          "solutionSteps": "Step 1: Identify reference direction and destination direction.\nStep 2: Opposite sides (Left & Right) -> Add: 5 + 4 = 9.\nStep 3: Count from the left end of the alphabet to find I.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         },
         {
-          "questionText": "Alphabet Test Practice Q10: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "Which letter is 6 th to the right of the 7 th letter from the left end in the English alphabet?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Z",
+            "D",
+            "M",
+            "V"
           ],
           "correctIndex": 2,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Alphabet Test. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Opposite side direction: Right of Left -> Add (m + n).",
+          "explanation": "Rule: Right of Left = (m + n) from the left end. Here: 7 + 6 = 13 th letter from the left, which is M.",
+          "solutionSteps": "Step 1: Identify reference direction and destination direction.\nStep 2: Opposite sides (Left & Right) -> Add: 7 + 6 = 13.\nStep 3: Count from the left end of the alphabet to find M.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         },
         {
-          "questionText": "Alphabet Test Practice Q11: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "Which letter is 8 th to the right of the 9 th letter from the left end in the English alphabet?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Alphabet Test. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Alphabet Test Practice Q12: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Q",
+            "K",
+            "A",
+            "O"
           ],
           "correctIndex": 0,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Alphabet Test. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Opposite side direction: Right of Left -> Add (m + n).",
+          "explanation": "Rule: Right of Left = (m + n) from the left end. Here: 9 + 8 = 17 th letter from the left, which is Q.",
+          "solutionSteps": "Step 1: Identify reference direction and destination direction.\nStep 2: Opposite sides (Left & Right) -> Add: 9 + 8 = 17.\nStep 3: Count from the left end of the alphabet to find Q.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         },
         {
-          "questionText": "Alphabet Test Practice Q13: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "Which letter is 4 th to the right of the 11 th letter from the left end in the English alphabet?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "X",
+            "U",
+            "J",
+            "O"
           ],
-          "correctIndex": 1,
+          "correctIndex": 3,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Alphabet Test. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Opposite side direction: Right of Left -> Add (m + n).",
+          "explanation": "Rule: Right of Left = (m + n) from the left end. Here: 11 + 4 = 15 th letter from the left, which is O.",
+          "solutionSteps": "Step 1: Identify reference direction and destination direction.\nStep 2: Opposite sides (Left & Right) -> Add: 11 + 4 = 15.\nStep 3: Count from the left end of the alphabet to find O.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         },
         {
-          "questionText": "Alphabet Test Practice Q14: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "Which letter is 6 th to the right of the 5 th letter from the left end in the English alphabet?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "K",
+            "H",
+            "V",
+            "R"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "hint": "Opposite side direction: Right of Left -> Add (m + n).",
+          "explanation": "Rule: Right of Left = (m + n) from the left end. Here: 5 + 6 = 11 th letter from the left, which is K.",
+          "solutionSteps": "Step 1: Identify reference direction and destination direction.\nStep 2: Opposite sides (Left & Right) -> Add: 5 + 6 = 11.\nStep 3: Count from the left end of the alphabet to find K.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
+          ]
+        },
+        {
+          "questionText": "Which letter is 8 th to the right of the 7 th letter from the left end in the English alphabet?",
+          "options": [
+            "O",
+            "T",
+            "W",
+            "D"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "hint": "Opposite side direction: Right of Left -> Add (m + n).",
+          "explanation": "Rule: Right of Left = (m + n) from the left end. Here: 7 + 8 = 15 th letter from the left, which is O.",
+          "solutionSteps": "Step 1: Identify reference direction and destination direction.\nStep 2: Opposite sides (Left & Right) -> Add: 7 + 8 = 15.\nStep 3: Count from the left end of the alphabet to find O.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
+          ]
+        },
+        {
+          "questionText": "Which letter is 4 th to the right of the 9 th letter from the left end in the English alphabet?",
+          "options": [
+            "H",
+            "I",
+            "M",
+            "A"
           ],
           "correctIndex": 2,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Alphabet Test. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Opposite side direction: Right of Left -> Add (m + n).",
+          "explanation": "Rule: Right of Left = (m + n) from the left end. Here: 9 + 4 = 13 th letter from the left, which is M.",
+          "solutionSteps": "Step 1: Identify reference direction and destination direction.\nStep 2: Opposite sides (Left & Right) -> Add: 9 + 4 = 13.\nStep 3: Count from the left end of the alphabet to find M.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         },
         {
-          "questionText": "Alphabet Test Practice Q15: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "Which letter is 6 th to the right of the 11 th letter from the left end in the English alphabet?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "O",
+            "M",
+            "Q",
+            "P"
           ],
-          "correctIndex": 3,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Alphabet Test. Work through the problem step by step using the shortcuts taught in this topic.",
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "hint": "Opposite side direction: Right of Left -> Add (m + n).",
+          "explanation": "Rule: Right of Left = (m + n) from the left end. Here: 11 + 6 = 17 th letter from the left, which is Q.",
+          "solutionSteps": "Step 1: Identify reference direction and destination direction.\nStep 2: Opposite sides (Left & Right) -> Add: 11 + 6 = 17.\nStep 3: Count from the left end of the alphabet to find Q.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         },
         {
-          "questionText": "Alphabet Test Practice Q16: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "How many such pairs of letters are there in the word \"PREAMBLE\" each of which has as many letters between them in the word as in the English alphabet (both forward and backward)?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "3",
+            "5",
+            "2",
+            "4"
           ],
           "correctIndex": 0,
           "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Alphabet Test. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Read each letter and count the English alphabet sequentially in forward and backward directions.",
+          "explanation": "In the word \"PREAMBLE\", there are 3 such pairs (Pairs: E-A, M-B, P-R). Between each pair in this word, the number of letters matches the number of letters between them in the standard alphabet.",
+          "solutionSteps": "Step 1: Check from the first letter moving forward, counting A, B, C... against the letters.\nStep 2: Repeat the scan in reverse (backward) direction for every letter.\nStep 3: Total valid pairs found = 3.",
           "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
+            "IBPS PO",
+            "IBPS CLERK",
+            "SBI PO",
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
           ]
         },
         {
-          "questionText": "Alphabet Test Practice Q17: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "How many such pairs of letters are there in the word \"CREATIVE\" each of which has as many letters between them in the word as in the English alphabet (both forward and backward)?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "3",
+            "4",
+            "5",
+            "2"
           ],
-          "correctIndex": 1,
+          "correctIndex": 0,
           "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Alphabet Test. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Read each letter and count the English alphabet sequentially in forward and backward directions.",
+          "explanation": "In the word \"CREATIVE\", there are 3 such pairs (Pairs: C-E, A-E, I-V). Between each pair in this word, the number of letters matches the number of letters between them in the standard alphabet.",
+          "solutionSteps": "Step 1: Check from the first letter moving forward, counting A, B, C... against the letters.\nStep 2: Repeat the scan in reverse (backward) direction for every letter.\nStep 3: Total valid pairs found = 3.",
           "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
+            "IBPS PO",
+            "IBPS CLERK",
+            "SBI PO",
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
           ]
         },
         {
-          "questionText": "Alphabet Test Practice Q18: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "How many such pairs of letters are there in the word \"HORIZON\" each of which has as many letters between them in the word as in the English alphabet (both forward and backward)?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "4",
+            "5",
+            "3",
+            "6"
+          ],
+          "correctIndex": 0,
+          "difficulty": "hard",
+          "hint": "Read each letter and count the English alphabet sequentially in forward and backward directions.",
+          "explanation": "In the word \"HORIZON\", there are 4 such pairs (Pairs: H-O, R-O, I-N, O-N). Between each pair in this word, the number of letters matches the number of letters between them in the standard alphabet.",
+          "solutionSteps": "Step 1: Check from the first letter moving forward, counting A, B, C... against the letters.\nStep 2: Repeat the scan in reverse (backward) direction for every letter.\nStep 3: Total valid pairs found = 4.",
+          "examTags": [
+            "IBPS PO",
+            "IBPS CLERK",
+            "SBI PO",
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
+          ]
+        },
+        {
+          "questionText": "How many such pairs of letters are there in the word \"ENGLISH\" each of which has as many letters between them in the word as in the English alphabet (both forward and backward)?",
+          "options": [
+            "2",
+            "4",
+            "1",
+            "3"
+          ],
+          "correctIndex": 0,
+          "difficulty": "hard",
+          "hint": "Read each letter and count the English alphabet sequentially in forward and backward directions.",
+          "explanation": "In the word \"ENGLISH\", there are 2 such pairs (Pairs: E-G, N-I). Between each pair in this word, the number of letters matches the number of letters between them in the standard alphabet.",
+          "solutionSteps": "Step 1: Check from the first letter moving forward, counting A, B, C... against the letters.\nStep 2: Repeat the scan in reverse (backward) direction for every letter.\nStep 3: Total valid pairs found = 2.",
+          "examTags": [
+            "IBPS PO",
+            "IBPS CLERK",
+            "SBI PO",
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
+          ]
+        },
+        {
+          "questionText": "How many such pairs of letters are there in the word \"GOVERNMENT\" each of which has as many letters between them in the word as in the English alphabet (both forward and backward)?",
+          "options": [
+            "1",
+            "3",
+            "4",
+            "2"
+          ],
+          "correctIndex": 3,
+          "difficulty": "hard",
+          "hint": "Read each letter and count the English alphabet sequentially in forward and backward directions.",
+          "explanation": "In the word \"GOVERNMENT\", there are 2 such pairs (Pairs: E-N, R-T). Between each pair in this word, the number of letters matches the number of letters between them in the standard alphabet.",
+          "solutionSteps": "Step 1: Check from the first letter moving forward, counting A, B, C... against the letters.\nStep 2: Repeat the scan in reverse (backward) direction for every letter.\nStep 3: Total valid pairs found = 2.",
+          "examTags": [
+            "IBPS PO",
+            "IBPS CLERK",
+            "SBI PO",
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
+          ]
+        },
+        {
+          "questionText": "How many such pairs of letters are there in the word \"PRODUCT\" each of which has as many letters between them in the word as in the English alphabet (both forward and backward)?",
+          "options": [
+            "0",
+            "2",
+            "1",
+            "3"
           ],
           "correctIndex": 2,
           "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Alphabet Test. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Read each letter and count the English alphabet sequentially in forward and backward directions.",
+          "explanation": "In the word \"PRODUCT\", there are 1 such pairs (Pairs: P-R). Between each pair in this word, the number of letters matches the number of letters between them in the standard alphabet.",
+          "solutionSteps": "Step 1: Check from the first letter moving forward, counting A, B, C... against the letters.\nStep 2: Repeat the scan in reverse (backward) direction for every letter.\nStep 3: Total valid pairs found = 1.",
           "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Alphabet Test Practice Q19: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Alphabet Test. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Alphabet Test Practice Q20: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Alphabet Test. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
+            "IBPS PO",
+            "IBPS CLERK",
+            "SBI PO",
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
           ]
         }
       ]

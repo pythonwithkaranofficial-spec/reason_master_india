@@ -49,343 +49,477 @@
       ],
       "practiceQuestions": [
         {
-          "questionText": "Seating Arrangement — Linear Practice Q1: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "In a row of six persons A, C, F, E, B, D facing North in order: A, C, F, E, B, D from left to right. How many persons are seated between C and B?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Seating Arrangement — Linear. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "IBPS Clerk"
-          ]
-        },
-        {
-          "questionText": "Seating Arrangement — Linear Practice Q2: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "1",
+            "3",
+            "2",
+            "0"
           ],
           "correctIndex": 2,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Seating Arrangement — Linear. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "When facing North, your left is the line's left and your right is the line's right.",
+          "explanation": "Between C (position 2) and B (position 5), the persons seated are F and E. Exactly 2 persons sit between them.",
+          "solutionSteps": "Step 1: Fix the definite positions (e.g. extreme ends).\nStep 2: Place immediate neighbors and relative offsets.\nStep 3: Verify all conditions against the deduced order: A - C - F - E - B - D.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "IBPS Clerk"
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Seating Arrangement — Linear Practice Q3: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "In a row of six persons E, B, C, F, A, D facing North in order: E, B, C, F, A, D from left to right. How many persons are seated between B and A?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Seating Arrangement — Linear. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "IBPS Clerk"
-          ]
-        },
-        {
-          "questionText": "Seating Arrangement — Linear Practice Q4: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Seating Arrangement — Linear. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "IBPS Clerk"
-          ]
-        },
-        {
-          "questionText": "Seating Arrangement — Linear Practice Q5: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Seating Arrangement — Linear. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "IBPS Clerk"
-          ]
-        },
-        {
-          "questionText": "Seating Arrangement — Linear Practice Q6: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "1",
+            "3",
+            "2",
+            "0"
           ],
           "correctIndex": 2,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Seating Arrangement — Linear. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "When facing North, your left is the line's left and your right is the line's right.",
+          "explanation": "Between B (position 2) and A (position 5), the persons seated are C and F. Exactly 2 persons sit between them.",
+          "solutionSteps": "Step 1: Fix the definite positions (e.g. extreme ends).\nStep 2: Place immediate neighbors and relative offsets.\nStep 3: Verify all conditions against the deduced order: E - B - C - F - A - D.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "IBPS Clerk"
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Seating Arrangement — Linear Practice Q7: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "In a row of six persons A, B, D, E, F, C facing North in order: A, B, D, E, F, C from left to right. How many persons are seated between B and F?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "0",
+            "1",
+            "2",
+            "3"
           ],
-          "correctIndex": 3,
+          "correctIndex": 2,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Seating Arrangement — Linear. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "When facing North, your left is the line's left and your right is the line's right.",
+          "explanation": "Between B (position 2) and F (position 5), the persons seated are D and E. Exactly 2 persons sit between them.",
+          "solutionSteps": "Step 1: Fix the definite positions (e.g. extreme ends).\nStep 2: Place immediate neighbors and relative offsets.\nStep 3: Verify all conditions against the deduced order: A - B - D - E - F - C.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "IBPS Clerk"
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Seating Arrangement — Linear Practice Q8: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "In a row of six persons F, A, B, C, D, E facing North in order: F, A, B, C, D, E from left to right. How many persons are seated between A and D?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Seating Arrangement — Linear. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "IBPS Clerk"
-          ]
-        },
-        {
-          "questionText": "Seating Arrangement — Linear Practice Q9: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "1",
+            "2",
+            "3",
+            "0"
           ],
           "correctIndex": 1,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Seating Arrangement — Linear. Work through the problem step by step using the shortcuts taught in this topic.",
+          "difficulty": "easy",
+          "hint": "When facing North, your left is the line's left and your right is the line's right.",
+          "explanation": "Between A (position 2) and D (position 5), the persons seated are B and C. Exactly 2 persons sit between them.",
+          "solutionSteps": "Step 1: Fix the definite positions (e.g. extreme ends).\nStep 2: Place immediate neighbors and relative offsets.\nStep 3: Verify all conditions against the deduced order: F - A - B - C - D - E.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "IBPS Clerk"
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Seating Arrangement — Linear Practice Q10: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "In a row of six persons F, C, B, E, D, A facing North in order: F, C, B, E, D, A from left to right. How many persons are seated between C and D?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "1",
+            "3",
+            "2",
+            "0"
           ],
           "correctIndex": 2,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Seating Arrangement — Linear. Work through the problem step by step using the shortcuts taught in this topic.",
+          "difficulty": "easy",
+          "hint": "When facing North, your left is the line's left and your right is the line's right.",
+          "explanation": "Between C (position 2) and D (position 5), the persons seated are B and E. Exactly 2 persons sit between them.",
+          "solutionSteps": "Step 1: Fix the definite positions (e.g. extreme ends).\nStep 2: Place immediate neighbors and relative offsets.\nStep 3: Verify all conditions against the deduced order: F - C - B - E - D - A.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "IBPS Clerk"
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Seating Arrangement — Linear Practice Q11: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "In a row of six persons C, E, D, B, A, F facing North in order: C, E, D, B, A, F from left to right. How many persons are seated between E and A?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "1",
+            "0",
+            "2",
+            "3"
+          ],
+          "correctIndex": 2,
+          "difficulty": "easy",
+          "hint": "When facing North, your left is the line's left and your right is the line's right.",
+          "explanation": "Between E (position 2) and A (position 5), the persons seated are D and B. Exactly 2 persons sit between them.",
+          "solutionSteps": "Step 1: Fix the definite positions (e.g. extreme ends).\nStep 2: Place immediate neighbors and relative offsets.\nStep 3: Verify all conditions against the deduced order: C - E - D - B - A - F.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Six friends B, D, A, F, C, E are sitting in a straight row facing North. D is to the immediate right of B. A is sitting third to the left of E. F is between A and C. B is at the extreme left end. Who is sitting at the extreme right end?",
+          "options": [
+            "C",
+            "F",
+            "B",
+            "E"
           ],
           "correctIndex": 3,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Seating Arrangement — Linear. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "When facing North, your left is the line's left and your right is the line's right.",
+          "explanation": "From the clues, B is at the extreme left end. The linear order from left to right is: B - D - A - F - C - E. Therefore, E sits at the extreme right end.",
+          "solutionSteps": "Step 1: Fix the definite positions (e.g. extreme ends).\nStep 2: Place immediate neighbors and relative offsets.\nStep 3: Verify all conditions against the deduced order: B - D - A - F - C - E.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "IBPS Clerk"
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Seating Arrangement — Linear Practice Q12: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "Six persons A, E, F, B, C, D are seated in a row facing North. F is sitting between E and B. A is at the leftmost position, and C is to the immediate left of D. Who is sitting to the immediate left of F?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Seating Arrangement — Linear. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "IBPS Clerk"
-          ]
-        },
-        {
-          "questionText": "Seating Arrangement — Linear Practice Q13: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Seating Arrangement — Linear. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "IBPS Clerk"
-          ]
-        },
-        {
-          "questionText": "Seating Arrangement — Linear Practice Q14: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "D",
+            "F",
+            "E",
+            "C"
           ],
           "correctIndex": 2,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Seating Arrangement — Linear. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "When facing North, your left is the line's left and your right is the line's right.",
+          "explanation": "Since all face North, left and right match our standard orientation. The order from left to right is A - E - F - B - C - D. To the immediate left of F is E.",
+          "solutionSteps": "Step 1: Fix the definite positions (e.g. extreme ends).\nStep 2: Place immediate neighbors and relative offsets.\nStep 3: Verify all conditions against the deduced order: A - E - F - B - C - D.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "IBPS Clerk"
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Seating Arrangement — Linear Practice Q15: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "Six friends C, F, B, D, A, E are sitting in a straight row facing North. F is to the immediate right of C. B is sitting third to the left of E. D is between B and A. C is at the extreme left end. Who is sitting at the extreme right end?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "D",
+            "E",
+            "A",
+            "B"
+          ],
+          "correctIndex": 1,
+          "difficulty": "medium",
+          "hint": "When facing North, your left is the line's left and your right is the line's right.",
+          "explanation": "From the clues, C is at the extreme left end. The linear order from left to right is: C - F - B - D - A - E. Therefore, E sits at the extreme right end.",
+          "solutionSteps": "Step 1: Fix the definite positions (e.g. extreme ends).\nStep 2: Place immediate neighbors and relative offsets.\nStep 3: Verify all conditions against the deduced order: C - F - B - D - A - E.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Six persons F, D, E, A, B, C are seated in a row facing North. E is sitting between D and A. F is at the leftmost position, and B is to the immediate left of C. Who is sitting to the immediate left of E?",
+          "options": [
+            "E",
+            "D",
+            "F",
+            "B"
+          ],
+          "correctIndex": 1,
+          "difficulty": "medium",
+          "hint": "When facing North, your left is the line's left and your right is the line's right.",
+          "explanation": "Since all face North, left and right match our standard orientation. The order from left to right is F - D - E - A - B - C. To the immediate left of E is D.",
+          "solutionSteps": "Step 1: Fix the definite positions (e.g. extreme ends).\nStep 2: Place immediate neighbors and relative offsets.\nStep 3: Verify all conditions against the deduced order: F - D - E - A - B - C.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Six friends D, C, E, B, A, F are sitting in a straight row facing North. C is to the immediate right of D. E is sitting third to the left of F. B is between E and A. D is at the extreme left end. Who is sitting at the extreme right end?",
+          "options": [
+            "B",
+            "F",
+            "C",
+            "E"
+          ],
+          "correctIndex": 1,
+          "difficulty": "medium",
+          "hint": "When facing North, your left is the line's left and your right is the line's right.",
+          "explanation": "From the clues, D is at the extreme left end. The linear order from left to right is: D - C - E - B - A - F. Therefore, F sits at the extreme right end.",
+          "solutionSteps": "Step 1: Fix the definite positions (e.g. extreme ends).\nStep 2: Place immediate neighbors and relative offsets.\nStep 3: Verify all conditions against the deduced order: D - C - E - B - A - F.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Six persons E, C, D, F, A, B are seated in a row facing North. D is sitting between C and F. E is at the leftmost position, and A is to the immediate left of B. Who is sitting to the immediate left of D?",
+          "options": [
+            "D",
+            "A",
+            "F",
+            "C"
           ],
           "correctIndex": 3,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Seating Arrangement — Linear. Work through the problem step by step using the shortcuts taught in this topic.",
+          "difficulty": "medium",
+          "hint": "When facing North, your left is the line's left and your right is the line's right.",
+          "explanation": "Since all face North, left and right match our standard orientation. The order from left to right is E - C - D - F - A - B. To the immediate left of D is C.",
+          "solutionSteps": "Step 1: Fix the definite positions (e.g. extreme ends).\nStep 2: Place immediate neighbors and relative offsets.\nStep 3: Verify all conditions against the deduced order: E - C - D - F - A - B.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "IBPS Clerk"
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Seating Arrangement — Linear Practice Q16: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "Six friends B, D, A, C, E, F are sitting in a straight row facing North. D is to the immediate right of B. A is sitting third to the left of F. C is between A and E. B is at the extreme left end. Who is sitting at the extreme right end?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "A",
+            "E",
+            "F",
+            "C"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "hint": "When facing North, your left is the line's left and your right is the line's right.",
+          "explanation": "From the clues, B is at the extreme left end. The linear order from left to right is: B - D - A - C - E - F. Therefore, F sits at the extreme right end.",
+          "solutionSteps": "Step 1: Fix the definite positions (e.g. extreme ends).\nStep 2: Place immediate neighbors and relative offsets.\nStep 3: Verify all conditions against the deduced order: B - D - A - C - E - F.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Six persons E, C, B, F, D, A are seated in a row facing North. B is sitting between C and F. E is at the leftmost position, and D is to the immediate left of A. Who is sitting to the immediate left of B?",
+          "options": [
+            "A",
+            "F",
+            "C",
+            "D"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "hint": "When facing North, your left is the line's left and your right is the line's right.",
+          "explanation": "Since all face North, left and right match our standard orientation. The order from left to right is E - C - B - F - D - A. To the immediate left of B is C.",
+          "solutionSteps": "Step 1: Fix the definite positions (e.g. extreme ends).\nStep 2: Place immediate neighbors and relative offsets.\nStep 3: Verify all conditions against the deduced order: E - C - B - F - D - A.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Eight people sit in two parallel rows containing four people each. In Row 1, A, B, C, and D sit facing South. In Row 2, P, Q, R, and S sit facing North, each facing a person from Row 1.\nOrder in Row 1 (from our left to right): B, A, C, D.\nOrder in Row 2 (from our left to right): Q, R, S, P.\nWho sits directly opposite to B?",
+          "options": [
+            "Q",
+            "P",
+            "S",
+            "R"
           ],
           "correctIndex": 0,
           "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Seating Arrangement — Linear. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "In parallel rows, corresponding column indices face each other.",
+          "explanation": "Since Row 1 and Row 2 are aligned with four positions each, column B (index 1) faces column Q (index 1). Thus, Q sits directly opposite to B.",
+          "solutionSteps": "Step 1: Write down the position indices 1, 2, 3, 4 for both rows.\nStep 2: Match column by column: B faces Q, A faces R, C faces S, D faces P.\nStep 3: Locate B and find its opposite counterpart Q.",
           "examTags": [
             "IBPS PO",
+            "IBPS CLERK",
             "SBI PO",
-            "IBPS Clerk"
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
           ]
         },
         {
-          "questionText": "Seating Arrangement — Linear Practice Q17: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "Eight people sit in two parallel rows containing four people each. In Row 1, A, B, C, and D sit facing South. In Row 2, P, Q, R, and S sit facing North, each facing a person from Row 1.\nOrder in Row 1 (from our left to right): D, C, A, B.\nOrder in Row 2 (from our left to right): Q, R, S, P.\nWho sits directly opposite to C?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Q",
+            "R",
+            "S",
+            "P"
           ],
           "correctIndex": 1,
           "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Seating Arrangement — Linear. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "In parallel rows, corresponding column indices face each other.",
+          "explanation": "Since Row 1 and Row 2 are aligned with four positions each, column C (index 2) faces column R (index 2). Thus, R sits directly opposite to C.",
+          "solutionSteps": "Step 1: Write down the position indices 1, 2, 3, 4 for both rows.\nStep 2: Match column by column: D faces Q, C faces R, A faces S, B faces P.\nStep 3: Locate C and find its opposite counterpart R.",
           "examTags": [
             "IBPS PO",
+            "IBPS CLERK",
             "SBI PO",
-            "IBPS Clerk"
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
           ]
         },
         {
-          "questionText": "Seating Arrangement — Linear Practice Q18: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "Eight people sit in two parallel rows containing four people each. In Row 1, A, B, C, and D sit facing South. In Row 2, P, Q, R, and S sit facing North, each facing a person from Row 1.\nOrder in Row 1 (from our left to right): B, A, D, C.\nOrder in Row 2 (from our left to right): Q, S, P, R.\nWho sits directly opposite to D?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 2,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Seating Arrangement — Linear. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "IBPS Clerk"
-          ]
-        },
-        {
-          "questionText": "Seating Arrangement — Linear Practice Q19: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "R",
+            "Q",
+            "S",
+            "P"
           ],
           "correctIndex": 3,
           "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Seating Arrangement — Linear. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "In parallel rows, corresponding column indices face each other.",
+          "explanation": "Since Row 1 and Row 2 are aligned with four positions each, column D (index 3) faces column P (index 3). Thus, P sits directly opposite to D.",
+          "solutionSteps": "Step 1: Write down the position indices 1, 2, 3, 4 for both rows.\nStep 2: Match column by column: B faces Q, A faces S, D faces P, C faces R.\nStep 3: Locate D and find its opposite counterpart P.",
           "examTags": [
             "IBPS PO",
+            "IBPS CLERK",
             "SBI PO",
-            "IBPS Clerk"
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
           ]
         },
         {
-          "questionText": "Seating Arrangement — Linear Practice Q20: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "Eight people sit in two parallel rows containing four people each. In Row 1, A, B, C, and D sit facing South. In Row 2, P, Q, R, and S sit facing North, each facing a person from Row 1.\nOrder in Row 1 (from our left to right): B, C, D, A.\nOrder in Row 2 (from our left to right): P, R, Q, S.\nWho sits directly opposite to A?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "P",
+            "R",
+            "S",
+            "Q"
           ],
-          "correctIndex": 0,
+          "correctIndex": 2,
           "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Seating Arrangement — Linear. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "In parallel rows, corresponding column indices face each other.",
+          "explanation": "Since Row 1 and Row 2 are aligned with four positions each, column A (index 4) faces column S (index 4). Thus, S sits directly opposite to A.",
+          "solutionSteps": "Step 1: Write down the position indices 1, 2, 3, 4 for both rows.\nStep 2: Match column by column: B faces P, C faces R, D faces Q, A faces S.\nStep 3: Locate A and find its opposite counterpart S.",
           "examTags": [
             "IBPS PO",
+            "IBPS CLERK",
             "SBI PO",
-            "IBPS Clerk"
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
+          ]
+        },
+        {
+          "questionText": "Eight people sit in two parallel rows containing four people each. In Row 1, A, B, C, and D sit facing South. In Row 2, P, Q, R, and S sit facing North, each facing a person from Row 1.\nOrder in Row 1 (from our left to right): C, D, A, B.\nOrder in Row 2 (from our left to right): S, Q, P, R.\nWho sits directly opposite to C?",
+          "options": [
+            "R",
+            "P",
+            "Q",
+            "S"
+          ],
+          "correctIndex": 3,
+          "difficulty": "hard",
+          "hint": "In parallel rows, corresponding column indices face each other.",
+          "explanation": "Since Row 1 and Row 2 are aligned with four positions each, column C (index 1) faces column S (index 1). Thus, S sits directly opposite to C.",
+          "solutionSteps": "Step 1: Write down the position indices 1, 2, 3, 4 for both rows.\nStep 2: Match column by column: C faces S, D faces Q, A faces P, B faces R.\nStep 3: Locate C and find its opposite counterpart S.",
+          "examTags": [
+            "IBPS PO",
+            "IBPS CLERK",
+            "SBI PO",
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
+          ]
+        },
+        {
+          "questionText": "Eight people sit in two parallel rows containing four people each. In Row 1, A, B, C, and D sit facing South. In Row 2, P, Q, R, and S sit facing North, each facing a person from Row 1.\nOrder in Row 1 (from our left to right): A, B, C, D.\nOrder in Row 2 (from our left to right): P, Q, S, R.\nWho sits directly opposite to B?",
+          "options": [
+            "R",
+            "Q",
+            "P",
+            "S"
+          ],
+          "correctIndex": 1,
+          "difficulty": "hard",
+          "hint": "In parallel rows, corresponding column indices face each other.",
+          "explanation": "Since Row 1 and Row 2 are aligned with four positions each, column B (index 2) faces column Q (index 2). Thus, Q sits directly opposite to B.",
+          "solutionSteps": "Step 1: Write down the position indices 1, 2, 3, 4 for both rows.\nStep 2: Match column by column: A faces P, B faces Q, C faces S, D faces R.\nStep 3: Locate B and find its opposite counterpart Q.",
+          "examTags": [
+            "IBPS PO",
+            "IBPS CLERK",
+            "SBI PO",
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
           ]
         }
       ]

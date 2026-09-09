@@ -49,343 +49,483 @@
       ],
       "practiceQuestions": [
         {
-          "questionText": "Cubes and Dice Practice Q1: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "A solid wooden cube of side 3 cm is painted red on all outer surfaces and then sliced into identical 1 cm smaller cubes (27 cubes in total). How many smaller cubes have exactly THREE faces painted red?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Cubes and Dice. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Cubes and Dice Practice Q2: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 2,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Cubes and Dice. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Cubes and Dice Practice Q3: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "2",
+            "3",
+            "6",
+            "8"
           ],
           "correctIndex": 3,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Cubes and Dice. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Recall formulas: 3-face = 8 (corners), 2-face = 12(n-2), 1-face = 6(n-2)², 0-face = (n-2)³.",
+          "explanation": "Cubes with three painted faces are located strictly at the 8 vertices (corners) of the cube. Regardless of the size of the cube (as long as n ≥ 2), there are always exactly 8 corner cubes.",
+          "solutionSteps": "Step 1: Identify problem archetype (painted cube formula or rotational dice rule).\nStep 2: Apply the governing geometric formula.\nStep 3: Result is 8.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Cubes and Dice Practice Q4: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Cubes and Dice. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Cubes and Dice Practice Q5: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Cubes and Dice. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Cubes and Dice Practice Q6: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "1",
+            "2",
+            "5",
+            "3"
           ],
           "correctIndex": 2,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Cubes and Dice. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "In a standard die, opposite faces sum to 7. In two-position dice, rotate clockwise from the common face.",
+          "explanation": "By definition, in a standard die, the sum of opposite faces is always equal to 7. Therefore, the face opposite to 2 is 7 - 2 = 5.",
+          "solutionSteps": "Step 1: Identify problem archetype (painted cube formula or rotational dice rule).\nStep 2: Apply the governing geometric formula.\nStep 3: Result is 5.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Cubes and Dice Practice Q7: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "2",
+            "5",
+            "6",
+            "3"
+          ],
+          "correctIndex": 1,
+          "difficulty": "easy",
+          "hint": "In a standard die, opposite faces sum to 7. In two-position dice, rotate clockwise from the common face.",
+          "explanation": "By definition, in a standard die, the sum of opposite faces is always equal to 7. Therefore, the face opposite to 2 is 7 - 2 = 5.",
+          "solutionSteps": "Step 1: Identify problem archetype (painted cube formula or rotational dice rule).\nStep 2: Apply the governing geometric formula.\nStep 3: Result is 5.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
+          "options": [
+            "1",
+            "2",
+            "3",
+            "5"
           ],
           "correctIndex": 3,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Cubes and Dice. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "In a standard die, opposite faces sum to 7. In two-position dice, rotate clockwise from the common face.",
+          "explanation": "By definition, in a standard die, the sum of opposite faces is always equal to 7. Therefore, the face opposite to 2 is 7 - 2 = 5.",
+          "solutionSteps": "Step 1: Identify problem archetype (painted cube formula or rotational dice rule).\nStep 2: Apply the governing geometric formula.\nStep 3: Result is 5.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Cubes and Dice Practice Q8: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "1",
+            "2",
+            "5",
+            "3"
+          ],
+          "correctIndex": 2,
+          "difficulty": "easy",
+          "hint": "In a standard die, opposite faces sum to 7. In two-position dice, rotate clockwise from the common face.",
+          "explanation": "By definition, in a standard die, the sum of opposite faces is always equal to 7. Therefore, the face opposite to 2 is 7 - 2 = 5.",
+          "solutionSteps": "Step 1: Identify problem archetype (painted cube formula or rotational dice rule).\nStep 2: Apply the governing geometric formula.\nStep 3: Result is 5.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "A solid wooden cube of side 3 cm is painted red on all outer surfaces and then sliced into identical 1 cm smaller cubes (27 cubes in total). How many smaller cubes have exactly THREE faces painted red?",
+          "options": [
+            "8",
+            "3",
+            "2",
+            "5"
           ],
           "correctIndex": 0,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Cubes and Dice. Work through the problem step by step using the shortcuts taught in this topic.",
+          "difficulty": "easy",
+          "hint": "Recall formulas: 3-face = 8 (corners), 2-face = 12(n-2), 1-face = 6(n-2)², 0-face = (n-2)³.",
+          "explanation": "Cubes with three painted faces are located strictly at the 8 vertices (corners) of the cube. Regardless of the size of the cube (as long as n ≥ 2), there are always exactly 8 corner cubes.",
+          "solutionSteps": "Step 1: Identify problem archetype (painted cube formula or rotational dice rule).\nStep 2: Apply the governing geometric formula.\nStep 3: Result is 8.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Cubes and Dice Practice Q9: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 1?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Cubes and Dice. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Cubes and Dice Practice Q10: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "1",
+            "2",
+            "5",
+            "3"
           ],
           "correctIndex": 2,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Cubes and Dice. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "In a standard die, opposite faces sum to 7. In two-position dice, rotate clockwise from the common face.",
+          "explanation": "Keeping the common face (3) as the anchor and rotating clockwise in both positions: Position 1 gives 3 -> 1 -> 2. Position 2 gives 3 -> 5 -> 6. Comparing corresponding positions, 1 is opposite to 5, and 2 is opposite to 6.",
+          "solutionSteps": "Step 1: Identify problem archetype (painted cube formula or rotational dice rule).\nStep 2: Apply the governing geometric formula.\nStep 3: Result is 5.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Cubes and Dice Practice Q11: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 3?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Cubes and Dice. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Cubes and Dice Practice Q12: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Cubes and Dice. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Cubes and Dice Practice Q13: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Cubes and Dice. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Cubes and Dice Practice Q14: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "1",
+            "2",
+            "4",
+            "3"
           ],
           "correctIndex": 2,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Cubes and Dice. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "In a standard die, opposite faces sum to 7. In two-position dice, rotate clockwise from the common face.",
+          "explanation": "In the two positions, faces 1, 2, 5, and 6 are adjacent to face 3. The only remaining unseen number on a 6-sided die is 4. Therefore, 4 is opposite to 3.",
+          "solutionSteps": "Step 1: Identify problem archetype (painted cube formula or rotational dice rule).\nStep 2: Apply the governing geometric formula.\nStep 3: Result is 4.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Cubes and Dice Practice Q15: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "A cube of side 5 cm is painted blue on all faces and cut into 1 cm unit cubes. How many smaller cubes have exactly ONE face painted?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "6",
+            "54",
+            "12",
+            "3"
           ],
-          "correctIndex": 3,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Cubes and Dice. Work through the problem step by step using the shortcuts taught in this topic.",
+          "correctIndex": 1,
+          "difficulty": "medium",
+          "hint": "Recall formulas: 3-face = 8 (corners), 2-face = 12(n-2), 1-face = 6(n-2)², 0-face = (n-2)³.",
+          "explanation": "Cubes with one painted face are situated at the center of the 6 outer square faces. Formula = 6 × (n - 2)² = 6 × (3)² = 54.",
+          "solutionSteps": "Step 1: Identify problem archetype (painted cube formula or rotational dice rule).\nStep 2: Apply the governing geometric formula.\nStep 3: Result is 54.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Cubes and Dice Practice Q16: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 1?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "1",
+            "2",
+            "5",
+            "3"
           ],
-          "correctIndex": 0,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Cubes and Dice. Work through the problem step by step using the shortcuts taught in this topic.",
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "hint": "In a standard die, opposite faces sum to 7. In two-position dice, rotate clockwise from the common face.",
+          "explanation": "Keeping the common face (3) as the anchor and rotating clockwise in both positions: Position 1 gives 3 -> 1 -> 2. Position 2 gives 3 -> 5 -> 6. Comparing corresponding positions, 1 is opposite to 5, and 2 is opposite to 6.",
+          "solutionSteps": "Step 1: Identify problem archetype (painted cube formula or rotational dice rule).\nStep 2: Apply the governing geometric formula.\nStep 3: Result is 5.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Cubes and Dice Practice Q17: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "A cube of side 4 cm is painted on all sides and cut into 1 cm small cubes (64 total cubes). How many smaller cubes have exactly TWO faces painted?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "6",
+            "12",
+            "24",
+            "4"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "hint": "Recall formulas: 3-face = 8 (corners), 2-face = 12(n-2), 1-face = 6(n-2)², 0-face = (n-2)³.",
+          "explanation": "Cubes with two painted faces lie along the 12 edges of the cube (excluding the corner cubes). Formula = 12 × (n - 2) = 12 × (4 - 2) = 12 × 2 = 24.",
+          "solutionSteps": "Step 1: Identify problem archetype (painted cube formula or rotational dice rule).\nStep 2: Apply the governing geometric formula.\nStep 3: Result is 24.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 3?",
+          "options": [
+            "1",
+            "4",
+            "2",
+            "3"
+          ],
+          "correctIndex": 1,
+          "difficulty": "medium",
+          "hint": "In a standard die, opposite faces sum to 7. In two-position dice, rotate clockwise from the common face.",
+          "explanation": "In the two positions, faces 1, 2, 5, and 6 are adjacent to face 3. The only remaining unseen number on a 6-sided die is 4. Therefore, 4 is opposite to 3.",
+          "solutionSteps": "Step 1: Identify problem archetype (painted cube formula or rotational dice rule).\nStep 2: Apply the governing geometric formula.\nStep 3: Result is 4.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 1?",
+          "options": [
+            "1",
+            "2",
+            "5",
+            "3"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "hint": "In a standard die, opposite faces sum to 7. In two-position dice, rotate clockwise from the common face.",
+          "explanation": "Keeping the common face (3) as the anchor and rotating clockwise in both positions: Position 1 gives 3 -> 1 -> 2. Position 2 gives 3 -> 5 -> 6. Comparing corresponding positions, 1 is opposite to 5, and 2 is opposite to 6.",
+          "solutionSteps": "Step 1: Identify problem archetype (painted cube formula or rotational dice rule).\nStep 2: Apply the governing geometric formula.\nStep 3: Result is 5.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 3?",
+          "options": [
+            "1",
+            "2",
+            "4",
+            "3"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "hint": "In a standard die, opposite faces sum to 7. In two-position dice, rotate clockwise from the common face.",
+          "explanation": "In the two positions, faces 1, 2, 5, and 6 are adjacent to face 3. The only remaining unseen number on a 6-sided die is 4. Therefore, 4 is opposite to 3.",
+          "solutionSteps": "Step 1: Identify problem archetype (painted cube formula or rotational dice rule).\nStep 2: Apply the governing geometric formula.\nStep 3: Result is 4.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "A cube of side 6 cm is painted green on all surfaces and sliced into 1 cm smaller cubes. How many smaller cubes have NO face painted (completely unpainted)?",
+          "options": [
+            "6",
+            "64",
+            "12",
+            "4"
           ],
           "correctIndex": 1,
           "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Cubes and Dice. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Recall formulas: 3-face = 8 (corners), 2-face = 12(n-2), 1-face = 6(n-2)², 0-face = (n-2)³.",
+          "explanation": "Unpainted cubes form the inner core of the cube after peeling off the outer layer. Formula = (n - 2)³ = (4)³ = 64.",
+          "solutionSteps": "Step 1: Identify problem archetype (painted cube formula or rotational dice rule).\nStep 2: Apply the governing geometric formula.\nStep 3: Result is 64.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Cubes and Dice Practice Q18: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "A cube of side 6 cm is painted green on all surfaces and sliced into 1 cm smaller cubes. How many smaller cubes have NO face painted (completely unpainted)?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "2",
+            "6",
+            "64",
+            "1"
           ],
           "correctIndex": 2,
           "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Cubes and Dice. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Recall formulas: 3-face = 8 (corners), 2-face = 12(n-2), 1-face = 6(n-2)², 0-face = (n-2)³.",
+          "explanation": "Unpainted cubes form the inner core of the cube after peeling off the outer layer. Formula = (n - 2)³ = (4)³ = 64.",
+          "solutionSteps": "Step 1: Identify problem archetype (painted cube formula or rotational dice rule).\nStep 2: Apply the governing geometric formula.\nStep 3: Result is 64.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Cubes and Dice Practice Q19: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "A cube of side 6 cm is painted green on all surfaces and sliced into 1 cm smaller cubes. How many smaller cubes have NO face painted (completely unpainted)?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Cubes and Dice. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Cubes and Dice Practice Q20: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "64",
+            "24",
+            "1",
+            "8"
           ],
           "correctIndex": 0,
           "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Cubes and Dice. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Recall formulas: 3-face = 8 (corners), 2-face = 12(n-2), 1-face = 6(n-2)², 0-face = (n-2)³.",
+          "explanation": "Unpainted cubes form the inner core of the cube after peeling off the outer layer. Formula = (n - 2)³ = (4)³ = 64.",
+          "solutionSteps": "Step 1: Identify problem archetype (painted cube formula or rotational dice rule).\nStep 2: Apply the governing geometric formula.\nStep 3: Result is 64.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "A cube of side 6 cm is painted green on all surfaces and sliced into 1 cm smaller cubes. How many smaller cubes have NO face painted (completely unpainted)?",
+          "options": [
+            "2",
+            "64",
+            "6",
+            "5"
+          ],
+          "correctIndex": 1,
+          "difficulty": "hard",
+          "hint": "Recall formulas: 3-face = 8 (corners), 2-face = 12(n-2), 1-face = 6(n-2)², 0-face = (n-2)³.",
+          "explanation": "Unpainted cubes form the inner core of the cube after peeling off the outer layer. Formula = (n - 2)³ = (4)³ = 64.",
+          "solutionSteps": "Step 1: Identify problem archetype (painted cube formula or rotational dice rule).\nStep 2: Apply the governing geometric formula.\nStep 3: Result is 64.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "A cube of side 6 cm is painted green on all surfaces and sliced into 1 cm smaller cubes. How many smaller cubes have NO face painted (completely unpainted)?",
+          "options": [
+            "5",
+            "4",
+            "24",
+            "64"
+          ],
+          "correctIndex": 3,
+          "difficulty": "hard",
+          "hint": "Recall formulas: 3-face = 8 (corners), 2-face = 12(n-2), 1-face = 6(n-2)², 0-face = (n-2)³.",
+          "explanation": "Unpainted cubes form the inner core of the cube after peeling off the outer layer. Formula = (n - 2)³ = (4)³ = 64.",
+          "solutionSteps": "Step 1: Identify problem archetype (painted cube formula or rotational dice rule).\nStep 2: Apply the governing geometric formula.\nStep 3: Result is 64.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "A cube of side 6 cm is painted green on all surfaces and sliced into 1 cm smaller cubes. How many smaller cubes have NO face painted (completely unpainted)?",
+          "options": [
+            "1",
+            "5",
+            "64",
+            "8"
+          ],
+          "correctIndex": 2,
+          "difficulty": "hard",
+          "hint": "Recall formulas: 3-face = 8 (corners), 2-face = 12(n-2), 1-face = 6(n-2)², 0-face = (n-2)³.",
+          "explanation": "Unpainted cubes form the inner core of the cube after peeling off the outer layer. Formula = (n - 2)³ = (4)³ = 64.",
+          "solutionSteps": "Step 1: Identify problem archetype (painted cube formula or rotational dice rule).\nStep 2: Apply the governing geometric formula.\nStep 3: Result is 64.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         }
       ]

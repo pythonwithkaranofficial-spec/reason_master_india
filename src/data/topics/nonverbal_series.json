@@ -49,343 +49,463 @@
       ],
       "practiceQuestions": [
         {
-          "questionText": "Non-Verbal Series Practice Q1: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "Identify the next figure in the given sequential series:\n\nAn arrow pointing North in Fig 1, North-East in Fig 2, East in Fig 3, South-East in Fig 4.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Non-Verbal Series. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Non-Verbal Series Practice Q2: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "An arrow pointing South-West (rotated 225°)",
+            "An arrow pointing West (rotated 270°)",
+            "An arrow pointing directly South (45° clockwise rotation)",
+            "An arrow pointing North-West (rotated 315°)"
           ],
           "correctIndex": 2,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Non-Verbal Series. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Track the angle of rotation, side addition, or position shifting of key elements from frame to frame.",
+          "explanation": "The arrow rotates systematically clockwise by 45° in each successive step: 0° (N) -> 45° (NE) -> 90° (E) -> 135° (SE) -> 180° (S).",
+          "solutionSteps": "Step 1: Identify the dynamic element changing across frames.\nStep 2: Determine the mathematical step rule (e.g. +45° rotation or +1 line segment).\nStep 3: Apply the rule to the 4th figure to predict: An arrow pointing directly South (45° clockwise rotation).",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         },
         {
-          "questionText": "Non-Verbal Series Practice Q3: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "Identify the next figure in the given sequential series:\n\nA square containing 1 dot in Fig 1, 2 dots in Fig 2, 3 dots in Fig 3, 4 dots in Fig 4.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Non-Verbal Series. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Non-Verbal Series Practice Q4: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Non-Verbal Series. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Non-Verbal Series Practice Q5: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Non-Verbal Series. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Non-Verbal Series Practice Q6: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "A square containing 4 dots (no change in dot count)",
+            "A square containing 6 dots (skipping count to 6)",
+            "A square containing 5 dots arranged symmetrically",
+            "A square containing 3 dots (decreasing dot count)"
           ],
           "correctIndex": 2,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Non-Verbal Series. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Track the angle of rotation, side addition, or position shifting of key elements from frame to frame.",
+          "explanation": "The number of internal dots increases by +1 in each successive figure.",
+          "solutionSteps": "Step 1: Identify the dynamic element changing across frames.\nStep 2: Determine the mathematical step rule (e.g. +45° rotation or +1 line segment).\nStep 3: Apply the rule to the 4th figure to predict: A square containing 5 dots arranged symmetrically.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         },
         {
-          "questionText": "Non-Verbal Series Practice Q7: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "Identify the next figure in the given sequential series:\n\nA geometric figure with 3 sides (Triangle) in Fig 1, 4 sides (Square) in Fig 2, 5 sides (Pentagon) in Fig 3, 6 sides (Hexagon) in Fig 4.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "A 7-sided regular polygon (Heptagon)",
+            "An 8-sided regular polygon (Octagon, skipping one side)",
+            "A 6-sided regular polygon (Hexagon, repeating previous figure)",
+            "A 5-sided regular polygon (Pentagon, decreasing side count)"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "hint": "Track the angle of rotation, side addition, or position shifting of key elements from frame to frame.",
+          "explanation": "The number of outer sides in the polygon increases by +1 in each step: 3 -> 4 -> 5 -> 6 -> 7 sides.",
+          "solutionSteps": "Step 1: Identify the dynamic element changing across frames.\nStep 2: Determine the mathematical step rule (e.g. +45° rotation or +1 line segment).\nStep 3: Apply the rule to the 4th figure to predict: A 7-sided regular polygon (Heptagon).",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
+          ]
+        },
+        {
+          "questionText": "Identify the next figure in the given sequential series:\n\nA shaded sector in a circle rotating 90° anti-clockwise in each consecutive frame (top sector -> left sector -> bottom sector -> right sector).",
+          "options": [
+            "A circle with the top sector shaded (returning to start after full 360° cycle)",
+            "A circle with the Top quadrant sector shaded (reverting to start)",
+            "A circle with the Right quadrant sector shaded (clockwise reversal)",
+            "A circle with both Top and Bottom quadrant sectors shaded"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "hint": "Track the angle of rotation, side addition, or position shifting of key elements from frame to frame.",
+          "explanation": "The shaded sector shifts by 90° anti-clockwise in each step: Top -> Left -> Bottom -> Right -> Top.",
+          "solutionSteps": "Step 1: Identify the dynamic element changing across frames.\nStep 2: Determine the mathematical step rule (e.g. +45° rotation or +1 line segment).\nStep 3: Apply the rule to the 4th figure to predict: A circle with the top sector shaded (returning to start after full 360° cycle).",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
+          ]
+        },
+        {
+          "questionText": "Identify the next figure in the given sequential series:\n\nAn arrow pointing North in Fig 1, North-East in Fig 2, East in Fig 3, South-East in Fig 4.",
+          "options": [
+            "An arrow pointing directly South (45° clockwise rotation)",
+            "An arrow pointing South-West (rotated 225°)",
+            "An arrow pointing West (rotated 270°)",
+            "An arrow pointing North-West (rotated 315°)"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "hint": "Track the angle of rotation, side addition, or position shifting of key elements from frame to frame.",
+          "explanation": "The arrow rotates systematically clockwise by 45° in each successive step: 0° (N) -> 45° (NE) -> 90° (E) -> 135° (SE) -> 180° (S).",
+          "solutionSteps": "Step 1: Identify the dynamic element changing across frames.\nStep 2: Determine the mathematical step rule (e.g. +45° rotation or +1 line segment).\nStep 3: Apply the rule to the 4th figure to predict: An arrow pointing directly South (45° clockwise rotation).",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
+          ]
+        },
+        {
+          "questionText": "Identify the next figure in the given sequential series:\n\nA square containing 1 dot in Fig 1, 2 dots in Fig 2, 3 dots in Fig 3, 4 dots in Fig 4.",
+          "options": [
+            "A square containing 4 dots (no change in dot count)",
+            "A square containing 6 dots (skipping count to 6)",
+            "A square containing 5 dots arranged symmetrically",
+            "A square containing 3 dots (decreasing dot count)"
+          ],
+          "correctIndex": 2,
+          "difficulty": "easy",
+          "hint": "Track the angle of rotation, side addition, or position shifting of key elements from frame to frame.",
+          "explanation": "The number of internal dots increases by +1 in each successive figure.",
+          "solutionSteps": "Step 1: Identify the dynamic element changing across frames.\nStep 2: Determine the mathematical step rule (e.g. +45° rotation or +1 line segment).\nStep 3: Apply the rule to the 4th figure to predict: A square containing 5 dots arranged symmetrically.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
+          ]
+        },
+        {
+          "questionText": "Identify the next figure in the given sequential series:\n\nA geometric figure with 3 sides (Triangle) in Fig 1, 4 sides (Square) in Fig 2, 5 sides (Pentagon) in Fig 3, 6 sides (Hexagon) in Fig 4.",
+          "options": [
+            "An 8-sided regular polygon (Octagon, skipping one side)",
+            "A 6-sided regular polygon (Hexagon, repeating previous figure)",
+            "A 7-sided regular polygon (Heptagon)",
+            "A 5-sided regular polygon (Pentagon, decreasing side count)"
+          ],
+          "correctIndex": 2,
+          "difficulty": "easy",
+          "hint": "Track the angle of rotation, side addition, or position shifting of key elements from frame to frame.",
+          "explanation": "The number of outer sides in the polygon increases by +1 in each step: 3 -> 4 -> 5 -> 6 -> 7 sides.",
+          "solutionSteps": "Step 1: Identify the dynamic element changing across frames.\nStep 2: Determine the mathematical step rule (e.g. +45° rotation or +1 line segment).\nStep 3: Apply the rule to the 4th figure to predict: A 7-sided regular polygon (Heptagon).",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
+          ]
+        },
+        {
+          "questionText": "Identify the next figure in the given sequential series:\n\nA shaded sector in a circle rotating 90° anti-clockwise in each consecutive frame (top sector -> left sector -> bottom sector -> right sector).",
+          "options": [
+            "A circle with the Top quadrant sector shaded (reverting to start)",
+            "A circle with the Right quadrant sector shaded (clockwise reversal)",
+            "A circle with the top sector shaded (returning to start after full 360° cycle)",
+            "A circle with both Top and Bottom quadrant sectors shaded"
+          ],
+          "correctIndex": 2,
+          "difficulty": "easy",
+          "hint": "Track the angle of rotation, side addition, or position shifting of key elements from frame to frame.",
+          "explanation": "The shaded sector shifts by 90° anti-clockwise in each step: Top -> Left -> Bottom -> Right -> Top.",
+          "solutionSteps": "Step 1: Identify the dynamic element changing across frames.\nStep 2: Determine the mathematical step rule (e.g. +45° rotation or +1 line segment).\nStep 3: Apply the rule to the 4th figure to predict: A circle with the top sector shaded (returning to start after full 360° cycle).",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
+          ]
+        },
+        {
+          "questionText": "Identify the next figure in the given sequential series:\n\nAn arrow pointing North in Fig 1, North-East in Fig 2, East in Fig 3, South-East in Fig 4.",
+          "options": [
+            "An arrow pointing South-West (rotated 225°)",
+            "An arrow pointing West (rotated 270°)",
+            "An arrow pointing North-West (rotated 315°)",
+            "An arrow pointing directly South (45° clockwise rotation)"
           ],
           "correctIndex": 3,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Non-Verbal Series. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Track the angle of rotation, side addition, or position shifting of key elements from frame to frame.",
+          "explanation": "The arrow rotates systematically clockwise by 45° in each successive step: 0° (N) -> 45° (NE) -> 90° (E) -> 135° (SE) -> 180° (S).",
+          "solutionSteps": "Step 1: Identify the dynamic element changing across frames.\nStep 2: Determine the mathematical step rule (e.g. +45° rotation or +1 line segment).\nStep 3: Apply the rule to the 4th figure to predict: An arrow pointing directly South (45° clockwise rotation).",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         },
         {
-          "questionText": "Non-Verbal Series Practice Q8: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "Identify the next figure in the given sequential series:\n\nA square containing 1 dot in Fig 1, 2 dots in Fig 2, 3 dots in Fig 3, 4 dots in Fig 4.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Non-Verbal Series. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Non-Verbal Series Practice Q9: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "A square containing 4 dots (no change in dot count)",
+            "A square containing 5 dots arranged symmetrically",
+            "A square containing 6 dots (skipping count to 6)",
+            "A square containing 3 dots (decreasing dot count)"
           ],
           "correctIndex": 1,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Non-Verbal Series. Work through the problem step by step using the shortcuts taught in this topic.",
+          "difficulty": "easy",
+          "hint": "Track the angle of rotation, side addition, or position shifting of key elements from frame to frame.",
+          "explanation": "The number of internal dots increases by +1 in each successive figure.",
+          "solutionSteps": "Step 1: Identify the dynamic element changing across frames.\nStep 2: Determine the mathematical step rule (e.g. +45° rotation or +1 line segment).\nStep 3: Apply the rule to the 4th figure to predict: A square containing 5 dots arranged symmetrically.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         },
         {
-          "questionText": "Non-Verbal Series Practice Q10: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "Identify the next figure in the given sequential series:\n\nA geometric figure with 3 sides (Triangle) in Fig 1, 4 sides (Square) in Fig 2, 5 sides (Pentagon) in Fig 3, 6 sides (Hexagon) in Fig 4.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "An 8-sided regular polygon (Octagon, skipping one side)",
+            "A 6-sided regular polygon (Hexagon, repeating previous figure)",
+            "A 7-sided regular polygon (Heptagon)",
+            "A 5-sided regular polygon (Pentagon, decreasing side count)"
           ],
           "correctIndex": 2,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Non-Verbal Series. Work through the problem step by step using the shortcuts taught in this topic.",
+          "difficulty": "easy",
+          "hint": "Track the angle of rotation, side addition, or position shifting of key elements from frame to frame.",
+          "explanation": "The number of outer sides in the polygon increases by +1 in each step: 3 -> 4 -> 5 -> 6 -> 7 sides.",
+          "solutionSteps": "Step 1: Identify the dynamic element changing across frames.\nStep 2: Determine the mathematical step rule (e.g. +45° rotation or +1 line segment).\nStep 3: Apply the rule to the 4th figure to predict: A 7-sided regular polygon (Heptagon).",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         },
         {
-          "questionText": "Non-Verbal Series Practice Q11: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "Identify the next figure in the given sequential series:\n\nA shaded sector in a circle rotating 90° anti-clockwise in each consecutive frame (top sector -> left sector -> bottom sector -> right sector).",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "A circle with the Top quadrant sector shaded (reverting to start)",
+            "A circle with the Right quadrant sector shaded (clockwise reversal)",
+            "A circle with both Top and Bottom quadrant sectors shaded",
+            "A circle with the top sector shaded (returning to start after full 360° cycle)"
           ],
           "correctIndex": 3,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Non-Verbal Series. Work through the problem step by step using the shortcuts taught in this topic.",
+          "difficulty": "easy",
+          "hint": "Track the angle of rotation, side addition, or position shifting of key elements from frame to frame.",
+          "explanation": "The shaded sector shifts by 90° anti-clockwise in each step: Top -> Left -> Bottom -> Right -> Top.",
+          "solutionSteps": "Step 1: Identify the dynamic element changing across frames.\nStep 2: Determine the mathematical step rule (e.g. +45° rotation or +1 line segment).\nStep 3: Apply the rule to the 4th figure to predict: A circle with the top sector shaded (returning to start after full 360° cycle).",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         },
         {
-          "questionText": "Non-Verbal Series Practice Q12: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "Identify the next figure in the given sequential series:\n\nAn arrow pointing North in Fig 1, North-East in Fig 2, East in Fig 3, South-East in Fig 4.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "An arrow pointing directly South (45° clockwise rotation)",
+            "An arrow pointing South-West (rotated 225°)",
+            "An arrow pointing West (rotated 270°)",
+            "An arrow pointing North-West (rotated 315°)"
           ],
           "correctIndex": 0,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Non-Verbal Series. Work through the problem step by step using the shortcuts taught in this topic.",
+          "difficulty": "easy",
+          "hint": "Track the angle of rotation, side addition, or position shifting of key elements from frame to frame.",
+          "explanation": "The arrow rotates systematically clockwise by 45° in each successive step: 0° (N) -> 45° (NE) -> 90° (E) -> 135° (SE) -> 180° (S).",
+          "solutionSteps": "Step 1: Identify the dynamic element changing across frames.\nStep 2: Determine the mathematical step rule (e.g. +45° rotation or +1 line segment).\nStep 3: Apply the rule to the 4th figure to predict: An arrow pointing directly South (45° clockwise rotation).",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         },
         {
-          "questionText": "Non-Verbal Series Practice Q13: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "Identify the next figure in the given sequential series:\n\nA square containing 1 dot in Fig 1, 2 dots in Fig 2, 3 dots in Fig 3, 4 dots in Fig 4.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "A square containing 4 dots (no change in dot count)",
+            "A square containing 6 dots (skipping count to 6)",
+            "A square containing 5 dots arranged symmetrically",
+            "A square containing 3 dots (decreasing dot count)"
+          ],
+          "correctIndex": 2,
+          "difficulty": "easy",
+          "hint": "Track the angle of rotation, side addition, or position shifting of key elements from frame to frame.",
+          "explanation": "The number of internal dots increases by +1 in each successive figure.",
+          "solutionSteps": "Step 1: Identify the dynamic element changing across frames.\nStep 2: Determine the mathematical step rule (e.g. +45° rotation or +1 line segment).\nStep 3: Apply the rule to the 4th figure to predict: A square containing 5 dots arranged symmetrically.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
+          ]
+        },
+        {
+          "questionText": "Identify the next figure in the given sequential series:\n\nA geometric figure with 3 sides (Triangle) in Fig 1, 4 sides (Square) in Fig 2, 5 sides (Pentagon) in Fig 3, 6 sides (Hexagon) in Fig 4.",
+          "options": [
+            "An 8-sided regular polygon (Octagon, skipping one side)",
+            "A 6-sided regular polygon (Hexagon, repeating previous figure)",
+            "A 5-sided regular polygon (Pentagon, decreasing side count)",
+            "A 7-sided regular polygon (Heptagon)"
+          ],
+          "correctIndex": 3,
+          "difficulty": "easy",
+          "hint": "Track the angle of rotation, side addition, or position shifting of key elements from frame to frame.",
+          "explanation": "The number of outer sides in the polygon increases by +1 in each step: 3 -> 4 -> 5 -> 6 -> 7 sides.",
+          "solutionSteps": "Step 1: Identify the dynamic element changing across frames.\nStep 2: Determine the mathematical step rule (e.g. +45° rotation or +1 line segment).\nStep 3: Apply the rule to the 4th figure to predict: A 7-sided regular polygon (Heptagon).",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
+          ]
+        },
+        {
+          "questionText": "Identify the next figure in the given sequential series:\n\nA shaded sector in a circle rotating 90° anti-clockwise in each consecutive frame (top sector -> left sector -> bottom sector -> right sector).",
+          "options": [
+            "A circle with the Top quadrant sector shaded (reverting to start)",
+            "A circle with the Right quadrant sector shaded (clockwise reversal)",
+            "A circle with both Top and Bottom quadrant sectors shaded",
+            "A circle with the top sector shaded (returning to start after full 360° cycle)"
+          ],
+          "correctIndex": 3,
+          "difficulty": "easy",
+          "hint": "Track the angle of rotation, side addition, or position shifting of key elements from frame to frame.",
+          "explanation": "The shaded sector shifts by 90° anti-clockwise in each step: Top -> Left -> Bottom -> Right -> Top.",
+          "solutionSteps": "Step 1: Identify the dynamic element changing across frames.\nStep 2: Determine the mathematical step rule (e.g. +45° rotation or +1 line segment).\nStep 3: Apply the rule to the 4th figure to predict: A circle with the top sector shaded (returning to start after full 360° cycle).",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
+          ]
+        },
+        {
+          "questionText": "Identify the next figure in the given sequential series:\n\nAn arrow pointing North in Fig 1, North-East in Fig 2, East in Fig 3, South-East in Fig 4.",
+          "options": [
+            "An arrow pointing South-West (rotated 225°)",
+            "An arrow pointing West (rotated 270°)",
+            "An arrow pointing North-West (rotated 315°)",
+            "An arrow pointing directly South (45° clockwise rotation)"
+          ],
+          "correctIndex": 3,
+          "difficulty": "easy",
+          "hint": "Track the angle of rotation, side addition, or position shifting of key elements from frame to frame.",
+          "explanation": "The arrow rotates systematically clockwise by 45° in each successive step: 0° (N) -> 45° (NE) -> 90° (E) -> 135° (SE) -> 180° (S).",
+          "solutionSteps": "Step 1: Identify the dynamic element changing across frames.\nStep 2: Determine the mathematical step rule (e.g. +45° rotation or +1 line segment).\nStep 3: Apply the rule to the 4th figure to predict: An arrow pointing directly South (45° clockwise rotation).",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
+          ]
+        },
+        {
+          "questionText": "Identify the next figure in the given sequential series:\n\nA square containing 1 dot in Fig 1, 2 dots in Fig 2, 3 dots in Fig 3, 4 dots in Fig 4.",
+          "options": [
+            "A square containing 4 dots (no change in dot count)",
+            "A square containing 6 dots (skipping count to 6)",
+            "A square containing 5 dots arranged symmetrically",
+            "A square containing 3 dots (decreasing dot count)"
+          ],
+          "correctIndex": 2,
+          "difficulty": "easy",
+          "hint": "Track the angle of rotation, side addition, or position shifting of key elements from frame to frame.",
+          "explanation": "The number of internal dots increases by +1 in each successive figure.",
+          "solutionSteps": "Step 1: Identify the dynamic element changing across frames.\nStep 2: Determine the mathematical step rule (e.g. +45° rotation or +1 line segment).\nStep 3: Apply the rule to the 4th figure to predict: A square containing 5 dots arranged symmetrically.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
+          ]
+        },
+        {
+          "questionText": "Identify the next figure in the given sequential series:\n\nA geometric figure with 3 sides (Triangle) in Fig 1, 4 sides (Square) in Fig 2, 5 sides (Pentagon) in Fig 3, 6 sides (Hexagon) in Fig 4.",
+          "options": [
+            "An 8-sided regular polygon (Octagon, skipping one side)",
+            "A 7-sided regular polygon (Heptagon)",
+            "A 6-sided regular polygon (Hexagon, repeating previous figure)",
+            "A 5-sided regular polygon (Pentagon, decreasing side count)"
           ],
           "correctIndex": 1,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Non-Verbal Series. Work through the problem step by step using the shortcuts taught in this topic.",
+          "difficulty": "easy",
+          "hint": "Track the angle of rotation, side addition, or position shifting of key elements from frame to frame.",
+          "explanation": "The number of outer sides in the polygon increases by +1 in each step: 3 -> 4 -> 5 -> 6 -> 7 sides.",
+          "solutionSteps": "Step 1: Identify the dynamic element changing across frames.\nStep 2: Determine the mathematical step rule (e.g. +45° rotation or +1 line segment).\nStep 3: Apply the rule to the 4th figure to predict: A 7-sided regular polygon (Heptagon).",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         },
         {
-          "questionText": "Non-Verbal Series Practice Q14: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "Identify the next figure in the given sequential series:\n\nA shaded sector in a circle rotating 90° anti-clockwise in each consecutive frame (top sector -> left sector -> bottom sector -> right sector).",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 2,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Non-Verbal Series. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Non-Verbal Series Practice Q15: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Non-Verbal Series. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Non-Verbal Series Practice Q16: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "A circle with the top sector shaded (returning to start after full 360° cycle)",
+            "A circle with the Top quadrant sector shaded (reverting to start)",
+            "A circle with the Right quadrant sector shaded (clockwise reversal)",
+            "A circle with both Top and Bottom quadrant sectors shaded"
           ],
           "correctIndex": 0,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Non-Verbal Series. Work through the problem step by step using the shortcuts taught in this topic.",
+          "difficulty": "easy",
+          "hint": "Track the angle of rotation, side addition, or position shifting of key elements from frame to frame.",
+          "explanation": "The shaded sector shifts by 90° anti-clockwise in each step: Top -> Left -> Bottom -> Right -> Top.",
+          "solutionSteps": "Step 1: Identify the dynamic element changing across frames.\nStep 2: Determine the mathematical step rule (e.g. +45° rotation or +1 line segment).\nStep 3: Apply the rule to the 4th figure to predict: A circle with the top sector shaded (returning to start after full 360° cycle).",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Non-Verbal Series Practice Q17: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Non-Verbal Series. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Non-Verbal Series Practice Q18: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 2,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Non-Verbal Series. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Non-Verbal Series Practice Q19: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Non-Verbal Series. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Non-Verbal Series Practice Q20: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Non-Verbal Series. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         }
       ]

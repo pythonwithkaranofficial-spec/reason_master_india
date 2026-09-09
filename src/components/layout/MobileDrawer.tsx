@@ -6,6 +6,8 @@ import Image from "next/image";
 import { usePathname } from "next/navigation";
 import { ASSETS } from "@/lib/assets/manifest";
 import { ThemeToggle } from "./ThemeToggle";
+import { useUserSettings } from "@/lib/settings/SettingsProvider";
+import { Zap } from "lucide-react";
 import {
   NavIconVerbal,
   NavIconNonVerbal,
@@ -26,6 +28,9 @@ interface MobileDrawerProps {
 
 export function MobileDrawer({ isOpen, onClose, onOpenSearch }: MobileDrawerProps) {
   const pathname = usePathname();
+  const { settings, isLoaded } = useUserSettings();
+  const questionCount = isLoaded ? settings.defaultQuestionCount : 10;
+  const instantMode = isLoaded && settings.instantFeedback ? "instant" : "review";
 
   // Close drawer on escape key
   useEffect(() => {
@@ -136,15 +141,23 @@ export function MobileDrawer({ isOpen, onClose, onOpenSearch }: MobileDrawerProp
           <button
             onClick={onClose}
             className="btn btn-secondary btn-sm"
-            style={{ padding: "0.4rem", borderRadius: "var(--radius-md)" }}
+            style={{
+              minWidth: "44px",
+              minHeight: "44px",
+              padding: 0,
+              display: "inline-flex",
+              alignItems: "center",
+              justifyContent: "center",
+              borderRadius: "var(--radius-md)",
+            }}
             aria-label="Close navigation menu"
           >
-            <NavIconClose size={18} />
+            <NavIconClose size={20} />
           </button>
         </div>
 
         {/* Quick Search Action */}
-        <div style={{ padding: "var(--space-4) var(--space-5) var(--space-2)" }}>
+        <div style={{ padding: "var(--space-3) var(--space-5) var(--space-2)" }}>
           <button
             onClick={() => {
               onClose();
@@ -155,16 +168,39 @@ export function MobileDrawer({ isOpen, onClose, onOpenSearch }: MobileDrawerProp
               width: "100%",
               justifyContent: "space-between",
               padding: "0.55rem 0.85rem",
+              minHeight: "44px",
               fontSize: "0.9rem",
             }}
           >
             <span style={{ display: "flex", alignItems: "center", gap: "var(--space-2)" }}>
               <NavIconSearch size={16} /> Search topics or exams...
             </span>
-            <span className="tag" style={{ fontSize: "0.7rem", padding: "0.1rem 0.35rem" }}>
+            <span className="tag" style={{ fontSize: "0.7rem", padding: "0.15rem 0.4rem" }}>
               Ctrl+K
             </span>
           </button>
+        </div>
+
+        {/* Quick Practice Launcher */}
+        <div style={{ padding: "0 var(--space-5) var(--space-2)" }}>
+          <Link
+            href={`/practice/session?count=${questionCount}&difficulty=mixed&mode=${instantMode}`}
+            onClick={onClose}
+            className="btn btn-primary"
+            style={{
+              width: "100%",
+              justifyContent: "center",
+              minHeight: "44px",
+              fontSize: "0.9rem",
+              display: "flex",
+              alignItems: "center",
+              gap: "var(--space-2)",
+              textDecoration: "none",
+            }}
+          >
+            <Zap size={16} />
+            <span>Quick {questionCount}-Q Practice Session</span>
+          </Link>
         </div>
 
         {/* Navigation Links */}
@@ -172,7 +208,7 @@ export function MobileDrawer({ isOpen, onClose, onOpenSearch }: MobileDrawerProp
           style={{
             flex: 1,
             overflowY: "auto",
-            padding: "var(--space-3) var(--space-4)",
+            padding: "var(--space-2) var(--space-4)",
             display: "flex",
             flexDirection: "column",
             gap: "var(--space-1)",
@@ -192,6 +228,7 @@ export function MobileDrawer({ isOpen, onClose, onOpenSearch }: MobileDrawerProp
                   alignItems: "center",
                   justifyContent: "space-between",
                   padding: "0.65rem 0.85rem",
+                  minHeight: "44px",
                   borderRadius: "var(--radius-md)",
                   fontSize: "0.95rem",
                   fontWeight: isActive ? 600 : 500,
@@ -246,6 +283,7 @@ export function MobileDrawer({ isOpen, onClose, onOpenSearch }: MobileDrawerProp
               alignItems: "center",
               gap: "var(--space-2)",
               padding: "0.45rem 0.75rem",
+              minHeight: "44px",
               textDecoration: "none",
             }}
           >

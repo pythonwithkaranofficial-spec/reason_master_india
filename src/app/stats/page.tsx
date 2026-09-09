@@ -7,6 +7,7 @@ import { StatsEngine, OverallStats } from "@/lib/stats/StatsEngine";
 import { Breadcrumb } from "@/components/ui/Breadcrumb";
 import { EmptyState } from "@/components/ui/EmptyState";
 import { ASSETS } from "@/lib/assets/manifest";
+import { TopicIcon } from "@/components/topics/TopicIcon";
 import {
   BarChart2,
   TrendingUp,
@@ -18,8 +19,10 @@ import {
   Target,
   Flame,
 } from "lucide-react";
+import { useUserSettings } from "@/lib/settings/SettingsProvider";
 
 export default function StatsPage() {
+  const { settings, isLoaded } = useUserSettings();
   const [stats, setStats] = useState<OverallStats | null>(null);
   const [loading, setLoading] = useState(true);
 
@@ -101,8 +104,8 @@ export default function StatsPage() {
           icon={BarChart2}
           title="No Practice Attempts Recorded Yet"
           description="Take a practice test or answer questions to generate your diagnostic profile, accuracy curves, and weak topic alerts."
-          actionText="Take a 10-Question Test"
-          actionHref="/practice/session?count=10&difficulty=mixed"
+          actionText={isLoaded ? `Take a ${settings.defaultQuestionCount}-Question Test` : "Take a Practice Test"}
+          actionHref={`/practice/session?count=${isLoaded ? settings.defaultQuestionCount : 10}&difficulty=mixed&mode=${isLoaded && settings.instantFeedback ? "instant" : "review"}`}
         />
       ) : (
         <div style={{ display: "flex", flexDirection: "column", gap: "var(--space-8)" }}>
@@ -207,9 +210,14 @@ export default function StatsPage() {
                     }}
                   >
                     <div>
-                      <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", marginBottom: "var(--space-2)" }}>
-                        <h4 style={{ fontSize: "1rem" }}>{w.topicName}</h4>
-                        <span className="badge badge-hard">{w.accuracy}%</span>
+                      <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", marginBottom: "var(--space-2)", gap: "var(--space-2)" }}>
+                        <div style={{ display: "flex", alignItems: "center", gap: "var(--space-2)", minWidth: 0 }}>
+                          <TopicIcon topicId={w.topicId} size={14} badgeSize={26} variant="badge" />
+                          <h4 style={{ fontSize: "1rem", whiteSpace: "nowrap", overflow: "hidden", textOverflow: "ellipsis" }}>
+                            {w.topicName}
+                          </h4>
+                        </div>
+                        <span className="badge badge-hard" style={{ flexShrink: 0 }}>{w.accuracy}%</span>
                       </div>
                       <div style={{ fontSize: "0.8rem", color: "var(--text-muted)", marginBottom: "var(--space-3)" }}>
                         {w.totalCorrect} of {w.totalAttempted} answered correctly
@@ -225,7 +233,7 @@ export default function StatsPage() {
                         Read Rules
                       </Link>
                       <Link
-                        href={`/practice/session?topicIds=${w.topicId}&count=10`}
+                        href={`/practice/session?topicIds=${w.topicId}&count=${isLoaded ? settings.defaultQuestionCount : 10}&mode=${isLoaded && settings.instantFeedback ? "instant" : "review"}`}
                         className="btn btn-primary btn-sm"
                         style={{ flex: 1, fontSize: "0.8rem" }}
                       >
@@ -256,11 +264,12 @@ export default function StatsPage() {
                   return (
                     <div key={topic.topicId}>
                       <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", marginBottom: "4px", fontSize: "0.9rem" }}>
-                        <div style={{ display: "flex", alignItems: "center", gap: "var(--space-2)" }}>
+                        <div style={{ display: "flex", alignItems: "center", gap: "var(--space-2.5)", minWidth: 0 }}>
+                          <TopicIcon topicId={topic.topicId} category={topic.category} size={14} badgeSize={26} variant="badge" />
                           <Link href={`/topics/${topic.topicId}`} style={{ fontWeight: 600, color: "var(--text-primary)" }}>
                             {topic.topicName}
                           </Link>
-                          <span className="tag" style={{ fontSize: "0.7rem", padding: "0.1rem 0.4rem" }}>
+                          <span className="tag" style={{ fontSize: "0.7rem", padding: "0.1rem 0.4rem", flexShrink: 0 }}>
                             {topic.category === "verbal" ? "Verbal" : "Non-Verbal"}
                           </span>
                         </div>

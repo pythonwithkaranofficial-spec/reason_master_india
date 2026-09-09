@@ -63,7 +63,8 @@
             "SSC CGL",
             "SSC CHSL",
             "RRB NTPC"
-          ]
+          ],
+          "explanation": "A Bird uses its Wing to move. A Fish uses its Fin to move. Answer: Fin."
         },
         {
           "questionText": "Cow : Calf :: Horse : ?",
@@ -79,7 +80,8 @@
           "examTags": [
             "SSC MTS",
             "RRB Group D"
-          ]
+          ],
+          "explanation": "Calf is the young one of a Cow. Colt is the young one of a Horse. Answer: Colt."
         },
         {
           "questionText": "Cobbler : Leather :: Tailor : ?",
@@ -95,7 +97,8 @@
           "examTags": [
             "SSC CGL",
             "IBPS Clerk"
-          ]
+          ],
+          "explanation": "A Cobbler works with Leather as raw material. A Tailor works with Cloth as raw material. Answer: Cloth."
         },
         {
           "questionText": "Thermometer : Temperature :: Barometer : ?",
@@ -112,7 +115,8 @@
             "SSC CGL",
             "RRB NTPC",
             "IBPS PO"
-          ]
+          ],
+          "explanation": "A Thermometer measures Temperature. A Barometer measures (atmospheric) Pressure. Answer: Pressure."
         },
         {
           "questionText": "Kangaroo : Australia :: Kiwi : ?",
@@ -129,7 +133,8 @@
             "SSC CGL",
             "SSC CHSL",
             "RRB NTPC"
-          ]
+          ],
+          "explanation": "Kangaroo is the national/iconic animal of Australia. Kiwi is the national bird of New Zealand. Answer: New Zealand."
         },
         {
           "questionText": "Ophthalmologist : Eyes :: Dermatologist : ?",
@@ -146,7 +151,8 @@
             "SSC CGL",
             "IBPS PO",
             "SBI PO"
-          ]
+          ],
+          "explanation": "An Ophthalmologist treats Eyes. A Dermatologist treats Skin. Answer: Skin."
         },
         {
           "questionText": "Bees : Swarm :: Fish : ?",
@@ -163,7 +169,8 @@
             "SSC CGL",
             "SSC CHSL",
             "IBPS Clerk"
-          ]
+          ],
+          "explanation": "A group of Bees is called a Swarm. A group of Fish is called a Shoal. Answer: Shoal."
         },
         {
           "questionText": "Elated : Despondent :: Luminous : ?",
@@ -180,7 +187,8 @@
             "SSC CGL",
             "SBI PO",
             "IBPS PO"
-          ]
+          ],
+          "explanation": "Elated (very happy) is the antonym of Despondent (very sad). Luminous (bright) is the antonym of Dim. Answer: Dim."
         },
         {
           "questionText": "Symphony : Music :: Epic : ?",
@@ -196,7 +204,8 @@
           "examTags": [
             "SSC CGL",
             "IBPS PO"
-          ]
+          ],
+          "explanation": "A Symphony is a form of Music. An Epic is a form of Literature. Answer: Literature."
         },
         {
           "questionText": "Acrophobia : Heights :: Claustrophobia : ?",
@@ -213,7 +222,8 @@
             "SSC CGL",
             "SBI PO",
             "RRB NTPC"
-          ]
+          ],
+          "explanation": "Acrophobia is fear of Heights. Claustrophobia is fear of Enclosed Spaces. Answer: Enclosed Spaces."
         }
       ]
     },
@@ -262,7 +272,8 @@
             "SSC CGL",
             "RRB NTPC",
             "SSC CHSL"
-          ]
+          ],
+          "explanation": "9² = 81. So 12² = 144. Answer: 144."
         },
         {
           "questionText": "3 : 28 :: 5 : ?",
@@ -278,7 +289,8 @@
           "examTags": [
             "SSC CGL",
             "IBPS PO"
-          ]
+          ],
+          "explanation": "3³ = 27, 27 + 1 = 28. So 5³ = 125, 125 + 1 = 126. Answer: 126."
         },
         {
           "questionText": "7 : 56 :: 9 : ?",
@@ -295,7 +307,8 @@
             "SSC CGL",
             "SSC CHSL",
             "RRB NTPC"
-          ]
+          ],
+          "explanation": "7 × 8 = 56 (n × (n+1)). So 9 × 10 = 90. Answer: 90."
         },
         {
           "questionText": "4 : 65 :: 6 : ?",
@@ -312,7 +325,8 @@
             "SSC CGL",
             "IBPS PO",
             "SBI PO"
-          ]
+          ],
+          "explanation": "4³ = 64, 64 + 1 = 65. So 6³ = 216, 216 + 1 = 217. Answer: 217."
         },
         {
           "questionText": "2 : 10 :: 4 : ?",
@@ -328,7 +342,8 @@
           "examTags": [
             "SSC CGL",
             "IBPS PO"
-          ]
+          ],
+          "explanation": "2³ + 2 = 8 + 2 = 10. So 4³ + 4 = 64 + 4 = 68. Answer: 68."
         }
       ]
     },
@@ -371,7 +386,8 @@
             "SSC CGL",
             "SSC CHSL",
             "RRB NTPC"
-          ]
+          ],
+          "explanation": "B=2, Y=25. 2+25=27 (opposite letters). D=4, so opposite = 27-4 = 23 = W. Answer: W."
         },
         {
           "questionText": "ACE : FHJ :: KMO : ?",
@@ -388,7 +404,8 @@
             "SSC CGL",
             "IBPS PO",
             "RRB NTPC"
-          ]
+          ],
+          "explanation": "A→F = +5, C→H = +5, E→J = +5. So K+5=P, M+5=R, O+5=T. Answer: PRT."
         },
         {
           "questionText": "AZ : CX :: EV : ?",
@@ -404,7 +421,8 @@
           "examTags": [
             "SSC CGL",
             "SSC CHSL"
-          ]
+          ],
+          "explanation": "A→C = +2, Z→X = -2. So E+2=G, V-2=T. Answer: GT."
         },
         {
           "questionText": "SEND : VHQG :: BANK : ?",
@@ -421,7 +439,8 @@
             "SSC CGL",
             "IBPS PO",
             "SBI PO"
-          ]
+          ],
+          "explanation": "S+3=V, E+3=H, N+3=Q, D+3=G. Each letter +3. B+3=E, A+3=D, N+3=Q, K+3=N. Answer: EDQN."
         },
         {
           "questionText": "MN : OP :: QR : ?",
@@ -437,7 +456,8 @@
           "examTags": [
             "SSC MTS",
             "RRB Group D"
-          ]
+          ],
+          "explanation": "M→O = +2, N→P = +2. So Q+2=S, R+2=T. Answer: ST."
         }
       ]
     }

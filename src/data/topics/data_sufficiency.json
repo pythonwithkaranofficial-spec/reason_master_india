@@ -49,343 +49,463 @@
       ],
       "practiceQuestions": [
         {
-          "questionText": "Data Sufficiency Practice Q1: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "Each of the questions below consists of a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statements are sufficient to answer the question:\n\nQuestion: In which direction is Village X situated with respect to Village Y?\n\nStatements:\nI. Village X is 15 km to the East of Village Z.\nII. Village Y is 10 km to the South of Village Z.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Data Sufficiency. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "SSC CGL"
-          ]
-        },
-        {
-          "questionText": "Data Sufficiency Practice Q2: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 2,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Data Sufficiency. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "SSC CGL"
-          ]
-        },
-        {
-          "questionText": "Data Sufficiency Practice Q3: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Data in either statement I alone or statement II alone is sufficient",
+            "Data in statement II alone is sufficient to answer",
+            "Data in statement I alone is sufficient to answer",
+            "Data in both statements I and II together are necessary to answer"
           ],
           "correctIndex": 3,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Data Sufficiency. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Both statements give coordinates relative to a common third point Z.",
+          "explanation": "From I: X is East of Z. From II: Y is South of Z (so Z is North of Y). Plotting X relative to Y: X is North-East of Y. Both statements are required together.",
+          "solutionSteps": "Step 1: Test Statement I independently. Does it yield a single unique answer?\nStep 2: Test Statement II independently. Does it yield a single unique answer?\nStep 3: If neither alone works, combine Statements I and II.\nStep 4: Conclude: Data in both statements I and II together are necessary to answer.",
           "examTags": [
             "IBPS PO",
+            "IBPS CLERK",
             "SBI PO",
-            "SSC CGL"
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
           ]
         },
         {
-          "questionText": "Data Sufficiency Practice Q4: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "Each of the questions below consists of a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statements are sufficient to answer the question:\n\nQuestion: What is the rank of Rahul from the top in a class of 40 students?\n\nStatements:\nI. Rahul is 12 ranks above Suresh who ranks 25th from the bottom.\nII. Rahul ranks 18th from the left in a separate row of boys.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Data Sufficiency. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "SSC CGL"
-          ]
-        },
-        {
-          "questionText": "Data Sufficiency Practice Q5: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Data Sufficiency. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "SSC CGL"
-          ]
-        },
-        {
-          "questionText": "Data Sufficiency Practice Q6: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Data in statement II alone is sufficient to answer",
+            "Data in either statement I alone or statement II alone is sufficient",
+            "Data in statement I alone is sufficient to answer",
+            "Data in both statements I and II together are necessary to answer"
           ],
           "correctIndex": 2,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Data Sufficiency. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Calculate rank from top using Total - Rank_from_bottom + 1.",
+          "explanation": "From I: Suresh is 25th from bottom in a class of 40 -> Suresh from top = 40 - 25 + 1 = 16th. Rahul is 12 ranks above Suresh -> Rahul's rank from top = 16 - 12 = 4th. Statement I alone is sufficient. Statement II relates to an unrelated row.",
+          "solutionSteps": "Step 1: Test Statement I independently. Does it yield a single unique answer?\nStep 2: Test Statement II independently. Does it yield a single unique answer?\nStep 3: If neither alone works, combine Statements I and II.\nStep 4: Conclude: Data in statement I alone is sufficient to answer.",
           "examTags": [
             "IBPS PO",
+            "IBPS CLERK",
             "SBI PO",
-            "SSC CGL"
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
           ]
         },
         {
-          "questionText": "Data Sufficiency Practice Q7: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "Each of the questions below consists of a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statements are sufficient to answer the question:\n\nQuestion: In which direction is Village X situated with respect to Village Y?\n\nStatements:\nI. Village X is 15 km to the East of Village Z.\nII. Village Y is 10 km to the South of Village Z.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Data in either statement I alone or statement II alone is sufficient",
+            "Data in statement I alone is sufficient to answer",
+            "Data in both statements I and II together are necessary to answer",
+            "Data in statement II alone is sufficient to answer"
+          ],
+          "correctIndex": 2,
+          "difficulty": "easy",
+          "hint": "Both statements give coordinates relative to a common third point Z.",
+          "explanation": "From I: X is East of Z. From II: Y is South of Z (so Z is North of Y). Plotting X relative to Y: X is North-East of Y. Both statements are required together.",
+          "solutionSteps": "Step 1: Test Statement I independently. Does it yield a single unique answer?\nStep 2: Test Statement II independently. Does it yield a single unique answer?\nStep 3: If neither alone works, combine Statements I and II.\nStep 4: Conclude: Data in both statements I and II together are necessary to answer.",
+          "examTags": [
+            "IBPS PO",
+            "IBPS CLERK",
+            "SBI PO",
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
+          ]
+        },
+        {
+          "questionText": "Each of the questions below consists of a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statements are sufficient to answer the question:\n\nQuestion: What is the rank of Rahul from the top in a class of 40 students?\n\nStatements:\nI. Rahul is 12 ranks above Suresh who ranks 25th from the bottom.\nII. Rahul ranks 18th from the left in a separate row of boys.",
+          "options": [
+            "Data in both statements I and II together are necessary to answer",
+            "Data in statement II alone is sufficient to answer",
+            "Data in either statement I alone or statement II alone is sufficient",
+            "Data in statement I alone is sufficient to answer"
           ],
           "correctIndex": 3,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Data Sufficiency. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Calculate rank from top using Total - Rank_from_bottom + 1.",
+          "explanation": "From I: Suresh is 25th from bottom in a class of 40 -> Suresh from top = 40 - 25 + 1 = 16th. Rahul is 12 ranks above Suresh -> Rahul's rank from top = 16 - 12 = 4th. Statement I alone is sufficient. Statement II relates to an unrelated row.",
+          "solutionSteps": "Step 1: Test Statement I independently. Does it yield a single unique answer?\nStep 2: Test Statement II independently. Does it yield a single unique answer?\nStep 3: If neither alone works, combine Statements I and II.\nStep 4: Conclude: Data in statement I alone is sufficient to answer.",
           "examTags": [
             "IBPS PO",
+            "IBPS CLERK",
             "SBI PO",
-            "SSC CGL"
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
           ]
         },
         {
-          "questionText": "Data Sufficiency Practice Q8: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "Each of the questions below consists of a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statements are sufficient to answer the question:\n\nQuestion: In which direction is Village X situated with respect to Village Y?\n\nStatements:\nI. Village X is 15 km to the East of Village Z.\nII. Village Y is 10 km to the South of Village Z.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Data in statement II alone is sufficient to answer",
+            "Data in statement I alone is sufficient to answer",
+            "Data in either statement I alone or statement II alone is sufficient",
+            "Data in both statements I and II together are necessary to answer"
+          ],
+          "correctIndex": 3,
+          "difficulty": "easy",
+          "hint": "Both statements give coordinates relative to a common third point Z.",
+          "explanation": "From I: X is East of Z. From II: Y is South of Z (so Z is North of Y). Plotting X relative to Y: X is North-East of Y. Both statements are required together.",
+          "solutionSteps": "Step 1: Test Statement I independently. Does it yield a single unique answer?\nStep 2: Test Statement II independently. Does it yield a single unique answer?\nStep 3: If neither alone works, combine Statements I and II.\nStep 4: Conclude: Data in both statements I and II together are necessary to answer.",
+          "examTags": [
+            "IBPS PO",
+            "IBPS CLERK",
+            "SBI PO",
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
+          ]
+        },
+        {
+          "questionText": "Each of the questions below consists of a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statements are sufficient to answer the question:\n\nQuestion: What is the rank of Rahul from the top in a class of 40 students?\n\nStatements:\nI. Rahul is 12 ranks above Suresh who ranks 25th from the bottom.\nII. Rahul ranks 18th from the left in a separate row of boys.",
+          "options": [
+            "Data in statement I alone is sufficient to answer",
+            "Data in either statement I alone or statement II alone is sufficient",
+            "Data in statement II alone is sufficient to answer",
+            "Data in both statements I and II together are necessary to answer"
           ],
           "correctIndex": 0,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Data Sufficiency. Work through the problem step by step using the shortcuts taught in this topic.",
+          "difficulty": "easy",
+          "hint": "Calculate rank from top using Total - Rank_from_bottom + 1.",
+          "explanation": "From I: Suresh is 25th from bottom in a class of 40 -> Suresh from top = 40 - 25 + 1 = 16th. Rahul is 12 ranks above Suresh -> Rahul's rank from top = 16 - 12 = 4th. Statement I alone is sufficient. Statement II relates to an unrelated row.",
+          "solutionSteps": "Step 1: Test Statement I independently. Does it yield a single unique answer?\nStep 2: Test Statement II independently. Does it yield a single unique answer?\nStep 3: If neither alone works, combine Statements I and II.\nStep 4: Conclude: Data in statement I alone is sufficient to answer.",
           "examTags": [
             "IBPS PO",
+            "IBPS CLERK",
             "SBI PO",
-            "SSC CGL"
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
           ]
         },
         {
-          "questionText": "Data Sufficiency Practice Q9: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "Each of the questions below consists of a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statements are sufficient to answer the question:\n\nQuestion: Among five friends P, Q, R, S, and T, who is the oldest?\n\nStatements:\nI. P is older than Q and R, but younger than S.\nII. S is older than T.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Data in statement II alone is sufficient to answer",
+            "Data in both statements I and II together are necessary to answer",
+            "Data in either statement I alone or statement II alone is sufficient",
+            "Data in statement I alone is sufficient to answer"
           ],
           "correctIndex": 1,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Data Sufficiency. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Check if Statement I leaves two possibilities open that Statement II resolves.",
+          "explanation": "From I: S > P > (Q, R). This leaves S or T as potential oldest. From II: S > T. Combining both statements: S is older than P, Q, R, and T. Thus, S is definitely the oldest. Both statements together are necessary.",
+          "solutionSteps": "Step 1: Test Statement I independently. Does it yield a single unique answer?\nStep 2: Test Statement II independently. Does it yield a single unique answer?\nStep 3: If neither alone works, combine Statements I and II.\nStep 4: Conclude: Data in both statements I and II together are necessary to answer.",
           "examTags": [
             "IBPS PO",
+            "IBPS CLERK",
             "SBI PO",
-            "SSC CGL"
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
           ]
         },
         {
-          "questionText": "Data Sufficiency Practice Q10: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "Each of the questions below consists of a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statements are sufficient to answer the question:\n\nQuestion: How is Rohit related to Sneha?\n\nStatements:\nI. Rohit's only brother is the husband of Sneha's mother's only daughter.\nII. Rohit is the son of Sneha's grandfather.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 2,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Data Sufficiency. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "SSC CGL"
-          ]
-        },
-        {
-          "questionText": "Data Sufficiency Practice Q11: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Data Sufficiency. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "SSC CGL"
-          ]
-        },
-        {
-          "questionText": "Data Sufficiency Practice Q12: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Data Sufficiency. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "SSC CGL"
-          ]
-        },
-        {
-          "questionText": "Data Sufficiency Practice Q13: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Data in both statements I and II together are necessary to answer",
+            "Data in statement I alone is sufficient to answer",
+            "Data in either statement I alone or statement II alone is sufficient",
+            "Data in statement II alone is sufficient to answer"
           ],
           "correctIndex": 1,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Data Sufficiency. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "\"Mother's only daughter\" refers to the female speaker herself.",
+          "explanation": "Sneha's mother's only daughter is Sneha herself. The husband of Sneha is Rohit's only brother. Therefore, Rohit is the brother-in-law of Sneha. Statement I alone gives a definite relationship.",
+          "solutionSteps": "Step 1: Test Statement I independently. Does it yield a single unique answer?\nStep 2: Test Statement II independently. Does it yield a single unique answer?\nStep 3: If neither alone works, combine Statements I and II.\nStep 4: Conclude: Data in statement I alone is sufficient to answer.",
           "examTags": [
             "IBPS PO",
+            "IBPS CLERK",
             "SBI PO",
-            "SSC CGL"
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
           ]
         },
         {
-          "questionText": "Data Sufficiency Practice Q14: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "Each of the questions below consists of a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statements are sufficient to answer the question:\n\nQuestion: Among five friends P, Q, R, S, and T, who is the oldest?\n\nStatements:\nI. P is older than Q and R, but younger than S.\nII. S is older than T.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Data in statement II alone is sufficient to answer",
+            "Data in either statement I alone or statement II alone is sufficient",
+            "Data in statement I alone is sufficient to answer",
+            "Data in both statements I and II together are necessary to answer"
+          ],
+          "correctIndex": 3,
+          "difficulty": "medium",
+          "hint": "Check if Statement I leaves two possibilities open that Statement II resolves.",
+          "explanation": "From I: S > P > (Q, R). This leaves S or T as potential oldest. From II: S > T. Combining both statements: S is older than P, Q, R, and T. Thus, S is definitely the oldest. Both statements together are necessary.",
+          "solutionSteps": "Step 1: Test Statement I independently. Does it yield a single unique answer?\nStep 2: Test Statement II independently. Does it yield a single unique answer?\nStep 3: If neither alone works, combine Statements I and II.\nStep 4: Conclude: Data in both statements I and II together are necessary to answer.",
+          "examTags": [
+            "IBPS PO",
+            "IBPS CLERK",
+            "SBI PO",
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
+          ]
+        },
+        {
+          "questionText": "Each of the questions below consists of a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statements are sufficient to answer the question:\n\nQuestion: How is Rohit related to Sneha?\n\nStatements:\nI. Rohit's only brother is the husband of Sneha's mother's only daughter.\nII. Rohit is the son of Sneha's grandfather.",
+          "options": [
+            "Data in both statements I and II together are necessary to answer",
+            "Data in statement II alone is sufficient to answer",
+            "Data in statement I alone is sufficient to answer",
+            "Data in either statement I alone or statement II alone is sufficient"
           ],
           "correctIndex": 2,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Data Sufficiency. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "\"Mother's only daughter\" refers to the female speaker herself.",
+          "explanation": "Sneha's mother's only daughter is Sneha herself. The husband of Sneha is Rohit's only brother. Therefore, Rohit is the brother-in-law of Sneha. Statement I alone gives a definite relationship.",
+          "solutionSteps": "Step 1: Test Statement I independently. Does it yield a single unique answer?\nStep 2: Test Statement II independently. Does it yield a single unique answer?\nStep 3: If neither alone works, combine Statements I and II.\nStep 4: Conclude: Data in statement I alone is sufficient to answer.",
           "examTags": [
             "IBPS PO",
+            "IBPS CLERK",
             "SBI PO",
-            "SSC CGL"
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
           ]
         },
         {
-          "questionText": "Data Sufficiency Practice Q15: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "Each of the questions below consists of a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statements are sufficient to answer the question:\n\nQuestion: Among five friends P, Q, R, S, and T, who is the oldest?\n\nStatements:\nI. P is older than Q and R, but younger than S.\nII. S is older than T.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Data in either statement I alone or statement II alone is sufficient",
+            "Data in both statements I and II together are necessary to answer",
+            "Data in statement I alone is sufficient to answer",
+            "Data in statement II alone is sufficient to answer"
+          ],
+          "correctIndex": 1,
+          "difficulty": "medium",
+          "hint": "Check if Statement I leaves two possibilities open that Statement II resolves.",
+          "explanation": "From I: S > P > (Q, R). This leaves S or T as potential oldest. From II: S > T. Combining both statements: S is older than P, Q, R, and T. Thus, S is definitely the oldest. Both statements together are necessary.",
+          "solutionSteps": "Step 1: Test Statement I independently. Does it yield a single unique answer?\nStep 2: Test Statement II independently. Does it yield a single unique answer?\nStep 3: If neither alone works, combine Statements I and II.\nStep 4: Conclude: Data in both statements I and II together are necessary to answer.",
+          "examTags": [
+            "IBPS PO",
+            "IBPS CLERK",
+            "SBI PO",
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
+          ]
+        },
+        {
+          "questionText": "Each of the questions below consists of a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statements are sufficient to answer the question:\n\nQuestion: How is Rohit related to Sneha?\n\nStatements:\nI. Rohit's only brother is the husband of Sneha's mother's only daughter.\nII. Rohit is the son of Sneha's grandfather.",
+          "options": [
+            "Data in statement I alone is sufficient to answer",
+            "Data in statement II alone is sufficient to answer",
+            "Data in either statement I alone or statement II alone is sufficient",
+            "Data in both statements I and II together are necessary to answer"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "hint": "\"Mother's only daughter\" refers to the female speaker herself.",
+          "explanation": "Sneha's mother's only daughter is Sneha herself. The husband of Sneha is Rohit's only brother. Therefore, Rohit is the brother-in-law of Sneha. Statement I alone gives a definite relationship.",
+          "solutionSteps": "Step 1: Test Statement I independently. Does it yield a single unique answer?\nStep 2: Test Statement II independently. Does it yield a single unique answer?\nStep 3: If neither alone works, combine Statements I and II.\nStep 4: Conclude: Data in statement I alone is sufficient to answer.",
+          "examTags": [
+            "IBPS PO",
+            "IBPS CLERK",
+            "SBI PO",
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
+          ]
+        },
+        {
+          "questionText": "Each of the questions below consists of a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statements are sufficient to answer the question:\n\nQuestion: Among five friends P, Q, R, S, and T, who is the oldest?\n\nStatements:\nI. P is older than Q and R, but younger than S.\nII. S is older than T.",
+          "options": [
+            "Data in statement II alone is sufficient to answer",
+            "Data in either statement I alone or statement II alone is sufficient",
+            "Data in statement I alone is sufficient to answer",
+            "Data in both statements I and II together are necessary to answer"
           ],
           "correctIndex": 3,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Data Sufficiency. Work through the problem step by step using the shortcuts taught in this topic.",
+          "difficulty": "medium",
+          "hint": "Check if Statement I leaves two possibilities open that Statement II resolves.",
+          "explanation": "From I: S > P > (Q, R). This leaves S or T as potential oldest. From II: S > T. Combining both statements: S is older than P, Q, R, and T. Thus, S is definitely the oldest. Both statements together are necessary.",
+          "solutionSteps": "Step 1: Test Statement I independently. Does it yield a single unique answer?\nStep 2: Test Statement II independently. Does it yield a single unique answer?\nStep 3: If neither alone works, combine Statements I and II.\nStep 4: Conclude: Data in both statements I and II together are necessary to answer.",
           "examTags": [
             "IBPS PO",
+            "IBPS CLERK",
             "SBI PO",
-            "SSC CGL"
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
           ]
         },
         {
-          "questionText": "Data Sufficiency Practice Q16: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "Each of the questions below consists of a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statements are sufficient to answer the question:\n\nQuestion: How is Rohit related to Sneha?\n\nStatements:\nI. Rohit's only brother is the husband of Sneha's mother's only daughter.\nII. Rohit is the son of Sneha's grandfather.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Data in statement I alone is sufficient to answer",
+            "Data in both statements I and II together are necessary to answer",
+            "Data in either statement I alone or statement II alone is sufficient",
+            "Data in statement II alone is sufficient to answer"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "hint": "\"Mother's only daughter\" refers to the female speaker herself.",
+          "explanation": "Sneha's mother's only daughter is Sneha herself. The husband of Sneha is Rohit's only brother. Therefore, Rohit is the brother-in-law of Sneha. Statement I alone gives a definite relationship.",
+          "solutionSteps": "Step 1: Test Statement I independently. Does it yield a single unique answer?\nStep 2: Test Statement II independently. Does it yield a single unique answer?\nStep 3: If neither alone works, combine Statements I and II.\nStep 4: Conclude: Data in statement I alone is sufficient to answer.",
+          "examTags": [
+            "IBPS PO",
+            "IBPS CLERK",
+            "SBI PO",
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
+          ]
+        },
+        {
+          "questionText": "Each of the questions below consists of a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statements are sufficient to answer the question:\n\nQuestion: What is the code for the word \"sky\" in the given code language?\n\nStatements:\nI. \"sky is blue\" is written as \"pa ki zo\", and \"blue sea deep\" is written as \"ki lo na\".\nII. \"birds fly high\" is written as \"ma ta se\".",
+          "options": [
+            "Data in both statements I and II together are not sufficient to answer",
+            "Data in statement I alone is sufficient to answer",
+            "Data in statement II alone is sufficient to answer",
+            "Data in either statement I alone or statement II alone is sufficient"
           ],
           "correctIndex": 0,
           "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Data Sufficiency. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Verify if two unknown words share two candidate codes without further elimination.",
+          "explanation": "From I: The common word is \"blue\" -> code \"ki\". This leaves \"sky is\" coded as \"pa zo\". Neither statement gives a unique distinction between \"sky\" and \"is\". Thus, data in both statements is insufficient.",
+          "solutionSteps": "Step 1: Test Statement I independently. Does it yield a single unique answer?\nStep 2: Test Statement II independently. Does it yield a single unique answer?\nStep 3: If neither alone works, combine Statements I and II.\nStep 4: Conclude: Data in both statements I and II together are not sufficient to answer.",
           "examTags": [
             "IBPS PO",
+            "IBPS CLERK",
             "SBI PO",
-            "SSC CGL"
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
           ]
         },
         {
-          "questionText": "Data Sufficiency Practice Q17: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "Each of the questions below consists of a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statements are sufficient to answer the question:\n\nQuestion: What is the code for the word \"sky\" in the given code language?\n\nStatements:\nI. \"sky is blue\" is written as \"pa ki zo\", and \"blue sea deep\" is written as \"ki lo na\".\nII. \"birds fly high\" is written as \"ma ta se\".",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Data in statement II alone is sufficient to answer",
+            "Data in both statements I and II together are not sufficient to answer",
+            "Data in statement I alone is sufficient to answer",
+            "Data in either statement I alone or statement II alone is sufficient"
           ],
           "correctIndex": 1,
           "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Data Sufficiency. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Verify if two unknown words share two candidate codes without further elimination.",
+          "explanation": "From I: The common word is \"blue\" -> code \"ki\". This leaves \"sky is\" coded as \"pa zo\". Neither statement gives a unique distinction between \"sky\" and \"is\". Thus, data in both statements is insufficient.",
+          "solutionSteps": "Step 1: Test Statement I independently. Does it yield a single unique answer?\nStep 2: Test Statement II independently. Does it yield a single unique answer?\nStep 3: If neither alone works, combine Statements I and II.\nStep 4: Conclude: Data in both statements I and II together are not sufficient to answer.",
           "examTags": [
             "IBPS PO",
+            "IBPS CLERK",
             "SBI PO",
-            "SSC CGL"
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
           ]
         },
         {
-          "questionText": "Data Sufficiency Practice Q18: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "Each of the questions below consists of a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statements are sufficient to answer the question:\n\nQuestion: What is the code for the word \"sky\" in the given code language?\n\nStatements:\nI. \"sky is blue\" is written as \"pa ki zo\", and \"blue sea deep\" is written as \"ki lo na\".\nII. \"birds fly high\" is written as \"ma ta se\".",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 2,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Data Sufficiency. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "SSC CGL"
-          ]
-        },
-        {
-          "questionText": "Data Sufficiency Practice Q19: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Data in statement II alone is sufficient to answer",
+            "Data in either statement I alone or statement II alone is sufficient",
+            "Data in statement I alone is sufficient to answer",
+            "Data in both statements I and II together are not sufficient to answer"
           ],
           "correctIndex": 3,
           "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Data Sufficiency. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Verify if two unknown words share two candidate codes without further elimination.",
+          "explanation": "From I: The common word is \"blue\" -> code \"ki\". This leaves \"sky is\" coded as \"pa zo\". Neither statement gives a unique distinction between \"sky\" and \"is\". Thus, data in both statements is insufficient.",
+          "solutionSteps": "Step 1: Test Statement I independently. Does it yield a single unique answer?\nStep 2: Test Statement II independently. Does it yield a single unique answer?\nStep 3: If neither alone works, combine Statements I and II.\nStep 4: Conclude: Data in both statements I and II together are not sufficient to answer.",
           "examTags": [
             "IBPS PO",
+            "IBPS CLERK",
             "SBI PO",
-            "SSC CGL"
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
           ]
         },
         {
-          "questionText": "Data Sufficiency Practice Q20: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "Each of the questions below consists of a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statements are sufficient to answer the question:\n\nQuestion: What is the code for the word \"sky\" in the given code language?\n\nStatements:\nI. \"sky is blue\" is written as \"pa ki zo\", and \"blue sea deep\" is written as \"ki lo na\".\nII. \"birds fly high\" is written as \"ma ta se\".",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Data in both statements I and II together are not sufficient to answer",
+            "Data in either statement I alone or statement II alone is sufficient",
+            "Data in statement I alone is sufficient to answer",
+            "Data in statement II alone is sufficient to answer"
           ],
           "correctIndex": 0,
           "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Data Sufficiency. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Verify if two unknown words share two candidate codes without further elimination.",
+          "explanation": "From I: The common word is \"blue\" -> code \"ki\". This leaves \"sky is\" coded as \"pa zo\". Neither statement gives a unique distinction between \"sky\" and \"is\". Thus, data in both statements is insufficient.",
+          "solutionSteps": "Step 1: Test Statement I independently. Does it yield a single unique answer?\nStep 2: Test Statement II independently. Does it yield a single unique answer?\nStep 3: If neither alone works, combine Statements I and II.\nStep 4: Conclude: Data in both statements I and II together are not sufficient to answer.",
           "examTags": [
             "IBPS PO",
+            "IBPS CLERK",
             "SBI PO",
-            "SSC CGL"
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
+          ]
+        },
+        {
+          "questionText": "Each of the questions below consists of a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statements are sufficient to answer the question:\n\nQuestion: What is the code for the word \"sky\" in the given code language?\n\nStatements:\nI. \"sky is blue\" is written as \"pa ki zo\", and \"blue sea deep\" is written as \"ki lo na\".\nII. \"birds fly high\" is written as \"ma ta se\".",
+          "options": [
+            "Data in both statements I and II together are not sufficient to answer",
+            "Data in statement II alone is sufficient to answer",
+            "Data in statement I alone is sufficient to answer",
+            "Data in either statement I alone or statement II alone is sufficient"
+          ],
+          "correctIndex": 0,
+          "difficulty": "hard",
+          "hint": "Verify if two unknown words share two candidate codes without further elimination.",
+          "explanation": "From I: The common word is \"blue\" -> code \"ki\". This leaves \"sky is\" coded as \"pa zo\". Neither statement gives a unique distinction between \"sky\" and \"is\". Thus, data in both statements is insufficient.",
+          "solutionSteps": "Step 1: Test Statement I independently. Does it yield a single unique answer?\nStep 2: Test Statement II independently. Does it yield a single unique answer?\nStep 3: If neither alone works, combine Statements I and II.\nStep 4: Conclude: Data in both statements I and II together are not sufficient to answer.",
+          "examTags": [
+            "IBPS PO",
+            "IBPS CLERK",
+            "SBI PO",
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
+          ]
+        },
+        {
+          "questionText": "Each of the questions below consists of a question and two statements numbered I and II given below it. You have to decide whether the data provided in the statements are sufficient to answer the question:\n\nQuestion: What is the code for the word \"sky\" in the given code language?\n\nStatements:\nI. \"sky is blue\" is written as \"pa ki zo\", and \"blue sea deep\" is written as \"ki lo na\".\nII. \"birds fly high\" is written as \"ma ta se\".",
+          "options": [
+            "Data in both statements I and II together are not sufficient to answer",
+            "Data in statement II alone is sufficient to answer",
+            "Data in either statement I alone or statement II alone is sufficient",
+            "Data in statement I alone is sufficient to answer"
+          ],
+          "correctIndex": 0,
+          "difficulty": "hard",
+          "hint": "Verify if two unknown words share two candidate codes without further elimination.",
+          "explanation": "From I: The common word is \"blue\" -> code \"ki\". This leaves \"sky is\" coded as \"pa zo\". Neither statement gives a unique distinction between \"sky\" and \"is\". Thus, data in both statements is insufficient.",
+          "solutionSteps": "Step 1: Test Statement I independently. Does it yield a single unique answer?\nStep 2: Test Statement II independently. Does it yield a single unique answer?\nStep 3: If neither alone works, combine Statements I and II.\nStep 4: Conclude: Data in both statements I and II together are not sufficient to answer.",
+          "examTags": [
+            "IBPS PO",
+            "IBPS CLERK",
+            "SBI PO",
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
           ]
         }
       ]

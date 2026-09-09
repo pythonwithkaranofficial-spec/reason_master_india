@@ -49,343 +49,483 @@
       ],
       "practiceQuestions": [
         {
-          "questionText": "Embedded Figures Practice Q1: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "From the given answer figures, select the one in which the Question Figure (X)—representing a capital letter \"Z\" shape with right angles—is exactly embedded / hidden:",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Embedded Figures. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Embedded Figures Practice Q2: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 2,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Embedded Figures. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Embedded Figures Practice Q3: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Embedded Figures. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Embedded Figures Practice Q4: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Embedded Figures. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Embedded Figures Practice Q5: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Embedded Figures. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Embedded Figures Practice Q6: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 2,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Embedded Figures. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Embedded Figures Practice Q7: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Embedded Figures. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Embedded Figures Practice Q8: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Embedded Figures. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Embedded Figures Practice Q9: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Embedded Figures. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Embedded Figures Practice Q10: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Figure (B) featuring circular interlocking rings",
+            "Figure (C) consisting of an architectural window frame",
+            "Figure (A) containing a zig-zag step ladder structure",
+            "Figure (D) depicting a kite and geometric lattice"
           ],
           "correctIndex": 2,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Embedded Figures. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Trace the critical structural angles (e.g. 90-degree corners, diagonals) of the question figure within the options.",
+          "explanation": "The distinctive two horizontal parallel arms connected by a transversal diagonal in letter \"Z\" are seamlessly embedded inside the step ladder lines of Figure (A).",
+          "solutionSteps": "Step 1: Isolate the essential vertex angles and stroke proportions of the question figure.\nStep 2: Scan each candidate figure to check if all line segments exist in the exact required orientation.\nStep 3: Conclude that Figure (A) containing a zig-zag step ladder structure houses the exact embedded figure.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Embedded Figures Practice Q11: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "From the given answer figures, select the one in which the Question Figure (X)—representing a small equilateral triangle pointing upward—is exactly embedded / hidden:",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Figure (A) containing disjoint curved wave patterns",
+            "Figure (C) consisting of concentric rectangular frames",
+            "Figure (D) depicting a series of parallel vertical bars",
+            "Figure (B) featuring an isometric hexagonal prism grid"
           ],
           "correctIndex": 3,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Embedded Figures. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Trace the critical structural angles (e.g. 90-degree corners, diagonals) of the question figure within the options.",
+          "explanation": "An upward pointing equilateral triangle forms the fundamental unit tessellation of the isometric hexagonal network in Figure (B).",
+          "solutionSteps": "Step 1: Isolate the essential vertex angles and stroke proportions of the question figure.\nStep 2: Scan each candidate figure to check if all line segments exist in the exact required orientation.\nStep 3: Conclude that Figure (B) featuring an isometric hexagonal prism grid houses the exact embedded figure.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Embedded Figures Practice Q12: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "From the given answer figures, select the one in which the Question Figure (X)—representing a capital letter \"F\" shape with both horizontal arms—is exactly embedded / hidden:",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Embedded Figures. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Embedded Figures Practice Q13: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Embedded Figures. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Embedded Figures Practice Q14: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Figure (A) containing a zig-zag diamond network",
+            "Figure (B) featuring an elliptical spiral pattern",
+            "Figure (C) consisting of an architectural window frame",
+            "Figure (D) depicting an open polygonal curve"
           ],
           "correctIndex": 2,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Embedded Figures. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Trace the critical structural angles (e.g. 90-degree corners, diagonals) of the question figure within the options.",
+          "explanation": "The vertical upright stroke and the two parallel rightward horizontal arms of letter \"F\" are distinctly tracing the upper mullions of Figure (C).",
+          "solutionSteps": "Step 1: Isolate the essential vertex angles and stroke proportions of the question figure.\nStep 2: Scan each candidate figure to check if all line segments exist in the exact required orientation.\nStep 3: Conclude that Figure (C) consisting of an architectural window frame houses the exact embedded figure.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Embedded Figures Practice Q15: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "From the given answer figures, select the one in which the Question Figure (X)—representing a diamond shape (rhombus) with a horizontal line across its center—is exactly embedded / hidden:",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Embedded Figures. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Embedded Figures Practice Q16: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Embedded Figures. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Embedded Figures Practice Q17: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Figure (A) containing concentric circular rings",
+            "Figure (D) depicting a kite and geometric lattice",
+            "Figure (B) featuring a rectangular brickwork pattern",
+            "Figure (C) consisting of an open three-legged star"
           ],
           "correctIndex": 1,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Embedded Figures. Work through the problem step by step using the shortcuts taught in this topic.",
+          "difficulty": "medium",
+          "hint": "Trace the critical structural angles (e.g. 90-degree corners, diagonals) of the question figure within the options.",
+          "explanation": "The four symmetric sloping outer edges and central horizontal dividing strut of the rhombus are perfectly embedded in Figure (D).",
+          "solutionSteps": "Step 1: Isolate the essential vertex angles and stroke proportions of the question figure.\nStep 2: Scan each candidate figure to check if all line segments exist in the exact required orientation.\nStep 3: Conclude that Figure (D) depicting a kite and geometric lattice houses the exact embedded figure.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Embedded Figures Practice Q18: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "From the given answer figures, select the one in which the Question Figure (X)—representing a capital letter \"Z\" shape with right angles—is exactly embedded / hidden:",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 2,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Embedded Figures. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Embedded Figures Practice Q19: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Embedded Figures. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Embedded Figures Practice Q20: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Figure (A) containing a zig-zag step ladder structure",
+            "Figure (B) featuring circular interlocking rings",
+            "Figure (C) consisting of an architectural window frame",
+            "Figure (D) depicting a kite and geometric lattice"
           ],
           "correctIndex": 0,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Embedded Figures. Work through the problem step by step using the shortcuts taught in this topic.",
+          "difficulty": "medium",
+          "hint": "Trace the critical structural angles (e.g. 90-degree corners, diagonals) of the question figure within the options.",
+          "explanation": "The distinctive two horizontal parallel arms connected by a transversal diagonal in letter \"Z\" are seamlessly embedded inside the step ladder lines of Figure (A).",
+          "solutionSteps": "Step 1: Isolate the essential vertex angles and stroke proportions of the question figure.\nStep 2: Scan each candidate figure to check if all line segments exist in the exact required orientation.\nStep 3: Conclude that Figure (A) containing a zig-zag step ladder structure houses the exact embedded figure.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "From the given answer figures, select the one in which the Question Figure (X)—representing a small equilateral triangle pointing upward—is exactly embedded / hidden:",
+          "options": [
+            "Figure (A) containing disjoint curved wave patterns",
+            "Figure (C) consisting of concentric rectangular frames",
+            "Figure (B) featuring an isometric hexagonal prism grid",
+            "Figure (D) depicting a series of parallel vertical bars"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "hint": "Trace the critical structural angles (e.g. 90-degree corners, diagonals) of the question figure within the options.",
+          "explanation": "An upward pointing equilateral triangle forms the fundamental unit tessellation of the isometric hexagonal network in Figure (B).",
+          "solutionSteps": "Step 1: Isolate the essential vertex angles and stroke proportions of the question figure.\nStep 2: Scan each candidate figure to check if all line segments exist in the exact required orientation.\nStep 3: Conclude that Figure (B) featuring an isometric hexagonal prism grid houses the exact embedded figure.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "From the given answer figures, select the one in which the Question Figure (X)—representing a capital letter \"F\" shape with both horizontal arms—is exactly embedded / hidden:",
+          "options": [
+            "Figure (C) consisting of an architectural window frame",
+            "Figure (A) containing a zig-zag diamond network",
+            "Figure (B) featuring an elliptical spiral pattern",
+            "Figure (D) depicting an open polygonal curve"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "hint": "Trace the critical structural angles (e.g. 90-degree corners, diagonals) of the question figure within the options.",
+          "explanation": "The vertical upright stroke and the two parallel rightward horizontal arms of letter \"F\" are distinctly tracing the upper mullions of Figure (C).",
+          "solutionSteps": "Step 1: Isolate the essential vertex angles and stroke proportions of the question figure.\nStep 2: Scan each candidate figure to check if all line segments exist in the exact required orientation.\nStep 3: Conclude that Figure (C) consisting of an architectural window frame houses the exact embedded figure.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "From the given answer figures, select the one in which the Question Figure (X)—representing a diamond shape (rhombus) with a horizontal line across its center—is exactly embedded / hidden:",
+          "options": [
+            "Figure (A) containing concentric circular rings",
+            "Figure (D) depicting a kite and geometric lattice",
+            "Figure (B) featuring a rectangular brickwork pattern",
+            "Figure (C) consisting of an open three-legged star"
+          ],
+          "correctIndex": 1,
+          "difficulty": "medium",
+          "hint": "Trace the critical structural angles (e.g. 90-degree corners, diagonals) of the question figure within the options.",
+          "explanation": "The four symmetric sloping outer edges and central horizontal dividing strut of the rhombus are perfectly embedded in Figure (D).",
+          "solutionSteps": "Step 1: Isolate the essential vertex angles and stroke proportions of the question figure.\nStep 2: Scan each candidate figure to check if all line segments exist in the exact required orientation.\nStep 3: Conclude that Figure (D) depicting a kite and geometric lattice houses the exact embedded figure.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "From the given answer figures, select the one in which the Question Figure (X)—representing a capital letter \"Z\" shape with right angles—is exactly embedded / hidden:",
+          "options": [
+            "Figure (B) featuring circular interlocking rings",
+            "Figure (C) consisting of an architectural window frame",
+            "Figure (A) containing a zig-zag step ladder structure",
+            "Figure (D) depicting a kite and geometric lattice"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "hint": "Trace the critical structural angles (e.g. 90-degree corners, diagonals) of the question figure within the options.",
+          "explanation": "The distinctive two horizontal parallel arms connected by a transversal diagonal in letter \"Z\" are seamlessly embedded inside the step ladder lines of Figure (A).",
+          "solutionSteps": "Step 1: Isolate the essential vertex angles and stroke proportions of the question figure.\nStep 2: Scan each candidate figure to check if all line segments exist in the exact required orientation.\nStep 3: Conclude that Figure (A) containing a zig-zag step ladder structure houses the exact embedded figure.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "From the given answer figures, select the one in which the Question Figure (X)—representing a small equilateral triangle pointing upward—is exactly embedded / hidden:",
+          "options": [
+            "Figure (A) containing disjoint curved wave patterns",
+            "Figure (C) consisting of concentric rectangular frames",
+            "Figure (D) depicting a series of parallel vertical bars",
+            "Figure (B) featuring an isometric hexagonal prism grid"
+          ],
+          "correctIndex": 3,
+          "difficulty": "medium",
+          "hint": "Trace the critical structural angles (e.g. 90-degree corners, diagonals) of the question figure within the options.",
+          "explanation": "An upward pointing equilateral triangle forms the fundamental unit tessellation of the isometric hexagonal network in Figure (B).",
+          "solutionSteps": "Step 1: Isolate the essential vertex angles and stroke proportions of the question figure.\nStep 2: Scan each candidate figure to check if all line segments exist in the exact required orientation.\nStep 3: Conclude that Figure (B) featuring an isometric hexagonal prism grid houses the exact embedded figure.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "From the given answer figures, select the one in which the Question Figure (X)—representing a capital letter \"F\" shape with both horizontal arms—is exactly embedded / hidden:",
+          "options": [
+            "Figure (A) containing a zig-zag diamond network",
+            "Figure (B) featuring an elliptical spiral pattern",
+            "Figure (D) depicting an open polygonal curve",
+            "Figure (C) consisting of an architectural window frame"
+          ],
+          "correctIndex": 3,
+          "difficulty": "medium",
+          "hint": "Trace the critical structural angles (e.g. 90-degree corners, diagonals) of the question figure within the options.",
+          "explanation": "The vertical upright stroke and the two parallel rightward horizontal arms of letter \"F\" are distinctly tracing the upper mullions of Figure (C).",
+          "solutionSteps": "Step 1: Isolate the essential vertex angles and stroke proportions of the question figure.\nStep 2: Scan each candidate figure to check if all line segments exist in the exact required orientation.\nStep 3: Conclude that Figure (C) consisting of an architectural window frame houses the exact embedded figure.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "From the given answer figures, select the one in which the Question Figure (X)—representing a diamond shape (rhombus) with a horizontal line across its center—is exactly embedded / hidden:",
+          "options": [
+            "Figure (A) containing concentric circular rings",
+            "Figure (B) featuring a rectangular brickwork pattern",
+            "Figure (C) consisting of an open three-legged star",
+            "Figure (D) depicting a kite and geometric lattice"
+          ],
+          "correctIndex": 3,
+          "difficulty": "medium",
+          "hint": "Trace the critical structural angles (e.g. 90-degree corners, diagonals) of the question figure within the options.",
+          "explanation": "The four symmetric sloping outer edges and central horizontal dividing strut of the rhombus are perfectly embedded in Figure (D).",
+          "solutionSteps": "Step 1: Isolate the essential vertex angles and stroke proportions of the question figure.\nStep 2: Scan each candidate figure to check if all line segments exist in the exact required orientation.\nStep 3: Conclude that Figure (D) depicting a kite and geometric lattice houses the exact embedded figure.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "From the given answer figures, select the one in which the Question Figure (X)—representing a capital letter \"Z\" shape with right angles—is exactly embedded / hidden:",
+          "options": [
+            "Figure (A) containing a zig-zag step ladder structure",
+            "Figure (B) featuring circular interlocking rings",
+            "Figure (C) consisting of an architectural window frame",
+            "Figure (D) depicting a kite and geometric lattice"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "hint": "Trace the critical structural angles (e.g. 90-degree corners, diagonals) of the question figure within the options.",
+          "explanation": "The distinctive two horizontal parallel arms connected by a transversal diagonal in letter \"Z\" are seamlessly embedded inside the step ladder lines of Figure (A).",
+          "solutionSteps": "Step 1: Isolate the essential vertex angles and stroke proportions of the question figure.\nStep 2: Scan each candidate figure to check if all line segments exist in the exact required orientation.\nStep 3: Conclude that Figure (A) containing a zig-zag step ladder structure houses the exact embedded figure.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "From the given answer figures, select the one in which the Question Figure (X)—representing a small equilateral triangle pointing upward—is exactly embedded / hidden:",
+          "options": [
+            "Figure (A) containing disjoint curved wave patterns",
+            "Figure (C) consisting of concentric rectangular frames",
+            "Figure (D) depicting a series of parallel vertical bars",
+            "Figure (B) featuring an isometric hexagonal prism grid"
+          ],
+          "correctIndex": 3,
+          "difficulty": "medium",
+          "hint": "Trace the critical structural angles (e.g. 90-degree corners, diagonals) of the question figure within the options.",
+          "explanation": "An upward pointing equilateral triangle forms the fundamental unit tessellation of the isometric hexagonal network in Figure (B).",
+          "solutionSteps": "Step 1: Isolate the essential vertex angles and stroke proportions of the question figure.\nStep 2: Scan each candidate figure to check if all line segments exist in the exact required orientation.\nStep 3: Conclude that Figure (B) featuring an isometric hexagonal prism grid houses the exact embedded figure.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "From the given answer figures, select the one in which the Question Figure (X)—representing a capital letter \"F\" shape with both horizontal arms—is exactly embedded / hidden:",
+          "options": [
+            "Figure (A) containing a zig-zag diamond network",
+            "Figure (C) consisting of an architectural window frame",
+            "Figure (B) featuring an elliptical spiral pattern",
+            "Figure (D) depicting an open polygonal curve"
+          ],
+          "correctIndex": 1,
+          "difficulty": "medium",
+          "hint": "Trace the critical structural angles (e.g. 90-degree corners, diagonals) of the question figure within the options.",
+          "explanation": "The vertical upright stroke and the two parallel rightward horizontal arms of letter \"F\" are distinctly tracing the upper mullions of Figure (C).",
+          "solutionSteps": "Step 1: Isolate the essential vertex angles and stroke proportions of the question figure.\nStep 2: Scan each candidate figure to check if all line segments exist in the exact required orientation.\nStep 3: Conclude that Figure (C) consisting of an architectural window frame houses the exact embedded figure.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "From the given answer figures, select the one in which the Question Figure (X)—representing a diamond shape (rhombus) with a horizontal line across its center—is exactly embedded / hidden:",
+          "options": [
+            "Figure (D) depicting a kite and geometric lattice",
+            "Figure (A) containing concentric circular rings",
+            "Figure (B) featuring a rectangular brickwork pattern",
+            "Figure (C) consisting of an open three-legged star"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "hint": "Trace the critical structural angles (e.g. 90-degree corners, diagonals) of the question figure within the options.",
+          "explanation": "The four symmetric sloping outer edges and central horizontal dividing strut of the rhombus are perfectly embedded in Figure (D).",
+          "solutionSteps": "Step 1: Isolate the essential vertex angles and stroke proportions of the question figure.\nStep 2: Scan each candidate figure to check if all line segments exist in the exact required orientation.\nStep 3: Conclude that Figure (D) depicting a kite and geometric lattice houses the exact embedded figure.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "From the given answer figures, select the one in which the Question Figure (X)—representing a capital letter \"Z\" shape with right angles—is exactly embedded / hidden:",
+          "options": [
+            "Figure (B) featuring circular interlocking rings",
+            "Figure (C) consisting of an architectural window frame",
+            "Figure (A) containing a zig-zag step ladder structure",
+            "Figure (D) depicting a kite and geometric lattice"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "hint": "Trace the critical structural angles (e.g. 90-degree corners, diagonals) of the question figure within the options.",
+          "explanation": "The distinctive two horizontal parallel arms connected by a transversal diagonal in letter \"Z\" are seamlessly embedded inside the step ladder lines of Figure (A).",
+          "solutionSteps": "Step 1: Isolate the essential vertex angles and stroke proportions of the question figure.\nStep 2: Scan each candidate figure to check if all line segments exist in the exact required orientation.\nStep 3: Conclude that Figure (A) containing a zig-zag step ladder structure houses the exact embedded figure.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "From the given answer figures, select the one in which the Question Figure (X)—representing a small equilateral triangle pointing upward—is exactly embedded / hidden:",
+          "options": [
+            "Figure (A) containing disjoint curved wave patterns",
+            "Figure (B) featuring an isometric hexagonal prism grid",
+            "Figure (C) consisting of concentric rectangular frames",
+            "Figure (D) depicting a series of parallel vertical bars"
+          ],
+          "correctIndex": 1,
+          "difficulty": "medium",
+          "hint": "Trace the critical structural angles (e.g. 90-degree corners, diagonals) of the question figure within the options.",
+          "explanation": "An upward pointing equilateral triangle forms the fundamental unit tessellation of the isometric hexagonal network in Figure (B).",
+          "solutionSteps": "Step 1: Isolate the essential vertex angles and stroke proportions of the question figure.\nStep 2: Scan each candidate figure to check if all line segments exist in the exact required orientation.\nStep 3: Conclude that Figure (B) featuring an isometric hexagonal prism grid houses the exact embedded figure.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "From the given answer figures, select the one in which the Question Figure (X)—representing a capital letter \"F\" shape with both horizontal arms—is exactly embedded / hidden:",
+          "options": [
+            "Figure (A) containing a zig-zag diamond network",
+            "Figure (B) featuring an elliptical spiral pattern",
+            "Figure (C) consisting of an architectural window frame",
+            "Figure (D) depicting an open polygonal curve"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "hint": "Trace the critical structural angles (e.g. 90-degree corners, diagonals) of the question figure within the options.",
+          "explanation": "The vertical upright stroke and the two parallel rightward horizontal arms of letter \"F\" are distinctly tracing the upper mullions of Figure (C).",
+          "solutionSteps": "Step 1: Isolate the essential vertex angles and stroke proportions of the question figure.\nStep 2: Scan each candidate figure to check if all line segments exist in the exact required orientation.\nStep 3: Conclude that Figure (C) consisting of an architectural window frame houses the exact embedded figure.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "From the given answer figures, select the one in which the Question Figure (X)—representing a diamond shape (rhombus) with a horizontal line across its center—is exactly embedded / hidden:",
+          "options": [
+            "Figure (A) containing concentric circular rings",
+            "Figure (B) featuring a rectangular brickwork pattern",
+            "Figure (D) depicting a kite and geometric lattice",
+            "Figure (C) consisting of an open three-legged star"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "hint": "Trace the critical structural angles (e.g. 90-degree corners, diagonals) of the question figure within the options.",
+          "explanation": "The four symmetric sloping outer edges and central horizontal dividing strut of the rhombus are perfectly embedded in Figure (D).",
+          "solutionSteps": "Step 1: Isolate the essential vertex angles and stroke proportions of the question figure.\nStep 2: Scan each candidate figure to check if all line segments exist in the exact required orientation.\nStep 3: Conclude that Figure (D) depicting a kite and geometric lattice houses the exact embedded figure.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         }
       ]

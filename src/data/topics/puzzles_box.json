@@ -49,343 +49,483 @@
       ],
       "practiceQuestions": [
         {
-          "questionText": "Puzzles — Box/Stacking Practice Q1: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "In a vertical stack of seven boxes arranged from bottom to top as:\nBox Q, Box V, Box P, Box R, Box U, Box T, Box S.\nHow many boxes are kept between Box V and Box T?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Puzzles — Box/Stacking. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "IBPS Clerk"
-          ]
-        },
-        {
-          "questionText": "Puzzles — Box/Stacking Practice Q2: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 2,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Puzzles — Box/Stacking. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "IBPS Clerk"
-          ]
-        },
-        {
-          "questionText": "Puzzles — Box/Stacking Practice Q3: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Puzzles — Box/Stacking. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "IBPS Clerk"
-          ]
-        },
-        {
-          "questionText": "Puzzles — Box/Stacking Practice Q4: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "3 boxes",
+            "2 boxes",
+            "4 boxes",
+            "1 box"
           ],
           "correctIndex": 0,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Puzzles — Box/Stacking. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Trace the stack from bottom (1) to top (7). \"Immediately above\" means position + 1.",
+          "explanation": "Box Box V is at position 2 and Box T is at position 6. The boxes between them are at positions 3, 4, and 5 (Box P, Box R, Box U), making exactly 3 boxes.",
+          "solutionSteps": "Step 1: Number the stack 1 (bottom) to 7 (top).\nStep 2: Place each box according to the vertical sequence.\nStep 3: Read the required relative position: 3 boxes.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "IBPS Clerk"
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Puzzles — Box/Stacking Practice Q5: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "In a vertical stack of seven boxes arranged from bottom to top as:\nBox S, Box R, Box V, Box Q, Box T, Box P, Box U.\nHow many boxes are kept between Box R and Box P?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Puzzles — Box/Stacking. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "IBPS Clerk"
-          ]
-        },
-        {
-          "questionText": "Puzzles — Box/Stacking Practice Q6: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "2 boxes",
+            "4 boxes",
+            "3 boxes",
+            "1 box"
           ],
           "correctIndex": 2,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Puzzles — Box/Stacking. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Trace the stack from bottom (1) to top (7). \"Immediately above\" means position + 1.",
+          "explanation": "Box Box R is at position 2 and Box P is at position 6. The boxes between them are at positions 3, 4, and 5 (Box V, Box Q, Box T), making exactly 3 boxes.",
+          "solutionSteps": "Step 1: Number the stack 1 (bottom) to 7 (top).\nStep 2: Place each box according to the vertical sequence.\nStep 3: Read the required relative position: 3 boxes.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "IBPS Clerk"
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Puzzles — Box/Stacking Practice Q7: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "In a vertical stack of seven boxes arranged from bottom to top as:\nBox T, Box U, Box R, Box S, Box P, Box Q, Box V.\nHow many boxes are kept between Box U and Box Q?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "2 boxes",
+            "4 boxes",
+            "1 box",
+            "3 boxes"
           ],
           "correctIndex": 3,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Puzzles — Box/Stacking. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Trace the stack from bottom (1) to top (7). \"Immediately above\" means position + 1.",
+          "explanation": "Box Box U is at position 2 and Box Q is at position 6. The boxes between them are at positions 3, 4, and 5 (Box R, Box S, Box P), making exactly 3 boxes.",
+          "solutionSteps": "Step 1: Number the stack 1 (bottom) to 7 (top).\nStep 2: Place each box according to the vertical sequence.\nStep 3: Read the required relative position: 3 boxes.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "IBPS Clerk"
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Puzzles — Box/Stacking Practice Q8: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "In a vertical stack of seven boxes arranged from bottom to top as:\nBox T, Box U, Box R, Box S, Box Q, Box V, Box P.\nHow many boxes are kept between Box U and Box V?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "2 boxes",
+            "1 box",
+            "4 boxes",
+            "3 boxes"
           ],
-          "correctIndex": 0,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Puzzles — Box/Stacking. Work through the problem step by step using the shortcuts taught in this topic.",
+          "correctIndex": 3,
+          "difficulty": "easy",
+          "hint": "Trace the stack from bottom (1) to top (7). \"Immediately above\" means position + 1.",
+          "explanation": "Box Box U is at position 2 and Box V is at position 6. The boxes between them are at positions 3, 4, and 5 (Box R, Box S, Box Q), making exactly 3 boxes.",
+          "solutionSteps": "Step 1: Number the stack 1 (bottom) to 7 (top).\nStep 2: Place each box according to the vertical sequence.\nStep 3: Read the required relative position: 3 boxes.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "IBPS Clerk"
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Puzzles — Box/Stacking Practice Q9: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "In a vertical stack of seven boxes arranged from bottom to top as:\nBox Q, Box S, Box R, Box P, Box V, Box U, Box T.\nHow many boxes are kept between Box S and Box U?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "1 box",
+            "4 boxes",
+            "2 boxes",
+            "3 boxes"
           ],
-          "correctIndex": 1,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Puzzles — Box/Stacking. Work through the problem step by step using the shortcuts taught in this topic.",
+          "correctIndex": 3,
+          "difficulty": "easy",
+          "hint": "Trace the stack from bottom (1) to top (7). \"Immediately above\" means position + 1.",
+          "explanation": "Box Box S is at position 2 and Box U is at position 6. The boxes between them are at positions 3, 4, and 5 (Box R, Box P, Box V), making exactly 3 boxes.",
+          "solutionSteps": "Step 1: Number the stack 1 (bottom) to 7 (top).\nStep 2: Place each box according to the vertical sequence.\nStep 3: Read the required relative position: 3 boxes.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "IBPS Clerk"
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Puzzles — Box/Stacking Practice Q10: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "In a vertical stack of seven boxes arranged from bottom to top as:\nBox P, Box T, Box R, Box Q, Box V, Box U, Box S.\nHow many boxes are kept between Box T and Box U?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "2 boxes",
+            "1 box",
+            "3 boxes",
+            "4 boxes"
+          ],
+          "correctIndex": 2,
+          "difficulty": "easy",
+          "hint": "Trace the stack from bottom (1) to top (7). \"Immediately above\" means position + 1.",
+          "explanation": "Box Box T is at position 2 and Box U is at position 6. The boxes between them are at positions 3, 4, and 5 (Box R, Box Q, Box V), making exactly 3 boxes.",
+          "solutionSteps": "Step 1: Number the stack 1 (bottom) to 7 (top).\nStep 2: Place each box according to the vertical sequence.\nStep 3: Read the required relative position: 3 boxes.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Seven boxes Box P, Box Q, Box R, Box S, Box T, Box U, Box V are placed one above another in a vertical stack. From bottom (position 1) to top (position 7), the order is:\nBox T, Box V, Box P, Box Q, Box S, Box U, Box R.\nWhich box is kept at the bottommost position?",
+          "options": [
+            "Box S",
+            "Box V",
+            "Box T",
+            "Box Q"
           ],
           "correctIndex": 2,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Puzzles — Box/Stacking. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Trace the stack from bottom (1) to top (7). \"Immediately above\" means position + 1.",
+          "explanation": "The bottommost box is at position 1. Reading the vertical stack from bottom to top, Box T is at the bottommost position.",
+          "solutionSteps": "Step 1: Number the stack 1 (bottom) to 7 (top).\nStep 2: Place each box according to the vertical sequence.\nStep 3: Read the required relative position: Box T.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "IBPS Clerk"
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Puzzles — Box/Stacking Practice Q11: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "Seven boxes are stacked vertically from bottom (position 1) to top (position 7) as:\nBox Q, Box R, Box P, Box V, Box S, Box U, Box T.\nWhich box is kept immediately above Box P?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Puzzles — Box/Stacking. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "IBPS Clerk"
-          ]
-        },
-        {
-          "questionText": "Puzzles — Box/Stacking Practice Q12: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Puzzles — Box/Stacking. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "IBPS Clerk"
-          ]
-        },
-        {
-          "questionText": "Puzzles — Box/Stacking Practice Q13: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Puzzles — Box/Stacking. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "IBPS Clerk"
-          ]
-        },
-        {
-          "questionText": "Puzzles — Box/Stacking Practice Q14: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Box P",
+            "Box T",
+            "Box V",
+            "Box U"
           ],
           "correctIndex": 2,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Puzzles — Box/Stacking. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Trace the stack from bottom (1) to top (7). \"Immediately above\" means position + 1.",
+          "explanation": "Box P is at position 3 in the stack. The box immediately above it at position 4 is Box V.",
+          "solutionSteps": "Step 1: Number the stack 1 (bottom) to 7 (top).\nStep 2: Place each box according to the vertical sequence.\nStep 3: Read the required relative position: Box V.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "IBPS Clerk"
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Puzzles — Box/Stacking Practice Q15: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "Seven boxes Box P, Box Q, Box R, Box S, Box T, Box U, Box V are placed one above another in a vertical stack. From bottom (position 1) to top (position 7), the order is:\nBox Q, Box P, Box R, Box S, Box V, Box U, Box T.\nWhich box is kept at the bottommost position?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Puzzles — Box/Stacking. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "IBPS Clerk"
-          ]
-        },
-        {
-          "questionText": "Puzzles — Box/Stacking Practice Q16: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Box Q",
+            "Box P",
+            "Box U",
+            "Box V"
           ],
           "correctIndex": 0,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Puzzles — Box/Stacking. Work through the problem step by step using the shortcuts taught in this topic.",
+          "difficulty": "medium",
+          "hint": "Trace the stack from bottom (1) to top (7). \"Immediately above\" means position + 1.",
+          "explanation": "The bottommost box is at position 1. Reading the vertical stack from bottom to top, Box Q is at the bottommost position.",
+          "solutionSteps": "Step 1: Number the stack 1 (bottom) to 7 (top).\nStep 2: Place each box according to the vertical sequence.\nStep 3: Read the required relative position: Box Q.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "IBPS Clerk"
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Puzzles — Box/Stacking Practice Q17: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "Seven boxes are stacked vertically from bottom (position 1) to top (position 7) as:\nBox P, Box Q, Box U, Box S, Box V, Box R, Box T.\nWhich box is kept immediately above Box U?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Box S",
+            "Box Q",
+            "Box T",
+            "Box V"
           ],
-          "correctIndex": 1,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Puzzles — Box/Stacking. Work through the problem step by step using the shortcuts taught in this topic.",
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "hint": "Trace the stack from bottom (1) to top (7). \"Immediately above\" means position + 1.",
+          "explanation": "Box U is at position 3 in the stack. The box immediately above it at position 4 is Box S.",
+          "solutionSteps": "Step 1: Number the stack 1 (bottom) to 7 (top).\nStep 2: Place each box according to the vertical sequence.\nStep 3: Read the required relative position: Box S.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "IBPS Clerk"
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Puzzles — Box/Stacking Practice Q18: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "Seven boxes Box P, Box Q, Box R, Box S, Box T, Box U, Box V are placed one above another in a vertical stack. From bottom (position 1) to top (position 7), the order is:\nBox S, Box Q, Box U, Box R, Box T, Box P, Box V.\nWhich box is kept at the bottommost position?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Box Q",
+            "Box U",
+            "Box S",
+            "Box T"
           ],
           "correctIndex": 2,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Puzzles — Box/Stacking. Work through the problem step by step using the shortcuts taught in this topic.",
+          "difficulty": "medium",
+          "hint": "Trace the stack from bottom (1) to top (7). \"Immediately above\" means position + 1.",
+          "explanation": "The bottommost box is at position 1. Reading the vertical stack from bottom to top, Box S is at the bottommost position.",
+          "solutionSteps": "Step 1: Number the stack 1 (bottom) to 7 (top).\nStep 2: Place each box according to the vertical sequence.\nStep 3: Read the required relative position: Box S.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "IBPS Clerk"
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Puzzles — Box/Stacking Practice Q19: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "Seven boxes are stacked vertically from bottom (position 1) to top (position 7) as:\nBox U, Box T, Box Q, Box S, Box V, Box P, Box R.\nWhich box is kept immediately above Box Q?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Box P",
+            "Box U",
+            "Box S",
+            "Box Q"
           ],
-          "correctIndex": 3,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Puzzles — Box/Stacking. Work through the problem step by step using the shortcuts taught in this topic.",
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "hint": "Trace the stack from bottom (1) to top (7). \"Immediately above\" means position + 1.",
+          "explanation": "Box Q is at position 3 in the stack. The box immediately above it at position 4 is Box S.",
+          "solutionSteps": "Step 1: Number the stack 1 (bottom) to 7 (top).\nStep 2: Place each box according to the vertical sequence.\nStep 3: Read the required relative position: Box S.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "IBPS Clerk"
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Puzzles — Box/Stacking Practice Q20: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "Seven boxes Box P, Box Q, Box R, Box S, Box T, Box U, Box V are placed one above another in a vertical stack. From bottom (position 1) to top (position 7), the order is:\nBox Q, Box P, Box U, Box S, Box V, Box R, Box T.\nWhich box is kept at the bottommost position?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Box R",
+            "Box Q",
+            "Box V",
+            "Box T"
+          ],
+          "correctIndex": 1,
+          "difficulty": "medium",
+          "hint": "Trace the stack from bottom (1) to top (7). \"Immediately above\" means position + 1.",
+          "explanation": "The bottommost box is at position 1. Reading the vertical stack from bottom to top, Box Q is at the bottommost position.",
+          "solutionSteps": "Step 1: Number the stack 1 (bottom) to 7 (top).\nStep 2: Place each box according to the vertical sequence.\nStep 3: Read the required relative position: Box Q.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Seven boxes are stacked vertically from bottom (position 1) to top (position 7) as:\nBox P, Box T, Box Q, Box R, Box V, Box U, Box S.\nWhich box is kept immediately above Box Q?",
+          "options": [
+            "Box S",
+            "Box U",
+            "Box R",
+            "Box P"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "hint": "Trace the stack from bottom (1) to top (7). \"Immediately above\" means position + 1.",
+          "explanation": "Box Q is at position 3 in the stack. The box immediately above it at position 4 is Box R.",
+          "solutionSteps": "Step 1: Number the stack 1 (bottom) to 7 (top).\nStep 2: Place each box according to the vertical sequence.\nStep 3: Read the required relative position: Box R.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Seven boxes Box P, Box Q, Box R, Box S, Box T, Box U, Box V are placed one above another in a vertical stack. From bottom (position 1) to top (position 7), the order is:\nBox T, Box U, Box P, Box R, Box V, Box S, Box Q.\nWhich box is kept at the bottommost position?",
+          "options": [
+            "Box T",
+            "Box S",
+            "Box Q",
+            "Box V"
           ],
           "correctIndex": 0,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Puzzles — Box/Stacking. Work through the problem step by step using the shortcuts taught in this topic.",
+          "difficulty": "medium",
+          "hint": "Trace the stack from bottom (1) to top (7). \"Immediately above\" means position + 1.",
+          "explanation": "The bottommost box is at position 1. Reading the vertical stack from bottom to top, Box T is at the bottommost position.",
+          "solutionSteps": "Step 1: Number the stack 1 (bottom) to 7 (top).\nStep 2: Place each box according to the vertical sequence.\nStep 3: Read the required relative position: Box T.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "IBPS Clerk"
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Seven boxes are stacked vertically from bottom (position 1) to top (position 7) as:\nBox V, Box R, Box U, Box Q, Box P, Box S, Box T.\nWhich box is kept immediately above Box U?",
+          "options": [
+            "Box U",
+            "Box R",
+            "Box Q",
+            "Box P"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "hint": "Trace the stack from bottom (1) to top (7). \"Immediately above\" means position + 1.",
+          "explanation": "Box U is at position 3 in the stack. The box immediately above it at position 4 is Box Q.",
+          "solutionSteps": "Step 1: Number the stack 1 (bottom) to 7 (top).\nStep 2: Place each box according to the vertical sequence.\nStep 3: Read the required relative position: Box Q.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Seven boxes Box P, Box Q, Box R, Box S, Box T, Box U, Box V are placed one above another in a vertical stack. From bottom (position 1) to top (position 7), the order is:\nBox Q, Box V, Box P, Box S, Box R, Box T, Box U.\nWhich box is kept at the bottommost position?",
+          "options": [
+            "Box T",
+            "Box S",
+            "Box R",
+            "Box Q"
+          ],
+          "correctIndex": 3,
+          "difficulty": "medium",
+          "hint": "Trace the stack from bottom (1) to top (7). \"Immediately above\" means position + 1.",
+          "explanation": "The bottommost box is at position 1. Reading the vertical stack from bottom to top, Box Q is at the bottommost position.",
+          "solutionSteps": "Step 1: Number the stack 1 (bottom) to 7 (top).\nStep 2: Place each box according to the vertical sequence.\nStep 3: Read the required relative position: Box Q.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Seven boxes are stacked vertically from bottom (position 1) to top (position 7) as:\nBox Q, Box R, Box U, Box V, Box S, Box P, Box T.\nWhich box is kept immediately above Box U?",
+          "options": [
+            "Box R",
+            "Box T",
+            "Box S",
+            "Box V"
+          ],
+          "correctIndex": 3,
+          "difficulty": "medium",
+          "hint": "Trace the stack from bottom (1) to top (7). \"Immediately above\" means position + 1.",
+          "explanation": "Box U is at position 3 in the stack. The box immediately above it at position 4 is Box V.",
+          "solutionSteps": "Step 1: Number the stack 1 (bottom) to 7 (top).\nStep 2: Place each box according to the vertical sequence.\nStep 3: Read the required relative position: Box V.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Seven boxes Box P, Box Q, Box R, Box S, Box T, Box U, Box V are placed one above another in a vertical stack. From bottom (position 1) to top (position 7), the order is:\nBox R, Box Q, Box S, Box V, Box T, Box U, Box P.\nWhich box is kept at the bottommost position?",
+          "options": [
+            "Box T",
+            "Box R",
+            "Box V",
+            "Box P"
+          ],
+          "correctIndex": 1,
+          "difficulty": "medium",
+          "hint": "Trace the stack from bottom (1) to top (7). \"Immediately above\" means position + 1.",
+          "explanation": "The bottommost box is at position 1. Reading the vertical stack from bottom to top, Box R is at the bottommost position.",
+          "solutionSteps": "Step 1: Number the stack 1 (bottom) to 7 (top).\nStep 2: Place each box according to the vertical sequence.\nStep 3: Read the required relative position: Box R.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Seven boxes are stacked vertically from bottom (position 1) to top (position 7) as:\nBox S, Box T, Box U, Box R, Box Q, Box V, Box P.\nWhich box is kept immediately above Box U?",
+          "options": [
+            "Box R",
+            "Box V",
+            "Box U",
+            "Box T"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "hint": "Trace the stack from bottom (1) to top (7). \"Immediately above\" means position + 1.",
+          "explanation": "Box U is at position 3 in the stack. The box immediately above it at position 4 is Box R.",
+          "solutionSteps": "Step 1: Number the stack 1 (bottom) to 7 (top).\nStep 2: Place each box according to the vertical sequence.\nStep 3: Read the required relative position: Box R.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         }
       ]

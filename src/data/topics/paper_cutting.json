@@ -49,343 +49,483 @@
       ],
       "practiceQuestions": [
         {
-          "questionText": "Paper Cutting Practice Q1: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "A square sheet of paper is folded in half from left to right, then folded in half from top to bottom (folded into 4 layers).\nA circular hole is punched in the center of the folded quarter.\nHow will the paper appear when completely unfolded?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Paper Cutting. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Paper Cutting Practice Q2: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 2,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Paper Cutting. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Paper Cutting Practice Q3: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Paper Cutting. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Paper Cutting Practice Q4: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Paper Cutting. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Paper Cutting Practice Q5: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Paper Cutting. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Paper Cutting Practice Q6: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 2,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Paper Cutting. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Paper Cutting Practice Q7: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Paper Cutting. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Paper Cutting Practice Q8: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Paper Cutting. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Paper Cutting Practice Q9: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Paper Cutting. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Paper Cutting Practice Q10: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Only two circular holes along the central horizontal fold line",
+            "A single large circular hole at the center of the sheet",
+            "Four circular holes symmetrically distributed, one in each of the four quadrants.",
+            "Eight small circular holes arranged in a ring"
           ],
           "correctIndex": 2,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Paper Cutting. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Trace the reverse unfolding steps: each unfold reflects the cut marks across that fold line.",
+          "explanation": "Unfolding the paper twice doubles the cut pattern along both the vertical and horizontal axes of symmetry, producing 1 × 2 × 2 = 4 identical circular holes across all four quadrants.",
+          "solutionSteps": "Step 1: Count total layers of paper created by the folds (2 folds = 4 layers).\nStep 2: Note the location of the cut (center, perimeter, or vertex).\nStep 3: Unfold in reverse sequence, reflecting cuts across each fold line to find: Four circular holes symmetrically distributed, one in each of the four quadrants..",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Paper Cutting Practice Q11: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "A circular paper is folded in half to form a semicircle, and then folded in half again to form a quadrant (quarter-circle).\nA triangular notch is cut on the curved outer edge of the quadrant.\nHow will the paper appear when completely unfolded?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Two triangular notches at opposite ends of the horizontal diameter",
+            "A single triangular notch at the top edge of the circle",
+            "Six triangular notches arranged unevenly around the perimeter",
+            "Four triangular notches evenly spaced at 90-degree intervals along the outer circumference."
           ],
           "correctIndex": 3,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Paper Cutting. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Trace the reverse unfolding steps: each unfold reflects the cut marks across that fold line.",
+          "explanation": "Since the circular sheet was folded into 4 layers (a quadrant), a single cut on the curved perimeter replicates into 4 symmetrical cuts at 90-degree intervals when fully opened.",
+          "solutionSteps": "Step 1: Count total layers of paper created by the folds (2 folds = 4 layers).\nStep 2: Note the location of the cut (center, perimeter, or vertex).\nStep 3: Unfold in reverse sequence, reflecting cuts across each fold line to find: Four triangular notches evenly spaced at 90-degree intervals along the outer circumference..",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Paper Cutting Practice Q12: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "A square paper is folded diagonally from bottom-left to top-right to form a triangle, and then folded again along the altitude into a smaller triangle.\nTwo circular punches are made in the interior of the folded triangle.\nHow will the paper appear when completely unfolded?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Paper Cutting. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Paper Cutting Practice Q13: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Paper Cutting. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Paper Cutting Practice Q14: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Two diamond holes along the main diagonal axis",
+            "A single diamond hole centered on the square",
+            "Eight circular punches arranged symmetrically in an octagonal pattern around the center.",
+            "Eight diamond holes distributed along all four outer edges"
           ],
           "correctIndex": 2,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Paper Cutting. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Trace the reverse unfolding steps: each unfold reflects the cut marks across that fold line.",
+          "explanation": "Each fold doubles the number of layers: 1 -> 2 -> 4 -> 8 layers. 2 circular punches across 8 layers yield 2 × 4 = 8 symmetrical punch marks upon complete unfolding.",
+          "solutionSteps": "Step 1: Count total layers of paper created by the folds (2 folds = 4 layers).\nStep 2: Note the location of the cut (center, perimeter, or vertex).\nStep 3: Unfold in reverse sequence, reflecting cuts across each fold line to find: Eight circular punches arranged symmetrically in an octagonal pattern around the center..",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Paper Cutting Practice Q15: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "A square sheet is folded into half vertically, then folded into half horizontally.\nA square hole is cut at the folded center corner (the closed vertex).\nHow will the paper appear when completely unfolded?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Paper Cutting. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Paper Cutting Practice Q16: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Paper Cutting. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Paper Cutting Practice Q17: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Four circular holes, one at each of the four outer corners",
+            "One large diamond (rhombus) shaped hole located at the exact center of the unfolded sheet.",
+            "Four circular holes forming a single small square at the center",
+            "Six circular holes arranged in two parallel columns"
           ],
           "correctIndex": 1,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Paper Cutting. Work through the problem step by step using the shortcuts taught in this topic.",
+          "difficulty": "medium",
+          "hint": "Trace the reverse unfolding steps: each unfold reflects the cut marks across that fold line.",
+          "explanation": "The folded corner corresponds to the geometric center of the sheet. Unfolding 4 layers of a corner cut around the origin forms a single composite diamond/square opening at the center.",
+          "solutionSteps": "Step 1: Count total layers of paper created by the folds (2 folds = 4 layers).\nStep 2: Note the location of the cut (center, perimeter, or vertex).\nStep 3: Unfold in reverse sequence, reflecting cuts across each fold line to find: One large diamond (rhombus) shaped hole located at the exact center of the unfolded sheet..",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Paper Cutting Practice Q18: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "A square sheet of paper is folded in half from left to right, then folded in half from top to bottom (folded into 4 layers).\nA circular hole is punched in the center of the folded quarter.\nHow will the paper appear when completely unfolded?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 2,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Paper Cutting. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Paper Cutting Practice Q19: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Paper Cutting. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Paper Cutting Practice Q20: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Four circular holes symmetrically distributed, one in each of the four quadrants.",
+            "Only two circular holes along the central horizontal fold line",
+            "A single large circular hole at the center of the sheet",
+            "Eight small circular holes arranged in a ring"
           ],
           "correctIndex": 0,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Paper Cutting. Work through the problem step by step using the shortcuts taught in this topic.",
+          "difficulty": "medium",
+          "hint": "Trace the reverse unfolding steps: each unfold reflects the cut marks across that fold line.",
+          "explanation": "Unfolding the paper twice doubles the cut pattern along both the vertical and horizontal axes of symmetry, producing 1 × 2 × 2 = 4 identical circular holes across all four quadrants.",
+          "solutionSteps": "Step 1: Count total layers of paper created by the folds (2 folds = 4 layers).\nStep 2: Note the location of the cut (center, perimeter, or vertex).\nStep 3: Unfold in reverse sequence, reflecting cuts across each fold line to find: Four circular holes symmetrically distributed, one in each of the four quadrants..",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "A circular paper is folded in half to form a semicircle, and then folded in half again to form a quadrant (quarter-circle).\nA triangular notch is cut on the curved outer edge of the quadrant.\nHow will the paper appear when completely unfolded?",
+          "options": [
+            "Two triangular notches at opposite ends of the horizontal diameter",
+            "A single triangular notch at the top edge of the circle",
+            "Four triangular notches evenly spaced at 90-degree intervals along the outer circumference.",
+            "Six triangular notches arranged unevenly around the perimeter"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "hint": "Trace the reverse unfolding steps: each unfold reflects the cut marks across that fold line.",
+          "explanation": "Since the circular sheet was folded into 4 layers (a quadrant), a single cut on the curved perimeter replicates into 4 symmetrical cuts at 90-degree intervals when fully opened.",
+          "solutionSteps": "Step 1: Count total layers of paper created by the folds (2 folds = 4 layers).\nStep 2: Note the location of the cut (center, perimeter, or vertex).\nStep 3: Unfold in reverse sequence, reflecting cuts across each fold line to find: Four triangular notches evenly spaced at 90-degree intervals along the outer circumference..",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "A square paper is folded diagonally from bottom-left to top-right to form a triangle, and then folded again along the altitude into a smaller triangle.\nTwo circular punches are made in the interior of the folded triangle.\nHow will the paper appear when completely unfolded?",
+          "options": [
+            "Eight circular punches arranged symmetrically in an octagonal pattern around the center.",
+            "Two diamond holes along the main diagonal axis",
+            "A single diamond hole centered on the square",
+            "Eight diamond holes distributed along all four outer edges"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "hint": "Trace the reverse unfolding steps: each unfold reflects the cut marks across that fold line.",
+          "explanation": "Each fold doubles the number of layers: 1 -> 2 -> 4 -> 8 layers. 2 circular punches across 8 layers yield 2 × 4 = 8 symmetrical punch marks upon complete unfolding.",
+          "solutionSteps": "Step 1: Count total layers of paper created by the folds (2 folds = 4 layers).\nStep 2: Note the location of the cut (center, perimeter, or vertex).\nStep 3: Unfold in reverse sequence, reflecting cuts across each fold line to find: Eight circular punches arranged symmetrically in an octagonal pattern around the center..",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "A square sheet is folded into half vertically, then folded into half horizontally.\nA square hole is cut at the folded center corner (the closed vertex).\nHow will the paper appear when completely unfolded?",
+          "options": [
+            "Four circular holes, one at each of the four outer corners",
+            "One large diamond (rhombus) shaped hole located at the exact center of the unfolded sheet.",
+            "Four circular holes forming a single small square at the center",
+            "Six circular holes arranged in two parallel columns"
+          ],
+          "correctIndex": 1,
+          "difficulty": "medium",
+          "hint": "Trace the reverse unfolding steps: each unfold reflects the cut marks across that fold line.",
+          "explanation": "The folded corner corresponds to the geometric center of the sheet. Unfolding 4 layers of a corner cut around the origin forms a single composite diamond/square opening at the center.",
+          "solutionSteps": "Step 1: Count total layers of paper created by the folds (2 folds = 4 layers).\nStep 2: Note the location of the cut (center, perimeter, or vertex).\nStep 3: Unfold in reverse sequence, reflecting cuts across each fold line to find: One large diamond (rhombus) shaped hole located at the exact center of the unfolded sheet..",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "A square sheet of paper is folded in half from left to right, then folded in half from top to bottom (folded into 4 layers).\nA circular hole is punched in the center of the folded quarter.\nHow will the paper appear when completely unfolded?",
+          "options": [
+            "Only two circular holes along the central horizontal fold line",
+            "A single large circular hole at the center of the sheet",
+            "Four circular holes symmetrically distributed, one in each of the four quadrants.",
+            "Eight small circular holes arranged in a ring"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "hint": "Trace the reverse unfolding steps: each unfold reflects the cut marks across that fold line.",
+          "explanation": "Unfolding the paper twice doubles the cut pattern along both the vertical and horizontal axes of symmetry, producing 1 × 2 × 2 = 4 identical circular holes across all four quadrants.",
+          "solutionSteps": "Step 1: Count total layers of paper created by the folds (2 folds = 4 layers).\nStep 2: Note the location of the cut (center, perimeter, or vertex).\nStep 3: Unfold in reverse sequence, reflecting cuts across each fold line to find: Four circular holes symmetrically distributed, one in each of the four quadrants..",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "A circular paper is folded in half to form a semicircle, and then folded in half again to form a quadrant (quarter-circle).\nA triangular notch is cut on the curved outer edge of the quadrant.\nHow will the paper appear when completely unfolded?",
+          "options": [
+            "Two triangular notches at opposite ends of the horizontal diameter",
+            "A single triangular notch at the top edge of the circle",
+            "Six triangular notches arranged unevenly around the perimeter",
+            "Four triangular notches evenly spaced at 90-degree intervals along the outer circumference."
+          ],
+          "correctIndex": 3,
+          "difficulty": "medium",
+          "hint": "Trace the reverse unfolding steps: each unfold reflects the cut marks across that fold line.",
+          "explanation": "Since the circular sheet was folded into 4 layers (a quadrant), a single cut on the curved perimeter replicates into 4 symmetrical cuts at 90-degree intervals when fully opened.",
+          "solutionSteps": "Step 1: Count total layers of paper created by the folds (2 folds = 4 layers).\nStep 2: Note the location of the cut (center, perimeter, or vertex).\nStep 3: Unfold in reverse sequence, reflecting cuts across each fold line to find: Four triangular notches evenly spaced at 90-degree intervals along the outer circumference..",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "A square paper is folded diagonally from bottom-left to top-right to form a triangle, and then folded again along the altitude into a smaller triangle.\nTwo circular punches are made in the interior of the folded triangle.\nHow will the paper appear when completely unfolded?",
+          "options": [
+            "Two diamond holes along the main diagonal axis",
+            "A single diamond hole centered on the square",
+            "Eight diamond holes distributed along all four outer edges",
+            "Eight circular punches arranged symmetrically in an octagonal pattern around the center."
+          ],
+          "correctIndex": 3,
+          "difficulty": "medium",
+          "hint": "Trace the reverse unfolding steps: each unfold reflects the cut marks across that fold line.",
+          "explanation": "Each fold doubles the number of layers: 1 -> 2 -> 4 -> 8 layers. 2 circular punches across 8 layers yield 2 × 4 = 8 symmetrical punch marks upon complete unfolding.",
+          "solutionSteps": "Step 1: Count total layers of paper created by the folds (2 folds = 4 layers).\nStep 2: Note the location of the cut (center, perimeter, or vertex).\nStep 3: Unfold in reverse sequence, reflecting cuts across each fold line to find: Eight circular punches arranged symmetrically in an octagonal pattern around the center..",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "A square sheet is folded into half vertically, then folded into half horizontally.\nA square hole is cut at the folded center corner (the closed vertex).\nHow will the paper appear when completely unfolded?",
+          "options": [
+            "Four circular holes, one at each of the four outer corners",
+            "Four circular holes forming a single small square at the center",
+            "Six circular holes arranged in two parallel columns",
+            "One large diamond (rhombus) shaped hole located at the exact center of the unfolded sheet."
+          ],
+          "correctIndex": 3,
+          "difficulty": "medium",
+          "hint": "Trace the reverse unfolding steps: each unfold reflects the cut marks across that fold line.",
+          "explanation": "The folded corner corresponds to the geometric center of the sheet. Unfolding 4 layers of a corner cut around the origin forms a single composite diamond/square opening at the center.",
+          "solutionSteps": "Step 1: Count total layers of paper created by the folds (2 folds = 4 layers).\nStep 2: Note the location of the cut (center, perimeter, or vertex).\nStep 3: Unfold in reverse sequence, reflecting cuts across each fold line to find: One large diamond (rhombus) shaped hole located at the exact center of the unfolded sheet..",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "A square sheet of paper is folded in half from left to right, then folded in half from top to bottom (folded into 4 layers).\nA circular hole is punched in the center of the folded quarter.\nHow will the paper appear when completely unfolded?",
+          "options": [
+            "Four circular holes symmetrically distributed, one in each of the four quadrants.",
+            "Only two circular holes along the central horizontal fold line",
+            "A single large circular hole at the center of the sheet",
+            "Eight small circular holes arranged in a ring"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "hint": "Trace the reverse unfolding steps: each unfold reflects the cut marks across that fold line.",
+          "explanation": "Unfolding the paper twice doubles the cut pattern along both the vertical and horizontal axes of symmetry, producing 1 × 2 × 2 = 4 identical circular holes across all four quadrants.",
+          "solutionSteps": "Step 1: Count total layers of paper created by the folds (2 folds = 4 layers).\nStep 2: Note the location of the cut (center, perimeter, or vertex).\nStep 3: Unfold in reverse sequence, reflecting cuts across each fold line to find: Four circular holes symmetrically distributed, one in each of the four quadrants..",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "A circular paper is folded in half to form a semicircle, and then folded in half again to form a quadrant (quarter-circle).\nA triangular notch is cut on the curved outer edge of the quadrant.\nHow will the paper appear when completely unfolded?",
+          "options": [
+            "Two triangular notches at opposite ends of the horizontal diameter",
+            "A single triangular notch at the top edge of the circle",
+            "Six triangular notches arranged unevenly around the perimeter",
+            "Four triangular notches evenly spaced at 90-degree intervals along the outer circumference."
+          ],
+          "correctIndex": 3,
+          "difficulty": "medium",
+          "hint": "Trace the reverse unfolding steps: each unfold reflects the cut marks across that fold line.",
+          "explanation": "Since the circular sheet was folded into 4 layers (a quadrant), a single cut on the curved perimeter replicates into 4 symmetrical cuts at 90-degree intervals when fully opened.",
+          "solutionSteps": "Step 1: Count total layers of paper created by the folds (2 folds = 4 layers).\nStep 2: Note the location of the cut (center, perimeter, or vertex).\nStep 3: Unfold in reverse sequence, reflecting cuts across each fold line to find: Four triangular notches evenly spaced at 90-degree intervals along the outer circumference..",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "A square paper is folded diagonally from bottom-left to top-right to form a triangle, and then folded again along the altitude into a smaller triangle.\nTwo circular punches are made in the interior of the folded triangle.\nHow will the paper appear when completely unfolded?",
+          "options": [
+            "Two diamond holes along the main diagonal axis",
+            "Eight circular punches arranged symmetrically in an octagonal pattern around the center.",
+            "A single diamond hole centered on the square",
+            "Eight diamond holes distributed along all four outer edges"
+          ],
+          "correctIndex": 1,
+          "difficulty": "medium",
+          "hint": "Trace the reverse unfolding steps: each unfold reflects the cut marks across that fold line.",
+          "explanation": "Each fold doubles the number of layers: 1 -> 2 -> 4 -> 8 layers. 2 circular punches across 8 layers yield 2 × 4 = 8 symmetrical punch marks upon complete unfolding.",
+          "solutionSteps": "Step 1: Count total layers of paper created by the folds (2 folds = 4 layers).\nStep 2: Note the location of the cut (center, perimeter, or vertex).\nStep 3: Unfold in reverse sequence, reflecting cuts across each fold line to find: Eight circular punches arranged symmetrically in an octagonal pattern around the center..",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "A square sheet is folded into half vertically, then folded into half horizontally.\nA square hole is cut at the folded center corner (the closed vertex).\nHow will the paper appear when completely unfolded?",
+          "options": [
+            "One large diamond (rhombus) shaped hole located at the exact center of the unfolded sheet.",
+            "Four circular holes, one at each of the four outer corners",
+            "Four circular holes forming a single small square at the center",
+            "Six circular holes arranged in two parallel columns"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "hint": "Trace the reverse unfolding steps: each unfold reflects the cut marks across that fold line.",
+          "explanation": "The folded corner corresponds to the geometric center of the sheet. Unfolding 4 layers of a corner cut around the origin forms a single composite diamond/square opening at the center.",
+          "solutionSteps": "Step 1: Count total layers of paper created by the folds (2 folds = 4 layers).\nStep 2: Note the location of the cut (center, perimeter, or vertex).\nStep 3: Unfold in reverse sequence, reflecting cuts across each fold line to find: One large diamond (rhombus) shaped hole located at the exact center of the unfolded sheet..",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "A square sheet of paper is folded in half from left to right, then folded in half from top to bottom (folded into 4 layers).\nA circular hole is punched in the center of the folded quarter.\nHow will the paper appear when completely unfolded?",
+          "options": [
+            "Only two circular holes along the central horizontal fold line",
+            "A single large circular hole at the center of the sheet",
+            "Four circular holes symmetrically distributed, one in each of the four quadrants.",
+            "Eight small circular holes arranged in a ring"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "hint": "Trace the reverse unfolding steps: each unfold reflects the cut marks across that fold line.",
+          "explanation": "Unfolding the paper twice doubles the cut pattern along both the vertical and horizontal axes of symmetry, producing 1 × 2 × 2 = 4 identical circular holes across all four quadrants.",
+          "solutionSteps": "Step 1: Count total layers of paper created by the folds (2 folds = 4 layers).\nStep 2: Note the location of the cut (center, perimeter, or vertex).\nStep 3: Unfold in reverse sequence, reflecting cuts across each fold line to find: Four circular holes symmetrically distributed, one in each of the four quadrants..",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "A circular paper is folded in half to form a semicircle, and then folded in half again to form a quadrant (quarter-circle).\nA triangular notch is cut on the curved outer edge of the quadrant.\nHow will the paper appear when completely unfolded?",
+          "options": [
+            "Two triangular notches at opposite ends of the horizontal diameter",
+            "Four triangular notches evenly spaced at 90-degree intervals along the outer circumference.",
+            "A single triangular notch at the top edge of the circle",
+            "Six triangular notches arranged unevenly around the perimeter"
+          ],
+          "correctIndex": 1,
+          "difficulty": "medium",
+          "hint": "Trace the reverse unfolding steps: each unfold reflects the cut marks across that fold line.",
+          "explanation": "Since the circular sheet was folded into 4 layers (a quadrant), a single cut on the curved perimeter replicates into 4 symmetrical cuts at 90-degree intervals when fully opened.",
+          "solutionSteps": "Step 1: Count total layers of paper created by the folds (2 folds = 4 layers).\nStep 2: Note the location of the cut (center, perimeter, or vertex).\nStep 3: Unfold in reverse sequence, reflecting cuts across each fold line to find: Four triangular notches evenly spaced at 90-degree intervals along the outer circumference..",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "A square paper is folded diagonally from bottom-left to top-right to form a triangle, and then folded again along the altitude into a smaller triangle.\nTwo circular punches are made in the interior of the folded triangle.\nHow will the paper appear when completely unfolded?",
+          "options": [
+            "Two diamond holes along the main diagonal axis",
+            "A single diamond hole centered on the square",
+            "Eight circular punches arranged symmetrically in an octagonal pattern around the center.",
+            "Eight diamond holes distributed along all four outer edges"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "hint": "Trace the reverse unfolding steps: each unfold reflects the cut marks across that fold line.",
+          "explanation": "Each fold doubles the number of layers: 1 -> 2 -> 4 -> 8 layers. 2 circular punches across 8 layers yield 2 × 4 = 8 symmetrical punch marks upon complete unfolding.",
+          "solutionSteps": "Step 1: Count total layers of paper created by the folds (2 folds = 4 layers).\nStep 2: Note the location of the cut (center, perimeter, or vertex).\nStep 3: Unfold in reverse sequence, reflecting cuts across each fold line to find: Eight circular punches arranged symmetrically in an octagonal pattern around the center..",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "A square sheet is folded into half vertically, then folded into half horizontally.\nA square hole is cut at the folded center corner (the closed vertex).\nHow will the paper appear when completely unfolded?",
+          "options": [
+            "Four circular holes, one at each of the four outer corners",
+            "Four circular holes forming a single small square at the center",
+            "One large diamond (rhombus) shaped hole located at the exact center of the unfolded sheet.",
+            "Six circular holes arranged in two parallel columns"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "hint": "Trace the reverse unfolding steps: each unfold reflects the cut marks across that fold line.",
+          "explanation": "The folded corner corresponds to the geometric center of the sheet. Unfolding 4 layers of a corner cut around the origin forms a single composite diamond/square opening at the center.",
+          "solutionSteps": "Step 1: Count total layers of paper created by the folds (2 folds = 4 layers).\nStep 2: Note the location of the cut (center, perimeter, or vertex).\nStep 3: Unfold in reverse sequence, reflecting cuts across each fold line to find: One large diamond (rhombus) shaped hole located at the exact center of the unfolded sheet..",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         }
       ]

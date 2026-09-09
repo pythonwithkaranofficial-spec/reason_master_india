@@ -37,343 +37,483 @@
       ],
       "practiceQuestions": [
         {
-          "questionText": "Number Series Practice Q1: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "What comes next in the sequence: 2, 6, 14, 26, ?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Number Series. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "IBPS PO",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Number Series Practice Q2: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 2,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Number Series. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "IBPS PO",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Number Series Practice Q3: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Number Series. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "IBPS PO",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Number Series Practice Q4: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Number Series. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "IBPS PO",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Number Series Practice Q5: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Number Series. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "IBPS PO",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Number Series Practice Q6: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 2,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Number Series. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "IBPS PO",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Number Series Practice Q7: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Number Series. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "IBPS PO",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Number Series Practice Q8: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "42",
+            "46",
+            "38",
+            "50"
           ],
           "correctIndex": 0,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Number Series. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "The difference between consecutive terms increases by a fixed amount each step.",
+          "explanation": "Differences are +4, +8, +12. Next difference is +16. Term = 26 + 16 = 42.",
+          "solutionSteps": "Step 1: Find differences between consecutive elements: 4, 8, 12.\nStep 2: Notice difference increases in steps of 4.\nStep 3: Next increment is 16. 26 + 16 = 42.",
           "examTags": [
             "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
-            "RRB NTPC"
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Number Series Practice Q9: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "Find the missing number in the series: 18, 27, 38, 51, ?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Number Series. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "IBPS PO",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Number Series Practice Q10: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 2,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Number Series. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "IBPS PO",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Number Series Practice Q11: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Number Series. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "IBPS PO",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Number Series Practice Q12: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "66",
+            "71",
+            "63",
+            "76"
           ],
           "correctIndex": 0,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Number Series. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Compare the terms against consecutive perfect squares.",
+          "explanation": "Each term is of the form n² + 2 for n = 4, 5, 6, 7. Next term is (8)² + 2 = 66.",
+          "solutionSteps": "Step 1: Recognize that 18 is close to 4² (16).\nStep 2: Test n² + 2 for each subsequent integer.\nStep 3: Next integer is 8: 8² + 2 = 66.",
           "examTags": [
             "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
-            "RRB NTPC"
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Number Series Practice Q13: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "Complete the series: 5, 53, 8, 49, 11, ?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Number Series. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "IBPS PO",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Number Series Practice Q14: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 2,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Number Series. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "IBPS PO",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Number Series Practice Q15: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Number Series. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "IBPS PO",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Number Series Practice Q16: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "45",
+            "47",
+            "43",
+            "11"
           ],
           "correctIndex": 0,
           "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Number Series. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Notice terms alternate between increasing and decreasing: check odd and even positions separately.",
+          "explanation": "Two interleaved series: Odd positions (5, 8, 11) add 3. Even positions (53, 49) subtract 4. Next term = 49 - 4 = 45.",
+          "solutionSteps": "Step 1: Observe fluctuation: up, down, up, down.\nStep 2: Split into subseries: 1st, 3rd, 5th and 2nd, 4th, 6th.\nStep 3: Even position series is 53, 49, ? with difference -4. Result: 45.",
           "examTags": [
             "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
-            "RRB NTPC"
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Number Series Practice Q17: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "Identify the next number in the sequence: 6, 13, 27, 55, ?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Number Series. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "IBPS PO",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Number Series Practice Q18: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 2,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Number Series. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "IBPS PO",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Number Series Practice Q19: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Number Series. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "IBPS PO",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Number Series Practice Q20: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "111",
+            "114",
+            "108",
+            "222"
           ],
           "correctIndex": 0,
           "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Number Series. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Each number is obtained by doubling the previous number and adding one.",
+          "explanation": "Logic: (Previous × 2) + 1. Next term = (55 × 2) + 1 = 111.",
+          "solutionSteps": "Step 1: Check multiplier: 13 ≈ 2 × 6.\nStep 2: Verify rule: (6 × 2) + 1 = 13, (13 × 2) + 1 = 27.\nStep 3: Apply rule to 55: (55 × 2) + 1 = 111.",
           "examTags": [
             "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
-            "RRB NTPC"
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Find the next term in the series: 8, 15, 22, 29, ?",
+          "options": [
+            "36",
+            "38",
+            "34",
+            "43"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "hint": "Calculate the constant difference between consecutive terms.",
+          "explanation": "The sequence forms an Arithmetic Progression with a common difference of +7. Next term = 29 + 7 = 36.",
+          "solutionSteps": "Step 1: Calculate difference: 15 - 8 = 7, 22 - 15 = 7.\nStep 2: Add 7 to the last known term (29) to get 36.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "What comes next in the sequence: 7, 9, 13, 19, ?",
+          "options": [
+            "27",
+            "31",
+            "23",
+            "35"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "hint": "The difference between consecutive terms increases by a fixed amount each step.",
+          "explanation": "Differences are +2, +4, +6. Next difference is +8. Term = 19 + 8 = 27.",
+          "solutionSteps": "Step 1: Find differences between consecutive elements: 2, 4, 6.\nStep 2: Notice difference increases in steps of 2.\nStep 3: Next increment is 8. 19 + 8 = 27.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Find the missing number in the series: 83, 102, 123, 146, ?",
+          "options": [
+            "171",
+            "176",
+            "168",
+            "181"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "hint": "Compare the terms against consecutive perfect squares.",
+          "explanation": "Each term is of the form n² + 2 for n = 9, 10, 11, 12. Next term is (13)² + 2 = 171.",
+          "solutionSteps": "Step 1: Recognize that 83 is close to 9² (81).\nStep 2: Test n² + 2 for each subsequent integer.\nStep 3: Next integer is 13: 13² + 2 = 171.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Complete the series: 10, 50, 13, 46, 16, ?",
+          "options": [
+            "42",
+            "44",
+            "40",
+            "16"
+          ],
+          "correctIndex": 0,
+          "difficulty": "hard",
+          "hint": "Notice terms alternate between increasing and decreasing: check odd and even positions separately.",
+          "explanation": "Two interleaved series: Odd positions (10, 13, 16) add 3. Even positions (50, 46) subtract 4. Next term = 46 - 4 = 42.",
+          "solutionSteps": "Step 1: Observe fluctuation: up, down, up, down.\nStep 2: Split into subseries: 1st, 3rd, 5th and 2nd, 4th, 6th.\nStep 3: Even position series is 50, 46, ? with difference -4. Result: 42.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Identify the next number in the sequence: 3, 7, 15, 31, ?",
+          "options": [
+            "63",
+            "66",
+            "60",
+            "126"
+          ],
+          "correctIndex": 0,
+          "difficulty": "hard",
+          "hint": "Each number is obtained by doubling the previous number and adding one.",
+          "explanation": "Logic: (Previous × 2) + 1. Next term = (31 × 2) + 1 = 63.",
+          "solutionSteps": "Step 1: Check multiplier: 7 ≈ 2 × 3.\nStep 2: Verify rule: (3 × 2) + 1 = 7, (7 × 2) + 1 = 15.\nStep 3: Apply rule to 31: (31 × 2) + 1 = 63.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Find the next term in the series: 13, 18, 23, 28, ?",
+          "options": [
+            "33",
+            "35",
+            "31",
+            "38"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "hint": "Calculate the constant difference between consecutive terms.",
+          "explanation": "The sequence forms an Arithmetic Progression with a common difference of +5. Next term = 28 + 5 = 33.",
+          "solutionSteps": "Step 1: Calculate difference: 18 - 13 = 5, 23 - 18 = 5.\nStep 2: Add 5 to the last known term (28) to get 33.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "What comes next in the sequence: 12, 18, 30, 48, ?",
+          "options": [
+            "72",
+            "76",
+            "68",
+            "80"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "hint": "The difference between consecutive terms increases by a fixed amount each step.",
+          "explanation": "Differences are +6, +12, +18. Next difference is +24. Term = 48 + 24 = 72.",
+          "solutionSteps": "Step 1: Find differences between consecutive elements: 6, 12, 18.\nStep 2: Notice difference increases in steps of 6.\nStep 3: Next increment is 24. 48 + 24 = 72.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Find the missing number in the series: 6, 11, 18, 27, ?",
+          "options": [
+            "38",
+            "43",
+            "35",
+            "48"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "hint": "Compare the terms against consecutive perfect squares.",
+          "explanation": "Each term is of the form n² + 2 for n = 2, 3, 4, 5. Next term is (6)² + 2 = 38.",
+          "solutionSteps": "Step 1: Recognize that 6 is close to 2² (4).\nStep 2: Test n² + 2 for each subsequent integer.\nStep 3: Next integer is 6: 6² + 2 = 38.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Complete the series: 5, 55, 8, 51, 11, ?",
+          "options": [
+            "47",
+            "49",
+            "45",
+            "11"
+          ],
+          "correctIndex": 0,
+          "difficulty": "hard",
+          "hint": "Notice terms alternate between increasing and decreasing: check odd and even positions separately.",
+          "explanation": "Two interleaved series: Odd positions (5, 8, 11) add 3. Even positions (55, 51) subtract 4. Next term = 51 - 4 = 47.",
+          "solutionSteps": "Step 1: Observe fluctuation: up, down, up, down.\nStep 2: Split into subseries: 1st, 3rd, 5th and 2nd, 4th, 6th.\nStep 3: Even position series is 55, 51, ? with difference -4. Result: 47.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Identify the next number in the sequence: 8, 17, 35, 71, ?",
+          "options": [
+            "143",
+            "146",
+            "140",
+            "286"
+          ],
+          "correctIndex": 0,
+          "difficulty": "hard",
+          "hint": "Each number is obtained by doubling the previous number and adding one.",
+          "explanation": "Logic: (Previous × 2) + 1. Next term = (71 × 2) + 1 = 143.",
+          "solutionSteps": "Step 1: Check multiplier: 17 ≈ 2 × 8.\nStep 2: Verify rule: (8 × 2) + 1 = 17, (17 × 2) + 1 = 35.\nStep 3: Apply rule to 71: (71 × 2) + 1 = 143.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Find the next term in the series: 18, 21, 24, 27, ?",
+          "options": [
+            "30",
+            "32",
+            "28",
+            "33"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "hint": "Calculate the constant difference between consecutive terms.",
+          "explanation": "The sequence forms an Arithmetic Progression with a common difference of +3. Next term = 27 + 3 = 30.",
+          "solutionSteps": "Step 1: Calculate difference: 21 - 18 = 3, 24 - 21 = 3.\nStep 2: Add 3 to the last known term (27) to get 30.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "What comes next in the sequence: 2, 6, 14, 26, ?",
+          "options": [
+            "42",
+            "46",
+            "38",
+            "50"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "hint": "The difference between consecutive terms increases by a fixed amount each step.",
+          "explanation": "Differences are +4, +8, +12. Next difference is +16. Term = 26 + 16 = 42.",
+          "solutionSteps": "Step 1: Find differences between consecutive elements: 4, 8, 12.\nStep 2: Notice difference increases in steps of 4.\nStep 3: Next increment is 16. 26 + 16 = 42.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Find the missing number in the series: 51, 66, 83, 102, ?",
+          "options": [
+            "123",
+            "128",
+            "120",
+            "133"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "hint": "Compare the terms against consecutive perfect squares.",
+          "explanation": "Each term is of the form n² + 2 for n = 7, 8, 9, 10. Next term is (11)² + 2 = 123.",
+          "solutionSteps": "Step 1: Recognize that 51 is close to 7² (49).\nStep 2: Test n² + 2 for each subsequent integer.\nStep 3: Next integer is 11: 11² + 2 = 123.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Complete the series: 10, 52, 13, 48, 16, ?",
+          "options": [
+            "44",
+            "46",
+            "42",
+            "16"
+          ],
+          "correctIndex": 0,
+          "difficulty": "hard",
+          "hint": "Notice terms alternate between increasing and decreasing: check odd and even positions separately.",
+          "explanation": "Two interleaved series: Odd positions (10, 13, 16) add 3. Even positions (52, 48) subtract 4. Next term = 48 - 4 = 44.",
+          "solutionSteps": "Step 1: Observe fluctuation: up, down, up, down.\nStep 2: Split into subseries: 1st, 3rd, 5th and 2nd, 4th, 6th.\nStep 3: Even position series is 52, 48, ? with difference -4. Result: 44.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Identify the next number in the sequence: 5, 11, 23, 47, ?",
+          "options": [
+            "95",
+            "98",
+            "92",
+            "190"
+          ],
+          "correctIndex": 0,
+          "difficulty": "hard",
+          "hint": "Each number is obtained by doubling the previous number and adding one.",
+          "explanation": "Logic: (Previous × 2) + 1. Next term = (47 × 2) + 1 = 95.",
+          "solutionSteps": "Step 1: Check multiplier: 11 ≈ 2 × 5.\nStep 2: Verify rule: (5 × 2) + 1 = 11, (11 × 2) + 1 = 23.\nStep 3: Apply rule to 47: (47 × 2) + 1 = 95.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Find the next term in the series: 3, 11, 19, 27, ?",
+          "options": [
+            "35",
+            "37",
+            "33",
+            "43"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "hint": "Calculate the constant difference between consecutive terms.",
+          "explanation": "The sequence forms an Arithmetic Progression with a common difference of +8. Next term = 27 + 8 = 35.",
+          "solutionSteps": "Step 1: Calculate difference: 11 - 3 = 8, 19 - 11 = 8.\nStep 2: Add 8 to the last known term (27) to get 35.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         }
       ]
@@ -409,342 +549,340 @@
       ],
       "practiceQuestions": [
         {
-          "questionText": "Alphabet Series Practice Q1: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "Find the missing term in the alphabet series: B, D, G, K, P, ?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "U",
+            "V",
+            "W",
+            "X"
           ],
           "correctIndex": 1,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Alphabet Series. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Alphabet Series Practice Q2: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+          "hint": "Observe the successive increments between letters: +2, +3, +4...",
+          "explanation": "The positional increments between letters increase by 1 at each step: B(2) + 2 = D(4); D(4) + 3 = G(7); G(7) + 4 = K(11); K(11) + 5 = P(16); P(16) + 6 = V(22). Hence, the missing letter is V.",
+          "solutionSteps": [
+            "Step 1: Convert letters to alphabetical positions: B=2, D=4, G=7, K=11, P=16.",
+            "Step 2: Calculate step differences: 4-2=2, 7-4=3, 11-7=4, 16-11=5.",
+            "Step 3: Next increment is +6: 16 + 6 = 22, which corresponds to letter V."
           ],
-          "correctIndex": 2,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Alphabet Series. Work through the problem step by step using the shortcuts taught in this topic.",
           "examTags": [
             "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
+            "RRB NTPC",
+            "IBPS CLERK"
           ]
         },
         {
-          "questionText": "Alphabet Series Practice Q3: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "What comes next in the sequence: Z, X, V, T, R, ?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Alphabet Series. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Alphabet Series Practice Q4: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Alphabet Series. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Alphabet Series Practice Q5: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "O",
+            "P",
+            "Q",
+            "N"
           ],
           "correctIndex": 1,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Alphabet Series. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Letters are decreasing by a constant step.",
+          "explanation": "Each letter is 2 positions behind the previous letter in reverse alphabetical order: Z(26) - 2 = X(24); X(24) - 2 = V(22); V(22) - 2 = T(20); T(20) - 2 = R(18); R(18) - 2 = P(16).",
+          "solutionSteps": [
+            "Step 1: Identify positions: Z=26, X=24, V=22, T=20, R=18.",
+            "Step 2: Observe constant subtraction of 2.",
+            "Step 3: Next term is 18 - 2 = 16 = P."
+          ],
           "examTags": [
-            "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "RRB GROUP D"
           ]
         },
         {
-          "questionText": "Alphabet Series Practice Q6: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "Complete the series: A, C, F, J, O, ?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "T",
+            "U",
+            "V",
+            "W"
           ],
-          "correctIndex": 2,
+          "correctIndex": 1,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Alphabet Series. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Add triangular number increments (+2, +3, +4, +5, +6).",
+          "explanation": "A(1) + 2 = C(3); C(3) + 3 = F(6); F(6) + 4 = J(10); J(10) + 5 = O(15); O(15) + 6 = U(21). The correct next letter is U.",
+          "solutionSteps": [
+            "Step 1: Letters correspond to numbers 1, 3, 6, 10, 15.",
+            "Step 2: Add 6 to 15 to get 21.",
+            "Step 3: 21st letter of English alphabet is U."
+          ],
           "examTags": [
             "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
+            "IBPS PO"
           ]
         },
         {
-          "questionText": "Alphabet Series Practice Q7: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "Find the next letter in the series: D, H, L, P, T, ?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "W",
+            "X",
+            "Y",
+            "Z"
           ],
-          "correctIndex": 3,
+          "correctIndex": 1,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Alphabet Series. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Common difference of 4 letters.",
+          "explanation": "Each letter shifts forward by 4 positions: D(4)+4=H(8); H(8)+4=L(12); L(12)+4=P(16); P(16)+4=T(20); T(20)+4=X(24).",
+          "solutionSteps": [
+            "Step 1: Check positional values: 4, 8, 12, 16, 20.",
+            "Step 2: Add common difference (+4) to 20 = 24.",
+            "Step 3: 24th letter is X."
+          ],
           "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
+            "SSC MTS",
+            "DELHI POLICE"
           ]
         },
         {
-          "questionText": "Alphabet Series Practice Q8: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "What comes next in the letter group series: AB, DE, GH, JK, ?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "LM",
+            "MN",
+            "NO",
+            "MO"
+          ],
+          "correctIndex": 1,
+          "difficulty": "easy",
+          "hint": "Notice the skip of 1 letter between consecutive 2-letter pairs.",
+          "explanation": "AB (skip C) DE (skip F) GH (skip I) JK (skip L) MN. The next term is MN.",
+          "solutionSteps": [
+            "Step 1: Look at the first letter of each pair: A(+3)→D(+3)→G(+3)→J(+3)→M.",
+            "Step 2: Look at the second letter: B(+3)→E(+3)→H(+3)→K(+3)→N.",
+            "Step 3: Combine to get MN."
+          ],
+          "examTags": [
+            "SSC CGL",
+            "IBPS CLERK"
+          ]
+        },
+        {
+          "questionText": "Find the missing pair in the series: AZ, BY, CX, DW, ?",
+          "options": [
+            "EV",
+            "FU",
+            "EW",
+            "EU"
           ],
           "correctIndex": 0,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Alphabet Series. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Each pair consists of complementary opposite letters from opposite ends of the alphabet.",
+          "explanation": "A is 1st from start, Z is 1st from end. B is 2nd, Y is 2nd from end. Following this pattern: 5th letter from start is E, and 5th from end is V. Pair is EV.",
+          "solutionSteps": [
+            "Step 1: First letters increase sequentially: A, B, C, D, E.",
+            "Step 2: Second letters decrease sequentially: Z, Y, X, W, V.",
+            "Step 3: The complementary pair is EV."
+          ],
           "examTags": [
             "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
+            "RRB NTPC",
+            "SBI PO"
           ]
         },
         {
-          "questionText": "Alphabet Series Practice Q9: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "Complete the sequence: CX, FU, IR, LO, ?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "PK",
+            "OL",
+            "NM",
+            "OM"
           ],
           "correctIndex": 1,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Alphabet Series. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Alphabet Series Practice Q10: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+          "hint": "First letters increase by 3; second letters decrease by 3.",
+          "explanation": "First letters: C(3) + 3 = F(6); F(6) + 3 = I(9); I(9) + 3 = L(12); L(12) + 3 = O(15). Second letters: X(24) - 3 = U(21); U(21) - 3 = R(18); R(18) - 3 = O(15); O(15) - 3 = L(12). Result is OL.",
+          "solutionSteps": [
+            "Step 1: Track first element: 3, 6, 9, 12 -> 15 (O).",
+            "Step 2: Track second element: 24, 21, 18, 15 -> 12 (L).",
+            "Step 3: Combine: OL."
           ],
-          "correctIndex": 2,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Alphabet Series. Work through the problem step by step using the shortcuts taught in this topic.",
           "examTags": [
-            "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "IBPS PO"
           ]
         },
         {
-          "questionText": "Alphabet Series Practice Q11: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "Find the next term in the series: WFB, TGD, QHG, ?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Alphabet Series. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Alphabet Series Practice Q12: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "NIK",
+            "NIL",
+            "OIK",
+            "MIK"
           ],
           "correctIndex": 0,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Alphabet Series. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Track all three letters independently with their individual step differences.",
+          "explanation": "1st letter: W(23) - 3 = T(20); T(20) - 3 = Q(17); Q(17) - 3 = N(14). 2nd letter: F(6) + 1 = G(7); G(7) + 1 = H(8); H(8) + 1 = I(9). 3rd letter: B(2) + 2 = D(4); D(4) + 3 = G(7); G(7) + 4 = K(11). Combined: NIK.",
+          "solutionSteps": [
+            "Step 1: 1st letter decreases by 3: Q - 3 = N.",
+            "Step 2: 2nd letter increases by 1: H + 1 = I.",
+            "Step 3: 3rd letter increases by (+2, +3, +4): G(7) + 4 = K(11).",
+            "Step 4: Result: NIK."
+          ],
           "examTags": [
             "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
+            "SBI CLERK"
           ]
         },
         {
-          "questionText": "Alphabet Series Practice Q13: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "Which term replaces the question mark in: BZA, DYC, FXE, ?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "HWG",
+            "GVF",
+            "HVF",
+            "GWG"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "hint": "1st letter (+2), 2nd letter (-1), 3rd letter (+2).",
+          "explanation": "1st letter: B(+2)→D(+2)→F(+2)→H. 2nd letter: Z(-1)→Y(-1)→X(-1)→W. 3rd letter: A(+2)→C(+2)→E(+2)→G. Hence, HWG.",
+          "solutionSteps": [
+            "Step 1: First letter: F + 2 = H.",
+            "Step 2: Middle letter: X - 1 = W.",
+            "Step 3: Last letter: E + 2 = G.",
+            "Step 4: Result: HWG."
+          ],
+          "examTags": [
+            "SSC CGL",
+            "RRB JE"
+          ]
+        },
+        {
+          "questionText": "What comes next in the series: EJO, TYD, INS, ?",
+          "options": [
+            "XCH",
+            "WCG",
+            "YDI",
+            "XCI"
+          ],
+          "correctIndex": 0,
+          "difficulty": "hard",
+          "hint": "Notice that every letter is shifted by 5 positions forward (mod 26).",
+          "explanation": "E(5)+5=J(10)+5=O(15); O(15)+5=T(20)+5=Y(25)+5=D(4); D(4)+5=I(9)+5=N(14)+5=S(19); S(19)+5=X(24)+5=C(3)+5=H(8). The next triplet is XCH.",
+          "solutionSteps": [
+            "Step 1: Check continuous step between each letter: +5 across the board.",
+            "Step 2: S(19) + 5 = 24 = X.",
+            "Step 3: X(24) + 5 = 29 mod 26 = 3 = C.",
+            "Step 4: C(3) + 5 = 8 = H.",
+            "Step 5: Result: XCH."
+          ],
+          "examTags": [
+            "IBPS PO",
+            "SBI PO"
+          ]
+        },
+        {
+          "questionText": "Find the missing letter cluster: GH, JL, NQ, ?",
+          "options": [
+            "SW",
+            "TV",
+            "SX",
+            "TW"
+          ],
+          "correctIndex": 0,
+          "difficulty": "hard",
+          "hint": "First letter increment increases by 1 each time (+3, +4, +5); second letter increment also increases (+4, +5, +6).",
+          "explanation": "1st letters: G(7) + 3 = J(10); J(10) + 4 = N(14); N(14) + 5 = S(19). 2nd letters: H(8) + 4 = L(12); L(12) + 5 = Q(17); Q(17) + 6 = W(23). Result is SW.",
+          "solutionSteps": [
+            "Step 1: 1st letters: 7 (+3) 10 (+4) 14 (+5) 19 -> S.",
+            "Step 2: 2nd letters: 8 (+4) 12 (+5) 17 (+6) 23 -> W.",
+            "Step 3: Result: SW."
+          ],
+          "examTags": [
+            "SSC CGL",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Find the next term in the word reduction series: PERPENDICULAR, ERPENDICULA, RPENDICUL, ?",
+          "options": [
+            "PENDICU",
+            "PENDICUL",
+            "ERPEN",
+            "ENDICU"
+          ],
+          "correctIndex": 0,
+          "difficulty": "hard",
+          "hint": "Alternate removal of front and back letters.",
+          "explanation": "From PERPENDICULAR: remove first letter 'P' and last letter 'R' -> ERPENDICULA. Then from ERPENDICULA: remove first letter 'E' and last letter 'A' -> RPENDICUL. Next: remove first letter 'R' and last letter 'L' -> PENDICU.",
+          "solutionSteps": [
+            "Step 1: Notice pattern: 1st step dropped P (start) and R (end).",
+            "Step 2: 2nd step dropped E (start) and A (end).",
+            "Step 3: 3rd step must drop R (start) and L (end) from RPENDICUL, leaving PENDICU."
+          ],
+          "examTags": [
+            "SSC CGL",
+            "IBPS PO",
+            "UPSC CSAT"
+          ]
+        },
+        {
+          "questionText": "Complete the series: AI, BL, CN, DP, ?",
+          "options": [
+            "EQ",
+            "ER",
+            "ES",
+            "FQ"
           ],
           "correctIndex": 1,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Alphabet Series. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Alphabet Series Practice Q14: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+          "hint": "1st letter is consecutive; 2nd letter differences: +3, +2, +2, +2.",
+          "explanation": "1st letters: A, B, C, D, E. 2nd letters: I(9) + 3 = L(12); L(12) + 2 = N(14); N(14) + 2 = P(16); P(16) + 2 = R(18). Result: ER.",
+          "solutionSteps": [
+            "Step 1: First letter is E.",
+            "Step 2: Second letter is 16 + 2 = 18 = R.",
+            "Step 3: Result: ER."
           ],
-          "correctIndex": 2,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Alphabet Series. Work through the problem step by step using the shortcuts taught in this topic.",
           "examTags": [
-            "SSC CGL",
             "SSC CHSL",
             "RRB NTPC"
           ]
         },
         {
-          "questionText": "Alphabet Series Practice Q15: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "What is the missing term in the double-letter series: DF, GJ, KM, NQ, RT, ?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Alphabet Series. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Alphabet Series Practice Q16: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "UX",
+            "UW",
+            "VX",
+            "VY"
           ],
           "correctIndex": 0,
           "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Alphabet Series. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Alphabet Series Practice Q17: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+          "hint": "Check difference between pairs and between successive terms.",
+          "explanation": "1st letters: D(4)+3=G(7)+4=K(11)+3=N(14)+4=R(18)+3=U(21). 2nd letters: F(6)+4=J(10)+3=M(13)+4=Q(17)+3=T(20)+4=X(24). Result is UX.",
+          "solutionSteps": [
+            "Step 1: 1st letters alternate +3 and +4: 18 + 3 = 21 (U).",
+            "Step 2: 2nd letters alternate +4 and +3: 20 + 4 = 24 (X).",
+            "Step 3: Result: UX."
           ],
-          "correctIndex": 1,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Alphabet Series. Work through the problem step by step using the shortcuts taught in this topic.",
           "examTags": [
             "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
+            "SBI PO"
           ]
         },
         {
-          "questionText": "Alphabet Series Practice Q18: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "Find the next term in the alphanumeric series: 2B, 4C, 8E, 14H, ?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 2,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Alphabet Series. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Alphabet Series Practice Q19: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Alphabet Series. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Alphabet Series Practice Q20: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "22L",
+            "20K",
+            "22K",
+            "24L"
           ],
           "correctIndex": 0,
           "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Alphabet Series. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Numbers have increments +2, +4, +6, +8. Letters have increments +1, +2, +3, +4.",
+          "explanation": "Numbers: 2(+2)→4(+4)→8(+6)→14(+8)→22. Letters: B(+1)→C(+2)→E(+3)→H(+4)→L. Combining both gives 22L.",
+          "solutionSteps": [
+            "Step 1: Number sequence: 2, 4, 8, 14 -> difference increases by 2: 14 + 8 = 22.",
+            "Step 2: Letter sequence: B(2), C(3), E(5), H(8) -> difference increases by 1: 8 + 4 = 12 = L.",
+            "Step 3: Result: 22L."
+          ],
           "examTags": [
             "SSC CGL",
-            "SSC CHSL",
+            "IBPS PO",
             "RRB NTPC"
           ]
         }

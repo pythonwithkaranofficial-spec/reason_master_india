@@ -49,343 +49,463 @@
       ],
       "practiceQuestions": [
         {
-          "questionText": "Missing Character in Matrix/Grid Practice Q1: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "Find the missing number in the following 3×3 matrix:\n\n|  2  |  3  |  13  |\n|  4  |  1  |  17  |\n|  2 |  3 |   ?  |",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Missing Character in Matrix/Grid. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Missing Character in Matrix/Grid Practice Q2: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "23",
+            "18",
+            "13",
+            "10"
           ],
           "correctIndex": 2,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Missing Character in Matrix/Grid. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Square the first two numbers in each row and add them together.",
+          "explanation": "Row pattern: (First Number)² + (Second Number)² = Third Number.\nRow 1: 2² + 3² = 4 + 9 = 13.\nRow 2: 4² + 1² = 16 + 1 = 17.\nRow 3: 2² + 3² = 4 + 9 = 13.",
+          "solutionSteps": "Step 1: Test rows vs columns for arithmetic progression, squares, cubes, or constant sums.\nStep 2: Verify that the hypothesized formula holds for all complete reference rows/sectors.\nStep 3: Apply the rule to calculate the missing character: 13.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         },
         {
-          "questionText": "Missing Character in Matrix/Grid Practice Q3: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "Find the missing number in the following 3×3 matrix:\n\n|  2  |  3  |  13  |\n|  4  |  1  |  17  |\n|  5 |  3 |   ?  |",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Missing Character in Matrix/Grid. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Missing Character in Matrix/Grid Practice Q4: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "34",
+            "39",
+            "31",
+            "44"
           ],
           "correctIndex": 0,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Missing Character in Matrix/Grid. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Square the first two numbers in each row and add them together.",
+          "explanation": "Row pattern: (First Number)² + (Second Number)² = Third Number.\nRow 1: 2² + 3² = 4 + 9 = 13.\nRow 2: 4² + 1² = 16 + 1 = 17.\nRow 3: 5² + 3² = 25 + 9 = 34.",
+          "solutionSteps": "Step 1: Test rows vs columns for arithmetic progression, squares, cubes, or constant sums.\nStep 2: Verify that the hypothesized formula holds for all complete reference rows/sectors.\nStep 3: Apply the rule to calculate the missing character: 34.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         },
         {
-          "questionText": "Missing Character in Matrix/Grid Practice Q5: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "Find the missing number in the following 3×3 matrix:\n\n|  2  |  3  |  13  |\n|  4  |  1  |  17  |\n|  4 |  3 |   ?  |",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Missing Character in Matrix/Grid. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Missing Character in Matrix/Grid Practice Q6: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "22",
+            "35",
+            "25",
+            "30"
           ],
           "correctIndex": 2,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Missing Character in Matrix/Grid. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Square the first two numbers in each row and add them together.",
+          "explanation": "Row pattern: (First Number)² + (Second Number)² = Third Number.\nRow 1: 2² + 3² = 4 + 9 = 13.\nRow 2: 4² + 1² = 16 + 1 = 17.\nRow 3: 4² + 3² = 16 + 9 = 25.",
+          "solutionSteps": "Step 1: Test rows vs columns for arithmetic progression, squares, cubes, or constant sums.\nStep 2: Verify that the hypothesized formula holds for all complete reference rows/sectors.\nStep 3: Apply the rule to calculate the missing character: 25.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         },
         {
-          "questionText": "Missing Character in Matrix/Grid Practice Q7: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "Find the missing number in the following 3×3 matrix:\n\n|  2  |  3  |  13  |\n|  4  |  1  |  17  |\n|  3 |  3 |   ?  |",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "15",
+            "18",
+            "23",
+            "28"
+          ],
+          "correctIndex": 1,
+          "difficulty": "easy",
+          "hint": "Square the first two numbers in each row and add them together.",
+          "explanation": "Row pattern: (First Number)² + (Second Number)² = Third Number.\nRow 1: 2² + 3² = 4 + 9 = 13.\nRow 2: 4² + 1² = 16 + 1 = 17.\nRow 3: 3² + 3² = 9 + 9 = 18.",
+          "solutionSteps": "Step 1: Test rows vs columns for arithmetic progression, squares, cubes, or constant sums.\nStep 2: Verify that the hypothesized formula holds for all complete reference rows/sectors.\nStep 3: Apply the rule to calculate the missing character: 18.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
+          ]
+        },
+        {
+          "questionText": "Find the missing number in the following 3×3 matrix:\n\n|  2  |  3  |  13  |\n|  4  |  1  |  17  |\n|  2 |  3 |   ?  |",
+          "options": [
+            "13",
+            "23",
+            "10",
+            "18"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "hint": "Square the first two numbers in each row and add them together.",
+          "explanation": "Row pattern: (First Number)² + (Second Number)² = Third Number.\nRow 1: 2² + 3² = 4 + 9 = 13.\nRow 2: 4² + 1² = 16 + 1 = 17.\nRow 3: 2² + 3² = 4 + 9 = 13.",
+          "solutionSteps": "Step 1: Test rows vs columns for arithmetic progression, squares, cubes, or constant sums.\nStep 2: Verify that the hypothesized formula holds for all complete reference rows/sectors.\nStep 3: Apply the rule to calculate the missing character: 13.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
+          ]
+        },
+        {
+          "questionText": "Find the missing number in the following 3×3 matrix:\n\n|  2  |  3  |  13  |\n|  4  |  1  |  17  |\n|  5 |  3 |   ?  |",
+          "options": [
+            "31",
+            "39",
+            "44",
+            "34"
           ],
           "correctIndex": 3,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Missing Character in Matrix/Grid. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Square the first two numbers in each row and add them together.",
+          "explanation": "Row pattern: (First Number)² + (Second Number)² = Third Number.\nRow 1: 2² + 3² = 4 + 9 = 13.\nRow 2: 4² + 1² = 16 + 1 = 17.\nRow 3: 5² + 3² = 25 + 9 = 34.",
+          "solutionSteps": "Step 1: Test rows vs columns for arithmetic progression, squares, cubes, or constant sums.\nStep 2: Verify that the hypothesized formula holds for all complete reference rows/sectors.\nStep 3: Apply the rule to calculate the missing character: 34.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         },
         {
-          "questionText": "Missing Character in Matrix/Grid Practice Q8: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "A circle is divided into four quadrants with numbers in opposing sectors. If sector 2 is opposite to 8 (2³), sector 3 is opposite to 27 (3³), what number is opposite to sector 3 in the missing quadrant?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Missing Character in Matrix/Grid. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Missing Character in Matrix/Grid Practice Q9: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Missing Character in Matrix/Grid. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Missing Character in Matrix/Grid Practice Q10: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "37",
+            "24",
+            "27",
+            "32"
           ],
           "correctIndex": 2,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Missing Character in Matrix/Grid. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Check the relationship between diametrically opposite sectors (powers/cubes).",
+          "explanation": "The number in each sector is paired with its perfect cube in the diametrically opposite sector. Opposing 3 is 3³ = 27.",
+          "solutionSteps": "Step 1: Test rows vs columns for arithmetic progression, squares, cubes, or constant sums.\nStep 2: Verify that the hypothesized formula holds for all complete reference rows/sectors.\nStep 3: Apply the rule to calculate the missing character: 27.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         },
         {
-          "questionText": "Missing Character in Matrix/Grid Practice Q11: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "A circle is divided into four quadrants with numbers in opposing sectors. If sector 2 is opposite to 8 (2³), sector 3 is opposite to 27 (3³), what number is opposite to sector 6 in the missing quadrant?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Missing Character in Matrix/Grid. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Missing Character in Matrix/Grid Practice Q12: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "216",
+            "226",
+            "213",
+            "221"
           ],
           "correctIndex": 0,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Missing Character in Matrix/Grid. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Check the relationship between diametrically opposite sectors (powers/cubes).",
+          "explanation": "The number in each sector is paired with its perfect cube in the diametrically opposite sector. Opposing 6 is 6³ = 216.",
+          "solutionSteps": "Step 1: Test rows vs columns for arithmetic progression, squares, cubes, or constant sums.\nStep 2: Verify that the hypothesized formula holds for all complete reference rows/sectors.\nStep 3: Apply the rule to calculate the missing character: 216.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         },
         {
-          "questionText": "Missing Character in Matrix/Grid Practice Q13: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "A circle is divided into four quadrants with numbers in opposing sectors. If sector 2 is opposite to 8 (2³), sector 3 is opposite to 27 (3³), what number is opposite to sector 4 in the missing quadrant?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Missing Character in Matrix/Grid. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Missing Character in Matrix/Grid Practice Q14: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "74",
+            "61",
+            "64",
+            "69"
           ],
           "correctIndex": 2,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Missing Character in Matrix/Grid. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Check the relationship between diametrically opposite sectors (powers/cubes).",
+          "explanation": "The number in each sector is paired with its perfect cube in the diametrically opposite sector. Opposing 4 is 4³ = 64.",
+          "solutionSteps": "Step 1: Test rows vs columns for arithmetic progression, squares, cubes, or constant sums.\nStep 2: Verify that the hypothesized formula holds for all complete reference rows/sectors.\nStep 3: Apply the rule to calculate the missing character: 64.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         },
         {
-          "questionText": "Missing Character in Matrix/Grid Practice Q15: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "A circle is divided into four quadrants with numbers in opposing sectors. If sector 2 is opposite to 8 (2³), sector 3 is opposite to 27 (3³), what number is opposite to sector 2 in the missing quadrant?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "13",
+            "5",
+            "8",
+            "18"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "hint": "Check the relationship between diametrically opposite sectors (powers/cubes).",
+          "explanation": "The number in each sector is paired with its perfect cube in the diametrically opposite sector. Opposing 2 is 2³ = 8.",
+          "solutionSteps": "Step 1: Test rows vs columns for arithmetic progression, squares, cubes, or constant sums.\nStep 2: Verify that the hypothesized formula holds for all complete reference rows/sectors.\nStep 3: Apply the rule to calculate the missing character: 8.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
+          ]
+        },
+        {
+          "questionText": "A circle is divided into four quadrants with numbers in opposing sectors. If sector 2 is opposite to 8 (2³), sector 3 is opposite to 27 (3³), what number is opposite to sector 5 in the missing quadrant?",
+          "options": [
+            "135",
+            "130",
+            "125",
+            "122"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "hint": "Check the relationship between diametrically opposite sectors (powers/cubes).",
+          "explanation": "The number in each sector is paired with its perfect cube in the diametrically opposite sector. Opposing 5 is 5³ = 125.",
+          "solutionSteps": "Step 1: Test rows vs columns for arithmetic progression, squares, cubes, or constant sums.\nStep 2: Verify that the hypothesized formula holds for all complete reference rows/sectors.\nStep 3: Apply the rule to calculate the missing character: 125.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
+          ]
+        },
+        {
+          "questionText": "A circle is divided into four quadrants with numbers in opposing sectors. If sector 2 is opposite to 8 (2³), sector 3 is opposite to 27 (3³), what number is opposite to sector 3 in the missing quadrant?",
+          "options": [
+            "24",
+            "37",
+            "32",
+            "27"
           ],
           "correctIndex": 3,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Missing Character in Matrix/Grid. Work through the problem step by step using the shortcuts taught in this topic.",
+          "difficulty": "medium",
+          "hint": "Check the relationship between diametrically opposite sectors (powers/cubes).",
+          "explanation": "The number in each sector is paired with its perfect cube in the diametrically opposite sector. Opposing 3 is 3³ = 27.",
+          "solutionSteps": "Step 1: Test rows vs columns for arithmetic progression, squares, cubes, or constant sums.\nStep 2: Verify that the hypothesized formula holds for all complete reference rows/sectors.\nStep 3: Apply the rule to calculate the missing character: 27.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         },
         {
-          "questionText": "Missing Character in Matrix/Grid Practice Q16: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "A circle is divided into four quadrants with numbers in opposing sectors. If sector 2 is opposite to 8 (2³), sector 3 is opposite to 27 (3³), what number is opposite to sector 6 in the missing quadrant?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "216",
+            "226",
+            "221",
+            "213"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "hint": "Check the relationship between diametrically opposite sectors (powers/cubes).",
+          "explanation": "The number in each sector is paired with its perfect cube in the diametrically opposite sector. Opposing 6 is 6³ = 216.",
+          "solutionSteps": "Step 1: Test rows vs columns for arithmetic progression, squares, cubes, or constant sums.\nStep 2: Verify that the hypothesized formula holds for all complete reference rows/sectors.\nStep 3: Apply the rule to calculate the missing character: 216.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
+          ]
+        },
+        {
+          "questionText": "A circle is divided into four quadrants with numbers in opposing sectors. If sector 2 is opposite to 8 (2³), sector 3 is opposite to 27 (3³), what number is opposite to sector 4 in the missing quadrant?",
+          "options": [
+            "61",
+            "64",
+            "69",
+            "74"
+          ],
+          "correctIndex": 1,
+          "difficulty": "medium",
+          "hint": "Check the relationship between diametrically opposite sectors (powers/cubes).",
+          "explanation": "The number in each sector is paired with its perfect cube in the diametrically opposite sector. Opposing 4 is 4³ = 64.",
+          "solutionSteps": "Step 1: Test rows vs columns for arithmetic progression, squares, cubes, or constant sums.\nStep 2: Verify that the hypothesized formula holds for all complete reference rows/sectors.\nStep 3: Apply the rule to calculate the missing character: 64.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
+          ]
+        },
+        {
+          "questionText": "In a cross-shaped diagram with four outer arm numbers 4, 5, 6, and 3 surrounding a central number:\nIf outer numbers 1, 2, 3, 4 surround center 30 ((1+2+3+4) × 3 = 30),\nwhat central number replaces the question mark (?) for outer numbers 4, 5, 6, and 3?",
+          "options": [
+            "54",
+            "59",
+            "51",
+            "64"
           ],
           "correctIndex": 0,
           "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Missing Character in Matrix/Grid. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Add all peripheral numbers and multiply by a constant factor.",
+          "explanation": "Rule: Sum of all four peripheral outer numbers multiplied by 3 gives the central number.\n(4 + 5 + 6 + 3) × 3 = 18 × 3 = 54.",
+          "solutionSteps": "Step 1: Test rows vs columns for arithmetic progression, squares, cubes, or constant sums.\nStep 2: Verify that the hypothesized formula holds for all complete reference rows/sectors.\nStep 3: Apply the rule to calculate the missing character: 54.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         },
         {
-          "questionText": "Missing Character in Matrix/Grid Practice Q17: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "In a cross-shaped diagram with four outer arm numbers 3, 4, 5, and 2 surrounding a central number:\nIf outer numbers 1, 2, 3, 4 surround center 30 ((1+2+3+4) × 3 = 30),\nwhat central number replaces the question mark (?) for outer numbers 3, 4, 5, and 2?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Missing Character in Matrix/Grid. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Missing Character in Matrix/Grid Practice Q18: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "47",
+            "39",
+            "42",
+            "52"
           ],
           "correctIndex": 2,
           "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Missing Character in Matrix/Grid. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Add all peripheral numbers and multiply by a constant factor.",
+          "explanation": "Rule: Sum of all four peripheral outer numbers multiplied by 3 gives the central number.\n(3 + 4 + 5 + 2) × 3 = 14 × 3 = 42.",
+          "solutionSteps": "Step 1: Test rows vs columns for arithmetic progression, squares, cubes, or constant sums.\nStep 2: Verify that the hypothesized formula holds for all complete reference rows/sectors.\nStep 3: Apply the rule to calculate the missing character: 42.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         },
         {
-          "questionText": "Missing Character in Matrix/Grid Practice Q19: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "In a cross-shaped diagram with four outer arm numbers 2, 3, 4, and 1 surrounding a central number:\nIf outer numbers 1, 2, 3, 4 surround center 30 ((1+2+3+4) × 3 = 30),\nwhat central number replaces the question mark (?) for outer numbers 2, 3, 4, and 1?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "35",
+            "27",
+            "40",
+            "30"
           ],
           "correctIndex": 3,
           "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Missing Character in Matrix/Grid. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Add all peripheral numbers and multiply by a constant factor.",
+          "explanation": "Rule: Sum of all four peripheral outer numbers multiplied by 3 gives the central number.\n(2 + 3 + 4 + 1) × 3 = 10 × 3 = 30.",
+          "solutionSteps": "Step 1: Test rows vs columns for arithmetic progression, squares, cubes, or constant sums.\nStep 2: Verify that the hypothesized formula holds for all complete reference rows/sectors.\nStep 3: Apply the rule to calculate the missing character: 30.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         },
         {
-          "questionText": "Missing Character in Matrix/Grid Practice Q20: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "In a cross-shaped diagram with four outer arm numbers 5, 6, 7, and 4 surrounding a central number:\nIf outer numbers 1, 2, 3, 4 surround center 30 ((1+2+3+4) × 3 = 30),\nwhat central number replaces the question mark (?) for outer numbers 5, 6, 7, and 4?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "71",
+            "76",
+            "63",
+            "66"
           ],
-          "correctIndex": 0,
+          "correctIndex": 3,
           "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Missing Character in Matrix/Grid. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Add all peripheral numbers and multiply by a constant factor.",
+          "explanation": "Rule: Sum of all four peripheral outer numbers multiplied by 3 gives the central number.\n(5 + 6 + 7 + 4) × 3 = 22 × 3 = 66.",
+          "solutionSteps": "Step 1: Test rows vs columns for arithmetic progression, squares, cubes, or constant sums.\nStep 2: Verify that the hypothesized formula holds for all complete reference rows/sectors.\nStep 3: Apply the rule to calculate the missing character: 66.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
+          ]
+        },
+        {
+          "questionText": "In a cross-shaped diagram with four outer arm numbers 4, 5, 6, and 3 surrounding a central number:\nIf outer numbers 1, 2, 3, 4 surround center 30 ((1+2+3+4) × 3 = 30),\nwhat central number replaces the question mark (?) for outer numbers 4, 5, 6, and 3?",
+          "options": [
+            "64",
+            "51",
+            "59",
+            "54"
+          ],
+          "correctIndex": 3,
+          "difficulty": "hard",
+          "hint": "Add all peripheral numbers and multiply by a constant factor.",
+          "explanation": "Rule: Sum of all four peripheral outer numbers multiplied by 3 gives the central number.\n(4 + 5 + 6 + 3) × 3 = 18 × 3 = 54.",
+          "solutionSteps": "Step 1: Test rows vs columns for arithmetic progression, squares, cubes, or constant sums.\nStep 2: Verify that the hypothesized formula holds for all complete reference rows/sectors.\nStep 3: Apply the rule to calculate the missing character: 54.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
+          ]
+        },
+        {
+          "questionText": "In a cross-shaped diagram with four outer arm numbers 3, 4, 5, and 2 surrounding a central number:\nIf outer numbers 1, 2, 3, 4 surround center 30 ((1+2+3+4) × 3 = 30),\nwhat central number replaces the question mark (?) for outer numbers 3, 4, 5, and 2?",
+          "options": [
+            "47",
+            "52",
+            "42",
+            "39"
+          ],
+          "correctIndex": 2,
+          "difficulty": "hard",
+          "hint": "Add all peripheral numbers and multiply by a constant factor.",
+          "explanation": "Rule: Sum of all four peripheral outer numbers multiplied by 3 gives the central number.\n(3 + 4 + 5 + 2) × 3 = 14 × 3 = 42.",
+          "solutionSteps": "Step 1: Test rows vs columns for arithmetic progression, squares, cubes, or constant sums.\nStep 2: Verify that the hypothesized formula holds for all complete reference rows/sectors.\nStep 3: Apply the rule to calculate the missing character: 42.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         }
       ]

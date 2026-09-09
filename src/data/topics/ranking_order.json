@@ -49,343 +49,469 @@
       ],
       "practiceQuestions": [
         {
-          "questionText": "Ranking, Order & Sequence Practice Q1: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "In a row of students, Aditya ranks 6 th from the left end and 7 th from the right end. How many students are there in the row?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Ranking, Order & Sequence. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "IBPS Clerk",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Ranking, Order & Sequence Practice Q2: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 2,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Ranking, Order & Sequence. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "IBPS Clerk",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Ranking, Order & Sequence Practice Q3: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "13",
+            "11",
+            "14",
+            "12"
           ],
           "correctIndex": 3,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Ranking, Order & Sequence. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Remember the core formula: Total = Left + Right - 1.",
+          "explanation": "Formula: Total = (Rank from Left) + (Rank from Right) - 1. Here, Total = 6 + 7 - 1 = 12.",
+          "solutionSteps": "Step 1: Identify given parameters.\nStep 2: Apply the fundamental ranking equation.\nStep 3: Result is 12.",
           "examTags": [
             "SSC CGL",
-            "IBPS Clerk",
-            "RRB NTPC"
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Ranking, Order & Sequence Practice Q4: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "In a class of 14 students, Bhavna's rank is 7 th from the top. What is Bhavna's rank from the bottom?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "8 th",
+            "7 th",
+            "9 th",
+            "10 th"
           ],
           "correctIndex": 0,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Ranking, Order & Sequence. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Remember the core formula: Total = Left + Right - 1.",
+          "explanation": "Formula: Rank from Bottom = Total - Rank from Top + 1. Rank = 14 - 7 + 1 = 8 th.",
+          "solutionSteps": "Step 1: Identify given parameters.\nStep 2: Apply the fundamental ranking equation.\nStep 3: Result is 8 th.",
           "examTags": [
             "SSC CGL",
-            "IBPS Clerk",
-            "RRB NTPC"
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Ranking, Order & Sequence Practice Q5: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "In a row of students, Chetan ranks 8 th from the left end and 9 th from the right end. How many students are there in the row?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "16",
+            "18",
+            "15",
+            "17"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "hint": "Remember the core formula: Total = Left + Right - 1.",
+          "explanation": "Formula: Total = (Rank from Left) + (Rank from Right) - 1. Here, Total = 8 + 9 - 1 = 16.",
+          "solutionSteps": "Step 1: Identify given parameters.\nStep 2: Apply the fundamental ranking equation.\nStep 3: Result is 16.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "In a class of 18 students, Disha's rank is 9 th from the top. What is Disha's rank from the bottom?",
+          "options": [
+            "10 th",
+            "9 th",
+            "11 th",
+            "12 th"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "hint": "Remember the core formula: Total = Left + Right - 1.",
+          "explanation": "Formula: Rank from Bottom = Total - Rank from Top + 1. Rank = 18 - 9 + 1 = 10 th.",
+          "solutionSteps": "Step 1: Identify given parameters.\nStep 2: Apply the fundamental ranking equation.\nStep 3: Result is 10 th.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "In a row of students, Esha ranks 10 th from the left end and 11 th from the right end. How many students are there in the row?",
+          "options": [
+            "21",
+            "22",
+            "20",
+            "19"
+          ],
+          "correctIndex": 2,
+          "difficulty": "easy",
+          "hint": "Remember the core formula: Total = Left + Right - 1.",
+          "explanation": "Formula: Total = (Rank from Left) + (Rank from Right) - 1. Here, Total = 10 + 11 - 1 = 20.",
+          "solutionSteps": "Step 1: Identify given parameters.\nStep 2: Apply the fundamental ranking equation.\nStep 3: Result is 20.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "In a class of 22 students, Farhan's rank is 11 th from the top. What is Farhan's rank from the bottom?",
+          "options": [
+            "13 th",
+            "12 th",
+            "14 th",
+            "11 th"
           ],
           "correctIndex": 1,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Ranking, Order & Sequence. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Remember the core formula: Total = Left + Right - 1.",
+          "explanation": "Formula: Rank from Bottom = Total - Rank from Top + 1. Rank = 22 - 11 + 1 = 12 th.",
+          "solutionSteps": "Step 1: Identify given parameters.\nStep 2: Apply the fundamental ranking equation.\nStep 3: Result is 12 th.",
           "examTags": [
             "SSC CGL",
-            "IBPS Clerk",
-            "RRB NTPC"
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Ranking, Order & Sequence Practice Q6: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "In a row of boys, Aditya is 8 th from the left and Disha is 10 th from the right. When they interchange their positions, Aditya becomes 12 th from the left. How many boys are there in the row?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 2,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Ranking, Order & Sequence. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "IBPS Clerk",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Ranking, Order & Sequence Practice Q7: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Ranking, Order & Sequence. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "IBPS Clerk",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Ranking, Order & Sequence Practice Q8: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "21",
+            "25",
+            "22",
+            "20"
           ],
           "correctIndex": 0,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Ranking, Order & Sequence. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "In interchange problems, the new position of person 1 has the old right-rank of person 2.",
+          "explanation": "When they interchange, Aditya takes Disha's old position. That single position is now known from both ends: 12 from left and 10 from right. Total = 12 + 10 - 1 = 21.",
+          "solutionSteps": "Step 1: Observe that after interchange, the position has two known coordinates.\nStep 2: Both individuals shift by the exact same number of places.\nStep 3: Calculate the required value: 21.",
           "examTags": [
             "SSC CGL",
-            "IBPS Clerk",
-            "RRB NTPC"
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         },
         {
-          "questionText": "Ranking, Order & Sequence Practice Q9: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "In a row of children, Bhavna is 9 th from the left and Esha is 11 th from the right. When they interchange positions, Bhavna becomes 14 th from the left. What will be Esha's new position from the right?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "16 th",
+            "21 th",
+            "17 th",
+            "15 th"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "hint": "In interchange problems, the new position of person 1 has the old right-rank of person 2.",
+          "explanation": "Bhavna shifted by 5 places (14 - 9 = 5). Therefore, Esha must also shift by the exact same 5 places: 11 + 5 = 16 th from the right.",
+          "solutionSteps": "Step 1: Observe that after interchange, the position has two known coordinates.\nStep 2: Both individuals shift by the exact same number of places.\nStep 3: Calculate the required value: 16 th.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
+          ]
+        },
+        {
+          "questionText": "In a row of boys, Chetan is 10 th from the left and Farhan is 12 th from the right. When they interchange their positions, Chetan becomes 16 th from the left. How many boys are there in the row?",
+          "options": [
+            "26",
+            "28",
+            "33",
+            "27"
+          ],
+          "correctIndex": 3,
+          "difficulty": "medium",
+          "hint": "In interchange problems, the new position of person 1 has the old right-rank of person 2.",
+          "explanation": "When they interchange, Chetan takes Farhan's old position. That single position is now known from both ends: 16 from left and 12 from right. Total = 16 + 12 - 1 = 27.",
+          "solutionSteps": "Step 1: Observe that after interchange, the position has two known coordinates.\nStep 2: Both individuals shift by the exact same number of places.\nStep 3: Calculate the required value: 27.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
+          ]
+        },
+        {
+          "questionText": "In a row of children, Disha is 11 th from the left and Geeta is 13 th from the right. When they interchange positions, Disha becomes 18 th from the left. What will be Geeta's new position from the right?",
+          "options": [
+            "27 th",
+            "19 th",
+            "20 th",
+            "21 th"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "hint": "In interchange problems, the new position of person 1 has the old right-rank of person 2.",
+          "explanation": "Disha shifted by 7 places (18 - 11 = 7). Therefore, Geeta must also shift by the exact same 7 places: 13 + 7 = 20 th from the right.",
+          "solutionSteps": "Step 1: Observe that after interchange, the position has two known coordinates.\nStep 2: Both individuals shift by the exact same number of places.\nStep 3: Calculate the required value: 20 th.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
+          ]
+        },
+        {
+          "questionText": "In a row of boys, Esha is 12 th from the left and Harsh is 14 th from the right. When they interchange their positions, Esha becomes 20 th from the left. How many boys are there in the row?",
+          "options": [
+            "34",
+            "33",
+            "41",
+            "32"
           ],
           "correctIndex": 1,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Ranking, Order & Sequence. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "In interchange problems, the new position of person 1 has the old right-rank of person 2.",
+          "explanation": "When they interchange, Esha takes Harsh's old position. That single position is now known from both ends: 20 from left and 14 from right. Total = 20 + 14 - 1 = 33.",
+          "solutionSteps": "Step 1: Observe that after interchange, the position has two known coordinates.\nStep 2: Both individuals shift by the exact same number of places.\nStep 3: Calculate the required value: 33.",
           "examTags": [
             "SSC CGL",
-            "IBPS Clerk",
-            "RRB NTPC"
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         },
         {
-          "questionText": "Ranking, Order & Sequence Practice Q10: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "In a row of children, Farhan is 13 th from the left and Ishaan is 15 th from the right. When they interchange positions, Farhan becomes 22 th from the left. What will be Ishaan's new position from the right?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "23 th",
+            "25 th",
+            "24 th",
+            "33 th"
           ],
           "correctIndex": 2,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Ranking, Order & Sequence. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "In interchange problems, the new position of person 1 has the old right-rank of person 2.",
+          "explanation": "Farhan shifted by 9 places (22 - 13 = 9). Therefore, Ishaan must also shift by the exact same 9 places: 15 + 9 = 24 th from the right.",
+          "solutionSteps": "Step 1: Observe that after interchange, the position has two known coordinates.\nStep 2: Both individuals shift by the exact same number of places.\nStep 3: Calculate the required value: 24 th.",
           "examTags": [
             "SSC CGL",
-            "IBPS Clerk",
-            "RRB NTPC"
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         },
         {
-          "questionText": "Ranking, Order & Sequence Practice Q11: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "In a row of boys, Geeta is 14 th from the left and Jaya is 16 th from the right. When they interchange their positions, Geeta becomes 24 th from the left. How many boys are there in the row?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Ranking, Order & Sequence. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "IBPS Clerk",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Ranking, Order & Sequence Practice Q12: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Ranking, Order & Sequence. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "IBPS Clerk",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Ranking, Order & Sequence Practice Q13: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "40",
+            "39",
+            "38",
+            "49"
           ],
           "correctIndex": 1,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Ranking, Order & Sequence. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "In interchange problems, the new position of person 1 has the old right-rank of person 2.",
+          "explanation": "When they interchange, Geeta takes Jaya's old position. That single position is now known from both ends: 24 from left and 16 from right. Total = 24 + 16 - 1 = 39.",
+          "solutionSteps": "Step 1: Observe that after interchange, the position has two known coordinates.\nStep 2: Both individuals shift by the exact same number of places.\nStep 3: Calculate the required value: 39.",
           "examTags": [
             "SSC CGL",
-            "IBPS Clerk",
-            "RRB NTPC"
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         },
         {
-          "questionText": "Ranking, Order & Sequence Practice Q14: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "In a row of children, Harsh is 15 th from the left and Kunal is 17 th from the right. When they interchange positions, Harsh becomes 26 th from the left. What will be Kunal's new position from the right?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 2,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Ranking, Order & Sequence. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "IBPS Clerk",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Ranking, Order & Sequence Practice Q15: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Ranking, Order & Sequence. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "IBPS Clerk",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Ranking, Order & Sequence Practice Q16: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "28 th",
+            "39 th",
+            "29 th",
+            "27 th"
           ],
           "correctIndex": 0,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Ranking, Order & Sequence. Work through the problem step by step using the shortcuts taught in this topic.",
+          "difficulty": "medium",
+          "hint": "In interchange problems, the new position of person 1 has the old right-rank of person 2.",
+          "explanation": "Harsh shifted by 11 places (26 - 15 = 11). Therefore, Kunal must also shift by the exact same 11 places: 17 + 11 = 28 th from the right.",
+          "solutionSteps": "Step 1: Observe that after interchange, the position has two known coordinates.\nStep 2: Both individuals shift by the exact same number of places.\nStep 3: Calculate the required value: 28 th.",
           "examTags": [
             "SSC CGL",
-            "IBPS Clerk",
-            "RRB NTPC"
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         },
         {
-          "questionText": "Ranking, Order & Sequence Practice Q17: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "In a row of 18 persons, Farhan is 7 th from the left end and Ishaan is 8 th from the right end. How many persons are seated between Farhan and Ishaan?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "2",
+            "3",
+            "5",
+            "4"
           ],
           "correctIndex": 1,
           "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Ranking, Order & Sequence. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Compare (Left + Right) with Total. If (L+R) > Total, use the overlap formula: (L+R) - Total - 2.",
+          "explanation": "Since Left + Right (7 + 8 = 15) < Total (18), this is a non-overlapping case. Persons between = Total - (Left + Right) = 18 - 15 = 3.",
+          "solutionSteps": "Step 1: Check L + R = 7 + 8 = 15.\nStep 2: Compare with Total = 18.\nStep 3: Apply the appropriate formula to find 3 persons between.",
           "examTags": [
-            "SSC CGL",
-            "IBPS Clerk",
-            "RRB NTPC"
+            "IBPS PO",
+            "IBPS CLERK",
+            "SBI PO",
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
           ]
         },
         {
-          "questionText": "Ranking, Order & Sequence Practice Q18: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "In a row of 31 persons, Geeta is 21 th from the left end and Jaya is 15 th from the right end. How many persons are seated between Geeta and Jaya?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "2",
+            "3",
+            "4",
+            "5"
           ],
-          "correctIndex": 2,
+          "correctIndex": 1,
           "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Ranking, Order & Sequence. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Compare (Left + Right) with Total. If (L+R) > Total, use the overlap formula: (L+R) - Total - 2.",
+          "explanation": "Since Left + Right (21 + 15 = 36) > Total (31), this is an overlapping case. Persons between = (Left + Right) - Total - 2 = (36) - 31 - 2 = 3.",
+          "solutionSteps": "Step 1: Check L + R = 21 + 15 = 36.\nStep 2: Compare with Total = 31.\nStep 3: Apply the appropriate formula to find 3 persons between.",
           "examTags": [
-            "SSC CGL",
-            "IBPS Clerk",
-            "RRB NTPC"
+            "IBPS PO",
+            "IBPS CLERK",
+            "SBI PO",
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
           ]
         },
         {
-          "questionText": "Ranking, Order & Sequence Practice Q19: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "In a row of 24 persons, Harsh is 9 th from the left end and Kunal is 10 th from the right end. How many persons are seated between Harsh and Kunal?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "7",
+            "6",
+            "4",
+            "5"
           ],
           "correctIndex": 3,
           "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Ranking, Order & Sequence. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Compare (Left + Right) with Total. If (L+R) > Total, use the overlap formula: (L+R) - Total - 2.",
+          "explanation": "Since Left + Right (9 + 10 = 19) < Total (24), this is a non-overlapping case. Persons between = Total - (Left + Right) = 24 - 19 = 5.",
+          "solutionSteps": "Step 1: Check L + R = 9 + 10 = 19.\nStep 2: Compare with Total = 24.\nStep 3: Apply the appropriate formula to find 5 persons between.",
           "examTags": [
-            "SSC CGL",
-            "IBPS Clerk",
-            "RRB NTPC"
+            "IBPS PO",
+            "IBPS CLERK",
+            "SBI PO",
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
           ]
         },
         {
-          "questionText": "Ranking, Order & Sequence Practice Q20: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "In a row of 33 persons, Ishaan is 23 th from the left end and Lata is 17 th from the right end. How many persons are seated between Ishaan and Lata?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "5",
+            "6",
+            "4",
+            "7"
           ],
           "correctIndex": 0,
           "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Ranking, Order & Sequence. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Compare (Left + Right) with Total. If (L+R) > Total, use the overlap formula: (L+R) - Total - 2.",
+          "explanation": "Since Left + Right (23 + 17 = 40) > Total (33), this is an overlapping case. Persons between = (Left + Right) - Total - 2 = (40) - 33 - 2 = 5.",
+          "solutionSteps": "Step 1: Check L + R = 23 + 17 = 40.\nStep 2: Compare with Total = 33.\nStep 3: Apply the appropriate formula to find 5 persons between.",
           "examTags": [
-            "SSC CGL",
-            "IBPS Clerk",
-            "RRB NTPC"
+            "IBPS PO",
+            "IBPS CLERK",
+            "SBI PO",
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
+          ]
+        },
+        {
+          "questionText": "In a row of 30 persons, Jaya is 11 th from the left end and Manoj is 12 th from the right end. How many persons are seated between Jaya and Manoj?",
+          "options": [
+            "7",
+            "6",
+            "9",
+            "8"
+          ],
+          "correctIndex": 0,
+          "difficulty": "hard",
+          "hint": "Compare (Left + Right) with Total. If (L+R) > Total, use the overlap formula: (L+R) - Total - 2.",
+          "explanation": "Since Left + Right (11 + 12 = 23) < Total (30), this is a non-overlapping case. Persons between = Total - (Left + Right) = 30 - 23 = 7.",
+          "solutionSteps": "Step 1: Check L + R = 11 + 12 = 23.\nStep 2: Compare with Total = 30.\nStep 3: Apply the appropriate formula to find 7 persons between.",
+          "examTags": [
+            "IBPS PO",
+            "IBPS CLERK",
+            "SBI PO",
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
+          ]
+        },
+        {
+          "questionText": "In a row of 35 persons, Kunal is 20 th from the left end and Nisha is 24 th from the right end. How many persons are seated between Kunal and Nisha?",
+          "options": [
+            "9",
+            "6",
+            "7",
+            "8"
+          ],
+          "correctIndex": 2,
+          "difficulty": "hard",
+          "hint": "Compare (Left + Right) with Total. If (L+R) > Total, use the overlap formula: (L+R) - Total - 2.",
+          "explanation": "Since Left + Right (20 + 24 = 44) > Total (35), this is an overlapping case. Persons between = (Left + Right) - Total - 2 = (44) - 35 - 2 = 7.",
+          "solutionSteps": "Step 1: Check L + R = 20 + 24 = 44.\nStep 2: Compare with Total = 35.\nStep 3: Apply the appropriate formula to find 7 persons between.",
+          "examTags": [
+            "IBPS PO",
+            "IBPS CLERK",
+            "SBI PO",
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
           ]
         }
       ]

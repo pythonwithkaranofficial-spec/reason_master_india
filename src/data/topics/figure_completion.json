@@ -49,343 +49,483 @@
       ],
       "practiceQuestions": [
         {
-          "questionText": "Figure/Pattern Completion Practice Q1: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "Select a figure from the options which will continue the pattern and complete the incomplete bottom-right quadrant of a square divided into four quadrants by perpendicular axes, where each existing quadrant has two concentric circular arcs connected to the central origin and a shaded diagonal line:",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Figure/Pattern Completion. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Figure/Pattern Completion Practice Q2: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 2,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Figure/Pattern Completion. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Figure/Pattern Completion Practice Q3: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Figure/Pattern Completion. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Figure/Pattern Completion Practice Q4: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Figure/Pattern Completion. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Figure/Pattern Completion Practice Q5: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Figure/Pattern Completion. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Figure/Pattern Completion Practice Q6: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 2,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Figure/Pattern Completion. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Figure/Pattern Completion Practice Q7: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Figure/Pattern Completion. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Figure/Pattern Completion Practice Q8: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Figure/Pattern Completion. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Figure/Pattern Completion Practice Q9: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Figure/Pattern Completion. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Figure/Pattern Completion Practice Q10: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 2,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Figure/Pattern Completion. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Figure/Pattern Completion Practice Q11: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Figure with concentric circular arcs curving outward towards bottom-right corner",
+            "Figure with a single straight diagonal line without any circular arcs",
+            "Figure with perpendicular cross lines and no diagonal stroke",
+            "Figure with two concentric circular arcs curving inward towards the top-left of the quadrant and a diagonal line extending to the bottom-right corner"
           ],
           "correctIndex": 3,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Figure/Pattern Completion. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Analyze the symmetry of the figure: diagonal reflection, horizontal reflection, or rotational symmetry.",
+          "explanation": "To maintain four-fold radial symmetry around the center, the bottom-right quadrant must complete the concentric arcs towards the origin with a corresponding outward diagonal stroke.",
+          "solutionSteps": "Step 1: Check the line continuity and curvature across the adjacent quadrants.\nStep 2: Note the orientation of shading and terminal vertices.\nStep 3: Select the exact matching piece: Figure with two concentric circular arcs curving inward towards the top-left of the quadrant and a diagonal line extending to the bottom-right corner.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Figure/Pattern Completion Practice Q12: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "Select a figure from the options which will continue the pattern and complete the incomplete missing top-right quadrant of a diamond figure, where symmetrical floral design where each quadrant contains an equilateral petal and two parallel diagonal hatching lines:",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Figure/Pattern Completion. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Figure/Pattern Completion Practice Q13: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Figure/Pattern Completion. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Figure/Pattern Completion Practice Q14: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Figure with leaf petal pointing towards bottom-left instead of top-right",
+            "Figure with leaf petal pointing towards top-right but with a single horizontal hatching stroke",
+            "Figure containing a symmetrical leaf petal pointing towards top-right with two parallel hatching strokes matching the left quadrant",
+            "Figure with a blank petal without internal hatching strokes"
           ],
           "correctIndex": 2,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Figure/Pattern Completion. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Analyze the symmetry of the figure: diagonal reflection, horizontal reflection, or rotational symmetry.",
+          "explanation": "The overall composite pattern has bilateral symmetry along the vertical axis; thus the top-right quadrant is an exact lateral reflection of the top-left quadrant.",
+          "solutionSteps": "Step 1: Check the line continuity and curvature across the adjacent quadrants.\nStep 2: Note the orientation of shading and terminal vertices.\nStep 3: Select the exact matching piece: Figure containing a symmetrical leaf petal pointing towards top-right with two parallel hatching strokes matching the left quadrant.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Figure/Pattern Completion Practice Q15: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "Select a figure from the options which will continue the pattern and complete the incomplete bottom-left missing segment of a circular mandala, where three alternating shaded and unshaded concentric rings with radial spoke lines:",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Figure/Pattern Completion. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Figure/Pattern Completion Practice Q16: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Figure/Pattern Completion. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Figure/Pattern Completion Practice Q17: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Figure/Pattern Completion. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Figure/Pattern Completion Practice Q18: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "A quadrant wedge with all three concentric rings shaded solid dark",
+            "A quadrant wedge with outer and inner rings shaded and middle ring open",
+            "A quadrant wedge with the middle ring shaded dark and outer and inner rings open, bisected by a radial spoke line",
+            "A quadrant wedge with middle ring shaded but lacking the radial spoke line"
           ],
           "correctIndex": 2,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Figure/Pattern Completion. Work through the problem step by step using the shortcuts taught in this topic.",
+          "difficulty": "medium",
+          "hint": "Analyze the symmetry of the figure: diagonal reflection, horizontal reflection, or rotational symmetry.",
+          "explanation": "Extending the alternating concentric rings into the third quadrant preserves the continuity of dark shading in the middle band.",
+          "solutionSteps": "Step 1: Check the line continuity and curvature across the adjacent quadrants.\nStep 2: Note the orientation of shading and terminal vertices.\nStep 3: Select the exact matching piece: A quadrant wedge with the middle ring shaded dark and outer and inner rings open, bisected by a radial spoke line.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Figure/Pattern Completion Practice Q19: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "Select a figure from the options which will continue the pattern and complete the incomplete missing lower-right section of a 2x2 grid, where a diagonal cross with small circles at each outer vertex and small squares at each edge midpoint:",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Quarter-section containing diagonal arm ending in square and vertical arm with circle (swapped ends)",
+            "Quarter-section containing one diagonal arm ending in an outer circle and one vertical arm with a midpoint square",
+            "Quarter-section containing only the diagonal arm without vertical arm",
+            "Quarter-section containing vertical arm ending in circle and horizontal arm ending in triangle"
+          ],
+          "correctIndex": 1,
+          "difficulty": "medium",
+          "hint": "Analyze the symmetry of the figure: diagonal reflection, horizontal reflection, or rotational symmetry.",
+          "explanation": "Symmetry around the central intersection requires the lower-right arm of the diagonal cross to terminate in a circle with a square at the bottom edge.",
+          "solutionSteps": "Step 1: Check the line continuity and curvature across the adjacent quadrants.\nStep 2: Note the orientation of shading and terminal vertices.\nStep 3: Select the exact matching piece: Quarter-section containing one diagonal arm ending in an outer circle and one vertical arm with a midpoint square.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Select a figure from the options which will continue the pattern and complete the incomplete bottom-right quadrant of a square divided into four quadrants by perpendicular axes, where each existing quadrant has two concentric circular arcs connected to the central origin and a shaded diagonal line:",
+          "options": [
+            "Figure with concentric circular arcs curving outward towards bottom-right corner",
+            "Figure with two concentric circular arcs curving inward towards the top-left of the quadrant and a diagonal line extending to the bottom-right corner",
+            "Figure with a single straight diagonal line without any circular arcs",
+            "Figure with perpendicular cross lines and no diagonal stroke"
+          ],
+          "correctIndex": 1,
+          "difficulty": "medium",
+          "hint": "Analyze the symmetry of the figure: diagonal reflection, horizontal reflection, or rotational symmetry.",
+          "explanation": "To maintain four-fold radial symmetry around the center, the bottom-right quadrant must complete the concentric arcs towards the origin with a corresponding outward diagonal stroke.",
+          "solutionSteps": "Step 1: Check the line continuity and curvature across the adjacent quadrants.\nStep 2: Note the orientation of shading and terminal vertices.\nStep 3: Select the exact matching piece: Figure with two concentric circular arcs curving inward towards the top-left of the quadrant and a diagonal line extending to the bottom-right corner.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Select a figure from the options which will continue the pattern and complete the incomplete missing top-right quadrant of a diamond figure, where symmetrical floral design where each quadrant contains an equilateral petal and two parallel diagonal hatching lines:",
+          "options": [
+            "Figure with leaf petal pointing towards bottom-left instead of top-right",
+            "Figure with leaf petal pointing towards top-right but with a single horizontal hatching stroke",
+            "Figure containing a symmetrical leaf petal pointing towards top-right with two parallel hatching strokes matching the left quadrant",
+            "Figure with a blank petal without internal hatching strokes"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "hint": "Analyze the symmetry of the figure: diagonal reflection, horizontal reflection, or rotational symmetry.",
+          "explanation": "The overall composite pattern has bilateral symmetry along the vertical axis; thus the top-right quadrant is an exact lateral reflection of the top-left quadrant.",
+          "solutionSteps": "Step 1: Check the line continuity and curvature across the adjacent quadrants.\nStep 2: Note the orientation of shading and terminal vertices.\nStep 3: Select the exact matching piece: Figure containing a symmetrical leaf petal pointing towards top-right with two parallel hatching strokes matching the left quadrant.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Select a figure from the options which will continue the pattern and complete the incomplete bottom-left missing segment of a circular mandala, where three alternating shaded and unshaded concentric rings with radial spoke lines:",
+          "options": [
+            "A quadrant wedge with all three concentric rings shaded solid dark",
+            "A quadrant wedge with the middle ring shaded dark and outer and inner rings open, bisected by a radial spoke line",
+            "A quadrant wedge with outer and inner rings shaded and middle ring open",
+            "A quadrant wedge with middle ring shaded but lacking the radial spoke line"
+          ],
+          "correctIndex": 1,
+          "difficulty": "medium",
+          "hint": "Analyze the symmetry of the figure: diagonal reflection, horizontal reflection, or rotational symmetry.",
+          "explanation": "Extending the alternating concentric rings into the third quadrant preserves the continuity of dark shading in the middle band.",
+          "solutionSteps": "Step 1: Check the line continuity and curvature across the adjacent quadrants.\nStep 2: Note the orientation of shading and terminal vertices.\nStep 3: Select the exact matching piece: A quadrant wedge with the middle ring shaded dark and outer and inner rings open, bisected by a radial spoke line.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Select a figure from the options which will continue the pattern and complete the incomplete missing lower-right section of a 2x2 grid, where a diagonal cross with small circles at each outer vertex and small squares at each edge midpoint:",
+          "options": [
+            "Quarter-section containing diagonal arm ending in square and vertical arm with circle (swapped ends)",
+            "Quarter-section containing only the diagonal arm without vertical arm",
+            "Quarter-section containing vertical arm ending in circle and horizontal arm ending in triangle",
+            "Quarter-section containing one diagonal arm ending in an outer circle and one vertical arm with a midpoint square"
           ],
           "correctIndex": 3,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Figure/Pattern Completion. Work through the problem step by step using the shortcuts taught in this topic.",
+          "difficulty": "medium",
+          "hint": "Analyze the symmetry of the figure: diagonal reflection, horizontal reflection, or rotational symmetry.",
+          "explanation": "Symmetry around the central intersection requires the lower-right arm of the diagonal cross to terminate in a circle with a square at the bottom edge.",
+          "solutionSteps": "Step 1: Check the line continuity and curvature across the adjacent quadrants.\nStep 2: Note the orientation of shading and terminal vertices.\nStep 3: Select the exact matching piece: Quarter-section containing one diagonal arm ending in an outer circle and one vertical arm with a midpoint square.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Figure/Pattern Completion Practice Q20: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "Select a figure from the options which will continue the pattern and complete the incomplete bottom-right quadrant of a square divided into four quadrants by perpendicular axes, where each existing quadrant has two concentric circular arcs connected to the central origin and a shaded diagonal line:",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Figure with concentric circular arcs curving outward towards bottom-right corner",
+            "Figure with a single straight diagonal line without any circular arcs",
+            "Figure with two concentric circular arcs curving inward towards the top-left of the quadrant and a diagonal line extending to the bottom-right corner",
+            "Figure with perpendicular cross lines and no diagonal stroke"
           ],
-          "correctIndex": 0,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Figure/Pattern Completion. Work through the problem step by step using the shortcuts taught in this topic.",
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "hint": "Analyze the symmetry of the figure: diagonal reflection, horizontal reflection, or rotational symmetry.",
+          "explanation": "To maintain four-fold radial symmetry around the center, the bottom-right quadrant must complete the concentric arcs towards the origin with a corresponding outward diagonal stroke.",
+          "solutionSteps": "Step 1: Check the line continuity and curvature across the adjacent quadrants.\nStep 2: Note the orientation of shading and terminal vertices.\nStep 3: Select the exact matching piece: Figure with two concentric circular arcs curving inward towards the top-left of the quadrant and a diagonal line extending to the bottom-right corner.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Select a figure from the options which will continue the pattern and complete the incomplete missing top-right quadrant of a diamond figure, where symmetrical floral design where each quadrant contains an equilateral petal and two parallel diagonal hatching lines:",
+          "options": [
+            "Figure with leaf petal pointing towards bottom-left instead of top-right",
+            "Figure with leaf petal pointing towards top-right but with a single horizontal hatching stroke",
+            "Figure containing a symmetrical leaf petal pointing towards top-right with two parallel hatching strokes matching the left quadrant",
+            "Figure with a blank petal without internal hatching strokes"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "hint": "Analyze the symmetry of the figure: diagonal reflection, horizontal reflection, or rotational symmetry.",
+          "explanation": "The overall composite pattern has bilateral symmetry along the vertical axis; thus the top-right quadrant is an exact lateral reflection of the top-left quadrant.",
+          "solutionSteps": "Step 1: Check the line continuity and curvature across the adjacent quadrants.\nStep 2: Note the orientation of shading and terminal vertices.\nStep 3: Select the exact matching piece: Figure containing a symmetrical leaf petal pointing towards top-right with two parallel hatching strokes matching the left quadrant.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Select a figure from the options which will continue the pattern and complete the incomplete bottom-left missing segment of a circular mandala, where three alternating shaded and unshaded concentric rings with radial spoke lines:",
+          "options": [
+            "A quadrant wedge with all three concentric rings shaded solid dark",
+            "A quadrant wedge with outer and inner rings shaded and middle ring open",
+            "A quadrant wedge with the middle ring shaded dark and outer and inner rings open, bisected by a radial spoke line",
+            "A quadrant wedge with middle ring shaded but lacking the radial spoke line"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "hint": "Analyze the symmetry of the figure: diagonal reflection, horizontal reflection, or rotational symmetry.",
+          "explanation": "Extending the alternating concentric rings into the third quadrant preserves the continuity of dark shading in the middle band.",
+          "solutionSteps": "Step 1: Check the line continuity and curvature across the adjacent quadrants.\nStep 2: Note the orientation of shading and terminal vertices.\nStep 3: Select the exact matching piece: A quadrant wedge with the middle ring shaded dark and outer and inner rings open, bisected by a radial spoke line.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Select a figure from the options which will continue the pattern and complete the incomplete missing lower-right section of a 2x2 grid, where a diagonal cross with small circles at each outer vertex and small squares at each edge midpoint:",
+          "options": [
+            "Quarter-section containing diagonal arm ending in square and vertical arm with circle (swapped ends)",
+            "Quarter-section containing one diagonal arm ending in an outer circle and one vertical arm with a midpoint square",
+            "Quarter-section containing only the diagonal arm without vertical arm",
+            "Quarter-section containing vertical arm ending in circle and horizontal arm ending in triangle"
+          ],
+          "correctIndex": 1,
+          "difficulty": "medium",
+          "hint": "Analyze the symmetry of the figure: diagonal reflection, horizontal reflection, or rotational symmetry.",
+          "explanation": "Symmetry around the central intersection requires the lower-right arm of the diagonal cross to terminate in a circle with a square at the bottom edge.",
+          "solutionSteps": "Step 1: Check the line continuity and curvature across the adjacent quadrants.\nStep 2: Note the orientation of shading and terminal vertices.\nStep 3: Select the exact matching piece: Quarter-section containing one diagonal arm ending in an outer circle and one vertical arm with a midpoint square.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Select a figure from the options which will continue the pattern and complete the incomplete bottom-right quadrant of a square divided into four quadrants by perpendicular axes, where each existing quadrant has two concentric circular arcs connected to the central origin and a shaded diagonal line:",
+          "options": [
+            "Figure with two concentric circular arcs curving inward towards the top-left of the quadrant and a diagonal line extending to the bottom-right corner",
+            "Figure with concentric circular arcs curving outward towards bottom-right corner",
+            "Figure with a single straight diagonal line without any circular arcs",
+            "Figure with perpendicular cross lines and no diagonal stroke"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "hint": "Analyze the symmetry of the figure: diagonal reflection, horizontal reflection, or rotational symmetry.",
+          "explanation": "To maintain four-fold radial symmetry around the center, the bottom-right quadrant must complete the concentric arcs towards the origin with a corresponding outward diagonal stroke.",
+          "solutionSteps": "Step 1: Check the line continuity and curvature across the adjacent quadrants.\nStep 2: Note the orientation of shading and terminal vertices.\nStep 3: Select the exact matching piece: Figure with two concentric circular arcs curving inward towards the top-left of the quadrant and a diagonal line extending to the bottom-right corner.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Select a figure from the options which will continue the pattern and complete the incomplete missing top-right quadrant of a diamond figure, where symmetrical floral design where each quadrant contains an equilateral petal and two parallel diagonal hatching lines:",
+          "options": [
+            "Figure containing a symmetrical leaf petal pointing towards top-right with two parallel hatching strokes matching the left quadrant",
+            "Figure with leaf petal pointing towards bottom-left instead of top-right",
+            "Figure with leaf petal pointing towards top-right but with a single horizontal hatching stroke",
+            "Figure with a blank petal without internal hatching strokes"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "hint": "Analyze the symmetry of the figure: diagonal reflection, horizontal reflection, or rotational symmetry.",
+          "explanation": "The overall composite pattern has bilateral symmetry along the vertical axis; thus the top-right quadrant is an exact lateral reflection of the top-left quadrant.",
+          "solutionSteps": "Step 1: Check the line continuity and curvature across the adjacent quadrants.\nStep 2: Note the orientation of shading and terminal vertices.\nStep 3: Select the exact matching piece: Figure containing a symmetrical leaf petal pointing towards top-right with two parallel hatching strokes matching the left quadrant.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Select a figure from the options which will continue the pattern and complete the incomplete bottom-left missing segment of a circular mandala, where three alternating shaded and unshaded concentric rings with radial spoke lines:",
+          "options": [
+            "A quadrant wedge with all three concentric rings shaded solid dark",
+            "A quadrant wedge with outer and inner rings shaded and middle ring open",
+            "A quadrant wedge with the middle ring shaded dark and outer and inner rings open, bisected by a radial spoke line",
+            "A quadrant wedge with middle ring shaded but lacking the radial spoke line"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "hint": "Analyze the symmetry of the figure: diagonal reflection, horizontal reflection, or rotational symmetry.",
+          "explanation": "Extending the alternating concentric rings into the third quadrant preserves the continuity of dark shading in the middle band.",
+          "solutionSteps": "Step 1: Check the line continuity and curvature across the adjacent quadrants.\nStep 2: Note the orientation of shading and terminal vertices.\nStep 3: Select the exact matching piece: A quadrant wedge with the middle ring shaded dark and outer and inner rings open, bisected by a radial spoke line.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Select a figure from the options which will continue the pattern and complete the incomplete missing lower-right section of a 2x2 grid, where a diagonal cross with small circles at each outer vertex and small squares at each edge midpoint:",
+          "options": [
+            "Quarter-section containing diagonal arm ending in square and vertical arm with circle (swapped ends)",
+            "Quarter-section containing only the diagonal arm without vertical arm",
+            "Quarter-section containing one diagonal arm ending in an outer circle and one vertical arm with a midpoint square",
+            "Quarter-section containing vertical arm ending in circle and horizontal arm ending in triangle"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "hint": "Analyze the symmetry of the figure: diagonal reflection, horizontal reflection, or rotational symmetry.",
+          "explanation": "Symmetry around the central intersection requires the lower-right arm of the diagonal cross to terminate in a circle with a square at the bottom edge.",
+          "solutionSteps": "Step 1: Check the line continuity and curvature across the adjacent quadrants.\nStep 2: Note the orientation of shading and terminal vertices.\nStep 3: Select the exact matching piece: Quarter-section containing one diagonal arm ending in an outer circle and one vertical arm with a midpoint square.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Select a figure from the options which will continue the pattern and complete the incomplete bottom-right quadrant of a square divided into four quadrants by perpendicular axes, where each existing quadrant has two concentric circular arcs connected to the central origin and a shaded diagonal line:",
+          "options": [
+            "Figure with two concentric circular arcs curving inward towards the top-left of the quadrant and a diagonal line extending to the bottom-right corner",
+            "Figure with concentric circular arcs curving outward towards bottom-right corner",
+            "Figure with a single straight diagonal line without any circular arcs",
+            "Figure with perpendicular cross lines and no diagonal stroke"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "hint": "Analyze the symmetry of the figure: diagonal reflection, horizontal reflection, or rotational symmetry.",
+          "explanation": "To maintain four-fold radial symmetry around the center, the bottom-right quadrant must complete the concentric arcs towards the origin with a corresponding outward diagonal stroke.",
+          "solutionSteps": "Step 1: Check the line continuity and curvature across the adjacent quadrants.\nStep 2: Note the orientation of shading and terminal vertices.\nStep 3: Select the exact matching piece: Figure with two concentric circular arcs curving inward towards the top-left of the quadrant and a diagonal line extending to the bottom-right corner.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Select a figure from the options which will continue the pattern and complete the incomplete missing top-right quadrant of a diamond figure, where symmetrical floral design where each quadrant contains an equilateral petal and two parallel diagonal hatching lines:",
+          "options": [
+            "Figure with leaf petal pointing towards bottom-left instead of top-right",
+            "Figure with leaf petal pointing towards top-right but with a single horizontal hatching stroke",
+            "Figure containing a symmetrical leaf petal pointing towards top-right with two parallel hatching strokes matching the left quadrant",
+            "Figure with a blank petal without internal hatching strokes"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "hint": "Analyze the symmetry of the figure: diagonal reflection, horizontal reflection, or rotational symmetry.",
+          "explanation": "The overall composite pattern has bilateral symmetry along the vertical axis; thus the top-right quadrant is an exact lateral reflection of the top-left quadrant.",
+          "solutionSteps": "Step 1: Check the line continuity and curvature across the adjacent quadrants.\nStep 2: Note the orientation of shading and terminal vertices.\nStep 3: Select the exact matching piece: Figure containing a symmetrical leaf petal pointing towards top-right with two parallel hatching strokes matching the left quadrant.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Select a figure from the options which will continue the pattern and complete the incomplete bottom-left missing segment of a circular mandala, where three alternating shaded and unshaded concentric rings with radial spoke lines:",
+          "options": [
+            "A quadrant wedge with the middle ring shaded dark and outer and inner rings open, bisected by a radial spoke line",
+            "A quadrant wedge with all three concentric rings shaded solid dark",
+            "A quadrant wedge with outer and inner rings shaded and middle ring open",
+            "A quadrant wedge with middle ring shaded but lacking the radial spoke line"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "hint": "Analyze the symmetry of the figure: diagonal reflection, horizontal reflection, or rotational symmetry.",
+          "explanation": "Extending the alternating concentric rings into the third quadrant preserves the continuity of dark shading in the middle band.",
+          "solutionSteps": "Step 1: Check the line continuity and curvature across the adjacent quadrants.\nStep 2: Note the orientation of shading and terminal vertices.\nStep 3: Select the exact matching piece: A quadrant wedge with the middle ring shaded dark and outer and inner rings open, bisected by a radial spoke line.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Select a figure from the options which will continue the pattern and complete the incomplete missing lower-right section of a 2x2 grid, where a diagonal cross with small circles at each outer vertex and small squares at each edge midpoint:",
+          "options": [
+            "Quarter-section containing diagonal arm ending in square and vertical arm with circle (swapped ends)",
+            "Quarter-section containing only the diagonal arm without vertical arm",
+            "Quarter-section containing one diagonal arm ending in an outer circle and one vertical arm with a midpoint square",
+            "Quarter-section containing vertical arm ending in circle and horizontal arm ending in triangle"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "hint": "Analyze the symmetry of the figure: diagonal reflection, horizontal reflection, or rotational symmetry.",
+          "explanation": "Symmetry around the central intersection requires the lower-right arm of the diagonal cross to terminate in a circle with a square at the bottom edge.",
+          "solutionSteps": "Step 1: Check the line continuity and curvature across the adjacent quadrants.\nStep 2: Note the orientation of shading and terminal vertices.\nStep 3: Select the exact matching piece: Quarter-section containing one diagonal arm ending in an outer circle and one vertical arm with a midpoint square.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         }
       ]

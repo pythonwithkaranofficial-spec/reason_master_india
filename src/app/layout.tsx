@@ -4,6 +4,7 @@ import "@/styles/tokens.css";
 import "@/styles/typography.css";
 import "@/styles/globals.css";
 import { ThemeProvider } from "@/lib/theme/ThemeProvider";
+import { SettingsProvider } from "@/lib/settings/SettingsProvider";
 import { Header } from "@/components/layout/Header";
 import { Footer } from "@/components/layout/Footer";
 import { MobileNav } from "@/components/layout/MobileNav";
@@ -113,12 +114,14 @@ export default function RootLayout({
       </head>
       <body>
         <ThemeProvider>
-          <div className="site-wrapper">
-            <Header />
-            <main className="main-content">{children}</main>
-            <Footer />
-            <MobileNav />
-          </div>
+          <SettingsProvider>
+            <div className="site-wrapper">
+              <Header />
+              <main className="main-content">{children}</main>
+              <Footer />
+              <MobileNav />
+            </div>
+          </SettingsProvider>
         </ThemeProvider>
       </body>
     </html>

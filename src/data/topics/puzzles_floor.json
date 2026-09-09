@@ -49,343 +49,463 @@
       ],
       "practiceQuestions": [
         {
-          "questionText": "Puzzles — Floor-based Practice Q1: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "In an 8-storey building with occupants from Floor 1 to 8 as A, B, C, H, D, E, G, F, how many persons live between B (Floor 2) and E (Floor 6)?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Puzzles — Floor-based. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "IBPS Clerk"
-          ]
-        },
-        {
-          "questionText": "Puzzles — Floor-based Practice Q2: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "2 persons",
+            "4 persons",
+            "3 persons",
+            "1 person"
           ],
           "correctIndex": 2,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Puzzles — Floor-based. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Remember standard building numbering: Ground/Lowest floor is 1, and Top floor has the highest number.",
+          "explanation": "Between Floor 2 and Floor 6 are Floors 3, 4, and 5 (occupied by C, H, D). Exactly 3 persons live between them.",
+          "solutionSteps": "Step 1: Write down numbers 1 to 8 vertically from bottom to top.\nStep 2: Assign individuals to their confirmed floor positions.\nStep 3: Conclude that the required answer is 3 persons.",
           "examTags": [
             "IBPS PO",
+            "IBPS CLERK",
             "SBI PO",
-            "IBPS Clerk"
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
           ]
         },
         {
-          "questionText": "Puzzles — Floor-based Practice Q3: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "In an 8-storey building with occupants from Floor 1 to 8 as C, F, A, G, B, H, D, E, how many persons live between F (Floor 2) and H (Floor 6)?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Puzzles — Floor-based. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "IBPS Clerk"
-          ]
-        },
-        {
-          "questionText": "Puzzles — Floor-based Practice Q4: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Puzzles — Floor-based. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "IBPS Clerk"
-          ]
-        },
-        {
-          "questionText": "Puzzles — Floor-based Practice Q5: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Puzzles — Floor-based. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "IBPS Clerk"
-          ]
-        },
-        {
-          "questionText": "Puzzles — Floor-based Practice Q6: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "2 persons",
+            "4 persons",
+            "3 persons",
+            "1 person"
           ],
           "correctIndex": 2,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Puzzles — Floor-based. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Remember standard building numbering: Ground/Lowest floor is 1, and Top floor has the highest number.",
+          "explanation": "Between Floor 2 and Floor 6 are Floors 3, 4, and 5 (occupied by A, G, B). Exactly 3 persons live between them.",
+          "solutionSteps": "Step 1: Write down numbers 1 to 8 vertically from bottom to top.\nStep 2: Assign individuals to their confirmed floor positions.\nStep 3: Conclude that the required answer is 3 persons.",
           "examTags": [
             "IBPS PO",
+            "IBPS CLERK",
             "SBI PO",
-            "IBPS Clerk"
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
           ]
         },
         {
-          "questionText": "Puzzles — Floor-based Practice Q7: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "In an 8-storey building with occupants from Floor 1 to 8 as C, B, G, D, F, A, H, E, how many persons live between B (Floor 2) and A (Floor 6)?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "1 person",
+            "2 persons",
+            "3 persons",
+            "4 persons"
           ],
-          "correctIndex": 3,
+          "correctIndex": 2,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Puzzles — Floor-based. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Remember standard building numbering: Ground/Lowest floor is 1, and Top floor has the highest number.",
+          "explanation": "Between Floor 2 and Floor 6 are Floors 3, 4, and 5 (occupied by G, D, F). Exactly 3 persons live between them.",
+          "solutionSteps": "Step 1: Write down numbers 1 to 8 vertically from bottom to top.\nStep 2: Assign individuals to their confirmed floor positions.\nStep 3: Conclude that the required answer is 3 persons.",
           "examTags": [
             "IBPS PO",
+            "IBPS CLERK",
             "SBI PO",
-            "IBPS Clerk"
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
           ]
         },
         {
-          "questionText": "Puzzles — Floor-based Practice Q8: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "In an 8-storey building with occupants from Floor 1 to 8 as C, B, E, H, D, G, A, F, how many persons live between B (Floor 2) and G (Floor 6)?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Puzzles — Floor-based. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "IBPS Clerk"
-          ]
-        },
-        {
-          "questionText": "Puzzles — Floor-based Practice Q9: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "2 persons",
+            "3 persons",
+            "4 persons",
+            "1 person"
           ],
           "correctIndex": 1,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Puzzles — Floor-based. Work through the problem step by step using the shortcuts taught in this topic.",
+          "difficulty": "easy",
+          "hint": "Remember standard building numbering: Ground/Lowest floor is 1, and Top floor has the highest number.",
+          "explanation": "Between Floor 2 and Floor 6 are Floors 3, 4, and 5 (occupied by E, H, D). Exactly 3 persons live between them.",
+          "solutionSteps": "Step 1: Write down numbers 1 to 8 vertically from bottom to top.\nStep 2: Assign individuals to their confirmed floor positions.\nStep 3: Conclude that the required answer is 3 persons.",
           "examTags": [
             "IBPS PO",
+            "IBPS CLERK",
             "SBI PO",
-            "IBPS Clerk"
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
           ]
         },
         {
-          "questionText": "Puzzles — Floor-based Practice Q10: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "In an 8-storey building with occupants from Floor 1 to 8 as C, H, B, F, D, E, A, G, how many persons live between H (Floor 2) and E (Floor 6)?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "2 persons",
+            "4 persons",
+            "3 persons",
+            "1 person"
           ],
           "correctIndex": 2,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Puzzles — Floor-based. Work through the problem step by step using the shortcuts taught in this topic.",
+          "difficulty": "easy",
+          "hint": "Remember standard building numbering: Ground/Lowest floor is 1, and Top floor has the highest number.",
+          "explanation": "Between Floor 2 and Floor 6 are Floors 3, 4, and 5 (occupied by B, F, D). Exactly 3 persons live between them.",
+          "solutionSteps": "Step 1: Write down numbers 1 to 8 vertically from bottom to top.\nStep 2: Assign individuals to their confirmed floor positions.\nStep 3: Conclude that the required answer is 3 persons.",
           "examTags": [
             "IBPS PO",
+            "IBPS CLERK",
             "SBI PO",
-            "IBPS Clerk"
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
           ]
         },
         {
-          "questionText": "Puzzles — Floor-based Practice Q11: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "In an 8-storey building with occupants from Floor 1 to 8 as C, G, D, H, F, B, E, A, how many persons live between G (Floor 2) and B (Floor 6)?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "2 persons",
+            "1 person",
+            "3 persons",
+            "4 persons"
+          ],
+          "correctIndex": 2,
+          "difficulty": "easy",
+          "hint": "Remember standard building numbering: Ground/Lowest floor is 1, and Top floor has the highest number.",
+          "explanation": "Between Floor 2 and Floor 6 are Floors 3, 4, and 5 (occupied by D, H, F). Exactly 3 persons live between them.",
+          "solutionSteps": "Step 1: Write down numbers 1 to 8 vertically from bottom to top.\nStep 2: Assign individuals to their confirmed floor positions.\nStep 3: Conclude that the required answer is 3 persons.",
+          "examTags": [
+            "IBPS PO",
+            "IBPS CLERK",
+            "SBI PO",
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
+          ]
+        },
+        {
+          "questionText": "Eight persons E, C, F, D, B, G, H, A live on eight different floors of an 8-storey building. The ground floor is numbered 1, the floor above it is 2, and so on up to the topmost floor numbered 8.\n- E lives on Floor 1.\n- A lives on the topmost floor.\n- The floor distribution from bottom to top (Floor 1 to 8) is: E, C, F, D, B, G, H, A.\nOn which floor does E live?",
+          "options": [
+            "Floor 2",
+            "Floor 4",
+            "Floor 3",
+            "Floor 1"
           ],
           "correctIndex": 3,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Puzzles — Floor-based. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Remember standard building numbering: Ground/Lowest floor is 1, and Top floor has the highest number.",
+          "explanation": "Matching each person with their respective floor level: Floor 1: E, Floor 2: C, Floor 3: F, Floor 4: D, Floor 5: B, Floor 6: G, Floor 7: H, Floor 8: A. Thus, E lives on Floor 1.",
+          "solutionSteps": "Step 1: Write down numbers 1 to 8 vertically from bottom to top.\nStep 2: Assign individuals to their confirmed floor positions.\nStep 3: Conclude that the required answer is Floor 1.",
           "examTags": [
             "IBPS PO",
+            "IBPS CLERK",
             "SBI PO",
-            "IBPS Clerk"
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
           ]
         },
         {
-          "questionText": "Puzzles — Floor-based Practice Q12: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "Eight friends live on separate floors of an eight-storey building (numbered 1 to 8 from bottom to top). Floor allocation from Floor 1 upwards is D, G, H, B, E, C, A, F. Who lives on the topmost floor (Floor 8)?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Puzzles — Floor-based. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "IBPS Clerk"
-          ]
-        },
-        {
-          "questionText": "Puzzles — Floor-based Practice Q13: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Puzzles — Floor-based. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "IBPS Clerk"
-          ]
-        },
-        {
-          "questionText": "Puzzles — Floor-based Practice Q14: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "G",
+            "D",
+            "F",
+            "H"
           ],
           "correctIndex": 2,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Puzzles — Floor-based. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Remember standard building numbering: Ground/Lowest floor is 1, and Top floor has the highest number.",
+          "explanation": "The topmost floor is Floor 8. According to the vertical layout D -> G -> H -> B -> E -> C -> A -> F, F lives on Floor 8.",
+          "solutionSteps": "Step 1: Write down numbers 1 to 8 vertically from bottom to top.\nStep 2: Assign individuals to their confirmed floor positions.\nStep 3: Conclude that the required answer is F.",
           "examTags": [
             "IBPS PO",
+            "IBPS CLERK",
             "SBI PO",
-            "IBPS Clerk"
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
           ]
         },
         {
-          "questionText": "Puzzles — Floor-based Practice Q15: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "Eight persons C, E, H, D, B, F, G, A live on eight different floors of an 8-storey building. The ground floor is numbered 1, the floor above it is 2, and so on up to the topmost floor numbered 8.\n- C lives on Floor 1.\n- A lives on the topmost floor.\n- The floor distribution from bottom to top (Floor 1 to 8) is: C, E, H, D, B, F, G, A.\nOn which floor does D live?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Puzzles — Floor-based. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "IBPS Clerk"
-          ]
-        },
-        {
-          "questionText": "Puzzles — Floor-based Practice Q16: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Puzzles — Floor-based. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "IBPS Clerk"
-          ]
-        },
-        {
-          "questionText": "Puzzles — Floor-based Practice Q17: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Floor 7",
+            "Floor 4",
+            "Floor 6",
+            "Floor 5"
           ],
           "correctIndex": 1,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Puzzles — Floor-based. Work through the problem step by step using the shortcuts taught in this topic.",
+          "difficulty": "medium",
+          "hint": "Remember standard building numbering: Ground/Lowest floor is 1, and Top floor has the highest number.",
+          "explanation": "Matching each person with their respective floor level: Floor 1: C, Floor 2: E, Floor 3: H, Floor 4: D, Floor 5: B, Floor 6: F, Floor 7: G, Floor 8: A. Thus, D lives on Floor 4.",
+          "solutionSteps": "Step 1: Write down numbers 1 to 8 vertically from bottom to top.\nStep 2: Assign individuals to their confirmed floor positions.\nStep 3: Conclude that the required answer is Floor 4.",
           "examTags": [
             "IBPS PO",
+            "IBPS CLERK",
             "SBI PO",
-            "IBPS Clerk"
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
           ]
         },
         {
-          "questionText": "Puzzles — Floor-based Practice Q18: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "Eight friends live on separate floors of an eight-storey building (numbered 1 to 8 from bottom to top). Floor allocation from Floor 1 upwards is G, D, B, F, H, A, E, C. Who lives on the topmost floor (Floor 8)?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "B",
+            "C",
+            "G",
+            "D"
           ],
-          "correctIndex": 2,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Puzzles — Floor-based. Work through the problem step by step using the shortcuts taught in this topic.",
+          "correctIndex": 1,
+          "difficulty": "medium",
+          "hint": "Remember standard building numbering: Ground/Lowest floor is 1, and Top floor has the highest number.",
+          "explanation": "The topmost floor is Floor 8. According to the vertical layout G -> D -> B -> F -> H -> A -> E -> C, C lives on Floor 8.",
+          "solutionSteps": "Step 1: Write down numbers 1 to 8 vertically from bottom to top.\nStep 2: Assign individuals to their confirmed floor positions.\nStep 3: Conclude that the required answer is C.",
           "examTags": [
             "IBPS PO",
+            "IBPS CLERK",
             "SBI PO",
-            "IBPS Clerk"
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
           ]
         },
         {
-          "questionText": "Puzzles — Floor-based Practice Q19: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "Eight persons A, E, D, H, G, F, C, B live on eight different floors of an 8-storey building. The ground floor is numbered 1, the floor above it is 2, and so on up to the topmost floor numbered 8.\n- A lives on Floor 1.\n- B lives on the topmost floor.\n- The floor distribution from bottom to top (Floor 1 to 8) is: A, E, D, H, G, F, C, B.\nOn which floor does C live?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Floor 1",
+            "Floor 7",
+            "Floor 2",
+            "Floor 8"
+          ],
+          "correctIndex": 1,
+          "difficulty": "medium",
+          "hint": "Remember standard building numbering: Ground/Lowest floor is 1, and Top floor has the highest number.",
+          "explanation": "Matching each person with their respective floor level: Floor 1: A, Floor 2: E, Floor 3: D, Floor 4: H, Floor 5: G, Floor 6: F, Floor 7: C, Floor 8: B. Thus, C lives on Floor 7.",
+          "solutionSteps": "Step 1: Write down numbers 1 to 8 vertically from bottom to top.\nStep 2: Assign individuals to their confirmed floor positions.\nStep 3: Conclude that the required answer is Floor 7.",
+          "examTags": [
+            "IBPS PO",
+            "IBPS CLERK",
+            "SBI PO",
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
+          ]
+        },
+        {
+          "questionText": "Eight friends live on separate floors of an eight-storey building (numbered 1 to 8 from bottom to top). Floor allocation from Floor 1 upwards is C, E, G, F, D, A, B, H. Who lives on the topmost floor (Floor 8)?",
+          "options": [
+            "G",
+            "C",
+            "E",
+            "H"
           ],
           "correctIndex": 3,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Puzzles — Floor-based. Work through the problem step by step using the shortcuts taught in this topic.",
+          "difficulty": "medium",
+          "hint": "Remember standard building numbering: Ground/Lowest floor is 1, and Top floor has the highest number.",
+          "explanation": "The topmost floor is Floor 8. According to the vertical layout C -> E -> G -> F -> D -> A -> B -> H, H lives on Floor 8.",
+          "solutionSteps": "Step 1: Write down numbers 1 to 8 vertically from bottom to top.\nStep 2: Assign individuals to their confirmed floor positions.\nStep 3: Conclude that the required answer is H.",
           "examTags": [
             "IBPS PO",
+            "IBPS CLERK",
             "SBI PO",
-            "IBPS Clerk"
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
           ]
         },
         {
-          "questionText": "Puzzles — Floor-based Practice Q20: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "Eight persons G, F, A, B, C, H, D, E live on eight different floors of an 8-storey building. The ground floor is numbered 1, the floor above it is 2, and so on up to the topmost floor numbered 8.\n- G lives on Floor 1.\n- E lives on the topmost floor.\n- The floor distribution from bottom to top (Floor 1 to 8) is: G, F, A, B, C, H, D, E.\nOn which floor does F live?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Floor 3",
+            "Floor 5",
+            "Floor 2",
+            "Floor 4"
           ],
-          "correctIndex": 0,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Puzzles — Floor-based. Work through the problem step by step using the shortcuts taught in this topic.",
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "hint": "Remember standard building numbering: Ground/Lowest floor is 1, and Top floor has the highest number.",
+          "explanation": "Matching each person with their respective floor level: Floor 1: G, Floor 2: F, Floor 3: A, Floor 4: B, Floor 5: C, Floor 6: H, Floor 7: D, Floor 8: E. Thus, F lives on Floor 2.",
+          "solutionSteps": "Step 1: Write down numbers 1 to 8 vertically from bottom to top.\nStep 2: Assign individuals to their confirmed floor positions.\nStep 3: Conclude that the required answer is Floor 2.",
           "examTags": [
             "IBPS PO",
+            "IBPS CLERK",
             "SBI PO",
-            "IBPS Clerk"
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
+          ]
+        },
+        {
+          "questionText": "Eight friends live on separate floors of an eight-storey building (numbered 1 to 8 from bottom to top). Floor allocation from Floor 1 upwards is B, G, H, F, E, D, A, C. Who lives on the topmost floor (Floor 8)?",
+          "options": [
+            "G",
+            "H",
+            "C",
+            "B"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "hint": "Remember standard building numbering: Ground/Lowest floor is 1, and Top floor has the highest number.",
+          "explanation": "The topmost floor is Floor 8. According to the vertical layout B -> G -> H -> F -> E -> D -> A -> C, C lives on Floor 8.",
+          "solutionSteps": "Step 1: Write down numbers 1 to 8 vertically from bottom to top.\nStep 2: Assign individuals to their confirmed floor positions.\nStep 3: Conclude that the required answer is C.",
+          "examTags": [
+            "IBPS PO",
+            "IBPS CLERK",
+            "SBI PO",
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
+          ]
+        },
+        {
+          "questionText": "Eight persons G, H, A, E, F, C, B, D live on eight different floors of an 8-storey building. The ground floor is numbered 1, the floor above it is 2, and so on up to the topmost floor numbered 8.\n- G lives on Floor 1.\n- D lives on the topmost floor.\n- The floor distribution from bottom to top (Floor 1 to 8) is: G, H, A, E, F, C, B, D.\nOn which floor does F live?",
+          "options": [
+            "Floor 5",
+            "Floor 7",
+            "Floor 6",
+            "Floor 8"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "hint": "Remember standard building numbering: Ground/Lowest floor is 1, and Top floor has the highest number.",
+          "explanation": "Matching each person with their respective floor level: Floor 1: G, Floor 2: H, Floor 3: A, Floor 4: E, Floor 5: F, Floor 6: C, Floor 7: B, Floor 8: D. Thus, F lives on Floor 5.",
+          "solutionSteps": "Step 1: Write down numbers 1 to 8 vertically from bottom to top.\nStep 2: Assign individuals to their confirmed floor positions.\nStep 3: Conclude that the required answer is Floor 5.",
+          "examTags": [
+            "IBPS PO",
+            "IBPS CLERK",
+            "SBI PO",
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
+          ]
+        },
+        {
+          "questionText": "Eight friends live on separate floors of an eight-storey building (numbered 1 to 8 from bottom to top). Floor allocation from Floor 1 upwards is C, G, D, A, B, E, F, H. Who lives on the topmost floor (Floor 8)?",
+          "options": [
+            "H",
+            "C",
+            "G",
+            "D"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "hint": "Remember standard building numbering: Ground/Lowest floor is 1, and Top floor has the highest number.",
+          "explanation": "The topmost floor is Floor 8. According to the vertical layout C -> G -> D -> A -> B -> E -> F -> H, H lives on Floor 8.",
+          "solutionSteps": "Step 1: Write down numbers 1 to 8 vertically from bottom to top.\nStep 2: Assign individuals to their confirmed floor positions.\nStep 3: Conclude that the required answer is H.",
+          "examTags": [
+            "IBPS PO",
+            "IBPS CLERK",
+            "SBI PO",
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
+          ]
+        },
+        {
+          "questionText": "Eight persons H, C, A, D, F, G, B, E live on eight different floors of an 8-storey building. The ground floor is numbered 1, the floor above it is 2, and so on up to the topmost floor numbered 8.\n- H lives on Floor 1.\n- E lives on the topmost floor.\n- The floor distribution from bottom to top (Floor 1 to 8) is: H, C, A, D, F, G, B, E.\nOn which floor does E live?",
+          "options": [
+            "Floor 1",
+            "Floor 2",
+            "Floor 8",
+            "Floor 3"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "hint": "Remember standard building numbering: Ground/Lowest floor is 1, and Top floor has the highest number.",
+          "explanation": "Matching each person with their respective floor level: Floor 1: H, Floor 2: C, Floor 3: A, Floor 4: D, Floor 5: F, Floor 6: G, Floor 7: B, Floor 8: E. Thus, E lives on Floor 8.",
+          "solutionSteps": "Step 1: Write down numbers 1 to 8 vertically from bottom to top.\nStep 2: Assign individuals to their confirmed floor positions.\nStep 3: Conclude that the required answer is Floor 8.",
+          "examTags": [
+            "IBPS PO",
+            "IBPS CLERK",
+            "SBI PO",
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
+          ]
+        },
+        {
+          "questionText": "Eight friends live on separate floors of an eight-storey building (numbered 1 to 8 from bottom to top). Floor allocation from Floor 1 upwards is F, D, A, C, G, B, H, E. Who lives on the topmost floor (Floor 8)?",
+          "options": [
+            "E",
+            "D",
+            "F",
+            "A"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "hint": "Remember standard building numbering: Ground/Lowest floor is 1, and Top floor has the highest number.",
+          "explanation": "The topmost floor is Floor 8. According to the vertical layout F -> D -> A -> C -> G -> B -> H -> E, E lives on Floor 8.",
+          "solutionSteps": "Step 1: Write down numbers 1 to 8 vertically from bottom to top.\nStep 2: Assign individuals to their confirmed floor positions.\nStep 3: Conclude that the required answer is E.",
+          "examTags": [
+            "IBPS PO",
+            "IBPS CLERK",
+            "SBI PO",
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
+          ]
+        },
+        {
+          "questionText": "Eight persons F, B, E, A, G, H, C, D live on eight different floors of an 8-storey building. The ground floor is numbered 1, the floor above it is 2, and so on up to the topmost floor numbered 8.\n- F lives on Floor 1.\n- D lives on the topmost floor.\n- The floor distribution from bottom to top (Floor 1 to 8) is: F, B, E, A, G, H, C, D.\nOn which floor does E live?",
+          "options": [
+            "Floor 3",
+            "Floor 6",
+            "Floor 5",
+            "Floor 4"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "hint": "Remember standard building numbering: Ground/Lowest floor is 1, and Top floor has the highest number.",
+          "explanation": "Matching each person with their respective floor level: Floor 1: F, Floor 2: B, Floor 3: E, Floor 4: A, Floor 5: G, Floor 6: H, Floor 7: C, Floor 8: D. Thus, E lives on Floor 3.",
+          "solutionSteps": "Step 1: Write down numbers 1 to 8 vertically from bottom to top.\nStep 2: Assign individuals to their confirmed floor positions.\nStep 3: Conclude that the required answer is Floor 3.",
+          "examTags": [
+            "IBPS PO",
+            "IBPS CLERK",
+            "SBI PO",
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
+          ]
+        },
+        {
+          "questionText": "Eight friends live on separate floors of an eight-storey building (numbered 1 to 8 from bottom to top). Floor allocation from Floor 1 upwards is D, F, H, A, E, G, C, B. Who lives on the topmost floor (Floor 8)?",
+          "options": [
+            "H",
+            "F",
+            "B",
+            "D"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "hint": "Remember standard building numbering: Ground/Lowest floor is 1, and Top floor has the highest number.",
+          "explanation": "The topmost floor is Floor 8. According to the vertical layout D -> F -> H -> A -> E -> G -> C -> B, B lives on Floor 8.",
+          "solutionSteps": "Step 1: Write down numbers 1 to 8 vertically from bottom to top.\nStep 2: Assign individuals to their confirmed floor positions.\nStep 3: Conclude that the required answer is B.",
+          "examTags": [
+            "IBPS PO",
+            "IBPS CLERK",
+            "SBI PO",
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
           ]
         }
       ]

@@ -2,6 +2,7 @@
 
 import React, { useState, useEffect } from "react";
 import { useTheme } from "@/lib/theme/ThemeProvider";
+import { useUserSettings } from "@/lib/settings/SettingsProvider";
 import { StorageService } from "@/lib/persistence/StorageService";
 import { UserSettings } from "@/types/models";
 import { Breadcrumb } from "@/components/ui/Breadcrumb";
@@ -21,17 +22,12 @@ import {
 
 export default function SettingsPage() {
   const { mode, setThemeMode } = useTheme();
-  const [settings, setSettings] = useState<UserSettings>(StorageService.getSettings());
+  const { settings, updateSetting } = useUserSettings();
   const [confirmAction, setConfirmAction] = useState<"progress" | "bookmarks" | "all" | null>(null);
   const [toastMessage, setToastMessage] = useState<string | null>(null);
 
-  useEffect(() => {
-    setSettings(StorageService.getSettings());
-  }, []);
-
   const handleUpdateSetting = <K extends keyof UserSettings>(key: K, value: UserSettings[K]) => {
-    const updated = StorageService.saveSettings({ [key]: value });
-    setSettings(updated);
+    updateSetting(key, value);
     showToast("Preferences updated.");
   };
 

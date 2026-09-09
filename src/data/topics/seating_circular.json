@@ -49,343 +49,477 @@
       ],
       "practiceQuestions": [
         {
-          "questionText": "Seating Arrangement — Circular Practice Q1: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "Eight persons E, C, F, D, B, G, H, A are sitting around a circular table facing the centre in clockwise order:\nE -> C -> F -> D -> B -> G -> H -> A -> (back to E).\nWho is sitting diametrically opposite to E?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Seating Arrangement — Circular. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "IBPS Clerk"
-          ]
-        },
-        {
-          "questionText": "Seating Arrangement — Circular Practice Q2: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "E",
+            "G",
+            "B",
+            "A"
           ],
           "correctIndex": 2,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Seating Arrangement — Circular. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Facing centre: Left = Clockwise, Right = Anti-Clockwise. Opposite in an 8-person circle = 4 positions away.",
+          "explanation": "In a circular arrangement of 8 persons, the person sitting diametrically opposite is exactly 4 positions away. Counting 4 places from E gives B.",
+          "solutionSteps": "Step 1: Note orientation: All persons face the centre.\nStep 2: Apply the rotational rule (Left = Clockwise, Right = Anti-Clockwise).\nStep 3: Count the specified displacement from E to reach B.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "IBPS Clerk"
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Seating Arrangement — Circular Practice Q3: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "Eight persons C, E, H, D, B, F, G, A are sitting around a circular table facing the centre in clockwise order:\nC -> E -> H -> D -> B -> F -> G -> A -> (back to C).\nWho is sitting diametrically opposite to D?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Seating Arrangement — Circular. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "IBPS Clerk"
-          ]
-        },
-        {
-          "questionText": "Seating Arrangement — Circular Practice Q4: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "A",
+            "H",
+            "D",
+            "G"
           ],
           "correctIndex": 0,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Seating Arrangement — Circular. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Facing centre: Left = Clockwise, Right = Anti-Clockwise. Opposite in an 8-person circle = 4 positions away.",
+          "explanation": "In a circular arrangement of 8 persons, the person sitting diametrically opposite is exactly 4 positions away. Counting 4 places from D gives A.",
+          "solutionSteps": "Step 1: Note orientation: All persons face the centre.\nStep 2: Apply the rotational rule (Left = Clockwise, Right = Anti-Clockwise).\nStep 3: Count the specified displacement from D to reach A.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "IBPS Clerk"
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Seating Arrangement — Circular Practice Q5: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "Eight persons A, E, D, H, G, F, C, B are sitting around a circular table facing the centre in clockwise order:\nA -> E -> D -> H -> G -> F -> C -> B -> (back to A).\nWho is sitting diametrically opposite to C?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Seating Arrangement — Circular. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "IBPS Clerk"
-          ]
-        },
-        {
-          "questionText": "Seating Arrangement — Circular Practice Q6: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "G",
+            "H",
+            "D",
+            "C"
           ],
           "correctIndex": 2,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Seating Arrangement — Circular. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Facing centre: Left = Clockwise, Right = Anti-Clockwise. Opposite in an 8-person circle = 4 positions away.",
+          "explanation": "In a circular arrangement of 8 persons, the person sitting diametrically opposite is exactly 4 positions away. Counting 4 places from C gives D.",
+          "solutionSteps": "Step 1: Note orientation: All persons face the centre.\nStep 2: Apply the rotational rule (Left = Clockwise, Right = Anti-Clockwise).\nStep 3: Count the specified displacement from C to reach D.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "IBPS Clerk"
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Seating Arrangement — Circular Practice Q7: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "Eight persons G, F, A, B, C, H, D, E are sitting around a circular table facing the centre in clockwise order:\nG -> F -> A -> B -> C -> H -> D -> E -> (back to G).\nWho is sitting diametrically opposite to F?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "D",
+            "H",
+            "F",
+            "A"
+          ],
+          "correctIndex": 1,
+          "difficulty": "easy",
+          "hint": "Facing centre: Left = Clockwise, Right = Anti-Clockwise. Opposite in an 8-person circle = 4 positions away.",
+          "explanation": "In a circular arrangement of 8 persons, the person sitting diametrically opposite is exactly 4 positions away. Counting 4 places from F gives H.",
+          "solutionSteps": "Step 1: Note orientation: All persons face the centre.\nStep 2: Apply the rotational rule (Left = Clockwise, Right = Anti-Clockwise).\nStep 3: Count the specified displacement from F to reach H.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Eight persons G, H, A, E, F, C, B, D are sitting around a circular table facing the centre in clockwise order:\nG -> H -> A -> E -> F -> C -> B -> D -> (back to G).\nWho is sitting diametrically opposite to F?",
+          "options": [
+            "G",
+            "H",
+            "B",
+            "E"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "hint": "Facing centre: Left = Clockwise, Right = Anti-Clockwise. Opposite in an 8-person circle = 4 positions away.",
+          "explanation": "In a circular arrangement of 8 persons, the person sitting diametrically opposite is exactly 4 positions away. Counting 4 places from F gives G.",
+          "solutionSteps": "Step 1: Note orientation: All persons face the centre.\nStep 2: Apply the rotational rule (Left = Clockwise, Right = Anti-Clockwise).\nStep 3: Count the specified displacement from F to reach G.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Eight persons H, C, A, D, F, G, B, E are sitting around a circular table facing the centre in clockwise order:\nH -> C -> A -> D -> F -> G -> B -> E -> (back to H).\nWho is sitting diametrically opposite to E?",
+          "options": [
+            "G",
+            "B",
+            "C",
+            "D"
           ],
           "correctIndex": 3,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Seating Arrangement — Circular. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Facing centre: Left = Clockwise, Right = Anti-Clockwise. Opposite in an 8-person circle = 4 positions away.",
+          "explanation": "In a circular arrangement of 8 persons, the person sitting diametrically opposite is exactly 4 positions away. Counting 4 places from E gives D.",
+          "solutionSteps": "Step 1: Note orientation: All persons face the centre.\nStep 2: Apply the rotational rule (Left = Clockwise, Right = Anti-Clockwise).\nStep 3: Count the specified displacement from E to reach D.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "IBPS Clerk"
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Seating Arrangement — Circular Practice Q8: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "Eight friends are seated around a circular table facing the centre in clockwise order: D, G, H, B, E, C, A, F. Who is sitting to the immediate right of G?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Seating Arrangement — Circular. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "IBPS Clerk"
-          ]
-        },
-        {
-          "questionText": "Seating Arrangement — Circular Practice Q9: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Seating Arrangement — Circular. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "IBPS Clerk"
-          ]
-        },
-        {
-          "questionText": "Seating Arrangement — Circular Practice Q10: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "E",
+            "B",
+            "D",
+            "F"
           ],
           "correctIndex": 2,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Seating Arrangement — Circular. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Facing centre: Left = Clockwise, Right = Anti-Clockwise. Opposite in an 8-person circle = 4 positions away.",
+          "explanation": "When facing the centre of a circle, to the right means anti-clockwise along the circle. Moving one position anti-clockwise from G brings us to D.",
+          "solutionSteps": "Step 1: Note orientation: All persons face the centre.\nStep 2: Apply the rotational rule (Left = Clockwise, Right = Anti-Clockwise).\nStep 3: Count the specified displacement from G to reach D.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "IBPS Clerk"
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Seating Arrangement — Circular Practice Q11: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "Eight students are sitting around a circular table facing the centre in clockwise order: A, B, C, H, D, E, G, F. Who is sitting second to the left of C?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Seating Arrangement — Circular. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "IBPS Clerk"
-          ]
-        },
-        {
-          "questionText": "Seating Arrangement — Circular Practice Q12: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "D",
+            "H",
+            "C",
+            "B"
           ],
           "correctIndex": 0,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Seating Arrangement — Circular. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Facing centre: Left = Clockwise, Right = Anti-Clockwise. Opposite in an 8-person circle = 4 positions away.",
+          "explanation": "When facing the centre, moving to the left means moving in the clockwise direction. Counting 2 positions clockwise from C gives D.",
+          "solutionSteps": "Step 1: Note orientation: All persons face the centre.\nStep 2: Apply the rotational rule (Left = Clockwise, Right = Anti-Clockwise).\nStep 3: Count the specified displacement from C to reach D.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "IBPS Clerk"
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Seating Arrangement — Circular Practice Q13: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "Eight friends are seated around a circular table facing the centre in clockwise order: G, D, B, F, H, A, E, C. Who is sitting to the immediate right of H?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "F",
+            "B",
+            "G",
+            "E"
           ],
-          "correctIndex": 1,
+          "correctIndex": 0,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Seating Arrangement — Circular. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Facing centre: Left = Clockwise, Right = Anti-Clockwise. Opposite in an 8-person circle = 4 positions away.",
+          "explanation": "When facing the centre of a circle, to the right means anti-clockwise along the circle. Moving one position anti-clockwise from H brings us to F.",
+          "solutionSteps": "Step 1: Note orientation: All persons face the centre.\nStep 2: Apply the rotational rule (Left = Clockwise, Right = Anti-Clockwise).\nStep 3: Count the specified displacement from H to reach F.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "IBPS Clerk"
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Seating Arrangement — Circular Practice Q14: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "Eight students are sitting around a circular table facing the centre in clockwise order: C, F, A, G, B, H, D, E. Who is sitting second to the left of H?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "G",
+            "A",
+            "E",
+            "H"
           ],
           "correctIndex": 2,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Seating Arrangement — Circular. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Facing centre: Left = Clockwise, Right = Anti-Clockwise. Opposite in an 8-person circle = 4 positions away.",
+          "explanation": "When facing the centre, moving to the left means moving in the clockwise direction. Counting 2 positions clockwise from H gives E.",
+          "solutionSteps": "Step 1: Note orientation: All persons face the centre.\nStep 2: Apply the rotational rule (Left = Clockwise, Right = Anti-Clockwise).\nStep 3: Count the specified displacement from H to reach E.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "IBPS Clerk"
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Seating Arrangement — Circular Practice Q15: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "Eight friends are seated around a circular table facing the centre in clockwise order: C, E, G, F, D, A, B, H. Who is sitting to the immediate right of H?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "F",
+            "C",
+            "B",
+            "A"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "hint": "Facing centre: Left = Clockwise, Right = Anti-Clockwise. Opposite in an 8-person circle = 4 positions away.",
+          "explanation": "When facing the centre of a circle, to the right means anti-clockwise along the circle. Moving one position anti-clockwise from H brings us to B.",
+          "solutionSteps": "Step 1: Note orientation: All persons face the centre.\nStep 2: Apply the rotational rule (Left = Clockwise, Right = Anti-Clockwise).\nStep 3: Count the specified displacement from H to reach B.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Eight students are sitting around a circular table facing the centre in clockwise order: C, B, G, D, F, A, H, E. Who is sitting second to the left of C?",
+          "options": [
+            "B",
+            "A",
+            "H",
+            "G"
+          ],
+          "correctIndex": 3,
+          "difficulty": "medium",
+          "hint": "Facing centre: Left = Clockwise, Right = Anti-Clockwise. Opposite in an 8-person circle = 4 positions away.",
+          "explanation": "When facing the centre, moving to the left means moving in the clockwise direction. Counting 2 positions clockwise from C gives G.",
+          "solutionSteps": "Step 1: Note orientation: All persons face the centre.\nStep 2: Apply the rotational rule (Left = Clockwise, Right = Anti-Clockwise).\nStep 3: Count the specified displacement from C to reach G.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Eight friends are seated around a circular table facing the centre in clockwise order: B, G, H, F, E, D, A, C. Who is sitting to the immediate right of H?",
+          "options": [
+            "B",
+            "D",
+            "G",
+            "F"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "hint": "Facing centre: Left = Clockwise, Right = Anti-Clockwise. Opposite in an 8-person circle = 4 positions away.",
+          "explanation": "When facing the centre of a circle, to the right means anti-clockwise along the circle. Moving one position anti-clockwise from H brings us to G.",
+          "solutionSteps": "Step 1: Note orientation: All persons face the centre.\nStep 2: Apply the rotational rule (Left = Clockwise, Right = Anti-Clockwise).\nStep 3: Count the specified displacement from H to reach G.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Eight students are sitting around a circular table facing the centre in clockwise order: C, B, E, H, D, G, A, F. Who is sitting second to the left of H?",
+          "options": [
+            "E",
+            "B",
+            "D",
+            "G"
+          ],
+          "correctIndex": 3,
+          "difficulty": "medium",
+          "hint": "Facing centre: Left = Clockwise, Right = Anti-Clockwise. Opposite in an 8-person circle = 4 positions away.",
+          "explanation": "When facing the centre, moving to the left means moving in the clockwise direction. Counting 2 positions clockwise from H gives G.",
+          "solutionSteps": "Step 1: Note orientation: All persons face the centre.\nStep 2: Apply the rotational rule (Left = Clockwise, Right = Anti-Clockwise).\nStep 3: Count the specified displacement from H to reach G.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Eight people are seated around a circular table in clockwise order C, H, B, E, A, F, D, G.\nPeople at positions 1, 3, 5, 7 (C, B, A, D) face the CENTRE, while people at positions 2, 4, 6, 8 (H, E, F, G) face OUTSIDE.\nWho is sitting to the immediate right of H?",
+          "options": [
+            "A",
+            "D",
+            "F",
+            "B"
           ],
           "correctIndex": 3,
           "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Seating Arrangement — Circular. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "First determine whether the reference person faces inside or outside before applying the turn rule.",
+          "explanation": "H is at an even position and faces OUTSIDE. When facing outside, the right direction is clockwise along the circle. The person one step clockwise from H is B.",
+          "solutionSteps": "Step 1: Check the facing orientation of H: Outside.\nStep 2: Facing outside means Right = Clockwise.\nStep 3: Move one step clockwise from H to find B.",
           "examTags": [
             "IBPS PO",
+            "IBPS CLERK",
             "SBI PO",
-            "IBPS Clerk"
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
           ]
         },
         {
-          "questionText": "Seating Arrangement — Circular Practice Q16: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "Eight people are seated around a circular table in clockwise order A, B, D, G, H, F, E, C.\nPeople at positions 1, 3, 5, 7 (A, D, H, E) face the CENTRE, while people at positions 2, 4, 6, 8 (B, G, F, C) face OUTSIDE.\nWho is sitting to the immediate right of B?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Seating Arrangement — Circular. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "IBPS Clerk"
-          ]
-        },
-        {
-          "questionText": "Seating Arrangement — Circular Practice Q17: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "C",
+            "D",
+            "F",
+            "B"
           ],
           "correctIndex": 1,
           "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Seating Arrangement — Circular. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "First determine whether the reference person faces inside or outside before applying the turn rule.",
+          "explanation": "B is at an even position and faces OUTSIDE. When facing outside, the right direction is clockwise along the circle. The person one step clockwise from B is D.",
+          "solutionSteps": "Step 1: Check the facing orientation of B: Outside.\nStep 2: Facing outside means Right = Clockwise.\nStep 3: Move one step clockwise from B to find D.",
           "examTags": [
             "IBPS PO",
+            "IBPS CLERK",
             "SBI PO",
-            "IBPS Clerk"
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
           ]
         },
         {
-          "questionText": "Seating Arrangement — Circular Practice Q18: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "Eight people are seated around a circular table in clockwise order D, G, A, E, C, B, H, F.\nPeople at positions 1, 3, 5, 7 (D, A, C, H) face the CENTRE, while people at positions 2, 4, 6, 8 (G, E, B, F) face OUTSIDE.\nWho is sitting to the immediate right of G?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "D",
+            "B",
+            "A",
+            "E"
           ],
           "correctIndex": 2,
           "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Seating Arrangement — Circular. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "First determine whether the reference person faces inside or outside before applying the turn rule.",
+          "explanation": "G is at an even position and faces OUTSIDE. When facing outside, the right direction is clockwise along the circle. The person one step clockwise from G is A.",
+          "solutionSteps": "Step 1: Check the facing orientation of G: Outside.\nStep 2: Facing outside means Right = Clockwise.\nStep 3: Move one step clockwise from G to find A.",
           "examTags": [
             "IBPS PO",
+            "IBPS CLERK",
             "SBI PO",
-            "IBPS Clerk"
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
           ]
         },
         {
-          "questionText": "Seating Arrangement — Circular Practice Q19: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "Eight people are seated around a circular table in clockwise order C, D, G, F, H, B, A, E.\nPeople at positions 1, 3, 5, 7 (C, G, H, A) face the CENTRE, while people at positions 2, 4, 6, 8 (D, F, B, E) face OUTSIDE.\nWho is sitting to the immediate right of D?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "H",
+            "F",
+            "G",
+            "E"
           ],
-          "correctIndex": 3,
+          "correctIndex": 2,
           "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Seating Arrangement — Circular. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "First determine whether the reference person faces inside or outside before applying the turn rule.",
+          "explanation": "D is at an even position and faces OUTSIDE. When facing outside, the right direction is clockwise along the circle. The person one step clockwise from D is G.",
+          "solutionSteps": "Step 1: Check the facing orientation of D: Outside.\nStep 2: Facing outside means Right = Clockwise.\nStep 3: Move one step clockwise from D to find G.",
           "examTags": [
             "IBPS PO",
+            "IBPS CLERK",
             "SBI PO",
-            "IBPS Clerk"
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
           ]
         },
         {
-          "questionText": "Seating Arrangement — Circular Practice Q20: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "Eight people are seated around a circular table in clockwise order C, F, A, E, D, H, G, B.\nPeople at positions 1, 3, 5, 7 (C, A, D, G) face the CENTRE, while people at positions 2, 4, 6, 8 (F, E, H, B) face OUTSIDE.\nWho is sitting to the immediate right of F?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "F",
+            "D",
+            "A",
+            "C"
           ],
-          "correctIndex": 0,
+          "correctIndex": 2,
           "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Seating Arrangement — Circular. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "First determine whether the reference person faces inside or outside before applying the turn rule.",
+          "explanation": "F is at an even position and faces OUTSIDE. When facing outside, the right direction is clockwise along the circle. The person one step clockwise from F is A.",
+          "solutionSteps": "Step 1: Check the facing orientation of F: Outside.\nStep 2: Facing outside means Right = Clockwise.\nStep 3: Move one step clockwise from F to find A.",
           "examTags": [
             "IBPS PO",
+            "IBPS CLERK",
             "SBI PO",
-            "IBPS Clerk"
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
+          ]
+        },
+        {
+          "questionText": "Eight people are seated around a circular table in clockwise order G, A, D, C, F, H, B, E.\nPeople at positions 1, 3, 5, 7 (G, D, F, B) face the CENTRE, while people at positions 2, 4, 6, 8 (A, C, H, E) face OUTSIDE.\nWho is sitting to the immediate right of A?",
+          "options": [
+            "C",
+            "G",
+            "D",
+            "F"
+          ],
+          "correctIndex": 2,
+          "difficulty": "hard",
+          "hint": "First determine whether the reference person faces inside or outside before applying the turn rule.",
+          "explanation": "A is at an even position and faces OUTSIDE. When facing outside, the right direction is clockwise along the circle. The person one step clockwise from A is D.",
+          "solutionSteps": "Step 1: Check the facing orientation of A: Outside.\nStep 2: Facing outside means Right = Clockwise.\nStep 3: Move one step clockwise from A to find D.",
+          "examTags": [
+            "IBPS PO",
+            "IBPS CLERK",
+            "SBI PO",
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
           ]
         }
       ]

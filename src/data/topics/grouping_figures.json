@@ -49,343 +49,463 @@
       ],
       "practiceQuestions": [
         {
-          "questionText": "Grouping of Identical Figures Practice Q1: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "Group the given nine figures into three classes based on common characteristics:\n\n9 figures are given: 1, 2, 3 are rectilinear polygons (Triangle, Square, Pentagon); 4, 5, 6 are curved closed shapes (Circle, Ellipse, Oval); 7, 8, 9 are intersecting crossed lines.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Grouping of Identical Figures. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Grouping of Identical Figures Practice Q2: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 2,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Grouping of Identical Figures. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Grouping of Identical Figures Practice Q3: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Grouping of Identical Figures. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Grouping of Identical Figures Practice Q4: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Grouping of Identical Figures. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Grouping of Identical Figures Practice Q5: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Grouping of Identical Figures. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Grouping of Identical Figures Practice Q6: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 2,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Grouping of Identical Figures. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Grouping of Identical Figures Practice Q7: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Grouping of Identical Figures. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Grouping of Identical Figures Practice Q8: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Grouping of Identical Figures. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Grouping of Identical Figures Practice Q9: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Grouping of Identical Figures. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Grouping of Identical Figures Practice Q10: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "(1, 3, 7), (2, 5, 9), (4, 6, 8)",
+            "(1, 2, 4), (3, 5, 7), (6, 8, 9)",
+            "(1, 2, 3), (4, 5, 6), (7, 8, 9)",
+            "(1, 6, 8), (2, 4, 7), (3, 5, 9)"
           ],
           "correctIndex": 2,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Grouping of Identical Figures. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Find the 3 distinct defining characteristics that can partition the 9 figures into 3 equal sets of 3.",
+          "explanation": "Figures 1, 2, 3 form a group of straight-line polygons. Figures 4, 5, 6 form a group of curved closed figures. Figures 7, 8, 9 form a group of open intersecting line pairs.",
+          "solutionSteps": "Step 1: Identify recurring visual properties (e.g. line type, nesting, shading).\nStep 2: Form candidate triplets that share the exact same property.\nStep 3: Ensure all 9 figures are exhausted without overlap to get (1, 2, 3), (4, 5, 6), (7, 8, 9).",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         },
         {
-          "questionText": "Grouping of Identical Figures Practice Q11: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "Group the given nine figures into three classes based on common characteristics:\n\n9 figures: 1, 4, 7 each have one figure enclosed inside another identical figure; 2, 5, 8 each have two figures bisected by a line; 3, 6, 9 each have three concentric shapes.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "(1, 6, 8), (2, 4, 7), (3, 5, 9)",
+            "(1, 3, 7), (2, 5, 9), (4, 6, 8)",
+            "(1, 2, 4), (3, 5, 7), (6, 8, 9)",
+            "(1, 4, 7), (2, 5, 8), (3, 6, 9)"
           ],
           "correctIndex": 3,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Grouping of Identical Figures. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Find the 3 distinct defining characteristics that can partition the 9 figures into 3 equal sets of 3.",
+          "explanation": "Group (1, 4, 7) share the attribute of a shape nested inside an identical shape. Group (2, 5, 8) are divided into equal halves by a bisector. Group (3, 6, 9) have concentric nested structures.",
+          "solutionSteps": "Step 1: Identify recurring visual properties (e.g. line type, nesting, shading).\nStep 2: Form candidate triplets that share the exact same property.\nStep 3: Ensure all 9 figures are exhausted without overlap to get (1, 4, 7), (2, 5, 8), (3, 6, 9).",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         },
         {
-          "questionText": "Grouping of Identical Figures Practice Q12: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "Group the given nine figures into three classes based on common characteristics:\n\n9 figures: 1, 5, 9 are completely shaded; 2, 6, 7 are half-shaded (bicolor); 3, 4, 8 are completely unshaded (open outlines).",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Grouping of Identical Figures. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Grouping of Identical Figures Practice Q13: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Grouping of Identical Figures. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Grouping of Identical Figures Practice Q14: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "(1, 2, 4), (3, 5, 7), (6, 8, 9)",
+            "(1, 3, 7), (2, 5, 9), (4, 6, 8)",
+            "(1, 5, 9), (2, 6, 7), (3, 4, 8)",
+            "(1, 6, 8), (2, 4, 7), (3, 5, 9)"
           ],
           "correctIndex": 2,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Grouping of Identical Figures. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Find the 3 distinct defining characteristics that can partition the 9 figures into 3 equal sets of 3.",
+          "explanation": "Classification by shading density: Group (1, 5, 9) are fully solid shaded. Group (2, 6, 7) are 50% half-shaded. Group (3, 4, 8) have 0% shading.",
+          "solutionSteps": "Step 1: Identify recurring visual properties (e.g. line type, nesting, shading).\nStep 2: Form candidate triplets that share the exact same property.\nStep 3: Ensure all 9 figures are exhausted without overlap to get (1, 5, 9), (2, 6, 7), (3, 4, 8).",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         },
         {
-          "questionText": "Grouping of Identical Figures Practice Q15: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "Group the given nine figures into three classes based on common characteristics:\n\n9 figures are given: 1, 2, 3 are rectilinear polygons (Triangle, Square, Pentagon); 4, 5, 6 are curved closed shapes (Circle, Ellipse, Oval); 7, 8, 9 are intersecting crossed lines.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Grouping of Identical Figures. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Grouping of Identical Figures Practice Q16: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Grouping of Identical Figures. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Grouping of Identical Figures Practice Q17: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "(1, 3, 7), (2, 5, 9), (4, 6, 8)",
+            "(1, 2, 3), (4, 5, 6), (7, 8, 9)",
+            "(1, 6, 8), (2, 4, 7), (3, 5, 9)",
+            "(1, 2, 4), (3, 5, 7), (6, 8, 9)"
           ],
           "correctIndex": 1,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Grouping of Identical Figures. Work through the problem step by step using the shortcuts taught in this topic.",
+          "difficulty": "medium",
+          "hint": "Find the 3 distinct defining characteristics that can partition the 9 figures into 3 equal sets of 3.",
+          "explanation": "Figures 1, 2, 3 form a group of straight-line polygons. Figures 4, 5, 6 form a group of curved closed figures. Figures 7, 8, 9 form a group of open intersecting line pairs.",
+          "solutionSteps": "Step 1: Identify recurring visual properties (e.g. line type, nesting, shading).\nStep 2: Form candidate triplets that share the exact same property.\nStep 3: Ensure all 9 figures are exhausted without overlap to get (1, 2, 3), (4, 5, 6), (7, 8, 9).",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         },
         {
-          "questionText": "Grouping of Identical Figures Practice Q18: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "Group the given nine figures into three classes based on common characteristics:\n\n9 figures: 1, 4, 7 each have one figure enclosed inside another identical figure; 2, 5, 8 each have two figures bisected by a line; 3, 6, 9 each have three concentric shapes.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 2,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Grouping of Identical Figures. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Grouping of Identical Figures Practice Q19: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Grouping of Identical Figures. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Grouping of Identical Figures Practice Q20: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "(1, 4, 7), (2, 5, 8), (3, 6, 9)",
+            "(1, 3, 7), (2, 5, 9), (4, 6, 8)",
+            "(1, 6, 8), (2, 4, 7), (3, 5, 9)",
+            "(1, 2, 4), (3, 5, 7), (6, 8, 9)"
           ],
           "correctIndex": 0,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Grouping of Identical Figures. Work through the problem step by step using the shortcuts taught in this topic.",
+          "difficulty": "medium",
+          "hint": "Find the 3 distinct defining characteristics that can partition the 9 figures into 3 equal sets of 3.",
+          "explanation": "Group (1, 4, 7) share the attribute of a shape nested inside an identical shape. Group (2, 5, 8) are divided into equal halves by a bisector. Group (3, 6, 9) have concentric nested structures.",
+          "solutionSteps": "Step 1: Identify recurring visual properties (e.g. line type, nesting, shading).\nStep 2: Form candidate triplets that share the exact same property.\nStep 3: Ensure all 9 figures are exhausted without overlap to get (1, 4, 7), (2, 5, 8), (3, 6, 9).",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
+          ]
+        },
+        {
+          "questionText": "Group the given nine figures into three classes based on common characteristics:\n\n9 figures: 1, 5, 9 are completely shaded; 2, 6, 7 are half-shaded (bicolor); 3, 4, 8 are completely unshaded (open outlines).",
+          "options": [
+            "(1, 3, 7), (2, 5, 9), (4, 6, 8)",
+            "(1, 6, 8), (2, 4, 7), (3, 5, 9)",
+            "(1, 5, 9), (2, 6, 7), (3, 4, 8)",
+            "(1, 2, 4), (3, 5, 7), (6, 8, 9)"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "hint": "Find the 3 distinct defining characteristics that can partition the 9 figures into 3 equal sets of 3.",
+          "explanation": "Classification by shading density: Group (1, 5, 9) are fully solid shaded. Group (2, 6, 7) are 50% half-shaded. Group (3, 4, 8) have 0% shading.",
+          "solutionSteps": "Step 1: Identify recurring visual properties (e.g. line type, nesting, shading).\nStep 2: Form candidate triplets that share the exact same property.\nStep 3: Ensure all 9 figures are exhausted without overlap to get (1, 5, 9), (2, 6, 7), (3, 4, 8).",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
+          ]
+        },
+        {
+          "questionText": "Group the given nine figures into three classes based on common characteristics:\n\n9 figures are given: 1, 2, 3 are rectilinear polygons (Triangle, Square, Pentagon); 4, 5, 6 are curved closed shapes (Circle, Ellipse, Oval); 7, 8, 9 are intersecting crossed lines.",
+          "options": [
+            "(1, 2, 3), (4, 5, 6), (7, 8, 9)",
+            "(1, 6, 8), (2, 4, 7), (3, 5, 9)",
+            "(1, 2, 4), (3, 5, 7), (6, 8, 9)",
+            "(1, 3, 7), (2, 5, 9), (4, 6, 8)"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "hint": "Find the 3 distinct defining characteristics that can partition the 9 figures into 3 equal sets of 3.",
+          "explanation": "Figures 1, 2, 3 form a group of straight-line polygons. Figures 4, 5, 6 form a group of curved closed figures. Figures 7, 8, 9 form a group of open intersecting line pairs.",
+          "solutionSteps": "Step 1: Identify recurring visual properties (e.g. line type, nesting, shading).\nStep 2: Form candidate triplets that share the exact same property.\nStep 3: Ensure all 9 figures are exhausted without overlap to get (1, 2, 3), (4, 5, 6), (7, 8, 9).",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
+          ]
+        },
+        {
+          "questionText": "Group the given nine figures into three classes based on common characteristics:\n\n9 figures: 1, 4, 7 each have one figure enclosed inside another identical figure; 2, 5, 8 each have two figures bisected by a line; 3, 6, 9 each have three concentric shapes.",
+          "options": [
+            "(1, 3, 7), (2, 5, 9), (4, 6, 8)",
+            "(1, 4, 7), (2, 5, 8), (3, 6, 9)",
+            "(1, 2, 4), (3, 5, 7), (6, 8, 9)",
+            "(1, 6, 8), (2, 4, 7), (3, 5, 9)"
+          ],
+          "correctIndex": 1,
+          "difficulty": "medium",
+          "hint": "Find the 3 distinct defining characteristics that can partition the 9 figures into 3 equal sets of 3.",
+          "explanation": "Group (1, 4, 7) share the attribute of a shape nested inside an identical shape. Group (2, 5, 8) are divided into equal halves by a bisector. Group (3, 6, 9) have concentric nested structures.",
+          "solutionSteps": "Step 1: Identify recurring visual properties (e.g. line type, nesting, shading).\nStep 2: Form candidate triplets that share the exact same property.\nStep 3: Ensure all 9 figures are exhausted without overlap to get (1, 4, 7), (2, 5, 8), (3, 6, 9).",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
+          ]
+        },
+        {
+          "questionText": "Group the given nine figures into three classes based on common characteristics:\n\n9 figures: 1, 5, 9 are completely shaded; 2, 6, 7 are half-shaded (bicolor); 3, 4, 8 are completely unshaded (open outlines).",
+          "options": [
+            "(1, 3, 7), (2, 5, 9), (4, 6, 8)",
+            "(1, 6, 8), (2, 4, 7), (3, 5, 9)",
+            "(1, 5, 9), (2, 6, 7), (3, 4, 8)",
+            "(1, 2, 4), (3, 5, 7), (6, 8, 9)"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "hint": "Find the 3 distinct defining characteristics that can partition the 9 figures into 3 equal sets of 3.",
+          "explanation": "Classification by shading density: Group (1, 5, 9) are fully solid shaded. Group (2, 6, 7) are 50% half-shaded. Group (3, 4, 8) have 0% shading.",
+          "solutionSteps": "Step 1: Identify recurring visual properties (e.g. line type, nesting, shading).\nStep 2: Form candidate triplets that share the exact same property.\nStep 3: Ensure all 9 figures are exhausted without overlap to get (1, 5, 9), (2, 6, 7), (3, 4, 8).",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
+          ]
+        },
+        {
+          "questionText": "Group the given nine figures into three classes based on common characteristics:\n\n9 figures are given: 1, 2, 3 are rectilinear polygons (Triangle, Square, Pentagon); 4, 5, 6 are curved closed shapes (Circle, Ellipse, Oval); 7, 8, 9 are intersecting crossed lines.",
+          "options": [
+            "(1, 3, 7), (2, 5, 9), (4, 6, 8)",
+            "(1, 6, 8), (2, 4, 7), (3, 5, 9)",
+            "(1, 2, 4), (3, 5, 7), (6, 8, 9)",
+            "(1, 2, 3), (4, 5, 6), (7, 8, 9)"
+          ],
+          "correctIndex": 3,
+          "difficulty": "medium",
+          "hint": "Find the 3 distinct defining characteristics that can partition the 9 figures into 3 equal sets of 3.",
+          "explanation": "Figures 1, 2, 3 form a group of straight-line polygons. Figures 4, 5, 6 form a group of curved closed figures. Figures 7, 8, 9 form a group of open intersecting line pairs.",
+          "solutionSteps": "Step 1: Identify recurring visual properties (e.g. line type, nesting, shading).\nStep 2: Form candidate triplets that share the exact same property.\nStep 3: Ensure all 9 figures are exhausted without overlap to get (1, 2, 3), (4, 5, 6), (7, 8, 9).",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
+          ]
+        },
+        {
+          "questionText": "Group the given nine figures into three classes based on common characteristics:\n\n9 figures: 1, 4, 7 each have one figure enclosed inside another identical figure; 2, 5, 8 each have two figures bisected by a line; 3, 6, 9 each have three concentric shapes.",
+          "options": [
+            "(1, 6, 8), (2, 4, 7), (3, 5, 9)",
+            "(1, 3, 7), (2, 5, 9), (4, 6, 8)",
+            "(1, 2, 4), (3, 5, 7), (6, 8, 9)",
+            "(1, 4, 7), (2, 5, 8), (3, 6, 9)"
+          ],
+          "correctIndex": 3,
+          "difficulty": "medium",
+          "hint": "Find the 3 distinct defining characteristics that can partition the 9 figures into 3 equal sets of 3.",
+          "explanation": "Group (1, 4, 7) share the attribute of a shape nested inside an identical shape. Group (2, 5, 8) are divided into equal halves by a bisector. Group (3, 6, 9) have concentric nested structures.",
+          "solutionSteps": "Step 1: Identify recurring visual properties (e.g. line type, nesting, shading).\nStep 2: Form candidate triplets that share the exact same property.\nStep 3: Ensure all 9 figures are exhausted without overlap to get (1, 4, 7), (2, 5, 8), (3, 6, 9).",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
+          ]
+        },
+        {
+          "questionText": "Group the given nine figures into three classes based on common characteristics:\n\n9 figures: 1, 5, 9 are completely shaded; 2, 6, 7 are half-shaded (bicolor); 3, 4, 8 are completely unshaded (open outlines).",
+          "options": [
+            "(1, 2, 4), (3, 5, 7), (6, 8, 9)",
+            "(1, 6, 8), (2, 4, 7), (3, 5, 9)",
+            "(1, 3, 7), (2, 5, 9), (4, 6, 8)",
+            "(1, 5, 9), (2, 6, 7), (3, 4, 8)"
+          ],
+          "correctIndex": 3,
+          "difficulty": "medium",
+          "hint": "Find the 3 distinct defining characteristics that can partition the 9 figures into 3 equal sets of 3.",
+          "explanation": "Classification by shading density: Group (1, 5, 9) are fully solid shaded. Group (2, 6, 7) are 50% half-shaded. Group (3, 4, 8) have 0% shading.",
+          "solutionSteps": "Step 1: Identify recurring visual properties (e.g. line type, nesting, shading).\nStep 2: Form candidate triplets that share the exact same property.\nStep 3: Ensure all 9 figures are exhausted without overlap to get (1, 5, 9), (2, 6, 7), (3, 4, 8).",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
+          ]
+        },
+        {
+          "questionText": "Group the given nine figures into three classes based on common characteristics:\n\n9 figures are given: 1, 2, 3 are rectilinear polygons (Triangle, Square, Pentagon); 4, 5, 6 are curved closed shapes (Circle, Ellipse, Oval); 7, 8, 9 are intersecting crossed lines.",
+          "options": [
+            "(1, 2, 3), (4, 5, 6), (7, 8, 9)",
+            "(1, 2, 4), (3, 5, 7), (6, 8, 9)",
+            "(1, 3, 7), (2, 5, 9), (4, 6, 8)",
+            "(1, 6, 8), (2, 4, 7), (3, 5, 9)"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "hint": "Find the 3 distinct defining characteristics that can partition the 9 figures into 3 equal sets of 3.",
+          "explanation": "Figures 1, 2, 3 form a group of straight-line polygons. Figures 4, 5, 6 form a group of curved closed figures. Figures 7, 8, 9 form a group of open intersecting line pairs.",
+          "solutionSteps": "Step 1: Identify recurring visual properties (e.g. line type, nesting, shading).\nStep 2: Form candidate triplets that share the exact same property.\nStep 3: Ensure all 9 figures are exhausted without overlap to get (1, 2, 3), (4, 5, 6), (7, 8, 9).",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
+          ]
+        },
+        {
+          "questionText": "Group the given nine figures into three classes based on common characteristics:\n\n9 figures: 1, 4, 7 each have one figure enclosed inside another identical figure; 2, 5, 8 each have two figures bisected by a line; 3, 6, 9 each have three concentric shapes.",
+          "options": [
+            "(1, 6, 8), (2, 4, 7), (3, 5, 9)",
+            "(1, 3, 7), (2, 5, 9), (4, 6, 8)",
+            "(1, 2, 4), (3, 5, 7), (6, 8, 9)",
+            "(1, 4, 7), (2, 5, 8), (3, 6, 9)"
+          ],
+          "correctIndex": 3,
+          "difficulty": "medium",
+          "hint": "Find the 3 distinct defining characteristics that can partition the 9 figures into 3 equal sets of 3.",
+          "explanation": "Group (1, 4, 7) share the attribute of a shape nested inside an identical shape. Group (2, 5, 8) are divided into equal halves by a bisector. Group (3, 6, 9) have concentric nested structures.",
+          "solutionSteps": "Step 1: Identify recurring visual properties (e.g. line type, nesting, shading).\nStep 2: Form candidate triplets that share the exact same property.\nStep 3: Ensure all 9 figures are exhausted without overlap to get (1, 4, 7), (2, 5, 8), (3, 6, 9).",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
+          ]
+        },
+        {
+          "questionText": "Group the given nine figures into three classes based on common characteristics:\n\n9 figures: 1, 5, 9 are completely shaded; 2, 6, 7 are half-shaded (bicolor); 3, 4, 8 are completely unshaded (open outlines).",
+          "options": [
+            "(1, 3, 7), (2, 5, 9), (4, 6, 8)",
+            "(1, 5, 9), (2, 6, 7), (3, 4, 8)",
+            "(1, 6, 8), (2, 4, 7), (3, 5, 9)",
+            "(1, 2, 4), (3, 5, 7), (6, 8, 9)"
+          ],
+          "correctIndex": 1,
+          "difficulty": "medium",
+          "hint": "Find the 3 distinct defining characteristics that can partition the 9 figures into 3 equal sets of 3.",
+          "explanation": "Classification by shading density: Group (1, 5, 9) are fully solid shaded. Group (2, 6, 7) are 50% half-shaded. Group (3, 4, 8) have 0% shading.",
+          "solutionSteps": "Step 1: Identify recurring visual properties (e.g. line type, nesting, shading).\nStep 2: Form candidate triplets that share the exact same property.\nStep 3: Ensure all 9 figures are exhausted without overlap to get (1, 5, 9), (2, 6, 7), (3, 4, 8).",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
+          ]
+        },
+        {
+          "questionText": "Group the given nine figures into three classes based on common characteristics:\n\n9 figures are given: 1, 2, 3 are rectilinear polygons (Triangle, Square, Pentagon); 4, 5, 6 are curved closed shapes (Circle, Ellipse, Oval); 7, 8, 9 are intersecting crossed lines.",
+          "options": [
+            "(1, 2, 3), (4, 5, 6), (7, 8, 9)",
+            "(1, 6, 8), (2, 4, 7), (3, 5, 9)",
+            "(1, 2, 4), (3, 5, 7), (6, 8, 9)",
+            "(1, 3, 7), (2, 5, 9), (4, 6, 8)"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "hint": "Find the 3 distinct defining characteristics that can partition the 9 figures into 3 equal sets of 3.",
+          "explanation": "Figures 1, 2, 3 form a group of straight-line polygons. Figures 4, 5, 6 form a group of curved closed figures. Figures 7, 8, 9 form a group of open intersecting line pairs.",
+          "solutionSteps": "Step 1: Identify recurring visual properties (e.g. line type, nesting, shading).\nStep 2: Form candidate triplets that share the exact same property.\nStep 3: Ensure all 9 figures are exhausted without overlap to get (1, 2, 3), (4, 5, 6), (7, 8, 9).",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
+          ]
+        },
+        {
+          "questionText": "Group the given nine figures into three classes based on common characteristics:\n\n9 figures: 1, 4, 7 each have one figure enclosed inside another identical figure; 2, 5, 8 each have two figures bisected by a line; 3, 6, 9 each have three concentric shapes.",
+          "options": [
+            "(1, 3, 7), (2, 5, 9), (4, 6, 8)",
+            "(1, 2, 4), (3, 5, 7), (6, 8, 9)",
+            "(1, 4, 7), (2, 5, 8), (3, 6, 9)",
+            "(1, 6, 8), (2, 4, 7), (3, 5, 9)"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "hint": "Find the 3 distinct defining characteristics that can partition the 9 figures into 3 equal sets of 3.",
+          "explanation": "Group (1, 4, 7) share the attribute of a shape nested inside an identical shape. Group (2, 5, 8) are divided into equal halves by a bisector. Group (3, 6, 9) have concentric nested structures.",
+          "solutionSteps": "Step 1: Identify recurring visual properties (e.g. line type, nesting, shading).\nStep 2: Form candidate triplets that share the exact same property.\nStep 3: Ensure all 9 figures are exhausted without overlap to get (1, 4, 7), (2, 5, 8), (3, 6, 9).",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
+          ]
+        },
+        {
+          "questionText": "Group the given nine figures into three classes based on common characteristics:\n\n9 figures: 1, 5, 9 are completely shaded; 2, 6, 7 are half-shaded (bicolor); 3, 4, 8 are completely unshaded (open outlines).",
+          "options": [
+            "(1, 6, 8), (2, 4, 7), (3, 5, 9)",
+            "(1, 5, 9), (2, 6, 7), (3, 4, 8)",
+            "(1, 3, 7), (2, 5, 9), (4, 6, 8)",
+            "(1, 2, 4), (3, 5, 7), (6, 8, 9)"
+          ],
+          "correctIndex": 1,
+          "difficulty": "medium",
+          "hint": "Find the 3 distinct defining characteristics that can partition the 9 figures into 3 equal sets of 3.",
+          "explanation": "Classification by shading density: Group (1, 5, 9) are fully solid shaded. Group (2, 6, 7) are 50% half-shaded. Group (3, 4, 8) have 0% shading.",
+          "solutionSteps": "Step 1: Identify recurring visual properties (e.g. line type, nesting, shading).\nStep 2: Form candidate triplets that share the exact same property.\nStep 3: Ensure all 9 figures are exhausted without overlap to get (1, 5, 9), (2, 6, 7), (3, 4, 8).",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
+          ]
+        },
+        {
+          "questionText": "Group the given nine figures into three classes based on common characteristics:\n\n9 figures are given: 1, 2, 3 are rectilinear polygons (Triangle, Square, Pentagon); 4, 5, 6 are curved closed shapes (Circle, Ellipse, Oval); 7, 8, 9 are intersecting crossed lines.",
+          "options": [
+            "(1, 3, 7), (2, 5, 9), (4, 6, 8)",
+            "(1, 2, 4), (3, 5, 7), (6, 8, 9)",
+            "(1, 2, 3), (4, 5, 6), (7, 8, 9)",
+            "(1, 6, 8), (2, 4, 7), (3, 5, 9)"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "hint": "Find the 3 distinct defining characteristics that can partition the 9 figures into 3 equal sets of 3.",
+          "explanation": "Figures 1, 2, 3 form a group of straight-line polygons. Figures 4, 5, 6 form a group of curved closed figures. Figures 7, 8, 9 form a group of open intersecting line pairs.",
+          "solutionSteps": "Step 1: Identify recurring visual properties (e.g. line type, nesting, shading).\nStep 2: Form candidate triplets that share the exact same property.\nStep 3: Ensure all 9 figures are exhausted without overlap to get (1, 2, 3), (4, 5, 6), (7, 8, 9).",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
+          ]
+        },
+        {
+          "questionText": "Group the given nine figures into three classes based on common characteristics:\n\n9 figures: 1, 4, 7 each have one figure enclosed inside another identical figure; 2, 5, 8 each have two figures bisected by a line; 3, 6, 9 each have three concentric shapes.",
+          "options": [
+            "(1, 6, 8), (2, 4, 7), (3, 5, 9)",
+            "(1, 2, 4), (3, 5, 7), (6, 8, 9)",
+            "(1, 4, 7), (2, 5, 8), (3, 6, 9)",
+            "(1, 3, 7), (2, 5, 9), (4, 6, 8)"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "hint": "Find the 3 distinct defining characteristics that can partition the 9 figures into 3 equal sets of 3.",
+          "explanation": "Group (1, 4, 7) share the attribute of a shape nested inside an identical shape. Group (2, 5, 8) are divided into equal halves by a bisector. Group (3, 6, 9) have concentric nested structures.",
+          "solutionSteps": "Step 1: Identify recurring visual properties (e.g. line type, nesting, shading).\nStep 2: Form candidate triplets that share the exact same property.\nStep 3: Ensure all 9 figures are exhausted without overlap to get (1, 4, 7), (2, 5, 8), (3, 6, 9).",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         }
       ]

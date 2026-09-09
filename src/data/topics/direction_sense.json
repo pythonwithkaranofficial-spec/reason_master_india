@@ -37,343 +37,463 @@
       ],
       "practiceQuestions": [
         {
-          "questionText": "Simple Direction Problems Practice Q1: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "Aman starts walking towards North and covers 3 km. Then Aman turns right and walks 2 km, and finally turns right and walks 2 km. In which direction is Aman walking now?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Simple Direction Problems. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "IBPS PO",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Simple Direction Problems Practice Q2: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 2,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Simple Direction Problems. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "IBPS PO",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Simple Direction Problems Practice Q3: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Simple Direction Problems. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "IBPS PO",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Simple Direction Problems Practice Q4: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "South",
+            "West",
+            "East",
+            "North"
           ],
           "correctIndex": 0,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Simple Direction Problems. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Trace each turn sequentially from the standard compass rose (NESW).",
+          "explanation": "A right turn from North is East, and another right turn leads to South. Therefore, Aman is finally walking towards South.",
+          "solutionSteps": "Step 1: Start facing North.\nStep 2: First turn (turns right) sets the intermediate direction.\nStep 3: Final turn (turns right) leads to facing South.",
           "examTags": [
             "SSC CGL",
-            "IBPS PO",
-            "RRB NTPC"
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         },
         {
-          "questionText": "Simple Direction Problems Practice Q5: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "Rohit starts walking towards North and covers 4 km. Then Rohit turns left and walks 3 km, and finally turns left and walks 3 km. In which direction is Rohit walking now?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "East",
+            "South",
+            "North",
+            "West"
           ],
           "correctIndex": 1,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Simple Direction Problems. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Trace each turn sequentially from the standard compass rose (NESW).",
+          "explanation": "Two consecutive left turns reverse the initial direction from North to South. Therefore, Rohit is finally walking towards South.",
+          "solutionSteps": "Step 1: Start facing North.\nStep 2: First turn (turns left) sets the intermediate direction.\nStep 3: Final turn (turns left) leads to facing South.",
           "examTags": [
             "SSC CGL",
-            "IBPS PO",
-            "RRB NTPC"
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         },
         {
-          "questionText": "Simple Direction Problems Practice Q6: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "Pooja starts walking towards North and covers 5 km. Then Pooja turns right and walks 4 km, and finally turns left and walks 4 km. In which direction is Pooja walking now?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "South",
+            "East",
+            "North",
+            "West"
           ],
           "correctIndex": 2,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Simple Direction Problems. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Trace each turn sequentially from the standard compass rose (NESW).",
+          "explanation": "A right turn followed by a left turn cancels out, keeping the original North direction. Therefore, Pooja is finally walking towards North.",
+          "solutionSteps": "Step 1: Start facing North.\nStep 2: First turn (turns right) sets the intermediate direction.\nStep 3: Final turn (turns left) leads to facing North.",
           "examTags": [
             "SSC CGL",
-            "IBPS PO",
-            "RRB NTPC"
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         },
         {
-          "questionText": "Simple Direction Problems Practice Q7: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "Sneha starts walking towards East and covers 6 km. Then Sneha turns right and walks 5 km, and finally turns right and walks 5 km. In which direction is Sneha walking now?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "West",
+            "North",
+            "East",
+            "South"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "hint": "Trace each turn sequentially from the standard compass rose (NESW).",
+          "explanation": "From East, turning right faces South; turning right again faces West. Therefore, Sneha is finally walking towards West.",
+          "solutionSteps": "Step 1: Start facing East.\nStep 2: First turn (turns right) sets the intermediate direction.\nStep 3: Final turn (turns right) leads to facing West.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
+          ]
+        },
+        {
+          "questionText": "Vikas starts walking towards East and covers 7 km. Then Vikas turns left and walks 6 km, and finally turns left and walks 2 km. In which direction is Vikas walking now?",
+          "options": [
+            "West",
+            "North",
+            "South",
+            "East"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "hint": "Trace each turn sequentially from the standard compass rose (NESW).",
+          "explanation": "Two successive left turns from East result in facing directly West. Therefore, Vikas is finally walking towards West.",
+          "solutionSteps": "Step 1: Start facing East.\nStep 2: First turn (turns left) sets the intermediate direction.\nStep 3: Final turn (turns left) leads to facing West.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
+          ]
+        },
+        {
+          "questionText": "Priya starts walking towards East and covers 8 km. Then Priya turns left and walks 2 km, and finally turns right and walks 3 km. In which direction is Priya walking now?",
+          "options": [
+            "South",
+            "East",
+            "North",
+            "West"
+          ],
+          "correctIndex": 1,
+          "difficulty": "easy",
+          "hint": "Trace each turn sequentially from the standard compass rose (NESW).",
+          "explanation": "Turning left and then right returns to the starting East direction. Therefore, Priya is finally walking towards East.",
+          "solutionSteps": "Step 1: Start facing East.\nStep 2: First turn (turns left) sets the intermediate direction.\nStep 3: Final turn (turns right) leads to facing East.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
+          ]
+        },
+        {
+          "questionText": "Kavita starts walking towards South and covers 3 km. Then Kavita turns right and walks 3 km, and finally turns right and walks 4 km. In which direction is Kavita walking now?",
+          "options": [
+            "East",
+            "North",
+            "West",
+            "South"
+          ],
+          "correctIndex": 1,
+          "difficulty": "easy",
+          "hint": "Trace each turn sequentially from the standard compass rose (NESW).",
+          "explanation": "From South, two right turns turn you 180 degrees to face North. Therefore, Kavita is finally walking towards North.",
+          "solutionSteps": "Step 1: Start facing South.\nStep 2: First turn (turns right) sets the intermediate direction.\nStep 3: Final turn (turns right) leads to facing North.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
+          ]
+        },
+        {
+          "questionText": "Deepak starts walking towards South and covers 4 km. Then Deepak turns left and walks 4 km, and finally turns left and walks 5 km. In which direction is Deepak walking now?",
+          "options": [
+            "West",
+            "South",
+            "East",
+            "North"
           ],
           "correctIndex": 3,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Simple Direction Problems. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Trace each turn sequentially from the standard compass rose (NESW).",
+          "explanation": "From South, two left turns invert the direction to North. Therefore, Deepak is finally walking towards North.",
+          "solutionSteps": "Step 1: Start facing South.\nStep 2: First turn (turns left) sets the intermediate direction.\nStep 3: Final turn (turns left) leads to facing North.",
           "examTags": [
             "SSC CGL",
-            "IBPS PO",
-            "RRB NTPC"
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         },
         {
-          "questionText": "Simple Direction Problems Practice Q8: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "Rahul starts walking towards South and covers 5 km. Then Rahul turns left and walks 5 km, and finally turns right and walks 2 km. In which direction is Rahul walking now?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Simple Direction Problems. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "IBPS PO",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Simple Direction Problems Practice Q9: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "West",
+            "South",
+            "North",
+            "East"
           ],
           "correctIndex": 1,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Simple Direction Problems. Work through the problem step by step using the shortcuts taught in this topic.",
+          "difficulty": "easy",
+          "hint": "Trace each turn sequentially from the standard compass rose (NESW).",
+          "explanation": "A left followed by a right preserves the South facing direction. Therefore, Rahul is finally walking towards South.",
+          "solutionSteps": "Step 1: Start facing South.\nStep 2: First turn (turns left) sets the intermediate direction.\nStep 3: Final turn (turns right) leads to facing South.",
           "examTags": [
             "SSC CGL",
-            "IBPS PO",
-            "RRB NTPC"
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         },
         {
-          "questionText": "Simple Direction Problems Practice Q10: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "Ananya starts walking towards West and covers 6 km. Then Ananya turns right and walks 6 km, and finally turns right and walks 3 km. In which direction is Ananya walking now?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 2,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Simple Direction Problems. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "IBPS PO",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Simple Direction Problems Practice Q11: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "South",
+            "West",
+            "North",
+            "East"
           ],
           "correctIndex": 3,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Simple Direction Problems. Work through the problem step by step using the shortcuts taught in this topic.",
+          "difficulty": "easy",
+          "hint": "Trace each turn sequentially from the standard compass rose (NESW).",
+          "explanation": "Two right turns from West face directly East. Therefore, Ananya is finally walking towards East.",
+          "solutionSteps": "Step 1: Start facing West.\nStep 2: First turn (turns right) sets the intermediate direction.\nStep 3: Final turn (turns right) leads to facing East.",
           "examTags": [
             "SSC CGL",
-            "IBPS PO",
-            "RRB NTPC"
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         },
         {
-          "questionText": "Simple Direction Problems Practice Q12: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "Suresh starts walking towards West and covers 7 km. Then Suresh turns left and walks 2 km, and finally turns left and walks 4 km. In which direction is Suresh walking now?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "East",
+            "West",
+            "North",
+            "South"
           ],
           "correctIndex": 0,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Simple Direction Problems. Work through the problem step by step using the shortcuts taught in this topic.",
+          "difficulty": "easy",
+          "hint": "Trace each turn sequentially from the standard compass rose (NESW).",
+          "explanation": "Two left turns from West face East. Therefore, Suresh is finally walking towards East.",
+          "solutionSteps": "Step 1: Start facing West.\nStep 2: First turn (turns left) sets the intermediate direction.\nStep 3: Final turn (turns left) leads to facing East.",
           "examTags": [
             "SSC CGL",
-            "IBPS PO",
-            "RRB NTPC"
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         },
         {
-          "questionText": "Simple Direction Problems Practice Q13: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "Meera starts walking towards West and covers 8 km. Then Meera turns right and walks 3 km, and finally turns left and walks 5 km. In which direction is Meera walking now?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "South",
+            "North",
+            "East",
+            "West"
+          ],
+          "correctIndex": 3,
+          "difficulty": "easy",
+          "hint": "Trace each turn sequentially from the standard compass rose (NESW).",
+          "explanation": "A right turn followed by a left turn leaves the person facing West. Therefore, Meera is finally walking towards West.",
+          "solutionSteps": "Step 1: Start facing West.\nStep 2: First turn (turns right) sets the intermediate direction.\nStep 3: Final turn (turns left) leads to facing West.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
+          ]
+        },
+        {
+          "questionText": "Gaurav starts walking towards North and covers 3 km. Then Gaurav turns right and walks 4 km, and finally turns right and walks 2 km. In which direction is Gaurav walking now?",
+          "options": [
+            "North",
+            "East",
+            "South",
+            "West"
+          ],
+          "correctIndex": 2,
+          "difficulty": "easy",
+          "hint": "Trace each turn sequentially from the standard compass rose (NESW).",
+          "explanation": "A right turn from North is East, and another right turn leads to South. Therefore, Gaurav is finally walking towards South.",
+          "solutionSteps": "Step 1: Start facing North.\nStep 2: First turn (turns right) sets the intermediate direction.\nStep 3: Final turn (turns right) leads to facing South.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
+          ]
+        },
+        {
+          "questionText": "Neha starts walking towards North and covers 4 km. Then Neha turns left and walks 5 km, and finally turns left and walks 3 km. In which direction is Neha walking now?",
+          "options": [
+            "North",
+            "South",
+            "East",
+            "West"
           ],
           "correctIndex": 1,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Simple Direction Problems. Work through the problem step by step using the shortcuts taught in this topic.",
+          "difficulty": "easy",
+          "hint": "Trace each turn sequentially from the standard compass rose (NESW).",
+          "explanation": "Two consecutive left turns reverse the initial direction from North to South. Therefore, Neha is finally walking towards South.",
+          "solutionSteps": "Step 1: Start facing North.\nStep 2: First turn (turns left) sets the intermediate direction.\nStep 3: Final turn (turns left) leads to facing South.",
           "examTags": [
             "SSC CGL",
-            "IBPS PO",
-            "RRB NTPC"
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         },
         {
-          "questionText": "Simple Direction Problems Practice Q14: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "Arjun starts walking towards North and covers 5 km. Then Arjun turns right and walks 6 km, and finally turns left and walks 4 km. In which direction is Arjun walking now?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "South",
+            "East",
+            "North",
+            "West"
           ],
           "correctIndex": 2,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Simple Direction Problems. Work through the problem step by step using the shortcuts taught in this topic.",
+          "difficulty": "easy",
+          "hint": "Trace each turn sequentially from the standard compass rose (NESW).",
+          "explanation": "A right turn followed by a left turn cancels out, keeping the original North direction. Therefore, Arjun is finally walking towards North.",
+          "solutionSteps": "Step 1: Start facing North.\nStep 2: First turn (turns right) sets the intermediate direction.\nStep 3: Final turn (turns left) leads to facing North.",
           "examTags": [
             "SSC CGL",
-            "IBPS PO",
-            "RRB NTPC"
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         },
         {
-          "questionText": "Simple Direction Problems Practice Q15: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "Divya starts walking towards East and covers 6 km. Then Divya turns right and walks 2 km, and finally turns right and walks 5 km. In which direction is Divya walking now?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "South",
+            "East",
+            "North",
+            "West"
           ],
           "correctIndex": 3,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Simple Direction Problems. Work through the problem step by step using the shortcuts taught in this topic.",
+          "difficulty": "easy",
+          "hint": "Trace each turn sequentially from the standard compass rose (NESW).",
+          "explanation": "From East, turning right faces South; turning right again faces West. Therefore, Divya is finally walking towards West.",
+          "solutionSteps": "Step 1: Start facing East.\nStep 2: First turn (turns right) sets the intermediate direction.\nStep 3: Final turn (turns right) leads to facing West.",
           "examTags": [
             "SSC CGL",
-            "IBPS PO",
-            "RRB NTPC"
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         },
         {
-          "questionText": "Simple Direction Problems Practice Q16: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "Manish starts walking towards East and covers 7 km. Then Manish turns left and walks 3 km, and finally turns left and walks 2 km. In which direction is Manish walking now?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "North",
+            "East",
+            "South",
+            "West"
+          ],
+          "correctIndex": 3,
+          "difficulty": "easy",
+          "hint": "Trace each turn sequentially from the standard compass rose (NESW).",
+          "explanation": "Two successive left turns from East result in facing directly West. Therefore, Manish is finally walking towards West.",
+          "solutionSteps": "Step 1: Start facing East.\nStep 2: First turn (turns left) sets the intermediate direction.\nStep 3: Final turn (turns left) leads to facing West.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
+          ]
+        },
+        {
+          "questionText": "Ritu starts walking towards East and covers 8 km. Then Ritu turns left and walks 4 km, and finally turns right and walks 3 km. In which direction is Ritu walking now?",
+          "options": [
+            "South",
+            "West",
+            "North",
+            "East"
+          ],
+          "correctIndex": 3,
+          "difficulty": "easy",
+          "hint": "Trace each turn sequentially from the standard compass rose (NESW).",
+          "explanation": "Turning left and then right returns to the starting East direction. Therefore, Ritu is finally walking towards East.",
+          "solutionSteps": "Step 1: Start facing East.\nStep 2: First turn (turns left) sets the intermediate direction.\nStep 3: Final turn (turns right) leads to facing East.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
+          ]
+        },
+        {
+          "questionText": "Karan starts walking towards South and covers 3 km. Then Karan turns right and walks 5 km, and finally turns right and walks 4 km. In which direction is Karan walking now?",
+          "options": [
+            "North",
+            "West",
+            "East",
+            "South"
           ],
           "correctIndex": 0,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Simple Direction Problems. Work through the problem step by step using the shortcuts taught in this topic.",
+          "difficulty": "easy",
+          "hint": "Trace each turn sequentially from the standard compass rose (NESW).",
+          "explanation": "From South, two right turns turn you 180 degrees to face North. Therefore, Karan is finally walking towards North.",
+          "solutionSteps": "Step 1: Start facing South.\nStep 2: First turn (turns right) sets the intermediate direction.\nStep 3: Final turn (turns right) leads to facing North.",
           "examTags": [
             "SSC CGL",
-            "IBPS PO",
-            "RRB NTPC"
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         },
         {
-          "questionText": "Simple Direction Problems Practice Q17: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "Sunita starts walking towards South and covers 4 km. Then Sunita turns left and walks 6 km, and finally turns left and walks 5 km. In which direction is Sunita walking now?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Simple Direction Problems. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "IBPS PO",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Simple Direction Problems Practice Q18: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "West",
+            "East",
+            "North",
+            "South"
           ],
           "correctIndex": 2,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Simple Direction Problems. Work through the problem step by step using the shortcuts taught in this topic.",
+          "difficulty": "easy",
+          "hint": "Trace each turn sequentially from the standard compass rose (NESW).",
+          "explanation": "From South, two left turns invert the direction to North. Therefore, Sunita is finally walking towards North.",
+          "solutionSteps": "Step 1: Start facing South.\nStep 2: First turn (turns left) sets the intermediate direction.\nStep 3: Final turn (turns left) leads to facing North.",
           "examTags": [
             "SSC CGL",
-            "IBPS PO",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Simple Direction Problems Practice Q19: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Simple Direction Problems. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "IBPS PO",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Simple Direction Problems Practice Q20: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Simple Direction Problems. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "IBPS PO",
-            "RRB NTPC"
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         }
       ]
@@ -409,343 +529,483 @@
       ],
       "practiceQuestions": [
         {
-          "questionText": "Shadow-based Direction Practice Q1: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "One morning after sunrise, Aman and Rohit were standing in a garden facing each other. If the shadow of Rohit fell exactly to the left of Aman, which direction was Aman facing?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Shadow-based Direction. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Shadow-based Direction Practice Q2: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 2,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Shadow-based Direction. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Shadow-based Direction Practice Q3: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Shadow-based Direction. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Shadow-based Direction Practice Q4: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Shadow-based Direction. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Shadow-based Direction Practice Q5: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Shadow-based Direction. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Shadow-based Direction Practice Q6: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 2,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Shadow-based Direction. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Shadow-based Direction Practice Q7: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Shadow-based Direction. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Shadow-based Direction Practice Q8: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "North",
+            "South",
+            "West",
+            "East"
           ],
           "correctIndex": 0,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Shadow-based Direction. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "In the morning, the Sun is in the East, so all shadows point towards the West.",
+          "explanation": "In the morning, the sun is in the East; hence, every object casts its shadow towards the West. For the shadow to fall to the left of Aman, Aman's left must be pointing West. When a person faces North, their left points to the West. Therefore, Aman was facing North.",
+          "solutionSteps": "Step 1: Time is morning (sunrise) -> Sun is in East -> All shadows fall towards West.\nStep 2: The shadow falls to the left of Aman -> Aman's left is West.\nStep 3: A person whose left is West must be facing North.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Shadow-based Direction Practice Q9: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "One morning after sunrise, Rohit and Pooja were standing in a garden facing each other. If the shadow of Pooja fell exactly to the right of Rohit, which direction was Rohit facing?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Shadow-based Direction. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Shadow-based Direction Practice Q10: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 2,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Shadow-based Direction. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Shadow-based Direction Practice Q11: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "East",
+            "North",
+            "West",
+            "South"
           ],
           "correctIndex": 3,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Shadow-based Direction. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "In the morning, the Sun is in the East, so all shadows point towards the West.",
+          "explanation": "In the morning, the sun is in the East; hence, every object casts its shadow towards the West. For the shadow to fall to the right of Rohit, Rohit's right must be pointing West. When a person faces South, their right points to the West. Therefore, Rohit was facing South.",
+          "solutionSteps": "Step 1: Time is morning (sunrise) -> Sun is in East -> All shadows fall towards West.\nStep 2: The shadow falls to the right of Rohit -> Rohit's right is West.\nStep 3: A person whose right is West must be facing South.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Shadow-based Direction Practice Q12: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "One morning after sunrise, Pooja and Sneha were standing in a garden facing each other. If the shadow of Sneha fell exactly to the left of Pooja, which direction was Pooja facing?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "North",
+            "West",
+            "South",
+            "East"
           ],
           "correctIndex": 0,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Shadow-based Direction. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "In the morning, the Sun is in the East, so all shadows point towards the West.",
+          "explanation": "In the morning, the sun is in the East; hence, every object casts its shadow towards the West. For the shadow to fall to the left of Pooja, Pooja's left must be pointing West. When a person faces North, their left points to the West. Therefore, Pooja was facing North.",
+          "solutionSteps": "Step 1: Time is morning (sunrise) -> Sun is in East -> All shadows fall towards West.\nStep 2: The shadow falls to the left of Pooja -> Pooja's left is West.\nStep 3: A person whose left is West must be facing North.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Shadow-based Direction Practice Q13: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "One morning after sunrise, Sneha and Vikas were standing in a garden facing each other. If the shadow of Vikas fell exactly to the right of Sneha, which direction was Sneha facing?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "North",
+            "East",
+            "West",
+            "South"
           ],
-          "correctIndex": 1,
+          "correctIndex": 3,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Shadow-based Direction. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "In the morning, the Sun is in the East, so all shadows point towards the West.",
+          "explanation": "In the morning, the sun is in the East; hence, every object casts its shadow towards the West. For the shadow to fall to the right of Sneha, Sneha's right must be pointing West. When a person faces South, their right points to the West. Therefore, Sneha was facing South.",
+          "solutionSteps": "Step 1: Time is morning (sunrise) -> Sun is in East -> All shadows fall towards West.\nStep 2: The shadow falls to the right of Sneha -> Sneha's right is West.\nStep 3: A person whose right is West must be facing South.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Shadow-based Direction Practice Q14: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "One morning after sunrise, Vikas and Priya were standing in a garden facing each other. If the shadow of Priya fell exactly to the left of Vikas, which direction was Vikas facing?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "West",
+            "South",
+            "North",
+            "East"
           ],
           "correctIndex": 2,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Shadow-based Direction. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "In the morning, the Sun is in the East, so all shadows point towards the West.",
+          "explanation": "In the morning, the sun is in the East; hence, every object casts its shadow towards the West. For the shadow to fall to the left of Vikas, Vikas's left must be pointing West. When a person faces North, their left points to the West. Therefore, Vikas was facing North.",
+          "solutionSteps": "Step 1: Time is morning (sunrise) -> Sun is in East -> All shadows fall towards West.\nStep 2: The shadow falls to the left of Vikas -> Vikas's left is West.\nStep 3: A person whose left is West must be facing North.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Shadow-based Direction Practice Q15: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "One morning after sunrise, Priya and Kavita were standing in a garden facing each other. If the shadow of Kavita fell exactly to the right of Priya, which direction was Priya facing?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Shadow-based Direction. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Shadow-based Direction Practice Q16: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Shadow-based Direction. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Shadow-based Direction Practice Q17: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "East",
+            "South",
+            "North",
+            "West"
           ],
           "correctIndex": 1,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Shadow-based Direction. Work through the problem step by step using the shortcuts taught in this topic.",
+          "difficulty": "medium",
+          "hint": "In the morning, the Sun is in the East, so all shadows point towards the West.",
+          "explanation": "In the morning, the sun is in the East; hence, every object casts its shadow towards the West. For the shadow to fall to the right of Priya, Priya's right must be pointing West. When a person faces South, their right points to the West. Therefore, Priya was facing South.",
+          "solutionSteps": "Step 1: Time is morning (sunrise) -> Sun is in East -> All shadows fall towards West.\nStep 2: The shadow falls to the right of Priya -> Priya's right is West.\nStep 3: A person whose right is West must be facing South.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Shadow-based Direction Practice Q18: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "One morning after sunrise, Kavita and Deepak were standing in a garden facing each other. If the shadow of Deepak fell exactly to the left of Kavita, which direction was Kavita facing?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 2,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Shadow-based Direction. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Shadow-based Direction Practice Q19: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "East",
+            "West",
+            "South",
+            "North"
           ],
           "correctIndex": 3,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Shadow-based Direction. Work through the problem step by step using the shortcuts taught in this topic.",
+          "difficulty": "medium",
+          "hint": "In the morning, the Sun is in the East, so all shadows point towards the West.",
+          "explanation": "In the morning, the sun is in the East; hence, every object casts its shadow towards the West. For the shadow to fall to the left of Kavita, Kavita's left must be pointing West. When a person faces North, their left points to the West. Therefore, Kavita was facing North.",
+          "solutionSteps": "Step 1: Time is morning (sunrise) -> Sun is in East -> All shadows fall towards West.\nStep 2: The shadow falls to the left of Kavita -> Kavita's left is West.\nStep 3: A person whose left is West must be facing North.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Shadow-based Direction Practice Q20: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "One morning after sunrise, Deepak and Rahul were standing in a garden facing each other. If the shadow of Rahul fell exactly to the right of Deepak, which direction was Deepak facing?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "North",
+            "East",
+            "West",
+            "South"
           ],
-          "correctIndex": 0,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Shadow-based Direction. Work through the problem step by step using the shortcuts taught in this topic.",
+          "correctIndex": 3,
+          "difficulty": "medium",
+          "hint": "In the morning, the Sun is in the East, so all shadows point towards the West.",
+          "explanation": "In the morning, the sun is in the East; hence, every object casts its shadow towards the West. For the shadow to fall to the right of Deepak, Deepak's right must be pointing West. When a person faces South, their right points to the West. Therefore, Deepak was facing South.",
+          "solutionSteps": "Step 1: Time is morning (sunrise) -> Sun is in East -> All shadows fall towards West.\nStep 2: The shadow falls to the right of Deepak -> Deepak's right is West.\nStep 3: A person whose right is West must be facing South.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "One morning after sunrise, Rahul and Ananya were standing in a garden facing each other. If the shadow of Ananya fell exactly to the left of Rahul, which direction was Rahul facing?",
+          "options": [
+            "West",
+            "East",
+            "North",
+            "South"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "hint": "In the morning, the Sun is in the East, so all shadows point towards the West.",
+          "explanation": "In the morning, the sun is in the East; hence, every object casts its shadow towards the West. For the shadow to fall to the left of Rahul, Rahul's left must be pointing West. When a person faces North, their left points to the West. Therefore, Rahul was facing North.",
+          "solutionSteps": "Step 1: Time is morning (sunrise) -> Sun is in East -> All shadows fall towards West.\nStep 2: The shadow falls to the left of Rahul -> Rahul's left is West.\nStep 3: A person whose left is West must be facing North.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "One morning after sunrise, Ananya and Suresh were standing in a garden facing each other. If the shadow of Suresh fell exactly to the right of Ananya, which direction was Ananya facing?",
+          "options": [
+            "South",
+            "West",
+            "East",
+            "North"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "hint": "In the morning, the Sun is in the East, so all shadows point towards the West.",
+          "explanation": "In the morning, the sun is in the East; hence, every object casts its shadow towards the West. For the shadow to fall to the right of Ananya, Ananya's right must be pointing West. When a person faces South, their right points to the West. Therefore, Ananya was facing South.",
+          "solutionSteps": "Step 1: Time is morning (sunrise) -> Sun is in East -> All shadows fall towards West.\nStep 2: The shadow falls to the right of Ananya -> Ananya's right is West.\nStep 3: A person whose right is West must be facing South.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "One morning after sunrise, Suresh and Meera were standing in a garden facing each other. If the shadow of Meera fell exactly to the left of Suresh, which direction was Suresh facing?",
+          "options": [
+            "East",
+            "North",
+            "South",
+            "West"
+          ],
+          "correctIndex": 1,
+          "difficulty": "medium",
+          "hint": "In the morning, the Sun is in the East, so all shadows point towards the West.",
+          "explanation": "In the morning, the sun is in the East; hence, every object casts its shadow towards the West. For the shadow to fall to the left of Suresh, Suresh's left must be pointing West. When a person faces North, their left points to the West. Therefore, Suresh was facing North.",
+          "solutionSteps": "Step 1: Time is morning (sunrise) -> Sun is in East -> All shadows fall towards West.\nStep 2: The shadow falls to the left of Suresh -> Suresh's left is West.\nStep 3: A person whose left is West must be facing North.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "One morning after sunrise, Meera and Gaurav were standing in a garden facing each other. If the shadow of Gaurav fell exactly to the right of Meera, which direction was Meera facing?",
+          "options": [
+            "West",
+            "North",
+            "East",
+            "South"
+          ],
+          "correctIndex": 3,
+          "difficulty": "medium",
+          "hint": "In the morning, the Sun is in the East, so all shadows point towards the West.",
+          "explanation": "In the morning, the sun is in the East; hence, every object casts its shadow towards the West. For the shadow to fall to the right of Meera, Meera's right must be pointing West. When a person faces South, their right points to the West. Therefore, Meera was facing South.",
+          "solutionSteps": "Step 1: Time is morning (sunrise) -> Sun is in East -> All shadows fall towards West.\nStep 2: The shadow falls to the right of Meera -> Meera's right is West.\nStep 3: A person whose right is West must be facing South.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "One morning after sunrise, Gaurav and Neha were standing in a garden facing each other. If the shadow of Neha fell exactly to the left of Gaurav, which direction was Gaurav facing?",
+          "options": [
+            "North",
+            "South",
+            "East",
+            "West"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "hint": "In the morning, the Sun is in the East, so all shadows point towards the West.",
+          "explanation": "In the morning, the sun is in the East; hence, every object casts its shadow towards the West. For the shadow to fall to the left of Gaurav, Gaurav's left must be pointing West. When a person faces North, their left points to the West. Therefore, Gaurav was facing North.",
+          "solutionSteps": "Step 1: Time is morning (sunrise) -> Sun is in East -> All shadows fall towards West.\nStep 2: The shadow falls to the left of Gaurav -> Gaurav's left is West.\nStep 3: A person whose left is West must be facing North.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "One morning after sunrise, Neha and Arjun were standing in a garden facing each other. If the shadow of Arjun fell exactly to the right of Neha, which direction was Neha facing?",
+          "options": [
+            "South",
+            "North",
+            "East",
+            "West"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "hint": "In the morning, the Sun is in the East, so all shadows point towards the West.",
+          "explanation": "In the morning, the sun is in the East; hence, every object casts its shadow towards the West. For the shadow to fall to the right of Neha, Neha's right must be pointing West. When a person faces South, their right points to the West. Therefore, Neha was facing South.",
+          "solutionSteps": "Step 1: Time is morning (sunrise) -> Sun is in East -> All shadows fall towards West.\nStep 2: The shadow falls to the right of Neha -> Neha's right is West.\nStep 3: A person whose right is West must be facing South.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "One morning after sunrise, Arjun and Divya were standing in a garden facing each other. If the shadow of Divya fell exactly to the left of Arjun, which direction was Arjun facing?",
+          "options": [
+            "West",
+            "East",
+            "South",
+            "North"
+          ],
+          "correctIndex": 3,
+          "difficulty": "medium",
+          "hint": "In the morning, the Sun is in the East, so all shadows point towards the West.",
+          "explanation": "In the morning, the sun is in the East; hence, every object casts its shadow towards the West. For the shadow to fall to the left of Arjun, Arjun's left must be pointing West. When a person faces North, their left points to the West. Therefore, Arjun was facing North.",
+          "solutionSteps": "Step 1: Time is morning (sunrise) -> Sun is in East -> All shadows fall towards West.\nStep 2: The shadow falls to the left of Arjun -> Arjun's left is West.\nStep 3: A person whose left is West must be facing North.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "One morning after sunrise, Divya and Manish were standing in a garden facing each other. If the shadow of Manish fell exactly to the right of Divya, which direction was Divya facing?",
+          "options": [
+            "South",
+            "West",
+            "East",
+            "North"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "hint": "In the morning, the Sun is in the East, so all shadows point towards the West.",
+          "explanation": "In the morning, the sun is in the East; hence, every object casts its shadow towards the West. For the shadow to fall to the right of Divya, Divya's right must be pointing West. When a person faces South, their right points to the West. Therefore, Divya was facing South.",
+          "solutionSteps": "Step 1: Time is morning (sunrise) -> Sun is in East -> All shadows fall towards West.\nStep 2: The shadow falls to the right of Divya -> Divya's right is West.\nStep 3: A person whose right is West must be facing South.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "One morning after sunrise, Manish and Ritu were standing in a garden facing each other. If the shadow of Ritu fell exactly to the left of Manish, which direction was Manish facing?",
+          "options": [
+            "East",
+            "North",
+            "South",
+            "West"
+          ],
+          "correctIndex": 1,
+          "difficulty": "medium",
+          "hint": "In the morning, the Sun is in the East, so all shadows point towards the West.",
+          "explanation": "In the morning, the sun is in the East; hence, every object casts its shadow towards the West. For the shadow to fall to the left of Manish, Manish's left must be pointing West. When a person faces North, their left points to the West. Therefore, Manish was facing North.",
+          "solutionSteps": "Step 1: Time is morning (sunrise) -> Sun is in East -> All shadows fall towards West.\nStep 2: The shadow falls to the left of Manish -> Manish's left is West.\nStep 3: A person whose left is West must be facing North.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "One morning after sunrise, Ritu and Karan were standing in a garden facing each other. If the shadow of Karan fell exactly to the right of Ritu, which direction was Ritu facing?",
+          "options": [
+            "West",
+            "East",
+            "South",
+            "North"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "hint": "In the morning, the Sun is in the East, so all shadows point towards the West.",
+          "explanation": "In the morning, the sun is in the East; hence, every object casts its shadow towards the West. For the shadow to fall to the right of Ritu, Ritu's right must be pointing West. When a person faces South, their right points to the West. Therefore, Ritu was facing South.",
+          "solutionSteps": "Step 1: Time is morning (sunrise) -> Sun is in East -> All shadows fall towards West.\nStep 2: The shadow falls to the right of Ritu -> Ritu's right is West.\nStep 3: A person whose right is West must be facing South.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "One morning after sunrise, Karan and Sunita were standing in a garden facing each other. If the shadow of Sunita fell exactly to the left of Karan, which direction was Karan facing?",
+          "options": [
+            "North",
+            "East",
+            "West",
+            "South"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "hint": "In the morning, the Sun is in the East, so all shadows point towards the West.",
+          "explanation": "In the morning, the sun is in the East; hence, every object casts its shadow towards the West. For the shadow to fall to the left of Karan, Karan's left must be pointing West. When a person faces North, their left points to the West. Therefore, Karan was facing North.",
+          "solutionSteps": "Step 1: Time is morning (sunrise) -> Sun is in East -> All shadows fall towards West.\nStep 2: The shadow falls to the left of Karan -> Karan's left is West.\nStep 3: A person whose left is West must be facing North.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "One morning after sunrise, Sunita and Alok were standing in a garden facing each other. If the shadow of Alok fell exactly to the right of Sunita, which direction was Sunita facing?",
+          "options": [
+            "East",
+            "North",
+            "West",
+            "South"
+          ],
+          "correctIndex": 3,
+          "difficulty": "medium",
+          "hint": "In the morning, the Sun is in the East, so all shadows point towards the West.",
+          "explanation": "In the morning, the sun is in the East; hence, every object casts its shadow towards the West. For the shadow to fall to the right of Sunita, Sunita's right must be pointing West. When a person faces South, their right points to the West. Therefore, Sunita was facing South.",
+          "solutionSteps": "Step 1: Time is morning (sunrise) -> Sun is in East -> All shadows fall towards West.\nStep 2: The shadow falls to the right of Sunita -> Sunita's right is West.\nStep 3: A person whose right is West must be facing South.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         }
       ]

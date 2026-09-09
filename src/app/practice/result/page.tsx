@@ -308,6 +308,7 @@ function ResultContent() {
                     <NonVerbalFigureRenderer
                       topicId={q.topicId}
                       questionText={q.questionText}
+                      isSolution={true}
                     />
 
                     {/* Options Breakdown */}

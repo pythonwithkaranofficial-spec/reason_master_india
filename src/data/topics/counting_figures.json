@@ -49,343 +49,463 @@
       ],
       "practiceQuestions": [
         {
-          "questionText": "Counting Figures Practice Q1: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "A triangle has its main vertex joined to the opposite base by 2 internal vertical lines, creating 3 small base compartments. What is the total number of triangles in the figure?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Counting Figures. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Counting Figures Practice Q2: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 2,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Counting Figures. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Counting Figures Practice Q3: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Counting Figures. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Counting Figures Practice Q4: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "6",
+            "4",
+            "14",
+            "10"
           ],
           "correctIndex": 0,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Counting Figures. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Add the individual base compartment numbers: 1 + 2 + 3 + ... + n.",
+          "explanation": "Shortcut for vertical partitioned triangles: Sum of first n natural numbers = n(n + 1)/2. For n = 3: 3 × 4 / 2 = 6 triangles.",
+          "solutionSteps": "Step 1: Identify the underlying geometric structure.\nStep 2: Apply the proven combinatorial counting formula.\nStep 3: Total figure count = 6.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         },
         {
-          "questionText": "Counting Figures Practice Q5: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "How many triangles are there in a standard symmetrical five-pointed star (pentagram)?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Counting Figures. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Counting Figures Practice Q6: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "18",
+            "8",
+            "10",
+            "14"
           ],
           "correctIndex": 2,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Counting Figures. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "5 small external points + 5 large triangles spanning across the star.",
+          "explanation": "In a 5-pointed star: There are 5 small pointed triangles at the outer corners, and 5 larger composite triangles formed by each vertex with the opposite base line. Total = 5 + 5 = 10 triangles.",
+          "solutionSteps": "Step 1: Identify the underlying geometric structure.\nStep 2: Apply the proven combinatorial counting formula.\nStep 3: Total figure count = 10.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         },
         {
-          "questionText": "Counting Figures Practice Q7: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "A triangle has its main vertex joined to the opposite base by 3 internal vertical lines, creating 4 small base compartments. What is the total number of triangles in the figure?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "10",
+            "14",
+            "8",
+            "18"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "hint": "Add the individual base compartment numbers: 1 + 2 + 3 + ... + n.",
+          "explanation": "Shortcut for vertical partitioned triangles: Sum of first n natural numbers = n(n + 1)/2. For n = 4: 4 × 5 / 2 = 10 triangles.",
+          "solutionSteps": "Step 1: Identify the underlying geometric structure.\nStep 2: Apply the proven combinatorial counting formula.\nStep 3: Total figure count = 10.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
+          ]
+        },
+        {
+          "questionText": "How many triangles are formed in a six-pointed star (hexagram) formed by two overlapping equilateral triangles?",
+          "options": [
+            "6",
+            "12",
+            "16",
+            "8"
           ],
           "correctIndex": 3,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Counting Figures. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "6 corner triangles + 2 large inverted main triangles.",
+          "explanation": "In a 6-pointed star: There are 6 small outer triangles, plus the 2 large main overlapping triangles. Total = 6 + 2 = 8 triangles.",
+          "solutionSteps": "Step 1: Identify the underlying geometric structure.\nStep 2: Apply the proven combinatorial counting formula.\nStep 3: Total figure count = 8.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         },
         {
-          "questionText": "Counting Figures Practice Q8: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "A triangle has its main vertex joined to the opposite base by 4 internal vertical lines, creating 5 small base compartments. What is the total number of triangles in the figure?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "15",
+            "23",
+            "13",
+            "19"
           ],
           "correctIndex": 0,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Counting Figures. Work through the problem step by step using the shortcuts taught in this topic.",
+          "difficulty": "easy",
+          "hint": "Add the individual base compartment numbers: 1 + 2 + 3 + ... + n.",
+          "explanation": "Shortcut for vertical partitioned triangles: Sum of first n natural numbers = n(n + 1)/2. For n = 5: 5 × 6 / 2 = 15 triangles.",
+          "solutionSteps": "Step 1: Identify the underlying geometric structure.\nStep 2: Apply the proven combinatorial counting formula.\nStep 3: Total figure count = 15.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         },
         {
-          "questionText": "Counting Figures Practice Q9: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "How many triangles are there in a standard symmetrical five-pointed star (pentagram)?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "10",
+            "14",
+            "8",
+            "18"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "hint": "5 small external points + 5 large triangles spanning across the star.",
+          "explanation": "In a 5-pointed star: There are 5 small pointed triangles at the outer corners, and 5 larger composite triangles formed by each vertex with the opposite base line. Total = 5 + 5 = 10 triangles.",
+          "solutionSteps": "Step 1: Identify the underlying geometric structure.\nStep 2: Apply the proven combinatorial counting formula.\nStep 3: Total figure count = 10.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
+          ]
+        },
+        {
+          "questionText": "A square has both main diagonals drawn, along with two median lines connecting the midpoints of opposite sides, dividing the square into 8 small triangular segments. How many triangles are there in total?",
+          "options": [
+            "24",
+            "16",
+            "14",
+            "20"
           ],
           "correctIndex": 1,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Counting Figures. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Count the smallest triangular sectors (8) and multiply by 2.",
+          "explanation": "Shortcut for a square/rectangle with diagonals and medians: Multiply the number of individual small triangular regions by 2. Total triangles = 2 × 8 = 16.",
+          "solutionSteps": "Step 1: Identify the underlying geometric structure.\nStep 2: Apply the proven combinatorial counting formula.\nStep 3: Total figure count = 16.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         },
         {
-          "questionText": "Counting Figures Practice Q10: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "How many total squares are there in an 3 × 3 chessboard-like grid?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "12",
+            "18",
+            "14",
+            "22"
           ],
           "correctIndex": 2,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Counting Figures. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Sum of squares of side lengths: 1² + 2² + ... + n².",
+          "explanation": "Formula for squares in an n × n square grid: 1² + 2² + ... + n² = n(n + 1)(2n + 1)/6. For n = 3: Sum of squares from 1 to 3 = 14.",
+          "solutionSteps": "Step 1: Identify the underlying geometric structure.\nStep 2: Apply the proven combinatorial counting formula.\nStep 3: Total figure count = 14.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         },
         {
-          "questionText": "Counting Figures Practice Q11: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "A square has both main diagonals drawn, along with two median lines connecting the midpoints of opposite sides, dividing the square into 8 small triangular segments. How many triangles are there in total?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Counting Figures. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Counting Figures Practice Q12: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "16",
+            "14",
+            "20",
+            "24"
           ],
           "correctIndex": 0,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Counting Figures. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Count the smallest triangular sectors (8) and multiply by 2.",
+          "explanation": "Shortcut for a square/rectangle with diagonals and medians: Multiply the number of individual small triangular regions by 2. Total triangles = 2 × 8 = 16.",
+          "solutionSteps": "Step 1: Identify the underlying geometric structure.\nStep 2: Apply the proven combinatorial counting formula.\nStep 3: Total figure count = 16.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         },
         {
-          "questionText": "Counting Figures Practice Q13: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "How many total squares are there in an 5 × 5 chessboard-like grid?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "59",
+            "55",
+            "63",
+            "53"
           ],
           "correctIndex": 1,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Counting Figures. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Sum of squares of side lengths: 1² + 2² + ... + n².",
+          "explanation": "Formula for squares in an n × n square grid: 1² + 2² + ... + n² = n(n + 1)(2n + 1)/6. For n = 5: Sum of squares from 1 to 5 = 55.",
+          "solutionSteps": "Step 1: Identify the underlying geometric structure.\nStep 2: Apply the proven combinatorial counting formula.\nStep 3: Total figure count = 55.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         },
         {
-          "questionText": "Counting Figures Practice Q14: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "A square has both main diagonals drawn, along with two median lines connecting the midpoints of opposite sides, dividing the square into 8 small triangular segments. How many triangles are there in total?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "16",
+            "24",
+            "20",
+            "14"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "hint": "Count the smallest triangular sectors (8) and multiply by 2.",
+          "explanation": "Shortcut for a square/rectangle with diagonals and medians: Multiply the number of individual small triangular regions by 2. Total triangles = 2 × 8 = 16.",
+          "solutionSteps": "Step 1: Identify the underlying geometric structure.\nStep 2: Apply the proven combinatorial counting formula.\nStep 3: Total figure count = 16.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
+          ]
+        },
+        {
+          "questionText": "How many total squares are there in an 4 × 4 chessboard-like grid?",
+          "options": [
+            "38",
+            "28",
+            "30",
+            "34"
           ],
           "correctIndex": 2,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Counting Figures. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Sum of squares of side lengths: 1² + 2² + ... + n².",
+          "explanation": "Formula for squares in an n × n square grid: 1² + 2² + ... + n² = n(n + 1)(2n + 1)/6. For n = 4: Sum of squares from 1 to 4 = 30.",
+          "solutionSteps": "Step 1: Identify the underlying geometric structure.\nStep 2: Apply the proven combinatorial counting formula.\nStep 3: Total figure count = 30.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         },
         {
-          "questionText": "Counting Figures Practice Q15: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "A square has both main diagonals drawn, along with two median lines connecting the midpoints of opposite sides, dividing the square into 8 small triangular segments. How many triangles are there in total?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Counting Figures. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Counting Figures Practice Q16: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "16",
+            "20",
+            "24",
+            "14"
           ],
           "correctIndex": 0,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Counting Figures. Work through the problem step by step using the shortcuts taught in this topic.",
+          "difficulty": "medium",
+          "hint": "Count the smallest triangular sectors (8) and multiply by 2.",
+          "explanation": "Shortcut for a square/rectangle with diagonals and medians: Multiply the number of individual small triangular regions by 2. Total triangles = 2 × 8 = 16.",
+          "solutionSteps": "Step 1: Identify the underlying geometric structure.\nStep 2: Apply the proven combinatorial counting formula.\nStep 3: Total figure count = 16.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         },
         {
-          "questionText": "Counting Figures Practice Q17: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "How many total squares are there in an 3 × 3 chessboard-like grid?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "18",
+            "22",
+            "14",
+            "12"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "hint": "Sum of squares of side lengths: 1² + 2² + ... + n².",
+          "explanation": "Formula for squares in an n × n square grid: 1² + 2² + ... + n² = n(n + 1)(2n + 1)/6. For n = 3: Sum of squares from 1 to 3 = 14.",
+          "solutionSteps": "Step 1: Identify the underlying geometric structure.\nStep 2: Apply the proven combinatorial counting formula.\nStep 3: Total figure count = 14.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
+          ]
+        },
+        {
+          "questionText": "How many total rectangles (including squares) are there in a grid of 3 rows and 4 columns?",
+          "options": [
+            "64",
+            "60",
+            "68",
+            "58"
           ],
           "correctIndex": 1,
           "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Counting Figures. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Multiply the sum of rows by the sum of columns.",
+          "explanation": "Formula for rectangles in an m × n grid: [m(m+1)/2] × [n(n+1)/2] = [3(4)/2] × [4(5)/2] = 6 × 10 = 60 rectangles.",
+          "solutionSteps": "Step 1: Identify the underlying geometric structure.\nStep 2: Apply the proven combinatorial counting formula.\nStep 3: Total figure count = 60.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         },
         {
-          "questionText": "Counting Figures Practice Q18: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "How many total rectangles (including squares) are there in a grid of 3 rows and 4 columns?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 2,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Counting Figures. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Counting Figures Practice Q19: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Counting Figures. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Counting Figures Practice Q20: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "60",
+            "68",
+            "64",
+            "58"
           ],
           "correctIndex": 0,
           "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Counting Figures. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Multiply the sum of rows by the sum of columns.",
+          "explanation": "Formula for rectangles in an m × n grid: [m(m+1)/2] × [n(n+1)/2] = [3(4)/2] × [4(5)/2] = 6 × 10 = 60 rectangles.",
+          "solutionSteps": "Step 1: Identify the underlying geometric structure.\nStep 2: Apply the proven combinatorial counting formula.\nStep 3: Total figure count = 60.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
+          ]
+        },
+        {
+          "questionText": "How many total rectangles (including squares) are there in a grid of 3 rows and 4 columns?",
+          "options": [
+            "64",
+            "58",
+            "68",
+            "60"
+          ],
+          "correctIndex": 3,
+          "difficulty": "hard",
+          "hint": "Multiply the sum of rows by the sum of columns.",
+          "explanation": "Formula for rectangles in an m × n grid: [m(m+1)/2] × [n(n+1)/2] = [3(4)/2] × [4(5)/2] = 6 × 10 = 60 rectangles.",
+          "solutionSteps": "Step 1: Identify the underlying geometric structure.\nStep 2: Apply the proven combinatorial counting formula.\nStep 3: Total figure count = 60.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
+          ]
+        },
+        {
+          "questionText": "How many total rectangles (including squares) are there in a grid of 3 rows and 4 columns?",
+          "options": [
+            "58",
+            "64",
+            "68",
+            "60"
+          ],
+          "correctIndex": 3,
+          "difficulty": "hard",
+          "hint": "Multiply the sum of rows by the sum of columns.",
+          "explanation": "Formula for rectangles in an m × n grid: [m(m+1)/2] × [n(n+1)/2] = [3(4)/2] × [4(5)/2] = 6 × 10 = 60 rectangles.",
+          "solutionSteps": "Step 1: Identify the underlying geometric structure.\nStep 2: Apply the proven combinatorial counting formula.\nStep 3: Total figure count = 60.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
+          ]
+        },
+        {
+          "questionText": "How many total rectangles (including squares) are there in a grid of 3 rows and 4 columns?",
+          "options": [
+            "64",
+            "68",
+            "60",
+            "58"
+          ],
+          "correctIndex": 2,
+          "difficulty": "hard",
+          "hint": "Multiply the sum of rows by the sum of columns.",
+          "explanation": "Formula for rectangles in an m × n grid: [m(m+1)/2] × [n(n+1)/2] = [3(4)/2] × [4(5)/2] = 6 × 10 = 60 rectangles.",
+          "solutionSteps": "Step 1: Identify the underlying geometric structure.\nStep 2: Apply the proven combinatorial counting formula.\nStep 3: Total figure count = 60.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
+          ]
+        },
+        {
+          "questionText": "How many total rectangles (including squares) are there in a grid of 3 rows and 4 columns?",
+          "options": [
+            "58",
+            "68",
+            "60",
+            "64"
+          ],
+          "correctIndex": 2,
+          "difficulty": "hard",
+          "hint": "Multiply the sum of rows by the sum of columns.",
+          "explanation": "Formula for rectangles in an m × n grid: [m(m+1)/2] × [n(n+1)/2] = [3(4)/2] × [4(5)/2] = 6 × 10 = 60 rectangles.",
+          "solutionSteps": "Step 1: Identify the underlying geometric structure.\nStep 2: Apply the proven combinatorial counting formula.\nStep 3: Total figure count = 60.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         }
       ]

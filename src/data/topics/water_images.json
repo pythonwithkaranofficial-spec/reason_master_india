@@ -49,343 +49,463 @@
       ],
       "practiceQuestions": [
         {
-          "questionText": "Water Images Practice Q1: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "Choose the correct water image of the given word from the options:\n\nFROST",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Water Images. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Water Images Practice Q2: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Original word FROST unaltered",
+            "Both vertically and horizontally inverted (180° rotation)",
+            "Water image of FROST (vertically flipped top-to-bottom without changing left-to-right sequence)",
+            "Mirror image of FROST (laterally flipped left-to-right)"
           ],
           "correctIndex": 2,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Water Images. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Water image inverts Top and Bottom; sequence of letters does NOT reverse.",
+          "explanation": "In water reflection, the reflection plane is horizontal (at the bottom). Top and bottom invert, but the left-to-right order of letters remains strictly unchanged: F R O S T (upside down; horizontal flip where F points downwards).",
+          "solutionSteps": "Step 1: Note that water reflection represents a horizontal mirror placed below the object.\nStep 2: Top becomes Bottom, Bottom becomes Top.\nStep 3: Left-to-right sequence remains unchanged (unlike mirror image).",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         },
         {
-          "questionText": "Water Images Practice Q3: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "Choose the correct water image of the given word from the options:\n\nBRIDGE",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Water Images. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Water Images Practice Q4: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Water image of BRIDGE (vertically flipped top-to-bottom without changing left-to-right sequence)",
+            "Mirror image of BRIDGE (laterally flipped left-to-right)",
+            "Both vertically and horizontally inverted (180° rotation)",
+            "Original word BRIDGE unaltered"
           ],
           "correctIndex": 0,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Water Images. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Water image inverts Top and Bottom; sequence of letters does NOT reverse.",
+          "explanation": "In water reflection, the reflection plane is horizontal (at the bottom). Top and bottom invert, but the left-to-right order of letters remains strictly unchanged: B R I D G E (upside down; B and D retain outer vertical line on left).",
+          "solutionSteps": "Step 1: Note that water reflection represents a horizontal mirror placed below the object.\nStep 2: Top becomes Bottom, Bottom becomes Top.\nStep 3: Left-to-right sequence remains unchanged (unlike mirror image).",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         },
         {
-          "questionText": "Water Images Practice Q5: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "Choose the correct water image of the given word from the options:\n\nCODE",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Water image of CODE (vertically flipped top-to-bottom without changing left-to-right sequence)",
+            "Original word CODE unaltered",
+            "Both vertically and horizontally inverted (180° rotation)",
+            "Mirror image of CODE (laterally flipped left-to-right)"
           ],
-          "correctIndex": 1,
+          "correctIndex": 0,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Water Images. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Water image inverts Top and Bottom; sequence of letters does NOT reverse.",
+          "explanation": "In water reflection, the reflection plane is horizontal (at the bottom). Top and bottom invert, but the left-to-right order of letters remains strictly unchanged: C O D E (vertically inverted; letters C, O, D, E look identical in water image).",
+          "solutionSteps": "Step 1: Note that water reflection represents a horizontal mirror placed below the object.\nStep 2: Top becomes Bottom, Bottom becomes Top.\nStep 3: Left-to-right sequence remains unchanged (unlike mirror image).",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         },
         {
-          "questionText": "Water Images Practice Q6: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "Choose the correct water image of the given word from the options:\n\nHIKE",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Mirror image of HIKE (laterally flipped left-to-right)",
+            "Both vertically and horizontally inverted (180° rotation)",
+            "Water image of HIKE (vertically flipped top-to-bottom without changing left-to-right sequence)",
+            "Original word HIKE unaltered"
           ],
           "correctIndex": 2,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Water Images. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Water image inverts Top and Bottom; sequence of letters does NOT reverse.",
+          "explanation": "In water reflection, the reflection plane is horizontal (at the bottom). Top and bottom invert, but the left-to-right order of letters remains strictly unchanged: H I K E (vertically inverted; H, I, K, E are vertically symmetrical).",
+          "solutionSteps": "Step 1: Note that water reflection represents a horizontal mirror placed below the object.\nStep 2: Top becomes Bottom, Bottom becomes Top.\nStep 3: Left-to-right sequence remains unchanged (unlike mirror image).",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         },
         {
-          "questionText": "Water Images Practice Q7: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "Choose the correct water image of the given word from the options:\n\nQUIET",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Original word QUIET unaltered",
+            "Both vertically and horizontally inverted (180° rotation)",
+            "Water image of QUIET (vertically flipped top-to-bottom without changing left-to-right sequence)",
+            "Mirror image of QUIET (laterally flipped left-to-right)"
+          ],
+          "correctIndex": 2,
+          "difficulty": "easy",
+          "hint": "Water image inverts Top and Bottom; sequence of letters does NOT reverse.",
+          "explanation": "In water reflection, the reflection plane is horizontal (at the bottom). Top and bottom invert, but the left-to-right order of letters remains strictly unchanged: Q U I E T (upside down; tail of Q flips from bottom-right to top-right).",
+          "solutionSteps": "Step 1: Note that water reflection represents a horizontal mirror placed below the object.\nStep 2: Top becomes Bottom, Bottom becomes Top.\nStep 3: Left-to-right sequence remains unchanged (unlike mirror image).",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
+          ]
+        },
+        {
+          "questionText": "Choose the correct water image of the given word from the options:\n\nDISC",
+          "options": [
+            "Mirror image of DISC (laterally flipped left-to-right)",
+            "Both vertically and horizontally inverted (180° rotation)",
+            "Original word DISC unaltered",
+            "Water image of DISC (vertically flipped top-to-bottom without changing left-to-right sequence)"
           ],
           "correctIndex": 3,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Water Images. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Water image inverts Top and Bottom; sequence of letters does NOT reverse.",
+          "explanation": "In water reflection, the reflection plane is horizontal (at the bottom). Top and bottom invert, but the left-to-right order of letters remains strictly unchanged: D I S C (upside down; Top and bottom invert, left-to-right order remains unchanged).",
+          "solutionSteps": "Step 1: Note that water reflection represents a horizontal mirror placed below the object.\nStep 2: Top becomes Bottom, Bottom becomes Top.\nStep 3: Left-to-right sequence remains unchanged (unlike mirror image).",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         },
         {
-          "questionText": "Water Images Practice Q8: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "A clock seen in water reflection shows the time as 4:20. What is the actual real time?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Water Images. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Water Images Practice Q9: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Water Images. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Water Images Practice Q10: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "2:20",
+            "7:40",
+            "2:10 (or 1:10 depending on hour hand overlap)",
+            "8:20"
           ],
           "correctIndex": 2,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Water Images. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Water clock formula: Subtract given time from 18:30 (or 17:90 if minutes > 30).",
+          "explanation": "Formula for Water Image of Clock: Subtract from 18:30. Here: 18:30 - 4:20 = 14:10 = 2:10.",
+          "solutionSteps": "Step 1: Note that water reflection represents a horizontal mirror placed below the object.\nStep 2: Top becomes Bottom, Bottom becomes Top.\nStep 3: Left-to-right sequence remains unchanged (unlike mirror image).",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         },
         {
-          "questionText": "Water Images Practice Q11: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "A clock seen in water reflection shows the time as 4:20. What is the actual real time?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Water Images. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Water Images Practice Q12: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "2:10 (or 1:10 depending on hour hand overlap)",
+            "7:40",
+            "8:20",
+            "2:20"
           ],
           "correctIndex": 0,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Water Images. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Water clock formula: Subtract given time from 18:30 (or 17:90 if minutes > 30).",
+          "explanation": "Formula for Water Image of Clock: Subtract from 18:30. Here: 18:30 - 4:20 = 14:10 = 2:10.",
+          "solutionSteps": "Step 1: Note that water reflection represents a horizontal mirror placed below the object.\nStep 2: Top becomes Bottom, Bottom becomes Top.\nStep 3: Left-to-right sequence remains unchanged (unlike mirror image).",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         },
         {
-          "questionText": "Water Images Practice Q13: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "A clock seen in water reflection shows the time as 4:20. What is the actual real time?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Water Images. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Water Images Practice Q14: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "8:20",
+            "2:20",
+            "2:10 (or 1:10 depending on hour hand overlap)",
+            "7:40"
           ],
           "correctIndex": 2,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Water Images. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Water clock formula: Subtract given time from 18:30 (or 17:90 if minutes > 30).",
+          "explanation": "Formula for Water Image of Clock: Subtract from 18:30. Here: 18:30 - 4:20 = 14:10 = 2:10.",
+          "solutionSteps": "Step 1: Note that water reflection represents a horizontal mirror placed below the object.\nStep 2: Top becomes Bottom, Bottom becomes Top.\nStep 3: Left-to-right sequence remains unchanged (unlike mirror image).",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         },
         {
-          "questionText": "Water Images Practice Q15: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "A clock seen in water reflection shows the time as 4:20. What is the actual real time?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Water Images. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Water Images Practice Q16: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Water Images. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Water Images Practice Q17: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "8:20",
+            "2:10 (or 1:10 depending on hour hand overlap)",
+            "7:40",
+            "2:20"
           ],
           "correctIndex": 1,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Water Images. Work through the problem step by step using the shortcuts taught in this topic.",
+          "difficulty": "medium",
+          "hint": "Water clock formula: Subtract given time from 18:30 (or 17:90 if minutes > 30).",
+          "explanation": "Formula for Water Image of Clock: Subtract from 18:30. Here: 18:30 - 4:20 = 14:10 = 2:10.",
+          "solutionSteps": "Step 1: Note that water reflection represents a horizontal mirror placed below the object.\nStep 2: Top becomes Bottom, Bottom becomes Top.\nStep 3: Left-to-right sequence remains unchanged (unlike mirror image).",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         },
         {
-          "questionText": "Water Images Practice Q18: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "A clock seen in water reflection shows the time as 4:20. What is the actual real time?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 2,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Water Images. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Water Images Practice Q19: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Water Images. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Water Images Practice Q20: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "2:10 (or 1:10 depending on hour hand overlap)",
+            "2:20",
+            "8:20",
+            "7:40"
           ],
           "correctIndex": 0,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Water Images. Work through the problem step by step using the shortcuts taught in this topic.",
+          "difficulty": "medium",
+          "hint": "Water clock formula: Subtract given time from 18:30 (or 17:90 if minutes > 30).",
+          "explanation": "Formula for Water Image of Clock: Subtract from 18:30. Here: 18:30 - 4:20 = 14:10 = 2:10.",
+          "solutionSteps": "Step 1: Note that water reflection represents a horizontal mirror placed below the object.\nStep 2: Top becomes Bottom, Bottom becomes Top.\nStep 3: Left-to-right sequence remains unchanged (unlike mirror image).",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
+          ]
+        },
+        {
+          "questionText": "A clock seen in water reflection shows the time as 4:20. What is the actual real time?",
+          "options": [
+            "8:20",
+            "7:40",
+            "2:20",
+            "2:10 (or 1:10 depending on hour hand overlap)"
+          ],
+          "correctIndex": 3,
+          "difficulty": "medium",
+          "hint": "Water clock formula: Subtract given time from 18:30 (or 17:90 if minutes > 30).",
+          "explanation": "Formula for Water Image of Clock: Subtract from 18:30. Here: 18:30 - 4:20 = 14:10 = 2:10.",
+          "solutionSteps": "Step 1: Note that water reflection represents a horizontal mirror placed below the object.\nStep 2: Top becomes Bottom, Bottom becomes Top.\nStep 3: Left-to-right sequence remains unchanged (unlike mirror image).",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
+          ]
+        },
+        {
+          "questionText": "A clock seen in water reflection shows the time as 4:20. What is the actual real time?",
+          "options": [
+            "8:20",
+            "2:10 (or 1:10 depending on hour hand overlap)",
+            "7:40",
+            "2:20"
+          ],
+          "correctIndex": 1,
+          "difficulty": "medium",
+          "hint": "Water clock formula: Subtract given time from 18:30 (or 17:90 if minutes > 30).",
+          "explanation": "Formula for Water Image of Clock: Subtract from 18:30. Here: 18:30 - 4:20 = 14:10 = 2:10.",
+          "solutionSteps": "Step 1: Note that water reflection represents a horizontal mirror placed below the object.\nStep 2: Top becomes Bottom, Bottom becomes Top.\nStep 3: Left-to-right sequence remains unchanged (unlike mirror image).",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
+          ]
+        },
+        {
+          "questionText": "A clock seen in water reflection shows the time as 4:20. What is the actual real time?",
+          "options": [
+            "7:40",
+            "2:10 (or 1:10 depending on hour hand overlap)",
+            "8:20",
+            "2:20"
+          ],
+          "correctIndex": 1,
+          "difficulty": "medium",
+          "hint": "Water clock formula: Subtract given time from 18:30 (or 17:90 if minutes > 30).",
+          "explanation": "Formula for Water Image of Clock: Subtract from 18:30. Here: 18:30 - 4:20 = 14:10 = 2:10.",
+          "solutionSteps": "Step 1: Note that water reflection represents a horizontal mirror placed below the object.\nStep 2: Top becomes Bottom, Bottom becomes Top.\nStep 3: Left-to-right sequence remains unchanged (unlike mirror image).",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
+          ]
+        },
+        {
+          "questionText": "Choose the correct water image of the given word from the options:\n\nBRIDGE",
+          "options": [
+            "Mirror image of BRIDGE (laterally flipped left-to-right)",
+            "Both vertically and horizontally inverted (180° rotation)",
+            "Water image of BRIDGE (vertically flipped top-to-bottom without changing left-to-right sequence)",
+            "Original word BRIDGE unaltered"
+          ],
+          "correctIndex": 2,
+          "difficulty": "easy",
+          "hint": "Water image inverts Top and Bottom; sequence of letters does NOT reverse.",
+          "explanation": "In water reflection, the reflection plane is horizontal (at the bottom). Top and bottom invert, but the left-to-right order of letters remains strictly unchanged: B R I D G E (upside down; B and D retain outer vertical line on left).",
+          "solutionSteps": "Step 1: Note that water reflection represents a horizontal mirror placed below the object.\nStep 2: Top becomes Bottom, Bottom becomes Top.\nStep 3: Left-to-right sequence remains unchanged (unlike mirror image).",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
+          ]
+        },
+        {
+          "questionText": "Choose the correct water image of the given word from the options:\n\nKICK",
+          "options": [
+            "Mirror image of KICK (laterally flipped left-to-right)",
+            "Original word KICK unaltered",
+            "Both vertically and horizontally inverted (180° rotation)",
+            "Water image of KICK (vertically flipped top-to-bottom without changing left-to-right sequence)"
+          ],
+          "correctIndex": 3,
+          "difficulty": "easy",
+          "hint": "Water image inverts Top and Bottom; sequence of letters does NOT reverse.",
+          "explanation": "In water reflection, the reflection plane is horizontal (at the bottom). Top and bottom invert, but the left-to-right order of letters remains strictly unchanged: K I C K (upside down; C and E have identical water reflections).",
+          "solutionSteps": "Step 1: Note that water reflection represents a horizontal mirror placed below the object.\nStep 2: Top becomes Bottom, Bottom becomes Top.\nStep 3: Left-to-right sequence remains unchanged (unlike mirror image).",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
+          ]
+        },
+        {
+          "questionText": "Choose the correct water image of the given word from the options:\n\nHIKE",
+          "options": [
+            "Original word HIKE unaltered",
+            "Mirror image of HIKE (laterally flipped left-to-right)",
+            "Water image of HIKE (vertically flipped top-to-bottom without changing left-to-right sequence)",
+            "Both vertically and horizontally inverted (180° rotation)"
+          ],
+          "correctIndex": 2,
+          "difficulty": "easy",
+          "hint": "Water image inverts Top and Bottom; sequence of letters does NOT reverse.",
+          "explanation": "In water reflection, the reflection plane is horizontal (at the bottom). Top and bottom invert, but the left-to-right order of letters remains strictly unchanged: H I K E (vertically inverted; H, I, K, E are vertically symmetrical).",
+          "solutionSteps": "Step 1: Note that water reflection represents a horizontal mirror placed below the object.\nStep 2: Top becomes Bottom, Bottom becomes Top.\nStep 3: Left-to-right sequence remains unchanged (unlike mirror image).",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
+          ]
+        },
+        {
+          "questionText": "Choose the correct water image of the given word from the options:\n\nCHICK",
+          "options": [
+            "Original word CHICK unaltered",
+            "Both vertically and horizontally inverted (180° rotation)",
+            "Mirror image of CHICK (laterally flipped left-to-right)",
+            "Water image of CHICK (vertically flipped top-to-bottom without changing left-to-right sequence)"
+          ],
+          "correctIndex": 3,
+          "difficulty": "easy",
+          "hint": "Water image inverts Top and Bottom; sequence of letters does NOT reverse.",
+          "explanation": "In water reflection, the reflection plane is horizontal (at the bottom). Top and bottom invert, but the left-to-right order of letters remains strictly unchanged: C H I C K (upside down with vertical inversion of each letter).",
+          "solutionSteps": "Step 1: Note that water reflection represents a horizontal mirror placed below the object.\nStep 2: Top becomes Bottom, Bottom becomes Top.\nStep 3: Left-to-right sequence remains unchanged (unlike mirror image).",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
+          ]
+        },
+        {
+          "questionText": "Choose the correct water image of the given word from the options:\n\nDISC",
+          "options": [
+            "Both vertically and horizontally inverted (180° rotation)",
+            "Original word DISC unaltered",
+            "Mirror image of DISC (laterally flipped left-to-right)",
+            "Water image of DISC (vertically flipped top-to-bottom without changing left-to-right sequence)"
+          ],
+          "correctIndex": 3,
+          "difficulty": "easy",
+          "hint": "Water image inverts Top and Bottom; sequence of letters does NOT reverse.",
+          "explanation": "In water reflection, the reflection plane is horizontal (at the bottom). Top and bottom invert, but the left-to-right order of letters remains strictly unchanged: D I S C (upside down; Top and bottom invert, left-to-right order remains unchanged).",
+          "solutionSteps": "Step 1: Note that water reflection represents a horizontal mirror placed below the object.\nStep 2: Top becomes Bottom, Bottom becomes Top.\nStep 3: Left-to-right sequence remains unchanged (unlike mirror image).",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
+          ]
+        },
+        {
+          "questionText": "Choose the correct water image of the given word from the options:\n\nFROST",
+          "options": [
+            "Mirror image of FROST (laterally flipped left-to-right)",
+            "Original word FROST unaltered",
+            "Water image of FROST (vertically flipped top-to-bottom without changing left-to-right sequence)",
+            "Both vertically and horizontally inverted (180° rotation)"
+          ],
+          "correctIndex": 2,
+          "difficulty": "easy",
+          "hint": "Water image inverts Top and Bottom; sequence of letters does NOT reverse.",
+          "explanation": "In water reflection, the reflection plane is horizontal (at the bottom). Top and bottom invert, but the left-to-right order of letters remains strictly unchanged: F R O S T (upside down; horizontal flip where F points downwards).",
+          "solutionSteps": "Step 1: Note that water reflection represents a horizontal mirror placed below the object.\nStep 2: Top becomes Bottom, Bottom becomes Top.\nStep 3: Left-to-right sequence remains unchanged (unlike mirror image).",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         }
       ]

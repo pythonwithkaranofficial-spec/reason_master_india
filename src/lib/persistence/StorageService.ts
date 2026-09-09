@@ -7,6 +7,7 @@ import {
   UserSettings,
   TopicProgressSummary,
 } from "@/types/models";
+import { TOPIC_INDEX } from "@/data/search-index";
 
 const DB_NAME = "ReasonMasterDB";
 const DB_VERSION = 1;
@@ -218,6 +219,15 @@ class IndexedDBStorage {
 
 const idbStorage = new IndexedDBStorage();
 
+export interface LastStudiedTopic {
+  topicId: string;
+  topicName: string;
+  category: "verbal" | "nonverbal";
+  timestamp: number;
+}
+
+const LAST_STUDIED_KEY = "rm_last_studied_topic";
+
 export class StorageService {
   // Session
   static async saveSession(session: SessionResult): Promise<void> {
@@ -239,6 +249,104 @@ export class StorageService {
   static async getRecentQuestionIds(limit = 500): Promise<string[]> {
     if (typeof window === "undefined") return [];
     return idbStorage.getRecentQuestionIds(limit);
+  }
+
+  static async getExploredTopicIds(): Promise<string[]> {
+    if (typeof window === "undefined") return [];
+    const attempts = await idbStorage.getAllAttempts();
+    const topicSet = new Set<string>();
+    for (const a of attempts) {
+      if (a.topicId) {
+        topicSet.add(a.topicId);
+      }
+    }
+    return Array.from(topicSet);
+  }
+
+  // Last Studied Topic Tracker
+  static getLastStudiedTopic(): LastStudiedTopic | null {
+    if (typeof window === "undefined") return null;
+    try {
+      const stored = localStorage.getItem(LAST_STUDIED_KEY);
+      if (!stored) return null;
+      return JSON.parse(stored) as LastStudiedTopic;
+    } catch {
+      return null;
+    }
+  }
+
+  static saveLastStudiedTopic(
+    infoOrTopicId: LastStudiedTopic | string,
+    topicNameOrSubtopicId?: string,
+    category?: "verbal" | "nonverbal"
+  ): void {
+    if (typeof window === "undefined") return;
+    try {
+      if (typeof infoOrTopicId === "string") {
+        const topic = TOPIC_INDEX.find((t) => t.id === infoOrTopicId);
+        const resolvedInfo: LastStudiedTopic = {
+          topicId: infoOrTopicId,
+          topicName: topic ? topic.name : (topicNameOrSubtopicId || infoOrTopicId),
+          category: topic ? topic.category : (category || "verbal"),
+          timestamp: Date.now(),
+        };
+        localStorage.setItem(LAST_STUDIED_KEY, JSON.stringify(resolvedInfo));
+      } else {
+        localStorage.setItem(LAST_STUDIED_KEY, JSON.stringify(infoOrTopicId));
+      }
+    } catch {}
+  }
+
+  // Topic Progress Summaries Aggregation
+  static async getTopicProgressSummaries(): Promise<TopicProgressSummary[]> {
+    if (typeof window === "undefined") return [];
+    try {
+      const attempts = await idbStorage.getAllAttempts();
+      const attemptsByTopic = new Map<string, UserQuestionAttempt[]>();
+
+      for (const a of attempts) {
+        if (!a.topicId) continue;
+        const list = attemptsByTopic.get(a.topicId) || [];
+        list.push(a);
+        attemptsByTopic.set(a.topicId, list);
+      }
+
+      return TOPIC_INDEX.map((topic) => {
+        const topicAttempts = attemptsByTopic.get(topic.id) || [];
+        const attemptedCount = topicAttempts.length;
+        const correctCount = topicAttempts.filter((a) => a.isCorrect).length;
+        const accuracyPercentage = attemptedCount > 0 ? Math.round((correctCount / attemptedCount) * 100) : 0;
+        let lastPracticedAt: number | undefined;
+        if (attemptedCount > 0) {
+          lastPracticedAt = Math.max(...topicAttempts.map((a) => a.timestamp));
+        }
+
+        let masteryStatus: TopicProgressSummary["masteryStatus"] = "unstarted";
+        if (attemptedCount === 0) {
+          masteryStatus = "unstarted";
+        } else if (attemptedCount >= 30 && accuracyPercentage >= 85) {
+          masteryStatus = "mastered";
+        } else if (attemptedCount >= 15 && accuracyPercentage >= 70) {
+          masteryStatus = "proficient";
+        } else {
+          masteryStatus = "practicing";
+        }
+
+        return {
+          topicId: topic.id,
+          topicName: topic.name,
+          category: topic.category,
+          totalQuestions: 500,
+          totalAttempted: attemptedCount,
+          totalCorrect: correctCount,
+          accuracy: accuracyPercentage,
+          masteryStatus,
+          lastAttemptedTimestamp: lastPracticedAt,
+        };
+      });
+    } catch {
+      return [];
+    }
   }
 
   // Bookmarks
@@ -279,11 +387,17 @@ export class StorageService {
     const current = this.getSettings();
     const updated = { ...current, ...settings };
     localStorage.setItem(SETTINGS_KEY, JSON.stringify(updated));
+    try {
+      window.dispatchEvent(new CustomEvent("rm-settings-changed", { detail: updated }));
+    } catch {}
     return updated;
   }
 
   // Reset
   static async clearProgress(): Promise<void> {
+    if (typeof window !== "undefined") {
+      localStorage.removeItem(LAST_STUDIED_KEY);
+    }
     return idbStorage.clearProgress();
   }
 
@@ -292,6 +406,11 @@ export class StorageService {
   }
 
   static async clearAllData(): Promise<void> {
-    return idbStorage.clearAll();
+    await this.clearProgress();
+    await this.clearBookmarks();
+    if (typeof window !== "undefined") {
+      localStorage.removeItem(SETTINGS_KEY);
+      localStorage.removeItem(LAST_STUDIED_KEY);
+    }
   }
 }

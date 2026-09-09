@@ -157,7 +157,8 @@ export function Header() {
                     display: "inline-flex",
                     alignItems: "center",
                     gap: "8px",
-                    padding: "0.45rem 0.75rem",
+                    padding: "0.5rem 0.85rem",
+                    minHeight: "40px",
                     borderRadius: "var(--radius-md)",
                     fontSize: "0.92rem",
                     fontWeight: isActive ? 600 : 500,
@@ -193,22 +194,24 @@ export function Header() {
               style={{
                 display: "inline-flex",
                 alignItems: "center",
-                gap: "0.4rem",
-                padding: "0.45rem 0.75rem",
+                gap: "0.45rem",
+                padding: "0.5rem 0.85rem",
+                minHeight: "44px",
                 whiteSpace: "nowrap",
+                borderRadius: "var(--radius-md)",
               }}
               title={`Search topics or exams (${isMac ? "⌘K" : "Ctrl+K"})`}
-              aria-label="Search"
+              aria-label="Search topics and exams"
             >
               <NavIconSearch size={16} />
-              <span className="search-text-label" style={{ fontSize: "0.85rem", fontWeight: 500 }}>
+              <span className="search-text-label" style={{ fontSize: "0.88rem", fontWeight: 500 }}>
                 Search
               </span>
               <kbd
                 className="tag search-shortcut-kbd"
                 style={{
                   fontSize: "0.68rem",
-                  padding: "0.1rem 0.35rem",
+                  padding: "0.15rem 0.4rem",
                   fontFamily: "inherit",
                   borderRadius: "var(--radius-sm)",
                   color: "var(--text-muted)",
@@ -223,17 +226,19 @@ export function Header() {
               href="/settings"
               className="btn btn-secondary btn-sm settings-nav-btn"
               style={{
-                padding: "0.45rem",
+                minWidth: "44px",
+                minHeight: "44px",
+                padding: 0,
                 display: "inline-flex",
                 alignItems: "center",
                 justifyContent: "center",
                 color: pathname === "/settings" ? "var(--color-primary)" : "var(--text-secondary)",
                 borderRadius: "var(--radius-md)",
               }}
-              title="Settings"
+              title="Settings & Display Preferences"
               aria-label="Settings"
             >
-              <NavIconSettings size={18} />
+              <NavIconSettings size={19} />
             </Link>
 
             {/* Theme Toggle Button */}
@@ -249,13 +254,15 @@ export function Header() {
                 display: "none",
                 alignItems: "center",
                 justifyContent: "center",
-                padding: "0.45rem",
+                minWidth: "44px",
+                minHeight: "44px",
+                padding: 0,
                 borderRadius: "var(--radius-md)",
               }}
               title="Open Navigation Menu"
               aria-label="Open Navigation Menu"
             >
-              <NavIconMenu size={20} />
+              <NavIconMenu size={22} />
             </button>
           </div>
         </div>

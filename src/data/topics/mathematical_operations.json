@@ -49,343 +49,483 @@
       ],
       "practiceQuestions": [
         {
-          "questionText": "Mathematical Operations Practice Q1: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "If '+' stands for division (÷), '-' stands for addition (+), '*' stands for subtraction (-), and '/' stands for multiplication (×), what is the value of the following expression?\n\n12 + 6 * 2 - 4 / 2 = ?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Mathematical Operations. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Mathematical Operations Practice Q2: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 2,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Mathematical Operations. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Mathematical Operations Practice Q3: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "12",
+            "16",
+            "6",
+            "8"
           ],
           "correctIndex": 3,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Mathematical Operations. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Strictly follow the BODMAS / PEMDAS order of operations after substituting symbols.",
+          "explanation": "Step 1: Replace symbols with their true mathematical operators:\n12 ÷ 6 - 2 + 4 × 2\nStep 2: Apply BODMAS rule:\n- Division: 12 ÷ 6 = 2\n- Multiplication: 4 × 2 = 8\n- Combine: 2 - 2 + 8 = 8.",
+          "solutionSteps": "Step 1: Replace coded symbols with standard mathematical signs.\nStep 2: Carry out Division and Multiplication first.\nStep 3: Perform Addition and Subtraction to arrive at 8.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Mathematical Operations Practice Q4: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "If '+' stands for division (÷), '-' stands for addition (+), '*' stands for subtraction (-), and '/' stands for multiplication (×), what is the value of the following expression?\n\n24 + 6 * 4 - 6 / 2 = ?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Mathematical Operations. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Mathematical Operations Practice Q5: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Mathematical Operations. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Mathematical Operations Practice Q6: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "16",
+            "10",
+            "12",
+            "20"
           ],
           "correctIndex": 2,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Mathematical Operations. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Strictly follow the BODMAS / PEMDAS order of operations after substituting symbols.",
+          "explanation": "Step 1: Replace symbols with their true mathematical operators:\n24 ÷ 6 - 4 + 6 × 2\nStep 2: Apply BODMAS rule:\n- Division: 24 ÷ 6 = 4\n- Multiplication: 6 × 2 = 12\n- Combine: 4 - 4 + 12 = 12.",
+          "solutionSteps": "Step 1: Replace coded symbols with standard mathematical signs.\nStep 2: Carry out Division and Multiplication first.\nStep 3: Perform Addition and Subtraction to arrive at 12.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Mathematical Operations Practice Q7: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "If '+' stands for division (÷), '-' stands for addition (+), '*' stands for subtraction (-), and '/' stands for multiplication (×), what is the value of the following expression?\n\n12 + 6 * 3 - 4 / 2 = ?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "15",
+            "7",
+            "11",
+            "5"
           ],
-          "correctIndex": 3,
+          "correctIndex": 1,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Mathematical Operations. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Strictly follow the BODMAS / PEMDAS order of operations after substituting symbols.",
+          "explanation": "Step 1: Replace symbols with their true mathematical operators:\n12 ÷ 6 - 3 + 4 × 2\nStep 2: Apply BODMAS rule:\n- Division: 12 ÷ 6 = 2\n- Multiplication: 4 × 2 = 8\n- Combine: 2 - 3 + 8 = 7.",
+          "solutionSteps": "Step 1: Replace coded symbols with standard mathematical signs.\nStep 2: Carry out Division and Multiplication first.\nStep 3: Perform Addition and Subtraction to arrive at 7.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Mathematical Operations Practice Q8: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "If '+' stands for division (÷), '-' stands for addition (+), '*' stands for subtraction (-), and '/' stands for multiplication (×), what is the value of the following expression?\n\n24 + 6 * 2 - 6 / 2 = ?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Mathematical Operations. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Mathematical Operations Practice Q9: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "12",
+            "14",
+            "22",
+            "18"
           ],
           "correctIndex": 1,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Mathematical Operations. Work through the problem step by step using the shortcuts taught in this topic.",
+          "difficulty": "easy",
+          "hint": "Strictly follow the BODMAS / PEMDAS order of operations after substituting symbols.",
+          "explanation": "Step 1: Replace symbols with their true mathematical operators:\n24 ÷ 6 - 2 + 6 × 2\nStep 2: Apply BODMAS rule:\n- Division: 24 ÷ 6 = 4\n- Multiplication: 6 × 2 = 12\n- Combine: 4 - 2 + 12 = 14.",
+          "solutionSteps": "Step 1: Replace coded symbols with standard mathematical signs.\nStep 2: Carry out Division and Multiplication first.\nStep 3: Perform Addition and Subtraction to arrive at 14.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Mathematical Operations Practice Q10: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "If '+' stands for division (÷), '-' stands for addition (+), '*' stands for subtraction (-), and '/' stands for multiplication (×), what is the value of the following expression?\n\n12 + 6 * 4 - 4 / 2 = ?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "14",
+            "10",
+            "6",
+            "4"
+          ],
+          "correctIndex": 2,
+          "difficulty": "easy",
+          "hint": "Strictly follow the BODMAS / PEMDAS order of operations after substituting symbols.",
+          "explanation": "Step 1: Replace symbols with their true mathematical operators:\n12 ÷ 6 - 4 + 4 × 2\nStep 2: Apply BODMAS rule:\n- Division: 12 ÷ 6 = 2\n- Multiplication: 4 × 2 = 8\n- Combine: 2 - 4 + 8 = 6.",
+          "solutionSteps": "Step 1: Replace coded symbols with standard mathematical signs.\nStep 2: Carry out Division and Multiplication first.\nStep 3: Perform Addition and Subtraction to arrive at 6.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "If '+' stands for division (÷), '-' stands for addition (+), '*' stands for subtraction (-), and '/' stands for multiplication (×), what is the value of the following expression?\n\n24 + 6 * 3 - 6 / 2 = ?",
+          "options": [
+            "11",
+            "21",
+            "13",
+            "17"
+          ],
+          "correctIndex": 2,
+          "difficulty": "easy",
+          "hint": "Strictly follow the BODMAS / PEMDAS order of operations after substituting symbols.",
+          "explanation": "Step 1: Replace symbols with their true mathematical operators:\n24 ÷ 6 - 3 + 6 × 2\nStep 2: Apply BODMAS rule:\n- Division: 24 ÷ 6 = 4\n- Multiplication: 6 × 2 = 12\n- Combine: 4 - 3 + 12 = 13.",
+          "solutionSteps": "Step 1: Replace coded symbols with standard mathematical signs.\nStep 2: Carry out Division and Multiplication first.\nStep 3: Perform Addition and Subtraction to arrive at 13.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "If the signs '+' and '-' are interchanged in the expression: 11 + 5 - 3, what will be the resulting value?",
+          "options": [
+            "7",
+            "13",
+            "9",
+            "17"
           ],
           "correctIndex": 2,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Mathematical Operations. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Strictly follow the BODMAS / PEMDAS order of operations after substituting symbols.",
+          "explanation": "Interchanging '+' and '-' transforms the expression into: 11 - 5 + 3.\nEvaluating from left to right: (11 - 5) + 3 = 6 + 3 = 9.",
+          "solutionSteps": "Step 1: Replace coded symbols with standard mathematical signs.\nStep 2: Carry out Division and Multiplication first.\nStep 3: Perform Addition and Subtraction to arrive at 9.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Mathematical Operations Practice Q11: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "If the signs '+' and '-' are interchanged in the expression: 13 + 5 - 3, what will be the resulting value?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Mathematical Operations. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Mathematical Operations Practice Q12: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Mathematical Operations. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Mathematical Operations Practice Q13: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "19",
+            "11",
+            "9",
+            "15"
           ],
           "correctIndex": 1,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Mathematical Operations. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Strictly follow the BODMAS / PEMDAS order of operations after substituting symbols.",
+          "explanation": "Interchanging '+' and '-' transforms the expression into: 13 - 5 + 3.\nEvaluating from left to right: (13 - 5) + 3 = 8 + 3 = 11.",
+          "solutionSteps": "Step 1: Replace coded symbols with standard mathematical signs.\nStep 2: Carry out Division and Multiplication first.\nStep 3: Perform Addition and Subtraction to arrive at 11.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Mathematical Operations Practice Q14: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "If the signs '+' and '-' are interchanged in the expression: 10 + 5 - 3, what will be the resulting value?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "12",
+            "6",
+            "8",
+            "16"
           ],
           "correctIndex": 2,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Mathematical Operations. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Strictly follow the BODMAS / PEMDAS order of operations after substituting symbols.",
+          "explanation": "Interchanging '+' and '-' transforms the expression into: 10 - 5 + 3.\nEvaluating from left to right: (10 - 5) + 3 = 5 + 3 = 8.",
+          "solutionSteps": "Step 1: Replace coded symbols with standard mathematical signs.\nStep 2: Carry out Division and Multiplication first.\nStep 3: Perform Addition and Subtraction to arrive at 8.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Mathematical Operations Practice Q15: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "If the signs '+' and '-' are interchanged in the expression: 12 + 5 - 3, what will be the resulting value?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "18",
+            "14",
+            "8",
+            "10"
           ],
           "correctIndex": 3,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Mathematical Operations. Work through the problem step by step using the shortcuts taught in this topic.",
+          "difficulty": "medium",
+          "hint": "Strictly follow the BODMAS / PEMDAS order of operations after substituting symbols.",
+          "explanation": "Interchanging '+' and '-' transforms the expression into: 12 - 5 + 3.\nEvaluating from left to right: (12 - 5) + 3 = 7 + 3 = 10.",
+          "solutionSteps": "Step 1: Replace coded symbols with standard mathematical signs.\nStep 2: Carry out Division and Multiplication first.\nStep 3: Perform Addition and Subtraction to arrive at 10.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Mathematical Operations Practice Q16: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "If the signs '+' and '-' are interchanged in the expression: 14 + 5 - 3, what will be the resulting value?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Mathematical Operations. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Mathematical Operations Practice Q17: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Mathematical Operations. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Mathematical Operations Practice Q18: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "16",
+            "20",
+            "12",
+            "10"
           ],
           "correctIndex": 2,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Mathematical Operations. Work through the problem step by step using the shortcuts taught in this topic.",
+          "difficulty": "medium",
+          "hint": "Strictly follow the BODMAS / PEMDAS order of operations after substituting symbols.",
+          "explanation": "Interchanging '+' and '-' transforms the expression into: 14 - 5 + 3.\nEvaluating from left to right: (14 - 5) + 3 = 9 + 3 = 12.",
+          "solutionSteps": "Step 1: Replace coded symbols with standard mathematical signs.\nStep 2: Carry out Division and Multiplication first.\nStep 3: Perform Addition and Subtraction to arrive at 12.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Mathematical Operations Practice Q19: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "If the signs '+' and '-' are interchanged in the expression: 11 + 5 - 3, what will be the resulting value?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "13",
+            "9",
+            "7",
+            "17"
           ],
-          "correctIndex": 3,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Mathematical Operations. Work through the problem step by step using the shortcuts taught in this topic.",
+          "correctIndex": 1,
+          "difficulty": "medium",
+          "hint": "Strictly follow the BODMAS / PEMDAS order of operations after substituting symbols.",
+          "explanation": "Interchanging '+' and '-' transforms the expression into: 11 - 5 + 3.\nEvaluating from left to right: (11 - 5) + 3 = 6 + 3 = 9.",
+          "solutionSteps": "Step 1: Replace coded symbols with standard mathematical signs.\nStep 2: Carry out Division and Multiplication first.\nStep 3: Perform Addition and Subtraction to arrive at 9.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Mathematical Operations Practice Q20: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "If the signs '+' and '-' are interchanged in the expression: 13 + 5 - 3, what will be the resulting value?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "11",
+            "15",
+            "9",
+            "19"
           ],
           "correctIndex": 0,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Mathematical Operations. Work through the problem step by step using the shortcuts taught in this topic.",
+          "difficulty": "medium",
+          "hint": "Strictly follow the BODMAS / PEMDAS order of operations after substituting symbols.",
+          "explanation": "Interchanging '+' and '-' transforms the expression into: 13 - 5 + 3.\nEvaluating from left to right: (13 - 5) + 3 = 8 + 3 = 11.",
+          "solutionSteps": "Step 1: Replace coded symbols with standard mathematical signs.\nStep 2: Carry out Division and Multiplication first.\nStep 3: Perform Addition and Subtraction to arrive at 11.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "If the signs '+' and '-' are interchanged in the expression: 10 + 5 - 3, what will be the resulting value?",
+          "options": [
+            "12",
+            "6",
+            "8",
+            "16"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "hint": "Strictly follow the BODMAS / PEMDAS order of operations after substituting symbols.",
+          "explanation": "Interchanging '+' and '-' transforms the expression into: 10 - 5 + 3.\nEvaluating from left to right: (10 - 5) + 3 = 5 + 3 = 8.",
+          "solutionSteps": "Step 1: Replace coded symbols with standard mathematical signs.\nStep 2: Carry out Division and Multiplication first.\nStep 3: Perform Addition and Subtraction to arrive at 8.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "If '+' stands for division (÷), '-' stands for addition (+), '*' stands for subtraction (-), and '/' stands for multiplication (×), what is the value of the following expression?\n\n12 + 6 * 2 - 4 / 2 = ?",
+          "options": [
+            "8",
+            "6",
+            "12",
+            "16"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "hint": "Strictly follow the BODMAS / PEMDAS order of operations after substituting symbols.",
+          "explanation": "Step 1: Replace symbols with their true mathematical operators:\n12 ÷ 6 - 2 + 4 × 2\nStep 2: Apply BODMAS rule:\n- Division: 12 ÷ 6 = 2\n- Multiplication: 4 × 2 = 8\n- Combine: 2 - 2 + 8 = 8.",
+          "solutionSteps": "Step 1: Replace coded symbols with standard mathematical signs.\nStep 2: Carry out Division and Multiplication first.\nStep 3: Perform Addition and Subtraction to arrive at 8.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "If '+' stands for division (÷), '-' stands for addition (+), '*' stands for subtraction (-), and '/' stands for multiplication (×), what is the value of the following expression?\n\n24 + 6 * 4 - 6 / 2 = ?",
+          "options": [
+            "16",
+            "10",
+            "12",
+            "20"
+          ],
+          "correctIndex": 2,
+          "difficulty": "easy",
+          "hint": "Strictly follow the BODMAS / PEMDAS order of operations after substituting symbols.",
+          "explanation": "Step 1: Replace symbols with their true mathematical operators:\n24 ÷ 6 - 4 + 6 × 2\nStep 2: Apply BODMAS rule:\n- Division: 24 ÷ 6 = 4\n- Multiplication: 6 × 2 = 12\n- Combine: 4 - 4 + 12 = 12.",
+          "solutionSteps": "Step 1: Replace coded symbols with standard mathematical signs.\nStep 2: Carry out Division and Multiplication first.\nStep 3: Perform Addition and Subtraction to arrive at 12.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "If '+' stands for division (÷), '-' stands for addition (+), '*' stands for subtraction (-), and '/' stands for multiplication (×), what is the value of the following expression?\n\n12 + 6 * 3 - 4 / 2 = ?",
+          "options": [
+            "7",
+            "5",
+            "11",
+            "15"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "hint": "Strictly follow the BODMAS / PEMDAS order of operations after substituting symbols.",
+          "explanation": "Step 1: Replace symbols with their true mathematical operators:\n12 ÷ 6 - 3 + 4 × 2\nStep 2: Apply BODMAS rule:\n- Division: 12 ÷ 6 = 2\n- Multiplication: 4 × 2 = 8\n- Combine: 2 - 3 + 8 = 7.",
+          "solutionSteps": "Step 1: Replace coded symbols with standard mathematical signs.\nStep 2: Carry out Division and Multiplication first.\nStep 3: Perform Addition and Subtraction to arrive at 7.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "If the signs '+' and '-' are interchanged in the expression: 12 + 5 - 3, what will be the resulting value?",
+          "options": [
+            "14",
+            "18",
+            "10",
+            "8"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "hint": "Strictly follow the BODMAS / PEMDAS order of operations after substituting symbols.",
+          "explanation": "Interchanging '+' and '-' transforms the expression into: 12 - 5 + 3.\nEvaluating from left to right: (12 - 5) + 3 = 7 + 3 = 10.",
+          "solutionSteps": "Step 1: Replace coded symbols with standard mathematical signs.\nStep 2: Carry out Division and Multiplication first.\nStep 3: Perform Addition and Subtraction to arrive at 10.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "If '+' stands for division (÷), '-' stands for addition (+), '*' stands for subtraction (-), and '/' stands for multiplication (×), what is the value of the following expression?\n\n24 + 6 * 2 - 6 / 2 = ?",
+          "options": [
+            "14",
+            "22",
+            "12",
+            "18"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "hint": "Strictly follow the BODMAS / PEMDAS order of operations after substituting symbols.",
+          "explanation": "Step 1: Replace symbols with their true mathematical operators:\n24 ÷ 6 - 2 + 6 × 2\nStep 2: Apply BODMAS rule:\n- Division: 24 ÷ 6 = 4\n- Multiplication: 6 × 2 = 12\n- Combine: 4 - 2 + 12 = 14.",
+          "solutionSteps": "Step 1: Replace coded symbols with standard mathematical signs.\nStep 2: Carry out Division and Multiplication first.\nStep 3: Perform Addition and Subtraction to arrive at 14.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "If the signs '+' and '-' are interchanged in the expression: 14 + 5 - 3, what will be the resulting value?",
+          "options": [
+            "20",
+            "10",
+            "12",
+            "16"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "hint": "Strictly follow the BODMAS / PEMDAS order of operations after substituting symbols.",
+          "explanation": "Interchanging '+' and '-' transforms the expression into: 14 - 5 + 3.\nEvaluating from left to right: (14 - 5) + 3 = 9 + 3 = 12.",
+          "solutionSteps": "Step 1: Replace coded symbols with standard mathematical signs.\nStep 2: Carry out Division and Multiplication first.\nStep 3: Perform Addition and Subtraction to arrive at 12.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         }
       ]

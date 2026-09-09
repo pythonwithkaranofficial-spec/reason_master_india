@@ -6,10 +6,13 @@ import { Zap, BookOpen, Eye, Award, Sliders, TrendingUp, AlertTriangle, ArrowRig
 import { Breadcrumb } from "@/components/ui/Breadcrumb";
 import { ALL_TOPICS_SUMMARY } from "@/data/topics-index";
 import { EXAM_CATEGORIES } from "@/data/categories";
+import { TopicIcon } from "@/components/topics/TopicIcon";
 import { StorageService } from "@/lib/persistence/StorageService";
 import { StatsEngine, OverallStats } from "@/lib/stats/StatsEngine";
+import { useUserSettings } from "@/lib/settings/SettingsProvider";
 
 export default function PracticeHubPage() {
+  const { settings, isLoaded } = useUserSettings();
   const [stats, setStats] = useState<OverallStats | null>(null);
 
   useEffect(() => {
@@ -102,7 +105,7 @@ export default function PracticeHubPage() {
             {stats.weakTopics.slice(0, 2).map((w) => (
               <Link
                 key={w.topicId}
-                href={`/practice/session?topicIds=${w.topicId}&count=10`}
+                href={`/practice/session?topicIds=${w.topicId}&count=${isLoaded ? settings.defaultQuestionCount : 10}&mode=${isLoaded && settings.instantFeedback ? "instant" : "review"}`}
                 className="btn btn-secondary btn-sm"
               >
                 Practice {w.topicName} ({w.accuracy}%)
@@ -117,24 +120,24 @@ export default function PracticeHubPage() {
         <h2 style={{ fontSize: "1.4rem", marginBottom: "var(--space-4)" }}>Quick Practice Presets</h2>
 
         <div className="grid-cards">
-          {/* Quick 10 */}
+          {/* Dynamic Default Sprint */}
           <Link
-            href="/practice/session?count=10&difficulty=mixed"
+            href={`/practice/session?count=${isLoaded ? settings.defaultQuestionCount : 10}&difficulty=mixed&mode=${isLoaded && settings.instantFeedback ? "instant" : "review"}`}
             className="rm-card rm-card-interactive"
-            style={{ textDecoration: "none" }}
+            style={{ textDecoration: "none", border: "1.5px solid var(--color-primary)" }}
           >
             <div style={{ display: "flex", alignItems: "center", justifyContent: "space-between", marginBottom: "var(--space-3)" }}>
-              <span className="badge badge-accent">10 Questions</span>
-              <span className="tag" style={{ fontSize: "0.75rem" }}>~8 Mins</span>
+              <span className="badge badge-accent">★ Your Default ({isLoaded ? settings.defaultQuestionCount : 10} Qs)</span>
+              <span className="tag" style={{ fontSize: "0.75rem" }}>~{Math.round((isLoaded ? settings.defaultQuestionCount : 10) * 0.75)} Mins</span>
             </div>
             <h3 style={{ fontSize: "1.2rem", marginBottom: "var(--space-2)", color: "var(--text-primary)" }}>
-              Quick Mixed Sprint
+              Custom Default Sprint
             </h3>
             <p style={{ fontSize: "0.88rem", color: "var(--text-secondary)", marginBottom: "var(--space-4)" }}>
-              Rapid 10-question mixed verbal and non-verbal test to keep your reasoning reflexes sharp.
+              Fast mixed test matching your {isLoaded ? settings.defaultQuestionCount : 10}-question practice preference from Settings.
             </p>
             <div style={{ color: "var(--color-accent)", fontWeight: 600, fontSize: "0.88rem" }}>
-              Start 10-Q Sprint →
+              Start {isLoaded ? settings.defaultQuestionCount : 10}-Q Sprint →
             </div>
           </Link>
 
@@ -205,7 +208,7 @@ export default function PracticeHubPage() {
           {ALL_TOPICS_SUMMARY.map((topic) => (
             <Link
               key={topic.id}
-              href={`/practice/session?topicIds=${topic.id}&count=20&difficulty=mixed`}
+              href={`/practice/session?topicIds=${topic.id}&count=${isLoaded ? settings.defaultQuestionCount : 20}&difficulty=mixed&mode=${isLoaded && settings.instantFeedback ? "instant" : "review"}`}
               className="rm-card rm-card-interactive"
               style={{
                 padding: "var(--space-3) var(--space-4)",
@@ -213,18 +216,31 @@ export default function PracticeHubPage() {
                 display: "flex",
                 alignItems: "center",
                 justifyContent: "space-between",
+                gap: "var(--space-3)",
               }}
             >
-              <div>
-                <div style={{ fontWeight: 600, fontSize: "0.92rem", color: "var(--text-primary)" }}>
-                  {topic.name}
-                </div>
-                <div style={{ fontSize: "0.75rem", color: "var(--text-muted)" }}>
-                  {topic.category === "verbal" ? "Verbal" : "Non-Verbal"} • 500 MCQs
+              <div style={{ display: "flex", alignItems: "center", gap: "var(--space-3)", minWidth: 0 }}>
+                <TopicIcon topicId={topic.id} category={topic.category} size={16} badgeSize={34} variant="badge" />
+                <div style={{ minWidth: 0 }}>
+                  <div
+                    style={{
+                      fontWeight: 600,
+                      fontSize: "0.92rem",
+                      color: "var(--text-primary)",
+                      whiteSpace: "nowrap",
+                      overflow: "hidden",
+                      textOverflow: "ellipsis",
+                    }}
+                  >
+                    {topic.name}
+                  </div>
+                  <div style={{ fontSize: "0.75rem", color: "var(--text-muted)" }}>
+                    {topic.category === "verbal" ? "Verbal" : "Non-Verbal"} • 500 MCQs
+                  </div>
                 </div>
               </div>
 
-              <span style={{ color: "var(--color-primary)" }}>
+              <span style={{ color: "var(--color-primary)", flexShrink: 0 }}>
                 <Zap size={16} />
               </span>
             </Link>

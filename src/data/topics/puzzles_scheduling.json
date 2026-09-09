@@ -49,343 +49,463 @@
       ],
       "practiceQuestions": [
         {
-          "questionText": "Puzzles — Scheduling Practice Q1: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "In a 7-day workshop from Monday to Sunday, English is on Monday and Economics is on Friday. How many lectures are scheduled between English and Economics?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Puzzles — Scheduling. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "IBPS Clerk"
-          ]
-        },
-        {
-          "questionText": "Puzzles — Scheduling Practice Q2: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "2 lectures",
+            "4 lectures",
+            "3 lectures",
+            "1 lecture"
           ],
           "correctIndex": 2,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Puzzles — Scheduling. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Follow the calendar progression from Monday through Sunday.",
+          "explanation": "Between Monday (English) and Friday (Economics), lectures take place on Tuesday, Wednesday, and Thursday. Exactly 3 lectures take place between them.",
+          "solutionSteps": "Step 1: Write down days of the week in chronological order: Mon, Tue, Wed, Thu, Fri, Sat, Sun.\nStep 2: Map each event/lecture to its scheduled day.\nStep 3: Read the required output: 3 lectures.",
           "examTags": [
             "IBPS PO",
+            "IBPS CLERK",
             "SBI PO",
-            "IBPS Clerk"
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
           ]
         },
         {
-          "questionText": "Puzzles — Scheduling Practice Q3: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "In a 7-day workshop from Monday to Sunday, Economics is on Monday and Chemistry is on Friday. How many lectures are scheduled between Economics and Chemistry?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Puzzles — Scheduling. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "IBPS Clerk"
-          ]
-        },
-        {
-          "questionText": "Puzzles — Scheduling Practice Q4: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Puzzles — Scheduling. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "IBPS Clerk"
-          ]
-        },
-        {
-          "questionText": "Puzzles — Scheduling Practice Q5: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Puzzles — Scheduling. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "IBPS Clerk"
-          ]
-        },
-        {
-          "questionText": "Puzzles — Scheduling Practice Q6: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "2 lectures",
+            "4 lectures",
+            "3 lectures",
+            "1 lecture"
           ],
           "correctIndex": 2,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Puzzles — Scheduling. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Follow the calendar progression from Monday through Sunday.",
+          "explanation": "Between Monday (Economics) and Friday (Chemistry), lectures take place on Tuesday, Wednesday, and Thursday. Exactly 3 lectures take place between them.",
+          "solutionSteps": "Step 1: Write down days of the week in chronological order: Mon, Tue, Wed, Thu, Fri, Sat, Sun.\nStep 2: Map each event/lecture to its scheduled day.\nStep 3: Read the required output: 3 lectures.",
           "examTags": [
             "IBPS PO",
+            "IBPS CLERK",
             "SBI PO",
-            "IBPS Clerk"
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
           ]
         },
         {
-          "questionText": "Puzzles — Scheduling Practice Q7: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "In a 7-day workshop from Monday to Sunday, Physics is on Monday and Chemistry is on Friday. How many lectures are scheduled between Physics and Chemistry?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "1 lecture",
+            "2 lectures",
+            "3 lectures",
+            "4 lectures"
           ],
-          "correctIndex": 3,
+          "correctIndex": 2,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Puzzles — Scheduling. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Follow the calendar progression from Monday through Sunday.",
+          "explanation": "Between Monday (Physics) and Friday (Chemistry), lectures take place on Tuesday, Wednesday, and Thursday. Exactly 3 lectures take place between them.",
+          "solutionSteps": "Step 1: Write down days of the week in chronological order: Mon, Tue, Wed, Thu, Fri, Sat, Sun.\nStep 2: Map each event/lecture to its scheduled day.\nStep 3: Read the required output: 3 lectures.",
           "examTags": [
             "IBPS PO",
+            "IBPS CLERK",
             "SBI PO",
-            "IBPS Clerk"
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
           ]
         },
         {
-          "questionText": "Puzzles — Scheduling Practice Q8: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "In a 7-day workshop from Monday to Sunday, Physics is on Monday and English is on Friday. How many lectures are scheduled between Physics and English?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Puzzles — Scheduling. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "IBPS Clerk"
-          ]
-        },
-        {
-          "questionText": "Puzzles — Scheduling Practice Q9: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "2 lectures",
+            "3 lectures",
+            "4 lectures",
+            "1 lecture"
           ],
           "correctIndex": 1,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Puzzles — Scheduling. Work through the problem step by step using the shortcuts taught in this topic.",
+          "difficulty": "easy",
+          "hint": "Follow the calendar progression from Monday through Sunday.",
+          "explanation": "Between Monday (Physics) and Friday (English), lectures take place on Tuesday, Wednesday, and Thursday. Exactly 3 lectures take place between them.",
+          "solutionSteps": "Step 1: Write down days of the week in chronological order: Mon, Tue, Wed, Thu, Fri, Sat, Sun.\nStep 2: Map each event/lecture to its scheduled day.\nStep 3: Read the required output: 3 lectures.",
           "examTags": [
             "IBPS PO",
+            "IBPS CLERK",
             "SBI PO",
-            "IBPS Clerk"
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
           ]
         },
         {
-          "questionText": "Puzzles — Scheduling Practice Q10: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "In a 7-day workshop from Monday to Sunday, Physics is on Monday and Chemistry is on Friday. How many lectures are scheduled between Physics and Chemistry?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "2 lectures",
+            "4 lectures",
+            "3 lectures",
+            "1 lecture"
           ],
           "correctIndex": 2,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Puzzles — Scheduling. Work through the problem step by step using the shortcuts taught in this topic.",
+          "difficulty": "easy",
+          "hint": "Follow the calendar progression from Monday through Sunday.",
+          "explanation": "Between Monday (Physics) and Friday (Chemistry), lectures take place on Tuesday, Wednesday, and Thursday. Exactly 3 lectures take place between them.",
+          "solutionSteps": "Step 1: Write down days of the week in chronological order: Mon, Tue, Wed, Thu, Fri, Sat, Sun.\nStep 2: Map each event/lecture to its scheduled day.\nStep 3: Read the required output: 3 lectures.",
           "examTags": [
             "IBPS PO",
+            "IBPS CLERK",
             "SBI PO",
-            "IBPS Clerk"
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
           ]
         },
         {
-          "questionText": "Puzzles — Scheduling Practice Q11: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "In a 7-day workshop from Monday to Sunday, Biology is on Monday and Economics is on Friday. How many lectures are scheduled between Biology and Economics?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "2 lectures",
+            "1 lecture",
+            "3 lectures",
+            "4 lectures"
+          ],
+          "correctIndex": 2,
+          "difficulty": "easy",
+          "hint": "Follow the calendar progression from Monday through Sunday.",
+          "explanation": "Between Monday (Biology) and Friday (Economics), lectures take place on Tuesday, Wednesday, and Thursday. Exactly 3 lectures take place between them.",
+          "solutionSteps": "Step 1: Write down days of the week in chronological order: Mon, Tue, Wed, Thu, Fri, Sat, Sun.\nStep 2: Map each event/lecture to its scheduled day.\nStep 3: Read the required output: 3 lectures.",
+          "examTags": [
+            "IBPS PO",
+            "IBPS CLERK",
+            "SBI PO",
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
+          ]
+        },
+        {
+          "questionText": "Seven lectures (Maths, Physics, Chemistry, Biology, English, History, Economics) are scheduled from Monday to Sunday, with one lecture per day.\nThe schedule is:\nMonday: Chemistry, Tuesday: Physics, Wednesday: History, Thursday: English, Friday: Maths, Saturday: Biology, Sunday: Economics.\nOn which day is the Chemistry lecture scheduled?",
+          "options": [
+            "Tuesday",
+            "Thursday",
+            "Wednesday",
+            "Monday"
           ],
           "correctIndex": 3,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Puzzles — Scheduling. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Follow the calendar progression from Monday through Sunday.",
+          "explanation": "Looking at the confirmed timetable, the lecture on Chemistry is scheduled on Monday.",
+          "solutionSteps": "Step 1: Write down days of the week in chronological order: Mon, Tue, Wed, Thu, Fri, Sat, Sun.\nStep 2: Map each event/lecture to its scheduled day.\nStep 3: Read the required output: Monday.",
           "examTags": [
             "IBPS PO",
+            "IBPS CLERK",
             "SBI PO",
-            "IBPS Clerk"
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
           ]
         },
         {
-          "questionText": "Puzzles — Scheduling Practice Q12: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "According to a seven-day seminar schedule from Monday to Sunday:\nMonday: Maths, Tuesday: Economics, Wednesday: Biology, Thursday: English, Friday: Chemistry, Saturday: Physics, Sunday: History.\nWhich subject seminar takes place on Friday?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Puzzles — Scheduling. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "IBPS Clerk"
-          ]
-        },
-        {
-          "questionText": "Puzzles — Scheduling Practice Q13: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Puzzles — Scheduling. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "IBPS Clerk"
-          ]
-        },
-        {
-          "questionText": "Puzzles — Scheduling Practice Q14: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Physics",
+            "Maths",
+            "Chemistry",
+            "Biology"
           ],
           "correctIndex": 2,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Puzzles — Scheduling. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Follow the calendar progression from Monday through Sunday.",
+          "explanation": "From the weekly schedule, the subject scheduled on Friday is Chemistry.",
+          "solutionSteps": "Step 1: Write down days of the week in chronological order: Mon, Tue, Wed, Thu, Fri, Sat, Sun.\nStep 2: Map each event/lecture to its scheduled day.\nStep 3: Read the required output: Chemistry.",
           "examTags": [
             "IBPS PO",
+            "IBPS CLERK",
             "SBI PO",
-            "IBPS Clerk"
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
           ]
         },
         {
-          "questionText": "Puzzles — Scheduling Practice Q15: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "Seven lectures (Maths, Physics, Chemistry, Biology, English, History, Economics) are scheduled from Monday to Sunday, with one lecture per day.\nThe schedule is:\nMonday: Physics, Tuesday: History, Wednesday: English, Thursday: Biology, Friday: Economics, Saturday: Chemistry, Sunday: Maths.\nOn which day is the Biology lecture scheduled?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Puzzles — Scheduling. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "IBPS Clerk"
-          ]
-        },
-        {
-          "questionText": "Puzzles — Scheduling Practice Q16: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Puzzles — Scheduling. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "IBPS Clerk"
-          ]
-        },
-        {
-          "questionText": "Puzzles — Scheduling Practice Q17: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Sunday",
+            "Thursday",
+            "Saturday",
+            "Friday"
           ],
           "correctIndex": 1,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Puzzles — Scheduling. Work through the problem step by step using the shortcuts taught in this topic.",
+          "difficulty": "medium",
+          "hint": "Follow the calendar progression from Monday through Sunday.",
+          "explanation": "Looking at the confirmed timetable, the lecture on Biology is scheduled on Thursday.",
+          "solutionSteps": "Step 1: Write down days of the week in chronological order: Mon, Tue, Wed, Thu, Fri, Sat, Sun.\nStep 2: Map each event/lecture to its scheduled day.\nStep 3: Read the required output: Thursday.",
           "examTags": [
             "IBPS PO",
+            "IBPS CLERK",
             "SBI PO",
-            "IBPS Clerk"
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
           ]
         },
         {
-          "questionText": "Puzzles — Scheduling Practice Q18: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "According to a seven-day seminar schedule from Monday to Sunday:\nMonday: Physics, Tuesday: Chemistry, Wednesday: Biology, Thursday: Maths, Friday: Economics, Saturday: English, Sunday: History.\nWhich subject seminar takes place on Monday?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Biology",
+            "Physics",
+            "Maths",
+            "Chemistry"
           ],
-          "correctIndex": 2,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Puzzles — Scheduling. Work through the problem step by step using the shortcuts taught in this topic.",
+          "correctIndex": 1,
+          "difficulty": "medium",
+          "hint": "Follow the calendar progression from Monday through Sunday.",
+          "explanation": "From the weekly schedule, the subject scheduled on Monday is Physics.",
+          "solutionSteps": "Step 1: Write down days of the week in chronological order: Mon, Tue, Wed, Thu, Fri, Sat, Sun.\nStep 2: Map each event/lecture to its scheduled day.\nStep 3: Read the required output: Physics.",
           "examTags": [
             "IBPS PO",
+            "IBPS CLERK",
             "SBI PO",
-            "IBPS Clerk"
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
           ]
         },
         {
-          "questionText": "Puzzles — Scheduling Practice Q19: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "Seven lectures (Maths, Physics, Chemistry, Biology, English, History, Economics) are scheduled from Monday to Sunday, with one lecture per day.\nThe schedule is:\nMonday: Economics, Tuesday: History, Wednesday: Physics, Thursday: Chemistry, Friday: Maths, Saturday: Biology, Sunday: English.\nOn which day is the English lecture scheduled?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Tuesday",
+            "Sunday",
+            "Wednesday",
+            "Monday"
+          ],
+          "correctIndex": 1,
+          "difficulty": "medium",
+          "hint": "Follow the calendar progression from Monday through Sunday.",
+          "explanation": "Looking at the confirmed timetable, the lecture on English is scheduled on Sunday.",
+          "solutionSteps": "Step 1: Write down days of the week in chronological order: Mon, Tue, Wed, Thu, Fri, Sat, Sun.\nStep 2: Map each event/lecture to its scheduled day.\nStep 3: Read the required output: Sunday.",
+          "examTags": [
+            "IBPS PO",
+            "IBPS CLERK",
+            "SBI PO",
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
+          ]
+        },
+        {
+          "questionText": "According to a seven-day seminar schedule from Monday to Sunday:\nMonday: English, Tuesday: Economics, Wednesday: Physics, Thursday: History, Friday: Biology, Saturday: Maths, Sunday: Chemistry.\nWhich subject seminar takes place on Thursday?",
+          "options": [
+            "Chemistry",
+            "Maths",
+            "Physics",
+            "History"
           ],
           "correctIndex": 3,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Puzzles — Scheduling. Work through the problem step by step using the shortcuts taught in this topic.",
+          "difficulty": "medium",
+          "hint": "Follow the calendar progression from Monday through Sunday.",
+          "explanation": "From the weekly schedule, the subject scheduled on Thursday is History.",
+          "solutionSteps": "Step 1: Write down days of the week in chronological order: Mon, Tue, Wed, Thu, Fri, Sat, Sun.\nStep 2: Map each event/lecture to its scheduled day.\nStep 3: Read the required output: History.",
           "examTags": [
             "IBPS PO",
+            "IBPS CLERK",
             "SBI PO",
-            "IBPS Clerk"
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
           ]
         },
         {
-          "questionText": "Puzzles — Scheduling Practice Q20: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "Seven lectures (Maths, Physics, Chemistry, Biology, English, History, Economics) are scheduled from Monday to Sunday, with one lecture per day.\nThe schedule is:\nMonday: Maths, Tuesday: Economics, Wednesday: Physics, Thursday: History, Friday: Biology, Saturday: Chemistry, Sunday: English.\nOn which day is the Physics lecture scheduled?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Thursday",
+            "Saturday",
+            "Wednesday",
+            "Friday"
           ],
-          "correctIndex": 0,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Puzzles — Scheduling. Work through the problem step by step using the shortcuts taught in this topic.",
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "hint": "Follow the calendar progression from Monday through Sunday.",
+          "explanation": "Looking at the confirmed timetable, the lecture on Physics is scheduled on Wednesday.",
+          "solutionSteps": "Step 1: Write down days of the week in chronological order: Mon, Tue, Wed, Thu, Fri, Sat, Sun.\nStep 2: Map each event/lecture to its scheduled day.\nStep 3: Read the required output: Wednesday.",
           "examTags": [
             "IBPS PO",
+            "IBPS CLERK",
             "SBI PO",
-            "IBPS Clerk"
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
+          ]
+        },
+        {
+          "questionText": "According to a seven-day seminar schedule from Monday to Sunday:\nMonday: English, Tuesday: Chemistry, Wednesday: Biology, Thursday: History, Friday: Maths, Saturday: Economics, Sunday: Physics.\nWhich subject seminar takes place on Sunday?",
+          "options": [
+            "Chemistry",
+            "Biology",
+            "Physics",
+            "Maths"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "hint": "Follow the calendar progression from Monday through Sunday.",
+          "explanation": "From the weekly schedule, the subject scheduled on Sunday is Physics.",
+          "solutionSteps": "Step 1: Write down days of the week in chronological order: Mon, Tue, Wed, Thu, Fri, Sat, Sun.\nStep 2: Map each event/lecture to its scheduled day.\nStep 3: Read the required output: Physics.",
+          "examTags": [
+            "IBPS PO",
+            "IBPS CLERK",
+            "SBI PO",
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
+          ]
+        },
+        {
+          "questionText": "Seven lectures (Maths, Physics, Chemistry, Biology, English, History, Economics) are scheduled from Monday to Sunday, with one lecture per day.\nThe schedule is:\nMonday: Maths, Tuesday: Physics, Wednesday: Biology, Thursday: Economics, Friday: English, Saturday: Chemistry, Sunday: History.\nOn which day is the Chemistry lecture scheduled?",
+          "options": [
+            "Saturday",
+            "Monday",
+            "Sunday",
+            "Tuesday"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "hint": "Follow the calendar progression from Monday through Sunday.",
+          "explanation": "Looking at the confirmed timetable, the lecture on Chemistry is scheduled on Saturday.",
+          "solutionSteps": "Step 1: Write down days of the week in chronological order: Mon, Tue, Wed, Thu, Fri, Sat, Sun.\nStep 2: Map each event/lecture to its scheduled day.\nStep 3: Read the required output: Saturday.",
+          "examTags": [
+            "IBPS PO",
+            "IBPS CLERK",
+            "SBI PO",
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
+          ]
+        },
+        {
+          "questionText": "According to a seven-day seminar schedule from Monday to Sunday:\nMonday: English, Tuesday: Maths, Wednesday: Physics, Thursday: Biology, Friday: Economics, Saturday: History, Sunday: Chemistry.\nWhich subject seminar takes place on Wednesday?",
+          "options": [
+            "Physics",
+            "Maths",
+            "Chemistry",
+            "Biology"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "hint": "Follow the calendar progression from Monday through Sunday.",
+          "explanation": "From the weekly schedule, the subject scheduled on Wednesday is Physics.",
+          "solutionSteps": "Step 1: Write down days of the week in chronological order: Mon, Tue, Wed, Thu, Fri, Sat, Sun.\nStep 2: Map each event/lecture to its scheduled day.\nStep 3: Read the required output: Physics.",
+          "examTags": [
+            "IBPS PO",
+            "IBPS CLERK",
+            "SBI PO",
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
+          ]
+        },
+        {
+          "questionText": "Seven lectures (Maths, Physics, Chemistry, Biology, English, History, Economics) are scheduled from Monday to Sunday, with one lecture per day.\nThe schedule is:\nMonday: Biology, Tuesday: Physics, Wednesday: Economics, Thursday: History, Friday: English, Saturday: Maths, Sunday: Chemistry.\nOn which day is the Physics lecture scheduled?",
+          "options": [
+            "Wednesday",
+            "Thursday",
+            "Tuesday",
+            "Friday"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "hint": "Follow the calendar progression from Monday through Sunday.",
+          "explanation": "Looking at the confirmed timetable, the lecture on Physics is scheduled on Tuesday.",
+          "solutionSteps": "Step 1: Write down days of the week in chronological order: Mon, Tue, Wed, Thu, Fri, Sat, Sun.\nStep 2: Map each event/lecture to its scheduled day.\nStep 3: Read the required output: Tuesday.",
+          "examTags": [
+            "IBPS PO",
+            "IBPS CLERK",
+            "SBI PO",
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
+          ]
+        },
+        {
+          "questionText": "According to a seven-day seminar schedule from Monday to Sunday:\nMonday: Biology, Tuesday: Maths, Wednesday: History, Thursday: English, Friday: Physics, Saturday: Chemistry, Sunday: Economics.\nWhich subject seminar takes place on Saturday?",
+          "options": [
+            "Chemistry",
+            "Physics",
+            "Maths",
+            "Biology"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "hint": "Follow the calendar progression from Monday through Sunday.",
+          "explanation": "From the weekly schedule, the subject scheduled on Saturday is Chemistry.",
+          "solutionSteps": "Step 1: Write down days of the week in chronological order: Mon, Tue, Wed, Thu, Fri, Sat, Sun.\nStep 2: Map each event/lecture to its scheduled day.\nStep 3: Read the required output: Chemistry.",
+          "examTags": [
+            "IBPS PO",
+            "IBPS CLERK",
+            "SBI PO",
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
+          ]
+        },
+        {
+          "questionText": "Seven lectures (Maths, Physics, Chemistry, Biology, English, History, Economics) are scheduled from Monday to Sunday, with one lecture per day.\nThe schedule is:\nMonday: History, Tuesday: Economics, Wednesday: English, Thursday: Chemistry, Friday: Biology, Saturday: Maths, Sunday: Physics.\nOn which day is the Biology lecture scheduled?",
+          "options": [
+            "Friday",
+            "Monday",
+            "Sunday",
+            "Saturday"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "hint": "Follow the calendar progression from Monday through Sunday.",
+          "explanation": "Looking at the confirmed timetable, the lecture on Biology is scheduled on Friday.",
+          "solutionSteps": "Step 1: Write down days of the week in chronological order: Mon, Tue, Wed, Thu, Fri, Sat, Sun.\nStep 2: Map each event/lecture to its scheduled day.\nStep 3: Read the required output: Friday.",
+          "examTags": [
+            "IBPS PO",
+            "IBPS CLERK",
+            "SBI PO",
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
+          ]
+        },
+        {
+          "questionText": "According to a seven-day seminar schedule from Monday to Sunday:\nMonday: Physics, Tuesday: Chemistry, Wednesday: English, Thursday: Economics, Friday: Maths, Saturday: Biology, Sunday: History.\nWhich subject seminar takes place on Tuesday?",
+          "options": [
+            "Biology",
+            "Physics",
+            "Chemistry",
+            "Maths"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "hint": "Follow the calendar progression from Monday through Sunday.",
+          "explanation": "From the weekly schedule, the subject scheduled on Tuesday is Chemistry.",
+          "solutionSteps": "Step 1: Write down days of the week in chronological order: Mon, Tue, Wed, Thu, Fri, Sat, Sun.\nStep 2: Map each event/lecture to its scheduled day.\nStep 3: Read the required output: Chemistry.",
+          "examTags": [
+            "IBPS PO",
+            "IBPS CLERK",
+            "SBI PO",
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
           ]
         }
       ]

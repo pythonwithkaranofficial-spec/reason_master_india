@@ -22,10 +22,12 @@ import {
   CheckCircle2,
   AlertCircle,
 } from "lucide-react";
+import { useUserSettings } from "@/lib/settings/SettingsProvider";
 
 function SessionRunner() {
   const router = useRouter();
   const searchParams = useSearchParams();
+  const { settings, isLoaded } = useUserSettings();
 
   const [questions, setQuestions] = useState<MCQQuestion[]>([]);
   const [currentIndex, setCurrentIndex] = useState(0);
@@ -39,9 +41,11 @@ function SessionRunner() {
   const [showExitConfirm, setShowExitConfirm] = useState(false);
 
   // Configuration
-  const count = parseInt(searchParams.get("count") || "10", 10);
+  const countParam = searchParams.get("count");
+  const count = countParam ? parseInt(countParam, 10) : settings.defaultQuestionCount;
   const difficulty = (searchParams.get("difficulty") as any) || "mixed";
-  const mode = (searchParams.get("mode") as "instant" | "review") || "instant";
+  const modeParam = searchParams.get("mode");
+  const mode = (modeParam as "instant" | "review") || (settings.instantFeedback ? "instant" : "review");
   const category = searchParams.get("category");
   const topicIdsParam = searchParams.get("topicIds") || "";
   const topicIds = topicIdsParam ? topicIdsParam.split(",") : undefined;
@@ -403,6 +407,7 @@ function SessionRunner() {
             <NonVerbalFigureRenderer
               topicId={currentQ.topicId}
               questionText={currentQ.questionText}
+              isSolution={mode === "instant" && isAnswered}
             />
           </div>
 

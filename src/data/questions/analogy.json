@@ -1812,7 +1812,7 @@
         "56",
         "60",
         "50",
-        "50"
+        "52"
       ],
       "correctIndex": 0,
       "difficulty": "medium",
@@ -5507,7 +5507,7 @@
         "N",
         "O",
         "M",
-        "M"
+        "P"
       ],
       "correctIndex": 0,
       "difficulty": "medium",
@@ -5601,7 +5601,7 @@
         "M",
         "N",
         "L",
-        "N"
+        "O"
       ],
       "correctIndex": 0,
       "difficulty": "medium",
@@ -6635,7 +6635,7 @@
         "Z",
         "A",
         "Y",
-        "A"
+        "B"
       ],
       "correctIndex": 0,
       "difficulty": "medium",

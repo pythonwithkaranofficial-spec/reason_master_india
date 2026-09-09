@@ -49,343 +49,483 @@
       ],
       "practiceQuestions": [
         {
-          "questionText": "Critical Reasoning / Assertion & Reason Practice Q1: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "In the following question, a statement of Assertion (A) is followed by a statement of Reason (R):\n\nAssertion (A): Cooking food in a pressure cooker takes significantly less time than in an open pot.\nReason (R): The elevated pressure inside the cooker raises the boiling point of water, enabling cooking at higher temperatures.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Critical Reasoning / Assertion & Reason. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Critical Reasoning / Assertion & Reason Practice Q2: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "A is false but R is true",
+            "Both A and R are true but R is not the correct explanation of A",
+            "Both A and R are true and R is the correct explanation of A",
+            "A is true but R is false"
           ],
           "correctIndex": 2,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Critical Reasoning / Assertion & Reason. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Recall the relationship between atmospheric pressure and the boiling point of liquids.",
+          "explanation": "In a closed pressure cooker, steam pressure increases, raising the boiling point of water above 100°C. Water and steam transfer heat to food at a higher temperature, drastically cutting cooking time. Both are true and R correctly explains A.",
+          "solutionSteps": "Step 1: Verify whether Assertion (A) is independently factually true.\nStep 2: Verify whether Reason (R) is independently factually true.\nStep 3: Connect them using the word \"BECAUSE\". Does R explain why A happens?\nStep 4: Select Both A and R are true and R is the correct explanation of A.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Critical Reasoning / Assertion & Reason Practice Q3: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "In the following question, a statement of Assertion (A) is followed by a statement of Reason (R):\n\nAssertion (A): Electric wires sag noticeably during peak summer and become taut in winter.\nReason (R): Metals undergo thermal expansion when heated and contract when cooled.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "A is true but R is false",
+            "A is false but R is true",
+            "Both A and R are true but R is not the correct explanation of A",
+            "Both A and R are true and R is the correct explanation of A"
           ],
           "correctIndex": 3,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Critical Reasoning / Assertion & Reason. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Think about thermal expansion and contraction of metallic conductors.",
+          "explanation": "Metallic transmission cables expand due to summer heat, causing them to lengthen and sag. In winter, cold temperatures cause contraction, pulling them taut. R is the fundamental physical explanation of A.",
+          "solutionSteps": "Step 1: Verify whether Assertion (A) is independently factually true.\nStep 2: Verify whether Reason (R) is independently factually true.\nStep 3: Connect them using the word \"BECAUSE\". Does R explain why A happens?\nStep 4: Select Both A and R are true and R is the correct explanation of A.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Critical Reasoning / Assertion & Reason Practice Q4: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "In the following question, a statement of Assertion (A) is followed by a statement of Reason (R):\n\nAssertion (A): Antarctica experiences zero civilian permanent resident population.\nReason (R): Antarctica is the coldest, windiest, and driest continent on Earth with an inhospitable climate.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Critical Reasoning / Assertion & Reason. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Critical Reasoning / Assertion & Reason Practice Q5: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Critical Reasoning / Assertion & Reason. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Critical Reasoning / Assertion & Reason Practice Q6: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Both A and R are true but R is not the correct explanation of A",
+            "A is false but R is true",
+            "Both A and R are true and R is the correct explanation of A",
+            "A is true but R is false"
           ],
           "correctIndex": 2,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Critical Reasoning / Assertion & Reason. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Consider the geographical and climatic barriers to permanent human habitation.",
+          "explanation": "The extreme sub-zero temperatures, intense blizzards, and harsh polar climate make permanent civilian settlement unviable. Both statements are true and R correctly explains A.",
+          "solutionSteps": "Step 1: Verify whether Assertion (A) is independently factually true.\nStep 2: Verify whether Reason (R) is independently factually true.\nStep 3: Connect them using the word \"BECAUSE\". Does R explain why A happens?\nStep 4: Select Both A and R are true and R is the correct explanation of A.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Critical Reasoning / Assertion & Reason Practice Q7: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "In the following question, a statement of Assertion (A) is followed by a statement of Reason (R):\n\nAssertion (A): Deforestation contributes significantly to global atmospheric warming.\nReason (R): Trees act as vital carbon sinks by absorbing carbon dioxide during photosynthesis.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Both A and R are true and R is the correct explanation of A",
+            "A is false but R is true",
+            "A is true but R is false",
+            "Both A and R are true but R is not the correct explanation of A"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "hint": "Connect photosynthesis carbon capture with the greenhouse effect.",
+          "explanation": "Trees absorb atmospheric CO2 through photosynthesis. Cutting forests stops carbon sequestration and releases stored carbon, increasing greenhouse warming. Both are true and R explains A.",
+          "solutionSteps": "Step 1: Verify whether Assertion (A) is independently factually true.\nStep 2: Verify whether Reason (R) is independently factually true.\nStep 3: Connect them using the word \"BECAUSE\". Does R explain why A happens?\nStep 4: Select Both A and R are true and R is the correct explanation of A.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "In the following question, a statement of Assertion (A) is followed by a statement of Reason (R):\n\nAssertion (A): Blood appears red in color.\nReason (R): Red blood cells contain haemoglobin, an iron-rich protein that binds oxygen.",
+          "options": [
+            "A is false but R is true",
+            "A is true but R is false",
+            "Both A and R are true and R is the correct explanation of A",
+            "Both A and R are true but R is not the correct explanation of A"
+          ],
+          "correctIndex": 2,
+          "difficulty": "easy",
+          "hint": "Identify the iron-binding pigment present in red blood cells.",
+          "explanation": "Haemoglobin is an iron-containing metalloprotein in erythrocytes. The interaction between iron and oxygen gives oxygenated blood its characteristic red color. Both are true and R explains A.",
+          "solutionSteps": "Step 1: Verify whether Assertion (A) is independently factually true.\nStep 2: Verify whether Reason (R) is independently factually true.\nStep 3: Connect them using the word \"BECAUSE\". Does R explain why A happens?\nStep 4: Select Both A and R are true and R is the correct explanation of A.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "In the following question, a statement of Assertion (A) is followed by a statement of Reason (R):\n\nAssertion (A): Cooking food in a pressure cooker takes significantly less time than in an open pot.\nReason (R): The elevated pressure inside the cooker raises the boiling point of water, enabling cooking at higher temperatures.",
+          "options": [
+            "Both A and R are true and R is the correct explanation of A",
+            "A is true but R is false",
+            "Both A and R are true but R is not the correct explanation of A",
+            "A is false but R is true"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "hint": "Recall the relationship between atmospheric pressure and the boiling point of liquids.",
+          "explanation": "In a closed pressure cooker, steam pressure increases, raising the boiling point of water above 100°C. Water and steam transfer heat to food at a higher temperature, drastically cutting cooking time. Both are true and R correctly explains A.",
+          "solutionSteps": "Step 1: Verify whether Assertion (A) is independently factually true.\nStep 2: Verify whether Reason (R) is independently factually true.\nStep 3: Connect them using the word \"BECAUSE\". Does R explain why A happens?\nStep 4: Select Both A and R are true and R is the correct explanation of A.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "In the following question, a statement of Assertion (A) is followed by a statement of Reason (R):\n\nAssertion (A): A needle placed gently on water surface can float, even though steel is denser than water.\nReason (R): Surface tension of water creates an elastic membrane-like barrier capable of supporting light objects.",
+          "options": [
+            "A is false but R is true",
+            "Both A and R are true and R is the correct explanation of A",
+            "A is true but R is false",
+            "Both A and R are true but R is not the correct explanation of A"
+          ],
+          "correctIndex": 1,
+          "difficulty": "medium",
+          "hint": "Distinguish between buoyant force (Archimedes principle) and cohesive surface tension.",
+          "explanation": "Surface tension arising from cohesive hydrogen bonding between water molecules acts like a stretched elastic sheet, sustaining the lightweight needle despite steel's higher density. Both are true and R explains A.",
+          "solutionSteps": "Step 1: Verify whether Assertion (A) is independently factually true.\nStep 2: Verify whether Reason (R) is independently factually true.\nStep 3: Connect them using the word \"BECAUSE\". Does R explain why A happens?\nStep 4: Select Both A and R are true and R is the correct explanation of A.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "In the following question, a statement of Assertion (A) is followed by a statement of Reason (R):\n\nAssertion (A): A needle placed gently on water surface can float, even though steel is denser than water.\nReason (R): Surface tension of water creates an elastic membrane-like barrier capable of supporting light objects.",
+          "options": [
+            "A is false but R is true",
+            "A is true but R is false",
+            "Both A and R are true but R is not the correct explanation of A",
+            "Both A and R are true and R is the correct explanation of A"
+          ],
+          "correctIndex": 3,
+          "difficulty": "medium",
+          "hint": "Distinguish between buoyant force (Archimedes principle) and cohesive surface tension.",
+          "explanation": "Surface tension arising from cohesive hydrogen bonding between water molecules acts like a stretched elastic sheet, sustaining the lightweight needle despite steel's higher density. Both are true and R explains A.",
+          "solutionSteps": "Step 1: Verify whether Assertion (A) is independently factually true.\nStep 2: Verify whether Reason (R) is independently factually true.\nStep 3: Connect them using the word \"BECAUSE\". Does R explain why A happens?\nStep 4: Select Both A and R are true and R is the correct explanation of A.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "In the following question, a statement of Assertion (A) is followed by a statement of Reason (R):\n\nAssertion (A): A needle placed gently on water surface can float, even though steel is denser than water.\nReason (R): Surface tension of water creates an elastic membrane-like barrier capable of supporting light objects.",
+          "options": [
+            "Both A and R are true and R is the correct explanation of A",
+            "A is true but R is false",
+            "Both A and R are true but R is not the correct explanation of A",
+            "A is false but R is true"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "hint": "Distinguish between buoyant force (Archimedes principle) and cohesive surface tension.",
+          "explanation": "Surface tension arising from cohesive hydrogen bonding between water molecules acts like a stretched elastic sheet, sustaining the lightweight needle despite steel's higher density. Both are true and R explains A.",
+          "solutionSteps": "Step 1: Verify whether Assertion (A) is independently factually true.\nStep 2: Verify whether Reason (R) is independently factually true.\nStep 3: Connect them using the word \"BECAUSE\". Does R explain why A happens?\nStep 4: Select Both A and R are true and R is the correct explanation of A.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "In the following question, a statement of Assertion (A) is followed by a statement of Reason (R):\n\nAssertion (A): A needle placed gently on water surface can float, even though steel is denser than water.\nReason (R): Surface tension of water creates an elastic membrane-like barrier capable of supporting light objects.",
+          "options": [
+            "A is true but R is false",
+            "Both A and R are true but R is not the correct explanation of A",
+            "Both A and R are true and R is the correct explanation of A",
+            "A is false but R is true"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "hint": "Distinguish between buoyant force (Archimedes principle) and cohesive surface tension.",
+          "explanation": "Surface tension arising from cohesive hydrogen bonding between water molecules acts like a stretched elastic sheet, sustaining the lightweight needle despite steel's higher density. Both are true and R explains A.",
+          "solutionSteps": "Step 1: Verify whether Assertion (A) is independently factually true.\nStep 2: Verify whether Reason (R) is independently factually true.\nStep 3: Connect them using the word \"BECAUSE\". Does R explain why A happens?\nStep 4: Select Both A and R are true and R is the correct explanation of A.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "In the following question, a statement of Assertion (A) is followed by a statement of Reason (R):\n\nAssertion (A): A needle placed gently on water surface can float, even though steel is denser than water.\nReason (R): Surface tension of water creates an elastic membrane-like barrier capable of supporting light objects.",
+          "options": [
+            "Both A and R are true and R is the correct explanation of A",
+            "A is false but R is true",
+            "A is true but R is false",
+            "Both A and R are true but R is not the correct explanation of A"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "hint": "Distinguish between buoyant force (Archimedes principle) and cohesive surface tension.",
+          "explanation": "Surface tension arising from cohesive hydrogen bonding between water molecules acts like a stretched elastic sheet, sustaining the lightweight needle despite steel's higher density. Both are true and R explains A.",
+          "solutionSteps": "Step 1: Verify whether Assertion (A) is independently factually true.\nStep 2: Verify whether Reason (R) is independently factually true.\nStep 3: Connect them using the word \"BECAUSE\". Does R explain why A happens?\nStep 4: Select Both A and R are true and R is the correct explanation of A.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "In the following question, a statement of Assertion (A) is followed by a statement of Reason (R):\n\nAssertion (A): A needle placed gently on water surface can float, even though steel is denser than water.\nReason (R): Surface tension of water creates an elastic membrane-like barrier capable of supporting light objects.",
+          "options": [
+            "Both A and R are true but R is not the correct explanation of A",
+            "A is false but R is true",
+            "Both A and R are true and R is the correct explanation of A",
+            "A is true but R is false"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "hint": "Distinguish between buoyant force (Archimedes principle) and cohesive surface tension.",
+          "explanation": "Surface tension arising from cohesive hydrogen bonding between water molecules acts like a stretched elastic sheet, sustaining the lightweight needle despite steel's higher density. Both are true and R explains A.",
+          "solutionSteps": "Step 1: Verify whether Assertion (A) is independently factually true.\nStep 2: Verify whether Reason (R) is independently factually true.\nStep 3: Connect them using the word \"BECAUSE\". Does R explain why A happens?\nStep 4: Select Both A and R are true and R is the correct explanation of A.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "In the following question, a statement of Assertion (A) is followed by a statement of Reason (R):\n\nAssertion (A): A needle placed gently on water surface can float, even though steel is denser than water.\nReason (R): Surface tension of water creates an elastic membrane-like barrier capable of supporting light objects.",
+          "options": [
+            "A is false but R is true",
+            "Both A and R are true and R is the correct explanation of A",
+            "Both A and R are true but R is not the correct explanation of A",
+            "A is true but R is false"
+          ],
+          "correctIndex": 1,
+          "difficulty": "medium",
+          "hint": "Distinguish between buoyant force (Archimedes principle) and cohesive surface tension.",
+          "explanation": "Surface tension arising from cohesive hydrogen bonding between water molecules acts like a stretched elastic sheet, sustaining the lightweight needle despite steel's higher density. Both are true and R explains A.",
+          "solutionSteps": "Step 1: Verify whether Assertion (A) is independently factually true.\nStep 2: Verify whether Reason (R) is independently factually true.\nStep 3: Connect them using the word \"BECAUSE\". Does R explain why A happens?\nStep 4: Select Both A and R are true and R is the correct explanation of A.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "In the following question, a statement of Assertion (A) is followed by a statement of Reason (R):\n\nAssertion (A): A needle placed gently on water surface can float, even though steel is denser than water.\nReason (R): Surface tension of water creates an elastic membrane-like barrier capable of supporting light objects.",
+          "options": [
+            "Both A and R are true but R is not the correct explanation of A",
+            "A is false but R is true",
+            "Both A and R are true and R is the correct explanation of A",
+            "A is true but R is false"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "hint": "Distinguish between buoyant force (Archimedes principle) and cohesive surface tension.",
+          "explanation": "Surface tension arising from cohesive hydrogen bonding between water molecules acts like a stretched elastic sheet, sustaining the lightweight needle despite steel's higher density. Both are true and R explains A.",
+          "solutionSteps": "Step 1: Verify whether Assertion (A) is independently factually true.\nStep 2: Verify whether Reason (R) is independently factually true.\nStep 3: Connect them using the word \"BECAUSE\". Does R explain why A happens?\nStep 4: Select Both A and R are true and R is the correct explanation of A.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "In the following question, a statement of Assertion (A) is followed by a statement of Reason (R):\n\nAssertion (A): Electric wires sag noticeably during peak summer and become taut in winter.\nReason (R): Metals undergo thermal expansion when heated and contract when cooled.",
+          "options": [
+            "A is false but R is true",
+            "Both A and R are true and R is the correct explanation of A",
+            "Both A and R are true but R is not the correct explanation of A",
+            "A is true but R is false"
+          ],
+          "correctIndex": 1,
+          "difficulty": "easy",
+          "hint": "Think about thermal expansion and contraction of metallic conductors.",
+          "explanation": "Metallic transmission cables expand due to summer heat, causing them to lengthen and sag. In winter, cold temperatures cause contraction, pulling them taut. R is the fundamental physical explanation of A.",
+          "solutionSteps": "Step 1: Verify whether Assertion (A) is independently factually true.\nStep 2: Verify whether Reason (R) is independently factually true.\nStep 3: Connect them using the word \"BECAUSE\". Does R explain why A happens?\nStep 4: Select Both A and R are true and R is the correct explanation of A.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "In the following question, a statement of Assertion (A) is followed by a statement of Reason (R):\n\nAssertion (A): Antarctica experiences zero civilian permanent resident population.\nReason (R): Antarctica is the coldest, windiest, and driest continent on Earth with an inhospitable climate.",
+          "options": [
+            "A is false but R is true",
+            "A is true but R is false",
+            "Both A and R are true and R is the correct explanation of A",
+            "Both A and R are true but R is not the correct explanation of A"
+          ],
+          "correctIndex": 2,
+          "difficulty": "easy",
+          "hint": "Consider the geographical and climatic barriers to permanent human habitation.",
+          "explanation": "The extreme sub-zero temperatures, intense blizzards, and harsh polar climate make permanent civilian settlement unviable. Both statements are true and R correctly explains A.",
+          "solutionSteps": "Step 1: Verify whether Assertion (A) is independently factually true.\nStep 2: Verify whether Reason (R) is independently factually true.\nStep 3: Connect them using the word \"BECAUSE\". Does R explain why A happens?\nStep 4: Select Both A and R are true and R is the correct explanation of A.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "In the following question, a statement of Assertion (A) is followed by a statement of Reason (R):\n\nAssertion (A): Deforestation contributes significantly to global atmospheric warming.\nReason (R): Trees act as vital carbon sinks by absorbing carbon dioxide during photosynthesis.",
+          "options": [
+            "A is true but R is false",
+            "A is false but R is true",
+            "Both A and R are true but R is not the correct explanation of A",
+            "Both A and R are true and R is the correct explanation of A"
           ],
           "correctIndex": 3,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Critical Reasoning / Assertion & Reason. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Connect photosynthesis carbon capture with the greenhouse effect.",
+          "explanation": "Trees absorb atmospheric CO2 through photosynthesis. Cutting forests stops carbon sequestration and releases stored carbon, increasing greenhouse warming. Both are true and R explains A.",
+          "solutionSteps": "Step 1: Verify whether Assertion (A) is independently factually true.\nStep 2: Verify whether Reason (R) is independently factually true.\nStep 3: Connect them using the word \"BECAUSE\". Does R explain why A happens?\nStep 4: Select Both A and R are true and R is the correct explanation of A.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Critical Reasoning / Assertion & Reason Practice Q8: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "In the following question, a statement of Assertion (A) is followed by a statement of Reason (R):\n\nAssertion (A): Blood appears red in color.\nReason (R): Red blood cells contain haemoglobin, an iron-rich protein that binds oxygen.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Critical Reasoning / Assertion & Reason. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Critical Reasoning / Assertion & Reason Practice Q9: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Critical Reasoning / Assertion & Reason. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Critical Reasoning / Assertion & Reason Practice Q10: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 2,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Critical Reasoning / Assertion & Reason. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Critical Reasoning / Assertion & Reason Practice Q11: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Both A and R are true but R is not the correct explanation of A",
+            "A is true but R is false",
+            "A is false but R is true",
+            "Both A and R are true and R is the correct explanation of A"
           ],
           "correctIndex": 3,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Critical Reasoning / Assertion & Reason. Work through the problem step by step using the shortcuts taught in this topic.",
+          "difficulty": "easy",
+          "hint": "Identify the iron-binding pigment present in red blood cells.",
+          "explanation": "Haemoglobin is an iron-containing metalloprotein in erythrocytes. The interaction between iron and oxygen gives oxygenated blood its characteristic red color. Both are true and R explains A.",
+          "solutionSteps": "Step 1: Verify whether Assertion (A) is independently factually true.\nStep 2: Verify whether Reason (R) is independently factually true.\nStep 3: Connect them using the word \"BECAUSE\". Does R explain why A happens?\nStep 4: Select Both A and R are true and R is the correct explanation of A.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Critical Reasoning / Assertion & Reason Practice Q12: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "In the following question, a statement of Assertion (A) is followed by a statement of Reason (R):\n\nAssertion (A): Cooking food in a pressure cooker takes significantly less time than in an open pot.\nReason (R): The elevated pressure inside the cooker raises the boiling point of water, enabling cooking at higher temperatures.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Both A and R are true and R is the correct explanation of A",
+            "Both A and R are true but R is not the correct explanation of A",
+            "A is false but R is true",
+            "A is true but R is false"
           ],
           "correctIndex": 0,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Critical Reasoning / Assertion & Reason. Work through the problem step by step using the shortcuts taught in this topic.",
+          "difficulty": "easy",
+          "hint": "Recall the relationship between atmospheric pressure and the boiling point of liquids.",
+          "explanation": "In a closed pressure cooker, steam pressure increases, raising the boiling point of water above 100°C. Water and steam transfer heat to food at a higher temperature, drastically cutting cooking time. Both are true and R correctly explains A.",
+          "solutionSteps": "Step 1: Verify whether Assertion (A) is independently factually true.\nStep 2: Verify whether Reason (R) is independently factually true.\nStep 3: Connect them using the word \"BECAUSE\". Does R explain why A happens?\nStep 4: Select Both A and R are true and R is the correct explanation of A.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Critical Reasoning / Assertion & Reason Practice Q13: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "In the following question, a statement of Assertion (A) is followed by a statement of Reason (R):\n\nAssertion (A): Electric wires sag noticeably during peak summer and become taut in winter.\nReason (R): Metals undergo thermal expansion when heated and contract when cooled.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Critical Reasoning / Assertion & Reason. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Critical Reasoning / Assertion & Reason Practice Q14: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 2,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Critical Reasoning / Assertion & Reason. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Critical Reasoning / Assertion & Reason Practice Q15: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "A is true but R is false",
+            "A is false but R is true",
+            "Both A and R are true but R is not the correct explanation of A",
+            "Both A and R are true and R is the correct explanation of A"
           ],
           "correctIndex": 3,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Critical Reasoning / Assertion & Reason. Work through the problem step by step using the shortcuts taught in this topic.",
+          "difficulty": "easy",
+          "hint": "Think about thermal expansion and contraction of metallic conductors.",
+          "explanation": "Metallic transmission cables expand due to summer heat, causing them to lengthen and sag. In winter, cold temperatures cause contraction, pulling them taut. R is the fundamental physical explanation of A.",
+          "solutionSteps": "Step 1: Verify whether Assertion (A) is independently factually true.\nStep 2: Verify whether Reason (R) is independently factually true.\nStep 3: Connect them using the word \"BECAUSE\". Does R explain why A happens?\nStep 4: Select Both A and R are true and R is the correct explanation of A.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Critical Reasoning / Assertion & Reason Practice Q16: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Critical Reasoning / Assertion & Reason. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Critical Reasoning / Assertion & Reason Practice Q17: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Critical Reasoning / Assertion & Reason. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Critical Reasoning / Assertion & Reason Practice Q18: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 2,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Critical Reasoning / Assertion & Reason. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Critical Reasoning / Assertion & Reason Practice Q19: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Critical Reasoning / Assertion & Reason. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Critical Reasoning / Assertion & Reason Practice Q20: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Critical Reasoning / Assertion & Reason. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         }
       ]

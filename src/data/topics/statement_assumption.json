@@ -49,343 +49,483 @@
       ],
       "practiceQuestions": [
         {
-          "questionText": "Statement & Assumption Practice Q1: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "Statement:\nAdvertisement: \"Enroll your child in our Vedic Mathematics course to improve their mental calculation speed and analytical confidence.\"\n\nAssumptions:\nI. Parents are interested in enhancing their children's calculation speed and confidence.\nII. Vedic Mathematics techniques can foster quicker mental computations.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Statement & Assumption. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "IBPS Clerk"
-          ]
-        },
-        {
-          "questionText": "Statement & Assumption Practice Q2: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 2,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Statement & Assumption. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "IBPS Clerk"
-          ]
-        },
-        {
-          "questionText": "Statement & Assumption Practice Q3: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Neither assumption I nor II is implicit",
+            "Only assumption II is implicit",
+            "Only assumption I is implicit",
+            "Both assumption I and II are implicit"
           ],
           "correctIndex": 3,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Statement & Assumption. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Advertisements always assume that consumers desire the benefit and the product can provide it.",
+          "explanation": "An advertiser assumes both that the target audience desires the promised benefit (Assumption I) and that the advertised course has the capability to deliver that benefit (Assumption II).",
+          "solutionSteps": "Step 1: Put yourself in the speaker's shoes before uttering the statement.\nStep 2: Ask: \"What did the author take for granted without explicitly saying it?\"\nStep 3: Negation Test: If the assumption is negated, does the statement lose its rationale?\nStep 4: Conclude that Both assumption I and II are implicit.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "IBPS Clerk"
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Statement & Assumption Practice Q4: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "Statement:\nNotice on railway platform: \"Beware of pickpockets while boarding and deboarding crowded suburban trains.\"\n\nAssumptions:\nI. Pickpockets are active on crowded suburban trains.\nII. Passengers can exercise vigilance to protect their personal belongings.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Both assumption I and II are implicit",
+            "Neither assumption I nor II is implicit",
+            "Only assumption II is implicit",
+            "Only assumption I is implicit"
           ],
           "correctIndex": 0,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Statement & Assumption. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Public notices and warnings assume the public will read them and take heed.",
+          "explanation": "Issuing a warning assumes the existence of the risk (Assumption I) and that travelers are capable of reading and acting on the advisory to mitigate that risk (Assumption II).",
+          "solutionSteps": "Step 1: Put yourself in the speaker's shoes before uttering the statement.\nStep 2: Ask: \"What did the author take for granted without explicitly saying it?\"\nStep 3: Negation Test: If the assumption is negated, does the statement lose its rationale?\nStep 4: Conclude that Both assumption I and II are implicit.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "IBPS Clerk"
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Statement & Assumption Practice Q5: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "Statement:\nGovernment announcement: \"Residents in the coastal belt should immediately evacuate to designated cyclone relief shelters.\"\n\nAssumptions:\nI. The upcoming cyclone poses a grave danger to human life in the coastal belt.\nII. Cyclone relief shelters are safer than ordinary coastal dwellings.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Statement & Assumption. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "IBPS Clerk"
-          ]
-        },
-        {
-          "questionText": "Statement & Assumption Practice Q6: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Only assumption I is implicit",
+            "Neither assumption I nor II is implicit",
+            "Both assumption I and II are implicit",
+            "Only assumption II is implicit"
           ],
           "correctIndex": 2,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Statement & Assumption. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Disaster evacuation directives assume severity of threat and security of shelters.",
+          "explanation": "Evacuation appeals assume an imminent severe threat (Assumption I) and that designated shelters offer superior safety and protection (Assumption II).",
+          "solutionSteps": "Step 1: Put yourself in the speaker's shoes before uttering the statement.\nStep 2: Ask: \"What did the author take for granted without explicitly saying it?\"\nStep 3: Negation Test: If the assumption is negated, does the statement lose its rationale?\nStep 4: Conclude that Both assumption I and II are implicit.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "IBPS Clerk"
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Statement & Assumption Practice Q7: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "Statement:\n\"Please switch off your mobile phones or keep them on silent mode during the theatrical performance.\"\n\nAssumptions:\nI. Ringing mobile phones cause disturbance to actors and audience members.\nII. Most audience members carry mobile phones with them.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Neither assumption I nor II is implicit",
+            "Both assumption I and II are implicit",
+            "Only assumption I is implicit",
+            "Only assumption II is implicit"
+          ],
+          "correctIndex": 1,
+          "difficulty": "easy",
+          "hint": "Rules and requests assume the existence of the object being regulated and the nuisance it prevents.",
+          "explanation": "The request assumes that phones can cause auditory distraction (Assumption I) and that people present in the hall possess mobile phones (Assumption II).",
+          "solutionSteps": "Step 1: Put yourself in the speaker's shoes before uttering the statement.\nStep 2: Ask: \"What did the author take for granted without explicitly saying it?\"\nStep 3: Negation Test: If the assumption is negated, does the statement lose its rationale?\nStep 4: Conclude that Both assumption I and II are implicit.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Statement:\nAdvertisement: \"Enroll your child in our Vedic Mathematics course to improve their mental calculation speed and analytical confidence.\"\n\nAssumptions:\nI. Parents are interested in enhancing their children's calculation speed and confidence.\nII. Vedic Mathematics techniques can foster quicker mental computations.",
+          "options": [
+            "Only assumption I is implicit",
+            "Both assumption I and II are implicit",
+            "Only assumption II is implicit",
+            "Neither assumption I nor II is implicit"
+          ],
+          "correctIndex": 1,
+          "difficulty": "easy",
+          "hint": "Advertisements always assume that consumers desire the benefit and the product can provide it.",
+          "explanation": "An advertiser assumes both that the target audience desires the promised benefit (Assumption I) and that the advertised course has the capability to deliver that benefit (Assumption II).",
+          "solutionSteps": "Step 1: Put yourself in the speaker's shoes before uttering the statement.\nStep 2: Ask: \"What did the author take for granted without explicitly saying it?\"\nStep 3: Negation Test: If the assumption is negated, does the statement lose its rationale?\nStep 4: Conclude that Both assumption I and II are implicit.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Statement:\nNotice on railway platform: \"Beware of pickpockets while boarding and deboarding crowded suburban trains.\"\n\nAssumptions:\nI. Pickpockets are active on crowded suburban trains.\nII. Passengers can exercise vigilance to protect their personal belongings.",
+          "options": [
+            "Neither assumption I nor II is implicit",
+            "Only assumption I is implicit",
+            "Only assumption II is implicit",
+            "Both assumption I and II are implicit"
           ],
           "correctIndex": 3,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Statement & Assumption. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Public notices and warnings assume the public will read them and take heed.",
+          "explanation": "Issuing a warning assumes the existence of the risk (Assumption I) and that travelers are capable of reading and acting on the advisory to mitigate that risk (Assumption II).",
+          "solutionSteps": "Step 1: Put yourself in the speaker's shoes before uttering the statement.\nStep 2: Ask: \"What did the author take for granted without explicitly saying it?\"\nStep 3: Negation Test: If the assumption is negated, does the statement lose its rationale?\nStep 4: Conclude that Both assumption I and II are implicit.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "IBPS Clerk"
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Statement & Assumption Practice Q8: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "Statement:\nThe state transport department decided to convert all city buses from diesel to compressed natural gas (CNG).\n\nAssumptions:\nI. CNG is a cleaner fuel that reduces harmful particulate and vehicular emissions compared to diesel.\nII. Adequate infrastructure for CNG refuelling can be arranged in the city.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Statement & Assumption. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "IBPS Clerk"
-          ]
-        },
-        {
-          "questionText": "Statement & Assumption Practice Q9: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Statement & Assumption. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "IBPS Clerk"
-          ]
-        },
-        {
-          "questionText": "Statement & Assumption Practice Q10: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 2,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Statement & Assumption. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "IBPS Clerk"
-          ]
-        },
-        {
-          "questionText": "Statement & Assumption Practice Q11: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Only assumption II is implicit",
+            "Neither assumption I nor II is implicit",
+            "Only assumption I is implicit",
+            "Both assumption I and II are implicit"
           ],
           "correctIndex": 3,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Statement & Assumption. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Policy decisions assume feasibility and beneficial outcomes.",
+          "explanation": "Switching fuel presupposes that the new fuel achieves environmental benefits (Assumption I) and that the transition is logistically viable with refuelling availability (Assumption II).",
+          "solutionSteps": "Step 1: Put yourself in the speaker's shoes before uttering the statement.\nStep 2: Ask: \"What did the author take for granted without explicitly saying it?\"\nStep 3: Negation Test: If the assumption is negated, does the statement lose its rationale?\nStep 4: Conclude that Both assumption I and II are implicit.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "IBPS Clerk"
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Statement & Assumption Practice Q12: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "Statement:\nManager to employee: \"Submit the finalized audit report by tomorrow 5:00 PM, or disciplinary action will be initiated.\"\n\nAssumptions:\nI. The employee is capable of completing the report before tomorrow 5:00 PM.\nII. The threat of disciplinary action will motivate the employee to adhere to the deadline.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Statement & Assumption. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "IBPS Clerk"
-          ]
-        },
-        {
-          "questionText": "Statement & Assumption Practice Q13: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Statement & Assumption. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "IBPS Clerk"
-          ]
-        },
-        {
-          "questionText": "Statement & Assumption Practice Q14: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Neither assumption I nor II is implicit",
+            "Only assumption I is implicit",
+            "Both assumption I and II are implicit",
+            "Only assumption II is implicit"
           ],
           "correctIndex": 2,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Statement & Assumption. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Directives assume compliance is possible and consequences act as effective motivators.",
+          "explanation": "A supervisor setting a strict deadline assumes task feasibility within the timeframe (Assumption I) and that consequences enforce compliance (Assumption II).",
+          "solutionSteps": "Step 1: Put yourself in the speaker's shoes before uttering the statement.\nStep 2: Ask: \"What did the author take for granted without explicitly saying it?\"\nStep 3: Negation Test: If the assumption is negated, does the statement lose its rationale?\nStep 4: Conclude that Both assumption I and II are implicit.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "IBPS Clerk"
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Statement & Assumption Practice Q15: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "Statement:\nThe state transport department decided to convert all city buses from diesel to compressed natural gas (CNG).\n\nAssumptions:\nI. CNG is a cleaner fuel that reduces harmful particulate and vehicular emissions compared to diesel.\nII. Adequate infrastructure for CNG refuelling can be arranged in the city.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Statement & Assumption. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "IBPS Clerk"
-          ]
-        },
-        {
-          "questionText": "Statement & Assumption Practice Q16: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Statement & Assumption. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "IBPS Clerk"
-          ]
-        },
-        {
-          "questionText": "Statement & Assumption Practice Q17: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Neither assumption I nor II is implicit",
+            "Both assumption I and II are implicit",
+            "Only assumption I is implicit",
+            "Only assumption II is implicit"
           ],
           "correctIndex": 1,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Statement & Assumption. Work through the problem step by step using the shortcuts taught in this topic.",
+          "difficulty": "medium",
+          "hint": "Policy decisions assume feasibility and beneficial outcomes.",
+          "explanation": "Switching fuel presupposes that the new fuel achieves environmental benefits (Assumption I) and that the transition is logistically viable with refuelling availability (Assumption II).",
+          "solutionSteps": "Step 1: Put yourself in the speaker's shoes before uttering the statement.\nStep 2: Ask: \"What did the author take for granted without explicitly saying it?\"\nStep 3: Negation Test: If the assumption is negated, does the statement lose its rationale?\nStep 4: Conclude that Both assumption I and II are implicit.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "IBPS Clerk"
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Statement & Assumption Practice Q18: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "Statement:\nManager to employee: \"Submit the finalized audit report by tomorrow 5:00 PM, or disciplinary action will be initiated.\"\n\nAssumptions:\nI. The employee is capable of completing the report before tomorrow 5:00 PM.\nII. The threat of disciplinary action will motivate the employee to adhere to the deadline.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Neither assumption I nor II is implicit",
+            "Both assumption I and II are implicit",
+            "Only assumption II is implicit",
+            "Only assumption I is implicit"
+          ],
+          "correctIndex": 1,
+          "difficulty": "medium",
+          "hint": "Directives assume compliance is possible and consequences act as effective motivators.",
+          "explanation": "A supervisor setting a strict deadline assumes task feasibility within the timeframe (Assumption I) and that consequences enforce compliance (Assumption II).",
+          "solutionSteps": "Step 1: Put yourself in the speaker's shoes before uttering the statement.\nStep 2: Ask: \"What did the author take for granted without explicitly saying it?\"\nStep 3: Negation Test: If the assumption is negated, does the statement lose its rationale?\nStep 4: Conclude that Both assumption I and II are implicit.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Statement:\nThe state transport department decided to convert all city buses from diesel to compressed natural gas (CNG).\n\nAssumptions:\nI. CNG is a cleaner fuel that reduces harmful particulate and vehicular emissions compared to diesel.\nII. Adequate infrastructure for CNG refuelling can be arranged in the city.",
+          "options": [
+            "Neither assumption I nor II is implicit",
+            "Only assumption I is implicit",
+            "Both assumption I and II are implicit",
+            "Only assumption II is implicit"
           ],
           "correctIndex": 2,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Statement & Assumption. Work through the problem step by step using the shortcuts taught in this topic.",
+          "difficulty": "medium",
+          "hint": "Policy decisions assume feasibility and beneficial outcomes.",
+          "explanation": "Switching fuel presupposes that the new fuel achieves environmental benefits (Assumption I) and that the transition is logistically viable with refuelling availability (Assumption II).",
+          "solutionSteps": "Step 1: Put yourself in the speaker's shoes before uttering the statement.\nStep 2: Ask: \"What did the author take for granted without explicitly saying it?\"\nStep 3: Negation Test: If the assumption is negated, does the statement lose its rationale?\nStep 4: Conclude that Both assumption I and II are implicit.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "IBPS Clerk"
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Statement & Assumption Practice Q19: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "Statement:\nManager to employee: \"Submit the finalized audit report by tomorrow 5:00 PM, or disciplinary action will be initiated.\"\n\nAssumptions:\nI. The employee is capable of completing the report before tomorrow 5:00 PM.\nII. The threat of disciplinary action will motivate the employee to adhere to the deadline.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Only assumption I is implicit",
+            "Both assumption I and II are implicit",
+            "Only assumption II is implicit",
+            "Neither assumption I nor II is implicit"
           ],
-          "correctIndex": 3,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Statement & Assumption. Work through the problem step by step using the shortcuts taught in this topic.",
+          "correctIndex": 1,
+          "difficulty": "medium",
+          "hint": "Directives assume compliance is possible and consequences act as effective motivators.",
+          "explanation": "A supervisor setting a strict deadline assumes task feasibility within the timeframe (Assumption I) and that consequences enforce compliance (Assumption II).",
+          "solutionSteps": "Step 1: Put yourself in the speaker's shoes before uttering the statement.\nStep 2: Ask: \"What did the author take for granted without explicitly saying it?\"\nStep 3: Negation Test: If the assumption is negated, does the statement lose its rationale?\nStep 4: Conclude that Both assumption I and II are implicit.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "IBPS Clerk"
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Statement & Assumption Practice Q20: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "Statement:\nThe state transport department decided to convert all city buses from diesel to compressed natural gas (CNG).\n\nAssumptions:\nI. CNG is a cleaner fuel that reduces harmful particulate and vehicular emissions compared to diesel.\nII. Adequate infrastructure for CNG refuelling can be arranged in the city.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Both assumption I and II are implicit",
+            "Only assumption II is implicit",
+            "Neither assumption I nor II is implicit",
+            "Only assumption I is implicit"
           ],
           "correctIndex": 0,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Statement & Assumption. Work through the problem step by step using the shortcuts taught in this topic.",
+          "difficulty": "medium",
+          "hint": "Policy decisions assume feasibility and beneficial outcomes.",
+          "explanation": "Switching fuel presupposes that the new fuel achieves environmental benefits (Assumption I) and that the transition is logistically viable with refuelling availability (Assumption II).",
+          "solutionSteps": "Step 1: Put yourself in the speaker's shoes before uttering the statement.\nStep 2: Ask: \"What did the author take for granted without explicitly saying it?\"\nStep 3: Negation Test: If the assumption is negated, does the statement lose its rationale?\nStep 4: Conclude that Both assumption I and II are implicit.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "IBPS Clerk"
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Statement:\nManager to employee: \"Submit the finalized audit report by tomorrow 5:00 PM, or disciplinary action will be initiated.\"\n\nAssumptions:\nI. The employee is capable of completing the report before tomorrow 5:00 PM.\nII. The threat of disciplinary action will motivate the employee to adhere to the deadline.",
+          "options": [
+            "Both assumption I and II are implicit",
+            "Only assumption II is implicit",
+            "Only assumption I is implicit",
+            "Neither assumption I nor II is implicit"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "hint": "Directives assume compliance is possible and consequences act as effective motivators.",
+          "explanation": "A supervisor setting a strict deadline assumes task feasibility within the timeframe (Assumption I) and that consequences enforce compliance (Assumption II).",
+          "solutionSteps": "Step 1: Put yourself in the speaker's shoes before uttering the statement.\nStep 2: Ask: \"What did the author take for granted without explicitly saying it?\"\nStep 3: Negation Test: If the assumption is negated, does the statement lose its rationale?\nStep 4: Conclude that Both assumption I and II are implicit.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Statement:\nGovernment announcement: \"Residents in the coastal belt should immediately evacuate to designated cyclone relief shelters.\"\n\nAssumptions:\nI. The upcoming cyclone poses a grave danger to human life in the coastal belt.\nII. Cyclone relief shelters are safer than ordinary coastal dwellings.",
+          "options": [
+            "Both assumption I and II are implicit",
+            "Neither assumption I nor II is implicit",
+            "Only assumption II is implicit",
+            "Only assumption I is implicit"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "hint": "Disaster evacuation directives assume severity of threat and security of shelters.",
+          "explanation": "Evacuation appeals assume an imminent severe threat (Assumption I) and that designated shelters offer superior safety and protection (Assumption II).",
+          "solutionSteps": "Step 1: Put yourself in the speaker's shoes before uttering the statement.\nStep 2: Ask: \"What did the author take for granted without explicitly saying it?\"\nStep 3: Negation Test: If the assumption is negated, does the statement lose its rationale?\nStep 4: Conclude that Both assumption I and II are implicit.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Statement:\n\"Please switch off your mobile phones or keep them on silent mode during the theatrical performance.\"\n\nAssumptions:\nI. Ringing mobile phones cause disturbance to actors and audience members.\nII. Most audience members carry mobile phones with them.",
+          "options": [
+            "Only assumption II is implicit",
+            "Both assumption I and II are implicit",
+            "Neither assumption I nor II is implicit",
+            "Only assumption I is implicit"
+          ],
+          "correctIndex": 1,
+          "difficulty": "easy",
+          "hint": "Rules and requests assume the existence of the object being regulated and the nuisance it prevents.",
+          "explanation": "The request assumes that phones can cause auditory distraction (Assumption I) and that people present in the hall possess mobile phones (Assumption II).",
+          "solutionSteps": "Step 1: Put yourself in the speaker's shoes before uttering the statement.\nStep 2: Ask: \"What did the author take for granted without explicitly saying it?\"\nStep 3: Negation Test: If the assumption is negated, does the statement lose its rationale?\nStep 4: Conclude that Both assumption I and II are implicit.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Statement:\nAdvertisement: \"Enroll your child in our Vedic Mathematics course to improve their mental calculation speed and analytical confidence.\"\n\nAssumptions:\nI. Parents are interested in enhancing their children's calculation speed and confidence.\nII. Vedic Mathematics techniques can foster quicker mental computations.",
+          "options": [
+            "Only assumption I is implicit",
+            "Only assumption II is implicit",
+            "Neither assumption I nor II is implicit",
+            "Both assumption I and II are implicit"
+          ],
+          "correctIndex": 3,
+          "difficulty": "easy",
+          "hint": "Advertisements always assume that consumers desire the benefit and the product can provide it.",
+          "explanation": "An advertiser assumes both that the target audience desires the promised benefit (Assumption I) and that the advertised course has the capability to deliver that benefit (Assumption II).",
+          "solutionSteps": "Step 1: Put yourself in the speaker's shoes before uttering the statement.\nStep 2: Ask: \"What did the author take for granted without explicitly saying it?\"\nStep 3: Negation Test: If the assumption is negated, does the statement lose its rationale?\nStep 4: Conclude that Both assumption I and II are implicit.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Statement:\nNotice on railway platform: \"Beware of pickpockets while boarding and deboarding crowded suburban trains.\"\n\nAssumptions:\nI. Pickpockets are active on crowded suburban trains.\nII. Passengers can exercise vigilance to protect their personal belongings.",
+          "options": [
+            "Both assumption I and II are implicit",
+            "Neither assumption I nor II is implicit",
+            "Only assumption II is implicit",
+            "Only assumption I is implicit"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "hint": "Public notices and warnings assume the public will read them and take heed.",
+          "explanation": "Issuing a warning assumes the existence of the risk (Assumption I) and that travelers are capable of reading and acting on the advisory to mitigate that risk (Assumption II).",
+          "solutionSteps": "Step 1: Put yourself in the speaker's shoes before uttering the statement.\nStep 2: Ask: \"What did the author take for granted without explicitly saying it?\"\nStep 3: Negation Test: If the assumption is negated, does the statement lose its rationale?\nStep 4: Conclude that Both assumption I and II are implicit.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Statement:\nGovernment announcement: \"Residents in the coastal belt should immediately evacuate to designated cyclone relief shelters.\"\n\nAssumptions:\nI. The upcoming cyclone poses a grave danger to human life in the coastal belt.\nII. Cyclone relief shelters are safer than ordinary coastal dwellings.",
+          "options": [
+            "Neither assumption I nor II is implicit",
+            "Only assumption II is implicit",
+            "Only assumption I is implicit",
+            "Both assumption I and II are implicit"
+          ],
+          "correctIndex": 3,
+          "difficulty": "easy",
+          "hint": "Disaster evacuation directives assume severity of threat and security of shelters.",
+          "explanation": "Evacuation appeals assume an imminent severe threat (Assumption I) and that designated shelters offer superior safety and protection (Assumption II).",
+          "solutionSteps": "Step 1: Put yourself in the speaker's shoes before uttering the statement.\nStep 2: Ask: \"What did the author take for granted without explicitly saying it?\"\nStep 3: Negation Test: If the assumption is negated, does the statement lose its rationale?\nStep 4: Conclude that Both assumption I and II are implicit.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Statement:\n\"Please switch off your mobile phones or keep them on silent mode during the theatrical performance.\"\n\nAssumptions:\nI. Ringing mobile phones cause disturbance to actors and audience members.\nII. Most audience members carry mobile phones with them.",
+          "options": [
+            "Both assumption I and II are implicit",
+            "Only assumption I is implicit",
+            "Neither assumption I nor II is implicit",
+            "Only assumption II is implicit"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "hint": "Rules and requests assume the existence of the object being regulated and the nuisance it prevents.",
+          "explanation": "The request assumes that phones can cause auditory distraction (Assumption I) and that people present in the hall possess mobile phones (Assumption II).",
+          "solutionSteps": "Step 1: Put yourself in the speaker's shoes before uttering the statement.\nStep 2: Ask: \"What did the author take for granted without explicitly saying it?\"\nStep 3: Negation Test: If the assumption is negated, does the statement lose its rationale?\nStep 4: Conclude that Both assumption I and II are implicit.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         }
       ]

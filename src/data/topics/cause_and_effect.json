@@ -49,343 +49,483 @@
       ],
       "practiceQuestions": [
         {
-          "questionText": "Cause and Effect Practice Q1: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "Statements:\nI. Unprecedented torrential rainfall lashed the coastal state for four consecutive days.\nII. Low-lying residential colonies were severely inundated and road traffic was brought to a standstill.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Cause and Effect. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "SSC CGL"
-          ]
-        },
-        {
-          "questionText": "Cause and Effect Practice Q2: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Both statements I and II are effects of independent causes",
+            "Statement II is the cause and statement I is its effect",
+            "Statement I is the cause and statement II is its effect",
+            "Both statements I and II are independent causes"
           ],
           "correctIndex": 2,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Cause and Effect. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Determine which event occurred first chronologically and led naturally to the second event.",
+          "explanation": "Heavy torrential rainfall directly causes the subsequent flooding and traffic disruption in low-lying localities. Thus, Statement I is the direct cause and Statement II is its effect.",
+          "solutionSteps": "Step 1: Read both statements and assess chronological precedence.\nStep 2: Check for a direct causal mechanism (did Event A trigger Event B?).\nStep 3: If no connection exists, check if they stem from independent causes or a common cause.\nStep 4: Conclude: Statement I is the cause and statement II is its effect.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "SSC CGL"
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Cause and Effect Practice Q3: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "Statements:\nI. The state government announced a flat 50% subsidy on modern drip irrigation equipment for farmers.\nII. Thousands of small and marginal farmers submitted applications at district agricultural offices.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Cause and Effect. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "SSC CGL"
-          ]
-        },
-        {
-          "questionText": "Cause and Effect Practice Q4: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Cause and Effect. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "SSC CGL"
-          ]
-        },
-        {
-          "questionText": "Cause and Effect Practice Q5: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Cause and Effect. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "SSC CGL"
-          ]
-        },
-        {
-          "questionText": "Cause and Effect Practice Q6: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Both statements I and II are effects of independent causes",
+            "Both statements I and II are independent causes",
+            "Statement I is the cause and statement II is its effect",
+            "Statement II is the cause and statement I is its effect"
           ],
           "correctIndex": 2,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Cause and Effect. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Incentives and announcements trigger human behavior and applications.",
+          "explanation": "The government subsidy announcement provided the direct economic incentive that motivated farmers to apply. Statement I is the cause and Statement II is the resulting effect.",
+          "solutionSteps": "Step 1: Read both statements and assess chronological precedence.\nStep 2: Check for a direct causal mechanism (did Event A trigger Event B?).\nStep 3: If no connection exists, check if they stem from independent causes or a common cause.\nStep 4: Conclude: Statement I is the cause and statement II is its effect.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "SSC CGL"
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Cause and Effect Practice Q7: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "Statements:\nI. The city civil hospital recorded a surge in cases of severe dengue and viral fever.\nII. Municipal authorities launched an intensive door-to-door anti-larval fogging drive across all wards.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Statement II is the cause and statement I is its effect",
+            "Both statements I and II are independent causes",
+            "Statement I is the cause and statement II is its effect",
+            "Both statements I and II are effects of independent causes"
+          ],
+          "correctIndex": 2,
+          "difficulty": "easy",
+          "hint": "Disease surges prompt public health remediation measures.",
+          "explanation": "The outbreak of mosquito-borne fever (Cause) prompted municipal healthcare authorities to launch responsive fogging and spraying operations (Effect).",
+          "solutionSteps": "Step 1: Read both statements and assess chronological precedence.\nStep 2: Check for a direct causal mechanism (did Event A trigger Event B?).\nStep 3: If no connection exists, check if they stem from independent causes or a common cause.\nStep 4: Conclude: Statement I is the cause and statement II is its effect.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Statements:\nI. Schools and colleges were ordered shut for three days across the capital city.\nII. The air quality index (AQI) plunged into the \"Severe Plus\" hazardous category.",
+          "options": [
+            "Both statements I and II are independent causes",
+            "Both statements I and II are effects of independent causes",
+            "Statement I is the cause and statement II is its effect",
+            "Statement II is the cause and statement I is its effect"
           ],
           "correctIndex": 3,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Cause and Effect. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Hazardous air pollution is the trigger for emergency school closures.",
+          "explanation": "Dangerous atmospheric pollution levels (Statement II) necessitated emergency public health precautions, including the closure of educational institutions (Statement I). II is cause, I is effect.",
+          "solutionSteps": "Step 1: Read both statements and assess chronological precedence.\nStep 2: Check for a direct causal mechanism (did Event A trigger Event B?).\nStep 3: If no connection exists, check if they stem from independent causes or a common cause.\nStep 4: Conclude: Statement II is the cause and statement I is its effect.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "SSC CGL"
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Cause and Effect Practice Q8: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "Statements:\nI. Unprecedented torrential rainfall lashed the coastal state for four consecutive days.\nII. Low-lying residential colonies were severely inundated and road traffic was brought to a standstill.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Statement II is the cause and statement I is its effect",
+            "Both statements I and II are independent causes",
+            "Both statements I and II are effects of independent causes",
+            "Statement I is the cause and statement II is its effect"
+          ],
+          "correctIndex": 3,
+          "difficulty": "easy",
+          "hint": "Determine which event occurred first chronologically and led naturally to the second event.",
+          "explanation": "Heavy torrential rainfall directly causes the subsequent flooding and traffic disruption in low-lying localities. Thus, Statement I is the direct cause and Statement II is its effect.",
+          "solutionSteps": "Step 1: Read both statements and assess chronological precedence.\nStep 2: Check for a direct causal mechanism (did Event A trigger Event B?).\nStep 3: If no connection exists, check if they stem from independent causes or a common cause.\nStep 4: Conclude: Statement I is the cause and statement II is its effect.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Statements:\nI. The state government announced a flat 50% subsidy on modern drip irrigation equipment for farmers.\nII. Thousands of small and marginal farmers submitted applications at district agricultural offices.",
+          "options": [
+            "Both statements I and II are independent causes",
+            "Statement I is the cause and statement II is its effect",
+            "Statement II is the cause and statement I is its effect",
+            "Both statements I and II are effects of independent causes"
+          ],
+          "correctIndex": 1,
+          "difficulty": "easy",
+          "hint": "Incentives and announcements trigger human behavior and applications.",
+          "explanation": "The government subsidy announcement provided the direct economic incentive that motivated farmers to apply. Statement I is the cause and Statement II is the resulting effect.",
+          "solutionSteps": "Step 1: Read both statements and assess chronological precedence.\nStep 2: Check for a direct causal mechanism (did Event A trigger Event B?).\nStep 3: If no connection exists, check if they stem from independent causes or a common cause.\nStep 4: Conclude: Statement I is the cause and statement II is its effect.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Statements:\nI. The central petroleum ministry slashed import tariffs on crude oil by 40%.\nII. Domestic fuel retailers reduced the retail prices of petrol and diesel across the country.",
+          "options": [
+            "Statement I is the cause and statement II is its effect",
+            "Statement II is the cause and statement I is its effect",
+            "Both statements I and II are independent causes",
+            "Both statements I and II are effects of independent causes"
           ],
           "correctIndex": 0,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Cause and Effect. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Tariff reductions lead to retail price reductions in regulated sectors.",
+          "explanation": "A reduction in import tariffs reduces the procurement cost of crude oil, which directly enables fuel retailers to pass on price cuts to consumers. Statement I is cause, II is effect.",
+          "solutionSteps": "Step 1: Read both statements and assess chronological precedence.\nStep 2: Check for a direct causal mechanism (did Event A trigger Event B?).\nStep 3: If no connection exists, check if they stem from independent causes or a common cause.\nStep 4: Conclude: Statement I is the cause and statement II is its effect.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "SSC CGL"
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Cause and Effect Practice Q9: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "Statements:\nI. Major IT firms across the metropolitan region reported a 25% attrition rate among experienced software architects.\nII. Several global technology conglomerates opened new high-paying development centres in the city.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Statement I is the cause and statement II is its effect",
+            "Statement II is the cause and statement I is its effect",
+            "Both statements I and II are independent causes",
+            "Both statements I and II are effects of independent causes"
           ],
           "correctIndex": 1,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Cause and Effect. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Notice the chronological precedence: new employment opportunities induce higher employee turnover.",
+          "explanation": "The opening of new high-paying tech centres by global firms created lucrative opportunities that caused experienced staff to leave their existing employers. Hence, Statement II is the cause and Statement I is its effect.",
+          "solutionSteps": "Step 1: Read both statements and assess chronological precedence.\nStep 2: Check for a direct causal mechanism (did Event A trigger Event B?).\nStep 3: If no connection exists, check if they stem from independent causes or a common cause.\nStep 4: Conclude: Statement II is the cause and statement I is its effect.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "SSC CGL"
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Cause and Effect Practice Q10: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "Statements:\nI. Vegetable prices skyrocketed in northern markets over the past fortnight.\nII. Diesel prices witnessed a steep hike following international crude oil surges.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 2,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Cause and Effect. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "SSC CGL"
-          ]
-        },
-        {
-          "questionText": "Cause and Effect Practice Q11: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Statement I is the cause and statement II is its effect",
+            "Both statements I and II are effects of independent causes",
+            "Both statements I and II are independent causes",
+            "Statement II is the cause and statement I is its effect"
           ],
           "correctIndex": 3,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Cause and Effect. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Freight and diesel costs directly drive perishable food prices.",
+          "explanation": "Increased diesel prices raise inter-state trucking and freight transport costs, leading directly to higher wholesale and retail vegetable prices. Statement II is the cause, I is effect.",
+          "solutionSteps": "Step 1: Read both statements and assess chronological precedence.\nStep 2: Check for a direct causal mechanism (did Event A trigger Event B?).\nStep 3: If no connection exists, check if they stem from independent causes or a common cause.\nStep 4: Conclude: Statement II is the cause and statement I is its effect.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "SSC CGL"
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Cause and Effect Practice Q12: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "Statements:\nI. Farmers in the western district harvested a bumper pulse crop this season.\nII. Textile mills in the southern state announced bonus payouts for all factory workers.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Both statements I and II are effects of independent causes",
+            "Both statements I and II are independent causes",
+            "Statement I is the cause and statement II is its effect",
+            "Statement II is the cause and statement I is its effect"
           ],
           "correctIndex": 0,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Cause and Effect. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Check whether the two domains (agriculture in west vs textile bonuses in south) have any causal linkage.",
+          "explanation": "A good pulse harvest in the west is driven by agricultural and weather conditions, while factory worker bonuses in the south depend on individual industrial profits. They are completely unrelated effects of independent causes.",
+          "solutionSteps": "Step 1: Read both statements and assess chronological precedence.\nStep 2: Check for a direct causal mechanism (did Event A trigger Event B?).\nStep 3: If no connection exists, check if they stem from independent causes or a common cause.\nStep 4: Conclude: Both statements I and II are effects of independent causes.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "SSC CGL"
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Cause and Effect Practice Q13: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "Statements:\nI. The central petroleum ministry slashed import tariffs on crude oil by 40%.\nII. Domestic fuel retailers reduced the retail prices of petrol and diesel across the country.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Statement II is the cause and statement I is its effect",
+            "Both statements I and II are independent causes",
+            "Statement I is the cause and statement II is its effect",
+            "Both statements I and II are effects of independent causes"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "hint": "Tariff reductions lead to retail price reductions in regulated sectors.",
+          "explanation": "A reduction in import tariffs reduces the procurement cost of crude oil, which directly enables fuel retailers to pass on price cuts to consumers. Statement I is cause, II is effect.",
+          "solutionSteps": "Step 1: Read both statements and assess chronological precedence.\nStep 2: Check for a direct causal mechanism (did Event A trigger Event B?).\nStep 3: If no connection exists, check if they stem from independent causes or a common cause.\nStep 4: Conclude: Statement I is the cause and statement II is its effect.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Statements:\nI. Major IT firms across the metropolitan region reported a 25% attrition rate among experienced software architects.\nII. Several global technology conglomerates opened new high-paying development centres in the city.",
+          "options": [
+            "Statement II is the cause and statement I is its effect",
+            "Both statements I and II are effects of independent causes",
+            "Both statements I and II are independent causes",
+            "Statement I is the cause and statement II is its effect"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "hint": "Notice the chronological precedence: new employment opportunities induce higher employee turnover.",
+          "explanation": "The opening of new high-paying tech centres by global firms created lucrative opportunities that caused experienced staff to leave their existing employers. Hence, Statement II is the cause and Statement I is its effect.",
+          "solutionSteps": "Step 1: Read both statements and assess chronological precedence.\nStep 2: Check for a direct causal mechanism (did Event A trigger Event B?).\nStep 3: If no connection exists, check if they stem from independent causes or a common cause.\nStep 4: Conclude: Statement II is the cause and statement I is its effect.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Statements:\nI. Vegetable prices skyrocketed in northern markets over the past fortnight.\nII. Diesel prices witnessed a steep hike following international crude oil surges.",
+          "options": [
+            "Statement I is the cause and statement II is its effect",
+            "Both statements I and II are effects of independent causes",
+            "Both statements I and II are independent causes",
+            "Statement II is the cause and statement I is its effect"
+          ],
+          "correctIndex": 3,
+          "difficulty": "medium",
+          "hint": "Freight and diesel costs directly drive perishable food prices.",
+          "explanation": "Increased diesel prices raise inter-state trucking and freight transport costs, leading directly to higher wholesale and retail vegetable prices. Statement II is the cause, I is effect.",
+          "solutionSteps": "Step 1: Read both statements and assess chronological precedence.\nStep 2: Check for a direct causal mechanism (did Event A trigger Event B?).\nStep 3: If no connection exists, check if they stem from independent causes or a common cause.\nStep 4: Conclude: Statement II is the cause and statement I is its effect.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Statements:\nI. Farmers in the western district harvested a bumper pulse crop this season.\nII. Textile mills in the southern state announced bonus payouts for all factory workers.",
+          "options": [
+            "Both statements I and II are independent causes",
+            "Statement II is the cause and statement I is its effect",
+            "Both statements I and II are effects of independent causes",
+            "Statement I is the cause and statement II is its effect"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "hint": "Check whether the two domains (agriculture in west vs textile bonuses in south) have any causal linkage.",
+          "explanation": "A good pulse harvest in the west is driven by agricultural and weather conditions, while factory worker bonuses in the south depend on individual industrial profits. They are completely unrelated effects of independent causes.",
+          "solutionSteps": "Step 1: Read both statements and assess chronological precedence.\nStep 2: Check for a direct causal mechanism (did Event A trigger Event B?).\nStep 3: If no connection exists, check if they stem from independent causes or a common cause.\nStep 4: Conclude: Both statements I and II are effects of independent causes.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Statements:\nI. The city civil hospital recorded a surge in cases of severe dengue and viral fever.\nII. Municipal authorities launched an intensive door-to-door anti-larval fogging drive across all wards.",
+          "options": [
+            "Both statements I and II are effects of independent causes",
+            "Statement II is the cause and statement I is its effect",
+            "Statement I is the cause and statement II is its effect",
+            "Both statements I and II are independent causes"
+          ],
+          "correctIndex": 2,
+          "difficulty": "easy",
+          "hint": "Disease surges prompt public health remediation measures.",
+          "explanation": "The outbreak of mosquito-borne fever (Cause) prompted municipal healthcare authorities to launch responsive fogging and spraying operations (Effect).",
+          "solutionSteps": "Step 1: Read both statements and assess chronological precedence.\nStep 2: Check for a direct causal mechanism (did Event A trigger Event B?).\nStep 3: If no connection exists, check if they stem from independent causes or a common cause.\nStep 4: Conclude: Statement I is the cause and statement II is its effect.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Statements:\nI. Schools and colleges were ordered shut for three days across the capital city.\nII. The air quality index (AQI) plunged into the \"Severe Plus\" hazardous category.",
+          "options": [
+            "Both statements I and II are effects of independent causes",
+            "Both statements I and II are independent causes",
+            "Statement II is the cause and statement I is its effect",
+            "Statement I is the cause and statement II is its effect"
+          ],
+          "correctIndex": 2,
+          "difficulty": "easy",
+          "hint": "Hazardous air pollution is the trigger for emergency school closures.",
+          "explanation": "Dangerous atmospheric pollution levels (Statement II) necessitated emergency public health precautions, including the closure of educational institutions (Statement I). II is cause, I is effect.",
+          "solutionSteps": "Step 1: Read both statements and assess chronological precedence.\nStep 2: Check for a direct causal mechanism (did Event A trigger Event B?).\nStep 3: If no connection exists, check if they stem from independent causes or a common cause.\nStep 4: Conclude: Statement II is the cause and statement I is its effect.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Statements:\nI. Unprecedented torrential rainfall lashed the coastal state for four consecutive days.\nII. Low-lying residential colonies were severely inundated and road traffic was brought to a standstill.",
+          "options": [
+            "Both statements I and II are independent causes",
+            "Both statements I and II are effects of independent causes",
+            "Statement II is the cause and statement I is its effect",
+            "Statement I is the cause and statement II is its effect"
+          ],
+          "correctIndex": 3,
+          "difficulty": "easy",
+          "hint": "Determine which event occurred first chronologically and led naturally to the second event.",
+          "explanation": "Heavy torrential rainfall directly causes the subsequent flooding and traffic disruption in low-lying localities. Thus, Statement I is the direct cause and Statement II is its effect.",
+          "solutionSteps": "Step 1: Read both statements and assess chronological precedence.\nStep 2: Check for a direct causal mechanism (did Event A trigger Event B?).\nStep 3: If no connection exists, check if they stem from independent causes or a common cause.\nStep 4: Conclude: Statement I is the cause and statement II is its effect.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Statements:\nI. The state government announced a flat 50% subsidy on modern drip irrigation equipment for farmers.\nII. Thousands of small and marginal farmers submitted applications at district agricultural offices.",
+          "options": [
+            "Statement II is the cause and statement I is its effect",
+            "Both statements I and II are effects of independent causes",
+            "Statement I is the cause and statement II is its effect",
+            "Both statements I and II are independent causes"
+          ],
+          "correctIndex": 2,
+          "difficulty": "easy",
+          "hint": "Incentives and announcements trigger human behavior and applications.",
+          "explanation": "The government subsidy announcement provided the direct economic incentive that motivated farmers to apply. Statement I is the cause and Statement II is the resulting effect.",
+          "solutionSteps": "Step 1: Read both statements and assess chronological precedence.\nStep 2: Check for a direct causal mechanism (did Event A trigger Event B?).\nStep 3: If no connection exists, check if they stem from independent causes or a common cause.\nStep 4: Conclude: Statement I is the cause and statement II is its effect.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Statements:\nI. The central petroleum ministry slashed import tariffs on crude oil by 40%.\nII. Domestic fuel retailers reduced the retail prices of petrol and diesel across the country.",
+          "options": [
+            "Both statements I and II are independent causes",
+            "Statement I is the cause and statement II is its effect",
+            "Statement II is the cause and statement I is its effect",
+            "Both statements I and II are effects of independent causes"
           ],
           "correctIndex": 1,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Cause and Effect. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Tariff reductions lead to retail price reductions in regulated sectors.",
+          "explanation": "A reduction in import tariffs reduces the procurement cost of crude oil, which directly enables fuel retailers to pass on price cuts to consumers. Statement I is cause, II is effect.",
+          "solutionSteps": "Step 1: Read both statements and assess chronological precedence.\nStep 2: Check for a direct causal mechanism (did Event A trigger Event B?).\nStep 3: If no connection exists, check if they stem from independent causes or a common cause.\nStep 4: Conclude: Statement I is the cause and statement II is its effect.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "SSC CGL"
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Cause and Effect Practice Q14: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "Statements:\nI. Major IT firms across the metropolitan region reported a 25% attrition rate among experienced software architects.\nII. Several global technology conglomerates opened new high-paying development centres in the city.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Statement I is the cause and statement II is its effect",
+            "Both statements I and II are effects of independent causes",
+            "Statement II is the cause and statement I is its effect",
+            "Both statements I and II are independent causes"
           ],
           "correctIndex": 2,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Cause and Effect. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Notice the chronological precedence: new employment opportunities induce higher employee turnover.",
+          "explanation": "The opening of new high-paying tech centres by global firms created lucrative opportunities that caused experienced staff to leave their existing employers. Hence, Statement II is the cause and Statement I is its effect.",
+          "solutionSteps": "Step 1: Read both statements and assess chronological precedence.\nStep 2: Check for a direct causal mechanism (did Event A trigger Event B?).\nStep 3: If no connection exists, check if they stem from independent causes or a common cause.\nStep 4: Conclude: Statement II is the cause and statement I is its effect.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "SSC CGL"
-          ]
-        },
-        {
-          "questionText": "Cause and Effect Practice Q15: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Cause and Effect. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "SSC CGL"
-          ]
-        },
-        {
-          "questionText": "Cause and Effect Practice Q16: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Cause and Effect. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "SSC CGL"
-          ]
-        },
-        {
-          "questionText": "Cause and Effect Practice Q17: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Cause and Effect. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "SSC CGL"
-          ]
-        },
-        {
-          "questionText": "Cause and Effect Practice Q18: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 2,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Cause and Effect. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "SSC CGL"
-          ]
-        },
-        {
-          "questionText": "Cause and Effect Practice Q19: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Cause and Effect. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "SSC CGL"
-          ]
-        },
-        {
-          "questionText": "Cause and Effect Practice Q20: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Cause and Effect. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "SSC CGL"
+            "LIC AAO",
+            "CDS"
           ]
         }
       ]

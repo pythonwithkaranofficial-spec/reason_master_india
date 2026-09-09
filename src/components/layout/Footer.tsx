@@ -73,29 +73,29 @@ export function Footer() {
             >
               Reasoning Hubs
             </h4>
-            <ul style={{ display: "flex", flexDirection: "column", gap: "var(--space-2)", fontSize: "0.9rem" }}>
+            <ul style={{ display: "flex", flexDirection: "column", gap: "var(--space-1)", fontSize: "0.9rem" }}>
               <li>
-                <Link href="/verbal" style={{ color: "var(--text-secondary)" }}>
+                <Link href="/verbal" style={{ color: "var(--text-secondary)", display: "inline-block", padding: "4px 0" }}>
                   Verbal Reasoning (25 Topics)
                 </Link>
               </li>
               <li>
-                <Link href="/nonverbal" style={{ color: "var(--text-secondary)" }}>
+                <Link href="/nonverbal" style={{ color: "var(--text-secondary)", display: "inline-block", padding: "4px 0" }}>
                   Non-Verbal Reasoning (14 Topics)
                 </Link>
               </li>
               <li>
-                <Link href="/practice" style={{ color: "var(--text-secondary)" }}>
+                <Link href="/practice" style={{ color: "var(--text-secondary)", display: "inline-block", padding: "4px 0" }}>
                   MCQ Practice Arena (19,500 Qs)
                 </Link>
               </li>
               <li>
-                <Link href="/stats" style={{ color: "var(--text-secondary)" }}>
+                <Link href="/stats" style={{ color: "var(--text-secondary)", display: "inline-block", padding: "4px 0" }}>
                   Performance & Weak Topics
                 </Link>
               </li>
               <li>
-                <Link href="/bookmarks" style={{ color: "var(--text-secondary)" }}>
+                <Link href="/bookmarks" style={{ color: "var(--text-secondary)", display: "inline-block", padding: "4px 0" }}>
                   Bookmarked Questions
                 </Link>
               </li>
@@ -115,29 +115,29 @@ export function Footer() {
             >
               Target Exams
             </h4>
-            <ul style={{ display: "flex", flexDirection: "column", gap: "var(--space-2)", fontSize: "0.9rem" }}>
+            <ul style={{ display: "flex", flexDirection: "column", gap: "var(--space-1)", fontSize: "0.9rem" }}>
               <li>
-                <Link href="/exams/ssc" style={{ color: "var(--text-secondary)" }}>
+                <Link href="/exams/ssc" style={{ color: "var(--text-secondary)", display: "inline-block", padding: "4px 0" }}>
                   SSC Exams (CGL, CHSL, CPO, MTS, GD)
                 </Link>
               </li>
               <li>
-                <Link href="/exams/banking" style={{ color: "var(--text-secondary)" }}>
+                <Link href="/exams/banking" style={{ color: "var(--text-secondary)", display: "inline-block", padding: "4px 0" }}>
                   Banking & Regulatory (IBPS, SBI, RBI, NABARD)
                 </Link>
               </li>
               <li>
-                <Link href="/exams/railway" style={{ color: "var(--text-secondary)" }}>
+                <Link href="/exams/railway" style={{ color: "var(--text-secondary)", display: "inline-block", padding: "4px 0" }}>
                   Railways (RRB NTPC, Group D, ALP)
                 </Link>
               </li>
               <li>
-                <Link href="/exams/defence" style={{ color: "var(--text-secondary)" }}>
+                <Link href="/exams/defence" style={{ color: "var(--text-secondary)", display: "inline-block", padding: "4px 0" }}>
                   Defence (NDA, CDS, AFCAT, CAPF)
                 </Link>
               </li>
               <li>
-                <Link href="/exams/state_psc" style={{ color: "var(--text-secondary)" }}>
+                <Link href="/exams/state_psc" style={{ color: "var(--text-secondary)", display: "inline-block", padding: "4px 0" }}>
                   State PSCs & Civil Services
                 </Link>
               </li>
@@ -157,24 +157,24 @@ export function Footer() {
             >
               Preferences
             </h4>
-            <ul style={{ display: "flex", flexDirection: "column", gap: "var(--space-2)", fontSize: "0.9rem" }}>
+            <ul style={{ display: "flex", flexDirection: "column", gap: "var(--space-1)", fontSize: "0.9rem" }}>
               <li>
-                <Link href="/settings" style={{ color: "var(--text-secondary)" }}>
+                <Link href="/settings" style={{ color: "var(--text-secondary)", display: "inline-block", padding: "4px 0" }}>
                   Display & Practice Settings
                 </Link>
               </li>
               <li>
-                <Link href="/settings#data-management" style={{ color: "var(--text-secondary)" }}>
+                <Link href="/settings#data-management" style={{ color: "var(--text-secondary)", display: "inline-block", padding: "4px 0" }}>
                   Data Management & Reset
                 </Link>
               </li>
               <li>
-                <Link href="/settings#about" style={{ color: "var(--text-secondary)" }}>
+                <Link href="/settings#about" style={{ color: "var(--text-secondary)", display: "inline-block", padding: "4px 0" }}>
                   About & Methodological Design
                 </Link>
               </li>
               <li>
-                <Link href="/settings#privacy" style={{ color: "var(--text-secondary)" }}>
+                <Link href="/settings#privacy" style={{ color: "var(--text-secondary)", display: "inline-block", padding: "4px 0" }}>
                   Privacy Statement
                 </Link>
               </li>

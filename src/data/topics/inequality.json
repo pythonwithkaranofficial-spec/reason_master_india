@@ -49,343 +49,463 @@
       ],
       "practiceQuestions": [
         {
-          "questionText": "Inequality Practice Q1: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "Statements: T > R ≥ U = S > Q\nConclusions:\nI. T > U\nII. S > Q",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Inequality. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "IBPS Clerk"
-          ]
-        },
-        {
-          "questionText": "Inequality Practice Q2: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Only conclusion II follows",
+            "Neither conclusion I nor II follows",
+            "Both conclusion I and II follow",
+            "Only conclusion I follows"
           ],
           "correctIndex": 2,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Inequality. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Check the operator priority hierarchy: > overrides ≥ which overrides =.",
+          "explanation": "From T > R ≥ U, the common priority operator is \">\", so T > U is definitely true. From S > Q, conclusion II is definitely true. Both conclusions follow.",
+          "solutionSteps": "Step 1: Check the chain of operators between the two variables in Conclusion I.\nStep 2: Check the chain of operators between the two variables in Conclusion II.\nStep 3: If opposite signs (e.g. > and <) appear anywhere between them, no definite conclusion can be drawn.\nStep 4: Result is Both conclusion I and II follow.",
           "examTags": [
             "IBPS PO",
+            "IBPS CLERK",
             "SBI PO",
-            "IBPS Clerk"
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
           ]
         },
         {
-          "questionText": "Inequality Practice Q3: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "Statements: U > W ≥ Q = R > S\nConclusions:\nI. U > Q\nII. R > S",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Neither conclusion I nor II follows",
+            "Only conclusion I follows",
+            "Only conclusion II follows",
+            "Both conclusion I and II follow"
           ],
           "correctIndex": 3,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Inequality. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Check the operator priority hierarchy: > overrides ≥ which overrides =.",
+          "explanation": "From U > W ≥ Q, the common priority operator is \">\", so U > Q is definitely true. From R > S, conclusion II is definitely true. Both conclusions follow.",
+          "solutionSteps": "Step 1: Check the chain of operators between the two variables in Conclusion I.\nStep 2: Check the chain of operators between the two variables in Conclusion II.\nStep 3: If opposite signs (e.g. > and <) appear anywhere between them, no definite conclusion can be drawn.\nStep 4: Result is Both conclusion I and II follow.",
           "examTags": [
             "IBPS PO",
+            "IBPS CLERK",
             "SBI PO",
-            "IBPS Clerk"
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
           ]
         },
         {
-          "questionText": "Inequality Practice Q4: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "Statements: P > R ≥ V = W > U\nConclusions:\nI. P > V\nII. W > U",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Neither conclusion I nor II follows",
+            "Only conclusion II follows",
+            "Only conclusion I follows",
+            "Both conclusion I and II follow"
           ],
-          "correctIndex": 0,
+          "correctIndex": 3,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Inequality. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Check the operator priority hierarchy: > overrides ≥ which overrides =.",
+          "explanation": "From P > R ≥ V, the common priority operator is \">\", so P > V is definitely true. From W > U, conclusion II is definitely true. Both conclusions follow.",
+          "solutionSteps": "Step 1: Check the chain of operators between the two variables in Conclusion I.\nStep 2: Check the chain of operators between the two variables in Conclusion II.\nStep 3: If opposite signs (e.g. > and <) appear anywhere between them, no definite conclusion can be drawn.\nStep 4: Result is Both conclusion I and II follow.",
           "examTags": [
             "IBPS PO",
+            "IBPS CLERK",
             "SBI PO",
-            "IBPS Clerk"
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
           ]
         },
         {
-          "questionText": "Inequality Practice Q5: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "Statements: P > Q ≥ T = S > R\nConclusions:\nI. P > T\nII. S > R",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Only conclusion I follows",
+            "Both conclusion I and II follow",
+            "Only conclusion II follows",
+            "Neither conclusion I nor II follows"
           ],
           "correctIndex": 1,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Inequality. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Check the operator priority hierarchy: > overrides ≥ which overrides =.",
+          "explanation": "From P > Q ≥ T, the common priority operator is \">\", so P > T is definitely true. From S > R, conclusion II is definitely true. Both conclusions follow.",
+          "solutionSteps": "Step 1: Check the chain of operators between the two variables in Conclusion I.\nStep 2: Check the chain of operators between the two variables in Conclusion II.\nStep 3: If opposite signs (e.g. > and <) appear anywhere between them, no definite conclusion can be drawn.\nStep 4: Result is Both conclusion I and II follow.",
           "examTags": [
             "IBPS PO",
+            "IBPS CLERK",
             "SBI PO",
-            "IBPS Clerk"
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
           ]
         },
         {
-          "questionText": "Inequality Practice Q6: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "Statements: S > T ≥ P = V > W\nConclusions:\nI. S > P\nII. V > W",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Only conclusion I follows",
+            "Both conclusion I and II follow",
+            "Only conclusion II follows",
+            "Neither conclusion I nor II follows"
+          ],
+          "correctIndex": 1,
+          "difficulty": "easy",
+          "hint": "Check the operator priority hierarchy: > overrides ≥ which overrides =.",
+          "explanation": "From S > T ≥ P, the common priority operator is \">\", so S > P is definitely true. From V > W, conclusion II is definitely true. Both conclusions follow.",
+          "solutionSteps": "Step 1: Check the chain of operators between the two variables in Conclusion I.\nStep 2: Check the chain of operators between the two variables in Conclusion II.\nStep 3: If opposite signs (e.g. > and <) appear anywhere between them, no definite conclusion can be drawn.\nStep 4: Result is Both conclusion I and II follow.",
+          "examTags": [
+            "IBPS PO",
+            "IBPS CLERK",
+            "SBI PO",
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
+          ]
+        },
+        {
+          "questionText": "Statements: U > S ≥ W = P > V\nConclusions:\nI. U > W\nII. P > V",
+          "options": [
+            "Neither conclusion I nor II follows",
+            "Only conclusion II follows",
+            "Both conclusion I and II follow",
+            "Only conclusion I follows"
           ],
           "correctIndex": 2,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Inequality. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Check the operator priority hierarchy: > overrides ≥ which overrides =.",
+          "explanation": "From U > S ≥ W, the common priority operator is \">\", so U > W is definitely true. From P > V, conclusion II is definitely true. Both conclusions follow.",
+          "solutionSteps": "Step 1: Check the chain of operators between the two variables in Conclusion I.\nStep 2: Check the chain of operators between the two variables in Conclusion II.\nStep 3: If opposite signs (e.g. > and <) appear anywhere between them, no definite conclusion can be drawn.\nStep 4: Result is Both conclusion I and II follow.",
           "examTags": [
             "IBPS PO",
+            "IBPS CLERK",
             "SBI PO",
-            "IBPS Clerk"
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
           ]
         },
         {
-          "questionText": "Inequality Practice Q7: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "Statements: U > Q ≥ V = S > P\nConclusions:\nI. U > S\nII. V < P",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Inequality. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "IBPS Clerk"
-          ]
-        },
-        {
-          "questionText": "Inequality Practice Q8: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Inequality. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "IBPS Clerk"
-          ]
-        },
-        {
-          "questionText": "Inequality Practice Q9: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Inequality. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "IBPS Clerk"
-          ]
-        },
-        {
-          "questionText": "Inequality Practice Q10: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Both conclusion I and II follow",
+            "Only conclusion II follows",
+            "Only conclusion I follows",
+            "Neither conclusion I nor II follows"
           ],
           "correctIndex": 2,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Inequality. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Check the operator priority hierarchy: > overrides ≥ which overrides =.",
+          "explanation": "From U > Q ≥ V = S, U > S is definitely true. From S > P and V = S, V > P, so V < P is false. Only conclusion I follows.",
+          "solutionSteps": "Step 1: Check the chain of operators between the two variables in Conclusion I.\nStep 2: Check the chain of operators between the two variables in Conclusion II.\nStep 3: If opposite signs (e.g. > and <) appear anywhere between them, no definite conclusion can be drawn.\nStep 4: Result is Only conclusion I follows.",
           "examTags": [
             "IBPS PO",
+            "IBPS CLERK",
             "SBI PO",
-            "IBPS Clerk"
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
           ]
         },
         {
-          "questionText": "Inequality Practice Q11: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "Statements: U > V ≥ Q = R > S\nConclusions:\nI. U = Q\nII. V ≥ R",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Inequality. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "IBPS Clerk"
-          ]
-        },
-        {
-          "questionText": "Inequality Practice Q12: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Only conclusion II follows",
+            "Both conclusion I and II follow",
+            "Only conclusion I follows",
+            "Neither conclusion I nor II follows"
           ],
           "correctIndex": 0,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Inequality. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Check the operator priority hierarchy: > overrides ≥ which overrides =.",
+          "explanation": "Between U and Q, there is a strict \">\" sign, so U = Q is false. Since V ≥ Q = R, V ≥ R is definitely true. Only conclusion II follows.",
+          "solutionSteps": "Step 1: Check the chain of operators between the two variables in Conclusion I.\nStep 2: Check the chain of operators between the two variables in Conclusion II.\nStep 3: If opposite signs (e.g. > and <) appear anywhere between them, no definite conclusion can be drawn.\nStep 4: Result is Only conclusion II follows.",
           "examTags": [
             "IBPS PO",
+            "IBPS CLERK",
             "SBI PO",
-            "IBPS Clerk"
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
           ]
         },
         {
-          "questionText": "Inequality Practice Q13: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "Statements: P > R ≥ S = T > V\nConclusions:\nI. V > P\nII. R = T",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Neither conclusion I nor II follows",
+            "Only conclusion I follows",
+            "Both conclusion I and II follow",
+            "Only conclusion II follows"
           ],
-          "correctIndex": 1,
+          "correctIndex": 0,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Inequality. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Check the operator priority hierarchy: > overrides ≥ which overrides =.",
+          "explanation": "Since P > e, V > P is false. Between R and T, R ≥ T, so R = T is not definitely true. Neither conclusion I nor II follows.",
+          "solutionSteps": "Step 1: Check the chain of operators between the two variables in Conclusion I.\nStep 2: Check the chain of operators between the two variables in Conclusion II.\nStep 3: If opposite signs (e.g. > and <) appear anywhere between them, no definite conclusion can be drawn.\nStep 4: Result is Neither conclusion I nor II follows.",
           "examTags": [
             "IBPS PO",
+            "IBPS CLERK",
             "SBI PO",
-            "IBPS Clerk"
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
           ]
         },
         {
-          "questionText": "Inequality Practice Q14: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "Statements: S > V ≥ Q = U > W\nConclusions:\nI. S > U\nII. Q < W",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Only conclusion II follows",
+            "Both conclusion I and II follow",
+            "Only conclusion I follows",
+            "Neither conclusion I nor II follows"
           ],
           "correctIndex": 2,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Inequality. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Check the operator priority hierarchy: > overrides ≥ which overrides =.",
+          "explanation": "From S > V ≥ Q = U, S > U is definitely true. From U > W and Q = U, Q > W, so Q < W is false. Only conclusion I follows.",
+          "solutionSteps": "Step 1: Check the chain of operators between the two variables in Conclusion I.\nStep 2: Check the chain of operators between the two variables in Conclusion II.\nStep 3: If opposite signs (e.g. > and <) appear anywhere between them, no definite conclusion can be drawn.\nStep 4: Result is Only conclusion I follows.",
           "examTags": [
             "IBPS PO",
+            "IBPS CLERK",
             "SBI PO",
-            "IBPS Clerk"
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
           ]
         },
         {
-          "questionText": "Inequality Practice Q15: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "Statements: Q > V ≥ T = S > W\nConclusions:\nI. Q = T\nII. V ≥ S",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Both conclusion I and II follow",
+            "Only conclusion I follows",
+            "Neither conclusion I nor II follows",
+            "Only conclusion II follows"
           ],
           "correctIndex": 3,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Inequality. Work through the problem step by step using the shortcuts taught in this topic.",
+          "difficulty": "medium",
+          "hint": "Check the operator priority hierarchy: > overrides ≥ which overrides =.",
+          "explanation": "Between Q and T, there is a strict \">\" sign, so Q = T is false. Since V ≥ T = S, V ≥ S is definitely true. Only conclusion II follows.",
+          "solutionSteps": "Step 1: Check the chain of operators between the two variables in Conclusion I.\nStep 2: Check the chain of operators between the two variables in Conclusion II.\nStep 3: If opposite signs (e.g. > and <) appear anywhere between them, no definite conclusion can be drawn.\nStep 4: Result is Only conclusion II follows.",
           "examTags": [
             "IBPS PO",
+            "IBPS CLERK",
             "SBI PO",
-            "IBPS Clerk"
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
           ]
         },
         {
-          "questionText": "Inequality Practice Q16: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "Statements: U > Q ≥ S = R > T\nConclusions:\nI. T > U\nII. Q = R",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Neither conclusion I nor II follows",
+            "Only conclusion II follows",
+            "Both conclusion I and II follow",
+            "Only conclusion I follows"
           ],
           "correctIndex": 0,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Inequality. Work through the problem step by step using the shortcuts taught in this topic.",
+          "difficulty": "medium",
+          "hint": "Check the operator priority hierarchy: > overrides ≥ which overrides =.",
+          "explanation": "Since U > e, T > U is false. Between Q and R, Q ≥ R, so Q = R is not definitely true. Neither conclusion I nor II follows.",
+          "solutionSteps": "Step 1: Check the chain of operators between the two variables in Conclusion I.\nStep 2: Check the chain of operators between the two variables in Conclusion II.\nStep 3: If opposite signs (e.g. > and <) appear anywhere between them, no definite conclusion can be drawn.\nStep 4: Result is Neither conclusion I nor II follows.",
           "examTags": [
             "IBPS PO",
+            "IBPS CLERK",
             "SBI PO",
-            "IBPS Clerk"
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
           ]
         },
         {
-          "questionText": "Inequality Practice Q17: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "Statements: T > S ≥ R = U > V\nConclusions:\nI. T > U\nII. R < V",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Only conclusion II follows",
+            "Neither conclusion I nor II follows",
+            "Only conclusion I follows",
+            "Both conclusion I and II follow"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "hint": "Check the operator priority hierarchy: > overrides ≥ which overrides =.",
+          "explanation": "From T > S ≥ R = U, T > U is definitely true. From U > V and R = U, R > V, so R < V is false. Only conclusion I follows.",
+          "solutionSteps": "Step 1: Check the chain of operators between the two variables in Conclusion I.\nStep 2: Check the chain of operators between the two variables in Conclusion II.\nStep 3: If opposite signs (e.g. > and <) appear anywhere between them, no definite conclusion can be drawn.\nStep 4: Result is Only conclusion I follows.",
+          "examTags": [
+            "IBPS PO",
+            "IBPS CLERK",
+            "SBI PO",
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
+          ]
+        },
+        {
+          "questionText": "Statements: U > V ≥ P = Q > R\nConclusions:\nI. U = P\nII. V ≥ Q",
+          "options": [
+            "Both conclusion I and II follow",
+            "Neither conclusion I nor II follows",
+            "Only conclusion I follows",
+            "Only conclusion II follows"
+          ],
+          "correctIndex": 3,
+          "difficulty": "medium",
+          "hint": "Check the operator priority hierarchy: > overrides ≥ which overrides =.",
+          "explanation": "Between U and P, there is a strict \">\" sign, so U = P is false. Since V ≥ P = Q, V ≥ Q is definitely true. Only conclusion II follows.",
+          "solutionSteps": "Step 1: Check the chain of operators between the two variables in Conclusion I.\nStep 2: Check the chain of operators between the two variables in Conclusion II.\nStep 3: If opposite signs (e.g. > and <) appear anywhere between them, no definite conclusion can be drawn.\nStep 4: Result is Only conclusion II follows.",
+          "examTags": [
+            "IBPS PO",
+            "IBPS CLERK",
+            "SBI PO",
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
+          ]
+        },
+        {
+          "questionText": "In the following question, the symbols are used as follows:\nP @ Q means P is greater than Q (>)\nP # Q means P is greater than or equal to Q (≥)\nP $ Q means P is equal to Q (=)\nP % Q means P is less than or equal to Q (≤)\nP * Q means P is less than Q (<)\n\nStatements: Q @ P, P # S, S $ U\nConclusions:\nI. Q @ U\nII. P $ U",
+          "options": [
+            "Neither conclusion I nor II follows",
+            "Only conclusion I follows",
+            "Either conclusion I or II follows",
+            "Only conclusion II follows"
           ],
           "correctIndex": 1,
           "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Inequality. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Decode the coded symbols into standard mathematical operators (> , ≥ , = , ≤ , <) before evaluating.",
+          "explanation": "Decoding the statements: Q > P ≥ S = U. Conclusion I: Q > U (True, as \">\" is the highest priority operator in the chain). Conclusion II: P = U (False, as P ≥ U does not guarantee equality). Therefore, only conclusion I follows.",
+          "solutionSteps": "Step 1: Replace coded symbols with standard inequality signs.\nStep 2: Chain: Q > P ≥ S = U.\nStep 3: Evaluate Conclusion I (Q > U) -> Definite True.\nStep 4: Evaluate Conclusion II (P = U) -> Only possible, not definite.",
           "examTags": [
             "IBPS PO",
+            "IBPS CLERK",
             "SBI PO",
-            "IBPS Clerk"
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
           ]
         },
         {
-          "questionText": "Inequality Practice Q18: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "In the following question, the symbols are used as follows:\nA # B means A > B\nA @ B means A ≥ B\nA % B means A = B\nA & B means A ≤ B\nA $ B means A < B\n\nStatements: T # S, S @ R, R % U\nConclusions:\nI. T # U\nII. S % U",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Either conclusion I or II follows",
+            "Only conclusion I follows",
+            "Neither conclusion I nor II follows",
+            "Only conclusion II follows"
           ],
-          "correctIndex": 2,
+          "correctIndex": 1,
           "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Inequality. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Decode the coded symbols into standard mathematical operators (> , ≥ , = , ≤ , <) before evaluating.",
+          "explanation": "Decoding the statements: T > S ≥ R = U. Conclusion I: T > U (True, as \">\" is the highest priority operator in the chain). Conclusion II: S = U (False, as S ≥ U does not guarantee equality). Therefore, only conclusion I follows.",
+          "solutionSteps": "Step 1: Replace coded symbols with standard inequality signs.\nStep 2: Chain: T > S ≥ R = U.\nStep 3: Evaluate Conclusion I (T > U) -> Definite True.\nStep 4: Evaluate Conclusion II (S = U) -> Only possible, not definite.",
           "examTags": [
             "IBPS PO",
+            "IBPS CLERK",
             "SBI PO",
-            "IBPS Clerk"
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
           ]
         },
         {
-          "questionText": "Inequality Practice Q19: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "In the following question, the symbols are used as follows:\nP @ Q means P is greater than Q (>)\nP # Q means P is greater than or equal to Q (≥)\nP $ Q means P is equal to Q (=)\nP % Q means P is less than or equal to Q (≤)\nP * Q means P is less than Q (<)\n\nStatements: R @ S, S # P, P $ T\nConclusions:\nI. R @ T\nII. S $ T",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Inequality. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "IBPS Clerk"
-          ]
-        },
-        {
-          "questionText": "Inequality Practice Q20: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Only conclusion I follows",
+            "Neither conclusion I nor II follows",
+            "Only conclusion II follows",
+            "Either conclusion I or II follows"
           ],
           "correctIndex": 0,
           "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Inequality. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Decode the coded symbols into standard mathematical operators (> , ≥ , = , ≤ , <) before evaluating.",
+          "explanation": "Decoding the statements: R > S ≥ P = T. Conclusion I: R > T (True, as \">\" is the highest priority operator in the chain). Conclusion II: S = T (False, as S ≥ T does not guarantee equality). Therefore, only conclusion I follows.",
+          "solutionSteps": "Step 1: Replace coded symbols with standard inequality signs.\nStep 2: Chain: R > S ≥ P = T.\nStep 3: Evaluate Conclusion I (R > T) -> Definite True.\nStep 4: Evaluate Conclusion II (S = T) -> Only possible, not definite.",
           "examTags": [
             "IBPS PO",
+            "IBPS CLERK",
             "SBI PO",
-            "IBPS Clerk"
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
+          ]
+        },
+        {
+          "questionText": "In the following question, the symbols are used as follows:\nA # B means A > B\nA @ B means A ≥ B\nA % B means A = B\nA & B means A ≤ B\nA $ B means A < B\n\nStatements: V # W, W @ Q, Q % P\nConclusions:\nI. V # P\nII. W % P",
+          "options": [
+            "Only conclusion I follows",
+            "Either conclusion I or II follows",
+            "Neither conclusion I nor II follows",
+            "Only conclusion II follows"
+          ],
+          "correctIndex": 0,
+          "difficulty": "hard",
+          "hint": "Decode the coded symbols into standard mathematical operators (> , ≥ , = , ≤ , <) before evaluating.",
+          "explanation": "Decoding the statements: V > W ≥ Q = P. Conclusion I: V > P (True, as \">\" is the highest priority operator in the chain). Conclusion II: W = P (False, as W ≥ P does not guarantee equality). Therefore, only conclusion I follows.",
+          "solutionSteps": "Step 1: Replace coded symbols with standard inequality signs.\nStep 2: Chain: V > W ≥ Q = P.\nStep 3: Evaluate Conclusion I (V > P) -> Definite True.\nStep 4: Evaluate Conclusion II (W = P) -> Only possible, not definite.",
+          "examTags": [
+            "IBPS PO",
+            "IBPS CLERK",
+            "SBI PO",
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
+          ]
+        },
+        {
+          "questionText": "In the following question, the symbols are used as follows:\nP @ Q means P is greater than Q (>)\nP # Q means P is greater than or equal to Q (≥)\nP $ Q means P is equal to Q (=)\nP % Q means P is less than or equal to Q (≤)\nP * Q means P is less than Q (<)\n\nStatements: Q @ V, V # T, T $ S\nConclusions:\nI. Q @ S\nII. V $ S",
+          "options": [
+            "Neither conclusion I nor II follows",
+            "Only conclusion II follows",
+            "Either conclusion I or II follows",
+            "Only conclusion I follows"
+          ],
+          "correctIndex": 3,
+          "difficulty": "hard",
+          "hint": "Decode the coded symbols into standard mathematical operators (> , ≥ , = , ≤ , <) before evaluating.",
+          "explanation": "Decoding the statements: Q > V ≥ T = S. Conclusion I: Q > S (True, as \">\" is the highest priority operator in the chain). Conclusion II: V = S (False, as V ≥ S does not guarantee equality). Therefore, only conclusion I follows.",
+          "solutionSteps": "Step 1: Replace coded symbols with standard inequality signs.\nStep 2: Chain: Q > V ≥ T = S.\nStep 3: Evaluate Conclusion I (Q > S) -> Definite True.\nStep 4: Evaluate Conclusion II (V = S) -> Only possible, not definite.",
+          "examTags": [
+            "IBPS PO",
+            "IBPS CLERK",
+            "SBI PO",
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
+          ]
+        },
+        {
+          "questionText": "In the following question, the symbols are used as follows:\nA # B means A > B\nA @ B means A ≥ B\nA % B means A = B\nA & B means A ≤ B\nA $ B means A < B\n\nStatements: V # T, T @ S, S % U\nConclusions:\nI. V # U\nII. T % U",
+          "options": [
+            "Only conclusion II follows",
+            "Neither conclusion I nor II follows",
+            "Either conclusion I or II follows",
+            "Only conclusion I follows"
+          ],
+          "correctIndex": 3,
+          "difficulty": "hard",
+          "hint": "Decode the coded symbols into standard mathematical operators (> , ≥ , = , ≤ , <) before evaluating.",
+          "explanation": "Decoding the statements: V > T ≥ S = U. Conclusion I: V > U (True, as \">\" is the highest priority operator in the chain). Conclusion II: T = U (False, as T ≥ U does not guarantee equality). Therefore, only conclusion I follows.",
+          "solutionSteps": "Step 1: Replace coded symbols with standard inequality signs.\nStep 2: Chain: V > T ≥ S = U.\nStep 3: Evaluate Conclusion I (V > U) -> Definite True.\nStep 4: Evaluate Conclusion II (T = U) -> Only possible, not definite.",
+          "examTags": [
+            "IBPS PO",
+            "IBPS CLERK",
+            "SBI PO",
+            "SBI CLERK",
+            "RBI GRADE B",
+            "RBI ASSISTANT",
+            "LIC AAO"
           ]
         }
       ]

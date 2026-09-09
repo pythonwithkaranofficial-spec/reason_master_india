@@ -49,343 +49,483 @@
       ],
       "practiceQuestions": [
         {
-          "questionText": "Statement & Conclusion Practice Q1: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "India's domestic passenger vehicle sales grew by 18% year-on-year in the festive quarter due to high consumer sentiment and improved semiconductor supply.\n\nConclusions:\nI. Semiconductor shortages had previously constrained vehicle production.\nII. All car manufacturers in India achieved equal profit margins this quarter.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Neither conclusion I nor II follows",
+            "Only conclusion I follows",
+            "Both conclusion I and II follow",
+            "Only conclusion II follows"
           ],
           "correctIndex": 1,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Statement & Conclusion. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Beware of extreme words like \"all\" or conclusions introducing extraneous financial metrics.",
+          "explanation": "The statement cites improved semiconductor supply as a key growth factor, directly implying previous supply constraints (Conclusion I). It mentions nothing about equal profit margins among individual manufacturers (Conclusion II is an unsupported generalization).",
+          "solutionSteps": "Step 1: Read the statement carefully and treat it as 100% true.\nStep 2: Check Conclusion I: Does it follow naturally without importing outside speculation?\nStep 3: Check Conclusion II: Does it introduce extreme claims or unmentioned comparisons?\nStep 4: Select Only conclusion I follows.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "SSC CGL"
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Statement & Conclusion Practice Q2: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "Recent studies show that regular physical exercise of 30 minutes daily reduces the risk of cardiovascular disease by up to 35%.\n\nConclusions:\nI. Sedentary lifestyles correlate with higher vulnerability to heart ailments.\nII. Individuals who exercise daily are completely immune to all heart ailments.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Both conclusion I and II follow",
+            "Only conclusion II follows",
+            "Only conclusion I follows",
+            "Neither conclusion I nor II follows"
           ],
           "correctIndex": 2,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Statement & Conclusion. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "\"Reduces risk\" never means \"confers 100% complete immunity\".",
+          "explanation": "The study proves that regular physical exercise significantly lowers risk, which logically implies higher vulnerability in inactive lifestyles (Conclusion I). Saying someone is \"completely immune\" is an unscientific extreme claim contradicted by \"reduces risk by up to 35%\" (Conclusion II fails).",
+          "solutionSteps": "Step 1: Read the statement carefully and treat it as 100% true.\nStep 2: Check Conclusion I: Does it follow naturally without importing outside speculation?\nStep 3: Check Conclusion II: Does it introduce extreme claims or unmentioned comparisons?\nStep 4: Select Only conclusion I follows.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "SSC CGL"
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Statement & Conclusion Practice Q3: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "The central bank raised the repo rate by 50 basis points to rein in stubborn consumer price inflation.\n\nConclusions:\nI. Higher borrowing costs can help moderate aggregate demand and curb inflation.\nII. Inflation will immediately drop to zero percent in the upcoming month.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Statement & Conclusion. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "SSC CGL"
-          ]
-        },
-        {
-          "questionText": "Statement & Conclusion Practice Q4: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Statement & Conclusion. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "SSC CGL"
-          ]
-        },
-        {
-          "questionText": "Statement & Conclusion Practice Q5: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Only conclusion II follows",
+            "Only conclusion I follows",
+            "Neither conclusion I nor II follows",
+            "Both conclusion I and II follow"
           ],
           "correctIndex": 1,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Statement & Conclusion. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Evaluate whether the second conclusion makes an impossible guarantee.",
+          "explanation": "Increasing interest rates to curb inflation reflects the economic rationale that elevated cost of credit dampens excessive demand (Conclusion I). Claiming inflation will drop to zero is absurd and ungrounded in the text (Conclusion II fails).",
+          "solutionSteps": "Step 1: Read the statement carefully and treat it as 100% true.\nStep 2: Check Conclusion I: Does it follow naturally without importing outside speculation?\nStep 3: Check Conclusion II: Does it introduce extreme claims or unmentioned comparisons?\nStep 4: Select Only conclusion I follows.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "SSC CGL"
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Statement & Conclusion Practice Q6: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "Due to heavy unseasonal rains and hail storms across the northern plains, the wheat harvest is expected to decline by 15% this season.\n\nConclusions:\nI. Weather disruptions directly impact agricultural yield.\nII. The retail price of wheat flour will remain unchanged in wholesale markets.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 2,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Statement & Conclusion. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "SSC CGL"
-          ]
-        },
-        {
-          "questionText": "Statement & Conclusion Practice Q7: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Both conclusion I and II follow",
+            "Only conclusion II follows",
+            "Neither conclusion I nor II follows",
+            "Only conclusion I follows"
           ],
           "correctIndex": 3,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Statement & Conclusion. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Stick strictly to the direct logical deductions from the given environmental and yield data.",
+          "explanation": "The correlation between unseasonal rains and lower harvest directly proves weather impacts agricultural productivity (Conclusion I). Market prices are not discussed and a 15% supply shock usually creates upward price pressure, not unchanged prices (Conclusion II fails).",
+          "solutionSteps": "Step 1: Read the statement carefully and treat it as 100% true.\nStep 2: Check Conclusion I: Does it follow naturally without importing outside speculation?\nStep 3: Check Conclusion II: Does it introduce extreme claims or unmentioned comparisons?\nStep 4: Select Only conclusion I follows.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "SSC CGL"
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Statement & Conclusion Practice Q8: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "India's domestic passenger vehicle sales grew by 18% year-on-year in the festive quarter due to high consumer sentiment and improved semiconductor supply.\n\nConclusions:\nI. Semiconductor shortages had previously constrained vehicle production.\nII. All car manufacturers in India achieved equal profit margins this quarter.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Only conclusion I follows",
+            "Neither conclusion I nor II follows",
+            "Only conclusion II follows",
+            "Both conclusion I and II follow"
           ],
           "correctIndex": 0,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Statement & Conclusion. Work through the problem step by step using the shortcuts taught in this topic.",
+          "difficulty": "easy",
+          "hint": "Beware of extreme words like \"all\" or conclusions introducing extraneous financial metrics.",
+          "explanation": "The statement cites improved semiconductor supply as a key growth factor, directly implying previous supply constraints (Conclusion I). It mentions nothing about equal profit margins among individual manufacturers (Conclusion II is an unsupported generalization).",
+          "solutionSteps": "Step 1: Read the statement carefully and treat it as 100% true.\nStep 2: Check Conclusion I: Does it follow naturally without importing outside speculation?\nStep 3: Check Conclusion II: Does it introduce extreme claims or unmentioned comparisons?\nStep 4: Select Only conclusion I follows.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "SSC CGL"
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Statement & Conclusion Practice Q9: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "Recent studies show that regular physical exercise of 30 minutes daily reduces the risk of cardiovascular disease by up to 35%.\n\nConclusions:\nI. Sedentary lifestyles correlate with higher vulnerability to heart ailments.\nII. Individuals who exercise daily are completely immune to all heart ailments.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Only conclusion I follows",
+            "Neither conclusion I nor II follows",
+            "Only conclusion II follows",
+            "Both conclusion I and II follow"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "hint": "\"Reduces risk\" never means \"confers 100% complete immunity\".",
+          "explanation": "The study proves that regular physical exercise significantly lowers risk, which logically implies higher vulnerability in inactive lifestyles (Conclusion I). Saying someone is \"completely immune\" is an unscientific extreme claim contradicted by \"reduces risk by up to 35%\" (Conclusion II fails).",
+          "solutionSteps": "Step 1: Read the statement carefully and treat it as 100% true.\nStep 2: Check Conclusion I: Does it follow naturally without importing outside speculation?\nStep 3: Check Conclusion II: Does it introduce extreme claims or unmentioned comparisons?\nStep 4: Select Only conclusion I follows.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "The municipal corporation has decided to impose a heavy penalty on residents who waste drinking water on washing private vehicles.\n\nConclusions:\nI. Drinking water is currently in short supply in the city.\nII. A financial penalty is expected to deter the wasteful habit of citizens.",
+          "options": [
+            "Only conclusion I follows",
+            "Both conclusion I and II follow",
+            "Neither conclusion I nor II follows",
+            "Only conclusion II follows"
           ],
           "correctIndex": 1,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Statement & Conclusion. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "A valid conclusion must be directly supported by or logically deduced from the statement without outside speculation.",
+          "explanation": "Imposing a penalty on wasting drinking water directly implies water scarcity (Conclusion I) and relies on the logical expectation that financial disincentives curb irresponsible usage (Conclusion II).",
+          "solutionSteps": "Step 1: Read the statement carefully and treat it as 100% true.\nStep 2: Check Conclusion I: Does it follow naturally without importing outside speculation?\nStep 3: Check Conclusion II: Does it introduce extreme claims or unmentioned comparisons?\nStep 4: Select Both conclusion I and II follow.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "SSC CGL"
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Statement & Conclusion Practice Q10: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "The government has mandated that all commercial buildings install rooftop solar power systems within the next 18 months.\n\nConclusions:\nI. Rooftop solar installations can generate renewable energy for commercial premises.\nII. Commercial buildings will stop consuming power from the conventional grid entirely.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Neither conclusion I nor II follows",
+            "Both conclusion I and II follow",
+            "Only conclusion I follows",
+            "Only conclusion II follows"
           ],
           "correctIndex": 2,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Statement & Conclusion. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Look for whether the conclusion is a necessary consequence or an unwarranted extreme claim.",
+          "explanation": "The mandate to install solar systems indicates that commercial premises are capable of generating solar power (Conclusion I). However, asserting that they will completely stop using grid power is an extreme overstatement not supported by the premise (Conclusion II does not follow).",
+          "solutionSteps": "Step 1: Read the statement carefully and treat it as 100% true.\nStep 2: Check Conclusion I: Does it follow naturally without importing outside speculation?\nStep 3: Check Conclusion II: Does it introduce extreme claims or unmentioned comparisons?\nStep 4: Select Only conclusion I follows.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "SSC CGL"
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Statement & Conclusion Practice Q11: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "Many software engineers who graduated from premier technology institutes are actively opting to launch independent tech startups rather than joining established multinational corporations.\n\nConclusions:\nI. Established multinational corporations no longer offer attractive salaries.\nII. Entrepreneurs from premier institutes perceive high growth potential and creative autonomy in technology ventures.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Statement & Conclusion. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "SSC CGL"
-          ]
-        },
-        {
-          "questionText": "Statement & Conclusion Practice Q12: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Statement & Conclusion. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "SSC CGL"
-          ]
-        },
-        {
-          "questionText": "Statement & Conclusion Practice Q13: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Only conclusion I follows",
+            "Only conclusion II follows",
+            "Both conclusion I and II follow",
+            "Neither conclusion I nor II follows"
           ],
           "correctIndex": 1,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Statement & Conclusion. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Do not assume negative factors about established companies unless explicitly stated in the text.",
+          "explanation": "Conclusion I assumes without evidence that MNC salaries are unattractive (extraneous assumption). Conclusion II directly reflects why qualified tech graduates choose entrepreneurship over corporate employment.",
+          "solutionSteps": "Step 1: Read the statement carefully and treat it as 100% true.\nStep 2: Check Conclusion I: Does it follow naturally without importing outside speculation?\nStep 3: Check Conclusion II: Does it introduce extreme claims or unmentioned comparisons?\nStep 4: Select Only conclusion II follows.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "SSC CGL"
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Statement & Conclusion Practice Q14: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "The national literacy mission achieved an 85% adult literacy rate in rural districts through targeted community night-classes.\n\nConclusions:\nI. Community night-classes proved to be an effective intervention for working adults in rural areas.\nII. Urban literacy rates are lower than rural literacy rates.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Only conclusion I follows",
+            "Both conclusion I and II follow",
+            "Only conclusion II follows",
+            "Neither conclusion I nor II follows"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "hint": "Comparative statements about unmentioned groups (urban vs rural) are invalid conclusions.",
+          "explanation": "Achieving 85% literacy through community night-classes establishes their efficacy (Conclusion I). The statement contains zero comparative data regarding urban literacy (Conclusion II is irrelevant).",
+          "solutionSteps": "Step 1: Read the statement carefully and treat it as 100% true.\nStep 2: Check Conclusion I: Does it follow naturally without importing outside speculation?\nStep 3: Check Conclusion II: Does it introduce extreme claims or unmentioned comparisons?\nStep 4: Select Only conclusion I follows.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "The municipal corporation has decided to impose a heavy penalty on residents who waste drinking water on washing private vehicles.\n\nConclusions:\nI. Drinking water is currently in short supply in the city.\nII. A financial penalty is expected to deter the wasteful habit of citizens.",
+          "options": [
+            "Only conclusion II follows",
+            "Only conclusion I follows",
+            "Neither conclusion I nor II follows",
+            "Both conclusion I and II follow"
+          ],
+          "correctIndex": 3,
+          "difficulty": "medium",
+          "hint": "A valid conclusion must be directly supported by or logically deduced from the statement without outside speculation.",
+          "explanation": "Imposing a penalty on wasting drinking water directly implies water scarcity (Conclusion I) and relies on the logical expectation that financial disincentives curb irresponsible usage (Conclusion II).",
+          "solutionSteps": "Step 1: Read the statement carefully and treat it as 100% true.\nStep 2: Check Conclusion I: Does it follow naturally without importing outside speculation?\nStep 3: Check Conclusion II: Does it introduce extreme claims or unmentioned comparisons?\nStep 4: Select Both conclusion I and II follow.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "The government has mandated that all commercial buildings install rooftop solar power systems within the next 18 months.\n\nConclusions:\nI. Rooftop solar installations can generate renewable energy for commercial premises.\nII. Commercial buildings will stop consuming power from the conventional grid entirely.",
+          "options": [
+            "Only conclusion I follows",
+            "Neither conclusion I nor II follows",
+            "Both conclusion I and II follow",
+            "Only conclusion II follows"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "hint": "Look for whether the conclusion is a necessary consequence or an unwarranted extreme claim.",
+          "explanation": "The mandate to install solar systems indicates that commercial premises are capable of generating solar power (Conclusion I). However, asserting that they will completely stop using grid power is an extreme overstatement not supported by the premise (Conclusion II does not follow).",
+          "solutionSteps": "Step 1: Read the statement carefully and treat it as 100% true.\nStep 2: Check Conclusion I: Does it follow naturally without importing outside speculation?\nStep 3: Check Conclusion II: Does it introduce extreme claims or unmentioned comparisons?\nStep 4: Select Only conclusion I follows.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Many software engineers who graduated from premier technology institutes are actively opting to launch independent tech startups rather than joining established multinational corporations.\n\nConclusions:\nI. Established multinational corporations no longer offer attractive salaries.\nII. Entrepreneurs from premier institutes perceive high growth potential and creative autonomy in technology ventures.",
+          "options": [
+            "Neither conclusion I nor II follows",
+            "Both conclusion I and II follow",
+            "Only conclusion I follows",
+            "Only conclusion II follows"
+          ],
+          "correctIndex": 3,
+          "difficulty": "medium",
+          "hint": "Do not assume negative factors about established companies unless explicitly stated in the text.",
+          "explanation": "Conclusion I assumes without evidence that MNC salaries are unattractive (extraneous assumption). Conclusion II directly reflects why qualified tech graduates choose entrepreneurship over corporate employment.",
+          "solutionSteps": "Step 1: Read the statement carefully and treat it as 100% true.\nStep 2: Check Conclusion I: Does it follow naturally without importing outside speculation?\nStep 3: Check Conclusion II: Does it introduce extreme claims or unmentioned comparisons?\nStep 4: Select Only conclusion II follows.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "The national literacy mission achieved an 85% adult literacy rate in rural districts through targeted community night-classes.\n\nConclusions:\nI. Community night-classes proved to be an effective intervention for working adults in rural areas.\nII. Urban literacy rates are lower than rural literacy rates.",
+          "options": [
+            "Only conclusion II follows",
+            "Both conclusion I and II follow",
+            "Neither conclusion I nor II follows",
+            "Only conclusion I follows"
+          ],
+          "correctIndex": 3,
+          "difficulty": "medium",
+          "hint": "Comparative statements about unmentioned groups (urban vs rural) are invalid conclusions.",
+          "explanation": "Achieving 85% literacy through community night-classes establishes their efficacy (Conclusion I). The statement contains zero comparative data regarding urban literacy (Conclusion II is irrelevant).",
+          "solutionSteps": "Step 1: Read the statement carefully and treat it as 100% true.\nStep 2: Check Conclusion I: Does it follow naturally without importing outside speculation?\nStep 3: Check Conclusion II: Does it introduce extreme claims or unmentioned comparisons?\nStep 4: Select Only conclusion I follows.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "The central bank raised the repo rate by 50 basis points to rein in stubborn consumer price inflation.\n\nConclusions:\nI. Higher borrowing costs can help moderate aggregate demand and curb inflation.\nII. Inflation will immediately drop to zero percent in the upcoming month.",
+          "options": [
+            "Only conclusion I follows",
+            "Only conclusion II follows",
+            "Both conclusion I and II follow",
+            "Neither conclusion I nor II follows"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "hint": "Evaluate whether the second conclusion makes an impossible guarantee.",
+          "explanation": "Increasing interest rates to curb inflation reflects the economic rationale that elevated cost of credit dampens excessive demand (Conclusion I). Claiming inflation will drop to zero is absurd and ungrounded in the text (Conclusion II fails).",
+          "solutionSteps": "Step 1: Read the statement carefully and treat it as 100% true.\nStep 2: Check Conclusion I: Does it follow naturally without importing outside speculation?\nStep 3: Check Conclusion II: Does it introduce extreme claims or unmentioned comparisons?\nStep 4: Select Only conclusion I follows.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Due to heavy unseasonal rains and hail storms across the northern plains, the wheat harvest is expected to decline by 15% this season.\n\nConclusions:\nI. Weather disruptions directly impact agricultural yield.\nII. The retail price of wheat flour will remain unchanged in wholesale markets.",
+          "options": [
+            "Neither conclusion I nor II follows",
+            "Both conclusion I and II follow",
+            "Only conclusion I follows",
+            "Only conclusion II follows"
+          ],
+          "correctIndex": 2,
+          "difficulty": "easy",
+          "hint": "Stick strictly to the direct logical deductions from the given environmental and yield data.",
+          "explanation": "The correlation between unseasonal rains and lower harvest directly proves weather impacts agricultural productivity (Conclusion I). Market prices are not discussed and a 15% supply shock usually creates upward price pressure, not unchanged prices (Conclusion II fails).",
+          "solutionSteps": "Step 1: Read the statement carefully and treat it as 100% true.\nStep 2: Check Conclusion I: Does it follow naturally without importing outside speculation?\nStep 3: Check Conclusion II: Does it introduce extreme claims or unmentioned comparisons?\nStep 4: Select Only conclusion I follows.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "The municipal corporation has decided to impose a heavy penalty on residents who waste drinking water on washing private vehicles.\n\nConclusions:\nI. Drinking water is currently in short supply in the city.\nII. A financial penalty is expected to deter the wasteful habit of citizens.",
+          "options": [
+            "Only conclusion I follows",
+            "Only conclusion II follows",
+            "Neither conclusion I nor II follows",
+            "Both conclusion I and II follow"
+          ],
+          "correctIndex": 3,
+          "difficulty": "medium",
+          "hint": "A valid conclusion must be directly supported by or logically deduced from the statement without outside speculation.",
+          "explanation": "Imposing a penalty on wasting drinking water directly implies water scarcity (Conclusion I) and relies on the logical expectation that financial disincentives curb irresponsible usage (Conclusion II).",
+          "solutionSteps": "Step 1: Read the statement carefully and treat it as 100% true.\nStep 2: Check Conclusion I: Does it follow naturally without importing outside speculation?\nStep 3: Check Conclusion II: Does it introduce extreme claims or unmentioned comparisons?\nStep 4: Select Both conclusion I and II follow.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "India's domestic passenger vehicle sales grew by 18% year-on-year in the festive quarter due to high consumer sentiment and improved semiconductor supply.\n\nConclusions:\nI. Semiconductor shortages had previously constrained vehicle production.\nII. All car manufacturers in India achieved equal profit margins this quarter.",
+          "options": [
+            "Only conclusion I follows",
+            "Both conclusion I and II follow",
+            "Neither conclusion I nor II follows",
+            "Only conclusion II follows"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "hint": "Beware of extreme words like \"all\" or conclusions introducing extraneous financial metrics.",
+          "explanation": "The statement cites improved semiconductor supply as a key growth factor, directly implying previous supply constraints (Conclusion I). It mentions nothing about equal profit margins among individual manufacturers (Conclusion II is an unsupported generalization).",
+          "solutionSteps": "Step 1: Read the statement carefully and treat it as 100% true.\nStep 2: Check Conclusion I: Does it follow naturally without importing outside speculation?\nStep 3: Check Conclusion II: Does it introduce extreme claims or unmentioned comparisons?\nStep 4: Select Only conclusion I follows.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "The government has mandated that all commercial buildings install rooftop solar power systems within the next 18 months.\n\nConclusions:\nI. Rooftop solar installations can generate renewable energy for commercial premises.\nII. Commercial buildings will stop consuming power from the conventional grid entirely.",
+          "options": [
+            "Only conclusion II follows",
+            "Neither conclusion I nor II follows",
+            "Only conclusion I follows",
+            "Both conclusion I and II follow"
           ],
           "correctIndex": 2,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Statement & Conclusion. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Look for whether the conclusion is a necessary consequence or an unwarranted extreme claim.",
+          "explanation": "The mandate to install solar systems indicates that commercial premises are capable of generating solar power (Conclusion I). However, asserting that they will completely stop using grid power is an extreme overstatement not supported by the premise (Conclusion II does not follow).",
+          "solutionSteps": "Step 1: Read the statement carefully and treat it as 100% true.\nStep 2: Check Conclusion I: Does it follow naturally without importing outside speculation?\nStep 3: Check Conclusion II: Does it introduce extreme claims or unmentioned comparisons?\nStep 4: Select Only conclusion I follows.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "SSC CGL"
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Statement & Conclusion Practice Q15: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "Recent studies show that regular physical exercise of 30 minutes daily reduces the risk of cardiovascular disease by up to 35%.\n\nConclusions:\nI. Sedentary lifestyles correlate with higher vulnerability to heart ailments.\nII. Individuals who exercise daily are completely immune to all heart ailments.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Both conclusion I and II follow",
+            "Only conclusion II follows",
+            "Neither conclusion I nor II follows",
+            "Only conclusion I follows"
           ],
           "correctIndex": 3,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Statement & Conclusion. Work through the problem step by step using the shortcuts taught in this topic.",
+          "difficulty": "easy",
+          "hint": "\"Reduces risk\" never means \"confers 100% complete immunity\".",
+          "explanation": "The study proves that regular physical exercise significantly lowers risk, which logically implies higher vulnerability in inactive lifestyles (Conclusion I). Saying someone is \"completely immune\" is an unscientific extreme claim contradicted by \"reduces risk by up to 35%\" (Conclusion II fails).",
+          "solutionSteps": "Step 1: Read the statement carefully and treat it as 100% true.\nStep 2: Check Conclusion I: Does it follow naturally without importing outside speculation?\nStep 3: Check Conclusion II: Does it introduce extreme claims or unmentioned comparisons?\nStep 4: Select Only conclusion I follows.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "SSC CGL"
-          ]
-        },
-        {
-          "questionText": "Statement & Conclusion Practice Q16: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Statement & Conclusion. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "SSC CGL"
-          ]
-        },
-        {
-          "questionText": "Statement & Conclusion Practice Q17: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Statement & Conclusion. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "SSC CGL"
-          ]
-        },
-        {
-          "questionText": "Statement & Conclusion Practice Q18: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 2,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Statement & Conclusion. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "SSC CGL"
-          ]
-        },
-        {
-          "questionText": "Statement & Conclusion Practice Q19: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Statement & Conclusion. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "SSC CGL"
-          ]
-        },
-        {
-          "questionText": "Statement & Conclusion Practice Q20: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Statement & Conclusion. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "SSC CGL"
+            "LIC AAO",
+            "CDS"
           ]
         }
       ]

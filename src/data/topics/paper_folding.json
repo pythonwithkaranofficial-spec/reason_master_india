@@ -49,343 +49,483 @@
       ],
       "practiceQuestions": [
         {
-          "questionText": "Paper Folding Practice Q1: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "A transparent square sheet has a design:\nLeft half: a circle with a vertical diameter.\nRight half: a circle with a horizontal diameter.\nFind out how the pattern will appear when the transparent sheet is folded along the central dotted line (left half is folded over the right half along the vertical dotted line).",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Paper Folding. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Paper Folding Practice Q2: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 2,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Paper Folding. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Paper Folding Practice Q3: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Paper Folding. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Paper Folding Practice Q4: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Paper Folding. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Paper Folding Practice Q5: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Paper Folding. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Paper Folding Practice Q6: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 2,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Paper Folding. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Paper Folding Practice Q7: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Paper Folding. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Paper Folding Practice Q8: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "a single circle with both horizontal and vertical diameters (cross inside circle)",
+            "A circle with only the vertical diameter remaining",
+            "A circle with two parallel vertical chords",
+            "A circle divided into four quadrants with one quadrant shaded"
           ],
           "correctIndex": 0,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Paper Folding. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Folding along a vertical axis creates a lateral mirror reflection of the folded half onto the stationary half.",
+          "explanation": "Folding the left half over the right half superimposes the vertical diameter onto the right circle, intersecting the horizontal diameter into a full cross (+).",
+          "solutionSteps": "Step 1: Identify which half is stationary and which half moves.\nStep 2: Reflect the moving design across the fold line as a mirror image.\nStep 3: Superimpose the reflected design onto the stationary design to obtain: a single circle with both horizontal and vertical diameters (cross inside circle).",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Paper Folding Practice Q9: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "A transparent square sheet has a design:\nLeft half: an upward pointing equilateral triangle.\nRight half: a downward pointing equilateral triangle.\nFind out how the pattern will appear when the transparent sheet is folded along the central dotted line (left side is folded over the right side along the central vertical axis).",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Two disjoint triangles touching only at their apex",
+            "a six-pointed star (hexagram) formed by the two superimposed triangles",
+            "A single upward-pointing triangle with a horizontal base line",
+            "A diamond (rhombus) formed by inverted triangular bases"
           ],
           "correctIndex": 1,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Paper Folding. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Folding along a vertical axis creates a lateral mirror reflection of the folded half onto the stationary half.",
+          "explanation": "When the upward triangle on the left folds onto the downward triangle on the right, their outlines intersect to create a symmetrical six-pointed star.",
+          "solutionSteps": "Step 1: Identify which half is stationary and which half moves.\nStep 2: Reflect the moving design across the fold line as a mirror image.\nStep 3: Superimpose the reflected design onto the stationary design to obtain: a six-pointed star (hexagram) formed by the two superimposed triangles.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Paper Folding Practice Q10: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "A transparent square sheet has a design:\nLeft half: a solid dark square in the top-left corner.\nRight half: an open circle in the top-right corner.\nFind out how the pattern will appear when the transparent sheet is folded along the central dotted line (the transparent sheet is folded from left to right along the vertical dotted midline).",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "A square sheet half with both square and circle superimposed in top-left",
+            "A square sheet half with only the square remaining visible",
+            "a solid dark square completely enclosing the open circle in the top-right quadrant",
+            "A square sheet half containing the dark square at top-left and dark circle at top-right"
           ],
           "correctIndex": 2,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Paper Folding. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Folding along a vertical axis creates a lateral mirror reflection of the folded half onto the stationary half.",
+          "explanation": "The solid square in the top-left flips laterally across the vertical midline into the top-right quadrant, superimposing over the circle.",
+          "solutionSteps": "Step 1: Identify which half is stationary and which half moves.\nStep 2: Reflect the moving design across the fold line as a mirror image.\nStep 3: Superimpose the reflected design onto the stationary design to obtain: a solid dark square completely enclosing the open circle in the top-right quadrant.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Paper Folding Practice Q11: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "A transparent square sheet has a design:\nLeft half: three parallel horizontal lines.\nRight half: three parallel vertical lines.\nFind out how the pattern will appear when the transparent sheet is folded along the central dotted line (the sheet is folded left to right along the central vertical fold line).",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Six parallel horizontal lines with twice the line density",
+            "Three diagonal lines extending from corner to corner",
+            "a 3x3 square grid formed by the perpendicular intersection of the lines",
+            "A solid dark rectangular block covering the sheet"
           ],
-          "correctIndex": 3,
+          "correctIndex": 2,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Paper Folding. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Folding along a vertical axis creates a lateral mirror reflection of the folded half onto the stationary half.",
+          "explanation": "The horizontal lines from the left half fold directly across the vertical lines on the right half, forming a perpendicular 3x3 grid.",
+          "solutionSteps": "Step 1: Identify which half is stationary and which half moves.\nStep 2: Reflect the moving design across the fold line as a mirror image.\nStep 3: Superimpose the reflected design onto the stationary design to obtain: a 3x3 square grid formed by the perpendicular intersection of the lines.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Paper Folding Practice Q12: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "A transparent square sheet has a design:\nLeft half: a circle with a vertical diameter.\nRight half: a circle with a horizontal diameter.\nFind out how the pattern will appear when the transparent sheet is folded along the central dotted line (left half is folded over the right half along the vertical dotted line).",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Paper Folding. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Paper Folding Practice Q13: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "A circle with only the vertical diameter remaining",
+            "a single circle with both horizontal and vertical diameters (cross inside circle)",
+            "A circle with two parallel vertical chords",
+            "A circle divided into four quadrants with one quadrant shaded"
           ],
           "correctIndex": 1,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Paper Folding. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Folding along a vertical axis creates a lateral mirror reflection of the folded half onto the stationary half.",
+          "explanation": "Folding the left half over the right half superimposes the vertical diameter onto the right circle, intersecting the horizontal diameter into a full cross (+).",
+          "solutionSteps": "Step 1: Identify which half is stationary and which half moves.\nStep 2: Reflect the moving design across the fold line as a mirror image.\nStep 3: Superimpose the reflected design onto the stationary design to obtain: a single circle with both horizontal and vertical diameters (cross inside circle).",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Paper Folding Practice Q14: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "A transparent square sheet has a design:\nLeft half: an upward pointing equilateral triangle.\nRight half: a downward pointing equilateral triangle.\nFind out how the pattern will appear when the transparent sheet is folded along the central dotted line (left side is folded over the right side along the central vertical axis).",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "a six-pointed star (hexagram) formed by the two superimposed triangles",
+            "Two disjoint triangles touching only at their apex",
+            "A single upward-pointing triangle with a horizontal base line",
+            "A diamond (rhombus) formed by inverted triangular bases"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "hint": "Folding along a vertical axis creates a lateral mirror reflection of the folded half onto the stationary half.",
+          "explanation": "When the upward triangle on the left folds onto the downward triangle on the right, their outlines intersect to create a symmetrical six-pointed star.",
+          "solutionSteps": "Step 1: Identify which half is stationary and which half moves.\nStep 2: Reflect the moving design across the fold line as a mirror image.\nStep 3: Superimpose the reflected design onto the stationary design to obtain: a six-pointed star (hexagram) formed by the two superimposed triangles.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "A transparent square sheet has a design:\nLeft half: a solid dark square in the top-left corner.\nRight half: an open circle in the top-right corner.\nFind out how the pattern will appear when the transparent sheet is folded along the central dotted line (the transparent sheet is folded from left to right along the vertical dotted midline).",
+          "options": [
+            "a solid dark square completely enclosing the open circle in the top-right quadrant",
+            "A square sheet half with both square and circle superimposed in top-left",
+            "A square sheet half with only the square remaining visible",
+            "A square sheet half containing the dark square at top-left and dark circle at top-right"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "hint": "Folding along a vertical axis creates a lateral mirror reflection of the folded half onto the stationary half.",
+          "explanation": "The solid square in the top-left flips laterally across the vertical midline into the top-right quadrant, superimposing over the circle.",
+          "solutionSteps": "Step 1: Identify which half is stationary and which half moves.\nStep 2: Reflect the moving design across the fold line as a mirror image.\nStep 3: Superimpose the reflected design onto the stationary design to obtain: a solid dark square completely enclosing the open circle in the top-right quadrant.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "A transparent square sheet has a design:\nLeft half: three parallel horizontal lines.\nRight half: three parallel vertical lines.\nFind out how the pattern will appear when the transparent sheet is folded along the central dotted line (the sheet is folded left to right along the central vertical fold line).",
+          "options": [
+            "Six parallel horizontal lines with twice the line density",
+            "Three diagonal lines extending from corner to corner",
+            "A solid dark rectangular block covering the sheet",
+            "a 3x3 square grid formed by the perpendicular intersection of the lines"
+          ],
+          "correctIndex": 3,
+          "difficulty": "medium",
+          "hint": "Folding along a vertical axis creates a lateral mirror reflection of the folded half onto the stationary half.",
+          "explanation": "The horizontal lines from the left half fold directly across the vertical lines on the right half, forming a perpendicular 3x3 grid.",
+          "solutionSteps": "Step 1: Identify which half is stationary and which half moves.\nStep 2: Reflect the moving design across the fold line as a mirror image.\nStep 3: Superimpose the reflected design onto the stationary design to obtain: a 3x3 square grid formed by the perpendicular intersection of the lines.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "A transparent square sheet has a design:\nLeft half: a circle with a vertical diameter.\nRight half: a circle with a horizontal diameter.\nFind out how the pattern will appear when the transparent sheet is folded along the central dotted line (left half is folded over the right half along the vertical dotted line).",
+          "options": [
+            "A circle with only the vertical diameter remaining",
+            "a single circle with both horizontal and vertical diameters (cross inside circle)",
+            "A circle with two parallel vertical chords",
+            "A circle divided into four quadrants with one quadrant shaded"
+          ],
+          "correctIndex": 1,
+          "difficulty": "medium",
+          "hint": "Folding along a vertical axis creates a lateral mirror reflection of the folded half onto the stationary half.",
+          "explanation": "Folding the left half over the right half superimposes the vertical diameter onto the right circle, intersecting the horizontal diameter into a full cross (+).",
+          "solutionSteps": "Step 1: Identify which half is stationary and which half moves.\nStep 2: Reflect the moving design across the fold line as a mirror image.\nStep 3: Superimpose the reflected design onto the stationary design to obtain: a single circle with both horizontal and vertical diameters (cross inside circle).",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "A transparent square sheet has a design:\nLeft half: an upward pointing equilateral triangle.\nRight half: a downward pointing equilateral triangle.\nFind out how the pattern will appear when the transparent sheet is folded along the central dotted line (left side is folded over the right side along the central vertical axis).",
+          "options": [
+            "a six-pointed star (hexagram) formed by the two superimposed triangles",
+            "Two disjoint triangles touching only at their apex",
+            "A single upward-pointing triangle with a horizontal base line",
+            "A diamond (rhombus) formed by inverted triangular bases"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "hint": "Folding along a vertical axis creates a lateral mirror reflection of the folded half onto the stationary half.",
+          "explanation": "When the upward triangle on the left folds onto the downward triangle on the right, their outlines intersect to create a symmetrical six-pointed star.",
+          "solutionSteps": "Step 1: Identify which half is stationary and which half moves.\nStep 2: Reflect the moving design across the fold line as a mirror image.\nStep 3: Superimpose the reflected design onto the stationary design to obtain: a six-pointed star (hexagram) formed by the two superimposed triangles.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "A transparent square sheet has a design:\nLeft half: a solid dark square in the top-left corner.\nRight half: an open circle in the top-right corner.\nFind out how the pattern will appear when the transparent sheet is folded along the central dotted line (the transparent sheet is folded from left to right along the vertical dotted midline).",
+          "options": [
+            "a solid dark square completely enclosing the open circle in the top-right quadrant",
+            "A square sheet half with both square and circle superimposed in top-left",
+            "A square sheet half with only the square remaining visible",
+            "A square sheet half containing the dark square at top-left and dark circle at top-right"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "hint": "Folding along a vertical axis creates a lateral mirror reflection of the folded half onto the stationary half.",
+          "explanation": "The solid square in the top-left flips laterally across the vertical midline into the top-right quadrant, superimposing over the circle.",
+          "solutionSteps": "Step 1: Identify which half is stationary and which half moves.\nStep 2: Reflect the moving design across the fold line as a mirror image.\nStep 3: Superimpose the reflected design onto the stationary design to obtain: a solid dark square completely enclosing the open circle in the top-right quadrant.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "A transparent square sheet has a design:\nLeft half: three parallel horizontal lines.\nRight half: three parallel vertical lines.\nFind out how the pattern will appear when the transparent sheet is folded along the central dotted line (the sheet is folded left to right along the central vertical fold line).",
+          "options": [
+            "a 3x3 square grid formed by the perpendicular intersection of the lines",
+            "Six parallel horizontal lines with twice the line density",
+            "Three diagonal lines extending from corner to corner",
+            "A solid dark rectangular block covering the sheet"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "hint": "Folding along a vertical axis creates a lateral mirror reflection of the folded half onto the stationary half.",
+          "explanation": "The horizontal lines from the left half fold directly across the vertical lines on the right half, forming a perpendicular 3x3 grid.",
+          "solutionSteps": "Step 1: Identify which half is stationary and which half moves.\nStep 2: Reflect the moving design across the fold line as a mirror image.\nStep 3: Superimpose the reflected design onto the stationary design to obtain: a 3x3 square grid formed by the perpendicular intersection of the lines.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "A transparent square sheet has a design:\nLeft half: a circle with a vertical diameter.\nRight half: a circle with a horizontal diameter.\nFind out how the pattern will appear when the transparent sheet is folded along the central dotted line (left half is folded over the right half along the vertical dotted line).",
+          "options": [
+            "a single circle with both horizontal and vertical diameters (cross inside circle)",
+            "A circle with only the vertical diameter remaining",
+            "A circle with two parallel vertical chords",
+            "A circle divided into four quadrants with one quadrant shaded"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "hint": "Folding along a vertical axis creates a lateral mirror reflection of the folded half onto the stationary half.",
+          "explanation": "Folding the left half over the right half superimposes the vertical diameter onto the right circle, intersecting the horizontal diameter into a full cross (+).",
+          "solutionSteps": "Step 1: Identify which half is stationary and which half moves.\nStep 2: Reflect the moving design across the fold line as a mirror image.\nStep 3: Superimpose the reflected design onto the stationary design to obtain: a single circle with both horizontal and vertical diameters (cross inside circle).",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "A transparent square sheet has a design:\nLeft half: an upward pointing equilateral triangle.\nRight half: a downward pointing equilateral triangle.\nFind out how the pattern will appear when the transparent sheet is folded along the central dotted line (left side is folded over the right side along the central vertical axis).",
+          "options": [
+            "Two disjoint triangles touching only at their apex",
+            "A single upward-pointing triangle with a horizontal base line",
+            "a six-pointed star (hexagram) formed by the two superimposed triangles",
+            "A diamond (rhombus) formed by inverted triangular bases"
           ],
           "correctIndex": 2,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Paper Folding. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Folding along a vertical axis creates a lateral mirror reflection of the folded half onto the stationary half.",
+          "explanation": "When the upward triangle on the left folds onto the downward triangle on the right, their outlines intersect to create a symmetrical six-pointed star.",
+          "solutionSteps": "Step 1: Identify which half is stationary and which half moves.\nStep 2: Reflect the moving design across the fold line as a mirror image.\nStep 3: Superimpose the reflected design onto the stationary design to obtain: a six-pointed star (hexagram) formed by the two superimposed triangles.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Paper Folding Practice Q15: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "A transparent square sheet has a design:\nLeft half: a solid dark square in the top-left corner.\nRight half: an open circle in the top-right corner.\nFind out how the pattern will appear when the transparent sheet is folded along the central dotted line (the transparent sheet is folded from left to right along the vertical dotted midline).",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "A square sheet half with both square and circle superimposed in top-left",
+            "A square sheet half with only the square remaining visible",
+            "A square sheet half containing the dark square at top-left and dark circle at top-right",
+            "a solid dark square completely enclosing the open circle in the top-right quadrant"
           ],
           "correctIndex": 3,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Paper Folding. Work through the problem step by step using the shortcuts taught in this topic.",
+          "difficulty": "medium",
+          "hint": "Folding along a vertical axis creates a lateral mirror reflection of the folded half onto the stationary half.",
+          "explanation": "The solid square in the top-left flips laterally across the vertical midline into the top-right quadrant, superimposing over the circle.",
+          "solutionSteps": "Step 1: Identify which half is stationary and which half moves.\nStep 2: Reflect the moving design across the fold line as a mirror image.\nStep 3: Superimpose the reflected design onto the stationary design to obtain: a solid dark square completely enclosing the open circle in the top-right quadrant.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Paper Folding Practice Q16: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "A transparent square sheet has a design:\nLeft half: three parallel horizontal lines.\nRight half: three parallel vertical lines.\nFind out how the pattern will appear when the transparent sheet is folded along the central dotted line (the sheet is folded left to right along the central vertical fold line).",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Paper Folding. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Paper Folding Practice Q17: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Paper Folding. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Paper Folding Practice Q18: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Six parallel horizontal lines with twice the line density",
+            "Three diagonal lines extending from corner to corner",
+            "a 3x3 square grid formed by the perpendicular intersection of the lines",
+            "A solid dark rectangular block covering the sheet"
           ],
           "correctIndex": 2,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Paper Folding. Work through the problem step by step using the shortcuts taught in this topic.",
+          "difficulty": "medium",
+          "hint": "Folding along a vertical axis creates a lateral mirror reflection of the folded half onto the stationary half.",
+          "explanation": "The horizontal lines from the left half fold directly across the vertical lines on the right half, forming a perpendicular 3x3 grid.",
+          "solutionSteps": "Step 1: Identify which half is stationary and which half moves.\nStep 2: Reflect the moving design across the fold line as a mirror image.\nStep 3: Superimpose the reflected design onto the stationary design to obtain: a 3x3 square grid formed by the perpendicular intersection of the lines.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Paper Folding Practice Q19: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "A transparent square sheet has a design:\nLeft half: a circle with a vertical diameter.\nRight half: a circle with a horizontal diameter.\nFind out how the pattern will appear when the transparent sheet is folded along the central dotted line (left half is folded over the right half along the vertical dotted line).",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Paper Folding. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Paper Folding Practice Q20: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "a single circle with both horizontal and vertical diameters (cross inside circle)",
+            "A circle with only the vertical diameter remaining",
+            "A circle with two parallel vertical chords",
+            "A circle divided into four quadrants with one quadrant shaded"
           ],
           "correctIndex": 0,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Paper Folding. Work through the problem step by step using the shortcuts taught in this topic.",
+          "difficulty": "medium",
+          "hint": "Folding along a vertical axis creates a lateral mirror reflection of the folded half onto the stationary half.",
+          "explanation": "Folding the left half over the right half superimposes the vertical diameter onto the right circle, intersecting the horizontal diameter into a full cross (+).",
+          "solutionSteps": "Step 1: Identify which half is stationary and which half moves.\nStep 2: Reflect the moving design across the fold line as a mirror image.\nStep 3: Superimpose the reflected design onto the stationary design to obtain: a single circle with both horizontal and vertical diameters (cross inside circle).",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "A transparent square sheet has a design:\nLeft half: an upward pointing equilateral triangle.\nRight half: a downward pointing equilateral triangle.\nFind out how the pattern will appear when the transparent sheet is folded along the central dotted line (left side is folded over the right side along the central vertical axis).",
+          "options": [
+            "a six-pointed star (hexagram) formed by the two superimposed triangles",
+            "Two disjoint triangles touching only at their apex",
+            "A single upward-pointing triangle with a horizontal base line",
+            "A diamond (rhombus) formed by inverted triangular bases"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "hint": "Folding along a vertical axis creates a lateral mirror reflection of the folded half onto the stationary half.",
+          "explanation": "When the upward triangle on the left folds onto the downward triangle on the right, their outlines intersect to create a symmetrical six-pointed star.",
+          "solutionSteps": "Step 1: Identify which half is stationary and which half moves.\nStep 2: Reflect the moving design across the fold line as a mirror image.\nStep 3: Superimpose the reflected design onto the stationary design to obtain: a six-pointed star (hexagram) formed by the two superimposed triangles.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "A transparent square sheet has a design:\nLeft half: a solid dark square in the top-left corner.\nRight half: an open circle in the top-right corner.\nFind out how the pattern will appear when the transparent sheet is folded along the central dotted line (the transparent sheet is folded from left to right along the vertical dotted midline).",
+          "options": [
+            "A square sheet half with both square and circle superimposed in top-left",
+            "A square sheet half with only the square remaining visible",
+            "a solid dark square completely enclosing the open circle in the top-right quadrant",
+            "A square sheet half containing the dark square at top-left and dark circle at top-right"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "hint": "Folding along a vertical axis creates a lateral mirror reflection of the folded half onto the stationary half.",
+          "explanation": "The solid square in the top-left flips laterally across the vertical midline into the top-right quadrant, superimposing over the circle.",
+          "solutionSteps": "Step 1: Identify which half is stationary and which half moves.\nStep 2: Reflect the moving design across the fold line as a mirror image.\nStep 3: Superimpose the reflected design onto the stationary design to obtain: a solid dark square completely enclosing the open circle in the top-right quadrant.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "A transparent square sheet has a design:\nLeft half: three parallel horizontal lines.\nRight half: three parallel vertical lines.\nFind out how the pattern will appear when the transparent sheet is folded along the central dotted line (the sheet is folded left to right along the central vertical fold line).",
+          "options": [
+            "Six parallel horizontal lines with twice the line density",
+            "Three diagonal lines extending from corner to corner",
+            "A solid dark rectangular block covering the sheet",
+            "a 3x3 square grid formed by the perpendicular intersection of the lines"
+          ],
+          "correctIndex": 3,
+          "difficulty": "medium",
+          "hint": "Folding along a vertical axis creates a lateral mirror reflection of the folded half onto the stationary half.",
+          "explanation": "The horizontal lines from the left half fold directly across the vertical lines on the right half, forming a perpendicular 3x3 grid.",
+          "solutionSteps": "Step 1: Identify which half is stationary and which half moves.\nStep 2: Reflect the moving design across the fold line as a mirror image.\nStep 3: Superimpose the reflected design onto the stationary design to obtain: a 3x3 square grid formed by the perpendicular intersection of the lines.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         }
       ]

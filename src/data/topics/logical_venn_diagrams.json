@@ -49,343 +49,471 @@
       ],
       "practiceQuestions": [
         {
-          "questionText": "Logical Venn Diagrams Practice Q1: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "Which of the following geometric relationships best represents the classes:\nAnimals, Dogs, and Pets?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Logical Venn Diagrams. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Logical Venn Diagrams Practice Q2: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 2,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Logical Venn Diagrams. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Logical Venn Diagrams Practice Q3: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Three completely disjoint separate circles",
+            "Two intersecting circles completely outside a third circle",
+            "Three concentric nested circles",
+            "Some dogs are pets, all dogs are animals, and some pets are animals"
           ],
           "correctIndex": 3,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Logical Venn Diagrams. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Analyze the logical subsets and mutual intersections between the three categories.",
+          "explanation": "All dogs are animals (nested circle). Some dogs are pets, and some pets are other animals (intersecting circle).",
+          "solutionSteps": "Step 1: Check subset relations (is A completely inside B?).\nStep 2: Check intersection relations (can an element be both B and C?).\nStep 3: Deduce the Venn diagram topology: Some dogs are pets, all dogs are animals, and some pets are animals.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         },
         {
-          "questionText": "Logical Venn Diagrams Practice Q4: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "Which of the following geometric relationships best represents the classes:\nEngineers, Men, and Writers?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Logical Venn Diagrams. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Logical Venn Diagrams Practice Q5: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Logical Venn Diagrams. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Logical Venn Diagrams Practice Q6: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Three concentric nested circles",
+            "Three completely disjoint separate circles",
+            "Three partially intersecting circles",
+            "Two intersecting circles completely outside a third circle"
           ],
           "correctIndex": 2,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Logical Venn Diagrams. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Analyze the logical subsets and mutual intersections between the three categories.",
+          "explanation": "Some men are engineers, some engineers are writers, and some men are both engineers and writers.",
+          "solutionSteps": "Step 1: Check subset relations (is A completely inside B?).\nStep 2: Check intersection relations (can an element be both B and C?).\nStep 3: Deduce the Venn diagram topology: Three partially intersecting circles.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         },
         {
-          "questionText": "Logical Venn Diagrams Practice Q7: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "Which of the following geometric relationships best represents the classes:\nCountry, State, and City?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Three completely disjoint separate circles",
+            "Three concentric nested circles",
+            "Three mutually intersecting circles sharing a common central region",
+            "Two intersecting circles completely outside a third circle"
+          ],
+          "correctIndex": 1,
+          "difficulty": "easy",
+          "hint": "Analyze the logical subsets and mutual intersections between the three categories.",
+          "explanation": "A City lies entirely within a State, which lies entirely within a Country.",
+          "solutionSteps": "Step 1: Check subset relations (is A completely inside B?).\nStep 2: Check intersection relations (can an element be both B and C?).\nStep 3: Deduce the Venn diagram topology: Three concentric nested circles.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
+          ]
+        },
+        {
+          "questionText": "Which of the following geometric relationships best represents the classes:\nMammals, Cows, and Crows?",
+          "options": [
+            "Two intersecting circles completely outside a third circle",
+            "One circle inside another, with a third completely separate circle",
+            "Three concentric nested circles",
+            "Three completely disjoint separate circles"
+          ],
+          "correctIndex": 1,
+          "difficulty": "easy",
+          "hint": "Analyze the logical subsets and mutual intersections between the three categories.",
+          "explanation": "All cows are mammals, while crows are birds and completely disjoint from mammals.",
+          "solutionSteps": "Step 1: Check subset relations (is A completely inside B?).\nStep 2: Check intersection relations (can an element be both B and C?).\nStep 3: Deduce the Venn diagram topology: One circle inside another, with a third completely separate circle.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
+          ]
+        },
+        {
+          "questionText": "Which of the following geometric relationships best represents the classes:\nDoctors, Lawyers, and Professionals?",
+          "options": [
+            "Two intersecting circles completely outside a third circle",
+            "Two disjoint circles completely enclosed inside a larger circle",
+            "Three completely disjoint separate circles",
+            "Three concentric nested circles"
+          ],
+          "correctIndex": 1,
+          "difficulty": "easy",
+          "hint": "Analyze the logical subsets and mutual intersections between the three categories.",
+          "explanation": "Both Doctors and Lawyers are Professionals, but no Doctor is a Lawyer.",
+          "solutionSteps": "Step 1: Check subset relations (is A completely inside B?).\nStep 2: Check intersection relations (can an element be both B and C?).\nStep 3: Deduce the Venn diagram topology: Two disjoint circles completely enclosed inside a larger circle.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
+          ]
+        },
+        {
+          "questionText": "Which of the following geometric relationships best represents the classes:\nVegetables, Potatoes, and Cabbage?",
+          "options": [
+            "Three completely disjoint separate circles",
+            "Three concentric nested circles",
+            "Two disjoint circles inside a third circle",
+            "Two intersecting circles completely outside a third circle"
+          ],
+          "correctIndex": 2,
+          "difficulty": "easy",
+          "hint": "Analyze the logical subsets and mutual intersections between the three categories.",
+          "explanation": "Both Potato and Cabbage are Vegetables, but they are mutually exclusive vegetables.",
+          "solutionSteps": "Step 1: Check subset relations (is A completely inside B?).\nStep 2: Check intersection relations (can an element be both B and C?).\nStep 3: Deduce the Venn diagram topology: Two disjoint circles inside a third circle.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
+          ]
+        },
+        {
+          "questionText": "In a Venn diagram:\n- Circle represents Singers\n- Triangle represents Athletes\n- Rectangle represents Artists\nThe non-overlapping region of the circle alone contains the number 26. How many students are ONLY Singers and neither Athletes nor Artists?",
+          "options": [
+            "23",
+            "26",
+            "31",
+            "36"
+          ],
+          "correctIndex": 1,
+          "difficulty": "medium",
+          "hint": "Isolate the specific overlapping geometrical regions mentioned in the problem.",
+          "explanation": "The exclusive region of the circle that does not overlap with either the triangle or the rectangle represents those who are exclusively Singers. That region is labeled 26.",
+          "solutionSteps": "Step 1: Identify which shapes correspond to which attributes.\nStep 2: Find the region corresponding to the exact logical constraint (exclusive vs inclusive).\nStep 3: Read the required count: 26.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "In a Venn diagram:\n- Circle represents Singers\n- Triangle represents Athletes\n- Rectangle represents Artists\nRegion representing Athletes who are also Singers but NOT Artists has 12 students, and region with all three has 7. How many students are both Athletes and Singers?",
+          "options": [
+            "29",
+            "24",
+            "16",
+            "19"
+          ],
+          "correctIndex": 3,
+          "difficulty": "medium",
+          "hint": "Isolate the specific overlapping geometrical regions mentioned in the problem.",
+          "explanation": "Total students who are both Athletes and Singers = (Athletes who are Singers but not Artists) + (Athletes who are Singers and also Artists) = 12 + 7 = 19.",
+          "solutionSteps": "Step 1: Identify which shapes correspond to which attributes.\nStep 2: Find the region corresponding to the exact logical constraint (exclusive vs inclusive).\nStep 3: Read the required count: 19.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "In a Venn diagram:\n- Circle represents Singers\n- Triangle represents Athletes\n- Rectangle represents Artists\nThe non-overlapping region of the circle alone contains the number 29. How many students are ONLY Singers and neither Athletes nor Artists?",
+          "options": [
+            "29",
+            "26",
+            "39",
+            "34"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "hint": "Isolate the specific overlapping geometrical regions mentioned in the problem.",
+          "explanation": "The exclusive region of the circle that does not overlap with either the triangle or the rectangle represents those who are exclusively Singers. That region is labeled 29.",
+          "solutionSteps": "Step 1: Identify which shapes correspond to which attributes.\nStep 2: Find the region corresponding to the exact logical constraint (exclusive vs inclusive).\nStep 3: Read the required count: 29.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "In a Venn diagram:\n- Circle represents Singers\n- Triangle represents Athletes\n- Rectangle represents Artists\nRegion representing Athletes who are also Singers but NOT Artists has 10 students, and region with all three has 7. How many students are both Athletes and Singers?",
+          "options": [
+            "27",
+            "14",
+            "17",
+            "22"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "hint": "Isolate the specific overlapping geometrical regions mentioned in the problem.",
+          "explanation": "Total students who are both Athletes and Singers = (Athletes who are Singers but not Artists) + (Athletes who are Singers and also Artists) = 10 + 7 = 17.",
+          "solutionSteps": "Step 1: Identify which shapes correspond to which attributes.\nStep 2: Find the region corresponding to the exact logical constraint (exclusive vs inclusive).\nStep 3: Read the required count: 17.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "In a Venn diagram:\n- Circle represents Singers\n- Triangle represents Athletes\n- Rectangle represents Artists\nThe non-overlapping region of the circle alone contains the number 32. How many students are ONLY Singers and neither Athletes nor Artists?",
+          "options": [
+            "29",
+            "42",
+            "32",
+            "37"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "hint": "Isolate the specific overlapping geometrical regions mentioned in the problem.",
+          "explanation": "The exclusive region of the circle that does not overlap with either the triangle or the rectangle represents those who are exclusively Singers. That region is labeled 32.",
+          "solutionSteps": "Step 1: Identify which shapes correspond to which attributes.\nStep 2: Find the region corresponding to the exact logical constraint (exclusive vs inclusive).\nStep 3: Read the required count: 32.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "In a Venn diagram:\n- Circle represents Singers\n- Triangle represents Athletes\n- Rectangle represents Artists\nRegion representing Athletes who are also Singers but NOT Artists has 13 students, and region with all three has 7. How many students are both Athletes and Singers?",
+          "options": [
+            "17",
+            "30",
+            "20",
+            "25"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "hint": "Isolate the specific overlapping geometrical regions mentioned in the problem.",
+          "explanation": "Total students who are both Athletes and Singers = (Athletes who are Singers but not Artists) + (Athletes who are Singers and also Artists) = 13 + 7 = 20.",
+          "solutionSteps": "Step 1: Identify which shapes correspond to which attributes.\nStep 2: Find the region corresponding to the exact logical constraint (exclusive vs inclusive).\nStep 3: Read the required count: 20.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "In a Venn diagram:\n- Circle represents Singers\n- Triangle represents Athletes\n- Rectangle represents Artists\nThe non-overlapping region of the circle alone contains the number 25. How many students are ONLY Singers and neither Athletes nor Artists?",
+          "options": [
+            "25",
+            "35",
+            "30",
+            "22"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "hint": "Isolate the specific overlapping geometrical regions mentioned in the problem.",
+          "explanation": "The exclusive region of the circle that does not overlap with either the triangle or the rectangle represents those who are exclusively Singers. That region is labeled 25.",
+          "solutionSteps": "Step 1: Identify which shapes correspond to which attributes.\nStep 2: Find the region corresponding to the exact logical constraint (exclusive vs inclusive).\nStep 3: Read the required count: 25.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "In a Venn diagram:\n- Circle represents Singers\n- Triangle represents Athletes\n- Rectangle represents Artists\nRegion representing Athletes who are also Singers but NOT Artists has 11 students, and region with all three has 7. How many students are both Athletes and Singers?",
+          "options": [
+            "23",
+            "15",
+            "18",
+            "28"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "hint": "Isolate the specific overlapping geometrical regions mentioned in the problem.",
+          "explanation": "Total students who are both Athletes and Singers = (Athletes who are Singers but not Artists) + (Athletes who are Singers and also Artists) = 11 + 7 = 18.",
+          "solutionSteps": "Step 1: Identify which shapes correspond to which attributes.\nStep 2: Find the region corresponding to the exact logical constraint (exclusive vs inclusive).\nStep 3: Read the required count: 18.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Which of the following geometric relationships best represents the classes:\nSeconds, Minutes, and Hours?",
+          "options": [
+            "Three concentric nested circles",
+            "Three mutually intersecting circles sharing a common central region",
+            "Two intersecting circles completely outside a third circle",
+            "Three completely disjoint separate circles"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "hint": "Analyze the logical subsets and mutual intersections between the three categories.",
+          "explanation": "Seconds are parts of Minutes, which are parts of Hours.",
+          "solutionSteps": "Step 1: Check subset relations (is A completely inside B?).\nStep 2: Check intersection relations (can an element be both B and C?).\nStep 3: Deduce the Venn diagram topology: Three concentric nested circles.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
+          ]
+        },
+        {
+          "questionText": "Which of the following geometric relationships best represents the classes:\nSparrows, Birds, and Mice?",
+          "options": [
+            "Two intersecting circles completely outside a third circle",
+            "Three completely disjoint separate circles",
+            "Three concentric nested circles",
+            "One circle inside another, and one separate circle"
           ],
           "correctIndex": 3,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Logical Venn Diagrams. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Analyze the logical subsets and mutual intersections between the three categories.",
+          "explanation": "All sparrows are birds, but mice are mammals and completely separate.",
+          "solutionSteps": "Step 1: Check subset relations (is A completely inside B?).\nStep 2: Check intersection relations (can an element be both B and C?).\nStep 3: Deduce the Venn diagram topology: One circle inside another, and one separate circle.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         },
         {
-          "questionText": "Logical Venn Diagrams Practice Q8: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "Which of the following geometric relationships best represents the classes:\nProfessors, Researchers, and Scientists?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Logical Venn Diagrams. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Logical Venn Diagrams Practice Q9: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Logical Venn Diagrams. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Logical Venn Diagrams Practice Q10: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Two intersecting circles completely outside a third circle",
+            "Three completely disjoint separate circles",
+            "Three mutually intersecting circles",
+            "Three concentric nested circles"
           ],
           "correctIndex": 2,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Logical Venn Diagrams. Work through the problem step by step using the shortcuts taught in this topic.",
+          "difficulty": "easy",
+          "hint": "Analyze the logical subsets and mutual intersections between the three categories.",
+          "explanation": "A person can simultaneously be a professor, a researcher, and a scientist.",
+          "solutionSteps": "Step 1: Check subset relations (is A completely inside B?).\nStep 2: Check intersection relations (can an element be both B and C?).\nStep 3: Deduce the Venn diagram topology: Three mutually intersecting circles.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         },
         {
-          "questionText": "Logical Venn Diagrams Practice Q11: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "Which of the following geometric relationships best represents the classes:\nFathers, Men, and Brothers?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Logical Venn Diagrams. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Logical Venn Diagrams Practice Q12: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Logical Venn Diagrams. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Logical Venn Diagrams Practice Q13: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Logical Venn Diagrams. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Logical Venn Diagrams Practice Q14: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Three completely disjoint separate circles",
+            "Two intersecting circles completely outside a third circle",
+            "Two intersecting circles inside a larger circle",
+            "Three concentric nested circles"
           ],
           "correctIndex": 2,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Logical Venn Diagrams. Work through the problem step by step using the shortcuts taught in this topic.",
+          "difficulty": "easy",
+          "hint": "Analyze the logical subsets and mutual intersections between the three categories.",
+          "explanation": "All fathers are men and all brothers are men. Some fathers are also brothers.",
+          "solutionSteps": "Step 1: Check subset relations (is A completely inside B?).\nStep 2: Check intersection relations (can an element be both B and C?).\nStep 3: Deduce the Venn diagram topology: Two intersecting circles inside a larger circle.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         },
         {
-          "questionText": "Logical Venn Diagrams Practice Q15: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "Which of the following geometric relationships best represents the classes:\nTable, Chair, and Furniture?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Logical Venn Diagrams. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Logical Venn Diagrams Practice Q16: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Logical Venn Diagrams. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Logical Venn Diagrams Practice Q17: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Logical Venn Diagrams. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Logical Venn Diagrams Practice Q18: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Three concentric nested circles",
+            "Two intersecting circles completely outside a third circle",
+            "Two disjoint circles inside a larger circle",
+            "Three completely disjoint separate circles"
           ],
           "correctIndex": 2,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Logical Venn Diagrams. Work through the problem step by step using the shortcuts taught in this topic.",
+          "difficulty": "easy",
+          "hint": "Analyze the logical subsets and mutual intersections between the three categories.",
+          "explanation": "Both table and chair belong to furniture, but table is not chair.",
+          "solutionSteps": "Step 1: Check subset relations (is A completely inside B?).\nStep 2: Check intersection relations (can an element be both B and C?).\nStep 3: Deduce the Venn diagram topology: Two disjoint circles inside a larger circle.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         },
         {
-          "questionText": "Logical Venn Diagrams Practice Q19: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "Which of the following geometric relationships best represents the classes:\nReptiles, Lizards, and Snakes?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Three completely disjoint separate circles",
+            "Two disjoint circles inside a third circle",
+            "Three concentric nested circles",
+            "Two intersecting circles completely outside a third circle"
           ],
-          "correctIndex": 3,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Logical Venn Diagrams. Work through the problem step by step using the shortcuts taught in this topic.",
+          "correctIndex": 1,
+          "difficulty": "easy",
+          "hint": "Analyze the logical subsets and mutual intersections between the three categories.",
+          "explanation": "Lizards and snakes are two distinct species belonging to the class Reptilia.",
+          "solutionSteps": "Step 1: Check subset relations (is A completely inside B?).\nStep 2: Check intersection relations (can an element be both B and C?).\nStep 3: Deduce the Venn diagram topology: Two disjoint circles inside a third circle.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Logical Venn Diagrams Practice Q20: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Logical Venn Diagrams. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         }
       ]

@@ -62,7 +62,8 @@
           "examTags": [
             "SSC CGL",
             "RRB NTPC"
-          ]
+          ],
+          "explanation": "My father's only son = my brother. Answer: Brother."
         },
         {
           "questionText": "If A is the father of B, and B is the sister of C, how is A related to C?",
@@ -78,7 +79,8 @@
           "examTags": [
             "SSC CGL",
             "IBPS Clerk"
-          ]
+          ],
+          "explanation": "B is C's sister → B and C have the same parents → A is father of both B and C. Answer: Father."
         },
         {
           "questionText": "Introducing a girl, Ramesh said, \"She is the only daughter of my father's wife.\" How is the girl related to Ramesh?",
@@ -94,7 +96,8 @@
           "examTags": [
             "SSC CGL",
             "SSC CHSL"
-          ]
+          ],
+          "explanation": "My father's wife = my mother. My mother's only daughter = my sister. Answer: Sister."
         },
         {
           "questionText": "A is the son of B. C is A's sister. D is C's mother. E is B's father. How is E related to D?",
@@ -110,7 +113,8 @@
           "examTags": [
             "SSC CGL",
             "IBPS PO"
-          ]
+          ],
+          "explanation": "A and C are siblings. B is their father, D is their mother. E is B's father. So E is D's father-in-law. Answer: Father-in-law."
         },
         {
           "questionText": "Pointing to a photograph, Ramesh said, \"He is the son of the only daughter of my mother.\" How is the person in the photo related to Ramesh?",
@@ -127,7 +131,8 @@
             "SSC CGL",
             "RRB NTPC",
             "IBPS Clerk"
-          ]
+          ],
+          "explanation": "My mother's only daughter = my sister. My sister's son = my nephew. Answer: Nephew."
         },
         {
           "questionText": "If \"P × Q\" means P is the mother of Q, \"P + Q\" means P is the father of Q, \"P − Q\" means P is the brother of Q. What does \"A + B − C\" mean?",
@@ -144,7 +149,8 @@
             "SSC CGL",
             "IBPS PO",
             "SBI PO"
-          ]
+          ],
+          "explanation": "A + B → A is father of B. B − C → B is brother of C. So A is father of B, and B is C's brother. Therefore A is also C's father. Answer: A is father of C."
         },
         {
           "questionText": "A man said, \"This girl is the wife of the grandson of my mother.\" How is the man related to the girl?",
@@ -160,7 +166,8 @@
           "examTags": [
             "SSC CGL",
             "RRB NTPC"
-          ]
+          ],
+          "explanation": "My mother's grandson = my son. This girl is my son's wife. I am her father-in-law. Answer: Father-in-law."
         },
         {
           "questionText": "If M is the brother of N, B is the daughter of M, and A is the son of N, how is B related to A?",
@@ -177,7 +184,8 @@
             "SSC CGL",
             "SSC CHSL",
             "RRB NTPC"
-          ]
+          ],
+          "explanation": "M and N are brothers. B is M's daughter. A is N's son. B and A are children of two brothers → they are cousins. Answer: Cousin."
         },
         {
           "questionText": "Pointing to a lady, a man said, \"Her brother's father is the only son of my grandfather.\" How is the lady related to the man?",
@@ -194,7 +202,8 @@
             "SSC CGL",
             "IBPS PO",
             "SBI PO"
-          ]
+          ],
+          "explanation": "My grandfather's only son = my father. The lady's brother's father = my father. So the lady's father = my father. The lady is my sister. Answer: Sister."
         },
         {
           "questionText": "A and B are married. C is A's mother. D is C's father. E is D's mother. How is A related to E?",
@@ -210,7 +219,8 @@
           "examTags": [
             "SSC CGL",
             "IBPS PO"
-          ]
+          ],
+          "explanation": "E → D (E is D's mother) → C (D is C's father) → A (C is A's mother). E → D → C → A. A is E's great-grandson. Answer: Great-grandson."
         },
         {
           "questionText": "X is Y's brother. Y is Z's father. W is Z's brother. How is X related to W?",
@@ -226,7 +236,8 @@
           "examTags": [
             "SSC CGL",
             "RRB NTPC"
-          ]
+          ],
+          "explanation": "Y is Z's father. W is Z's brother → Y is W's father too. X is Y's brother. So X is W's uncle. Answer: Uncle."
         },
         {
           "questionText": "Rita said, \"Mohan's mother is the only daughter of my mother.\" How is Rita related to Mohan?",
@@ -243,7 +254,8 @@
             "SSC CGL",
             "IBPS Clerk",
             "RRB NTPC"
-          ]
+          ],
+          "explanation": "My mother's only daughter = Rita herself. So Rita is Mohan's mother. Answer: Mother."
         },
         {
           "questionText": "Pointing to a man in a photograph, a woman says, \"His mother's only daughter is my mother.\" How is the woman related to the man?",
@@ -260,7 +272,8 @@
             "SSC CGL",
             "IBPS PO",
             "SBI PO"
-          ]
+          ],
+          "explanation": "The man's mother's only daughter = man's sister. The woman says \"she is my mother.\" So the man's sister is the woman's mother. Therefore the man is the woman's maternal uncle. The woman is the man's niece. Answer: Niece."
         },
         {
           "questionText": "If A+B means A is the son of B, A-B means A is the wife of B, what does P+Q-R mean?",
@@ -276,7 +289,8 @@
           "examTags": [
             "IBPS PO",
             "SBI PO"
-          ]
+          ],
+          "explanation": "P+Q → P is son of Q. Q-R → Q is wife of R. So P is the son of Q, and Q is R's wife. Therefore P is R's son as well. Best description: P is Q's son and R's wife... Wait, re-read: P+Q-R. P+Q = P is son of Q. Then (P is son of Q) - R. Hmm, this should chain: P+Q means P is son of Q. Q-R means Q is wife of R. So P is son of Q who is wife of R. P is R and Q's son. Answer: P is Q's son (and also R's son since Q is R's wife)."
         },
         {
           "questionText": "A is the father of C and D is the son of B. E is the brother of A. C is the sister of D. How is B related to E?",
@@ -292,7 +306,8 @@
           "examTags": [
             "SSC CGL",
             "IBPS PO"
-          ]
+          ],
+          "explanation": "A is father of C. C is sister of D → A is also father of D. D is son of B → B is D's mother (since A is D's father, B must be A's wife). E is brother of A. So B is E's sister-in-law (wife of E's brother). Answer: Sister-in-law."
         },
         {
           "questionText": "Introducing a boy, a girl said, \"He is the son of my mother's only child.\" How is the boy related to the girl?",
@@ -308,7 +323,8 @@
           "examTags": [
             "SSC CGL",
             "SSC CHSL"
-          ]
+          ],
+          "explanation": "My mother's only child = myself. So he is my son. Answer: Son."
         },
         {
           "questionText": "Q is the brother of R. P is the sister of Q. T is the brother of S. S is the daughter of R. How is T related to P?",
@@ -325,7 +341,8 @@
             "SSC CGL",
             "IBPS PO",
             "SBI PO"
-          ]
+          ],
+          "explanation": "Q and R are siblings. P is Q's (and R's) sister. S is R's daughter. T is S's brother → T is also R's child. So T is R's son/child, and P is R's sister. T is P's nephew. Answer: Nephew."
         },
         {
           "questionText": "A woman introduces a man as \"the son of my mother's brother.\" How is the man related to the woman?",
@@ -342,7 +359,8 @@
             "SSC CGL",
             "RRB NTPC",
             "SSC CHSL"
-          ]
+          ],
+          "explanation": "My mother's brother = my maternal uncle (mama). His son = my cousin. Answer: Cousin."
         },
         {
           "questionText": "If X is the husband of Y and Y is the sister of Z, how is X related to Z?",
@@ -358,7 +376,8 @@
           "examTags": [
             "SSC CGL",
             "IBPS Clerk"
-          ]
+          ],
+          "explanation": "X is married to Y. Y is Z's sister. So X is Z's brother-in-law. Answer: Brother-in-law."
         },
         {
           "questionText": "Ravi said, \"Anita's father is the only son of my father.\" How is Anita related to Ravi?",
@@ -375,7 +394,8 @@
             "SSC CGL",
             "IBPS PO",
             "RRB NTPC"
-          ]
+          ],
+          "explanation": "My father's only son = myself (Ravi). So Anita's father = Ravi. Anita is Ravi's daughter. Answer: Daughter."
         }
       ]
     },
@@ -417,7 +437,8 @@
           "examTags": [
             "SSC CGL",
             "IBPS PO"
-          ]
+          ],
+          "explanation": "P#Q → P is father of Q. Q&R → Q is sister of R. So P is father of Q and R (siblings). P is R's father. Answer: Father."
         },
         {
           "questionText": "If + means father, - means mother, × means brother, ÷ means sister. What does A+B÷C mean?",
@@ -434,6 +455,232 @@
             "SSC CGL",
             "IBPS PO",
             "SBI PO"
+          ],
+          "explanation": "A+B → A is father of B. B÷C → B is sister of C. So B and C are siblings, and A is their father. A is C's father. Answer: A is father of C."
+        },
+        {
+          "questionText": "If 'A × B' means 'A is the father of B', 'A ÷ B' means 'A is the daughter of B', 'A + B' means 'A is the sister of B', which of the following represents 'P is the aunt of Q'?",
+          "options": [
+            "P + R × Q",
+            "P × R + Q",
+            "P ÷ R × Q",
+            "Q + R × P"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "hint": "An aunt is the sister of one's father or mother.",
+          "explanation": "In 'P + R × Q': P + R means P is sister of R. R × Q means R is father of Q. Therefore, P is sister of Q's father, which makes P the aunt of Q.",
+          "solutionSteps": [
+            "Step 1: Break down P + R × Q: P + R means P is sister of R.",
+            "Step 2: R × Q means R is father of Q.",
+            "Step 3: Father's sister is aunt. Hence, P is aunt of Q."
+          ],
+          "examTags": [
+            "SSC CGL",
+            "IBPS PO",
+            "SBI PO"
+          ]
+        },
+        {
+          "questionText": "If 'P + Q' means P is brother of Q, 'P - Q' means P is sister of Q, 'P × Q' means P is mother of Q. Which represents that 'M is the maternal uncle of N'?",
+          "options": [
+            "M + K × N",
+            "M × K + N",
+            "M - K × N",
+            "N + K × M"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "hint": "Maternal uncle is mother's brother.",
+          "explanation": "In 'M + K × N': M + K means M is brother of K. K × N means K is mother of N. Brother of mother is maternal uncle. Hence M is maternal uncle of N.",
+          "solutionSteps": [
+            "Step 1: Maternal uncle = mother's brother.",
+            "Step 2: K × N makes K the mother of N.",
+            "Step 3: M + K makes M the brother of K. Result: M + K × N."
+          ],
+          "examTags": [
+            "IBPS PO",
+            "SBI CLERK",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "If A $ B means A is son of B, A # B means A is brother of B, and A * B means A is mother of B. What does P # Q $ R * S mean?",
+          "options": [
+            "P is brother of S",
+            "P is son of S",
+            "P is father of S",
+            "P is uncle of S"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "hint": "Trace the generation tree step by step.",
+          "explanation": "P # Q means P is brother of Q. Q $ R means Q is son of R. R * S means R is mother of S. This means P, Q, and S are all children of R. Since P is male (brother of Q), P is brother of S.",
+          "solutionSteps": [
+            "Step 1: P is brother of Q (P is male).",
+            "Step 2: Q is son of R (R is parent of P and Q).",
+            "Step 3: R is mother of S (R is mother of P, Q, and S).",
+            "Step 4: P is brother of S."
+          ],
+          "examTags": [
+            "SSC CGL",
+            "LIC AAO"
+          ]
+        },
+        {
+          "questionText": "If P % Q means P is father of Q, P & Q means P is sister of Q, P @ Q means P is son of Q. In 'H % J & K @ L', how is H related to L?",
+          "options": [
+            "Husband",
+            "Brother",
+            "Father",
+            "Son"
+          ],
+          "correctIndex": 0,
+          "difficulty": "hard",
+          "hint": "Find the common children of H and L.",
+          "explanation": "H % J means H is father of J. J & K means J is sister of K (so H is father of K too). K @ L means K is son of L (so L is mother of K). Since H is father of K and L is mother of K, H is husband of L.",
+          "solutionSteps": [
+            "Step 1: H is father of J and K.",
+            "Step 2: L is mother of K.",
+            "Step 3: Therefore, H and L are husband and wife. H is husband of L."
+          ],
+          "examTags": [
+            "IBPS PO",
+            "SBI PO",
+            "SSC CGL"
+          ]
+        },
+        {
+          "questionText": "If 'A + B' means A is brother of B, 'A - B' means A is sister of B, 'A * B' means A is father of B. In 'M * N + O - P', how is M related to P?",
+          "options": [
+            "Father",
+            "Uncle",
+            "Brother",
+            "Grandfather"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "hint": "N, O, and P are all siblings.",
+          "explanation": "M * N means M is father of N. N + O means N is brother of O. O - P means O is sister of P. Thus N, O, and P are all siblings. M is the father of all of them, including P.",
+          "solutionSteps": [
+            "Step 1: M is father of N.",
+            "Step 2: N, O, P are siblings.",
+            "Step 3: Hence M is father of P."
+          ],
+          "examTags": [
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "If 'P ÷ Q' means P is sister of Q, 'P × Q' means P is brother of Q, 'P - Q' means P is mother of Q, 'P + Q' means P is father of Q. Which of the following means 'T is the nephew of S'?",
+          "options": [
+            "S × R + T × M",
+            "S ÷ R + T",
+            "T × R + S",
+            "S - R + T"
+          ],
+          "correctIndex": 0,
+          "difficulty": "hard",
+          "hint": "Nephew is the male child of a sibling.",
+          "explanation": "In 'S × R + T × M': S is brother of R. R is father of T (R + T). T is male because T × M means T is brother of M. Since T is male and the child of S's brother R, T is the nephew of S.",
+          "solutionSteps": [
+            "Step 1: S and R are brothers (S × R).",
+            "Step 2: R is father of T (R + T).",
+            "Step 3: T is male (T × M).",
+            "Step 4: Therefore, T is nephew of S."
+          ],
+          "examTags": [
+            "IBPS PO",
+            "SBI PO"
+          ]
+        },
+        {
+          "questionText": "If 'P @ Q' means P is sister of Q, 'P # Q' means P is father of Q, 'P * Q' means P is brother of Q. How is M related to P in 'M @ N # O * P'?",
+          "options": [
+            "Paternal Aunt",
+            "Maternal Aunt",
+            "Sister",
+            "Mother"
+          ],
+          "correctIndex": 0,
+          "difficulty": "hard",
+          "hint": "Sister of father is paternal aunt.",
+          "explanation": "M @ N means M is sister of N. N # O means N is father of O. O * P means O is brother of P. Since N is father of O and P, and M is sister of N, M is the paternal aunt of P.",
+          "solutionSteps": [
+            "Step 1: N is father of P.",
+            "Step 2: M is sister of N.",
+            "Step 3: Father's sister is paternal aunt."
+          ],
+          "examTags": [
+            "SSC CGL",
+            "UPSC CSAT"
+          ]
+        },
+        {
+          "questionText": "If 'A × B' means A is wife of B, 'A + B' means A is brother of B, 'A - B' means A is daughter of B. In 'P × Q + R - S', how is P related to S?",
+          "options": [
+            "Daughter-in-law",
+            "Daughter",
+            "Sister-in-law",
+            "Mother"
+          ],
+          "correctIndex": 0,
+          "difficulty": "hard",
+          "hint": "Q is the son of S.",
+          "explanation": "R - S means R is daughter of S. Q + R means Q is brother of R (so Q is son of S). P × Q means P is wife of Q. Wife of son is daughter-in-law. Hence P is daughter-in-law of S.",
+          "solutionSteps": [
+            "Step 1: Q and R are children of S (Q is male).",
+            "Step 2: P is wife of Q (son of S).",
+            "Step 3: Result: P is daughter-in-law of S."
+          ],
+          "examTags": [
+            "SSC CGL",
+            "IBPS CLERK"
+          ]
+        },
+        {
+          "questionText": "If 'A $ B' means A is brother of B, 'A @ B' means A is mother of B, 'A # B' means A is daughter of B. How is K related to M in 'K # L @ M $ N'?",
+          "options": [
+            "Sister",
+            "Daughter",
+            "Mother",
+            "Aunt"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "hint": "Both K and M are children of L.",
+          "explanation": "K # L means K is daughter of L. L @ M means L is mother of M. M $ N means M is brother of N. Thus K, M, and N are all children of L. Since K is female (daughter of L), K is the sister of M.",
+          "solutionSteps": [
+            "Step 1: L is mother of K and M.",
+            "Step 2: K is female.",
+            "Step 3: Therefore, K is sister of M."
+          ],
+          "examTags": [
+            "RRB NTPC",
+            "SSC CGL"
+          ]
+        },
+        {
+          "questionText": "If 'P + Q' means P is daughter of Q, 'P - Q' means P is brother of Q, 'P × Q' means P is mother of Q. If 'A × B - C + D', how is A related to D?",
+          "options": [
+            "Wife",
+            "Sister",
+            "Mother",
+            "Daughter"
+          ],
+          "correctIndex": 0,
+          "difficulty": "hard",
+          "hint": "Check the parents of C and B.",
+          "explanation": "A × B means A is mother of B. B - C means B is brother of C (so A is mother of C). C + D means C is daughter of D (so D is parent of C). Since A is mother and D is the other parent, A is wife of D.",
+          "solutionSteps": [
+            "Step 1: A is mother of B and C.",
+            "Step 2: C is daughter of D.",
+            "Step 3: Both A and D are parents of C. A is female, so D is male. A is wife of D."
+          ],
+          "examTags": [
+            "SSC CGL",
+            "IBPS PO"
           ]
         }
       ]

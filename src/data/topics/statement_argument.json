@@ -49,343 +49,483 @@
       ],
       "practiceQuestions": [
         {
-          "questionText": "Statement & Argument Practice Q1: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "Statement:\nShould vocational skill training be made compulsory in high schools?\n\nArguments:\nI. Yes, because practical vocational skills enhance youth employability and bridge the skill gap in technical industries.\nII. No, because other countries do not mandate vocational education in schools.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Neither argument I nor II is strong",
+            "Only argument I is strong",
+            "Only argument II is strong",
+            "Both argument I and II are strong"
           ],
           "correctIndex": 1,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Statement & Argument. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Arguments based merely on what other countries do are universally considered weak in critical reasoning.",
+          "explanation": "Argument I directly links vocational education with youth employment and industry demands (Strong). Argument II is a superficial comparison (\"other countries do not do it\") without examining domestic merit (Weak).",
+          "solutionSteps": "Step 1: Check Argument I: Is it logically sound, relevant, and supported by facts/principles?\nStep 2: Check Argument II: Is it an unsupported opinion, mere comparison, or substantial point?\nStep 3: A strong argument must be both important and directly relevant.\nStep 4: Select Only argument I is strong.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "SSC CGL"
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Statement & Argument Practice Q2: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "Statement:\nShould corporate organizations encourage permanent work-from-home options for digital roles?\n\nArguments:\nI. Yes, because it eliminates lengthy daily commutes, reduces urban traffic congestion, and provides flexible work-life integration.\nII. No, because employees will only watch movies and sleep during working hours.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 2,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Statement & Argument. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "SSC CGL"
-          ]
-        },
-        {
-          "questionText": "Statement & Argument Practice Q3: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Statement & Argument. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "SSC CGL"
-          ]
-        },
-        {
-          "questionText": "Statement & Argument Practice Q4: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Statement & Argument. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "SSC CGL"
-          ]
-        },
-        {
-          "questionText": "Statement & Argument Practice Q5: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Neither argument I nor II is strong",
+            "Only argument I is strong",
+            "Both argument I and II are strong",
+            "Only argument II is strong"
           ],
           "correctIndex": 1,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Statement & Argument. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Arguments based on personal prejudice or cynical assumptions are weak.",
+          "explanation": "Argument I cites well-documented benefits for traffic, environment, and flexibility (Strong). Argument II makes an unsubstantiated, disparaging assumption about employee integrity (Weak).",
+          "solutionSteps": "Step 1: Check Argument I: Is it logically sound, relevant, and supported by facts/principles?\nStep 2: Check Argument II: Is it an unsupported opinion, mere comparison, or substantial point?\nStep 3: A strong argument must be both important and directly relevant.\nStep 4: Select Only argument I is strong.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "SSC CGL"
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Statement & Argument Practice Q6: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "Statement:\nShould vocational skill training be made compulsory in high schools?\n\nArguments:\nI. Yes, because practical vocational skills enhance youth employability and bridge the skill gap in technical industries.\nII. No, because other countries do not mandate vocational education in schools.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Only argument I is strong",
+            "Neither argument I nor II is strong",
+            "Only argument II is strong",
+            "Both argument I and II are strong"
           ],
-          "correctIndex": 2,
+          "correctIndex": 0,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Statement & Argument. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Arguments based merely on what other countries do are universally considered weak in critical reasoning.",
+          "explanation": "Argument I directly links vocational education with youth employment and industry demands (Strong). Argument II is a superficial comparison (\"other countries do not do it\") without examining domestic merit (Weak).",
+          "solutionSteps": "Step 1: Check Argument I: Is it logically sound, relevant, and supported by facts/principles?\nStep 2: Check Argument II: Is it an unsupported opinion, mere comparison, or substantial point?\nStep 3: A strong argument must be both important and directly relevant.\nStep 4: Select Only argument I is strong.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "SSC CGL"
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Statement & Argument Practice Q7: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "Statement:\nShould corporate organizations encourage permanent work-from-home options for digital roles?\n\nArguments:\nI. Yes, because it eliminates lengthy daily commutes, reduces urban traffic congestion, and provides flexible work-life integration.\nII. No, because employees will only watch movies and sleep during working hours.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Neither argument I nor II is strong",
+            "Only argument II is strong",
+            "Both argument I and II are strong",
+            "Only argument I is strong"
           ],
           "correctIndex": 3,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Statement & Argument. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Arguments based on personal prejudice or cynical assumptions are weak.",
+          "explanation": "Argument I cites well-documented benefits for traffic, environment, and flexibility (Strong). Argument II makes an unsubstantiated, disparaging assumption about employee integrity (Weak).",
+          "solutionSteps": "Step 1: Check Argument I: Is it logically sound, relevant, and supported by facts/principles?\nStep 2: Check Argument II: Is it an unsupported opinion, mere comparison, or substantial point?\nStep 3: A strong argument must be both important and directly relevant.\nStep 4: Select Only argument I is strong.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "SSC CGL"
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Statement & Argument Practice Q8: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "Statement:\nShould vocational skill training be made compulsory in high schools?\n\nArguments:\nI. Yes, because practical vocational skills enhance youth employability and bridge the skill gap in technical industries.\nII. No, because other countries do not mandate vocational education in schools.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Only argument II is strong",
+            "Both argument I and II are strong",
+            "Neither argument I nor II is strong",
+            "Only argument I is strong"
+          ],
+          "correctIndex": 3,
+          "difficulty": "easy",
+          "hint": "Arguments based merely on what other countries do are universally considered weak in critical reasoning.",
+          "explanation": "Argument I directly links vocational education with youth employment and industry demands (Strong). Argument II is a superficial comparison (\"other countries do not do it\") without examining domestic merit (Weak).",
+          "solutionSteps": "Step 1: Check Argument I: Is it logically sound, relevant, and supported by facts/principles?\nStep 2: Check Argument II: Is it an unsupported opinion, mere comparison, or substantial point?\nStep 3: A strong argument must be both important and directly relevant.\nStep 4: Select Only argument I is strong.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Statement:\nShould corporate organizations encourage permanent work-from-home options for digital roles?\n\nArguments:\nI. Yes, because it eliminates lengthy daily commutes, reduces urban traffic congestion, and provides flexible work-life integration.\nII. No, because employees will only watch movies and sleep during working hours.",
+          "options": [
+            "Only argument I is strong",
+            "Both argument I and II are strong",
+            "Only argument II is strong",
+            "Neither argument I nor II is strong"
           ],
           "correctIndex": 0,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Statement & Argument. Work through the problem step by step using the shortcuts taught in this topic.",
+          "difficulty": "easy",
+          "hint": "Arguments based on personal prejudice or cynical assumptions are weak.",
+          "explanation": "Argument I cites well-documented benefits for traffic, environment, and flexibility (Strong). Argument II makes an unsubstantiated, disparaging assumption about employee integrity (Weak).",
+          "solutionSteps": "Step 1: Check Argument I: Is it logically sound, relevant, and supported by facts/principles?\nStep 2: Check Argument II: Is it an unsupported opinion, mere comparison, or substantial point?\nStep 3: A strong argument must be both important and directly relevant.\nStep 4: Select Only argument I is strong.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "SSC CGL"
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Statement & Argument Practice Q9: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "Statement:\nShould single-use plastics be completely banned across the country?\n\nArguments:\nI. Yes, because single-use plastics are non-biodegradable, choke municipal drainage systems, and severely pollute marine ecosystems.\nII. No, because millions of small vendors rely on cheap plastic packaging and need affordable, accessible eco-friendly alternatives before a sudden blanket ban.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Only argument II is strong",
+            "Both argument I and II are strong",
+            "Neither argument I nor II is strong",
+            "Only argument I is strong"
           ],
           "correctIndex": 1,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Statement & Argument. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "A strong argument is realistic, directly addresses the core issue, and is based on established public welfare or socio-economic realities.",
+          "explanation": "Argument I presents a vital environmental imperative backed by recognized ecological facts. Argument II raises a legitimate socio-economic concern regarding livelihood impact and alternative supply. Both arguments are logical, substantial, and strong.",
+          "solutionSteps": "Step 1: Check Argument I: Is it logically sound, relevant, and supported by facts/principles?\nStep 2: Check Argument II: Is it an unsupported opinion, mere comparison, or substantial point?\nStep 3: A strong argument must be both important and directly relevant.\nStep 4: Select Both argument I and II are strong.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "SSC CGL"
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Statement & Argument Practice Q10: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "Statement:\nShould the government privatize all loss-making public sector enterprises?\n\nArguments:\nI. Yes, because persistent budgetary bailouts of inefficient units divert scarce public funds from vital healthcare and primary education.\nII. No, because private corporations never prioritize public interest or affordable access in essential services.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 2,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Statement & Argument. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "SSC CGL"
-          ]
-        },
-        {
-          "questionText": "Statement & Argument Practice Q11: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Only argument II is strong",
+            "Both argument I and II are strong",
+            "Neither argument I nor II is strong",
+            "Only argument I is strong"
           ],
           "correctIndex": 3,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Statement & Argument. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Watch out for sweeping generalizations using extreme words like \"never\" or \"always\".",
+          "explanation": "Argument I is strong because public expenditure efficiency directly concerns fiscal prudence. Argument II relies on a biased, sweeping generalization (\"private corporations never...\") and is weak.",
+          "solutionSteps": "Step 1: Check Argument I: Is it logically sound, relevant, and supported by facts/principles?\nStep 2: Check Argument II: Is it an unsupported opinion, mere comparison, or substantial point?\nStep 3: A strong argument must be both important and directly relevant.\nStep 4: Select Only argument I is strong.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "SSC CGL"
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Statement & Argument Practice Q12: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "Statement:\nShould single-use plastics be completely banned across the country?\n\nArguments:\nI. Yes, because single-use plastics are non-biodegradable, choke municipal drainage systems, and severely pollute marine ecosystems.\nII. No, because millions of small vendors rely on cheap plastic packaging and need affordable, accessible eco-friendly alternatives before a sudden blanket ban.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Neither argument I nor II is strong",
+            "Only argument I is strong",
+            "Only argument II is strong",
+            "Both argument I and II are strong"
+          ],
+          "correctIndex": 3,
+          "difficulty": "medium",
+          "hint": "A strong argument is realistic, directly addresses the core issue, and is based on established public welfare or socio-economic realities.",
+          "explanation": "Argument I presents a vital environmental imperative backed by recognized ecological facts. Argument II raises a legitimate socio-economic concern regarding livelihood impact and alternative supply. Both arguments are logical, substantial, and strong.",
+          "solutionSteps": "Step 1: Check Argument I: Is it logically sound, relevant, and supported by facts/principles?\nStep 2: Check Argument II: Is it an unsupported opinion, mere comparison, or substantial point?\nStep 3: A strong argument must be both important and directly relevant.\nStep 4: Select Both argument I and II are strong.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Statement:\nShould the government privatize all loss-making public sector enterprises?\n\nArguments:\nI. Yes, because persistent budgetary bailouts of inefficient units divert scarce public funds from vital healthcare and primary education.\nII. No, because private corporations never prioritize public interest or affordable access in essential services.",
+          "options": [
+            "Only argument I is strong",
+            "Neither argument I nor II is strong",
+            "Both argument I and II are strong",
+            "Only argument II is strong"
           ],
           "correctIndex": 0,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Statement & Argument. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Watch out for sweeping generalizations using extreme words like \"never\" or \"always\".",
+          "explanation": "Argument I is strong because public expenditure efficiency directly concerns fiscal prudence. Argument II relies on a biased, sweeping generalization (\"private corporations never...\") and is weak.",
+          "solutionSteps": "Step 1: Check Argument I: Is it logically sound, relevant, and supported by facts/principles?\nStep 2: Check Argument II: Is it an unsupported opinion, mere comparison, or substantial point?\nStep 3: A strong argument must be both important and directly relevant.\nStep 4: Select Only argument I is strong.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "SSC CGL"
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Statement & Argument Practice Q13: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "Statement:\nShould single-use plastics be completely banned across the country?\n\nArguments:\nI. Yes, because single-use plastics are non-biodegradable, choke municipal drainage systems, and severely pollute marine ecosystems.\nII. No, because millions of small vendors rely on cheap plastic packaging and need affordable, accessible eco-friendly alternatives before a sudden blanket ban.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Neither argument I nor II is strong",
+            "Both argument I and II are strong",
+            "Only argument I is strong",
+            "Only argument II is strong"
           ],
           "correctIndex": 1,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Statement & Argument. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "A strong argument is realistic, directly addresses the core issue, and is based on established public welfare or socio-economic realities.",
+          "explanation": "Argument I presents a vital environmental imperative backed by recognized ecological facts. Argument II raises a legitimate socio-economic concern regarding livelihood impact and alternative supply. Both arguments are logical, substantial, and strong.",
+          "solutionSteps": "Step 1: Check Argument I: Is it logically sound, relevant, and supported by facts/principles?\nStep 2: Check Argument II: Is it an unsupported opinion, mere comparison, or substantial point?\nStep 3: A strong argument must be both important and directly relevant.\nStep 4: Select Both argument I and II are strong.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "SSC CGL"
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Statement & Argument Practice Q14: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "Statement:\nShould the government privatize all loss-making public sector enterprises?\n\nArguments:\nI. Yes, because persistent budgetary bailouts of inefficient units divert scarce public funds from vital healthcare and primary education.\nII. No, because private corporations never prioritize public interest or affordable access in essential services.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 2,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Statement & Argument. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "SSC CGL"
-          ]
-        },
-        {
-          "questionText": "Statement & Argument Practice Q15: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Statement & Argument. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "SSC CGL"
-          ]
-        },
-        {
-          "questionText": "Statement & Argument Practice Q16: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Statement & Argument. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "SSC CGL"
-          ]
-        },
-        {
-          "questionText": "Statement & Argument Practice Q17: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Both argument I and II are strong",
+            "Only argument I is strong",
+            "Only argument II is strong",
+            "Neither argument I nor II is strong"
           ],
           "correctIndex": 1,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Statement & Argument. Work through the problem step by step using the shortcuts taught in this topic.",
+          "difficulty": "medium",
+          "hint": "Watch out for sweeping generalizations using extreme words like \"never\" or \"always\".",
+          "explanation": "Argument I is strong because public expenditure efficiency directly concerns fiscal prudence. Argument II relies on a biased, sweeping generalization (\"private corporations never...\") and is weak.",
+          "solutionSteps": "Step 1: Check Argument I: Is it logically sound, relevant, and supported by facts/principles?\nStep 2: Check Argument II: Is it an unsupported opinion, mere comparison, or substantial point?\nStep 3: A strong argument must be both important and directly relevant.\nStep 4: Select Only argument I is strong.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "SSC CGL"
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Statement & Argument Practice Q18: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "Statement:\nShould single-use plastics be completely banned across the country?\n\nArguments:\nI. Yes, because single-use plastics are non-biodegradable, choke municipal drainage systems, and severely pollute marine ecosystems.\nII. No, because millions of small vendors rely on cheap plastic packaging and need affordable, accessible eco-friendly alternatives before a sudden blanket ban.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 2,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Statement & Argument. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "SSC CGL"
-          ]
-        },
-        {
-          "questionText": "Statement & Argument Practice Q19: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Only argument II is strong",
+            "Neither argument I nor II is strong",
+            "Only argument I is strong",
+            "Both argument I and II are strong"
           ],
           "correctIndex": 3,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Statement & Argument. Work through the problem step by step using the shortcuts taught in this topic.",
+          "difficulty": "medium",
+          "hint": "A strong argument is realistic, directly addresses the core issue, and is based on established public welfare or socio-economic realities.",
+          "explanation": "Argument I presents a vital environmental imperative backed by recognized ecological facts. Argument II raises a legitimate socio-economic concern regarding livelihood impact and alternative supply. Both arguments are logical, substantial, and strong.",
+          "solutionSteps": "Step 1: Check Argument I: Is it logically sound, relevant, and supported by facts/principles?\nStep 2: Check Argument II: Is it an unsupported opinion, mere comparison, or substantial point?\nStep 3: A strong argument must be both important and directly relevant.\nStep 4: Select Both argument I and II are strong.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "SSC CGL"
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Statement & Argument Practice Q20: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "Statement:\nShould the government privatize all loss-making public sector enterprises?\n\nArguments:\nI. Yes, because persistent budgetary bailouts of inefficient units divert scarce public funds from vital healthcare and primary education.\nII. No, because private corporations never prioritize public interest or affordable access in essential services.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Both argument I and II are strong",
+            "Neither argument I nor II is strong",
+            "Only argument II is strong",
+            "Only argument I is strong"
+          ],
+          "correctIndex": 3,
+          "difficulty": "medium",
+          "hint": "Watch out for sweeping generalizations using extreme words like \"never\" or \"always\".",
+          "explanation": "Argument I is strong because public expenditure efficiency directly concerns fiscal prudence. Argument II relies on a biased, sweeping generalization (\"private corporations never...\") and is weak.",
+          "solutionSteps": "Step 1: Check Argument I: Is it logically sound, relevant, and supported by facts/principles?\nStep 2: Check Argument II: Is it an unsupported opinion, mere comparison, or substantial point?\nStep 3: A strong argument must be both important and directly relevant.\nStep 4: Select Only argument I is strong.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Statement:\nShould vocational skill training be made compulsory in high schools?\n\nArguments:\nI. Yes, because practical vocational skills enhance youth employability and bridge the skill gap in technical industries.\nII. No, because other countries do not mandate vocational education in schools.",
+          "options": [
+            "Only argument I is strong",
+            "Neither argument I nor II is strong",
+            "Only argument II is strong",
+            "Both argument I and II are strong"
           ],
           "correctIndex": 0,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Statement & Argument. Work through the problem step by step using the shortcuts taught in this topic.",
+          "difficulty": "easy",
+          "hint": "Arguments based merely on what other countries do are universally considered weak in critical reasoning.",
+          "explanation": "Argument I directly links vocational education with youth employment and industry demands (Strong). Argument II is a superficial comparison (\"other countries do not do it\") without examining domestic merit (Weak).",
+          "solutionSteps": "Step 1: Check Argument I: Is it logically sound, relevant, and supported by facts/principles?\nStep 2: Check Argument II: Is it an unsupported opinion, mere comparison, or substantial point?\nStep 3: A strong argument must be both important and directly relevant.\nStep 4: Select Only argument I is strong.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "SSC CGL"
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Statement:\nShould corporate organizations encourage permanent work-from-home options for digital roles?\n\nArguments:\nI. Yes, because it eliminates lengthy daily commutes, reduces urban traffic congestion, and provides flexible work-life integration.\nII. No, because employees will only watch movies and sleep during working hours.",
+          "options": [
+            "Only argument II is strong",
+            "Only argument I is strong",
+            "Neither argument I nor II is strong",
+            "Both argument I and II are strong"
+          ],
+          "correctIndex": 1,
+          "difficulty": "easy",
+          "hint": "Arguments based on personal prejudice or cynical assumptions are weak.",
+          "explanation": "Argument I cites well-documented benefits for traffic, environment, and flexibility (Strong). Argument II makes an unsubstantiated, disparaging assumption about employee integrity (Weak).",
+          "solutionSteps": "Step 1: Check Argument I: Is it logically sound, relevant, and supported by facts/principles?\nStep 2: Check Argument II: Is it an unsupported opinion, mere comparison, or substantial point?\nStep 3: A strong argument must be both important and directly relevant.\nStep 4: Select Only argument I is strong.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Statement:\nShould single-use plastics be completely banned across the country?\n\nArguments:\nI. Yes, because single-use plastics are non-biodegradable, choke municipal drainage systems, and severely pollute marine ecosystems.\nII. No, because millions of small vendors rely on cheap plastic packaging and need affordable, accessible eco-friendly alternatives before a sudden blanket ban.",
+          "options": [
+            "Neither argument I nor II is strong",
+            "Only argument II is strong",
+            "Only argument I is strong",
+            "Both argument I and II are strong"
+          ],
+          "correctIndex": 3,
+          "difficulty": "medium",
+          "hint": "A strong argument is realistic, directly addresses the core issue, and is based on established public welfare or socio-economic realities.",
+          "explanation": "Argument I presents a vital environmental imperative backed by recognized ecological facts. Argument II raises a legitimate socio-economic concern regarding livelihood impact and alternative supply. Both arguments are logical, substantial, and strong.",
+          "solutionSteps": "Step 1: Check Argument I: Is it logically sound, relevant, and supported by facts/principles?\nStep 2: Check Argument II: Is it an unsupported opinion, mere comparison, or substantial point?\nStep 3: A strong argument must be both important and directly relevant.\nStep 4: Select Both argument I and II are strong.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Statement:\nShould vocational skill training be made compulsory in high schools?\n\nArguments:\nI. Yes, because practical vocational skills enhance youth employability and bridge the skill gap in technical industries.\nII. No, because other countries do not mandate vocational education in schools.",
+          "options": [
+            "Neither argument I nor II is strong",
+            "Only argument I is strong",
+            "Only argument II is strong",
+            "Both argument I and II are strong"
+          ],
+          "correctIndex": 1,
+          "difficulty": "easy",
+          "hint": "Arguments based merely on what other countries do are universally considered weak in critical reasoning.",
+          "explanation": "Argument I directly links vocational education with youth employment and industry demands (Strong). Argument II is a superficial comparison (\"other countries do not do it\") without examining domestic merit (Weak).",
+          "solutionSteps": "Step 1: Check Argument I: Is it logically sound, relevant, and supported by facts/principles?\nStep 2: Check Argument II: Is it an unsupported opinion, mere comparison, or substantial point?\nStep 3: A strong argument must be both important and directly relevant.\nStep 4: Select Only argument I is strong.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Statement:\nShould the government privatize all loss-making public sector enterprises?\n\nArguments:\nI. Yes, because persistent budgetary bailouts of inefficient units divert scarce public funds from vital healthcare and primary education.\nII. No, because private corporations never prioritize public interest or affordable access in essential services.",
+          "options": [
+            "Both argument I and II are strong",
+            "Only argument I is strong",
+            "Neither argument I nor II is strong",
+            "Only argument II is strong"
+          ],
+          "correctIndex": 1,
+          "difficulty": "medium",
+          "hint": "Watch out for sweeping generalizations using extreme words like \"never\" or \"always\".",
+          "explanation": "Argument I is strong because public expenditure efficiency directly concerns fiscal prudence. Argument II relies on a biased, sweeping generalization (\"private corporations never...\") and is weak.",
+          "solutionSteps": "Step 1: Check Argument I: Is it logically sound, relevant, and supported by facts/principles?\nStep 2: Check Argument II: Is it an unsupported opinion, mere comparison, or substantial point?\nStep 3: A strong argument must be both important and directly relevant.\nStep 4: Select Only argument I is strong.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Statement:\nShould corporate organizations encourage permanent work-from-home options for digital roles?\n\nArguments:\nI. Yes, because it eliminates lengthy daily commutes, reduces urban traffic congestion, and provides flexible work-life integration.\nII. No, because employees will only watch movies and sleep during working hours.",
+          "options": [
+            "Only argument II is strong",
+            "Both argument I and II are strong",
+            "Neither argument I nor II is strong",
+            "Only argument I is strong"
+          ],
+          "correctIndex": 3,
+          "difficulty": "easy",
+          "hint": "Arguments based on personal prejudice or cynical assumptions are weak.",
+          "explanation": "Argument I cites well-documented benefits for traffic, environment, and flexibility (Strong). Argument II makes an unsubstantiated, disparaging assumption about employee integrity (Weak).",
+          "solutionSteps": "Step 1: Check Argument I: Is it logically sound, relevant, and supported by facts/principles?\nStep 2: Check Argument II: Is it an unsupported opinion, mere comparison, or substantial point?\nStep 3: A strong argument must be both important and directly relevant.\nStep 4: Select Only argument I is strong.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         }
       ]

@@ -37,343 +37,483 @@
       ],
       "practiceQuestions": [
         {
-          "questionText": "Letter Coding Practice Q1: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "In a certain code language, if \"APPLE\" is written as \"BQQMF\", how will \"FLAME\" be written in that language?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Letter Coding. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "IBPS PO",
-            "IBPS Clerk"
-          ]
-        },
-        {
-          "questionText": "Letter Coding Practice Q2: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 2,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Letter Coding. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "IBPS PO",
-            "IBPS Clerk"
-          ]
-        },
-        {
-          "questionText": "Letter Coding Practice Q3: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Letter Coding. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "IBPS PO",
-            "IBPS Clerk"
-          ]
-        },
-        {
-          "questionText": "Letter Coding Practice Q4: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "GMBNF",
+            "EKZLD",
+            "HNCOG",
+            "FNBMG"
           ],
           "correctIndex": 0,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Letter Coding. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Compare the positions of the letters in the given word and its code (+1 shift).",
+          "explanation": "Each letter is shifted forward by 1 position in alphabetical order (+1). Thus, FLAME becomes GMBNF.",
+          "solutionSteps": "Step 1: Analyze mapping: APPLE -> BQQMF. Each letter is replaced by its immediate next letter (+1).\nStep 2: Apply +1 shift to each letter of \"FLAME\":\n  F + 1 = G\n  L + 1 = M\n  A + 1 = B\n  M + 1 = N\n  E + 1 = F\nStep 3: Combining letters yields \"GMBNF\".",
           "examTags": [
             "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
-            "IBPS Clerk"
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Letter Coding Practice Q5: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "In a code system, \"BRAIN\" is coded as \"YIZRM\". What is the code for \"GHOST\"?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "TSLHG",
+            "HIPTU",
+            "GHLST",
+            "FGNRS"
           ],
-          "correctIndex": 1,
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "hint": "Check if each letter is replaced by its corresponding opposite letter in the alphabet.",
+          "explanation": "Each letter is substituted by its opposite letter where sum of alphabetical positions is 27. Therefore, GHOST is coded as TSLHG.",
+          "solutionSteps": "Step 1: Check reverse alphabet relationship: A(1) <-> Z(26), B(2) <-> Y(25).\nStep 2: For each letter in GHOST, subtract its position from 27 to find the corresponding reverse letter.\nStep 3: Resulting word is \"TSLHG\".",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "In a specific code language, \"DREAM\" is written as \"FQGZO\". How is \"LIGHT\" coded in that language?",
+          "options": [
+            "NHIGV",
+            "MJHIU",
+            "VGIHN",
+            "KHFGS"
+          ],
+          "correctIndex": 0,
+          "difficulty": "hard",
+          "hint": "Check the shift distance for odd-indexed versus even-indexed letters in the word.",
+          "explanation": "The pattern applies alternating shifts: +2 to letters at odd positions and -1 to letters at even positions. Thus, LIGHT becomes NHIGV.",
+          "solutionSteps": "Step 1: Check letter 1 (+2) and letter 2 (-1).\nStep 2: Apply +2, -1, +2, -1 pattern sequentially to LIGHT.\nStep 3: Assembled code is NHIGV.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "In a certain code language, if \"EARTH\" is written as \"FBSUI\", how will \"MAGIC\" be written in that language?",
+          "options": [
+            "NBHJD",
+            "LZFHB",
+            "OCIKE",
+            "DJHBN"
+          ],
+          "correctIndex": 0,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Letter Coding. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Compare the positions of the letters in the given word and its code (+1 shift).",
+          "explanation": "Each letter is shifted forward by 1 position in alphabetical order (+1). Thus, MAGIC becomes NBHJD.",
+          "solutionSteps": "Step 1: Analyze mapping: EARTH -> FBSUI. Each letter is replaced by its immediate next letter (+1).\nStep 2: Apply +1 shift to each letter of \"MAGIC\":\n  M + 1 = N\n  A + 1 = B\n  G + 1 = H\n  I + 1 = J\n  C + 1 = D\nStep 3: Combining letters yields \"NBHJD\".",
           "examTags": [
             "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
-            "IBPS Clerk"
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Letter Coding Practice Q6: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "In a code system, \"FLAME\" is coded as \"UOZNV\". What is the code for \"NIGHT\"?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "MRTSG",
+            "OJHIU",
+            "GSTRM",
+            "MHFGS"
           ],
-          "correctIndex": 2,
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "hint": "Check if each letter is replaced by its corresponding opposite letter in the alphabet.",
+          "explanation": "Each letter is substituted by its opposite letter where sum of alphabetical positions is 27. Therefore, NIGHT is coded as MRTSG.",
+          "solutionSteps": "Step 1: Check reverse alphabet relationship: A(1) <-> Z(26), B(2) <-> Y(25).\nStep 2: For each letter in NIGHT, subtract its position from 27 to find the corresponding reverse letter.\nStep 3: Resulting word is \"MRTSG\".",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "In a specific code language, \"HEART\" is written as \"JDCQV\". How is \"PLANT\" coded in that language?",
+          "options": [
+            "RKCMV",
+            "QMBOU",
+            "VMCKR",
+            "OK@MS"
+          ],
+          "correctIndex": 0,
+          "difficulty": "hard",
+          "hint": "Check the shift distance for odd-indexed versus even-indexed letters in the word.",
+          "explanation": "The pattern applies alternating shifts: +2 to letters at odd positions and -1 to letters at even positions. Thus, PLANT becomes RKCMV.",
+          "solutionSteps": "Step 1: Check letter 1 (+2) and letter 2 (-1).\nStep 2: Apply +2, -1, +2, -1 pattern sequentially to PLANT.\nStep 3: Assembled code is RKCMV.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "In a certain code language, if \"LIGHT\" is written as \"MJHIU\", how will \"QUEEN\" be written in that language?",
+          "options": [
+            "RVFFO",
+            "PTDDM",
+            "SWGGP",
+            "OFFVR"
+          ],
+          "correctIndex": 0,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Letter Coding. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Compare the positions of the letters in the given word and its code (+1 shift).",
+          "explanation": "Each letter is shifted forward by 1 position in alphabetical order (+1). Thus, QUEEN becomes RVFFO.",
+          "solutionSteps": "Step 1: Analyze mapping: LIGHT -> MJHIU. Each letter is replaced by its immediate next letter (+1).\nStep 2: Apply +1 shift to each letter of \"QUEEN\":\n  Q + 1 = R\n  U + 1 = V\n  E + 1 = F\n  E + 1 = F\n  N + 1 = O\nStep 3: Combining letters yields \"RVFFO\".",
           "examTags": [
             "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
-            "IBPS Clerk"
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Letter Coding Practice Q7: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "In a code system, \"MAGIC\" is coded as \"NZTRX\". What is the code for \"RIVER\"?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "IREVI",
+            "SJWFS",
+            "IVERI",
+            "QHUDQ"
           ],
-          "correctIndex": 3,
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "hint": "Check if each letter is replaced by its corresponding opposite letter in the alphabet.",
+          "explanation": "Each letter is substituted by its opposite letter where sum of alphabetical positions is 27. Therefore, RIVER is coded as IREVI.",
+          "solutionSteps": "Step 1: Check reverse alphabet relationship: A(1) <-> Z(26), B(2) <-> Y(25).\nStep 2: For each letter in RIVER, subtract its position from 27 to find the corresponding reverse letter.\nStep 3: Resulting word is \"IREVI\".",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "In a specific code language, \"OCEAN\" is written as \"QBGZP\". How is \"TIGER\" coded in that language?",
+          "options": [
+            "VHIDT",
+            "UJHFS",
+            "TDIHV",
+            "SHFDQ"
+          ],
+          "correctIndex": 0,
+          "difficulty": "hard",
+          "hint": "Check the shift distance for odd-indexed versus even-indexed letters in the word.",
+          "explanation": "The pattern applies alternating shifts: +2 to letters at odd positions and -1 to letters at even positions. Thus, TIGER becomes VHIDT.",
+          "solutionSteps": "Step 1: Check letter 1 (+2) and letter 2 (-1).\nStep 2: Apply +2, -1, +2, -1 pattern sequentially to TIGER.\nStep 3: Assembled code is VHIDT.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "In a certain code language, if \"PLANT\" is written as \"QMBOU\", how will \"WATER\" be written in that language?",
+          "options": [
+            "XBUFS",
+            "VZSDQ",
+            "YCVGT",
+            "SFUBX"
+          ],
+          "correctIndex": 0,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Letter Coding. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Compare the positions of the letters in the given word and its code (+1 shift).",
+          "explanation": "Each letter is shifted forward by 1 position in alphabetical order (+1). Thus, WATER becomes XBUFS.",
+          "solutionSteps": "Step 1: Analyze mapping: PLANT -> QMBOU. Each letter is replaced by its immediate next letter (+1).\nStep 2: Apply +1 shift to each letter of \"WATER\":\n  W + 1 = X\n  A + 1 = B\n  T + 1 = U\n  E + 1 = F\n  R + 1 = S\nStep 3: Combining letters yields \"XBUFS\".",
           "examTags": [
             "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
-            "IBPS Clerk"
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Letter Coding Practice Q8: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "In a code system, \"QUEEN\" is coded as \"JFVVM\". What is the code for \"YOUTH\"?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "BLFGS",
+            "ZPVUI",
+            "SGFLB",
+            "XNTSG"
           ],
           "correctIndex": 0,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Letter Coding. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Check if each letter is replaced by its corresponding opposite letter in the alphabet.",
+          "explanation": "Each letter is substituted by its opposite letter where sum of alphabetical positions is 27. Therefore, YOUTH is coded as BLFGS.",
+          "solutionSteps": "Step 1: Check reverse alphabet relationship: A(1) <-> Z(26), B(2) <-> Y(25).\nStep 2: For each letter in YOUTH, subtract its position from 27 to find the corresponding reverse letter.\nStep 3: Resulting word is \"BLFGS\".",
           "examTags": [
             "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
-            "IBPS Clerk"
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Letter Coding Practice Q9: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "In a specific code language, \"STORM\" is written as \"USQQO\". How is \"CHAIR\" coded in that language?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Letter Coding. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "IBPS PO",
-            "IBPS Clerk"
-          ]
-        },
-        {
-          "questionText": "Letter Coding Practice Q10: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 2,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Letter Coding. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "IBPS PO",
-            "IBPS Clerk"
-          ]
-        },
-        {
-          "questionText": "Letter Coding Practice Q11: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Letter Coding. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "IBPS PO",
-            "IBPS Clerk"
-          ]
-        },
-        {
-          "questionText": "Letter Coding Practice Q12: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Letter Coding. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "IBPS PO",
-            "IBPS Clerk"
-          ]
-        },
-        {
-          "questionText": "Letter Coding Practice Q13: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Letter Coding. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "IBPS PO",
-            "IBPS Clerk"
-          ]
-        },
-        {
-          "questionText": "Letter Coding Practice Q14: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 2,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Letter Coding. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "IBPS PO",
-            "IBPS Clerk"
-          ]
-        },
-        {
-          "questionText": "Letter Coding Practice Q15: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Letter Coding. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "IBPS PO",
-            "IBPS Clerk"
-          ]
-        },
-        {
-          "questionText": "Letter Coding Practice Q16: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "EGCHT",
+            "DIBJS",
+            "THCGE",
+            "BG@HQ"
           ],
           "correctIndex": 0,
           "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Letter Coding. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Check the shift distance for odd-indexed versus even-indexed letters in the word.",
+          "explanation": "The pattern applies alternating shifts: +2 to letters at odd positions and -1 to letters at even positions. Thus, CHAIR becomes EGCHT.",
+          "solutionSteps": "Step 1: Check letter 1 (+2) and letter 2 (-1).\nStep 2: Apply +2, -1, +2, -1 pattern sequentially to CHAIR.\nStep 3: Assembled code is EGCHT.",
           "examTags": [
             "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
-            "IBPS Clerk"
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Letter Coding Practice Q17: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "In a certain code language, if \"TIGER\" is written as \"UJHFS\", how will \"TABLE\" be written in that language?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "UBCMF",
+            "SZAKD",
+            "VCDNG",
+            "FMCBU"
           ],
-          "correctIndex": 1,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Letter Coding. Work through the problem step by step using the shortcuts taught in this topic.",
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "hint": "Compare the positions of the letters in the given word and its code (+1 shift).",
+          "explanation": "Each letter is shifted forward by 1 position in alphabetical order (+1). Thus, TABLE becomes UBCMF.",
+          "solutionSteps": "Step 1: Analyze mapping: TIGER -> UJHFS. Each letter is replaced by its immediate next letter (+1).\nStep 2: Apply +1 shift to each letter of \"TABLE\":\n  T + 1 = U\n  A + 1 = B\n  B + 1 = C\n  L + 1 = M\n  E + 1 = F\nStep 3: Combining letters yields \"UBCMF\".",
           "examTags": [
             "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
-            "IBPS Clerk"
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Letter Coding Practice Q18: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "In a code system, \"WATER\" is coded as \"DZGVI\". What is the code for \"SOUND\"?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "HLFMW",
+            "TPVOE",
+            "WMFLH",
+            "RNTMC"
           ],
-          "correctIndex": 2,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Letter Coding. Work through the problem step by step using the shortcuts taught in this topic.",
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "hint": "Check if each letter is replaced by its corresponding opposite letter in the alphabet.",
+          "explanation": "Each letter is substituted by its opposite letter where sum of alphabetical positions is 27. Therefore, SOUND is coded as HLFMW.",
+          "solutionSteps": "Step 1: Check reverse alphabet relationship: A(1) <-> Z(26), B(2) <-> Y(25).\nStep 2: For each letter in SOUND, subtract its position from 27 to find the corresponding reverse letter.\nStep 3: Resulting word is \"HLFMW\".",
           "examTags": [
             "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
-            "IBPS Clerk"
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Letter Coding Practice Q19: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "In a specific code language, \"ZEBRA\" is written as \"BDDQC\". How is \"PRIDE\" coded in that language?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Letter Coding. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "IBPS PO",
-            "IBPS Clerk"
-          ]
-        },
-        {
-          "questionText": "Letter Coding Practice Q20: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "RQKCG",
+            "QSJEF",
+            "GCKQR",
+            "OQHCD"
           ],
           "correctIndex": 0,
           "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Letter Coding. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Check the shift distance for odd-indexed versus even-indexed letters in the word.",
+          "explanation": "The pattern applies alternating shifts: +2 to letters at odd positions and -1 to letters at even positions. Thus, PRIDE becomes RQKCG.",
+          "solutionSteps": "Step 1: Check letter 1 (+2) and letter 2 (-1).\nStep 2: Apply +2, -1, +2, -1 pattern sequentially to PRIDE.\nStep 3: Assembled code is RQKCG.",
           "examTags": [
             "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
-            "IBPS Clerk"
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "In a certain code language, if \"CHAIR\" is written as \"DIBJS\", how will \"POWER\" be written in that language?",
+          "options": [
+            "QPXFS",
+            "ONVDQ",
+            "RQYGT",
+            "SFXPQ"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "hint": "Compare the positions of the letters in the given word and its code (+1 shift).",
+          "explanation": "Each letter is shifted forward by 1 position in alphabetical order (+1). Thus, POWER becomes QPXFS.",
+          "solutionSteps": "Step 1: Analyze mapping: CHAIR -> DIBJS. Each letter is replaced by its immediate next letter (+1).\nStep 2: Apply +1 shift to each letter of \"POWER\":\n  P + 1 = Q\n  O + 1 = P\n  W + 1 = X\n  E + 1 = F\n  R + 1 = S\nStep 3: Combining letters yields \"QPXFS\".",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "In a code system, \"TABLE\" is coded as \"GZYOV\". What is the code for \"PEACE\"?",
+          "options": [
+            "KVZXV",
+            "QFBDF",
+            "VXZVK",
+            "ODZBD"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "hint": "Check if each letter is replaced by its corresponding opposite letter in the alphabet.",
+          "explanation": "Each letter is substituted by its opposite letter where sum of alphabetical positions is 27. Therefore, PEACE is coded as KVZXV.",
+          "solutionSteps": "Step 1: Check reverse alphabet relationship: A(1) <-> Z(26), B(2) <-> Y(25).\nStep 2: For each letter in PEACE, subtract its position from 27 to find the corresponding reverse letter.\nStep 3: Resulting word is \"KVZXV\".",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "In a specific code language, \"FORCE\" is written as \"HNTBG\". How is \"HONOR\" coded in that language?",
+          "options": [
+            "JNPNT",
+            "IPOPS",
+            "TNPNJ",
+            "GNMNQ"
+          ],
+          "correctIndex": 0,
+          "difficulty": "hard",
+          "hint": "Check the shift distance for odd-indexed versus even-indexed letters in the word.",
+          "explanation": "The pattern applies alternating shifts: +2 to letters at odd positions and -1 to letters at even positions. Thus, HONOR becomes JNPNT.",
+          "solutionSteps": "Step 1: Check letter 1 (+2) and letter 2 (-1).\nStep 2: Apply +2, -1, +2, -1 pattern sequentially to HONOR.\nStep 3: Assembled code is JNPNT.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "In a certain code language, if \"PRIDE\" is written as \"QSJEF\", how will \"GRACE\" be written in that language?",
+          "options": [
+            "HSBDF",
+            "FQZBD",
+            "ITCEG",
+            "FDBSH"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "hint": "Compare the positions of the letters in the given word and its code (+1 shift).",
+          "explanation": "Each letter is shifted forward by 1 position in alphabetical order (+1). Thus, GRACE becomes HSBDF.",
+          "solutionSteps": "Step 1: Analyze mapping: PRIDE -> QSJEF. Each letter is replaced by its immediate next letter (+1).\nStep 2: Apply +1 shift to each letter of \"GRACE\":\n  G + 1 = H\n  R + 1 = S\n  A + 1 = B\n  C + 1 = D\n  E + 1 = F\nStep 3: Combining letters yields \"HSBDF\".",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "In a code system, \"POWER\" is coded as \"KLDVI\". What is the code for \"FAITH\"?",
+          "options": [
+            "UZRGS",
+            "GBJUI",
+            "SGRZU",
+            "EZHSG"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "hint": "Check if each letter is replaced by its corresponding opposite letter in the alphabet.",
+          "explanation": "Each letter is substituted by its opposite letter where sum of alphabetical positions is 27. Therefore, FAITH is coded as UZRGS.",
+          "solutionSteps": "Step 1: Check reverse alphabet relationship: A(1) <-> Z(26), B(2) <-> Y(25).\nStep 2: For each letter in FAITH, subtract its position from 27 to find the corresponding reverse letter.\nStep 3: Resulting word is \"UZRGS\".",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         }
       ]
@@ -409,343 +549,483 @@
       ],
       "practiceQuestions": [
         {
-          "questionText": "Number/Symbol Coding Practice Q1: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "If \"CLOCK\" is coded as 44, then what will be the code for \"HEART\"?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Number/Symbol Coding. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "IBPS PO",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Number/Symbol Coding Practice Q2: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 2,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Number/Symbol Coding. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "IBPS PO",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Number/Symbol Coding Practice Q3: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Number/Symbol Coding. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "IBPS PO",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Number/Symbol Coding Practice Q4: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Number/Symbol Coding. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "IBPS PO",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Number/Symbol Coding Practice Q5: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Number/Symbol Coding. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "IBPS PO",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Number/Symbol Coding Practice Q6: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 2,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Number/Symbol Coding. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "IBPS PO",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Number/Symbol Coding Practice Q7: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Number/Symbol Coding. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "IBPS PO",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Number/Symbol Coding Practice Q8: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "52",
+            "57",
+            "49",
+            "62"
           ],
           "correctIndex": 0,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Number/Symbol Coding. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Add the alphabetical rank positions of each letter in the word (A=1, B=2, ... Z=26).",
+          "explanation": "The code is the arithmetic sum of alphabetical positions of the letters. For HEART: H(8) + E(5) + A(1) + R(18) + T(20) = 52.",
+          "solutionSteps": "Step 1: Calculate the position values for CLOCK and verify that the sum equals 44.\nStep 2: Find positions for letters in HEART: H=8, E=5, A=1, R=18, T=20.\nStep 3: Sum the positions to get 52.",
           "examTags": [
             "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
-            "RRB NTPC"
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Number/Symbol Coding Practice Q9: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "If \"GHOST\" is coded as 69, then what will be the code for \"OCEAN\"?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Number/Symbol Coding. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "IBPS PO",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Number/Symbol Coding Practice Q10: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 2,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Number/Symbol Coding. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "IBPS PO",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Number/Symbol Coding Practice Q11: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Number/Symbol Coding. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "IBPS PO",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Number/Symbol Coding Practice Q12: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "38",
+            "43",
+            "35",
+            "48"
           ],
           "correctIndex": 0,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Number/Symbol Coding. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Add the alphabetical rank positions of each letter in the word (A=1, B=2, ... Z=26).",
+          "explanation": "The code is the arithmetic sum of alphabetical positions of the letters. For OCEAN: O(15) + C(3) + E(5) + A(1) + N(14) = 38.",
+          "solutionSteps": "Step 1: Calculate the position values for GHOST and verify that the sum equals 69.\nStep 2: Find positions for letters in OCEAN: O=15, C=3, E=5, A=1, N=14.\nStep 3: Sum the positions to get 38.",
           "examTags": [
             "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
-            "RRB NTPC"
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Number/Symbol Coding Practice Q13: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "If \"NIGHT\" is coded as 58, then what will be the code for \"STORM\"?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Number/Symbol Coding. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "IBPS PO",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Number/Symbol Coding Practice Q14: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 2,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Number/Symbol Coding. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "IBPS PO",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Number/Symbol Coding Practice Q15: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Number/Symbol Coding. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "IBPS PO",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Number/Symbol Coding Practice Q16: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "85",
+            "90",
+            "82",
+            "95"
           ],
           "correctIndex": 0,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Number/Symbol Coding. Work through the problem step by step using the shortcuts taught in this topic.",
+          "difficulty": "medium",
+          "hint": "Add the alphabetical rank positions of each letter in the word (A=1, B=2, ... Z=26).",
+          "explanation": "The code is the arithmetic sum of alphabetical positions of the letters. For STORM: S(19) + T(20) + O(15) + R(18) + M(13) = 85.",
+          "solutionSteps": "Step 1: Calculate the position values for NIGHT and verify that the sum equals 58.\nStep 2: Find positions for letters in STORM: S=19, T=20, O=15, R=18, M=13.\nStep 3: Sum the positions to get 85.",
           "examTags": [
             "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
-            "RRB NTPC"
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Number/Symbol Coding Practice Q17: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "If \"RIVER\" is coded as 72, then what will be the code for \"ZEBRA\"?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Number/Symbol Coding. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "IBPS PO",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Number/Symbol Coding Practice Q18: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 2,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Number/Symbol Coding. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "IBPS PO",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Number/Symbol Coding Practice Q19: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Number/Symbol Coding. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "IBPS PO",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Number/Symbol Coding Practice Q20: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "52",
+            "57",
+            "49",
+            "62"
           ],
           "correctIndex": 0,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Number/Symbol Coding. Work through the problem step by step using the shortcuts taught in this topic.",
+          "difficulty": "medium",
+          "hint": "Add the alphabetical rank positions of each letter in the word (A=1, B=2, ... Z=26).",
+          "explanation": "The code is the arithmetic sum of alphabetical positions of the letters. For ZEBRA: Z(26) + E(5) + B(2) + R(18) + A(1) = 52.",
+          "solutionSteps": "Step 1: Calculate the position values for RIVER and verify that the sum equals 72.\nStep 2: Find positions for letters in ZEBRA: Z=26, E=5, B=2, R=18, A=1.\nStep 3: Sum the positions to get 52.",
           "examTags": [
             "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
-            "RRB NTPC"
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "If \"YOUTH\" is coded as 89, then what will be the code for \"FORCE\"?",
+          "options": [
+            "47",
+            "52",
+            "44",
+            "57"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "hint": "Add the alphabetical rank positions of each letter in the word (A=1, B=2, ... Z=26).",
+          "explanation": "The code is the arithmetic sum of alphabetical positions of the letters. For FORCE: F(6) + O(15) + R(18) + C(3) + E(5) = 47.",
+          "solutionSteps": "Step 1: Calculate the position values for YOUTH and verify that the sum equals 89.\nStep 2: Find positions for letters in FORCE: F=6, O=15, R=18, C=3, E=5.\nStep 3: Sum the positions to get 47.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "If \"SOUND\" is coded as 73, then what will be the code for \"NOBLE\"?",
+          "options": [
+            "48",
+            "53",
+            "45",
+            "58"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "hint": "Add the alphabetical rank positions of each letter in the word (A=1, B=2, ... Z=26).",
+          "explanation": "The code is the arithmetic sum of alphabetical positions of the letters. For NOBLE: N(14) + O(15) + B(2) + L(12) + E(5) = 48.",
+          "solutionSteps": "Step 1: Calculate the position values for SOUND and verify that the sum equals 73.\nStep 2: Find positions for letters in NOBLE: N=14, O=15, B=2, L=12, E=5.\nStep 3: Sum the positions to get 48.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "If \"PEACE\" is coded as 30, then what will be the code for \"CROWN\"?",
+          "options": [
+            "73",
+            "78",
+            "70",
+            "83"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "hint": "Add the alphabetical rank positions of each letter in the word (A=1, B=2, ... Z=26).",
+          "explanation": "The code is the arithmetic sum of alphabetical positions of the letters. For CROWN: C(3) + R(18) + O(15) + W(23) + N(14) = 73.",
+          "solutionSteps": "Step 1: Calculate the position values for PEACE and verify that the sum equals 30.\nStep 2: Find positions for letters in CROWN: C=3, R=18, O=15, W=23, N=14.\nStep 3: Sum the positions to get 73.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "If \"FAITH\" is coded as 44, then what will be the code for \"DREAM\"?",
+          "options": [
+            "41",
+            "46",
+            "38",
+            "51"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "hint": "Add the alphabetical rank positions of each letter in the word (A=1, B=2, ... Z=26).",
+          "explanation": "The code is the arithmetic sum of alphabetical positions of the letters. For DREAM: D(4) + R(18) + E(5) + A(1) + M(13) = 41.",
+          "solutionSteps": "Step 1: Calculate the position values for FAITH and verify that the sum equals 44.\nStep 2: Find positions for letters in DREAM: D=4, R=18, E=5, A=1, M=13.\nStep 3: Sum the positions to get 41.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "If \"CLOCK\" is coded as 44, then what will be the code for \"HEART\"?",
+          "options": [
+            "52",
+            "57",
+            "49",
+            "62"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "hint": "Add the alphabetical rank positions of each letter in the word (A=1, B=2, ... Z=26).",
+          "explanation": "The code is the arithmetic sum of alphabetical positions of the letters. For HEART: H(8) + E(5) + A(1) + R(18) + T(20) = 52.",
+          "solutionSteps": "Step 1: Calculate the position values for CLOCK and verify that the sum equals 44.\nStep 2: Find positions for letters in HEART: H=8, E=5, A=1, R=18, T=20.\nStep 3: Sum the positions to get 52.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "If \"GHOST\" is coded as 69, then what will be the code for \"OCEAN\"?",
+          "options": [
+            "38",
+            "43",
+            "35",
+            "48"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "hint": "Add the alphabetical rank positions of each letter in the word (A=1, B=2, ... Z=26).",
+          "explanation": "The code is the arithmetic sum of alphabetical positions of the letters. For OCEAN: O(15) + C(3) + E(5) + A(1) + N(14) = 38.",
+          "solutionSteps": "Step 1: Calculate the position values for GHOST and verify that the sum equals 69.\nStep 2: Find positions for letters in OCEAN: O=15, C=3, E=5, A=1, N=14.\nStep 3: Sum the positions to get 38.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "If \"NIGHT\" is coded as 58, then what will be the code for \"STORM\"?",
+          "options": [
+            "85",
+            "90",
+            "82",
+            "95"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "hint": "Add the alphabetical rank positions of each letter in the word (A=1, B=2, ... Z=26).",
+          "explanation": "The code is the arithmetic sum of alphabetical positions of the letters. For STORM: S(19) + T(20) + O(15) + R(18) + M(13) = 85.",
+          "solutionSteps": "Step 1: Calculate the position values for NIGHT and verify that the sum equals 58.\nStep 2: Find positions for letters in STORM: S=19, T=20, O=15, R=18, M=13.\nStep 3: Sum the positions to get 85.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "If \"RIVER\" is coded as 72, then what will be the code for \"ZEBRA\"?",
+          "options": [
+            "52",
+            "57",
+            "49",
+            "62"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "hint": "Add the alphabetical rank positions of each letter in the word (A=1, B=2, ... Z=26).",
+          "explanation": "The code is the arithmetic sum of alphabetical positions of the letters. For ZEBRA: Z(26) + E(5) + B(2) + R(18) + A(1) = 52.",
+          "solutionSteps": "Step 1: Calculate the position values for RIVER and verify that the sum equals 72.\nStep 2: Find positions for letters in ZEBRA: Z=26, E=5, B=2, R=18, A=1.\nStep 3: Sum the positions to get 52.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "If \"YOUTH\" is coded as 89, then what will be the code for \"FORCE\"?",
+          "options": [
+            "47",
+            "52",
+            "44",
+            "57"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "hint": "Add the alphabetical rank positions of each letter in the word (A=1, B=2, ... Z=26).",
+          "explanation": "The code is the arithmetic sum of alphabetical positions of the letters. For FORCE: F(6) + O(15) + R(18) + C(3) + E(5) = 47.",
+          "solutionSteps": "Step 1: Calculate the position values for YOUTH and verify that the sum equals 89.\nStep 2: Find positions for letters in FORCE: F=6, O=15, R=18, C=3, E=5.\nStep 3: Sum the positions to get 47.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "If \"SOUND\" is coded as 73, then what will be the code for \"NOBLE\"?",
+          "options": [
+            "48",
+            "53",
+            "45",
+            "58"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "hint": "Add the alphabetical rank positions of each letter in the word (A=1, B=2, ... Z=26).",
+          "explanation": "The code is the arithmetic sum of alphabetical positions of the letters. For NOBLE: N(14) + O(15) + B(2) + L(12) + E(5) = 48.",
+          "solutionSteps": "Step 1: Calculate the position values for SOUND and verify that the sum equals 73.\nStep 2: Find positions for letters in NOBLE: N=14, O=15, B=2, L=12, E=5.\nStep 3: Sum the positions to get 48.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "If \"PEACE\" is coded as 30, then what will be the code for \"CROWN\"?",
+          "options": [
+            "73",
+            "78",
+            "70",
+            "83"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "hint": "Add the alphabetical rank positions of each letter in the word (A=1, B=2, ... Z=26).",
+          "explanation": "The code is the arithmetic sum of alphabetical positions of the letters. For CROWN: C(3) + R(18) + O(15) + W(23) + N(14) = 73.",
+          "solutionSteps": "Step 1: Calculate the position values for PEACE and verify that the sum equals 30.\nStep 2: Find positions for letters in CROWN: C=3, R=18, O=15, W=23, N=14.\nStep 3: Sum the positions to get 73.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "If \"FAITH\" is coded as 44, then what will be the code for \"DREAM\"?",
+          "options": [
+            "41",
+            "46",
+            "38",
+            "51"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "hint": "Add the alphabetical rank positions of each letter in the word (A=1, B=2, ... Z=26).",
+          "explanation": "The code is the arithmetic sum of alphabetical positions of the letters. For DREAM: D(4) + R(18) + E(5) + A(1) + M(13) = 41.",
+          "solutionSteps": "Step 1: Calculate the position values for FAITH and verify that the sum equals 44.\nStep 2: Find positions for letters in DREAM: D=4, R=18, E=5, A=1, M=13.\nStep 3: Sum the positions to get 41.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "If \"CLOCK\" is coded as 44, then what will be the code for \"HEART\"?",
+          "options": [
+            "52",
+            "57",
+            "49",
+            "62"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "hint": "Add the alphabetical rank positions of each letter in the word (A=1, B=2, ... Z=26).",
+          "explanation": "The code is the arithmetic sum of alphabetical positions of the letters. For HEART: H(8) + E(5) + A(1) + R(18) + T(20) = 52.",
+          "solutionSteps": "Step 1: Calculate the position values for CLOCK and verify that the sum equals 44.\nStep 2: Find positions for letters in HEART: H=8, E=5, A=1, R=18, T=20.\nStep 3: Sum the positions to get 52.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "If \"GHOST\" is coded as 69, then what will be the code for \"OCEAN\"?",
+          "options": [
+            "38",
+            "43",
+            "35",
+            "48"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "hint": "Add the alphabetical rank positions of each letter in the word (A=1, B=2, ... Z=26).",
+          "explanation": "The code is the arithmetic sum of alphabetical positions of the letters. For OCEAN: O(15) + C(3) + E(5) + A(1) + N(14) = 38.",
+          "solutionSteps": "Step 1: Calculate the position values for GHOST and verify that the sum equals 69.\nStep 2: Find positions for letters in OCEAN: O=15, C=3, E=5, A=1, N=14.\nStep 3: Sum the positions to get 38.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "If \"NIGHT\" is coded as 58, then what will be the code for \"STORM\"?",
+          "options": [
+            "85",
+            "90",
+            "82",
+            "95"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "hint": "Add the alphabetical rank positions of each letter in the word (A=1, B=2, ... Z=26).",
+          "explanation": "The code is the arithmetic sum of alphabetical positions of the letters. For STORM: S(19) + T(20) + O(15) + R(18) + M(13) = 85.",
+          "solutionSteps": "Step 1: Calculate the position values for NIGHT and verify that the sum equals 58.\nStep 2: Find positions for letters in STORM: S=19, T=20, O=15, R=18, M=13.\nStep 3: Sum the positions to get 85.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "If \"RIVER\" is coded as 72, then what will be the code for \"ZEBRA\"?",
+          "options": [
+            "52",
+            "57",
+            "49",
+            "62"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "hint": "Add the alphabetical rank positions of each letter in the word (A=1, B=2, ... Z=26).",
+          "explanation": "The code is the arithmetic sum of alphabetical positions of the letters. For ZEBRA: Z(26) + E(5) + B(2) + R(18) + A(1) = 52.",
+          "solutionSteps": "Step 1: Calculate the position values for RIVER and verify that the sum equals 72.\nStep 2: Find positions for letters in ZEBRA: Z=26, E=5, B=2, R=18, A=1.\nStep 3: Sum the positions to get 52.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         }
       ]

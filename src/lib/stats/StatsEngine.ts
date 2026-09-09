@@ -79,13 +79,13 @@ export class StatsEngine {
       };
     }).sort((a, b) => b.totalAttempted - a.totalAttempted);
 
-    // Weak topics threshold: accuracy < 60% and attempted >= 5
-    const attemptedTopicStats = topicStats.filter((t) => t.totalAttempted >= 5);
+    // Weak topics threshold: accuracy < 60% and attempted >= 3
+    const attemptedTopicStats = topicStats.filter((t) => t.totalAttempted >= 3);
     const weakTopics = attemptedTopicStats
       .filter((t) => t.accuracy < 60)
       .sort((a, b) => a.accuracy - b.accuracy);
 
-    // Strong topics: accuracy >= 75% and attempted >= 5
+    // Strong topics: accuracy >= 75% and attempted >= 3
     const strongTopics = attemptedTopicStats
       .filter((t) => t.accuracy >= 75)
       .sort((a, b) => b.accuracy - a.accuracy);

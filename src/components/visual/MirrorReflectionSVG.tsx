@@ -6,12 +6,14 @@ interface MirrorReflectionSVGProps {
   type?: "word" | "clock" | "shape";
   content?: string;
   time?: string;
+  isSolution?: boolean;
 }
 
 export function MirrorReflectionSVG({
   type = "word",
   content = "REASON",
   time = "3:25",
+  isSolution = false,
 }: MirrorReflectionSVGProps) {
   if (type === "clock") {
     // Parse time like 3:25
@@ -20,10 +22,10 @@ export function MirrorReflectionSVG({
     const minute = isNaN(parts[1]) ? 25 : parts[1];
 
     // Clock angles
-    const minuteAngle = minute * 6; // 360 / 60
+    const minuteAngle = minute * 6;
     const hourAngle = (hour % 12) * 30 + minute * 0.5;
 
-    // Reflected angles across vertical axis (12-6 line): angle -> 360 - angle
+    // Reflected angles across vertical axis
     const refMinuteAngle = (360 - minuteAngle) % 360;
     const refHourAngle = (360 - hourAngle) % 360;
 
@@ -52,7 +54,6 @@ export function MirrorReflectionSVG({
           <g transform="translate(105, 100)">
             <circle r="65" fill="var(--bg-surface)" stroke="var(--border-strong)" strokeWidth="3" />
             <circle r="4" fill="var(--color-primary)" />
-            {/* Clock hour marks */}
             {[0, 30, 60, 90, 120, 150, 180, 210, 240, 270, 300, 330].map((deg, i) => (
               <line
                 key={i}
@@ -95,7 +96,6 @@ export function MirrorReflectionSVG({
           {/* Center: Vertical Mirror Line (MN) */}
           <g transform="translate(230, 10)">
             <line x1="0" y1="15" x2="0" y2="170" stroke="var(--color-accent)" strokeWidth="3" strokeDasharray="6,4" />
-            {/* Mirror Hash Marks on Right of mirror */}
             {[25, 45, 65, 85, 105, 125, 145, 165].map((y, idx) => (
               <line key={idx} x1="0" y1={y} x2="7" y2={y - 6} stroke="var(--color-accent)" strokeWidth="1.5" />
             ))}
@@ -107,58 +107,71 @@ export function MirrorReflectionSVG({
             </text>
           </g>
 
-          {/* Right: Mirror Reflected Clock */}
-          <g transform="translate(355, 100)">
-            <circle r="65" fill="var(--bg-surface)" stroke="var(--border-strong)" strokeWidth="3" />
-            <circle r="4" fill="var(--color-primary)" />
-            {[0, 30, 60, 90, 120, 150, 180, 210, 240, 270, 300, 330].map((deg, i) => (
+          {/* Right: Mirror Reflected Clock OR Question Target */}
+          {isSolution ? (
+            <g transform="translate(355, 100)">
+              <circle r="65" fill="var(--bg-surface)" stroke="var(--border-strong)" strokeWidth="3" />
+              <circle r="4" fill="var(--color-primary)" />
+              {[0, 30, 60, 90, 120, 150, 180, 210, 240, 270, 300, 330].map((deg, i) => (
+                <line
+                  key={i}
+                  x1="0"
+                  y1="-60"
+                  x2="0"
+                  y2={i % 3 === 0 ? "-50" : "-54"}
+                  stroke="var(--text-muted)"
+                  strokeWidth={i % 3 === 0 ? "2.5" : "1.5"}
+                  transform={`rotate(${deg})`}
+                />
+              ))}
               <line
-                key={i}
                 x1="0"
-                y1="-60"
+                y1="0"
                 x2="0"
-                y2={i % 3 === 0 ? "-50" : "-54"}
-                stroke="var(--text-muted)"
-                strokeWidth={i % 3 === 0 ? "2.5" : "1.5"}
-                transform={`rotate(${deg})`}
+                y2="-38"
+                stroke="var(--text-primary)"
+                strokeWidth="4"
+                strokeLinecap="round"
+                transform={`rotate(${refHourAngle})`}
               />
-            ))}
-            {/* Reflected Hour hand */}
-            <line
-              x1="0"
-              y1="0"
-              x2="0"
-              y2="-38"
-              stroke="var(--text-primary)"
-              strokeWidth="4"
-              strokeLinecap="round"
-              transform={`rotate(${refHourAngle})`}
-            />
-            {/* Reflected Minute hand */}
-            <line
-              x1="0"
-              y1="0"
-              x2="0"
-              y2="-50"
-              stroke="var(--color-primary)"
-              strokeWidth="2.5"
-              strokeLinecap="round"
-              transform={`rotate(${refMinuteAngle})`}
-            />
-            <text x="0" y="86" textAnchor="middle" fill="var(--color-primary)" fontSize="13" fontWeight="700">
-              Mirror Image
-            </text>
-          </g>
+              <line
+                x1="0"
+                y1="0"
+                x2="0"
+                y2="-50"
+                stroke="var(--color-primary)"
+                strokeWidth="2.5"
+                strokeLinecap="round"
+                transform={`rotate(${refMinuteAngle})`}
+              />
+              <text x="0" y="86" textAnchor="middle" fill="var(--color-primary)" fontSize="13" fontWeight="700">
+                Mirror Image
+              </text>
+            </g>
+          ) : (
+            <g transform="translate(355, 100)">
+              <circle
+                r="65"
+                fill="var(--color-accent-subtle)"
+                stroke="var(--color-accent)"
+                strokeWidth="2"
+                strokeDasharray="5,4"
+              />
+              <text x="0" y="12" textAnchor="middle" fill="var(--color-accent)" fontSize="36" fontWeight="800">
+                ?
+              </text>
+              <text x="0" y="86" textAnchor="middle" fill="var(--color-accent)" fontSize="13" fontWeight="700">
+                Mirror Image (?)
+              </text>
+            </g>
+          )}
         </svg>
-        <span style={{ fontSize: "0.78rem", color: "var(--text-muted)", fontStyle: "italic" }}>
-          Formula: Actual Time + Mirror Time = 11:60 (or 12:00)
-        </span>
       </div>
     );
   }
 
   // Word / Shape Lateral Reflection
-  const word = content || "QUALITY";
+  const word = content || "REASON";
   return (
     <div
       style={{
@@ -188,15 +201,15 @@ export function MirrorReflectionSVG({
             y="9"
             textAnchor="middle"
             fill="var(--text-primary)"
-            fontSize="24"
+            fontSize="22"
             fontWeight="800"
             fontFamily="monospace"
-            letterSpacing="3"
+            letterSpacing="2"
           >
             {word}
           </text>
           <text x="0" y="52" textAnchor="middle" fill="var(--text-muted)" fontSize="11" fontWeight="600">
-            Given Figure / Word
+            Given Word / Code
           </text>
         </g>
 
@@ -214,30 +227,52 @@ export function MirrorReflectionSVG({
           </text>
         </g>
 
-        {/* Right: Laterally Inverted (Left <-> Right Flipped) */}
-        <g transform="translate(345, 65)">
-          <rect x="-95" y="-35" width="190" height="70" rx="6" fill="var(--bg-surface)" stroke="var(--border-color)" />
-          <g transform="scale(-1, 1)">
-            <text
-              x="0"
-              y="9"
-              textAnchor="middle"
-              fill="var(--color-primary)"
-              fontSize="24"
-              fontWeight="800"
-              fontFamily="monospace"
-              letterSpacing="3"
-            >
-              {word}
+        {/* Right: Reflected OR Target Box */}
+        {isSolution ? (
+          <g transform="translate(345, 65)">
+            <rect x="-95" y="-35" width="190" height="70" rx="6" fill="var(--bg-surface)" stroke="var(--border-color)" />
+            <g transform="scale(-1, 1)">
+              <text
+                x="0"
+                y="9"
+                textAnchor="middle"
+                fill="var(--color-primary)"
+                fontSize="22"
+                fontWeight="800"
+                fontFamily="monospace"
+                letterSpacing="2"
+              >
+                {word}
+              </text>
+            </g>
+            <text x="0" y="52" textAnchor="middle" fill="var(--color-primary)" fontSize="11" fontWeight="600">
+              Mirror Image (Lateral Inversion)
             </text>
           </g>
-          <text x="0" y="52" textAnchor="middle" fill="var(--color-primary)" fontSize="11" fontWeight="600">
-            Mirror Image (Lateral Inversion)
-          </text>
-        </g>
+        ) : (
+          <g transform="translate(345, 65)">
+            <rect
+              x="-95"
+              y="-35"
+              width="190"
+              height="70"
+              rx="6"
+              fill="var(--color-accent-subtle)"
+              stroke="var(--color-accent)"
+              strokeWidth="2"
+              strokeDasharray="5,4"
+            />
+            <text x="0" y="12" textAnchor="middle" fill="var(--color-accent)" fontSize="32" fontWeight="800">
+              ?
+            </text>
+            <text x="0" y="52" textAnchor="middle" fill="var(--color-accent)" fontSize="11" fontWeight="700">
+              Mirror Image (?)
+            </text>
+          </g>
+        )}
       </svg>
       <span style={{ fontSize: "0.78rem", color: "var(--text-muted)", fontStyle: "italic" }}>
-        Note: Left becomes right, right becomes left; top and bottom remain unchanged.
+        Note: Left becomes right, right becomes left; vertical positions remain unchanged.
       </span>
     </div>
   );

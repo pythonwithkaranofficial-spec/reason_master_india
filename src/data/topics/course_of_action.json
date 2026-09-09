@@ -49,343 +49,483 @@
       ],
       "practiceQuestions": [
         {
-          "questionText": "Course of Action Practice Q1: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "Statement:\nA massive landslide on the national highway has severed connectivity to several mountainous villages and stranded hundreds of tourists.\n\nCourses of Action:\nI. The disaster management authority should immediately dispatch earthmoving equipment and rescue teams to clear the highway and provide food and medical aid to stranded travelers.\nII. All permanent residents of the mountainous villages should be permanently relocated to other states.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Course of Action. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "SSC CGL"
-          ]
-        },
-        {
-          "questionText": "Course of Action Practice Q2: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 2,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Course of Action. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "SSC CGL"
-          ]
-        },
-        {
-          "questionText": "Course of Action Practice Q3: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Course of Action. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "SSC CGL"
-          ]
-        },
-        {
-          "questionText": "Course of Action Practice Q4: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Only course of action I follows",
+            "Both course of action I and II follow",
+            "Neither course of action I nor II follows",
+            "Only course of action II follows"
           ],
           "correctIndex": 0,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Course of Action. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "A course of action must be feasible, address the root problem, and avoid extreme overreactions.",
+          "explanation": "Course of Action I is an immediate, practical, and constructive disaster response. Course of Action II is a wildly disproportionate and impractical extreme overreaction.",
+          "solutionSteps": "Step 1: Identify the exact problem stated in the premise.\nStep 2: Evaluate Action I: Is it practical, positive, and does it alleviate the problem?\nStep 3: Evaluate Action II: Does it introduce an extreme overreaction or create worse problems?\nStep 4: Select Only course of action I follows.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "SSC CGL"
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Course of Action Practice Q5: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "Statement:\nReports indicate a spike in cyber fraud cases where senior citizens are duped of their retirement savings through fake investment apps.\n\nCourses of Action:\nI. The cyber police and banking regulator should conduct targeted financial awareness drives and launch a dedicated rapid-response helpline for cyber fraud.\nII. All internet banking and digital financial transactions should be banned for individuals above 60 years of age.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Neither course of action I nor II follows",
+            "Only course of action I follows",
+            "Both course of action I and II follow",
+            "Only course of action II follows"
           ],
           "correctIndex": 1,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Course of Action. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Punishing the victims by restricting basic rights is never a valid administrative course of action.",
+          "explanation": "Action I provides constructive education and rapid redressal. Action II discriminates against senior citizens and paralyzes normal banking access instead of solving cybercrime.",
+          "solutionSteps": "Step 1: Identify the exact problem stated in the premise.\nStep 2: Evaluate Action I: Is it practical, positive, and does it alleviate the problem?\nStep 3: Evaluate Action II: Does it introduce an extreme overreaction or create worse problems?\nStep 4: Select Only course of action I follows.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "SSC CGL"
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Course of Action Practice Q6: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "Statement:\nA premier government research hospital is experiencing acute shortages of life-saving cancer medications due to global supply chain disruptions.\n\nCourses of Action:\nI. Hospital management should explore emergency procurement from alternative certified domestic pharmaceutical manufacturers.\nII. The hospital should turn away all existing oncology patients until international supplies normalize.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Both course of action I and II follow",
+            "Only course of action II follows",
+            "Only course of action I follows",
+            "Neither course of action I nor II follows"
           ],
           "correctIndex": 2,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Course of Action. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Courses of action must prioritize human life and continuity of essential public services.",
+          "explanation": "Action I seeks alternative procurement to save lives (Constructive). Action II violates medical ethics and neglects patient duty (Unacceptable).",
+          "solutionSteps": "Step 1: Identify the exact problem stated in the premise.\nStep 2: Evaluate Action I: Is it practical, positive, and does it alleviate the problem?\nStep 3: Evaluate Action II: Does it introduce an extreme overreaction or create worse problems?\nStep 4: Select Only course of action I follows.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "SSC CGL"
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Course of Action Practice Q7: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "Statement:\nA massive landslide on the national highway has severed connectivity to several mountainous villages and stranded hundreds of tourists.\n\nCourses of Action:\nI. The disaster management authority should immediately dispatch earthmoving equipment and rescue teams to clear the highway and provide food and medical aid to stranded travelers.\nII. All permanent residents of the mountainous villages should be permanently relocated to other states.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Only course of action II follows",
+            "Only course of action I follows",
+            "Neither course of action I nor II follows",
+            "Both course of action I and II follow"
+          ],
+          "correctIndex": 1,
+          "difficulty": "easy",
+          "hint": "A course of action must be feasible, address the root problem, and avoid extreme overreactions.",
+          "explanation": "Course of Action I is an immediate, practical, and constructive disaster response. Course of Action II is a wildly disproportionate and impractical extreme overreaction.",
+          "solutionSteps": "Step 1: Identify the exact problem stated in the premise.\nStep 2: Evaluate Action I: Is it practical, positive, and does it alleviate the problem?\nStep 3: Evaluate Action II: Does it introduce an extreme overreaction or create worse problems?\nStep 4: Select Only course of action I follows.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Statement:\nReports indicate a spike in cyber fraud cases where senior citizens are duped of their retirement savings through fake investment apps.\n\nCourses of Action:\nI. The cyber police and banking regulator should conduct targeted financial awareness drives and launch a dedicated rapid-response helpline for cyber fraud.\nII. All internet banking and digital financial transactions should be banned for individuals above 60 years of age.",
+          "options": [
+            "Only course of action I follows",
+            "Only course of action II follows",
+            "Both course of action I and II follow",
+            "Neither course of action I nor II follows"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "hint": "Punishing the victims by restricting basic rights is never a valid administrative course of action.",
+          "explanation": "Action I provides constructive education and rapid redressal. Action II discriminates against senior citizens and paralyzes normal banking access instead of solving cybercrime.",
+          "solutionSteps": "Step 1: Identify the exact problem stated in the premise.\nStep 2: Evaluate Action I: Is it practical, positive, and does it alleviate the problem?\nStep 3: Evaluate Action II: Does it introduce an extreme overreaction or create worse problems?\nStep 4: Select Only course of action I follows.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Statement:\nA premier government research hospital is experiencing acute shortages of life-saving cancer medications due to global supply chain disruptions.\n\nCourses of Action:\nI. Hospital management should explore emergency procurement from alternative certified domestic pharmaceutical manufacturers.\nII. The hospital should turn away all existing oncology patients until international supplies normalize.",
+          "options": [
+            "Both course of action I and II follow",
+            "Only course of action II follows",
+            "Neither course of action I nor II follows",
+            "Only course of action I follows"
           ],
           "correctIndex": 3,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Course of Action. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Courses of action must prioritize human life and continuity of essential public services.",
+          "explanation": "Action I seeks alternative procurement to save lives (Constructive). Action II violates medical ethics and neglects patient duty (Unacceptable).",
+          "solutionSteps": "Step 1: Identify the exact problem stated in the premise.\nStep 2: Evaluate Action I: Is it practical, positive, and does it alleviate the problem?\nStep 3: Evaluate Action II: Does it introduce an extreme overreaction or create worse problems?\nStep 4: Select Only course of action I follows.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "SSC CGL"
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Course of Action Practice Q8: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "Statement:\nWaterlogging during every monsoon season leads to acute traffic snarls and spread of vector-borne illnesses in the old city quarter.\n\nCourses of Action:\nI. The municipal corporation should desilt and widen underground storm-water drains well before the onset of monsoon.\nII. Civic teams should conduct regular health inspections and penalize properties allowing stagnant open water pooling.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Course of Action. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "SSC CGL"
-          ]
-        },
-        {
-          "questionText": "Course of Action Practice Q9: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Neither course of action I nor II follows",
+            "Both course of action I and II follow",
+            "Only course of action I follows",
+            "Only course of action II follows"
           ],
           "correctIndex": 1,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Course of Action. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Preventative infrastructure maintenance combined with public compliance enforcement are standard dual courses of action.",
+          "explanation": "Action I addresses the root infrastructural bottleneck (clogged drains), and Action II enforces preventative public health hygiene. Both actions are constructive, feasible, and follow.",
+          "solutionSteps": "Step 1: Identify the exact problem stated in the premise.\nStep 2: Evaluate Action I: Is it practical, positive, and does it alleviate the problem?\nStep 3: Evaluate Action II: Does it introduce an extreme overreaction or create worse problems?\nStep 4: Select Both course of action I and II follow.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "SSC CGL"
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Course of Action Practice Q10: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "Statement:\nWaterlogging during every monsoon season leads to acute traffic snarls and spread of vector-borne illnesses in the old city quarter.\n\nCourses of Action:\nI. The municipal corporation should desilt and widen underground storm-water drains well before the onset of monsoon.\nII. Civic teams should conduct regular health inspections and penalize properties allowing stagnant open water pooling.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 2,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Course of Action. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "SSC CGL"
-          ]
-        },
-        {
-          "questionText": "Course of Action Practice Q11: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Course of Action. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "SSC CGL"
-          ]
-        },
-        {
-          "questionText": "Course of Action Practice Q12: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Course of Action. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "SSC CGL"
-          ]
-        },
-        {
-          "questionText": "Course of Action Practice Q13: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Only course of action I follows",
+            "Both course of action I and II follow",
+            "Only course of action II follows",
+            "Neither course of action I nor II follows"
           ],
           "correctIndex": 1,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Course of Action. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Preventative infrastructure maintenance combined with public compliance enforcement are standard dual courses of action.",
+          "explanation": "Action I addresses the root infrastructural bottleneck (clogged drains), and Action II enforces preventative public health hygiene. Both actions are constructive, feasible, and follow.",
+          "solutionSteps": "Step 1: Identify the exact problem stated in the premise.\nStep 2: Evaluate Action I: Is it practical, positive, and does it alleviate the problem?\nStep 3: Evaluate Action II: Does it introduce an extreme overreaction or create worse problems?\nStep 4: Select Both course of action I and II follow.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "SSC CGL"
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Course of Action Practice Q14: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "Statement:\nWaterlogging during every monsoon season leads to acute traffic snarls and spread of vector-borne illnesses in the old city quarter.\n\nCourses of Action:\nI. The municipal corporation should desilt and widen underground storm-water drains well before the onset of monsoon.\nII. Civic teams should conduct regular health inspections and penalize properties allowing stagnant open water pooling.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Only course of action I follows",
+            "Neither course of action I nor II follows",
+            "Both course of action I and II follow",
+            "Only course of action II follows"
           ],
           "correctIndex": 2,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Course of Action. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Preventative infrastructure maintenance combined with public compliance enforcement are standard dual courses of action.",
+          "explanation": "Action I addresses the root infrastructural bottleneck (clogged drains), and Action II enforces preventative public health hygiene. Both actions are constructive, feasible, and follow.",
+          "solutionSteps": "Step 1: Identify the exact problem stated in the premise.\nStep 2: Evaluate Action I: Is it practical, positive, and does it alleviate the problem?\nStep 3: Evaluate Action II: Does it introduce an extreme overreaction or create worse problems?\nStep 4: Select Both course of action I and II follow.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "SSC CGL"
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Course of Action Practice Q15: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "Statement:\nWaterlogging during every monsoon season leads to acute traffic snarls and spread of vector-borne illnesses in the old city quarter.\n\nCourses of Action:\nI. The municipal corporation should desilt and widen underground storm-water drains well before the onset of monsoon.\nII. Civic teams should conduct regular health inspections and penalize properties allowing stagnant open water pooling.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Course of Action. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "SSC CGL"
-          ]
-        },
-        {
-          "questionText": "Course of Action Practice Q16: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Course of Action. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "SSC CGL"
-          ]
-        },
-        {
-          "questionText": "Course of Action Practice Q17: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Only course of action II follows",
+            "Both course of action I and II follow",
+            "Neither course of action I nor II follows",
+            "Only course of action I follows"
           ],
           "correctIndex": 1,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Course of Action. Work through the problem step by step using the shortcuts taught in this topic.",
+          "difficulty": "medium",
+          "hint": "Preventative infrastructure maintenance combined with public compliance enforcement are standard dual courses of action.",
+          "explanation": "Action I addresses the root infrastructural bottleneck (clogged drains), and Action II enforces preventative public health hygiene. Both actions are constructive, feasible, and follow.",
+          "solutionSteps": "Step 1: Identify the exact problem stated in the premise.\nStep 2: Evaluate Action I: Is it practical, positive, and does it alleviate the problem?\nStep 3: Evaluate Action II: Does it introduce an extreme overreaction or create worse problems?\nStep 4: Select Both course of action I and II follow.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "SSC CGL"
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Course of Action Practice Q18: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "Statement:\nWaterlogging during every monsoon season leads to acute traffic snarls and spread of vector-borne illnesses in the old city quarter.\n\nCourses of Action:\nI. The municipal corporation should desilt and widen underground storm-water drains well before the onset of monsoon.\nII. Civic teams should conduct regular health inspections and penalize properties allowing stagnant open water pooling.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 2,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Course of Action. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "SSC CGL"
-          ]
-        },
-        {
-          "questionText": "Course of Action Practice Q19: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Only course of action II follows",
+            "Neither course of action I nor II follows",
+            "Only course of action I follows",
+            "Both course of action I and II follow"
           ],
           "correctIndex": 3,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Course of Action. Work through the problem step by step using the shortcuts taught in this topic.",
+          "difficulty": "medium",
+          "hint": "Preventative infrastructure maintenance combined with public compliance enforcement are standard dual courses of action.",
+          "explanation": "Action I addresses the root infrastructural bottleneck (clogged drains), and Action II enforces preventative public health hygiene. Both actions are constructive, feasible, and follow.",
+          "solutionSteps": "Step 1: Identify the exact problem stated in the premise.\nStep 2: Evaluate Action I: Is it practical, positive, and does it alleviate the problem?\nStep 3: Evaluate Action II: Does it introduce an extreme overreaction or create worse problems?\nStep 4: Select Both course of action I and II follow.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "SSC CGL"
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Course of Action Practice Q20: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "Statement:\nWaterlogging during every monsoon season leads to acute traffic snarls and spread of vector-borne illnesses in the old city quarter.\n\nCourses of Action:\nI. The municipal corporation should desilt and widen underground storm-water drains well before the onset of monsoon.\nII. Civic teams should conduct regular health inspections and penalize properties allowing stagnant open water pooling.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Only course of action II follows",
+            "Only course of action I follows",
+            "Both course of action I and II follow",
+            "Neither course of action I nor II follows"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "hint": "Preventative infrastructure maintenance combined with public compliance enforcement are standard dual courses of action.",
+          "explanation": "Action I addresses the root infrastructural bottleneck (clogged drains), and Action II enforces preventative public health hygiene. Both actions are constructive, feasible, and follow.",
+          "solutionSteps": "Step 1: Identify the exact problem stated in the premise.\nStep 2: Evaluate Action I: Is it practical, positive, and does it alleviate the problem?\nStep 3: Evaluate Action II: Does it introduce an extreme overreaction or create worse problems?\nStep 4: Select Both course of action I and II follow.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Statement:\nWaterlogging during every monsoon season leads to acute traffic snarls and spread of vector-borne illnesses in the old city quarter.\n\nCourses of Action:\nI. The municipal corporation should desilt and widen underground storm-water drains well before the onset of monsoon.\nII. Civic teams should conduct regular health inspections and penalize properties allowing stagnant open water pooling.",
+          "options": [
+            "Only course of action I follows",
+            "Both course of action I and II follow",
+            "Only course of action II follows",
+            "Neither course of action I nor II follows"
+          ],
+          "correctIndex": 1,
+          "difficulty": "medium",
+          "hint": "Preventative infrastructure maintenance combined with public compliance enforcement are standard dual courses of action.",
+          "explanation": "Action I addresses the root infrastructural bottleneck (clogged drains), and Action II enforces preventative public health hygiene. Both actions are constructive, feasible, and follow.",
+          "solutionSteps": "Step 1: Identify the exact problem stated in the premise.\nStep 2: Evaluate Action I: Is it practical, positive, and does it alleviate the problem?\nStep 3: Evaluate Action II: Does it introduce an extreme overreaction or create worse problems?\nStep 4: Select Both course of action I and II follow.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Statement:\nWaterlogging during every monsoon season leads to acute traffic snarls and spread of vector-borne illnesses in the old city quarter.\n\nCourses of Action:\nI. The municipal corporation should desilt and widen underground storm-water drains well before the onset of monsoon.\nII. Civic teams should conduct regular health inspections and penalize properties allowing stagnant open water pooling.",
+          "options": [
+            "Neither course of action I nor II follows",
+            "Both course of action I and II follow",
+            "Only course of action II follows",
+            "Only course of action I follows"
+          ],
+          "correctIndex": 1,
+          "difficulty": "medium",
+          "hint": "Preventative infrastructure maintenance combined with public compliance enforcement are standard dual courses of action.",
+          "explanation": "Action I addresses the root infrastructural bottleneck (clogged drains), and Action II enforces preventative public health hygiene. Both actions are constructive, feasible, and follow.",
+          "solutionSteps": "Step 1: Identify the exact problem stated in the premise.\nStep 2: Evaluate Action I: Is it practical, positive, and does it alleviate the problem?\nStep 3: Evaluate Action II: Does it introduce an extreme overreaction or create worse problems?\nStep 4: Select Both course of action I and II follow.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Statement:\nA massive landslide on the national highway has severed connectivity to several mountainous villages and stranded hundreds of tourists.\n\nCourses of Action:\nI. The disaster management authority should immediately dispatch earthmoving equipment and rescue teams to clear the highway and provide food and medical aid to stranded travelers.\nII. All permanent residents of the mountainous villages should be permanently relocated to other states.",
+          "options": [
+            "Only course of action II follows",
+            "Only course of action I follows",
+            "Neither course of action I nor II follows",
+            "Both course of action I and II follow"
+          ],
+          "correctIndex": 1,
+          "difficulty": "easy",
+          "hint": "A course of action must be feasible, address the root problem, and avoid extreme overreactions.",
+          "explanation": "Course of Action I is an immediate, practical, and constructive disaster response. Course of Action II is a wildly disproportionate and impractical extreme overreaction.",
+          "solutionSteps": "Step 1: Identify the exact problem stated in the premise.\nStep 2: Evaluate Action I: Is it practical, positive, and does it alleviate the problem?\nStep 3: Evaluate Action II: Does it introduce an extreme overreaction or create worse problems?\nStep 4: Select Only course of action I follows.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Statement:\nReports indicate a spike in cyber fraud cases where senior citizens are duped of their retirement savings through fake investment apps.\n\nCourses of Action:\nI. The cyber police and banking regulator should conduct targeted financial awareness drives and launch a dedicated rapid-response helpline for cyber fraud.\nII. All internet banking and digital financial transactions should be banned for individuals above 60 years of age.",
+          "options": [
+            "Only course of action I follows",
+            "Neither course of action I nor II follows",
+            "Only course of action II follows",
+            "Both course of action I and II follow"
           ],
           "correctIndex": 0,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Course of Action. Work through the problem step by step using the shortcuts taught in this topic.",
+          "difficulty": "easy",
+          "hint": "Punishing the victims by restricting basic rights is never a valid administrative course of action.",
+          "explanation": "Action I provides constructive education and rapid redressal. Action II discriminates against senior citizens and paralyzes normal banking access instead of solving cybercrime.",
+          "solutionSteps": "Step 1: Identify the exact problem stated in the premise.\nStep 2: Evaluate Action I: Is it practical, positive, and does it alleviate the problem?\nStep 3: Evaluate Action II: Does it introduce an extreme overreaction or create worse problems?\nStep 4: Select Only course of action I follows.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "SSC CGL"
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Statement:\nA premier government research hospital is experiencing acute shortages of life-saving cancer medications due to global supply chain disruptions.\n\nCourses of Action:\nI. Hospital management should explore emergency procurement from alternative certified domestic pharmaceutical manufacturers.\nII. The hospital should turn away all existing oncology patients until international supplies normalize.",
+          "options": [
+            "Only course of action I follows",
+            "Neither course of action I nor II follows",
+            "Only course of action II follows",
+            "Both course of action I and II follow"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "hint": "Courses of action must prioritize human life and continuity of essential public services.",
+          "explanation": "Action I seeks alternative procurement to save lives (Constructive). Action II violates medical ethics and neglects patient duty (Unacceptable).",
+          "solutionSteps": "Step 1: Identify the exact problem stated in the premise.\nStep 2: Evaluate Action I: Is it practical, positive, and does it alleviate the problem?\nStep 3: Evaluate Action II: Does it introduce an extreme overreaction or create worse problems?\nStep 4: Select Only course of action I follows.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Statement:\nA massive landslide on the national highway has severed connectivity to several mountainous villages and stranded hundreds of tourists.\n\nCourses of Action:\nI. The disaster management authority should immediately dispatch earthmoving equipment and rescue teams to clear the highway and provide food and medical aid to stranded travelers.\nII. All permanent residents of the mountainous villages should be permanently relocated to other states.",
+          "options": [
+            "Only course of action I follows",
+            "Only course of action II follows",
+            "Both course of action I and II follow",
+            "Neither course of action I nor II follows"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "hint": "A course of action must be feasible, address the root problem, and avoid extreme overreactions.",
+          "explanation": "Course of Action I is an immediate, practical, and constructive disaster response. Course of Action II is a wildly disproportionate and impractical extreme overreaction.",
+          "solutionSteps": "Step 1: Identify the exact problem stated in the premise.\nStep 2: Evaluate Action I: Is it practical, positive, and does it alleviate the problem?\nStep 3: Evaluate Action II: Does it introduce an extreme overreaction or create worse problems?\nStep 4: Select Only course of action I follows.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Statement:\nReports indicate a spike in cyber fraud cases where senior citizens are duped of their retirement savings through fake investment apps.\n\nCourses of Action:\nI. The cyber police and banking regulator should conduct targeted financial awareness drives and launch a dedicated rapid-response helpline for cyber fraud.\nII. All internet banking and digital financial transactions should be banned for individuals above 60 years of age.",
+          "options": [
+            "Neither course of action I nor II follows",
+            "Both course of action I and II follow",
+            "Only course of action I follows",
+            "Only course of action II follows"
+          ],
+          "correctIndex": 2,
+          "difficulty": "easy",
+          "hint": "Punishing the victims by restricting basic rights is never a valid administrative course of action.",
+          "explanation": "Action I provides constructive education and rapid redressal. Action II discriminates against senior citizens and paralyzes normal banking access instead of solving cybercrime.",
+          "solutionSteps": "Step 1: Identify the exact problem stated in the premise.\nStep 2: Evaluate Action I: Is it practical, positive, and does it alleviate the problem?\nStep 3: Evaluate Action II: Does it introduce an extreme overreaction or create worse problems?\nStep 4: Select Only course of action I follows.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Statement:\nA premier government research hospital is experiencing acute shortages of life-saving cancer medications due to global supply chain disruptions.\n\nCourses of Action:\nI. Hospital management should explore emergency procurement from alternative certified domestic pharmaceutical manufacturers.\nII. The hospital should turn away all existing oncology patients until international supplies normalize.",
+          "options": [
+            "Neither course of action I nor II follows",
+            "Both course of action I and II follow",
+            "Only course of action I follows",
+            "Only course of action II follows"
+          ],
+          "correctIndex": 2,
+          "difficulty": "easy",
+          "hint": "Courses of action must prioritize human life and continuity of essential public services.",
+          "explanation": "Action I seeks alternative procurement to save lives (Constructive). Action II violates medical ethics and neglects patient duty (Unacceptable).",
+          "solutionSteps": "Step 1: Identify the exact problem stated in the premise.\nStep 2: Evaluate Action I: Is it practical, positive, and does it alleviate the problem?\nStep 3: Evaluate Action II: Does it introduce an extreme overreaction or create worse problems?\nStep 4: Select Only course of action I follows.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         }
       ]

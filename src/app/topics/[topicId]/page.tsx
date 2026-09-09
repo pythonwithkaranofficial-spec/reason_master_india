@@ -18,6 +18,8 @@ import {
   Sparkles,
 } from "lucide-react";
 import { DifficultyBadge } from "@/components/ui/DifficultyBadge";
+import { TopicIcon } from "@/components/topics/TopicIcon";
+import { TopicStudyTracker } from "@/components/topics/TopicStudyTracker";
 
 interface TopicPageProps {
   params: Promise<{
@@ -67,6 +69,8 @@ export default async function TopicDetailPage({ params }: TopicPageProps) {
 
   return (
     <div className="container" style={{ paddingTop: "var(--space-6)", paddingBottom: "var(--space-16)" }}>
+      {/* Track last studied topic */}
+      <TopicStudyTracker topicId={topic.id} topicName={topic.name} category={topic.category} />
       {/* Breadcrumbs */}
       <Breadcrumb
         items={[
@@ -113,9 +117,12 @@ export default async function TopicDetailPage({ params }: TopicPageProps) {
               </span>
             </div>
 
-            <h1 style={{ fontSize: "clamp(2rem, 3.5vw, 2.6rem)", marginBottom: "var(--space-3)" }}>
-              {topic.name}
-            </h1>
+            <div style={{ display: "flex", alignItems: "center", gap: "var(--space-3)", marginBottom: "var(--space-3)", flexWrap: "wrap" }}>
+              <TopicIcon topicId={topic.id} category={topic.category} size={28} badgeSize={52} variant="badge" />
+              <h1 style={{ fontSize: "clamp(1.8rem, 3.2vw, 2.4rem)", margin: 0, color: "var(--text-primary)" }}>
+                {topic.name}
+              </h1>
+            </div>
 
             {topic.shortcutSummary && (
               <p style={{ fontSize: "1.05rem", color: "var(--text-secondary)", lineHeight: 1.6 }}>
@@ -125,10 +132,10 @@ export default async function TopicDetailPage({ params }: TopicPageProps) {
           </div>
 
           <Link
-            href={`/practice/session?topicIds=${topic.id}&count=20&difficulty=mixed`}
+            href={`/practice/session?topicIds=${topic.id}&difficulty=mixed`}
             className="btn btn-primary btn-lg"
           >
-            <Zap size={18} /> Practice 500 MCQs
+            <Zap size={18} /> Practice Topic MCQs
           </Link>
         </div>
       </div>
@@ -338,10 +345,10 @@ export default async function TopicDetailPage({ params }: TopicPageProps) {
               Practice from our pool of 500 high-yield questions for this topic with live timers, accuracy tracking, and step-by-step solutions.
             </p>
             <Link
-              href={`/practice/session?topicIds=${topic.id}&count=20&difficulty=mixed`}
+              href={`/practice/session?topicIds=${topic.id}&difficulty=mixed`}
               className="btn btn-primary btn-lg"
             >
-              <Zap size={18} /> Start 20-Question Mock Test
+              <Zap size={18} /> Start Practice Mock Test
             </Link>
           </div>
         </div>

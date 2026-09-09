@@ -8,10 +8,15 @@ import { EXAM_CATEGORIES } from "@/data/categories";
 import { ContentService } from "@/lib/content/ContentService";
 import { Exam } from "@/types/models";
 import { Sliders, Zap, Check, HelpCircle, Layers, Award } from "lucide-react";
+import { useUserSettings } from "@/lib/settings/SettingsProvider";
 
 function ConfigureContent() {
   const router = useRouter();
   const searchParams = useSearchParams();
+  const { settings, isLoaded } = useUserSettings();
+
+  const queryCount = searchParams.get("count");
+  const queryMode = searchParams.get("mode");
 
   const [scopeType, setScopeType] = useState<"all" | "verbal" | "nonverbal" | "topic" | "exam">(
     (searchParams.get("category") as any) || "all"
@@ -21,8 +26,24 @@ function ConfigureContent() {
   );
   const [selectedExamId, setSelectedExamId] = useState<string>(searchParams.get("examId") || "");
   const [difficulty, setDifficulty] = useState<"easy" | "medium" | "hard" | "mixed">("mixed");
-  const [questionCount, setQuestionCount] = useState<10 | 20 | 30>(20);
-  const [mode, setMode] = useState<"instant" | "review">("instant");
+  const [questionCount, setQuestionCount] = useState<10 | 20 | 30>(
+    queryCount ? (Number(queryCount) as 10 | 20 | 30) : 20
+  );
+  const [mode, setMode] = useState<"instant" | "review">(
+    (queryMode as "instant" | "review") || "instant"
+  );
+
+  useEffect(() => {
+    if (isLoaded && !queryCount) {
+      setQuestionCount(settings.defaultQuestionCount);
+    }
+  }, [isLoaded, settings.defaultQuestionCount, queryCount]);
+
+  useEffect(() => {
+    if (isLoaded && !queryMode) {
+      setMode(settings.instantFeedback ? "instant" : "review");
+    }
+  }, [isLoaded, settings.instantFeedback, queryMode]);
 
   const [examsList, setExamsList] = useState<Exam[]>([]);
 
@@ -266,56 +287,121 @@ function ConfigureContent() {
           </div>
         </section>
 
-        {/* Step 3: Question Count & Mode */}
+        {/* Step 3: Question Count */}
         <section className="rm-card">
-          <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(280px, 1fr))", gap: "var(--space-6)" }}>
-            {/* Count */}
-            <div>
-              <h3 style={{ fontSize: "1.1rem", marginBottom: "var(--space-3)" }}>
-                3. Number of Questions
-              </h3>
-              <div style={{ display: "flex", gap: "var(--space-2)" }}>
-                {([10, 20, 30] as const).map((cnt) => {
-                  const isSelected = questionCount === cnt;
-                  return (
-                    <button
-                      key={cnt}
-                      type="button"
-                      onClick={() => setQuestionCount(cnt)}
-                      className={`btn ${isSelected ? "btn-primary" : "btn-secondary"}`}
-                      style={{ flex: 1, padding: "0.6rem" }}
-                    >
-                      {cnt} Questions
-                    </button>
-                  );
-                })}
-              </div>
-            </div>
+          <div style={{ display: "flex", alignItems: "center", justifyContent: "space-between", marginBottom: "var(--space-2)" }}>
+            <h3 style={{ fontSize: "1.2rem", color: "var(--text-primary)" }}>
+              3. Number of Questions
+            </h3>
+            {isLoaded && (
+              <span className="tag" style={{ fontSize: "0.75rem" }}>
+                Default: {settings.defaultQuestionCount} Qs
+              </span>
+            )}
+          </div>
+          <p style={{ fontSize: "0.88rem", color: "var(--text-secondary)", marginBottom: "var(--space-4)" }}>
+            Select session length or customize your default in Settings.
+          </p>
 
-            {/* Mode */}
-            <div>
-              <h3 style={{ fontSize: "1.1rem", marginBottom: "var(--space-3)" }}>
-                4. Feedback Mode
-              </h3>
-              <div style={{ display: "flex", gap: "var(--space-2)" }}>
-                <button
-                  type="button"
-                  onClick={() => setMode("instant")}
-                  className={`btn ${mode === "instant" ? "btn-primary" : "btn-secondary"}`}
-                  style={{ flex: 1, fontSize: "0.85rem", padding: "0.6rem" }}
+          <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(180px, 1fr))", gap: "var(--space-3)" }}>
+            {[
+              { count: 10, label: "10 Questions", desc: "Rapid Drill (~8 mins)" },
+              { count: 20, label: "20 Questions", desc: "Standard Practice (~15 mins)" },
+              { count: 30, label: "30 Questions", desc: "Full Sectional Mock (~25 mins)" },
+            ].map((q) => {
+              const cnt = q.count as 10 | 20 | 30;
+              const isSelected = questionCount === cnt;
+              const isDefault = isLoaded && settings.defaultQuestionCount === cnt;
+
+              return (
+                <div
+                  key={cnt}
+                  onClick={() => setQuestionCount(cnt)}
+                  style={{
+                    padding: "var(--space-4)",
+                    borderRadius: "var(--radius-md)",
+                    border: isSelected ? "2px solid var(--color-primary)" : "1px solid var(--border-color)",
+                    backgroundColor: isSelected ? "var(--color-primary-subtle)" : "var(--bg-surface)",
+                    cursor: "pointer",
+                    textAlign: "center",
+                    transition: "all var(--transition-fast)",
+                    position: "relative",
+                  }}
                 >
-                  Instant Feedback
-                </button>
-                <button
-                  type="button"
-                  onClick={() => setMode("review")}
-                  className={`btn ${mode === "review" ? "btn-primary" : "btn-secondary"}`}
-                  style={{ flex: 1, fontSize: "0.85rem", padding: "0.6rem" }}
+                  <div style={{ fontWeight: 700, fontSize: "1rem", color: isSelected ? "var(--color-primary)" : "var(--text-primary)", marginBottom: "2px" }}>
+                    {q.label}
+                  </div>
+                  <div style={{ fontSize: "0.75rem", color: "var(--text-muted)" }}>
+                    {q.desc}
+                  </div>
+                  {isDefault && (
+                    <span
+                      style={{
+                        display: "inline-block",
+                        marginTop: "var(--space-2)",
+                        fontSize: "0.68rem",
+                        fontWeight: 700,
+                        color: "var(--color-accent)",
+                        backgroundColor: "var(--color-accent-subtle)",
+                        padding: "0.15rem 0.5rem",
+                        borderRadius: "var(--radius-full)",
+                      }}
+                    >
+                      ★ Saved Default
+                    </span>
+                  )}
+                </div>
+              );
+            })}
+          </div>
+        </section>
+
+        {/* Step 4: Feedback Mode */}
+        <section className="rm-card">
+          <h3 style={{ fontSize: "1.2rem", marginBottom: "var(--space-2)", color: "var(--text-primary)" }}>
+            4. Feedback Mode
+          </h3>
+          <p style={{ fontSize: "0.88rem", color: "var(--text-secondary)", marginBottom: "var(--space-4)" }}>
+            Decide whether answers and solutions appear instantly or after test completion.
+          </p>
+
+          <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(240px, 1fr))", gap: "var(--space-3)" }}>
+            {[
+              {
+                id: "instant",
+                label: "Instant Feedback",
+                desc: "Check answers and step-by-step logic immediately after each question.",
+              },
+              {
+                id: "review",
+                label: "Review at End",
+                desc: "Real exam simulation. Submit entire test first, then review solutions.",
+              },
+            ].map((m) => {
+              const isSelected = mode === m.id;
+              return (
+                <div
+                  key={m.id}
+                  onClick={() => setMode(m.id as any)}
+                  style={{
+                    padding: "var(--space-4)",
+                    borderRadius: "var(--radius-md)",
+                    border: isSelected ? "2px solid var(--color-primary)" : "1px solid var(--border-color)",
+                    backgroundColor: isSelected ? "var(--color-primary-subtle)" : "var(--bg-surface)",
+                    cursor: "pointer",
+                    textAlign: "center",
+                    transition: "all var(--transition-fast)",
+                  }}
                 >
-                  Review at End
-                </button>
-              </div>
-            </div>
+                  <div style={{ fontWeight: 700, fontSize: "1rem", color: isSelected ? "var(--color-primary)" : "var(--text-primary)", marginBottom: "4px" }}>
+                    {m.label}
+                  </div>
+                  <div style={{ fontSize: "0.78rem", color: "var(--text-muted)", lineHeight: 1.4 }}>
+                    {m.desc}
+                  </div>
+                </div>
+              );
+            })}
           </div>
         </section>
 

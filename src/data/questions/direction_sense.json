@@ -1932,7 +1932,7 @@
         "5 km",
         "4 km",
         "7 km",
-        "7 km"
+        "8 km"
       ],
       "correctIndex": 0,
       "difficulty": "medium",
@@ -2196,7 +2196,7 @@
         "4 km",
         "5 km",
         "7 km",
-        "7 km"
+        "8 km"
       ],
       "correctIndex": 1,
       "difficulty": "medium",
@@ -2460,7 +2460,7 @@
         "7 km",
         "4 km",
         "5 km",
-        "7 km"
+        "8 km"
       ],
       "correctIndex": 2,
       "difficulty": "medium",
@@ -2724,7 +2724,7 @@
         "7 km",
         "5 km",
         "4 km",
-        "7 km"
+        "8 km"
       ],
       "correctIndex": 1,
       "difficulty": "medium",
@@ -2988,7 +2988,7 @@
         "7 km",
         "5 km",
         "4 km",
-        "7 km"
+        "8 km"
       ],
       "correctIndex": 1,
       "difficulty": "medium",
@@ -3252,7 +3252,7 @@
         "7 km",
         "5 km",
         "4 km",
-        "7 km"
+        "8 km"
       ],
       "correctIndex": 1,
       "difficulty": "medium",
@@ -3515,7 +3515,7 @@
       "options": [
         "7 km",
         "4 km",
-        "7 km",
+        "8 km",
         "5 km"
       ],
       "correctIndex": 3,
@@ -3779,7 +3779,7 @@
       "options": [
         "7 km",
         "5 km",
-        "7 km",
+        "8 km",
         "4 km"
       ],
       "correctIndex": 1,
@@ -4044,7 +4044,7 @@
         "4 km",
         "7 km",
         "5 km",
-        "7 km"
+        "8 km"
       ],
       "correctIndex": 2,
       "difficulty": "medium",
@@ -4308,7 +4308,7 @@
         "7 km",
         "4 km",
         "5 km",
-        "7 km"
+        "8 km"
       ],
       "correctIndex": 2,
       "difficulty": "medium",
@@ -4570,7 +4570,7 @@
       "questionText": "Tanvi starts from point P and travels 3 km towards North, then turns right and travels 4 km to reach point Q. What is the shortest distance between points P and Q?",
       "options": [
         "7 km",
-        "7 km",
+        "8 km",
         "4 km",
         "5 km"
       ],
@@ -4836,7 +4836,7 @@
         "4 km",
         "5 km",
         "7 km",
-        "7 km"
+        "8 km"
       ],
       "correctIndex": 1,
       "difficulty": "medium",
@@ -5099,7 +5099,7 @@
       "options": [
         "4 km",
         "7 km",
-        "7 km",
+        "8 km",
         "5 km"
       ],
       "correctIndex": 3,
@@ -5364,7 +5364,7 @@
         "5 km",
         "4 km",
         "7 km",
-        "7 km"
+        "8 km"
       ],
       "correctIndex": 0,
       "difficulty": "medium",
@@ -5628,7 +5628,7 @@
         "5 km",
         "7 km",
         "4 km",
-        "7 km"
+        "8 km"
       ],
       "correctIndex": 0,
       "difficulty": "medium",

@@ -49,343 +49,483 @@
       ],
       "practiceQuestions": [
         {
-          "questionText": "Analytical Reasoning Practice Q1: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "Four professionals Bipin, Amit, Chandan, and Deepak belong to four different cities: Delhi, Chennai, Kolkata, Mumbai, and have four professions: Engineer, Lawyer, Architect, Doctor.\n- Bipin is a Engineer but does not live in Chennai.\n- The person living in Delhi is a Engineer.\n- Amit lives in Chennai and is an Lawyer.\n- Chandan is not a Doctor.\nWhat is the profession of Bipin and which city does Bipin belong to?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Analytical Reasoning. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "SSC CGL"
-          ]
-        },
-        {
-          "questionText": "Analytical Reasoning Practice Q2: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 2,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Analytical Reasoning. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "SSC CGL"
-          ]
-        },
-        {
-          "questionText": "Analytical Reasoning Practice Q3: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Analytical Reasoning. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "SSC CGL"
-          ]
-        },
-        {
-          "questionText": "Analytical Reasoning Practice Q4: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Analytical Reasoning. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "SSC CGL"
-          ]
-        },
-        {
-          "questionText": "Analytical Reasoning Practice Q5: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Analytical Reasoning. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "SSC CGL"
-          ]
-        },
-        {
-          "questionText": "Analytical Reasoning Practice Q6: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 2,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Analytical Reasoning. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "SSC CGL"
-          ]
-        },
-        {
-          "questionText": "Analytical Reasoning Practice Q7: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Analytical Reasoning. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "SSC CGL"
-          ]
-        },
-        {
-          "questionText": "Analytical Reasoning Practice Q8: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Analytical Reasoning. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "SSC CGL"
-          ]
-        },
-        {
-          "questionText": "Analytical Reasoning Practice Q9: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Analytical Reasoning. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "SSC CGL"
-          ]
-        },
-        {
-          "questionText": "Analytical Reasoning Practice Q10: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 2,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Analytical Reasoning. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "SSC CGL"
-          ]
-        },
-        {
-          "questionText": "Analytical Reasoning Practice Q11: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Analytical Reasoning. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "SSC CGL"
-          ]
-        },
-        {
-          "questionText": "Analytical Reasoning Practice Q12: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Analytical Reasoning. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "SSC CGL"
-          ]
-        },
-        {
-          "questionText": "Analytical Reasoning Practice Q13: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Analytical Reasoning. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "SSC CGL"
-          ]
-        },
-        {
-          "questionText": "Analytical Reasoning Practice Q14: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 2,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Analytical Reasoning. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "SSC CGL"
-          ]
-        },
-        {
-          "questionText": "Analytical Reasoning Practice Q15: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Analytical Reasoning. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "SSC CGL"
-          ]
-        },
-        {
-          "questionText": "Analytical Reasoning Practice Q16: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Analytical Reasoning. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "SSC CGL"
-          ]
-        },
-        {
-          "questionText": "Analytical Reasoning Practice Q17: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Analytical Reasoning. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "SSC CGL"
-          ]
-        },
-        {
-          "questionText": "Analytical Reasoning Practice Q18: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Doctor, Mumbai",
+            "Lawyer, Chennai",
+            "Engineer, Delhi",
+            "Architect, Kolkata"
           ],
           "correctIndex": 2,
           "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Analytical Reasoning. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Construct a 3-column matrix grid (Name, Profession, City) and fill definite clues first.",
+          "explanation": "From the clues, Bipin is explicitly a Engineer, and the person in Delhi is a Engineer. Therefore, Bipin lives in Delhi and works as a Engineer.",
+          "solutionSteps": "Step 1: Direct link 1: Bipin -> Engineer.\nStep 2: Direct link 2: Delhi -> Engineer.\nStep 3: Combining yields: Bipin is a Engineer from Delhi.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "SSC CGL"
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Analytical Reasoning Practice Q19: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "Four professionals Chandan, Deepak, Amit, and Bipin belong to four different cities: Mumbai, Kolkata, Delhi, Chennai, and have four professions: Engineer, Lawyer, Doctor, Architect.\n- Chandan is a Engineer but does not live in Kolkata.\n- The person living in Mumbai is a Engineer.\n- Deepak lives in Kolkata and is an Lawyer.\n- Amit is not a Architect.\nWhat is the profession of Chandan and which city does Chandan belong to?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Doctor, Delhi",
+            "Architect, Chennai",
+            "Lawyer, Kolkata",
+            "Engineer, Mumbai"
           ],
           "correctIndex": 3,
           "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Analytical Reasoning. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Construct a 3-column matrix grid (Name, Profession, City) and fill definite clues first.",
+          "explanation": "From the clues, Chandan is explicitly a Engineer, and the person in Mumbai is a Engineer. Therefore, Chandan lives in Mumbai and works as a Engineer.",
+          "solutionSteps": "Step 1: Direct link 1: Chandan -> Engineer.\nStep 2: Direct link 2: Mumbai -> Engineer.\nStep 3: Combining yields: Chandan is a Engineer from Mumbai.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "SSC CGL"
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Analytical Reasoning Practice Q20: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "Four professionals Amit, Bipin, Chandan, and Deepak belong to four different cities: Mumbai, Delhi, Kolkata, Chennai, and have four professions: Lawyer, Architect, Engineer, Doctor.\n- Amit is a Lawyer but does not live in Delhi.\n- The person living in Mumbai is a Lawyer.\n- Bipin lives in Delhi and is an Architect.\n- Chandan is not a Doctor.\nWhat is the profession of Amit and which city does Amit belong to?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Architect, Delhi",
+            "Doctor, Chennai",
+            "Lawyer, Mumbai",
+            "Engineer, Kolkata"
+          ],
+          "correctIndex": 2,
+          "difficulty": "hard",
+          "hint": "Construct a 3-column matrix grid (Name, Profession, City) and fill definite clues first.",
+          "explanation": "From the clues, Amit is explicitly a Lawyer, and the person in Mumbai is a Lawyer. Therefore, Amit lives in Mumbai and works as a Lawyer.",
+          "solutionSteps": "Step 1: Direct link 1: Amit -> Lawyer.\nStep 2: Direct link 2: Mumbai -> Lawyer.\nStep 3: Combining yields: Amit is a Lawyer from Mumbai.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Four professionals Bipin, Chandan, Amit, and Deepak belong to four different cities: Mumbai, Chennai, Delhi, Kolkata, and have four professions: Doctor, Engineer, Lawyer, Architect.\n- Bipin is a Doctor but does not live in Chennai.\n- The person living in Mumbai is a Doctor.\n- Chandan lives in Chennai and is an Engineer.\n- Amit is not a Architect.\nWhat is the profession of Bipin and which city does Bipin belong to?",
+          "options": [
+            "Architect, Kolkata",
+            "Doctor, Mumbai",
+            "Lawyer, Delhi",
+            "Engineer, Chennai"
+          ],
+          "correctIndex": 1,
+          "difficulty": "hard",
+          "hint": "Construct a 3-column matrix grid (Name, Profession, City) and fill definite clues first.",
+          "explanation": "From the clues, Bipin is explicitly a Doctor, and the person in Mumbai is a Doctor. Therefore, Bipin lives in Mumbai and works as a Doctor.",
+          "solutionSteps": "Step 1: Direct link 1: Bipin -> Doctor.\nStep 2: Direct link 2: Mumbai -> Doctor.\nStep 3: Combining yields: Bipin is a Doctor from Mumbai.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Four professionals Amit, Deepak, Chandan, and Bipin belong to four different cities: Delhi, Kolkata, Chennai, Mumbai, and have four professions: Engineer, Lawyer, Architect, Doctor.\n- Amit is a Engineer but does not live in Kolkata.\n- The person living in Delhi is a Engineer.\n- Deepak lives in Kolkata and is an Lawyer.\n- Chandan is not a Doctor.\nWhat is the profession of Amit and which city does Amit belong to?",
+          "options": [
+            "Engineer, Delhi",
+            "Doctor, Mumbai",
+            "Architect, Chennai",
+            "Lawyer, Kolkata"
           ],
           "correctIndex": 0,
           "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Analytical Reasoning. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Construct a 3-column matrix grid (Name, Profession, City) and fill definite clues first.",
+          "explanation": "From the clues, Amit is explicitly a Engineer, and the person in Delhi is a Engineer. Therefore, Amit lives in Delhi and works as a Engineer.",
+          "solutionSteps": "Step 1: Direct link 1: Amit -> Engineer.\nStep 2: Direct link 2: Delhi -> Engineer.\nStep 3: Combining yields: Amit is a Engineer from Delhi.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "SSC CGL"
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Four professionals Deepak, Amit, Chandan, and Bipin belong to four different cities: Mumbai, Delhi, Kolkata, Chennai, and have four professions: Engineer, Architect, Doctor, Lawyer.\n- Deepak is a Engineer but does not live in Delhi.\n- The person living in Mumbai is a Engineer.\n- Amit lives in Delhi and is an Architect.\n- Chandan is not a Lawyer.\nWhat is the profession of Deepak and which city does Deepak belong to?",
+          "options": [
+            "Lawyer, Chennai",
+            "Doctor, Kolkata",
+            "Engineer, Mumbai",
+            "Architect, Delhi"
+          ],
+          "correctIndex": 2,
+          "difficulty": "hard",
+          "hint": "Construct a 3-column matrix grid (Name, Profession, City) and fill definite clues first.",
+          "explanation": "From the clues, Deepak is explicitly a Engineer, and the person in Mumbai is a Engineer. Therefore, Deepak lives in Mumbai and works as a Engineer.",
+          "solutionSteps": "Step 1: Direct link 1: Deepak -> Engineer.\nStep 2: Direct link 2: Mumbai -> Engineer.\nStep 3: Combining yields: Deepak is a Engineer from Mumbai.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Four professionals Deepak, Bipin, Amit, and Chandan belong to four different cities: Mumbai, Chennai, Kolkata, Delhi, and have four professions: Architect, Doctor, Lawyer, Engineer.\n- Deepak is a Architect but does not live in Chennai.\n- The person living in Mumbai is a Architect.\n- Bipin lives in Chennai and is an Doctor.\n- Amit is not a Engineer.\nWhat is the profession of Deepak and which city does Deepak belong to?",
+          "options": [
+            "Architect, Mumbai",
+            "Lawyer, Kolkata",
+            "Doctor, Chennai",
+            "Engineer, Delhi"
+          ],
+          "correctIndex": 0,
+          "difficulty": "hard",
+          "hint": "Construct a 3-column matrix grid (Name, Profession, City) and fill definite clues first.",
+          "explanation": "From the clues, Deepak is explicitly a Architect, and the person in Mumbai is a Architect. Therefore, Deepak lives in Mumbai and works as a Architect.",
+          "solutionSteps": "Step 1: Direct link 1: Deepak -> Architect.\nStep 2: Direct link 2: Mumbai -> Architect.\nStep 3: Combining yields: Deepak is a Architect from Mumbai.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Four professionals Bipin, Deepak, Amit, and Chandan belong to four different cities: Mumbai, Delhi, Kolkata, Chennai, and have four professions: Engineer, Doctor, Architect, Lawyer.\n- Bipin is a Engineer but does not live in Delhi.\n- The person living in Mumbai is a Engineer.\n- Deepak lives in Delhi and is an Doctor.\n- Amit is not a Lawyer.\nWhat is the profession of Bipin and which city does Bipin belong to?",
+          "options": [
+            "Lawyer, Chennai",
+            "Engineer, Mumbai",
+            "Doctor, Delhi",
+            "Architect, Kolkata"
+          ],
+          "correctIndex": 1,
+          "difficulty": "hard",
+          "hint": "Construct a 3-column matrix grid (Name, Profession, City) and fill definite clues first.",
+          "explanation": "From the clues, Bipin is explicitly a Engineer, and the person in Mumbai is a Engineer. Therefore, Bipin lives in Mumbai and works as a Engineer.",
+          "solutionSteps": "Step 1: Direct link 1: Bipin -> Engineer.\nStep 2: Direct link 2: Mumbai -> Engineer.\nStep 3: Combining yields: Bipin is a Engineer from Mumbai.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Four professionals Amit, Chandan, Deepak, and Bipin belong to four different cities: Chennai, Mumbai, Delhi, Kolkata, and have four professions: Doctor, Lawyer, Engineer, Architect.\n- Amit is a Doctor but does not live in Mumbai.\n- The person living in Chennai is a Doctor.\n- Chandan lives in Mumbai and is an Lawyer.\n- Deepak is not a Architect.\nWhat is the profession of Amit and which city does Amit belong to?",
+          "options": [
+            "Architect, Kolkata",
+            "Engineer, Delhi",
+            "Doctor, Chennai",
+            "Lawyer, Mumbai"
+          ],
+          "correctIndex": 2,
+          "difficulty": "hard",
+          "hint": "Construct a 3-column matrix grid (Name, Profession, City) and fill definite clues first.",
+          "explanation": "From the clues, Amit is explicitly a Doctor, and the person in Chennai is a Doctor. Therefore, Amit lives in Chennai and works as a Doctor.",
+          "solutionSteps": "Step 1: Direct link 1: Amit -> Doctor.\nStep 2: Direct link 2: Chennai -> Doctor.\nStep 3: Combining yields: Amit is a Doctor from Chennai.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Four professionals Amit, Bipin, Chandan, and Deepak belong to four different cities: Delhi, Mumbai, Kolkata, Chennai, and have four professions: Architect, Lawyer, Engineer, Doctor.\n- Amit is a Architect but does not live in Mumbai.\n- The person living in Delhi is a Architect.\n- Bipin lives in Mumbai and is an Lawyer.\n- Chandan is not a Doctor.\nWhat is the profession of Amit and which city does Amit belong to?",
+          "options": [
+            "Doctor, Chennai",
+            "Engineer, Kolkata",
+            "Lawyer, Mumbai",
+            "Architect, Delhi"
+          ],
+          "correctIndex": 3,
+          "difficulty": "hard",
+          "hint": "Construct a 3-column matrix grid (Name, Profession, City) and fill definite clues first.",
+          "explanation": "From the clues, Amit is explicitly a Architect, and the person in Delhi is a Architect. Therefore, Amit lives in Delhi and works as a Architect.",
+          "solutionSteps": "Step 1: Direct link 1: Amit -> Architect.\nStep 2: Direct link 2: Delhi -> Architect.\nStep 3: Combining yields: Amit is a Architect from Delhi.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Four professionals Amit, Deepak, Chandan, and Bipin belong to four different cities: Delhi, Mumbai, Chennai, Kolkata, and have four professions: Engineer, Lawyer, Architect, Doctor.\n- Amit is a Engineer but does not live in Mumbai.\n- The person living in Delhi is a Engineer.\n- Deepak lives in Mumbai and is an Lawyer.\n- Chandan is not a Doctor.\nWhat is the profession of Amit and which city does Amit belong to?",
+          "options": [
+            "Architect, Chennai",
+            "Doctor, Kolkata",
+            "Lawyer, Mumbai",
+            "Engineer, Delhi"
+          ],
+          "correctIndex": 3,
+          "difficulty": "hard",
+          "hint": "Construct a 3-column matrix grid (Name, Profession, City) and fill definite clues first.",
+          "explanation": "From the clues, Amit is explicitly a Engineer, and the person in Delhi is a Engineer. Therefore, Amit lives in Delhi and works as a Engineer.",
+          "solutionSteps": "Step 1: Direct link 1: Amit -> Engineer.\nStep 2: Direct link 2: Delhi -> Engineer.\nStep 3: Combining yields: Amit is a Engineer from Delhi.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Four professionals Amit, Deepak, Chandan, and Bipin belong to four different cities: Delhi, Chennai, Mumbai, Kolkata, and have four professions: Doctor, Architect, Engineer, Lawyer.\n- Amit is a Doctor but does not live in Chennai.\n- The person living in Delhi is a Doctor.\n- Deepak lives in Chennai and is an Architect.\n- Chandan is not a Lawyer.\nWhat is the profession of Amit and which city does Amit belong to?",
+          "options": [
+            "Architect, Chennai",
+            "Engineer, Mumbai",
+            "Lawyer, Kolkata",
+            "Doctor, Delhi"
+          ],
+          "correctIndex": 3,
+          "difficulty": "hard",
+          "hint": "Construct a 3-column matrix grid (Name, Profession, City) and fill definite clues first.",
+          "explanation": "From the clues, Amit is explicitly a Doctor, and the person in Delhi is a Doctor. Therefore, Amit lives in Delhi and works as a Doctor.",
+          "solutionSteps": "Step 1: Direct link 1: Amit -> Doctor.\nStep 2: Direct link 2: Delhi -> Doctor.\nStep 3: Combining yields: Amit is a Doctor from Delhi.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Four professionals Deepak, Amit, Bipin, and Chandan belong to four different cities: Chennai, Mumbai, Kolkata, Delhi, and have four professions: Doctor, Architect, Lawyer, Engineer.\n- Deepak is a Doctor but does not live in Mumbai.\n- The person living in Chennai is a Doctor.\n- Amit lives in Mumbai and is an Architect.\n- Bipin is not a Engineer.\nWhat is the profession of Deepak and which city does Deepak belong to?",
+          "options": [
+            "Doctor, Chennai",
+            "Architect, Mumbai",
+            "Engineer, Delhi",
+            "Lawyer, Kolkata"
+          ],
+          "correctIndex": 0,
+          "difficulty": "hard",
+          "hint": "Construct a 3-column matrix grid (Name, Profession, City) and fill definite clues first.",
+          "explanation": "From the clues, Deepak is explicitly a Doctor, and the person in Chennai is a Doctor. Therefore, Deepak lives in Chennai and works as a Doctor.",
+          "solutionSteps": "Step 1: Direct link 1: Deepak -> Doctor.\nStep 2: Direct link 2: Chennai -> Doctor.\nStep 3: Combining yields: Deepak is a Doctor from Chennai.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Four professionals Chandan, Bipin, Amit, and Deepak belong to four different cities: Kolkata, Delhi, Chennai, Mumbai, and have four professions: Doctor, Engineer, Lawyer, Architect.\n- Chandan is a Doctor but does not live in Delhi.\n- The person living in Kolkata is a Doctor.\n- Bipin lives in Delhi and is an Engineer.\n- Amit is not a Architect.\nWhat is the profession of Chandan and which city does Chandan belong to?",
+          "options": [
+            "Lawyer, Chennai",
+            "Architect, Mumbai",
+            "Engineer, Delhi",
+            "Doctor, Kolkata"
+          ],
+          "correctIndex": 3,
+          "difficulty": "hard",
+          "hint": "Construct a 3-column matrix grid (Name, Profession, City) and fill definite clues first.",
+          "explanation": "From the clues, Chandan is explicitly a Doctor, and the person in Kolkata is a Doctor. Therefore, Chandan lives in Kolkata and works as a Doctor.",
+          "solutionSteps": "Step 1: Direct link 1: Chandan -> Doctor.\nStep 2: Direct link 2: Kolkata -> Doctor.\nStep 3: Combining yields: Chandan is a Doctor from Kolkata.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Four professionals Chandan, Deepak, Bipin, and Amit belong to four different cities: Chennai, Delhi, Mumbai, Kolkata, and have four professions: Lawyer, Architect, Engineer, Doctor.\n- Chandan is a Lawyer but does not live in Delhi.\n- The person living in Chennai is a Lawyer.\n- Deepak lives in Delhi and is an Architect.\n- Bipin is not a Doctor.\nWhat is the profession of Chandan and which city does Chandan belong to?",
+          "options": [
+            "Doctor, Kolkata",
+            "Lawyer, Chennai",
+            "Engineer, Mumbai",
+            "Architect, Delhi"
+          ],
+          "correctIndex": 1,
+          "difficulty": "hard",
+          "hint": "Construct a 3-column matrix grid (Name, Profession, City) and fill definite clues first.",
+          "explanation": "From the clues, Chandan is explicitly a Lawyer, and the person in Chennai is a Lawyer. Therefore, Chandan lives in Chennai and works as a Lawyer.",
+          "solutionSteps": "Step 1: Direct link 1: Chandan -> Lawyer.\nStep 2: Direct link 2: Chennai -> Lawyer.\nStep 3: Combining yields: Chandan is a Lawyer from Chennai.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Four professionals Bipin, Deepak, Amit, and Chandan belong to four different cities: Chennai, Kolkata, Mumbai, Delhi, and have four professions: Architect, Engineer, Lawyer, Doctor.\n- Bipin is a Architect but does not live in Kolkata.\n- The person living in Chennai is a Architect.\n- Deepak lives in Kolkata and is an Engineer.\n- Amit is not a Doctor.\nWhat is the profession of Bipin and which city does Bipin belong to?",
+          "options": [
+            "Architect, Chennai",
+            "Lawyer, Mumbai",
+            "Engineer, Kolkata",
+            "Doctor, Delhi"
+          ],
+          "correctIndex": 0,
+          "difficulty": "hard",
+          "hint": "Construct a 3-column matrix grid (Name, Profession, City) and fill definite clues first.",
+          "explanation": "From the clues, Bipin is explicitly a Architect, and the person in Chennai is a Architect. Therefore, Bipin lives in Chennai and works as a Architect.",
+          "solutionSteps": "Step 1: Direct link 1: Bipin -> Architect.\nStep 2: Direct link 2: Chennai -> Architect.\nStep 3: Combining yields: Bipin is a Architect from Chennai.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Four professionals Bipin, Amit, Chandan, and Deepak belong to four different cities: Delhi, Chennai, Kolkata, Mumbai, and have four professions: Lawyer, Doctor, Architect, Engineer.\n- Bipin is a Lawyer but does not live in Chennai.\n- The person living in Delhi is a Lawyer.\n- Amit lives in Chennai and is an Doctor.\n- Chandan is not a Engineer.\nWhat is the profession of Bipin and which city does Bipin belong to?",
+          "options": [
+            "Engineer, Mumbai",
+            "Doctor, Chennai",
+            "Lawyer, Delhi",
+            "Architect, Kolkata"
+          ],
+          "correctIndex": 2,
+          "difficulty": "hard",
+          "hint": "Construct a 3-column matrix grid (Name, Profession, City) and fill definite clues first.",
+          "explanation": "From the clues, Bipin is explicitly a Lawyer, and the person in Delhi is a Lawyer. Therefore, Bipin lives in Delhi and works as a Lawyer.",
+          "solutionSteps": "Step 1: Direct link 1: Bipin -> Lawyer.\nStep 2: Direct link 2: Delhi -> Lawyer.\nStep 3: Combining yields: Bipin is a Lawyer from Delhi.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Four professionals Amit, Chandan, Bipin, and Deepak belong to four different cities: Mumbai, Kolkata, Delhi, Chennai, and have four professions: Engineer, Doctor, Lawyer, Architect.\n- Amit is a Engineer but does not live in Kolkata.\n- The person living in Mumbai is a Engineer.\n- Chandan lives in Kolkata and is an Doctor.\n- Bipin is not a Architect.\nWhat is the profession of Amit and which city does Amit belong to?",
+          "options": [
+            "Lawyer, Delhi",
+            "Engineer, Mumbai",
+            "Architect, Chennai",
+            "Doctor, Kolkata"
+          ],
+          "correctIndex": 1,
+          "difficulty": "hard",
+          "hint": "Construct a 3-column matrix grid (Name, Profession, City) and fill definite clues first.",
+          "explanation": "From the clues, Amit is explicitly a Engineer, and the person in Mumbai is a Engineer. Therefore, Amit lives in Mumbai and works as a Engineer.",
+          "solutionSteps": "Step 1: Direct link 1: Amit -> Engineer.\nStep 2: Direct link 2: Mumbai -> Engineer.\nStep 3: Combining yields: Amit is a Engineer from Mumbai.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Four professionals Amit, Bipin, Chandan, and Deepak belong to four different cities: Kolkata, Chennai, Delhi, Mumbai, and have four professions: Lawyer, Doctor, Engineer, Architect.\n- Amit is a Lawyer but does not live in Chennai.\n- The person living in Kolkata is a Lawyer.\n- Bipin lives in Chennai and is an Doctor.\n- Chandan is not a Architect.\nWhat is the profession of Amit and which city does Amit belong to?",
+          "options": [
+            "Architect, Mumbai",
+            "Doctor, Chennai",
+            "Lawyer, Kolkata",
+            "Engineer, Delhi"
+          ],
+          "correctIndex": 2,
+          "difficulty": "hard",
+          "hint": "Construct a 3-column matrix grid (Name, Profession, City) and fill definite clues first.",
+          "explanation": "From the clues, Amit is explicitly a Lawyer, and the person in Kolkata is a Lawyer. Therefore, Amit lives in Kolkata and works as a Lawyer.",
+          "solutionSteps": "Step 1: Direct link 1: Amit -> Lawyer.\nStep 2: Direct link 2: Kolkata -> Lawyer.\nStep 3: Combining yields: Amit is a Lawyer from Kolkata.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Four professionals Deepak, Amit, Bipin, and Chandan belong to four different cities: Chennai, Kolkata, Mumbai, Delhi, and have four professions: Engineer, Lawyer, Architect, Doctor.\n- Deepak is a Engineer but does not live in Kolkata.\n- The person living in Chennai is a Engineer.\n- Amit lives in Kolkata and is an Lawyer.\n- Bipin is not a Doctor.\nWhat is the profession of Deepak and which city does Deepak belong to?",
+          "options": [
+            "Architect, Mumbai",
+            "Lawyer, Kolkata",
+            "Engineer, Chennai",
+            "Doctor, Delhi"
+          ],
+          "correctIndex": 2,
+          "difficulty": "hard",
+          "hint": "Construct a 3-column matrix grid (Name, Profession, City) and fill definite clues first.",
+          "explanation": "From the clues, Deepak is explicitly a Engineer, and the person in Chennai is a Engineer. Therefore, Deepak lives in Chennai and works as a Engineer.",
+          "solutionSteps": "Step 1: Direct link 1: Deepak -> Engineer.\nStep 2: Direct link 2: Chennai -> Engineer.\nStep 3: Combining yields: Deepak is a Engineer from Chennai.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         }
       ]

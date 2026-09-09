@@ -152,9 +152,13 @@ export interface BookmarkItem {
 
 export interface TopicProgressSummary {
   topicId: string;
+  topicName?: string;
+  category?: ReasoningCategory;
+  totalQuestions?: number;
   totalAttempted: number;
   totalCorrect: number;
   accuracy: number;
+  masteryStatus?: "unstarted" | "practicing" | "proficient" | "mastered";
   lastAttemptedTimestamp?: number;
 }
 

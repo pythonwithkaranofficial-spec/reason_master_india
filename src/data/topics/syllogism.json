@@ -49,343 +49,483 @@
       ],
       "practiceQuestions": [
         {
-          "questionText": "Syllogism Practice Q1: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "Statements:\n1. All Pens are Books.\n2. All Books are Papers.\n\nConclusions:\nI. Some Papers are Pens.\nII. All Pens are Papers.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Syllogism. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "IBPS Clerk"
-          ]
-        },
-        {
-          "questionText": "Syllogism Practice Q2: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Only conclusion I follows",
+            "Only conclusion II follows",
+            "Both conclusion I and II follow",
+            "Neither conclusion I nor II follows"
           ],
           "correctIndex": 2,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Syllogism. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Draw Venn diagrams. A conclusion must hold in ALL valid diagrams to be considered true.",
+          "explanation": "Since all Pens are Books and all Books are Papers, the set of Pens is entirely contained within Papers. Hence, All Pens are Papers is true, and Some Papers are Pens is definitely true.",
+          "solutionSteps": "Step 1: Venn diagram: circle of Pens is inside Books, and circle of Books is inside Papers.\nStep 2: Conclusion I (\"Some Papers are Pens\") holds valid because Pens occupies part of Papers.\nStep 3: Conclusion II (\"All Pens are Papers\") holds valid unconditionally.\nStep 4: Both conclusions I and II follow.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "IBPS Clerk"
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Syllogism Practice Q3: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "Statements:\n1. All Rivers are Oceans.\n2. All Oceans are Lakes.\n\nConclusions:\nI. Some Lakes are Rivers.\nII. All Rivers are Lakes.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Syllogism. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "IBPS Clerk"
-          ]
-        },
-        {
-          "questionText": "Syllogism Practice Q4: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Syllogism. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "IBPS Clerk"
-          ]
-        },
-        {
-          "questionText": "Syllogism Practice Q5: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Syllogism. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "IBPS Clerk"
-          ]
-        },
-        {
-          "questionText": "Syllogism Practice Q6: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Only conclusion I follows",
+            "Only conclusion II follows",
+            "Both conclusion I and II follow",
+            "Neither conclusion I nor II follows"
           ],
           "correctIndex": 2,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Syllogism. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Draw Venn diagrams. A conclusion must hold in ALL valid diagrams to be considered true.",
+          "explanation": "Since all Rivers are Oceans and all Oceans are Lakes, the set of Rivers is entirely contained within Lakes. Hence, All Rivers are Lakes is true, and Some Lakes are Rivers is definitely true.",
+          "solutionSteps": "Step 1: Venn diagram: circle of Rivers is inside Oceans, and circle of Oceans is inside Lakes.\nStep 2: Conclusion I (\"Some Lakes are Rivers\") holds valid because Rivers occupies part of Lakes.\nStep 3: Conclusion II (\"All Rivers are Lakes\") holds valid unconditionally.\nStep 4: Both conclusions I and II follow.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "IBPS Clerk"
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Syllogism Practice Q7: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "Statements:\n1. All Doctors are Professionals.\n2. All Professionals are Engineers.\n\nConclusions:\nI. Some Engineers are Doctors.\nII. All Doctors are Engineers.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Only conclusion I follows",
+            "Only conclusion II follows",
+            "Both conclusion I and II follow",
+            "Neither conclusion I nor II follows"
           ],
-          "correctIndex": 3,
+          "correctIndex": 2,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Syllogism. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Draw Venn diagrams. A conclusion must hold in ALL valid diagrams to be considered true.",
+          "explanation": "Since all Doctors are Professionals and all Professionals are Engineers, the set of Doctors is entirely contained within Engineers. Hence, All Doctors are Engineers is true, and Some Engineers are Doctors is definitely true.",
+          "solutionSteps": "Step 1: Venn diagram: circle of Doctors is inside Professionals, and circle of Professionals is inside Engineers.\nStep 2: Conclusion I (\"Some Engineers are Doctors\") holds valid because Doctors occupies part of Engineers.\nStep 3: Conclusion II (\"All Doctors are Engineers\") holds valid unconditionally.\nStep 4: Both conclusions I and II follow.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "IBPS Clerk"
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Syllogism Practice Q8: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "Statements:\n1. All Apples are Fruits.\n2. All Fruits are Vegetables.\n\nConclusions:\nI. Some Vegetables are Apples.\nII. All Apples are Vegetables.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Only conclusion I follows",
+            "Only conclusion II follows",
+            "Both conclusion I and II follow",
+            "Neither conclusion I nor II follows"
+          ],
+          "correctIndex": 2,
+          "difficulty": "easy",
+          "hint": "Draw Venn diagrams. A conclusion must hold in ALL valid diagrams to be considered true.",
+          "explanation": "Since all Apples are Fruits and all Fruits are Vegetables, the set of Apples is entirely contained within Vegetables. Hence, All Apples are Vegetables is true, and Some Vegetables are Apples is definitely true.",
+          "solutionSteps": "Step 1: Venn diagram: circle of Apples is inside Fruits, and circle of Fruits is inside Vegetables.\nStep 2: Conclusion I (\"Some Vegetables are Apples\") holds valid because Apples occupies part of Vegetables.\nStep 3: Conclusion II (\"All Apples are Vegetables\") holds valid unconditionally.\nStep 4: Both conclusions I and II follow.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Statements:\n1. All Chairs are Tables.\n2. All Tables are Furniture.\n\nConclusions:\nI. Some Furniture are Chairs.\nII. All Chairs are Furniture.",
+          "options": [
+            "Only conclusion I follows",
+            "Only conclusion II follows",
+            "Both conclusion I and II follow",
+            "Neither conclusion I nor II follows"
+          ],
+          "correctIndex": 2,
+          "difficulty": "easy",
+          "hint": "Draw Venn diagrams. A conclusion must hold in ALL valid diagrams to be considered true.",
+          "explanation": "Since all Chairs are Tables and all Tables are Furniture, the set of Chairs is entirely contained within Furniture. Hence, All Chairs are Furniture is true, and Some Furniture are Chairs is definitely true.",
+          "solutionSteps": "Step 1: Venn diagram: circle of Chairs is inside Tables, and circle of Tables is inside Furniture.\nStep 2: Conclusion I (\"Some Furniture are Chairs\") holds valid because Chairs occupies part of Furniture.\nStep 3: Conclusion II (\"All Chairs are Furniture\") holds valid unconditionally.\nStep 4: Both conclusions I and II follow.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Statements:\n1. All Pens are Books.\n2. All Books are Papers.\n\nConclusions:\nI. Some Papers are Pens.\nII. All Pens are Papers.",
+          "options": [
+            "Only conclusion I follows",
+            "Only conclusion II follows",
+            "Both conclusion I and II follow",
+            "Neither conclusion I nor II follows"
+          ],
+          "correctIndex": 2,
+          "difficulty": "easy",
+          "hint": "Draw Venn diagrams. A conclusion must hold in ALL valid diagrams to be considered true.",
+          "explanation": "Since all Pens are Books and all Books are Papers, the set of Pens is entirely contained within Papers. Hence, All Pens are Papers is true, and Some Papers are Pens is definitely true.",
+          "solutionSteps": "Step 1: Venn diagram: circle of Pens is inside Books, and circle of Books is inside Papers.\nStep 2: Conclusion I (\"Some Papers are Pens\") holds valid because Pens occupies part of Papers.\nStep 3: Conclusion II (\"All Pens are Papers\") holds valid unconditionally.\nStep 4: Both conclusions I and II follow.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Statements:\n1. Some Cats are Dogs.\n2. All Dogs are Animals.\n\nConclusions:\nI. Some Cats are Animals.\nII. All Animals are Cats.",
+          "options": [
+            "Only conclusion I follows",
+            "Only conclusion II follows",
+            "Both conclusion I and II follow",
+            "Neither conclusion I nor II follows"
           ],
           "correctIndex": 0,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Syllogism. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Draw Venn diagrams. A conclusion must hold in ALL valid diagrams to be considered true.",
+          "explanation": "The intersection between Cats and Dogs is entirely inside Animals, ensuring Some Cats are Animals. However, All Animals are Cats cannot be definitively deduced.",
+          "solutionSteps": "Step 1: Some Cats are Dogs creates an overlap between Cats and Dogs.\nStep 2: Since all Dogs are within Animals, the overlapping portion of Cats is also inside Animals. Thus Conclusion I follows.\nStep 3: There is no guarantee that all Animals belong to Cats. Conclusion II does not follow.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "IBPS Clerk"
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Syllogism Practice Q9: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "Statements:\n1. All Cars are Vehicles.\n2. Some Vehicles are Trucks.\n\nConclusions:\nI. Some Cars are Trucks.\nII. Some Trucks are Vehicles.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Only conclusion I follows",
+            "Only conclusion II follows",
+            "Both conclusion I and II follow",
+            "Neither conclusion I nor II follows"
           ],
           "correctIndex": 1,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Syllogism. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Draw Venn diagrams. A conclusion must hold in ALL valid diagrams to be considered true.",
+          "explanation": "Some Vehicles are Trucks directly implies Some Trucks are Vehicles (conversion rule). But the overlap of Vehicles and Trucks might not touch Cars, so Some Cars are Trucks cannot be definitively concluded.",
+          "solutionSteps": "Step 1: Some Vehicles are Trucks allows immediate valid conversion to Some Trucks are Vehicles (Conclusion II follows).\nStep 2: There is no direct link between Cars and Trucks. Conclusion I is only possible, not definite.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "IBPS Clerk"
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Syllogism Practice Q10: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "Statements:\n1. Some Trees are Plants.\n2. All Plants are Flowers.\n\nConclusions:\nI. Some Trees are Flowers.\nII. All Flowers are Trees.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 2,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Syllogism. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "IBPS Clerk"
-          ]
-        },
-        {
-          "questionText": "Syllogism Practice Q11: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Syllogism. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "IBPS Clerk"
-          ]
-        },
-        {
-          "questionText": "Syllogism Practice Q12: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Only conclusion I follows",
+            "Only conclusion II follows",
+            "Both conclusion I and II follow",
+            "Neither conclusion I nor II follows"
           ],
           "correctIndex": 0,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Syllogism. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Draw Venn diagrams. A conclusion must hold in ALL valid diagrams to be considered true.",
+          "explanation": "The intersection between Trees and Plants is entirely inside Flowers, ensuring Some Trees are Flowers. However, All Flowers are Trees cannot be definitively deduced.",
+          "solutionSteps": "Step 1: Some Trees are Plants creates an overlap between Trees and Plants.\nStep 2: Since all Plants are within Flowers, the overlapping portion of Trees is also inside Flowers. Thus Conclusion I follows.\nStep 3: There is no guarantee that all Flowers belong to Trees. Conclusion II does not follow.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "IBPS Clerk"
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Syllogism Practice Q13: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "Statements:\n1. All Phones are Gadgets.\n2. Some Gadgets are Laptops.\n\nConclusions:\nI. Some Phones are Laptops.\nII. Some Laptops are Gadgets.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Only conclusion I follows",
+            "Only conclusion II follows",
+            "Both conclusion I and II follow",
+            "Neither conclusion I nor II follows"
           ],
           "correctIndex": 1,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Syllogism. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Draw Venn diagrams. A conclusion must hold in ALL valid diagrams to be considered true.",
+          "explanation": "Some Gadgets are Laptops directly implies Some Laptops are Gadgets (conversion rule). But the overlap of Gadgets and Laptops might not touch Phones, so Some Phones are Laptops cannot be definitively concluded.",
+          "solutionSteps": "Step 1: Some Gadgets are Laptops allows immediate valid conversion to Some Laptops are Gadgets (Conclusion II follows).\nStep 2: There is no direct link between Phones and Laptops. Conclusion I is only possible, not definite.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "IBPS Clerk"
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Syllogism Practice Q14: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "Statements:\n1. Some Reds are Colors.\n2. All Colors are Blues.\n\nConclusions:\nI. Some Reds are Blues.\nII. All Blues are Reds.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 2,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Syllogism. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "IBPS Clerk"
-          ]
-        },
-        {
-          "questionText": "Syllogism Practice Q15: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Syllogism. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "IBPS PO",
-            "SBI PO",
-            "IBPS Clerk"
-          ]
-        },
-        {
-          "questionText": "Syllogism Practice Q16: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Only conclusion I follows",
+            "Only conclusion II follows",
+            "Both conclusion I and II follow",
+            "Neither conclusion I nor II follows"
           ],
           "correctIndex": 0,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Syllogism. Work through the problem step by step using the shortcuts taught in this topic.",
+          "difficulty": "medium",
+          "hint": "Draw Venn diagrams. A conclusion must hold in ALL valid diagrams to be considered true.",
+          "explanation": "The intersection between Reds and Colors is entirely inside Blues, ensuring Some Reds are Blues. However, All Blues are Reds cannot be definitively deduced.",
+          "solutionSteps": "Step 1: Some Reds are Colors creates an overlap between Reds and Colors.\nStep 2: Since all Colors are within Blues, the overlapping portion of Reds is also inside Blues. Thus Conclusion I follows.\nStep 3: There is no guarantee that all Blues belong to Reds. Conclusion II does not follow.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "IBPS Clerk"
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Syllogism Practice Q17: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "Statements:\n1. All Cats are Dogs.\n2. Some Dogs are Animals.\n\nConclusions:\nI. Some Cats are Animals.\nII. Some Animals are Dogs.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Only conclusion I follows",
+            "Only conclusion II follows",
+            "Both conclusion I and II follow",
+            "Neither conclusion I nor II follows"
           ],
           "correctIndex": 1,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Syllogism. Work through the problem step by step using the shortcuts taught in this topic.",
+          "difficulty": "medium",
+          "hint": "Draw Venn diagrams. A conclusion must hold in ALL valid diagrams to be considered true.",
+          "explanation": "Some Dogs are Animals directly implies Some Animals are Dogs (conversion rule). But the overlap of Dogs and Animals might not touch Cats, so Some Cats are Animals cannot be definitively concluded.",
+          "solutionSteps": "Step 1: Some Dogs are Animals allows immediate valid conversion to Some Animals are Dogs (Conclusion II follows).\nStep 2: There is no direct link between Cats and Animals. Conclusion I is only possible, not definite.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "IBPS Clerk"
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Syllogism Practice Q18: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "Statements:\n1. Some Cars are Vehicles.\n2. All Vehicles are Trucks.\n\nConclusions:\nI. Some Cars are Trucks.\nII. All Trucks are Cars.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Only conclusion I follows",
+            "Only conclusion II follows",
+            "Both conclusion I and II follow",
+            "Neither conclusion I nor II follows"
           ],
-          "correctIndex": 2,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Syllogism. Work through the problem step by step using the shortcuts taught in this topic.",
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "hint": "Draw Venn diagrams. A conclusion must hold in ALL valid diagrams to be considered true.",
+          "explanation": "The intersection between Cars and Vehicles is entirely inside Trucks, ensuring Some Cars are Trucks. However, All Trucks are Cars cannot be definitively deduced.",
+          "solutionSteps": "Step 1: Some Cars are Vehicles creates an overlap between Cars and Vehicles.\nStep 2: Since all Vehicles are within Trucks, the overlapping portion of Cars is also inside Trucks. Thus Conclusion I follows.\nStep 3: There is no guarantee that all Trucks belong to Cars. Conclusion II does not follow.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "IBPS Clerk"
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Syllogism Practice Q19: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "Statements:\n1. All Trees are Plants.\n2. Some Plants are Flowers.\n\nConclusions:\nI. Some Trees are Flowers.\nII. Some Flowers are Plants.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Only conclusion I follows",
+            "Only conclusion II follows",
+            "Both conclusion I and II follow",
+            "Neither conclusion I nor II follows"
           ],
-          "correctIndex": 3,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Syllogism. Work through the problem step by step using the shortcuts taught in this topic.",
+          "correctIndex": 1,
+          "difficulty": "medium",
+          "hint": "Draw Venn diagrams. A conclusion must hold in ALL valid diagrams to be considered true.",
+          "explanation": "Some Plants are Flowers directly implies Some Flowers are Plants (conversion rule). But the overlap of Plants and Flowers might not touch Trees, so Some Trees are Flowers cannot be definitively concluded.",
+          "solutionSteps": "Step 1: Some Plants are Flowers allows immediate valid conversion to Some Flowers are Plants (Conclusion II follows).\nStep 2: There is no direct link between Trees and Flowers. Conclusion I is only possible, not definite.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "IBPS Clerk"
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Syllogism Practice Q20: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "Statements:\n1. No Apples is Fruits.\n2. All Fruits are Vegetables.\n\nConclusions:\nI. Some Vegetables are not Apples.\nII. No Apples is Vegetables.",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Only conclusion I follows",
+            "Only conclusion II follows",
+            "Both conclusion I and II follow",
+            "Neither conclusion I nor II follows"
           ],
           "correctIndex": 0,
           "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Syllogism. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Draw Venn diagrams. A conclusion must hold in ALL valid diagrams to be considered true.",
+          "explanation": "The portion of Vegetables that contains Fruits cannot be Apples (because No Apples is Fruits). Therefore, Some Vegetables are not Apples definitely follows. But No Apples is Vegetables does not follow because Apples can overlap with parts of Vegetables outside Fruits.",
+          "solutionSteps": "Step 1: Set Fruits is disjoint from Apples.\nStep 2: All Fruits are in Vegetables, which means at least that part of Vegetables cannot overlap with Apples. Hence Some Vegetables are not Apples follows.\nStep 3: Apples may or may not overlap with remaining parts of Vegetables, so definite negative \"No Apples is Vegetables\" fails.",
           "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
             "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
             "SBI PO",
-            "IBPS Clerk"
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Statements:\n1. No Chairs is Tables.\n2. All Tables are Furniture.\n\nConclusions:\nI. Some Furniture are not Chairs.\nII. No Chairs is Furniture.",
+          "options": [
+            "Only conclusion I follows",
+            "Only conclusion II follows",
+            "Both conclusion I and II follow",
+            "Neither conclusion I nor II follows"
+          ],
+          "correctIndex": 0,
+          "difficulty": "hard",
+          "hint": "Draw Venn diagrams. A conclusion must hold in ALL valid diagrams to be considered true.",
+          "explanation": "The portion of Furniture that contains Tables cannot be Chairs (because No Chairs is Tables). Therefore, Some Furniture are not Chairs definitely follows. But No Chairs is Furniture does not follow because Chairs can overlap with parts of Furniture outside Tables.",
+          "solutionSteps": "Step 1: Set Tables is disjoint from Chairs.\nStep 2: All Tables are in Furniture, which means at least that part of Furniture cannot overlap with Chairs. Hence Some Furniture are not Chairs follows.\nStep 3: Chairs may or may not overlap with remaining parts of Furniture, so definite negative \"No Chairs is Furniture\" fails.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Statements:\n1. No Pens is Books.\n2. All Books are Papers.\n\nConclusions:\nI. Some Papers are not Pens.\nII. No Pens is Papers.",
+          "options": [
+            "Only conclusion I follows",
+            "Only conclusion II follows",
+            "Both conclusion I and II follow",
+            "Neither conclusion I nor II follows"
+          ],
+          "correctIndex": 0,
+          "difficulty": "hard",
+          "hint": "Draw Venn diagrams. A conclusion must hold in ALL valid diagrams to be considered true.",
+          "explanation": "The portion of Papers that contains Books cannot be Pens (because No Pens is Books). Therefore, Some Papers are not Pens definitely follows. But No Pens is Papers does not follow because Pens can overlap with parts of Papers outside Books.",
+          "solutionSteps": "Step 1: Set Books is disjoint from Pens.\nStep 2: All Books are in Papers, which means at least that part of Papers cannot overlap with Pens. Hence Some Papers are not Pens follows.\nStep 3: Pens may or may not overlap with remaining parts of Papers, so definite negative \"No Pens is Papers\" fails.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Statements:\n1. No Rivers is Oceans.\n2. All Oceans are Lakes.\n\nConclusions:\nI. Some Lakes are not Rivers.\nII. No Rivers is Lakes.",
+          "options": [
+            "Only conclusion I follows",
+            "Only conclusion II follows",
+            "Both conclusion I and II follow",
+            "Neither conclusion I nor II follows"
+          ],
+          "correctIndex": 0,
+          "difficulty": "hard",
+          "hint": "Draw Venn diagrams. A conclusion must hold in ALL valid diagrams to be considered true.",
+          "explanation": "The portion of Lakes that contains Oceans cannot be Rivers (because No Rivers is Oceans). Therefore, Some Lakes are not Rivers definitely follows. But No Rivers is Lakes does not follow because Rivers can overlap with parts of Lakes outside Oceans.",
+          "solutionSteps": "Step 1: Set Oceans is disjoint from Rivers.\nStep 2: All Oceans are in Lakes, which means at least that part of Lakes cannot overlap with Rivers. Hence Some Lakes are not Rivers follows.\nStep 3: Rivers may or may not overlap with remaining parts of Lakes, so definite negative \"No Rivers is Lakes\" fails.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Statements:\n1. No Doctors is Professionals.\n2. All Professionals are Engineers.\n\nConclusions:\nI. Some Engineers are not Doctors.\nII. No Doctors is Engineers.",
+          "options": [
+            "Only conclusion I follows",
+            "Only conclusion II follows",
+            "Both conclusion I and II follow",
+            "Neither conclusion I nor II follows"
+          ],
+          "correctIndex": 0,
+          "difficulty": "hard",
+          "hint": "Draw Venn diagrams. A conclusion must hold in ALL valid diagrams to be considered true.",
+          "explanation": "The portion of Engineers that contains Professionals cannot be Doctors (because No Doctors is Professionals). Therefore, Some Engineers are not Doctors definitely follows. But No Doctors is Engineers does not follow because Doctors can overlap with parts of Engineers outside Professionals.",
+          "solutionSteps": "Step 1: Set Professionals is disjoint from Doctors.\nStep 2: All Professionals are in Engineers, which means at least that part of Engineers cannot overlap with Doctors. Hence Some Engineers are not Doctors follows.\nStep 3: Doctors may or may not overlap with remaining parts of Engineers, so definite negative \"No Doctors is Engineers\" fails.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Statements:\n1. No Apples is Fruits.\n2. All Fruits are Vegetables.\n\nConclusions:\nI. Some Vegetables are not Apples.\nII. No Apples is Vegetables.",
+          "options": [
+            "Only conclusion I follows",
+            "Only conclusion II follows",
+            "Both conclusion I and II follow",
+            "Neither conclusion I nor II follows"
+          ],
+          "correctIndex": 0,
+          "difficulty": "hard",
+          "hint": "Draw Venn diagrams. A conclusion must hold in ALL valid diagrams to be considered true.",
+          "explanation": "The portion of Vegetables that contains Fruits cannot be Apples (because No Apples is Fruits). Therefore, Some Vegetables are not Apples definitely follows. But No Apples is Vegetables does not follow because Apples can overlap with parts of Vegetables outside Fruits.",
+          "solutionSteps": "Step 1: Set Fruits is disjoint from Apples.\nStep 2: All Fruits are in Vegetables, which means at least that part of Vegetables cannot overlap with Apples. Hence Some Vegetables are not Apples follows.\nStep 3: Apples may or may not overlap with remaining parts of Vegetables, so definite negative \"No Apples is Vegetables\" fails.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         }
       ]

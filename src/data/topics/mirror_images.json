@@ -49,343 +49,463 @@
       ],
       "practiceQuestions": [
         {
-          "questionText": "Mirror Images Practice Q1: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "Choose the correct mirror image of the given word when the mirror is placed on the right side (line MN):\n\nQUALITY",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Mirror Images. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Mirror Images Practice Q2: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 2,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Mirror Images. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Mirror Images Practice Q3: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Inverted QUALITY without reversing letter sequence (starting with inverted 'Q')",
+            "Original word QUALITY unchanged",
+            "Water image of QUALITY (vertically flipped upside-down)",
+            "Mirror image of QUALITY (starting with inverted 'Y' and ending with inverted 'Q')"
           ],
           "correctIndex": 3,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Mirror Images. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "In a vertical mirror on the right, the rightmost letter appears first, and individual letters are laterally inverted.",
+          "explanation": "Laterally inverted string starting with inverted Y and ending with inverted Q. Mirror image of QUALITY (starting with inverted 'Y' and ending with inverted 'Q').",
+          "solutionSteps": "Step 1: Identify the plane of reflection (vertical plane MN).\nStep 2: Lateral inversion flips left and right while maintaining top and bottom.\nStep 3: Correct result is Mirror image of QUALITY (starting with inverted 'Y' and ending with inverted 'Q').",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         },
         {
-          "questionText": "Mirror Images Practice Q4: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "Choose the correct mirror image of the given word when the mirror is placed on the right side (line MN):\n\nWESTERN",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Mirror Images. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Mirror Images Practice Q5: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Mirror Images. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Mirror Images Practice Q6: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Inverted WESTERN without reversing letter sequence (starting with inverted 'W')",
+            "Water image of WESTERN (vertically flipped upside-down)",
+            "Mirror image of WESTERN (starting with inverted 'N' and ending with inverted 'W')",
+            "Original word WESTERN unchanged"
           ],
           "correctIndex": 2,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Mirror Images. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "In a vertical mirror on the right, the rightmost letter appears first, and individual letters are laterally inverted.",
+          "explanation": "Each character undergoes horizontal flip; sequence reverses. Mirror image of WESTERN (starting with inverted 'N' and ending with inverted 'W').",
+          "solutionSteps": "Step 1: Identify the plane of reflection (vertical plane MN).\nStep 2: Lateral inversion flips left and right while maintaining top and bottom.\nStep 3: Correct result is Mirror image of WESTERN (starting with inverted 'N' and ending with inverted 'W').",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         },
         {
-          "questionText": "Mirror Images Practice Q7: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "Choose the correct mirror image of the given word when the mirror is placed on the right side (line MN):\n\nNATION",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Original word NATION unchanged",
+            "Mirror image of NATION (starting with inverted 'N' and ending with inverted 'N')",
+            "Inverted NATION without reversing letter sequence (starting with inverted 'N')",
+            "Water image of NATION (vertically flipped upside-down)"
           ],
-          "correctIndex": 3,
+          "correctIndex": 1,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Mirror Images. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "In a vertical mirror on the right, the rightmost letter appears first, and individual letters are laterally inverted.",
+          "explanation": "First letter N moves to last position with inverted diagonals. Mirror image of NATION (starting with inverted 'N' and ending with inverted 'N').",
+          "solutionSteps": "Step 1: Identify the plane of reflection (vertical plane MN).\nStep 2: Lateral inversion flips left and right while maintaining top and bottom.\nStep 3: Correct result is Mirror image of NATION (starting with inverted 'N' and ending with inverted 'N').",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         },
         {
-          "questionText": "Mirror Images Practice Q8: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "Choose the correct mirror image of the given word when the mirror is placed on the right side (line MN):\n\nPLANET",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Mirror Images. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Mirror Images Practice Q9: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Water image of PLANET (vertically flipped upside-down)",
+            "Mirror image of PLANET (starting with inverted 'T' and ending with inverted 'P')",
+            "Original word PLANET unchanged",
+            "Inverted PLANET without reversing letter sequence (starting with inverted 'P')"
           ],
           "correctIndex": 1,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Mirror Images. Work through the problem step by step using the shortcuts taught in this topic.",
+          "difficulty": "easy",
+          "hint": "In a vertical mirror on the right, the rightmost letter appears first, and individual letters are laterally inverted.",
+          "explanation": "Rightmost letter T appears first; leftmost letter P appears last inverted. Mirror image of PLANET (starting with inverted 'T' and ending with inverted 'P').",
+          "solutionSteps": "Step 1: Identify the plane of reflection (vertical plane MN).\nStep 2: Lateral inversion flips left and right while maintaining top and bottom.\nStep 3: Correct result is Mirror image of PLANET (starting with inverted 'T' and ending with inverted 'P').",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         },
         {
-          "questionText": "Mirror Images Practice Q10: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "Choose the correct mirror image of the given word when the mirror is placed on the right side (line MN):\n\nVICTORY",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "Original word VICTORY unchanged",
+            "Inverted VICTORY without reversing letter sequence (starting with inverted 'V')",
+            "Mirror image of VICTORY (starting with inverted 'Y' and ending with inverted 'V')",
+            "Water image of VICTORY (vertically flipped upside-down)"
+          ],
+          "correctIndex": 2,
+          "difficulty": "easy",
+          "hint": "In a vertical mirror on the right, the rightmost letter appears first, and individual letters are laterally inverted.",
+          "explanation": "Symmetric letters (V, I, T, O, Y) retain appearance; C and R invert. Mirror image of VICTORY (starting with inverted 'Y' and ending with inverted 'V').",
+          "solutionSteps": "Step 1: Identify the plane of reflection (vertical plane MN).\nStep 2: Lateral inversion flips left and right while maintaining top and bottom.\nStep 3: Correct result is Mirror image of VICTORY (starting with inverted 'Y' and ending with inverted 'V').",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
+          ]
+        },
+        {
+          "questionText": "Choose the correct mirror image of the given word when the mirror is placed on the right side (line MN):\n\nQUALITY",
+          "options": [
+            "Water image of QUALITY (vertically flipped upside-down)",
+            "Original word QUALITY unchanged",
+            "Mirror image of QUALITY (starting with inverted 'Y' and ending with inverted 'Q')",
+            "Inverted QUALITY without reversing letter sequence (starting with inverted 'Q')"
+          ],
+          "correctIndex": 2,
+          "difficulty": "easy",
+          "hint": "In a vertical mirror on the right, the rightmost letter appears first, and individual letters are laterally inverted.",
+          "explanation": "Laterally inverted string starting with inverted Y and ending with inverted Q. Mirror image of QUALITY (starting with inverted 'Y' and ending with inverted 'Q').",
+          "solutionSteps": "Step 1: Identify the plane of reflection (vertical plane MN).\nStep 2: Lateral inversion flips left and right while maintaining top and bottom.\nStep 3: Correct result is Mirror image of QUALITY (starting with inverted 'Y' and ending with inverted 'Q').",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
+          ]
+        },
+        {
+          "questionText": "A clock shows 3:25 when seen in a plane mirror placed vertically on the wall. What is the actual correct time?",
+          "options": [
+            "9:35",
+            "8:25",
+            "8:35",
+            "9:25"
           ],
           "correctIndex": 2,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Mirror Images. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "For mirror clock time, subtract the given time from 11:60 (or 23:60).",
+          "explanation": "Rule: Actual Time = 11:60 - Mirror Time. Here: 11:60 - 3:25 = 8:35.",
+          "solutionSteps": "Step 1: Identify the plane of reflection (vertical plane MN).\nStep 2: Lateral inversion flips left and right while maintaining top and bottom.\nStep 3: Correct result is 8:35.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         },
         {
-          "questionText": "Mirror Images Practice Q11: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "A clock shows 3:25 when seen in a plane mirror placed vertically on the wall. What is the actual correct time?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Mirror Images. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Mirror Images Practice Q12: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Mirror Images. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Mirror Images Practice Q13: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "9:25",
+            "8:35",
+            "9:35",
+            "8:25"
           ],
           "correctIndex": 1,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Mirror Images. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "For mirror clock time, subtract the given time from 11:60 (or 23:60).",
+          "explanation": "Rule: Actual Time = 11:60 - Mirror Time. Here: 11:60 - 3:25 = 8:35.",
+          "solutionSteps": "Step 1: Identify the plane of reflection (vertical plane MN).\nStep 2: Lateral inversion flips left and right while maintaining top and bottom.\nStep 3: Correct result is 8:35.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         },
         {
-          "questionText": "Mirror Images Practice Q14: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "A clock shows 3:25 when seen in a plane mirror placed vertically on the wall. What is the actual correct time?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "8:25",
+            "9:35",
+            "8:35",
+            "9:25"
           ],
           "correctIndex": 2,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Mirror Images. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "For mirror clock time, subtract the given time from 11:60 (or 23:60).",
+          "explanation": "Rule: Actual Time = 11:60 - Mirror Time. Here: 11:60 - 3:25 = 8:35.",
+          "solutionSteps": "Step 1: Identify the plane of reflection (vertical plane MN).\nStep 2: Lateral inversion flips left and right while maintaining top and bottom.\nStep 3: Correct result is 8:35.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         },
         {
-          "questionText": "Mirror Images Practice Q15: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "A clock shows 3:25 when seen in a plane mirror placed vertically on the wall. What is the actual correct time?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "9:25",
+            "8:25",
+            "9:35",
+            "8:35"
           ],
           "correctIndex": 3,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Mirror Images. Work through the problem step by step using the shortcuts taught in this topic.",
+          "difficulty": "medium",
+          "hint": "For mirror clock time, subtract the given time from 11:60 (or 23:60).",
+          "explanation": "Rule: Actual Time = 11:60 - Mirror Time. Here: 11:60 - 3:25 = 8:35.",
+          "solutionSteps": "Step 1: Identify the plane of reflection (vertical plane MN).\nStep 2: Lateral inversion flips left and right while maintaining top and bottom.\nStep 3: Correct result is 8:35.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         },
         {
-          "questionText": "Mirror Images Practice Q16: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "A clock shows 3:25 when seen in a plane mirror placed vertically on the wall. What is the actual correct time?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Mirror Images. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Mirror Images Practice Q17: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Mirror Images. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Mirror Images Practice Q18: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "8:25",
+            "9:25",
+            "8:35",
+            "9:35"
           ],
           "correctIndex": 2,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Mirror Images. Work through the problem step by step using the shortcuts taught in this topic.",
+          "difficulty": "medium",
+          "hint": "For mirror clock time, subtract the given time from 11:60 (or 23:60).",
+          "explanation": "Rule: Actual Time = 11:60 - Mirror Time. Here: 11:60 - 3:25 = 8:35.",
+          "solutionSteps": "Step 1: Identify the plane of reflection (vertical plane MN).\nStep 2: Lateral inversion flips left and right while maintaining top and bottom.\nStep 3: Correct result is 8:35.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         },
         {
-          "questionText": "Mirror Images Practice Q19: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "A clock shows 3:25 when seen in a plane mirror placed vertically on the wall. What is the actual correct time?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "8:25",
+            "8:35",
+            "9:35",
+            "9:25"
           ],
-          "correctIndex": 3,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Mirror Images. Work through the problem step by step using the shortcuts taught in this topic.",
+          "correctIndex": 1,
+          "difficulty": "medium",
+          "hint": "For mirror clock time, subtract the given time from 11:60 (or 23:60).",
+          "explanation": "Rule: Actual Time = 11:60 - Mirror Time. Here: 11:60 - 3:25 = 8:35.",
+          "solutionSteps": "Step 1: Identify the plane of reflection (vertical plane MN).\nStep 2: Lateral inversion flips left and right while maintaining top and bottom.\nStep 3: Correct result is 8:35.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         },
         {
-          "questionText": "Mirror Images Practice Q20: Apply the concepts learned to solve this hard level problem.",
+          "questionText": "A clock shows 3:25 when seen in a plane mirror placed vertically on the wall. What is the actual correct time?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "8:35",
+            "8:25",
+            "9:35",
+            "9:25"
           ],
           "correctIndex": 0,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Mirror Images. Work through the problem step by step using the shortcuts taught in this topic.",
+          "difficulty": "medium",
+          "hint": "For mirror clock time, subtract the given time from 11:60 (or 23:60).",
+          "explanation": "Rule: Actual Time = 11:60 - Mirror Time. Here: 11:60 - 3:25 = 8:35.",
+          "solutionSteps": "Step 1: Identify the plane of reflection (vertical plane MN).\nStep 2: Lateral inversion flips left and right while maintaining top and bottom.\nStep 3: Correct result is 8:35.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
+          ]
+        },
+        {
+          "questionText": "A clock shows 3:25 when seen in a plane mirror placed vertically on the wall. What is the actual correct time?",
+          "options": [
+            "8:25",
+            "9:35",
+            "8:35",
+            "9:25"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "hint": "For mirror clock time, subtract the given time from 11:60 (or 23:60).",
+          "explanation": "Rule: Actual Time = 11:60 - Mirror Time. Here: 11:60 - 3:25 = 8:35.",
+          "solutionSteps": "Step 1: Identify the plane of reflection (vertical plane MN).\nStep 2: Lateral inversion flips left and right while maintaining top and bottom.\nStep 3: Correct result is 8:35.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
+          ]
+        },
+        {
+          "questionText": "Choose the correct mirror image of the given word when the mirror is placed on the right side (line MN):\n\nWESTERN",
+          "options": [
+            "Mirror image of WESTERN (starting with inverted 'N' and ending with inverted 'W')",
+            "Water image of WESTERN (vertically flipped upside-down)",
+            "Inverted WESTERN without reversing letter sequence (starting with inverted 'W')",
+            "Original word WESTERN unchanged"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "hint": "In a vertical mirror on the right, the rightmost letter appears first, and individual letters are laterally inverted.",
+          "explanation": "Each character undergoes horizontal flip; sequence reverses. Mirror image of WESTERN (starting with inverted 'N' and ending with inverted 'W').",
+          "solutionSteps": "Step 1: Identify the plane of reflection (vertical plane MN).\nStep 2: Lateral inversion flips left and right while maintaining top and bottom.\nStep 3: Correct result is Mirror image of WESTERN (starting with inverted 'N' and ending with inverted 'W').",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
+          ]
+        },
+        {
+          "questionText": "Choose the correct mirror image of the given word when the mirror is placed on the right side (line MN):\n\nNATION",
+          "options": [
+            "Inverted NATION without reversing letter sequence (starting with inverted 'N')",
+            "Water image of NATION (vertically flipped upside-down)",
+            "Mirror image of NATION (starting with inverted 'N' and ending with inverted 'N')",
+            "Original word NATION unchanged"
+          ],
+          "correctIndex": 2,
+          "difficulty": "easy",
+          "hint": "In a vertical mirror on the right, the rightmost letter appears first, and individual letters are laterally inverted.",
+          "explanation": "First letter N moves to last position with inverted diagonals. Mirror image of NATION (starting with inverted 'N' and ending with inverted 'N').",
+          "solutionSteps": "Step 1: Identify the plane of reflection (vertical plane MN).\nStep 2: Lateral inversion flips left and right while maintaining top and bottom.\nStep 3: Correct result is Mirror image of NATION (starting with inverted 'N' and ending with inverted 'N').",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
+          ]
+        },
+        {
+          "questionText": "Choose the correct mirror image of the given word when the mirror is placed on the right side (line MN):\n\nPLANET",
+          "options": [
+            "Mirror image of PLANET (starting with inverted 'T' and ending with inverted 'P')",
+            "Water image of PLANET (vertically flipped upside-down)",
+            "Inverted PLANET without reversing letter sequence (starting with inverted 'P')",
+            "Original word PLANET unchanged"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "hint": "In a vertical mirror on the right, the rightmost letter appears first, and individual letters are laterally inverted.",
+          "explanation": "Rightmost letter T appears first; leftmost letter P appears last inverted. Mirror image of PLANET (starting with inverted 'T' and ending with inverted 'P').",
+          "solutionSteps": "Step 1: Identify the plane of reflection (vertical plane MN).\nStep 2: Lateral inversion flips left and right while maintaining top and bottom.\nStep 3: Correct result is Mirror image of PLANET (starting with inverted 'T' and ending with inverted 'P').",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
+          ]
+        },
+        {
+          "questionText": "A clock shows 3:25 when seen in a plane mirror placed vertically on the wall. What is the actual correct time?",
+          "options": [
+            "8:25",
+            "9:25",
+            "8:35",
+            "9:35"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "hint": "For mirror clock time, subtract the given time from 11:60 (or 23:60).",
+          "explanation": "Rule: Actual Time = 11:60 - Mirror Time. Here: 11:60 - 3:25 = 8:35.",
+          "solutionSteps": "Step 1: Identify the plane of reflection (vertical plane MN).\nStep 2: Lateral inversion flips left and right while maintaining top and bottom.\nStep 3: Correct result is 8:35.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
+          ]
+        },
+        {
+          "questionText": "Choose the correct mirror image of the given word when the mirror is placed on the right side (line MN):\n\nVICTORY",
+          "options": [
+            "Mirror image of VICTORY (starting with inverted 'Y' and ending with inverted 'V')",
+            "Original word VICTORY unchanged",
+            "Water image of VICTORY (vertically flipped upside-down)",
+            "Inverted VICTORY without reversing letter sequence (starting with inverted 'V')"
+          ],
+          "correctIndex": 0,
+          "difficulty": "easy",
+          "hint": "In a vertical mirror on the right, the rightmost letter appears first, and individual letters are laterally inverted.",
+          "explanation": "Symmetric letters (V, I, T, O, Y) retain appearance; C and R invert. Mirror image of VICTORY (starting with inverted 'Y' and ending with inverted 'V').",
+          "solutionSteps": "Step 1: Identify the plane of reflection (vertical plane MN).\nStep 2: Lateral inversion flips left and right while maintaining top and bottom.\nStep 3: Correct result is Mirror image of VICTORY (starting with inverted 'Y' and ending with inverted 'V').",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
+          ]
+        },
+        {
+          "questionText": "A clock shows 3:25 when seen in a plane mirror placed vertically on the wall. What is the actual correct time?",
+          "options": [
+            "9:25",
+            "9:35",
+            "8:35",
+            "8:25"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "hint": "For mirror clock time, subtract the given time from 11:60 (or 23:60).",
+          "explanation": "Rule: Actual Time = 11:60 - Mirror Time. Here: 11:60 - 3:25 = 8:35.",
+          "solutionSteps": "Step 1: Identify the plane of reflection (vertical plane MN).\nStep 2: Lateral inversion flips left and right while maintaining top and bottom.\nStep 3: Correct result is 8:35.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "RRB NTPC",
+            "RRB GROUP D",
+            "SSC MTS",
+            "DELHI POLICE",
+            "RPF SI"
           ]
         }
       ]

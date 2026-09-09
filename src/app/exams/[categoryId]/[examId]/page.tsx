@@ -5,6 +5,7 @@ import { EXAM_CATEGORIES } from "@/data/categories";
 import { ALL_TOPICS_SUMMARY } from "@/data/topics-index";
 import { ContentService } from "@/lib/content/ContentService";
 import { Breadcrumb } from "@/components/ui/Breadcrumb";
+import { TopicIcon } from "@/components/topics/TopicIcon";
 import { Award, Zap, Building, ArrowRight, BookOpen, Layers, CheckCircle } from "lucide-react";
 
 interface ExamDetailPageProps {
@@ -94,7 +95,7 @@ export default async function ExamDetailPage({ params }: ExamDetailPageProps) {
           </div>
 
           <Link
-            href={`/practice/session?examId=${exam.id}&count=20&difficulty=mixed`}
+            href={`/practice/session?examId=${exam.id}&difficulty=mixed`}
             className="btn btn-primary btn-lg"
           >
             <Zap size={18} /> Practice for {exam.shortName}
@@ -132,9 +133,14 @@ export default async function ExamDetailPage({ params }: ExamDetailPageProps) {
                       borderLeft: "4px solid var(--color-error)",
                     }}
                   >
-                    <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", marginBottom: "var(--space-2)" }}>
-                      <h3 style={{ fontSize: "1.1rem", color: "var(--text-primary)" }}>{topicSummary.name}</h3>
-                      <span className="badge badge-hard" style={{ fontSize: "0.7rem" }}>
+                    <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", gap: "var(--space-2)", marginBottom: "var(--space-2)" }}>
+                      <div style={{ display: "flex", alignItems: "center", gap: "var(--space-2.5)", minWidth: 0 }}>
+                        <TopicIcon topicId={m.topicId} category={topicSummary.category} size={16} badgeSize={32} variant="badge" />
+                        <h3 style={{ fontSize: "1.05rem", color: "var(--text-primary)", whiteSpace: "nowrap", overflow: "hidden", textOverflow: "ellipsis" }}>
+                          {topicSummary.name}
+                        </h3>
+                      </div>
+                      <span className="badge badge-hard" style={{ fontSize: "0.7rem", flexShrink: 0 }}>
                         Weight: {m.weight}/5
                       </span>
                     </div>
@@ -182,9 +188,14 @@ export default async function ExamDetailPage({ params }: ExamDetailPageProps) {
                       borderLeft: "4px solid var(--color-warning)",
                     }}
                   >
-                    <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", marginBottom: "var(--space-2)" }}>
-                      <h3 style={{ fontSize: "1.1rem", color: "var(--text-primary)" }}>{topicSummary.name}</h3>
-                      <span className="badge badge-medium" style={{ fontSize: "0.7rem" }}>
+                    <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", gap: "var(--space-2)", marginBottom: "var(--space-2)" }}>
+                      <div style={{ display: "flex", alignItems: "center", gap: "var(--space-2.5)", minWidth: 0 }}>
+                        <TopicIcon topicId={m.topicId} category={topicSummary.category} size={16} badgeSize={32} variant="badge" />
+                        <h3 style={{ fontSize: "1.05rem", color: "var(--text-primary)", whiteSpace: "nowrap", overflow: "hidden", textOverflow: "ellipsis" }}>
+                          {topicSummary.name}
+                        </h3>
+                      </div>
+                      <span className="badge badge-medium" style={{ fontSize: "0.7rem", flexShrink: 0 }}>
                         Weight: {m.weight}/5
                       </span>
                     </div>
@@ -232,9 +243,14 @@ export default async function ExamDetailPage({ params }: ExamDetailPageProps) {
                       borderLeft: "4px solid var(--color-success)",
                     }}
                   >
-                    <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", marginBottom: "var(--space-2)" }}>
-                      <h3 style={{ fontSize: "1.1rem", color: "var(--text-primary)" }}>{topicSummary.name}</h3>
-                      <span className="badge badge-easy" style={{ fontSize: "0.7rem" }}>
+                    <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", gap: "var(--space-2)", marginBottom: "var(--space-2)" }}>
+                      <div style={{ display: "flex", alignItems: "center", gap: "var(--space-2.5)", minWidth: 0 }}>
+                        <TopicIcon topicId={m.topicId} category={topicSummary.category} size={16} badgeSize={32} variant="badge" />
+                        <h3 style={{ fontSize: "1.05rem", color: "var(--text-primary)", whiteSpace: "nowrap", overflow: "hidden", textOverflow: "ellipsis" }}>
+                          {topicSummary.name}
+                        </h3>
+                      </div>
+                      <span className="badge badge-easy" style={{ fontSize: "0.7rem", flexShrink: 0 }}>
                         Weight: {m.weight}/5
                       </span>
                     </div>
@@ -266,7 +282,7 @@ export default async function ExamDetailPage({ params }: ExamDetailPageProps) {
             The session generator will sample questions strictly from high and medium priority topics for {exam.name}.
           </p>
           <Link
-            href={`/practice/session?examId=${exam.id}&count=20&difficulty=mixed`}
+            href={`/practice/session?examId=${exam.id}&difficulty=mixed`}
             className="btn btn-primary btn-lg"
           >
             <Zap size={18} /> Start {exam.shortName} Practice Session

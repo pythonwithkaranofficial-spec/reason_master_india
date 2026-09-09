@@ -63,7 +63,8 @@
             "SSC CGL",
             "SSC CHSL",
             "RRB NTPC"
-          ]
+          ],
+          "explanation": "Dog, Cat, Cow are animals. Rose is a flower. Answer: Rose."
         },
         {
           "questionText": "Find the odd one out: 11, 13, 15, 17, 19",
@@ -80,7 +81,8 @@
             "SSC CGL",
             "RRB NTPC",
             "IBPS Clerk"
-          ]
+          ],
+          "explanation": "11, 13, 17, 19 are prime numbers. 15 = 3×5 is not prime. Answer: 15."
         },
         {
           "questionText": "Find the odd one out: Mercury, Jupiter, Pluto, Saturn",
@@ -96,7 +98,8 @@
           "examTags": [
             "SSC CGL",
             "SSC CHSL"
-          ]
+          ],
+          "explanation": "Mercury, Jupiter, Saturn are planets. Pluto is a dwarf planet (reclassified in 2006). Answer: Pluto."
         },
         {
           "questionText": "Find the odd one out: 8, 27, 64, 100, 125",
@@ -113,7 +116,8 @@
             "SSC CGL",
             "IBPS PO",
             "RRB NTPC"
-          ]
+          ],
+          "explanation": "8=2³, 27=3³, 64=4³, 125=5³ are perfect cubes. 100=10² is not a perfect cube. Answer: 100."
         },
         {
           "questionText": "Find the odd one out: Square, Rectangle, Triangle, Circle, Hexagon",
@@ -130,7 +134,8 @@
             "SSC CHSL",
             "RRB Group D",
             "SSC MTS"
-          ]
+          ],
+          "explanation": "Square, Rectangle, Triangle, Hexagon are polygons (have straight sides). Circle has no straight sides. Answer: Circle."
         },
         {
           "questionText": "Find the odd one out: Potato, Carrot, Ginger, Apple",
@@ -146,7 +151,8 @@
           "examTags": [
             "SSC MTS",
             "RRB Group D"
-          ]
+          ],
+          "explanation": "Potato, Carrot, Ginger are root vegetables. Apple is a fruit. Answer: Apple."
         },
         {
           "questionText": "Find the odd one out: Taj Mahal, Qutub Minar, Eiffel Tower, Red Fort",
@@ -162,7 +168,8 @@
           "examTags": [
             "SSC CGL",
             "RRB NTPC"
-          ]
+          ],
+          "explanation": "Taj Mahal, Qutub Minar, Red Fort are monuments in India. Eiffel Tower is in France. Answer: Eiffel Tower."
         },
         {
           "questionText": "Find the odd one out: 2, 3, 5, 9, 11",
@@ -179,7 +186,8 @@
             "SSC CGL",
             "SSC CHSL",
             "RRB NTPC"
-          ]
+          ],
+          "explanation": "2, 3, 5, 11 are prime numbers. 9 = 3×3 is not prime. Answer: 9."
         },
         {
           "questionText": "Find the odd one out: Tennis, Cricket, Hockey, Chess",
@@ -195,7 +203,8 @@
           "examTags": [
             "SSC CHSL",
             "RRB Group D"
-          ]
+          ],
+          "explanation": "Tennis, Cricket, Hockey are outdoor sports involving physical movement. Chess is an indoor board game. Answer: Chess."
         },
         {
           "questionText": "Find the odd one out: 144, 169, 196, __(225)__, 260",
@@ -211,7 +220,8 @@
           "examTags": [
             "SSC CGL",
             "IBPS PO"
-          ]
+          ],
+          "explanation": "144=12², 169=13², 196=14², 225=15² are perfect squares. 260 is not a perfect square. Answer: 260."
         },
         {
           "questionText": "Find the odd one out: Walk, Run, Sit, Jog",
@@ -227,7 +237,8 @@
           "examTags": [
             "SSC MTS",
             "RRB Group D"
-          ]
+          ],
+          "explanation": "Walk, Run, Jog all involve forward movement/locomotion. Sit does not involve movement. Answer: Sit."
         },
         {
           "questionText": "Find the odd one out: January, May, July, November",
@@ -243,7 +254,8 @@
           "examTags": [
             "SSC CGL",
             "RRB NTPC"
-          ]
+          ],
+          "explanation": "January (31), May (31), July (31) have 31 days. November has 30 days. Answer: November."
         },
         {
           "questionText": "Find the odd one out: Sparrow, Parrot, Bat, Eagle",
@@ -260,7 +272,8 @@
             "SSC CGL",
             "SSC CHSL",
             "RRB NTPC"
-          ]
+          ],
+          "explanation": "Sparrow, Parrot, Eagle are birds. Bat is a mammal (despite flying). Answer: Bat."
         },
         {
           "questionText": "Find the odd one out: Iron, Gold, Mercury, Copper",
@@ -277,7 +290,8 @@
             "SSC CGL",
             "RRB NTPC",
             "CDS"
-          ]
+          ],
+          "explanation": "Iron, Gold, Copper are solid metals at room temperature. Mercury is the only liquid metal at room temperature. Answer: Mercury."
         },
         {
           "questionText": "Find the odd one out: Whale, Shark, Dolphin, Crocodile",
@@ -293,7 +307,8 @@
           "examTags": [
             "SSC CGL",
             "IBPS PO"
-          ]
+          ],
+          "explanation": "Whale, Dolphin are marine mammals. Crocodile is a reptile. Shark is a fish. Among aquatic animals: Whale, Shark, Dolphin live in oceans. Crocodile lives in rivers/freshwater. OR: Whale, Dolphin, Crocodile breathe air (lungs). Shark breathes through gills. Answer depends on grouping. Most common answer: Shark (only fish, rest are non-fish)."
         },
         {
           "questionText": "Find the odd one out: 121, 143, 169, 196",
@@ -310,7 +325,8 @@
             "SSC CGL",
             "IBPS PO",
             "RRB NTPC"
-          ]
+          ],
+          "explanation": "121=11², 169=13², 196=14² are perfect squares. 143=11×13 is not a perfect square. Answer: 143."
         },
         {
           "questionText": "Find the odd one out: Pacific, Atlantic, Indian, Mediterranean",
@@ -327,7 +343,8 @@
             "SSC CGL",
             "RRB NTPC",
             "CDS"
-          ]
+          ],
+          "explanation": "Pacific, Atlantic, Indian are oceans. Mediterranean is a sea, not an ocean. Answer: Mediterranean."
         },
         {
           "questionText": "Find the odd one out: 1, 8, 27, 65, 125",
@@ -343,7 +360,8 @@
           "examTags": [
             "SSC CGL",
             "IBPS PO"
-          ]
+          ],
+          "explanation": "1=1³, 8=2³, 27=3³, 125=5³ are perfect cubes. 65 is not a perfect cube (4³=64, not 65). Answer: 65."
         },
         {
           "questionText": "Find the odd one out: Nile, Amazon, Sahara, Ganges",
@@ -360,7 +378,8 @@
             "SSC CGL",
             "SSC CHSL",
             "RRB NTPC"
-          ]
+          ],
+          "explanation": "Nile, Amazon, Ganges are rivers. Sahara is a desert. Answer: Sahara."
         },
         {
           "questionText": "Find the odd one out: Keyboard, Mouse, CPU, Printer",
@@ -377,7 +396,8 @@
             "SSC CGL",
             "RRB NTPC",
             "IBPS Clerk"
-          ]
+          ],
+          "explanation": "Keyboard, Mouse are input devices. Printer is an output device. CPU is a processing unit (neither input nor output device). OR: Keyboard, Mouse, Printer are peripheral devices. CPU is the central processing unit. Answer: CPU."
         }
       ]
     },
@@ -419,7 +439,8 @@
           "examTags": [
             "SSC CGL",
             "RRB NTPC"
-          ]
+          ],
+          "explanation": "4=2², 9=3², 16=4², 36=6² are perfect squares. 24 is not. Answer: 24."
         },
         {
           "questionText": "Find the odd one out: 3, 6, 9, 14, 15",
@@ -435,6 +456,230 @@
           "examTags": [
             "SSC CHSL",
             "RRB Group D"
+          ],
+          "explanation": "3, 6, 9, 15 are all divisible by 3. 14 is not divisible by 3. Answer: 14."
+        },
+        {
+          "questionText": "Find the odd one out from the following numbers: 13, 17, 23, 27",
+          "options": [
+            "13",
+            "17",
+            "23",
+            "27"
+          ],
+          "correctIndex": 3,
+          "difficulty": "easy",
+          "hint": "Check prime vs composite properties.",
+          "explanation": "13, 17, and 23 are all prime numbers with no divisors other than 1 and themselves. 27 is a composite number (3 × 3 × 3 = 27). Hence 27 is the odd one out.",
+          "solutionSteps": [
+            "Step 1: Check primes: 13, 17, 23 are prime.",
+            "Step 2: 27 = 3³, composite.",
+            "Step 3: Result is 27."
+          ],
+          "examTags": [
+            "SSC CGL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Choose the odd number pair: 14 - 49, 16 - 64, 18 - 80, 20 - 100",
+          "options": [
+            "14 - 49",
+            "16 - 64",
+            "18 - 80",
+            "20 - 100"
+          ],
+          "correctIndex": 2,
+          "difficulty": "easy",
+          "hint": "Look at the square of half the first number: (n / 2)².",
+          "explanation": "(14/2)² = 7² = 49; (16/2)² = 8² = 64; (20/2)² = 10² = 100. But for 18: (18/2)² = 9² = 81, whereas 80 is given. Hence 18 - 80 is the odd pair.",
+          "solutionSteps": [
+            "Step 1: In 14 - 49: 14 / 2 = 7, 7² = 49.",
+            "Step 2: In 16 - 64: 16 / 2 = 8, 8² = 64.",
+            "Step 3: In 18 - 80: 18 / 2 = 9, 9² = 81 ≠ 80.",
+            "Step 4: Result is 18 - 80."
+          ],
+          "examTags": [
+            "SSC CHSL",
+            "IBPS CLERK"
+          ]
+        },
+        {
+          "questionText": "Find the odd number out from the group: 28, 65, 126, 215",
+          "options": [
+            "28",
+            "65",
+            "126",
+            "215"
+          ],
+          "correctIndex": 3,
+          "difficulty": "medium",
+          "hint": "Relate numbers to cubes: n³ + 1.",
+          "explanation": "28 = 3³ + 1; 65 = 4³ + 1; 126 = 5³ + 1. But 215 = 6³ - 1 (216 - 1). All others are of the form n³ + 1, whereas 215 is n³ - 1.",
+          "solutionSteps": [
+            "Step 1: 3³ + 1 = 27 + 1 = 28.",
+            "Step 2: 4³ + 1 = 64 + 1 = 65.",
+            "Step 3: 5³ + 1 = 125 + 1 = 126.",
+            "Step 4: 6³ + 1 = 217 ≠ 215 (215 is 6³ - 1). Result: 215."
+          ],
+          "examTags": [
+            "SSC CGL",
+            "RRB JE"
+          ]
+        },
+        {
+          "questionText": "Find the odd number: 121, 169, 225, 289",
+          "options": [
+            "121",
+            "169",
+            "225",
+            "289"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "hint": "Check whether the base of each square is prime or composite.",
+          "explanation": "121 = 11² (11 is prime); 169 = 13² (13 is prime); 289 = 17² (17 is prime). But 225 = 15² where 15 is a composite number (3 × 5). Hence 225 is the odd one out.",
+          "solutionSteps": [
+            "Step 1: Find square roots: √121=11, √169=13, √225=15, √289=17.",
+            "Step 2: 11, 13, 17 are prime numbers.",
+            "Step 3: 15 is composite. Result: 225."
+          ],
+          "examTags": [
+            "SSC CGL",
+            "SBI PO"
+          ]
+        },
+        {
+          "questionText": "Find the odd pair: 7:42, 8:56, 9:72, 10:95",
+          "options": [
+            "7:42",
+            "8:56",
+            "9:72",
+            "10:95"
+          ],
+          "correctIndex": 3,
+          "difficulty": "easy",
+          "hint": "Rule: n : n × (n - 1).",
+          "explanation": "7 × 6 = 42; 8 × 7 = 56; 9 × 8 = 72. But 10 × 9 = 90, not 95. Hence 10:95 is the odd pair.",
+          "solutionSteps": [
+            "Step 1: Check pattern n * (n-1).",
+            "Step 2: 7*6=42, 8*7=56, 9*8=72.",
+            "Step 3: 10*9=90 ≠ 95. Result: 10:95."
+          ],
+          "examTags": [
+            "SSC MTS",
+            "RRB GROUP D"
+          ]
+        },
+        {
+          "questionText": "Find the odd number out: 35, 49, 63, 75",
+          "options": [
+            "35",
+            "49",
+            "63",
+            "75"
+          ],
+          "correctIndex": 3,
+          "difficulty": "easy",
+          "hint": "Check divisibility by 7.",
+          "explanation": "35 (7 × 5), 49 (7 × 7), and 63 (7 × 9) are all exact multiples of 7. 75 is not divisible by 7 (75 = 7 × 10 + 5).",
+          "solutionSteps": [
+            "Step 1: Test divisibility by 7.",
+            "Step 2: 35/7=5, 49/7=7, 63/7=9.",
+            "Step 3: 75/7 = 10.71 (not divisible). Result: 75."
+          ],
+          "examTags": [
+            "SSC CGL",
+            "DELHI POLICE"
+          ]
+        },
+        {
+          "questionText": "Find the odd one out: 144, 168, 196, 256",
+          "options": [
+            "144",
+            "168",
+            "196",
+            "256"
+          ],
+          "correctIndex": 1,
+          "difficulty": "easy",
+          "hint": "Check for perfect squares.",
+          "explanation": "144 = 12², 196 = 14², and 256 = 16² are all perfect squares. 168 is not a perfect square (between 12²=144 and 13²=169).",
+          "solutionSteps": [
+            "Step 1: √144 = 12 (integer).",
+            "Step 2: √196 = 14 (integer).",
+            "Step 3: √256 = 16 (integer).",
+            "Step 4: √168 ≈ 12.96 (not a square). Result: 168."
+          ],
+          "examTags": [
+            "SSC CHSL",
+            "RRB NTPC"
+          ]
+        },
+        {
+          "questionText": "Find the odd pair: 12 - 144, 13 - 169, 14 - 196, 15 - 220",
+          "options": [
+            "12 - 144",
+            "13 - 169",
+            "14 - 196",
+            "15 - 220"
+          ],
+          "correctIndex": 3,
+          "difficulty": "easy",
+          "hint": "Second number is the square of the first number.",
+          "explanation": "12² = 144, 13² = 169, 14² = 196. But 15² = 225, whereas 220 is given. Hence 15 - 220 is the odd pair.",
+          "solutionSteps": [
+            "Step 1: Check squares: 12²=144, 13²=169, 14²=196.",
+            "Step 2: 15² = 225 ≠ 220.",
+            "Step 3: Result: 15 - 220."
+          ],
+          "examTags": [
+            "SSC CGL",
+            "IBPS CLERK"
+          ]
+        },
+        {
+          "questionText": "Find the odd one out: 111, 222, 333, 445",
+          "options": [
+            "111",
+            "222",
+            "333",
+            "445"
+          ],
+          "correctIndex": 3,
+          "difficulty": "easy",
+          "hint": "Check digit repetition.",
+          "explanation": "In 111, 222, and 333, all three digits are identical (repdigit numbers divisible by 111). 445 has two 4s and one 5. Hence 445 is the odd one out.",
+          "solutionSteps": [
+            "Step 1: 111, 222, 333 are multiples of 111 with uniform digits.",
+            "Step 2: 445 has non-identical digits (4 and 5).",
+            "Step 3: Result: 445."
+          ],
+          "examTags": [
+            "SSC MTS",
+            "RRB GROUP D"
+          ]
+        },
+        {
+          "questionText": "Find the odd number: 23, 29, 31, 39",
+          "options": [
+            "23",
+            "29",
+            "31",
+            "39"
+          ],
+          "correctIndex": 3,
+          "difficulty": "easy",
+          "hint": "Check prime numbers in the 20s and 30s.",
+          "explanation": "23, 29, and 31 are prime numbers. 39 is a composite number divisible by 3 and 13 (3 × 13 = 39). Hence 39 is the odd one out.",
+          "solutionSteps": [
+            "Step 1: Check primes: 23, 29, 31 have no divisors.",
+            "Step 2: 39 = 3 × 13 (composite).",
+            "Step 3: Result: 39."
+          ],
+          "examTags": [
+            "SSC CGL",
+            "RRB NTPC"
           ]
         }
       ]

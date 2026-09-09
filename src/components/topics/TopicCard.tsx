@@ -1,7 +1,8 @@
 import React from "react";
 import Link from "next/link";
 import { TopicSummary } from "@/data/topics-index";
-import { BookOpen, Eye, ArrowRight, Lightbulb, HelpCircle, Layers } from "lucide-react";
+import { ArrowRight, Lightbulb, HelpCircle, Layers } from "lucide-react";
+import { TopicIcon } from "@/components/topics/TopicIcon";
 
 interface TopicCardProps {
   topic: TopicSummary;
@@ -31,20 +32,7 @@ export function TopicCard({ topic }: TopicCardProps) {
             marginBottom: "var(--space-3)",
           }}
         >
-          <div
-            style={{
-              width: "36px",
-              height: "36px",
-              borderRadius: "var(--radius-md)",
-              backgroundColor: isVerbal ? "var(--group-verbal-bg)" : "var(--group-nonverbal-bg)",
-              color: isVerbal ? "var(--group-verbal-text)" : "var(--group-nonverbal-text)",
-              display: "flex",
-              alignItems: "center",
-              justifyContent: "center",
-            }}
-          >
-            {isVerbal ? <BookOpen size={18} /> : <Eye size={18} />}
-          </div>
+          <TopicIcon topicId={topic.id} category={topic.category} size={18} badgeSize={36} variant="badge" />
 
           <span className="tag" style={{ fontSize: "0.75rem" }}>
             <Layers size={12} /> {topic.subtopicCount} Subtopic{topic.subtopicCount > 1 ? "s" : ""}

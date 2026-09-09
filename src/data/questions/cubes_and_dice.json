@@ -42,10 +42,10 @@
       "questionType": "text",
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
-        "3",
-        "12",
+        "1",
+        "2",
         "5",
-        "24"
+        "3"
       ],
       "correctIndex": 2,
       "difficulty": "easy",
@@ -75,10 +75,10 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 1?",
       "options": [
-        "8",
-        "24",
+        "1",
+        "2",
         "5",
-        "1"
+        "3"
       ],
       "correctIndex": 2,
       "difficulty": "medium",
@@ -174,10 +174,10 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 3?",
       "options": [
-        "24",
-        "5",
+        "1",
+        "2",
         "4",
-        "6"
+        "3"
       ],
       "correctIndex": 2,
       "difficulty": "medium",
@@ -240,9 +240,9 @@
       "questionType": "text",
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
-        "4",
-        "6",
-        "24",
+        "1",
+        "2",
+        "3",
         "5"
       ],
       "correctIndex": 3,
@@ -273,10 +273,10 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 1?",
       "options": [
-        "8",
-        "24",
+        "1",
+        "2",
         "5",
-        "6"
+        "3"
       ],
       "correctIndex": 2,
       "difficulty": "medium",
@@ -340,9 +340,9 @@
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
         "1",
-        "8",
+        "2",
         "5",
-        "24"
+        "3"
       ],
       "correctIndex": 2,
       "difficulty": "easy",
@@ -372,10 +372,10 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 3?",
       "options": [
-        "24",
+        "1",
         "4",
-        "12",
-        "2"
+        "2",
+        "3"
       ],
       "correctIndex": 1,
       "difficulty": "medium",
@@ -439,9 +439,9 @@
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
         "5",
-        "6",
-        "3",
-        "12"
+        "1",
+        "2",
+        "3"
       ],
       "correctIndex": 0,
       "difficulty": "easy",
@@ -471,10 +471,10 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 1?",
       "options": [
-        "6",
-        "3",
+        "1",
+        "2",
         "5",
-        "8"
+        "3"
       ],
       "correctIndex": 2,
       "difficulty": "medium",
@@ -538,9 +538,9 @@
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
         "5",
-        "4",
-        "12",
-        "8"
+        "1",
+        "2",
+        "3"
       ],
       "correctIndex": 0,
       "difficulty": "easy",
@@ -570,10 +570,10 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 3?",
       "options": [
-        "24",
-        "8",
+        "1",
+        "2",
         "4",
-        "2"
+        "3"
       ],
       "correctIndex": 2,
       "difficulty": "medium",
@@ -637,9 +637,9 @@
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
         "1",
-        "3",
+        "2",
         "5",
-        "8"
+        "3"
       ],
       "correctIndex": 2,
       "difficulty": "easy",
@@ -669,9 +669,9 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 1?",
       "options": [
+        "1",
+        "2",
         "3",
-        "8",
-        "12",
         "5"
       ],
       "correctIndex": 3,
@@ -736,9 +736,9 @@
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
         "5",
-        "24",
-        "6",
-        "8"
+        "1",
+        "2",
+        "3"
       ],
       "correctIndex": 0,
       "difficulty": "easy",
@@ -768,9 +768,9 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 3?",
       "options": [
+        "1",
         "2",
-        "8",
-        "24",
+        "3",
         "4"
       ],
       "correctIndex": 3,
@@ -834,10 +834,10 @@
       "questionType": "text",
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
+        "1",
         "2",
-        "12",
         "5",
-        "24"
+        "3"
       ],
       "correctIndex": 2,
       "difficulty": "easy",
@@ -867,7 +867,7 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 1?",
       "options": [
-        "8",
+        "1",
         "2",
         "5",
         "3"
@@ -933,9 +933,9 @@
       "questionType": "text",
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
-        "4",
-        "8",
         "1",
+        "2",
+        "3",
         "5"
       ],
       "correctIndex": 3,
@@ -966,8 +966,8 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 3?",
       "options": [
-        "6",
-        "12",
+        "1",
+        "2",
         "3",
         "4"
       ],
@@ -1033,9 +1033,9 @@
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
         "5",
-        "24",
-        "3",
-        "12"
+        "1",
+        "2",
+        "3"
       ],
       "correctIndex": 0,
       "difficulty": "easy",
@@ -1065,9 +1065,9 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 1?",
       "options": [
-        "24",
-        "8",
-        "6",
+        "1",
+        "2",
+        "3",
         "5"
       ],
       "correctIndex": 3,
@@ -1132,9 +1132,9 @@
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
         "5",
-        "4",
-        "3",
-        "12"
+        "1",
+        "2",
+        "3"
       ],
       "correctIndex": 0,
       "difficulty": "easy",
@@ -1164,9 +1164,9 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 3?",
       "options": [
-        "6",
-        "24",
-        "12",
+        "1",
+        "2",
+        "3",
         "4"
       ],
       "correctIndex": 3,
@@ -1231,9 +1231,9 @@
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
         "5",
-        "4",
-        "12",
-        "6"
+        "1",
+        "2",
+        "3"
       ],
       "correctIndex": 0,
       "difficulty": "easy",
@@ -1264,8 +1264,8 @@
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 1?",
       "options": [
         "5",
-        "6",
-        "24",
+        "1",
+        "2",
         "3"
       ],
       "correctIndex": 0,
@@ -1329,9 +1329,9 @@
       "questionType": "text",
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
-        "24",
-        "8",
-        "4",
+        "1",
+        "2",
+        "3",
         "5"
       ],
       "correctIndex": 3,
@@ -1362,8 +1362,8 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 3?",
       "options": [
-        "6",
-        "24",
+        "1",
+        "2",
         "3",
         "4"
       ],
@@ -1428,10 +1428,10 @@
       "questionType": "text",
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
-        "8",
-        "5",
         "1",
-        "24"
+        "5",
+        "2",
+        "3"
       ],
       "correctIndex": 1,
       "difficulty": "easy",
@@ -1461,10 +1461,10 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 1?",
       "options": [
-        "8",
-        "5",
         "1",
-        "12"
+        "5",
+        "2",
+        "3"
       ],
       "correctIndex": 1,
       "difficulty": "medium",
@@ -1527,9 +1527,9 @@
       "questionType": "text",
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
-        "6",
+        "1",
         "5",
-        "12",
+        "2",
         "3"
       ],
       "correctIndex": 1,
@@ -1561,9 +1561,9 @@
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 3?",
       "options": [
         "4",
-        "24",
-        "5",
-        "1"
+        "1",
+        "2",
+        "3"
       ],
       "correctIndex": 0,
       "difficulty": "medium",
@@ -1626,9 +1626,9 @@
       "questionType": "text",
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
-        "8",
         "1",
-        "12",
+        "2",
+        "3",
         "5"
       ],
       "correctIndex": 3,
@@ -1659,9 +1659,9 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 1?",
       "options": [
-        "4",
+        "1",
+        "2",
         "3",
-        "8",
         "5"
       ],
       "correctIndex": 3,
@@ -1758,10 +1758,10 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 3?",
       "options": [
-        "2",
+        "1",
         "4",
-        "12",
-        "8"
+        "2",
+        "3"
       ],
       "correctIndex": 1,
       "difficulty": "medium",
@@ -1824,10 +1824,10 @@
       "questionType": "text",
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
-        "8",
+        "1",
         "5",
         "2",
-        "12"
+        "3"
       ],
       "correctIndex": 1,
       "difficulty": "easy",
@@ -1923,10 +1923,10 @@
       "questionType": "text",
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
-        "24",
+        "1",
         "5",
-        "8",
-        "1"
+        "2",
+        "3"
       ],
       "correctIndex": 1,
       "difficulty": "easy",
@@ -1956,9 +1956,9 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 3?",
       "options": [
-        "8",
+        "1",
         "4",
-        "12",
+        "2",
         "3"
       ],
       "correctIndex": 1,
@@ -2023,9 +2023,9 @@
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
         "5",
+        "1",
         "2",
-        "8",
-        "24"
+        "3"
       ],
       "correctIndex": 0,
       "difficulty": "easy",
@@ -2123,8 +2123,8 @@
       "options": [
         "5",
         "1",
-        "6",
-        "12"
+        "2",
+        "3"
       ],
       "correctIndex": 0,
       "difficulty": "easy",
@@ -2155,9 +2155,9 @@
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 3?",
       "options": [
         "4",
-        "8",
+        "1",
         "2",
-        "12"
+        "3"
       ],
       "correctIndex": 0,
       "difficulty": "medium",
@@ -2221,9 +2221,9 @@
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
         "5",
-        "12",
-        "3",
-        "8"
+        "1",
+        "2",
+        "3"
       ],
       "correctIndex": 0,
       "difficulty": "easy",
@@ -2253,10 +2253,10 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 1?",
       "options": [
-        "4",
-        "5",
         "1",
-        "12"
+        "5",
+        "2",
+        "3"
       ],
       "correctIndex": 1,
       "difficulty": "medium",
@@ -2353,9 +2353,9 @@
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 3?",
       "options": [
         "4",
-        "6",
-        "24",
-        "5"
+        "1",
+        "2",
+        "3"
       ],
       "correctIndex": 0,
       "difficulty": "medium",
@@ -2451,10 +2451,10 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 1?",
       "options": [
-        "4",
+        "1",
         "5",
-        "12",
-        "2"
+        "2",
+        "3"
       ],
       "correctIndex": 1,
       "difficulty": "medium",
@@ -2517,9 +2517,9 @@
       "questionType": "text",
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
-        "4",
+        "1",
+        "2",
         "3",
-        "12",
         "5"
       ],
       "correctIndex": 3,
@@ -2550,10 +2550,10 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 3?",
       "options": [
-        "6",
+        "1",
         "4",
-        "5",
-        "8"
+        "2",
+        "3"
       ],
       "correctIndex": 1,
       "difficulty": "medium",
@@ -2616,8 +2616,8 @@
       "questionType": "text",
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
-        "8",
-        "6",
+        "1",
+        "2",
         "5",
         "3"
       ],
@@ -2651,8 +2651,8 @@
       "options": [
         "1",
         "5",
-        "4",
-        "24"
+        "2",
+        "3"
       ],
       "correctIndex": 1,
       "difficulty": "medium",
@@ -2814,10 +2814,10 @@
       "questionType": "text",
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
-        "3",
+        "1",
         "5",
         "2",
-        "12"
+        "3"
       ],
       "correctIndex": 1,
       "difficulty": "easy",
@@ -2847,9 +2847,9 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 1?",
       "options": [
-        "3",
+        "1",
         "2",
-        "24",
+        "3",
         "5"
       ],
       "correctIndex": 3,
@@ -2914,8 +2914,8 @@
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
         "1",
+        "2",
         "3",
-        "24",
         "5"
       ],
       "correctIndex": 3,
@@ -2947,9 +2947,9 @@
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 3?",
       "options": [
         "4",
+        "1",
         "2",
-        "8",
-        "1"
+        "3"
       ],
       "correctIndex": 0,
       "difficulty": "medium",
@@ -3012,9 +3012,9 @@
       "questionType": "text",
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
-        "6",
         "1",
-        "12",
+        "2",
+        "3",
         "5"
       ],
       "correctIndex": 3,
@@ -3045,10 +3045,10 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 1?",
       "options": [
-        "24",
+        "1",
         "5",
-        "3",
-        "8"
+        "2",
+        "3"
       ],
       "correctIndex": 1,
       "difficulty": "medium",
@@ -3111,10 +3111,10 @@
       "questionType": "text",
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
-        "3",
-        "12",
+        "1",
+        "2",
         "5",
-        "6"
+        "3"
       ],
       "correctIndex": 2,
       "difficulty": "easy",
@@ -3211,9 +3211,9 @@
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
         "5",
-        "6",
         "1",
-        "24"
+        "2",
+        "3"
       ],
       "correctIndex": 0,
       "difficulty": "easy",
@@ -3244,9 +3244,9 @@
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 1?",
       "options": [
         "5",
-        "12",
-        "3",
-        "8"
+        "1",
+        "2",
+        "3"
       ],
       "correctIndex": 0,
       "difficulty": "medium",
@@ -3310,9 +3310,9 @@
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
         "5",
-        "6",
+        "1",
         "2",
-        "8"
+        "3"
       ],
       "correctIndex": 0,
       "difficulty": "easy",
@@ -3343,9 +3343,9 @@
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 3?",
       "options": [
         "4",
-        "24",
         "1",
-        "2"
+        "2",
+        "3"
       ],
       "correctIndex": 0,
       "difficulty": "medium",
@@ -3411,7 +3411,7 @@
         "1",
         "2",
         "5",
-        "12"
+        "3"
       ],
       "correctIndex": 2,
       "difficulty": "easy",
@@ -3507,10 +3507,10 @@
       "questionType": "text",
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
-        "3",
+        "1",
         "5",
-        "4",
-        "8"
+        "2",
+        "3"
       ],
       "correctIndex": 1,
       "difficulty": "easy",
@@ -3606,10 +3606,10 @@
       "questionType": "text",
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
-        "6",
+        "1",
         "5",
-        "24",
-        "2"
+        "2",
+        "3"
       ],
       "correctIndex": 1,
       "difficulty": "easy",
@@ -3705,9 +3705,9 @@
       "questionType": "text",
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
-        "6",
-        "8",
-        "12",
+        "1",
+        "2",
+        "3",
         "5"
       ],
       "correctIndex": 3,
@@ -3738,9 +3738,9 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 3?",
       "options": [
-        "8",
-        "12",
-        "5",
+        "1",
+        "2",
+        "3",
         "4"
       ],
       "correctIndex": 3,
@@ -3804,9 +3804,9 @@
       "questionType": "text",
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
-        "24",
-        "8",
-        "4",
+        "1",
+        "2",
+        "3",
         "5"
       ],
       "correctIndex": 3,
@@ -3837,9 +3837,9 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 1?",
       "options": [
-        "24",
-        "6",
-        "4",
+        "1",
+        "2",
+        "3",
         "5"
       ],
       "correctIndex": 3,
@@ -3904,9 +3904,9 @@
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
         "5",
-        "24",
-        "4",
-        "12"
+        "1",
+        "2",
+        "3"
       ],
       "correctIndex": 0,
       "difficulty": "easy",
@@ -3936,10 +3936,10 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 3?",
       "options": [
-        "12",
+        "1",
         "4",
-        "3",
-        "5"
+        "2",
+        "3"
       ],
       "correctIndex": 1,
       "difficulty": "medium",
@@ -4002,10 +4002,10 @@
       "questionType": "text",
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
-        "24",
-        "3",
+        "1",
+        "2",
         "5",
-        "12"
+        "3"
       ],
       "correctIndex": 2,
       "difficulty": "easy",
@@ -4035,10 +4035,10 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 1?",
       "options": [
-        "8",
-        "12",
+        "1",
+        "2",
         "5",
-        "1"
+        "3"
       ],
       "correctIndex": 2,
       "difficulty": "medium",
@@ -4101,9 +4101,9 @@
       "questionType": "text",
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
-        "2",
-        "12",
         "1",
+        "2",
+        "3",
         "5"
       ],
       "correctIndex": 3,
@@ -4135,7 +4135,7 @@
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 3?",
       "options": [
         "1",
-        "24",
+        "2",
         "4",
         "3"
       ],
@@ -4233,10 +4233,10 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 1?",
       "options": [
-        "24",
+        "1",
         "5",
-        "8",
-        "1"
+        "2",
+        "3"
       ],
       "correctIndex": 1,
       "difficulty": "medium",
@@ -4299,10 +4299,10 @@
       "questionType": "text",
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
+        "1",
         "2",
-        "24",
         "5",
-        "12"
+        "3"
       ],
       "correctIndex": 2,
       "difficulty": "easy",
@@ -4398,10 +4398,10 @@
       "questionType": "text",
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
-        "6",
+        "1",
         "5",
-        "8",
-        "12"
+        "2",
+        "3"
       ],
       "correctIndex": 1,
       "difficulty": "easy",
@@ -4530,10 +4530,10 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 3?",
       "options": [
-        "12",
-        "5",
+        "1",
+        "2",
         "4",
-        "1"
+        "3"
       ],
       "correctIndex": 2,
       "difficulty": "medium",
@@ -4596,9 +4596,9 @@
       "questionType": "text",
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
-        "8",
-        "4",
         "1",
+        "2",
+        "3",
         "5"
       ],
       "correctIndex": 3,
@@ -4630,8 +4630,8 @@
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 1?",
       "options": [
         "1",
+        "2",
         "3",
-        "24",
         "5"
       ],
       "correctIndex": 3,
@@ -4695,8 +4695,8 @@
       "questionType": "text",
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
-        "12",
-        "6",
+        "1",
+        "2",
         "5",
         "3"
       ],
@@ -4728,10 +4728,10 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 3?",
       "options": [
+        "1",
         "2",
-        "12",
         "4",
-        "24"
+        "3"
       ],
       "correctIndex": 2,
       "difficulty": "medium",
@@ -4794,10 +4794,10 @@
       "questionType": "text",
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
-        "4",
-        "3",
+        "1",
+        "2",
         "5",
-        "24"
+        "3"
       ],
       "correctIndex": 2,
       "difficulty": "easy",
@@ -4827,9 +4827,9 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 1?",
       "options": [
+        "1",
+        "2",
         "3",
-        "6",
-        "12",
         "5"
       ],
       "correctIndex": 3,
@@ -4894,9 +4894,9 @@
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
         "5",
-        "6",
-        "12",
-        "4"
+        "1",
+        "2",
+        "3"
       ],
       "correctIndex": 0,
       "difficulty": "easy",
@@ -4992,10 +4992,10 @@
       "questionType": "text",
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
-        "8",
+        "1",
         "5",
-        "3",
-        "12"
+        "2",
+        "3"
       ],
       "correctIndex": 1,
       "difficulty": "easy",
@@ -5025,10 +5025,10 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 1?",
       "options": [
-        "8",
-        "4",
+        "1",
+        "2",
         "5",
-        "24"
+        "3"
       ],
       "correctIndex": 2,
       "difficulty": "medium",
@@ -5091,9 +5091,9 @@
       "questionType": "text",
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
+        "1",
+        "2",
         "3",
-        "24",
-        "8",
         "5"
       ],
       "correctIndex": 3,
@@ -5124,10 +5124,10 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 3?",
       "options": [
-        "24",
-        "4",
         "1",
-        "12"
+        "4",
+        "2",
+        "3"
       ],
       "correctIndex": 1,
       "difficulty": "medium",
@@ -5191,8 +5191,8 @@
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
         "5",
-        "12",
-        "8",
+        "1",
+        "2",
         "3"
       ],
       "correctIndex": 0,
@@ -5223,10 +5223,10 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 1?",
       "options": [
-        "12",
+        "1",
         "5",
         "2",
-        "8"
+        "3"
       ],
       "correctIndex": 1,
       "difficulty": "medium",
@@ -5289,10 +5289,10 @@
       "questionType": "text",
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
-        "3",
-        "8",
+        "1",
+        "2",
         "5",
-        "2"
+        "3"
       ],
       "correctIndex": 2,
       "difficulty": "easy",
@@ -5324,8 +5324,8 @@
       "options": [
         "4",
         "1",
-        "8",
-        "24"
+        "2",
+        "3"
       ],
       "correctIndex": 0,
       "difficulty": "medium",
@@ -5390,8 +5390,8 @@
       "options": [
         "1",
         "5",
-        "4",
-        "24"
+        "2",
+        "3"
       ],
       "correctIndex": 1,
       "difficulty": "easy",
@@ -5487,10 +5487,10 @@
       "questionType": "text",
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
-        "3",
-        "5",
         "1",
-        "24"
+        "5",
+        "2",
+        "3"
       ],
       "correctIndex": 1,
       "difficulty": "easy",
@@ -5521,9 +5521,9 @@
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 3?",
       "options": [
         "4",
-        "6",
         "1",
-        "8"
+        "2",
+        "3"
       ],
       "correctIndex": 0,
       "difficulty": "medium",
@@ -5586,10 +5586,10 @@
       "questionType": "text",
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
-        "2",
+        "1",
         "5",
-        "8",
-        "6"
+        "2",
+        "3"
       ],
       "correctIndex": 1,
       "difficulty": "easy",
@@ -5686,9 +5686,9 @@
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
         "5",
-        "6",
         "1",
-        "8"
+        "2",
+        "3"
       ],
       "correctIndex": 0,
       "difficulty": "easy",
@@ -5718,10 +5718,10 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 3?",
       "options": [
-        "6",
-        "8",
+        "1",
+        "2",
         "4",
-        "2"
+        "3"
       ],
       "correctIndex": 2,
       "difficulty": "medium",
@@ -5818,9 +5818,9 @@
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 1?",
       "options": [
         "5",
-        "4",
         "1",
-        "8"
+        "2",
+        "3"
       ],
       "correctIndex": 0,
       "difficulty": "medium",
@@ -5884,9 +5884,9 @@
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
         "5",
-        "6",
+        "1",
         "2",
-        "24"
+        "3"
       ],
       "correctIndex": 0,
       "difficulty": "easy",
@@ -5917,9 +5917,9 @@
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 3?",
       "options": [
         "1",
-        "3",
+        "2",
         "4",
-        "8"
+        "3"
       ],
       "correctIndex": 2,
       "difficulty": "medium",
@@ -5982,9 +5982,9 @@
       "questionType": "text",
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
-        "8",
+        "1",
         "2",
-        "24",
+        "3",
         "5"
       ],
       "correctIndex": 3,
@@ -6081,9 +6081,9 @@
       "questionType": "text",
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
-        "4",
-        "6",
-        "24",
+        "1",
+        "2",
+        "3",
         "5"
       ],
       "correctIndex": 3,
@@ -6115,9 +6115,9 @@
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 3?",
       "options": [
         "4",
-        "3",
-        "24",
-        "6"
+        "1",
+        "2",
+        "3"
       ],
       "correctIndex": 0,
       "difficulty": "medium",
@@ -6180,10 +6180,10 @@
       "questionType": "text",
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
-        "3",
-        "12",
+        "1",
+        "2",
         "5",
-        "1"
+        "3"
       ],
       "correctIndex": 2,
       "difficulty": "easy",
@@ -6214,9 +6214,9 @@
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 1?",
       "options": [
         "5",
-        "12",
-        "4",
-        "1"
+        "1",
+        "2",
+        "3"
       ],
       "correctIndex": 0,
       "difficulty": "medium",
@@ -6279,9 +6279,9 @@
       "questionType": "text",
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
-        "8",
+        "1",
         "2",
-        "6",
+        "3",
         "5"
       ],
       "correctIndex": 3,
@@ -6312,9 +6312,9 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 3?",
       "options": [
-        "5",
-        "8",
-        "6",
+        "1",
+        "2",
+        "3",
         "4"
       ],
       "correctIndex": 3,
@@ -6380,8 +6380,8 @@
       "options": [
         "1",
         "5",
-        "12",
-        "24"
+        "2",
+        "3"
       ],
       "correctIndex": 1,
       "difficulty": "easy",
@@ -6412,9 +6412,9 @@
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 1?",
       "options": [
         "5",
-        "3",
+        "1",
         "2",
-        "8"
+        "3"
       ],
       "correctIndex": 0,
       "difficulty": "medium",
@@ -6477,9 +6477,9 @@
       "questionType": "text",
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
-        "2",
         "1",
-        "24",
+        "2",
+        "3",
         "5"
       ],
       "correctIndex": 3,
@@ -6510,10 +6510,10 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 3?",
       "options": [
-        "8",
+        "1",
         "4",
-        "3",
-        "24"
+        "2",
+        "3"
       ],
       "correctIndex": 1,
       "difficulty": "medium",
@@ -6609,8 +6609,8 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 1?",
       "options": [
-        "8",
-        "12",
+        "1",
+        "2",
         "3",
         "5"
       ],
@@ -6708,10 +6708,10 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 3?",
       "options": [
-        "8",
+        "1",
         "4",
-        "6",
-        "2"
+        "2",
+        "3"
       ],
       "correctIndex": 1,
       "difficulty": "medium",
@@ -6774,10 +6774,10 @@
       "questionType": "text",
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
-        "24",
-        "8",
+        "1",
+        "2",
         "5",
-        "1"
+        "3"
       ],
       "correctIndex": 2,
       "difficulty": "easy",
@@ -6807,8 +6807,8 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 1?",
       "options": [
-        "6",
-        "12",
+        "1",
+        "2",
         "5",
         "3"
       ],
@@ -6873,10 +6873,10 @@
       "questionType": "text",
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
+        "1",
         "2",
-        "24",
         "5",
-        "8"
+        "3"
       ],
       "correctIndex": 2,
       "difficulty": "easy",
@@ -6906,9 +6906,9 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 3?",
       "options": [
-        "6",
+        "1",
         "4",
-        "12",
+        "2",
         "3"
       ],
       "correctIndex": 1,
@@ -6972,10 +6972,10 @@
       "questionType": "text",
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
-        "6",
-        "4",
+        "1",
+        "2",
         "5",
-        "12"
+        "3"
       ],
       "correctIndex": 2,
       "difficulty": "easy",
@@ -7005,10 +7005,10 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 1?",
       "options": [
-        "24",
         "1",
+        "2",
         "5",
-        "4"
+        "3"
       ],
       "correctIndex": 2,
       "difficulty": "medium",
@@ -7072,9 +7072,9 @@
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
         "5",
-        "3",
-        "8",
-        "2"
+        "1",
+        "2",
+        "3"
       ],
       "correctIndex": 0,
       "difficulty": "easy",
@@ -7105,9 +7105,9 @@
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 3?",
       "options": [
         "4",
-        "12",
-        "24",
-        "6"
+        "1",
+        "2",
+        "3"
       ],
       "correctIndex": 0,
       "difficulty": "medium",
@@ -7170,9 +7170,9 @@
       "questionType": "text",
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
+        "1",
+        "2",
         "3",
-        "4",
-        "8",
         "5"
       ],
       "correctIndex": 3,
@@ -7203,10 +7203,10 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 1?",
       "options": [
-        "3",
-        "24",
+        "1",
+        "2",
         "5",
-        "2"
+        "3"
       ],
       "correctIndex": 2,
       "difficulty": "medium",
@@ -7269,9 +7269,9 @@
       "questionType": "text",
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
-        "12",
+        "1",
+        "2",
         "3",
-        "4",
         "5"
       ],
       "correctIndex": 3,
@@ -7304,8 +7304,8 @@
       "options": [
         "1",
         "4",
-        "5",
-        "24"
+        "2",
+        "3"
       ],
       "correctIndex": 1,
       "difficulty": "medium",
@@ -7369,8 +7369,8 @@
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
         "5",
-        "8",
-        "4",
+        "1",
+        "2",
         "3"
       ],
       "correctIndex": 0,
@@ -7401,9 +7401,9 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 1?",
       "options": [
-        "8",
+        "1",
+        "2",
         "3",
-        "24",
         "5"
       ],
       "correctIndex": 3,
@@ -7467,9 +7467,9 @@
       "questionType": "text",
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
-        "3",
-        "12",
         "1",
+        "2",
+        "3",
         "5"
       ],
       "correctIndex": 3,
@@ -7567,9 +7567,9 @@
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
         "5",
-        "12",
-        "4",
-        "24"
+        "1",
+        "2",
+        "3"
       ],
       "correctIndex": 0,
       "difficulty": "easy",
@@ -7699,9 +7699,9 @@
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 3?",
       "options": [
         "4",
-        "12",
+        "1",
         "2",
-        "5"
+        "3"
       ],
       "correctIndex": 0,
       "difficulty": "medium",
@@ -7797,9 +7797,9 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 1?",
       "options": [
-        "8",
+        "1",
         "2",
-        "12",
+        "3",
         "5"
       ],
       "correctIndex": 3,
@@ -7864,9 +7864,9 @@
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
         "5",
-        "6",
+        "1",
         "2",
-        "8"
+        "3"
       ],
       "correctIndex": 0,
       "difficulty": "easy",
@@ -7896,9 +7896,9 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 3?",
       "options": [
-        "12",
         "1",
-        "5",
+        "2",
+        "3",
         "4"
       ],
       "correctIndex": 3,
@@ -7995,10 +7995,10 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 1?",
       "options": [
-        "6",
+        "1",
         "5",
-        "12",
-        "1"
+        "2",
+        "3"
       ],
       "correctIndex": 1,
       "difficulty": "medium",
@@ -8061,10 +8061,10 @@
       "questionType": "text",
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
-        "12",
-        "24",
+        "1",
+        "2",
         "5",
-        "8"
+        "3"
       ],
       "correctIndex": 2,
       "difficulty": "easy",
@@ -8094,10 +8094,10 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 3?",
       "options": [
-        "12",
+        "1",
         "4",
-        "3",
-        "2"
+        "2",
+        "3"
       ],
       "correctIndex": 1,
       "difficulty": "medium",
@@ -8161,8 +8161,8 @@
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
         "1",
+        "2",
         "3",
-        "24",
         "5"
       ],
       "correctIndex": 3,
@@ -8194,9 +8194,9 @@
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 1?",
       "options": [
         "5",
-        "4",
-        "24",
-        "6"
+        "1",
+        "2",
+        "3"
       ],
       "correctIndex": 0,
       "difficulty": "medium",
@@ -8259,9 +8259,9 @@
       "questionType": "text",
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
-        "24",
-        "8",
+        "1",
         "2",
+        "3",
         "5"
       ],
       "correctIndex": 3,
@@ -8293,9 +8293,9 @@
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 3?",
       "options": [
         "4",
-        "3",
         "1",
-        "12"
+        "2",
+        "3"
       ],
       "correctIndex": 0,
       "difficulty": "medium",
@@ -8358,10 +8358,10 @@
       "questionType": "text",
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
-        "24",
-        "4",
+        "1",
+        "2",
         "5",
-        "6"
+        "3"
       ],
       "correctIndex": 2,
       "difficulty": "easy",
@@ -8391,10 +8391,10 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 1?",
       "options": [
-        "4",
-        "8",
+        "1",
+        "2",
         "5",
-        "6"
+        "3"
       ],
       "correctIndex": 2,
       "difficulty": "medium",
@@ -8458,9 +8458,9 @@
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
         "5",
-        "12",
-        "4",
-        "24"
+        "1",
+        "2",
+        "3"
       ],
       "correctIndex": 0,
       "difficulty": "easy",
@@ -8490,10 +8490,10 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 3?",
       "options": [
-        "12",
+        "1",
         "4",
-        "5",
-        "24"
+        "2",
+        "3"
       ],
       "correctIndex": 1,
       "difficulty": "medium",
@@ -8557,9 +8557,9 @@
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
         "5",
-        "6",
-        "12",
-        "4"
+        "1",
+        "2",
+        "3"
       ],
       "correctIndex": 0,
       "difficulty": "easy",
@@ -8589,10 +8589,10 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 1?",
       "options": [
-        "8",
+        "1",
         "2",
         "5",
-        "4"
+        "3"
       ],
       "correctIndex": 2,
       "difficulty": "medium",
@@ -8655,10 +8655,10 @@
       "questionType": "text",
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
-        "24",
-        "3",
+        "1",
+        "2",
         "5",
-        "12"
+        "3"
       ],
       "correctIndex": 2,
       "difficulty": "easy",
@@ -8688,9 +8688,9 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 3?",
       "options": [
-        "8",
-        "6",
-        "24",
+        "1",
+        "2",
+        "3",
         "4"
       ],
       "correctIndex": 3,
@@ -8756,8 +8756,8 @@
       "options": [
         "1",
         "5",
-        "4",
-        "24"
+        "2",
+        "3"
       ],
       "correctIndex": 1,
       "difficulty": "easy",
@@ -8787,8 +8787,8 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 1?",
       "options": [
-        "8",
-        "4",
+        "1",
+        "2",
         "3",
         "5"
       ],
@@ -8853,10 +8853,10 @@
       "questionType": "text",
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
-        "3",
-        "24",
+        "1",
+        "2",
         "5",
-        "1"
+        "3"
       ],
       "correctIndex": 2,
       "difficulty": "easy",
@@ -8886,9 +8886,9 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 3?",
       "options": [
-        "6",
+        "1",
         "4",
-        "24",
+        "2",
         "3"
       ],
       "correctIndex": 1,
@@ -8952,10 +8952,10 @@
       "questionType": "text",
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
-        "12",
+        "1",
         "5",
-        "6",
-        "8"
+        "2",
+        "3"
       ],
       "correctIndex": 1,
       "difficulty": "easy",
@@ -8985,9 +8985,9 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 1?",
       "options": [
-        "8",
+        "1",
         "2",
-        "4",
+        "3",
         "5"
       ],
       "correctIndex": 3,
@@ -9051,9 +9051,9 @@
       "questionType": "text",
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
-        "3",
-        "8",
         "1",
+        "2",
+        "3",
         "5"
       ],
       "correctIndex": 3,
@@ -9084,10 +9084,10 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 3?",
       "options": [
-        "8",
-        "3",
+        "1",
+        "2",
         "4",
-        "2"
+        "3"
       ],
       "correctIndex": 2,
       "difficulty": "medium",
@@ -9151,9 +9151,9 @@
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
         "5",
-        "8",
-        "4",
-        "2"
+        "1",
+        "2",
+        "3"
       ],
       "correctIndex": 0,
       "difficulty": "easy",
@@ -9183,10 +9183,10 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 1?",
       "options": [
-        "4",
+        "1",
         "5",
-        "3",
-        "8"
+        "2",
+        "3"
       ],
       "correctIndex": 1,
       "difficulty": "medium",
@@ -9283,9 +9283,9 @@
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 3?",
       "options": [
         "4",
-        "8",
-        "6",
-        "12"
+        "1",
+        "2",
+        "3"
       ],
       "correctIndex": 0,
       "difficulty": "medium",
@@ -9348,9 +9348,9 @@
       "questionType": "text",
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
-        "8",
+        "1",
         "2",
-        "6",
+        "3",
         "5"
       ],
       "correctIndex": 3,
@@ -9382,9 +9382,9 @@
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 1?",
       "options": [
         "5",
-        "24",
-        "3",
-        "4"
+        "1",
+        "2",
+        "3"
       ],
       "correctIndex": 0,
       "difficulty": "medium",
@@ -9447,10 +9447,10 @@
       "questionType": "text",
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
-        "12",
-        "6",
+        "1",
+        "2",
         "5",
-        "24"
+        "3"
       ],
       "correctIndex": 2,
       "difficulty": "easy",
@@ -9480,10 +9480,10 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 3?",
       "options": [
-        "24",
+        "1",
         "2",
         "4",
-        "6"
+        "3"
       ],
       "correctIndex": 2,
       "difficulty": "medium",
@@ -9579,10 +9579,10 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 1?",
       "options": [
-        "4",
-        "8",
+        "1",
+        "2",
         "5",
-        "1"
+        "3"
       ],
       "correctIndex": 2,
       "difficulty": "medium",
@@ -9678,10 +9678,10 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 3?",
       "options": [
-        "6",
+        "1",
         "4",
-        "24",
-        "1"
+        "2",
+        "3"
       ],
       "correctIndex": 1,
       "difficulty": "medium",
@@ -9744,10 +9744,10 @@
       "questionType": "text",
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
-        "8",
+        "1",
         "2",
         "5",
-        "6"
+        "3"
       ],
       "correctIndex": 2,
       "difficulty": "easy",
@@ -9843,10 +9843,10 @@
       "questionType": "text",
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
+        "1",
         "2",
-        "12",
         "5",
-        "4"
+        "3"
       ],
       "correctIndex": 2,
       "difficulty": "easy",
@@ -9876,10 +9876,10 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 3?",
       "options": [
-        "12",
-        "6",
+        "1",
+        "2",
         "4",
-        "24"
+        "3"
       ],
       "correctIndex": 2,
       "difficulty": "medium",
@@ -9975,10 +9975,10 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 1?",
       "options": [
-        "2",
+        "1",
         "5",
-        "24",
-        "4"
+        "2",
+        "3"
       ],
       "correctIndex": 1,
       "difficulty": "medium",
@@ -10074,10 +10074,10 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 3?",
       "options": [
-        "8",
         "1",
+        "2",
         "4",
-        "12"
+        "3"
       ],
       "correctIndex": 2,
       "difficulty": "medium",
@@ -10174,9 +10174,9 @@
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 1?",
       "options": [
         "5",
-        "3",
         "1",
-        "8"
+        "2",
+        "3"
       ],
       "correctIndex": 0,
       "difficulty": "medium",
@@ -10239,10 +10239,10 @@
       "questionType": "text",
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
-        "6",
-        "3",
+        "1",
+        "2",
         "5",
-        "12"
+        "3"
       ],
       "correctIndex": 2,
       "difficulty": "easy",
@@ -10272,10 +10272,10 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 3?",
       "options": [
-        "3",
         "1",
+        "2",
         "4",
-        "24"
+        "3"
       ],
       "correctIndex": 2,
       "difficulty": "medium",
@@ -10371,9 +10371,9 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 1?",
       "options": [
-        "12",
-        "8",
-        "6",
+        "1",
+        "2",
+        "3",
         "5"
       ],
       "correctIndex": 3,
@@ -10470,10 +10470,10 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 3?",
       "options": [
-        "2",
+        "1",
         "4",
-        "8",
-        "1"
+        "2",
+        "3"
       ],
       "correctIndex": 1,
       "difficulty": "medium",
@@ -10536,10 +10536,10 @@
       "questionType": "text",
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
-        "6",
+        "1",
         "5",
-        "4",
-        "8"
+        "2",
+        "3"
       ],
       "correctIndex": 1,
       "difficulty": "easy",
@@ -10569,7 +10569,7 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 1?",
       "options": [
-        "8",
+        "1",
         "5",
         "2",
         "3"
@@ -10636,9 +10636,9 @@
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
         "5",
+        "1",
         "2",
-        "3",
-        "8"
+        "3"
       ],
       "correctIndex": 0,
       "difficulty": "easy",
@@ -10669,9 +10669,9 @@
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 3?",
       "options": [
         "4",
-        "3",
-        "6",
-        "24"
+        "1",
+        "2",
+        "3"
       ],
       "correctIndex": 0,
       "difficulty": "medium",
@@ -10734,10 +10734,10 @@
       "questionType": "text",
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
-        "4",
-        "3",
+        "1",
+        "2",
         "5",
-        "12"
+        "3"
       ],
       "correctIndex": 2,
       "difficulty": "easy",
@@ -10767,10 +10767,10 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 1?",
       "options": [
-        "24",
+        "1",
         "2",
         "5",
-        "1"
+        "3"
       ],
       "correctIndex": 2,
       "difficulty": "medium",
@@ -10833,8 +10833,8 @@
       "questionType": "text",
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
-        "8",
-        "12",
+        "1",
+        "2",
         "5",
         "3"
       ],
@@ -10867,9 +10867,9 @@
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 3?",
       "options": [
         "4",
-        "3",
-        "24",
-        "12"
+        "1",
+        "2",
+        "3"
       ],
       "correctIndex": 0,
       "difficulty": "medium",
@@ -10932,10 +10932,10 @@
       "questionType": "text",
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
-        "8",
+        "1",
         "2",
         "5",
-        "1"
+        "3"
       ],
       "correctIndex": 2,
       "difficulty": "easy",
@@ -10966,9 +10966,9 @@
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 1?",
       "options": [
         "5",
-        "12",
+        "1",
         "2",
-        "24"
+        "3"
       ],
       "correctIndex": 0,
       "difficulty": "medium",
@@ -11033,8 +11033,8 @@
       "options": [
         "1",
         "5",
-        "6",
-        "8"
+        "2",
+        "3"
       ],
       "correctIndex": 1,
       "difficulty": "easy",
@@ -11064,10 +11064,10 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 3?",
       "options": [
-        "6",
-        "24",
+        "1",
+        "2",
         "4",
-        "5"
+        "3"
       ],
       "correctIndex": 2,
       "difficulty": "medium",
@@ -11164,9 +11164,9 @@
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 1?",
       "options": [
         "5",
-        "24",
-        "4",
-        "1"
+        "1",
+        "2",
+        "3"
       ],
       "correctIndex": 0,
       "difficulty": "medium",
@@ -11229,10 +11229,10 @@
       "questionType": "text",
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
-        "3",
-        "6",
+        "1",
+        "2",
         "5",
-        "8"
+        "3"
       ],
       "correctIndex": 2,
       "difficulty": "easy",
@@ -11328,9 +11328,9 @@
       "questionType": "text",
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
-        "2",
         "1",
-        "24",
+        "2",
+        "3",
         "5"
       ],
       "correctIndex": 3,
@@ -11460,9 +11460,9 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 3?",
       "options": [
-        "2",
         "1",
-        "12",
+        "2",
+        "3",
         "4"
       ],
       "correctIndex": 3,
@@ -11528,8 +11528,8 @@
       "options": [
         "1",
         "5",
-        "4",
-        "12"
+        "2",
+        "3"
       ],
       "correctIndex": 1,
       "difficulty": "easy",
@@ -11625,9 +11625,9 @@
       "questionType": "text",
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
+        "1",
         "2",
         "3",
-        "8",
         "5"
       ],
       "correctIndex": 3,
@@ -11661,7 +11661,7 @@
         "1",
         "4",
         "2",
-        "8"
+        "3"
       ],
       "correctIndex": 1,
       "difficulty": "medium",
@@ -11725,9 +11725,9 @@
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
         "5",
-        "8",
         "1",
-        "2"
+        "2",
+        "3"
       ],
       "correctIndex": 0,
       "difficulty": "easy",
@@ -11758,8 +11758,8 @@
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 1?",
       "options": [
         "1",
-        "24",
-        "4",
+        "2",
+        "3",
         "5"
       ],
       "correctIndex": 3,
@@ -11823,8 +11823,8 @@
       "questionType": "text",
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
-        "24",
         "1",
+        "2",
         "5",
         "3"
       ],
@@ -11857,8 +11857,8 @@
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 3?",
       "options": [
         "1",
-        "24",
-        "6",
+        "2",
+        "3",
         "4"
       ],
       "correctIndex": 3,
@@ -11923,9 +11923,9 @@
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
         "5",
-        "8",
-        "12",
-        "6"
+        "1",
+        "2",
+        "3"
       ],
       "correctIndex": 0,
       "difficulty": "easy",
@@ -12021,9 +12021,9 @@
       "questionType": "text",
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
-        "6",
         "1",
-        "12",
+        "2",
+        "3",
         "5"
       ],
       "correctIndex": 3,
@@ -12055,9 +12055,9 @@
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 3?",
       "options": [
         "4",
-        "12",
-        "6",
-        "24"
+        "1",
+        "2",
+        "3"
       ],
       "correctIndex": 0,
       "difficulty": "medium",
@@ -12120,9 +12120,9 @@
       "questionType": "text",
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
-        "2",
         "1",
-        "24",
+        "2",
+        "3",
         "5"
       ],
       "correctIndex": 3,
@@ -12252,9 +12252,9 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 3?",
       "options": [
+        "1",
         "2",
-        "6",
-        "8",
+        "3",
         "4"
       ],
       "correctIndex": 3,
@@ -12318,10 +12318,10 @@
       "questionType": "text",
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
-        "3",
+        "1",
         "2",
         "5",
-        "24"
+        "3"
       ],
       "correctIndex": 2,
       "difficulty": "easy",
@@ -12351,9 +12351,9 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 1?",
       "options": [
-        "4",
-        "12",
-        "24",
+        "1",
+        "2",
+        "3",
         "5"
       ],
       "correctIndex": 3,
@@ -12418,9 +12418,9 @@
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
         "5",
-        "6",
+        "1",
         "2",
-        "8"
+        "3"
       ],
       "correctIndex": 0,
       "difficulty": "easy",
@@ -12450,9 +12450,9 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 3?",
       "options": [
-        "12",
-        "4",
         "1",
+        "4",
+        "2",
         "3"
       ],
       "correctIndex": 1,
@@ -12516,10 +12516,10 @@
       "questionType": "text",
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
-        "3",
-        "8",
+        "1",
+        "2",
         "5",
-        "12"
+        "3"
       ],
       "correctIndex": 2,
       "difficulty": "easy",
@@ -12615,10 +12615,10 @@
       "questionType": "text",
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
-        "6",
+        "1",
         "5",
-        "8",
-        "12"
+        "2",
+        "3"
       ],
       "correctIndex": 1,
       "difficulty": "easy",
@@ -12648,8 +12648,8 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 3?",
       "options": [
-        "8",
         "1",
+        "2",
         "4",
         "3"
       ],
@@ -12716,8 +12716,8 @@
       "options": [
         "5",
         "1",
-        "12",
-        "8"
+        "2",
+        "3"
       ],
       "correctIndex": 0,
       "difficulty": "easy",
@@ -12747,9 +12747,9 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 1?",
       "options": [
+        "1",
         "2",
-        "24",
-        "6",
+        "3",
         "5"
       ],
       "correctIndex": 3,
@@ -12847,9 +12847,9 @@
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 3?",
       "options": [
         "4",
-        "3",
-        "8",
-        "24"
+        "1",
+        "2",
+        "3"
       ],
       "correctIndex": 0,
       "difficulty": "medium",
@@ -12912,10 +12912,10 @@
       "questionType": "text",
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
-        "3",
-        "5",
         "1",
-        "8"
+        "5",
+        "2",
+        "3"
       ],
       "correctIndex": 1,
       "difficulty": "easy",
@@ -12945,9 +12945,9 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 1?",
       "options": [
-        "8",
+        "1",
         "2",
-        "6",
+        "3",
         "5"
       ],
       "correctIndex": 3,
@@ -13044,10 +13044,10 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 3?",
       "options": [
-        "24",
+        "1",
         "4",
-        "6",
-        "12"
+        "2",
+        "3"
       ],
       "correctIndex": 1,
       "difficulty": "medium",
@@ -13110,10 +13110,10 @@
       "questionType": "text",
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
-        "8",
+        "1",
         "5",
-        "3",
-        "4"
+        "2",
+        "3"
       ],
       "correctIndex": 1,
       "difficulty": "easy",
@@ -13143,10 +13143,10 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 1?",
       "options": [
-        "24",
+        "1",
         "5",
-        "12",
-        "8"
+        "2",
+        "3"
       ],
       "correctIndex": 1,
       "difficulty": "medium",
@@ -13210,9 +13210,9 @@
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
         "5",
+        "1",
         "2",
-        "8",
-        "1"
+        "3"
       ],
       "correctIndex": 0,
       "difficulty": "easy",
@@ -13242,10 +13242,10 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 3?",
       "options": [
-        "24",
+        "1",
         "4",
         "2",
-        "8"
+        "3"
       ],
       "correctIndex": 1,
       "difficulty": "medium",
@@ -13309,9 +13309,9 @@
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
         "5",
+        "1",
         "2",
-        "12",
-        "6"
+        "3"
       ],
       "correctIndex": 0,
       "difficulty": "easy",
@@ -13342,9 +13342,9 @@
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 1?",
       "options": [
         "5",
-        "6",
-        "24",
-        "8"
+        "1",
+        "2",
+        "3"
       ],
       "correctIndex": 0,
       "difficulty": "medium",
@@ -13407,10 +13407,10 @@
       "questionType": "text",
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
+        "1",
         "2",
-        "8",
         "5",
-        "12"
+        "3"
       ],
       "correctIndex": 2,
       "difficulty": "easy",
@@ -13440,10 +13440,10 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 3?",
       "options": [
-        "12",
+        "1",
         "4",
         "2",
-        "6"
+        "3"
       ],
       "correctIndex": 1,
       "difficulty": "medium",
@@ -13506,10 +13506,10 @@
       "questionType": "text",
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
-        "2",
+        "1",
         "5",
-        "4",
-        "12"
+        "2",
+        "3"
       ],
       "correctIndex": 1,
       "difficulty": "easy",
@@ -13540,9 +13540,9 @@
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 1?",
       "options": [
         "5",
+        "1",
         "2",
-        "24",
-        "12"
+        "3"
       ],
       "correctIndex": 0,
       "difficulty": "medium",
@@ -13605,10 +13605,10 @@
       "questionType": "text",
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
-        "24",
-        "3",
+        "1",
+        "2",
         "5",
-        "6"
+        "3"
       ],
       "correctIndex": 2,
       "difficulty": "easy",
@@ -13639,9 +13639,9 @@
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 3?",
       "options": [
         "4",
-        "3",
-        "12",
-        "6"
+        "1",
+        "2",
+        "3"
       ],
       "correctIndex": 0,
       "difficulty": "medium",
@@ -13737,10 +13737,10 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 1?",
       "options": [
-        "24",
         "1",
+        "2",
         "5",
-        "6"
+        "3"
       ],
       "correctIndex": 2,
       "difficulty": "medium",
@@ -13836,10 +13836,10 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 3?",
       "options": [
-        "8",
+        "1",
         "2",
         "4",
-        "24"
+        "3"
       ],
       "correctIndex": 2,
       "difficulty": "medium",
@@ -13902,9 +13902,9 @@
       "questionType": "text",
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
-        "12",
-        "5",
         "1",
+        "5",
+        "2",
         "3"
       ],
       "correctIndex": 1,
@@ -14001,10 +14001,10 @@
       "questionType": "text",
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
-        "12",
-        "6",
+        "1",
+        "2",
         "5",
-        "1"
+        "3"
       ],
       "correctIndex": 2,
       "difficulty": "easy",
@@ -14034,10 +14034,10 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 3?",
       "options": [
-        "12",
+        "1",
         "4",
-        "3",
-        "5"
+        "2",
+        "3"
       ],
       "correctIndex": 1,
       "difficulty": "medium",
@@ -14100,9 +14100,9 @@
       "questionType": "text",
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
-        "12",
-        "24",
         "1",
+        "2",
+        "3",
         "5"
       ],
       "correctIndex": 3,
@@ -14133,10 +14133,10 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 1?",
       "options": [
-        "4",
         "1",
+        "2",
         "5",
-        "8"
+        "3"
       ],
       "correctIndex": 2,
       "difficulty": "medium",
@@ -14232,9 +14232,9 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 3?",
       "options": [
-        "3",
+        "1",
         "2",
-        "8",
+        "3",
         "4"
       ],
       "correctIndex": 3,
@@ -14298,10 +14298,10 @@
       "questionType": "text",
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
-        "8",
+        "1",
         "5",
-        "6",
-        "12"
+        "2",
+        "3"
       ],
       "correctIndex": 1,
       "difficulty": "easy",
@@ -14332,9 +14332,9 @@
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 1?",
       "options": [
         "5",
-        "6",
-        "24",
-        "1"
+        "1",
+        "2",
+        "3"
       ],
       "correctIndex": 0,
       "difficulty": "medium",
@@ -14430,9 +14430,9 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 3?",
       "options": [
-        "8",
+        "1",
         "4",
-        "6",
+        "2",
         "3"
       ],
       "correctIndex": 1,
@@ -14530,9 +14530,9 @@
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 1?",
       "options": [
         "5",
+        "1",
         "2",
-        "4",
-        "12"
+        "3"
       ],
       "correctIndex": 0,
       "difficulty": "medium",
@@ -14596,9 +14596,9 @@
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
         "5",
-        "3",
-        "12",
-        "1"
+        "1",
+        "2",
+        "3"
       ],
       "correctIndex": 0,
       "difficulty": "easy",
@@ -14628,9 +14628,9 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 3?",
       "options": [
-        "8",
-        "24",
-        "12",
+        "1",
+        "2",
+        "3",
         "4"
       ],
       "correctIndex": 3,
@@ -14826,10 +14826,10 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 3?",
       "options": [
-        "12",
+        "1",
         "4",
-        "3",
-        "6"
+        "2",
+        "3"
       ],
       "correctIndex": 1,
       "difficulty": "medium",
@@ -14893,9 +14893,9 @@
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
         "5",
-        "24",
-        "3",
-        "8"
+        "1",
+        "2",
+        "3"
       ],
       "correctIndex": 0,
       "difficulty": "easy",
@@ -14992,9 +14992,9 @@
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
         "5",
-        "3",
-        "12",
-        "6"
+        "1",
+        "2",
+        "3"
       ],
       "correctIndex": 0,
       "difficulty": "easy",
@@ -15024,9 +15024,9 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 3?",
       "options": [
-        "8",
-        "24",
-        "6",
+        "1",
+        "2",
+        "3",
         "4"
       ],
       "correctIndex": 3,
@@ -15090,9 +15090,9 @@
       "questionType": "text",
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
-        "24",
+        "1",
         "2",
-        "4",
+        "3",
         "5"
       ],
       "correctIndex": 3,
@@ -15123,10 +15123,10 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 1?",
       "options": [
-        "6",
+        "1",
         "2",
         "5",
-        "24"
+        "3"
       ],
       "correctIndex": 2,
       "difficulty": "medium",
@@ -15289,9 +15289,9 @@
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
         "5",
-        "4",
-        "24",
-        "2"
+        "1",
+        "2",
+        "3"
       ],
       "correctIndex": 0,
       "difficulty": "easy",
@@ -15322,8 +15322,8 @@
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 1?",
       "options": [
         "1",
-        "24",
         "2",
+        "3",
         "5"
       ],
       "correctIndex": 3,
@@ -15388,9 +15388,9 @@
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
         "5",
-        "3",
-        "6",
-        "12"
+        "1",
+        "2",
+        "3"
       ],
       "correctIndex": 0,
       "difficulty": "easy",
@@ -15420,10 +15420,10 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 3?",
       "options": [
+        "1",
         "2",
-        "12",
         "4",
-        "24"
+        "3"
       ],
       "correctIndex": 2,
       "difficulty": "medium",
@@ -15487,9 +15487,9 @@
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
         "5",
-        "12",
         "1",
-        "8"
+        "2",
+        "3"
       ],
       "correctIndex": 0,
       "difficulty": "easy",
@@ -15519,10 +15519,10 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 1?",
       "options": [
-        "8",
+        "1",
         "5",
-        "6",
-        "2"
+        "2",
+        "3"
       ],
       "correctIndex": 1,
       "difficulty": "medium",
@@ -15586,9 +15586,9 @@
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
         "5",
-        "12",
         "1",
-        "6"
+        "2",
+        "3"
       ],
       "correctIndex": 0,
       "difficulty": "easy",
@@ -15618,10 +15618,10 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 3?",
       "options": [
-        "24",
+        "1",
         "4",
-        "6",
-        "1"
+        "2",
+        "3"
       ],
       "correctIndex": 1,
       "difficulty": "medium",
@@ -15684,10 +15684,10 @@
       "questionType": "text",
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
-        "8",
-        "24",
+        "1",
+        "2",
         "5",
-        "12"
+        "3"
       ],
       "correctIndex": 2,
       "difficulty": "easy",
@@ -15717,9 +15717,9 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 1?",
       "options": [
+        "1",
         "2",
-        "12",
-        "8",
+        "3",
         "5"
       ],
       "correctIndex": 3,
@@ -15783,9 +15783,9 @@
       "questionType": "text",
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
-        "4",
         "1",
-        "12",
+        "2",
+        "3",
         "5"
       ],
       "correctIndex": 3,
@@ -15817,9 +15817,9 @@
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 3?",
       "options": [
         "4",
-        "3",
-        "8",
-        "2"
+        "1",
+        "2",
+        "3"
       ],
       "correctIndex": 0,
       "difficulty": "medium",
@@ -15882,8 +15882,8 @@
       "questionType": "text",
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
-        "12",
-        "8",
+        "1",
+        "2",
         "5",
         "3"
       ],
@@ -15981,10 +15981,10 @@
       "questionType": "text",
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
-        "24",
+        "1",
         "5",
-        "12",
-        "8"
+        "2",
+        "3"
       ],
       "correctIndex": 1,
       "difficulty": "easy",
@@ -16014,10 +16014,10 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 3?",
       "options": [
-        "8",
+        "1",
         "4",
-        "12",
-        "1"
+        "2",
+        "3"
       ],
       "correctIndex": 1,
       "difficulty": "medium",
@@ -16080,9 +16080,9 @@
       "questionType": "text",
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
-        "24",
+        "1",
         "5",
-        "6",
+        "2",
         "3"
       ],
       "correctIndex": 1,
@@ -16113,10 +16113,10 @@
       "questionType": "text",
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 1?",
       "options": [
-        "12",
+        "1",
         "5",
-        "24",
-        "8"
+        "2",
+        "3"
       ],
       "correctIndex": 1,
       "difficulty": "medium",
@@ -16179,9 +16179,9 @@
       "questionType": "text",
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
-        "6",
-        "12",
         "1",
+        "2",
+        "3",
         "5"
       ],
       "correctIndex": 3,
@@ -16213,9 +16213,9 @@
       "questionText": "Two positions of a single die are shown:\nPosition 1: Faces 3, 1, and 2 are visible.\nPosition 2: Faces 3, 5, and 6 are visible.\nWhich number is on the face opposite to 3?",
       "options": [
         "4",
+        "1",
         "2",
-        "24",
-        "12"
+        "3"
       ],
       "correctIndex": 0,
       "difficulty": "medium",
@@ -16279,8 +16279,8 @@
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
         "1",
-        "8",
-        "6",
+        "2",
+        "3",
         "5"
       ],
       "correctIndex": 3,
@@ -16378,9 +16378,9 @@
       "questionText": "In a standard unbiased playing die, which number is on the face opposite to the face showing number 2?",
       "options": [
         "1",
-        "12",
+        "2",
         "5",
-        "8"
+        "3"
       ],
       "correctIndex": 2,
       "difficulty": "easy",
@@ -16412,8 +16412,8 @@
       "options": [
         "4",
         "1",
-        "12",
-        "2"
+        "2",
+        "3"
       ],
       "correctIndex": 0,
       "difficulty": "medium",

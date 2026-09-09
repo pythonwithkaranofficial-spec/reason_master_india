@@ -49,343 +49,483 @@
       ],
       "practiceQuestions": [
         {
-          "questionText": "Analytical Figure Classification Practice Q1: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "Which of the following figures belongs to the class where the outer polygon has exactly ONE more side than the inner polygon?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Analytical Figure Classification. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Analytical Figure Classification Practice Q2: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 2,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Analytical Figure Classification. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Analytical Figure Classification Practice Q3: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Analytical Figure Classification. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Analytical Figure Classification Practice Q4: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "A regular pentagon enclosing a square (5 sides outer, 4 sides inner)",
+            "A square enclosing a regular pentagon (4 sides outer, 5 sides inner)",
+            "A regular hexagon enclosing a triangle (6 sides outer, 3 sides inner)",
+            "A regular pentagon enclosing an equilateral triangle (5 sides outer, 3 sides inner)"
           ],
           "correctIndex": 0,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Analytical Figure Classification. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Count outer sides versus inner sides (n and n - 1).",
+          "explanation": "A regular pentagon has 5 sides and an enclosed square has 4 sides; the difference is exactly 5 - 4 = 1 side. This satisfies the classification criterion.",
+          "solutionSteps": "Step 1: Understand the analytical classification rule stated in the prompt.\nStep 2: Evaluate the geometric properties (side counts, partition counts, area ratios) of each option.\nStep 3: The uniquely matching figure is A regular pentagon enclosing a square (5 sides outer, 4 sides inner).",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Analytical Figure Classification Practice Q5: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "Which figure has exactly 25% (one quarter) of its total area shaded?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Analytical Figure Classification. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Analytical Figure Classification Practice Q6: Apply the concepts learned to solve this easy level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "A circle divided into four quadrants with two quadrants shaded (50%)",
+            "An equilateral triangle with three smaller congruent triangles inside and one shaded (33%)",
+            "A circle divided into four equal quadrants with exactly one quadrant shaded black",
+            "A regular hexagon with three of its six triangular sectors shaded (50%)"
           ],
           "correctIndex": 2,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Analytical Figure Classification. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "One part out of four equal parts equals 25%.",
+          "explanation": "Dividing a circle into 4 equal 90-degree quadrant sectors and shading one sector yields an exact 1/4 = 25% shaded area fraction.",
+          "solutionSteps": "Step 1: Understand the analytical classification rule stated in the prompt.\nStep 2: Evaluate the geometric properties (side counts, partition counts, area ratios) of each option.\nStep 3: The uniquely matching figure is A circle divided into four equal quadrants with exactly one quadrant shaded black.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Analytical Figure Classification Practice Q7: Apply the concepts learned to solve this easy level problem.",
+          "questionText": "Which of the following figures belongs to the class where the outer polygon has exactly ONE more side than the inner polygon?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "A square enclosing a regular pentagon (4 sides outer, 5 sides inner)",
+            "A regular pentagon enclosing a square (5 sides outer, 4 sides inner)",
+            "A regular hexagon enclosing a triangle (6 sides outer, 3 sides inner)",
+            "A regular pentagon enclosing an equilateral triangle (5 sides outer, 3 sides inner)"
+          ],
+          "correctIndex": 1,
+          "difficulty": "easy",
+          "hint": "Count outer sides versus inner sides (n and n - 1).",
+          "explanation": "A regular pentagon has 5 sides and an enclosed square has 4 sides; the difference is exactly 5 - 4 = 1 side. This satisfies the classification criterion.",
+          "solutionSteps": "Step 1: Understand the analytical classification rule stated in the prompt.\nStep 2: Evaluate the geometric properties (side counts, partition counts, area ratios) of each option.\nStep 3: The uniquely matching figure is A regular pentagon enclosing a square (5 sides outer, 4 sides inner).",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Which figure has exactly 25% (one quarter) of its total area shaded?",
+          "options": [
+            "A circle divided into four quadrants with two quadrants shaded (50%)",
+            "An equilateral triangle with three smaller congruent triangles inside and one shaded (33%)",
+            "A regular hexagon with three of its six triangular sectors shaded (50%)",
+            "A circle divided into four equal quadrants with exactly one quadrant shaded black"
           ],
           "correctIndex": 3,
           "difficulty": "easy",
-          "solutionSteps": "Apply the standard method for Analytical Figure Classification. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "One part out of four equal parts equals 25%.",
+          "explanation": "Dividing a circle into 4 equal 90-degree quadrant sectors and shading one sector yields an exact 1/4 = 25% shaded area fraction.",
+          "solutionSteps": "Step 1: Understand the analytical classification rule stated in the prompt.\nStep 2: Evaluate the geometric properties (side counts, partition counts, area ratios) of each option.\nStep 3: The uniquely matching figure is A circle divided into four equal quadrants with exactly one quadrant shaded black.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Analytical Figure Classification Practice Q8: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "Which of the following figures belongs to the class where the outer polygon has exactly ONE more side than the inner polygon?",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "A square enclosing a regular pentagon (4 sides outer, 5 sides inner)",
+            "A regular pentagon enclosing a square (5 sides outer, 4 sides inner)",
+            "A regular hexagon enclosing a triangle (6 sides outer, 3 sides inner)",
+            "A regular pentagon enclosing an equilateral triangle (5 sides outer, 3 sides inner)"
+          ],
+          "correctIndex": 1,
+          "difficulty": "easy",
+          "hint": "Count outer sides versus inner sides (n and n - 1).",
+          "explanation": "A regular pentagon has 5 sides and an enclosed square has 4 sides; the difference is exactly 5 - 4 = 1 side. This satisfies the classification criterion.",
+          "solutionSteps": "Step 1: Understand the analytical classification rule stated in the prompt.\nStep 2: Evaluate the geometric properties (side counts, partition counts, area ratios) of each option.\nStep 3: The uniquely matching figure is A regular pentagon enclosing a square (5 sides outer, 4 sides inner).",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Which figure has exactly 25% (one quarter) of its total area shaded?",
+          "options": [
+            "A circle divided into four equal quadrants with exactly one quadrant shaded black",
+            "A circle divided into four quadrants with two quadrants shaded (50%)",
+            "An equilateral triangle with three smaller congruent triangles inside and one shaded (33%)",
+            "A regular hexagon with three of its six triangular sectors shaded (50%)"
           ],
           "correctIndex": 0,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Analytical Figure Classification. Work through the problem step by step using the shortcuts taught in this topic.",
+          "difficulty": "easy",
+          "hint": "One part out of four equal parts equals 25%.",
+          "explanation": "Dividing a circle into 4 equal 90-degree quadrant sectors and shading one sector yields an exact 1/4 = 25% shaded area fraction.",
+          "solutionSteps": "Step 1: Understand the analytical classification rule stated in the prompt.\nStep 2: Evaluate the geometric properties (side counts, partition counts, area ratios) of each option.\nStep 3: The uniquely matching figure is A circle divided into four equal quadrants with exactly one quadrant shaded black.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Analytical Figure Classification Practice Q9: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "Identify the figure which is divided into exactly eight congruent parts by its internal diagonals and axes:",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "A regular hexagon divided into six congruent triangles",
+            "A regular octagon with all principal diagonals drawn from the center",
+            "A square divided into four congruent triangles by two diagonals",
+            "A circle divided into ten congruent sectors"
           ],
           "correctIndex": 1,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Analytical Figure Classification. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Check if the shape is partitioned into 8 congruent sectors.",
+          "explanation": "Connecting the 8 vertices of a regular octagon to its central origin creates 8 identical congruent isosceles triangles.",
+          "solutionSteps": "Step 1: Understand the analytical classification rule stated in the prompt.\nStep 2: Evaluate the geometric properties (side counts, partition counts, area ratios) of each option.\nStep 3: The uniquely matching figure is A regular octagon with all principal diagonals drawn from the center.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Analytical Figure Classification Practice Q10: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "Identify the figure which is divided into exactly eight congruent parts by its internal diagonals and axes:",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 2,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Analytical Figure Classification. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Analytical Figure Classification Practice Q11: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Analytical Figure Classification. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Analytical Figure Classification Practice Q12: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "A regular octagon with all principal diagonals drawn from the center",
+            "A regular hexagon divided into six congruent triangles",
+            "A square divided into four congruent triangles by two diagonals",
+            "A circle divided into ten congruent sectors"
           ],
           "correctIndex": 0,
           "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Analytical Figure Classification. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Check if the shape is partitioned into 8 congruent sectors.",
+          "explanation": "Connecting the 8 vertices of a regular octagon to its central origin creates 8 identical congruent isosceles triangles.",
+          "solutionSteps": "Step 1: Understand the analytical classification rule stated in the prompt.\nStep 2: Evaluate the geometric properties (side counts, partition counts, area ratios) of each option.\nStep 3: The uniquely matching figure is A regular octagon with all principal diagonals drawn from the center.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         },
         {
-          "questionText": "Analytical Figure Classification Practice Q13: Apply the concepts learned to solve this medium level problem.",
+          "questionText": "Identify the figure which is divided into exactly eight congruent parts by its internal diagonals and axes:",
           "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
+            "A regular octagon with all principal diagonals drawn from the center",
+            "A regular hexagon divided into six congruent triangles",
+            "A square divided into four congruent triangles by two diagonals",
+            "A circle divided into ten congruent sectors"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "hint": "Check if the shape is partitioned into 8 congruent sectors.",
+          "explanation": "Connecting the 8 vertices of a regular octagon to its central origin creates 8 identical congruent isosceles triangles.",
+          "solutionSteps": "Step 1: Understand the analytical classification rule stated in the prompt.\nStep 2: Evaluate the geometric properties (side counts, partition counts, area ratios) of each option.\nStep 3: The uniquely matching figure is A regular octagon with all principal diagonals drawn from the center.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Identify the figure which is divided into exactly eight congruent parts by its internal diagonals and axes:",
+          "options": [
+            "A regular hexagon divided into six congruent triangles",
+            "A square divided into four congruent triangles by two diagonals",
+            "A regular octagon with all principal diagonals drawn from the center",
+            "A circle divided into ten congruent sectors"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "hint": "Check if the shape is partitioned into 8 congruent sectors.",
+          "explanation": "Connecting the 8 vertices of a regular octagon to its central origin creates 8 identical congruent isosceles triangles.",
+          "solutionSteps": "Step 1: Understand the analytical classification rule stated in the prompt.\nStep 2: Evaluate the geometric properties (side counts, partition counts, area ratios) of each option.\nStep 3: The uniquely matching figure is A regular octagon with all principal diagonals drawn from the center.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Identify the figure which is divided into exactly eight congruent parts by its internal diagonals and axes:",
+          "options": [
+            "A regular octagon with all principal diagonals drawn from the center",
+            "A regular hexagon divided into six congruent triangles",
+            "A square divided into four congruent triangles by two diagonals",
+            "A circle divided into ten congruent sectors"
+          ],
+          "correctIndex": 0,
+          "difficulty": "medium",
+          "hint": "Check if the shape is partitioned into 8 congruent sectors.",
+          "explanation": "Connecting the 8 vertices of a regular octagon to its central origin creates 8 identical congruent isosceles triangles.",
+          "solutionSteps": "Step 1: Understand the analytical classification rule stated in the prompt.\nStep 2: Evaluate the geometric properties (side counts, partition counts, area ratios) of each option.\nStep 3: The uniquely matching figure is A regular octagon with all principal diagonals drawn from the center.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Identify the figure which is divided into exactly eight congruent parts by its internal diagonals and axes:",
+          "options": [
+            "A regular hexagon divided into six congruent triangles",
+            "A square divided into four congruent triangles by two diagonals",
+            "A circle divided into ten congruent sectors",
+            "A regular octagon with all principal diagonals drawn from the center"
+          ],
+          "correctIndex": 3,
+          "difficulty": "medium",
+          "hint": "Check if the shape is partitioned into 8 congruent sectors.",
+          "explanation": "Connecting the 8 vertices of a regular octagon to its central origin creates 8 identical congruent isosceles triangles.",
+          "solutionSteps": "Step 1: Understand the analytical classification rule stated in the prompt.\nStep 2: Evaluate the geometric properties (side counts, partition counts, area ratios) of each option.\nStep 3: The uniquely matching figure is A regular octagon with all principal diagonals drawn from the center.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Identify the figure which is divided into exactly eight congruent parts by its internal diagonals and axes:",
+          "options": [
+            "A regular hexagon divided into six congruent triangles",
+            "A square divided into four congruent triangles by two diagonals",
+            "A regular octagon with all principal diagonals drawn from the center",
+            "A circle divided into ten congruent sectors"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "hint": "Check if the shape is partitioned into 8 congruent sectors.",
+          "explanation": "Connecting the 8 vertices of a regular octagon to its central origin creates 8 identical congruent isosceles triangles.",
+          "solutionSteps": "Step 1: Understand the analytical classification rule stated in the prompt.\nStep 2: Evaluate the geometric properties (side counts, partition counts, area ratios) of each option.\nStep 3: The uniquely matching figure is A regular octagon with all principal diagonals drawn from the center.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "Identify the figure which is divided into exactly eight congruent parts by its internal diagonals and axes:",
+          "options": [
+            "A regular hexagon divided into six congruent triangles",
+            "A square divided into four congruent triangles by two diagonals",
+            "A regular octagon with all principal diagonals drawn from the center",
+            "A circle divided into ten congruent sectors"
+          ],
+          "correctIndex": 2,
+          "difficulty": "medium",
+          "hint": "Check if the shape is partitioned into 8 congruent sectors.",
+          "explanation": "Connecting the 8 vertices of a regular octagon to its central origin creates 8 identical congruent isosceles triangles.",
+          "solutionSteps": "Step 1: Understand the analytical classification rule stated in the prompt.\nStep 2: Evaluate the geometric properties (side counts, partition counts, area ratios) of each option.\nStep 3: The uniquely matching figure is A regular octagon with all principal diagonals drawn from the center.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "In which figure do three identical circles intersect such that each circle passes through the centers of the other two?",
+          "options": [
+            "Two intersecting circles touching a third tangential circle",
+            "Three concentric circles with equal radial spacing",
+            "Symmetrical Venn trefoil with a central Reuleaux-like triangular overlap",
+            "Three mutually exclusive disjoint circles"
+          ],
+          "correctIndex": 2,
+          "difficulty": "hard",
+          "hint": "Recall the classical geometry of three mutually center-intersecting circles.",
+          "explanation": "When three congruent circles pass through each other's centers, they form a classic trefoil symmetry with 7 bounded internal regions.",
+          "solutionSteps": "Step 1: Understand the analytical classification rule stated in the prompt.\nStep 2: Evaluate the geometric properties (side counts, partition counts, area ratios) of each option.\nStep 3: The uniquely matching figure is Symmetrical Venn trefoil with a central Reuleaux-like triangular overlap.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "In which figure do three identical circles intersect such that each circle passes through the centers of the other two?",
+          "options": [
+            "Symmetrical Venn trefoil with a central Reuleaux-like triangular overlap",
+            "Two intersecting circles touching a third tangential circle",
+            "Three concentric circles with equal radial spacing",
+            "Three mutually exclusive disjoint circles"
+          ],
+          "correctIndex": 0,
+          "difficulty": "hard",
+          "hint": "Recall the classical geometry of three mutually center-intersecting circles.",
+          "explanation": "When three congruent circles pass through each other's centers, they form a classic trefoil symmetry with 7 bounded internal regions.",
+          "solutionSteps": "Step 1: Understand the analytical classification rule stated in the prompt.\nStep 2: Evaluate the geometric properties (side counts, partition counts, area ratios) of each option.\nStep 3: The uniquely matching figure is Symmetrical Venn trefoil with a central Reuleaux-like triangular overlap.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "In which figure do three identical circles intersect such that each circle passes through the centers of the other two?",
+          "options": [
+            "Symmetrical Venn trefoil with a central Reuleaux-like triangular overlap",
+            "Two intersecting circles touching a third tangential circle",
+            "Three concentric circles with equal radial spacing",
+            "Three mutually exclusive disjoint circles"
+          ],
+          "correctIndex": 0,
+          "difficulty": "hard",
+          "hint": "Recall the classical geometry of three mutually center-intersecting circles.",
+          "explanation": "When three congruent circles pass through each other's centers, they form a classic trefoil symmetry with 7 bounded internal regions.",
+          "solutionSteps": "Step 1: Understand the analytical classification rule stated in the prompt.\nStep 2: Evaluate the geometric properties (side counts, partition counts, area ratios) of each option.\nStep 3: The uniquely matching figure is Symmetrical Venn trefoil with a central Reuleaux-like triangular overlap.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "In which figure do three identical circles intersect such that each circle passes through the centers of the other two?",
+          "options": [
+            "Two intersecting circles touching a third tangential circle",
+            "Three concentric circles with equal radial spacing",
+            "Three mutually exclusive disjoint circles",
+            "Symmetrical Venn trefoil with a central Reuleaux-like triangular overlap"
+          ],
+          "correctIndex": 3,
+          "difficulty": "hard",
+          "hint": "Recall the classical geometry of three mutually center-intersecting circles.",
+          "explanation": "When three congruent circles pass through each other's centers, they form a classic trefoil symmetry with 7 bounded internal regions.",
+          "solutionSteps": "Step 1: Understand the analytical classification rule stated in the prompt.\nStep 2: Evaluate the geometric properties (side counts, partition counts, area ratios) of each option.\nStep 3: The uniquely matching figure is Symmetrical Venn trefoil with a central Reuleaux-like triangular overlap.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "In which figure do three identical circles intersect such that each circle passes through the centers of the other two?",
+          "options": [
+            "Two intersecting circles touching a third tangential circle",
+            "Three concentric circles with equal radial spacing",
+            "Symmetrical Venn trefoil with a central Reuleaux-like triangular overlap",
+            "Three mutually exclusive disjoint circles"
+          ],
+          "correctIndex": 2,
+          "difficulty": "hard",
+          "hint": "Recall the classical geometry of three mutually center-intersecting circles.",
+          "explanation": "When three congruent circles pass through each other's centers, they form a classic trefoil symmetry with 7 bounded internal regions.",
+          "solutionSteps": "Step 1: Understand the analytical classification rule stated in the prompt.\nStep 2: Evaluate the geometric properties (side counts, partition counts, area ratios) of each option.\nStep 3: The uniquely matching figure is Symmetrical Venn trefoil with a central Reuleaux-like triangular overlap.",
+          "examTags": [
+            "SSC CGL",
+            "SSC CHSL",
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
+          ]
+        },
+        {
+          "questionText": "In which figure do three identical circles intersect such that each circle passes through the centers of the other two?",
+          "options": [
+            "Two intersecting circles touching a third tangential circle",
+            "Symmetrical Venn trefoil with a central Reuleaux-like triangular overlap",
+            "Three concentric circles with equal radial spacing",
+            "Three mutually exclusive disjoint circles"
           ],
           "correctIndex": 1,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Analytical Figure Classification. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Analytical Figure Classification Practice Q14: Apply the concepts learned to solve this medium level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 2,
-          "difficulty": "medium",
-          "solutionSteps": "Apply the standard method for Analytical Figure Classification. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Analytical Figure Classification Practice Q15: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
           "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Analytical Figure Classification. Work through the problem step by step using the shortcuts taught in this topic.",
+          "hint": "Recall the classical geometry of three mutually center-intersecting circles.",
+          "explanation": "When three congruent circles pass through each other's centers, they form a classic trefoil symmetry with 7 bounded internal regions.",
+          "solutionSteps": "Step 1: Understand the analytical classification rule stated in the prompt.\nStep 2: Evaluate the geometric properties (side counts, partition counts, area ratios) of each option.\nStep 3: The uniquely matching figure is Symmetrical Venn trefoil with a central Reuleaux-like triangular overlap.",
           "examTags": [
             "SSC CGL",
             "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Analytical Figure Classification Practice Q16: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Analytical Figure Classification. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Analytical Figure Classification Practice Q17: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 1,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Analytical Figure Classification. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Analytical Figure Classification Practice Q18: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 2,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Analytical Figure Classification. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Analytical Figure Classification Practice Q19: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 3,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Analytical Figure Classification. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
-          ]
-        },
-        {
-          "questionText": "Analytical Figure Classification Practice Q20: Apply the concepts learned to solve this hard level problem.",
-          "options": [
-            "Option A",
-            "Option B",
-            "Option C",
-            "Option D"
-          ],
-          "correctIndex": 0,
-          "difficulty": "hard",
-          "solutionSteps": "Apply the standard method for Analytical Figure Classification. Work through the problem step by step using the shortcuts taught in this topic.",
-          "examTags": [
-            "SSC CGL",
-            "SSC CHSL",
-            "RRB NTPC"
+            "IBPS PO",
+            "IBPS CLERK",
+            "RRB NTPC",
+            "SBI PO",
+            "LIC AAO",
+            "CDS"
           ]
         }
       ]

@@ -9,6 +9,7 @@ import { Breadcrumb } from "@/components/ui/Breadcrumb";
 import { DifficultyBadge } from "@/components/ui/DifficultyBadge";
 import { EmptyState } from "@/components/ui/EmptyState";
 import { ASSETS } from "@/lib/assets/manifest";
+import { TopicIcon } from "@/components/topics/TopicIcon";
 import {
   Bookmark,
   Zap,
@@ -19,9 +20,11 @@ import {
   ChevronDown,
   ChevronUp,
 } from "lucide-react";
+import { useUserSettings } from "@/lib/settings/SettingsProvider";
 
 export default function BookmarksPage() {
   const router = useRouter();
+  const { settings } = useUserSettings();
   const [bookmarks, setBookmarks] = useState<BookmarkItem[]>([]);
   const [selectedTopic, setSelectedTopic] = useState<string>("all");
   const [expandedId, setExpandedId] = useState<string | null>(null);
@@ -72,7 +75,7 @@ export default function BookmarksPage() {
     }));
 
     sessionStorage.setItem("custom_session_pool", JSON.stringify(qPool));
-    router.push(`/practice/session?count=${Math.min(qPool.length, 30)}&difficulty=mixed`);
+    router.push(`/practice/session?count=${Math.min(qPool.length, settings.defaultQuestionCount)}&difficulty=mixed&mode=${settings.instantFeedback ? "instant" : "review"}`);
   };
 
   return (
@@ -182,10 +185,13 @@ export default function BookmarksPage() {
                     }}
                   >
                     <div>
-                      <div style={{ display: "flex", alignItems: "center", gap: "var(--space-2)", marginBottom: "var(--space-2)" }}>
-                        <span className="tag" style={{ textTransform: "capitalize", fontSize: "0.75rem" }}>
-                          {item.topicId.replace(/_/g, " ")}
-                        </span>
+                      <div style={{ display: "flex", alignItems: "center", gap: "var(--space-2)", marginBottom: "var(--space-2)", flexWrap: "wrap" }}>
+                        <div style={{ display: "inline-flex", alignItems: "center", gap: "var(--space-1)" }}>
+                          <TopicIcon topicId={item.topicId} size={13} badgeSize={22} variant="badge" />
+                          <span className="tag" style={{ textTransform: "capitalize", fontSize: "0.75rem" }}>
+                            {item.topicId.replace(/_/g, " ")}
+                          </span>
+                        </div>
                         <DifficultyBadge difficulty={item.difficulty} size="sm" />
                         <span style={{ fontSize: "0.75rem", color: "var(--text-muted)" }}>
                           Saved {new Date(item.savedAt).toLocaleDateString()}

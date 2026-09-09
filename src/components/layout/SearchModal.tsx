@@ -6,16 +6,60 @@ import Image from "next/image";
 import { Search, X, BookOpen, Award, FileText, ArrowRight, CornerDownLeft } from "lucide-react";
 import { TOPIC_INDEX, EXAM_INDEX } from "@/data/search-index";
 import { ASSETS } from "@/lib/assets/manifest";
+import { TopicIcon } from "@/components/topics/TopicIcon";
 
 interface SearchModalProps {
   isOpen: boolean;
   onClose: () => void;
 }
 
+const TOPIC_ALIASES: Record<string, string[]> = {
+  alphabet_test: ["alphabet", "letter", "letter word", "dictionary order"],
+  analogy: ["analogies", "similarity", "word analogy", "number analogy"],
+  analytical_reasoning: ["analytical", "counting figures", "triangle counting"],
+  blood_relations: ["blood relation", "family tree", "relations", "relationship", "coded relation"],
+  cause_and_effect: ["cause", "effect", "critical reasoning"],
+  classification: ["odd one out", "find odd", "classification"],
+  coding_decoding: ["coding", "decoding", "cipher", "letter code", "number code"],
+  course_of_action: ["course of action", "action", "decision making"],
+  critical_reasoning: ["critical", "assertion", "reason", "inference", "arguments"],
+  data_sufficiency: ["data sufficiency", "sufficiency"],
+  direction_sense: ["direction", "distance", "compass", "shadow", "turns", "left right"],
+  inequality: ["inequalities", "coded inequality", "mathematical inequality"],
+  input_output: ["machine input", "shifting", "rearrangement", "step input"],
+  logical_venn_diagrams: ["venn diagram", "venn", "overlapping circles"],
+  puzzles_box: ["box puzzle", "box arrangement"],
+  puzzles_floor: ["floor puzzle", "flat floor", "building floor"],
+  puzzles_scheduling: ["scheduling", "days puzzle", "months puzzle", "weekly schedule"],
+  ranking_order: ["ranking", "order and ranking", "position in row"],
+  seating_circular: ["circular seating", "round table", "circle puzzle", "facing center"],
+  seating_linear: ["linear seating", "row seating", "line puzzle", "parallel rows"],
+  series_completion: ["number series", "letter series", "alphabet series", "sequence"],
+  statement_argument: ["argument", "strong argument", "weak argument"],
+  statement_assumption: ["assumption", "implicit assumption"],
+  statement_conclusion: ["conclusion", "statement conclusion"],
+  syllogism: ["syllogisms", "venn syllogism", "all some no", "possibility"],
+  analytical_figure_classification: ["figure classification", "grouping shapes"],
+  counting_figures: ["count triangles", "count squares", "figure counting", "count rectangles"],
+  cubes_and_dice: ["cube", "dice", "cubes", "dices", "opposite face", "open dice"],
+  embedded_figures: ["embedded", "hidden figure", "find hidden"],
+  figure_completion: ["complete pattern", "missing piece", "pattern completion"],
+  grouping_figures: ["group figures", "shape grouping"],
+  mathematical_operations: ["bodmas", "interchange signs", "symbol substitution"],
+  mirror_images: ["mirror", "mirror image", "lateral inversion", "reflection"],
+  missing_character: ["missing number", "matrix puzzle", "missing term"],
+  nonverbal_series: ["figure series", "next figure", "rotation pattern"],
+  odd_figure_out: ["odd figure", "different figure"],
+  paper_cutting: ["paper cut", "punch hole", "unfolded"],
+  paper_folding: ["paper fold", "crease", "transparent sheet"],
+  water_images: ["water image", "water reflection", "inverted image"],
+};
+
 export function SearchModal({ isOpen, onClose }: SearchModalProps) {
   const [query, setQuery] = useState("");
   const [selectedIndex, setSelectedIndex] = useState(0);
   const inputRef = useRef<HTMLInputElement>(null);
+  const resultsContainerRef = useRef<HTMLDivElement>(null);
   const router = useRouter();
 
   useEffect(() => {
@@ -30,14 +74,19 @@ export function SearchModal({ isOpen, onClose }: SearchModalProps) {
     if (!query.trim()) return [];
     const q = query.toLowerCase().trim();
 
-    const topicResults = TOPIC_INDEX.filter(
-      (t) =>
+    const topicResults = TOPIC_INDEX.filter((t) => {
+      const aliases = TOPIC_ALIASES[t.id] || [];
+      return (
         t.name.toLowerCase().includes(q) ||
         t.id.toLowerCase().includes(q) ||
         t.category.toLowerCase().includes(q) ||
-        t.subtopics.some((s) => s.toLowerCase().includes(q))
-    ).map((t) => ({
+        t.subtopics.some((s) => s.toLowerCase().includes(q)) ||
+        aliases.some((a) => a.includes(q) || q.includes(a))
+      );
+    }).map((t) => ({
       id: `topic-${t.id}`,
+      rawTopicId: t.id,
+      category: t.category,
       type: "topic" as const,
       title: t.name,
       subtitle: `${t.category === "verbal" ? "Verbal" : "Non-Verbal"} Reasoning • ${t.subtopicCount} subtopics`,
@@ -50,9 +99,12 @@ export function SearchModal({ isOpen, onClose }: SearchModalProps) {
         e.name.toLowerCase().includes(q) ||
         e.shortName.toLowerCase().includes(q) ||
         e.id.toLowerCase().includes(q) ||
-        e.conductingBody.toLowerCase().includes(q)
+        e.conductingBody.toLowerCase().includes(q) ||
+        e.category.toLowerCase().includes(q)
     ).map((e) => ({
       id: `exam-${e.id}`,
+      rawTopicId: "",
+      category: "verbal" as const,
       type: "exam" as const,
       title: e.name,
       subtitle: `${e.shortName} • ${e.conductingBody}`,
@@ -67,6 +119,17 @@ export function SearchModal({ isOpen, onClose }: SearchModalProps) {
     onClose();
     router.push(url);
   };
+
+  useEffect(() => {
+    if (resultsContainerRef.current) {
+      const activeEl = resultsContainerRef.current.querySelector(
+        `[data-result-index="${selectedIndex}"]`
+      ) as HTMLElement;
+      if (activeEl) {
+        activeEl.scrollIntoView({ block: "nearest" });
+      }
+    }
+  }, [selectedIndex]);
 
   useEffect(() => {
     const handleKeyDown = (e: KeyboardEvent) => {
@@ -153,7 +216,19 @@ export function SearchModal({ isOpen, onClose }: SearchModalProps) {
           {query ? (
             <button
               onClick={() => setQuery("")}
-              style={{ color: "var(--text-muted)", padding: "4px" }}
+              style={{
+                color: "var(--text-muted)",
+                minWidth: "44px",
+                minHeight: "44px",
+                display: "inline-flex",
+                alignItems: "center",
+                justifyContent: "center",
+                background: "transparent",
+                border: "none",
+                cursor: "pointer",
+                borderRadius: "var(--radius-sm)",
+              }}
+              aria-label="Clear search"
             >
               <X size={18} />
             </button>
@@ -165,7 +240,10 @@ export function SearchModal({ isOpen, onClose }: SearchModalProps) {
         </div>
 
         {/* Results List */}
-        <div style={{ maxHeight: "380px", overflowY: "auto", padding: "var(--space-2)" }}>
+        <div
+          ref={resultsContainerRef}
+          style={{ maxHeight: "380px", overflowY: "auto", padding: "var(--space-2)" }}
+        >
           {query.trim() === "" ? (
             <div
               style={{
@@ -230,6 +308,7 @@ export function SearchModal({ isOpen, onClose }: SearchModalProps) {
                 return (
                   <div
                     key={item.id}
+                    data-result-index={idx}
                     onClick={() => handleSelect(item.url)}
                     onMouseEnter={() => setSelectedIndex(idx)}
                     style={{
@@ -243,32 +322,42 @@ export function SearchModal({ isOpen, onClose }: SearchModalProps) {
                       border: isSelected ? "1px solid var(--border-color)" : "1px solid transparent",
                     }}
                   >
-                    <div style={{ display: "flex", alignItems: "center", gap: "var(--space-3)" }}>
-                      <div
-                        style={{
-                          width: "32px",
-                          height: "32px",
-                          borderRadius: "var(--radius-md)",
-                          backgroundColor:
-                            item.type === "topic"
-                              ? "var(--color-primary-subtle)"
-                              : "var(--color-accent-subtle)",
-                          color:
-                            item.type === "topic" ? "var(--color-primary)" : "var(--color-accent)",
-                          display: "flex",
-                          alignItems: "center",
-                          justifyContent: "center",
-                        }}
-                      >
-                        {item.type === "topic" ? <BookOpen size={16} /> : <Award size={16} />}
-                      </div>
+                    <div style={{ display: "flex", alignItems: "center", gap: "var(--space-3)", minWidth: 0 }}>
+                      {item.type === "topic" ? (
+                        <TopicIcon
+                          topicId={item.rawTopicId}
+                          category={item.category}
+                          size={16}
+                          badgeSize={32}
+                          variant="badge"
+                        />
+                      ) : (
+                        <div
+                          style={{
+                            width: "32px",
+                            height: "32px",
+                            flexShrink: 0,
+                            borderRadius: "var(--radius-md)",
+                            backgroundColor: "var(--color-accent-subtle)",
+                            color: "var(--color-accent)",
+                            display: "flex",
+                            alignItems: "center",
+                            justifyContent: "center",
+                          }}
+                        >
+                          <Award size={16} />
+                        </div>
+                      )}
 
-                      <div>
+                      <div style={{ minWidth: 0 }}>
                         <div
                           style={{
                             fontWeight: 600,
                             fontSize: "0.95rem",
                             color: "var(--text-primary)",
+                            whiteSpace: "nowrap",
+                            overflow: "hidden",
+                            textOverflow: "ellipsis",
                           }}
                         >
                           {item.title}
