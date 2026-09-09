@@ -1,0 +1,276 @@
+{
+  "id": "manipur",
+  "type": "state",
+  "name": "Manipur",
+  "capital": "Imphal",
+  "formationDate": "21 January 1972",
+  "areaSqKm": 22327,
+  "districtsCount": 16,
+  "officialLanguages": [
+    "Manipuri (Meitei)"
+  ],
+  "highCourt": "High Court of Manipur (Imphal)",
+  "chiefMinister": "N. Biren Singh",
+  "governorOrLtGovernor": "Lakshman Prasad Acharya (Addl. Charge)",
+  "governorTitle": "Governor",
+  "lastVerified": "2026-01-01",
+  "stateSymbols": {
+    "animal": "Sangai (Brow-antlered deer)",
+    "bird": "Mrs. Hume's pheasant",
+    "flower": "Shirui lily",
+    "tree": "Uningthou"
+  },
+  "summary": "Known as the 'Jewel of India'. Home to Loktak Lake, the largest freshwater lake in Northeast India, featuring floating islands ('Phumdis') and Keibul Lamjao, the world's only floating national park.",
+  "dance": "Manipuri (Classical Dance / Raslila), Thang-Ta (Martial Art), Pung Cholom",
+  "festivals": "Yaoshang, Sangai Festival, Ningol Chakouba, Cheiraoba",
+  "rivers": "Imphal, Barak, Iril, Thoubal, Manipur River",
+  "minerals": "Chromite, Limestone, Copper",
+  "monuments": "Kangla Fort, INA Memorial Complex at Moirang (where INA hoisted Indian tricolor on mainland soil in 1944)",
+  "nationalParks": "Keibul Lamjao National Park (sole habitat of Sangai deer), Sirohi National Park",
+  "schemes": "Chief Minister-gi Hakshelgi Tengbang (CMHT), Go to Hills Mission",
+  "mcqs": [
+    {
+      "q": "Which is the only floating national park in the world, located on Loktak Lake in Manipur?",
+      "o": [
+        "Keibul Lamjao National Park",
+        "Nokrek National Park",
+        "Balphakram National Park",
+        "Phawngpui National Park"
+      ],
+      "a": 0,
+      "exp": "Keibul Lamjao National Park is composed of floating biomass islands called phumdis and is the last sanctuary of the dancing Sangai deer."
+    },
+    {
+      "q": "At which town in Manipur did Netaji Subhas Chandra Bose's Indian National Army (INA) first hoist the tricolor on Indian mainland soil on 14 April 1944?",
+      "o": [
+        "Moirang",
+        "Imphal",
+        "Churachandpur",
+        "Ukhrul"
+      ],
+      "a": 0,
+      "exp": "Colonel Shaukat Malik of the INA hoisted the Indian National Flag at Moirang on 14 April 1944."
+    }
+  ],
+  "subtopics": [
+    {
+      "id": "geography",
+      "name": "Geography",
+      "summary": "Location, borders, physical terrain, and major river systems of Manipur.",
+      "facts": [
+        {
+          "id": "manipur_geo_1",
+          "topicId": "manipur",
+          "subtopicId": "geography",
+          "title": "Capital & Geographic Scope",
+          "content": "The capital is Imphal. Manipur covers a geographic area of 22,327 sq km across 16 administrative districts.",
+          "tags": [
+            "capital",
+            "geography",
+            "area"
+          ]
+        },
+        {
+          "id": "manipur_geo_2",
+          "topicId": "manipur",
+          "subtopicId": "geography",
+          "title": "Major Rivers & Drainage Systems",
+          "content": "Key river systems flowing through the region include: Imphal, Barak, Iril, Thoubal, Manipur River.",
+          "tags": [
+            "rivers",
+            "water",
+            "geography"
+          ]
+        },
+        {
+          "id": "manipur_geo_3",
+          "topicId": "manipur",
+          "subtopicId": "geography",
+          "title": "Geographical Landscape & Highlights",
+          "content": "Known as the 'Jewel of India'. Home to Loktak Lake, the largest freshwater lake in Northeast India, featuring floating islands ('Phumdis') and Keibul Lamjao, the world's only floating national park.",
+          "tags": [
+            "terrain",
+            "features"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "history_culture",
+      "name": "History & Culture",
+      "summary": "Historical formation, classical/folk dances, and vibrant festivals of Manipur.",
+      "facts": [
+        {
+          "id": "manipur_hist_1",
+          "topicId": "manipur",
+          "subtopicId": "history_culture",
+          "title": "State Formation & Language",
+          "content": "Manipur was formally instituted on 21 January 1972. Official language(s): Manipuri (Meitei).",
+          "tags": [
+            "formation",
+            "history",
+            "languages"
+          ]
+        },
+        {
+          "id": "manipur_hist_2",
+          "topicId": "manipur",
+          "subtopicId": "history_culture",
+          "title": "Dance Forms & Traditional Arts",
+          "content": "Celebrated traditional and folk dance forms: Manipuri (Classical Dance / Raslila), Thang-Ta (Martial Art), Pung Cholom.",
+          "tags": [
+            "dance",
+            "culture",
+            "arts"
+          ]
+        },
+        {
+          "id": "manipur_hist_3",
+          "topicId": "manipur",
+          "subtopicId": "history_culture",
+          "title": "Major Festivals & Celebrations",
+          "content": "Prominent cultural festivals: Yaoshang, Sangai Festival, Ningol Chakouba, Cheiraoba.",
+          "tags": [
+            "festivals",
+            "culture"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "polity_governance",
+      "name": "Government & Polity",
+      "summary": "Constitutional leadership, administrative structure, and state symbols of Manipur.",
+      "facts": [
+        {
+          "id": "manipur_pol_1",
+          "topicId": "manipur",
+          "subtopicId": "polity_governance",
+          "title": "Governor & Constitutional Head",
+          "content": "The current Governor is Lakshman Prasad Acharya (Addl. Charge).",
+          "lastVerified": "2026-01-01",
+          "tags": [
+            "governor",
+            "polity",
+            "executive"
+          ]
+        },
+        {
+          "id": "manipur_pol_2",
+          "topicId": "manipur",
+          "subtopicId": "polity_governance",
+          "title": "Chief Minister & Administration",
+          "content": "The Chief Minister of Manipur is N. Biren Singh.",
+          "lastVerified": "2026-01-01",
+          "tags": [
+            "chief_minister",
+            "governance"
+          ]
+        },
+        {
+          "id": "manipur_pol_3",
+          "topicId": "manipur",
+          "subtopicId": "polity_governance",
+          "title": "High Court Jurisdiction",
+          "content": "Judicial jurisdiction falls under High Court of Manipur (Imphal).",
+          "tags": [
+            "high_court",
+            "judiciary"
+          ]
+        },
+        {
+          "id": "manipur_pol_4",
+          "topicId": "manipur",
+          "subtopicId": "polity_governance",
+          "title": "Official State Symbols",
+          "content": "State Animal: Sangai (Brow-antlered deer) | State Bird: Mrs. Hume's pheasant | State Flower: Shirui lily | State Tree: Uningthou.",
+          "tags": [
+            "symbols",
+            "emblem"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "economy_agriculture",
+      "name": "Economy & Agriculture",
+      "summary": "Natural resources, minerals, industrial clusters, and agriculture in Manipur.",
+      "facts": [
+        {
+          "id": "manipur_econ_1",
+          "topicId": "manipur",
+          "subtopicId": "economy_agriculture",
+          "title": "Mineral Wealth & Natural Resources",
+          "content": "Principal minerals and resources: Chromite, Limestone, Copper.",
+          "tags": [
+            "minerals",
+            "resources",
+            "economy"
+          ]
+        },
+        {
+          "id": "manipur_econ_2",
+          "topicId": "manipur",
+          "subtopicId": "economy_agriculture",
+          "title": "Economic Profile & Industries",
+          "content": "Manipur plays a vital role in India's economy through key agricultural production, manufacturing corridors, and services.",
+          "tags": [
+            "industry",
+            "agriculture"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "places_monuments",
+      "name": "Places, Monuments & Tourism",
+      "summary": "Heritage landmarks, national parks, and tourism attractions in Manipur.",
+      "facts": [
+        {
+          "id": "manipur_tour_1",
+          "topicId": "manipur",
+          "subtopicId": "places_monuments",
+          "title": "Historic Monuments & Cultural Sites",
+          "content": "Prominent monuments and heritage landmarks: Kangla Fort, INA Memorial Complex at Moirang (where INA hoisted Indian tricolor on mainland soil in 1944).",
+          "tags": [
+            "monuments",
+            "heritage",
+            "tourism"
+          ]
+        },
+        {
+          "id": "manipur_tour_2",
+          "topicId": "manipur",
+          "subtopicId": "places_monuments",
+          "title": "National Parks & Protected Areas",
+          "content": "Key protected conservation areas: Keibul Lamjao National Park (sole habitat of Sangai deer), Sirohi National Park.",
+          "tags": [
+            "national_parks",
+            "wildlife",
+            "conservation"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "schemes_awards",
+      "name": "State Schemes & Awards",
+      "summary": "Prominent welfare schemes, civic initiatives, and state honors of Manipur.",
+      "facts": [
+        {
+          "id": "manipur_sch_1",
+          "topicId": "manipur",
+          "subtopicId": "schemes_awards",
+          "title": "Key State Welfare Schemes",
+          "content": "Notable welfare initiatives and government programs: Chief Minister-gi Hakshelgi Tengbang (CMHT), Go to Hills Mission.",
+          "lastVerified": "2026-01-01",
+          "tags": [
+            "schemes",
+            "welfare",
+            "governance"
+          ]
+        }
+      ]
+    }
+  ]
+}

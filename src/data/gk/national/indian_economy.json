@@ -1,0 +1,56 @@
+{
+  "id": "indian_economy",
+  "name": "Indian Economy",
+  "iconName": "TrendingUp",
+  "summary": "NITI Aayog, Five Year Plans, Budget, Taxation (GST), RBI & Monetary Policy, Banking, and Agriculture.",
+  "concept": "India is the world's 5th largest economy by nominal GDP and 3rd by Purchasing Power Parity (PPP). Key study areas include Five-Year Plans (1951-2017), NITI Aayog (established 1 Jan 2015), the Reserve Bank of India (established 1 April 1935 under RBI Act 1934), Monetary Policy Committee (MPC), Goods and Services Tax (GST, 101st Amendment, effective 1 July 2017), and priority sector lending.",
+  "subtopics": [
+    {
+      "id": "rbi_banking",
+      "name": "Banking & Monetary Policy",
+      "summary": "Repo rate, Reverse repo, CRR, SLR, RBI functions, nationalization.",
+      "facts": [
+        {
+          "title": "RBI Foundation and Nationalization",
+          "content": "RBI was set up on 1 April 1935 based on Hilton Young Commission recommendations, and nationalized on 1 January 1949.",
+          "tags": [
+            "rbi",
+            "banking"
+          ]
+        },
+        {
+          "title": "14 Commercial Banks Nationalization (1969)",
+          "content": "Prime Minister Indira Gandhi nationalized 14 major commercial banks with deposits exceeding ₹50 crore on 19 July 1969.",
+          "tags": [
+            "banks",
+            "history"
+          ]
+        }
+      ]
+    }
+  ],
+  "mcqs": [
+    {
+      "q": "When did the Goods and Services Tax (GST) officially take effect in India across all states and Union territories?",
+      "o": [
+        "1 July 2017",
+        "1 April 2017",
+        "8 November 2016",
+        "1 January 2018"
+      ],
+      "a": 0,
+      "exp": "GST was launched at a midnight session of Parliament on 1 July 2017 via the 101st Constitutional Amendment Act."
+    },
+    {
+      "q": "Which policy think tank replaced the 65-year-old Planning Commission of India on 1 January 2015?",
+      "o": [
+        "NITI Aayog",
+        "National Development Council",
+        "Finance Commission",
+        "Economic Advisory Council"
+      ],
+      "a": 0,
+      "exp": "NITI Aayog (National Institution for Transforming India) was instituted on 1 January 2015 with the Prime Minister as Chairperson."
+    }
+  ]
+}

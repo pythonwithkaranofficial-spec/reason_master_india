@@ -1,0 +1,277 @@
+{
+  "id": "uttarakhand",
+  "type": "state",
+  "name": "Uttarakhand",
+  "capital": "Dehradun (Winter), Gairsain (Summer)",
+  "formationDate": "9 November 2000",
+  "areaSqKm": 53483,
+  "districtsCount": 13,
+  "officialLanguages": [
+    "Hindi",
+    "Sanskrit"
+  ],
+  "highCourt": "Uttarakhand High Court (Nainital)",
+  "chiefMinister": "Pushkar Singh Dhami",
+  "governorOrLtGovernor": "Lt. Gen. Gurmit Singh",
+  "governorTitle": "Governor",
+  "lastVerified": "2026-01-01",
+  "stateSymbols": {
+    "animal": "Alpine musk deer",
+    "bird": "Himalayan monal",
+    "flower": "Brahma Kamal",
+    "tree": "Burans (Rhododendron)"
+  },
+  "summary": "Known as 'Dev Bhoomi'. Source of the holy rivers Ganga (Gangotri) and Yamuna (Yamunotri). Home to the sacred Char Dham (Badrinath, Kedarnath, Gangotri, Yamunotri) and India's first Uniform Civil Code (UCC).",
+  "dance": "Chholiya (Sword dance), Jhora, Chhapeli",
+  "festivals": "Kumbh Mela (Haridwar), Nanda Devi Raj Jat, Ganga Dussehra, Phool Dei",
+  "rivers": "Ganga (Bhagirathi + Alaknanda at Devprayag), Yamuna, Mandakini, Pindar",
+  "minerals": "Limestone, Magnesite, Gypsum, Rock Phosphate",
+  "monuments": "Kedarnath Temple (Jyotirlinga), Badrinath Temple, Jageshwar Temples, Tehri Dam (highest dam in India, 260.5m)",
+  "nationalParks": "Jim Corbett National Park (India's oldest, est. 1936), Nanda Devi & Valley of Flowers (UNESCO)",
+  "schemes": "Mukhyamantri Mahalakshmi Yojana, Ghasyari Kalyan Yojana, Uniform Civil Code (UCC)",
+  "mcqs": [
+    {
+      "q": "India's first and oldest national park, established in 1936 as Hailey National Park, is situated in which district of Uttarakhand?",
+      "o": [
+        "Jim Corbett National Park (Nainital & Pauri)",
+        "Rajaji National Park",
+        "Nanda Devi National Park",
+        "Govind National Park"
+      ],
+      "a": 0,
+      "exp": "Established in 1936 to protect the Bengal tiger, it was renamed Jim Corbett National Park in 1957."
+    },
+    {
+      "q": "At which holy confluence (Prayag) do the Bhagirathi and Alaknanda rivers unite to officially become the River Ganga?",
+      "o": [
+        "Devprayag",
+        "Rudraprayag",
+        "Karnaprayag",
+        "Vishnuprayag"
+      ],
+      "a": 0,
+      "exp": "At Devprayag, the Bhagirathi joins the Alaknanda, and the combined stream flows forward as the holy Ganga."
+    }
+  ],
+  "subtopics": [
+    {
+      "id": "geography",
+      "name": "Geography",
+      "summary": "Location, borders, physical terrain, and major river systems of Uttarakhand.",
+      "facts": [
+        {
+          "id": "uttarakhand_geo_1",
+          "topicId": "uttarakhand",
+          "subtopicId": "geography",
+          "title": "Capital & Geographic Scope",
+          "content": "The capital is Dehradun (Winter), Gairsain (Summer). Uttarakhand covers a geographic area of 53,483 sq km across 13 administrative districts.",
+          "tags": [
+            "capital",
+            "geography",
+            "area"
+          ]
+        },
+        {
+          "id": "uttarakhand_geo_2",
+          "topicId": "uttarakhand",
+          "subtopicId": "geography",
+          "title": "Major Rivers & Drainage Systems",
+          "content": "Key river systems flowing through the region include: Ganga (Bhagirathi + Alaknanda at Devprayag), Yamuna, Mandakini, Pindar.",
+          "tags": [
+            "rivers",
+            "water",
+            "geography"
+          ]
+        },
+        {
+          "id": "uttarakhand_geo_3",
+          "topicId": "uttarakhand",
+          "subtopicId": "geography",
+          "title": "Geographical Landscape & Highlights",
+          "content": "Known as 'Dev Bhoomi'. Source of the holy rivers Ganga (Gangotri) and Yamuna (Yamunotri). Home to the sacred Char Dham (Badrinath, Kedarnath, Gangotri, Yamunotri) and India's first Uniform Civil Code (UCC).",
+          "tags": [
+            "terrain",
+            "features"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "history_culture",
+      "name": "History & Culture",
+      "summary": "Historical formation, classical/folk dances, and vibrant festivals of Uttarakhand.",
+      "facts": [
+        {
+          "id": "uttarakhand_hist_1",
+          "topicId": "uttarakhand",
+          "subtopicId": "history_culture",
+          "title": "State Formation & Language",
+          "content": "Uttarakhand was formally instituted on 9 November 2000. Official language(s): Hindi, Sanskrit.",
+          "tags": [
+            "formation",
+            "history",
+            "languages"
+          ]
+        },
+        {
+          "id": "uttarakhand_hist_2",
+          "topicId": "uttarakhand",
+          "subtopicId": "history_culture",
+          "title": "Dance Forms & Traditional Arts",
+          "content": "Celebrated traditional and folk dance forms: Chholiya (Sword dance), Jhora, Chhapeli.",
+          "tags": [
+            "dance",
+            "culture",
+            "arts"
+          ]
+        },
+        {
+          "id": "uttarakhand_hist_3",
+          "topicId": "uttarakhand",
+          "subtopicId": "history_culture",
+          "title": "Major Festivals & Celebrations",
+          "content": "Prominent cultural festivals: Kumbh Mela (Haridwar), Nanda Devi Raj Jat, Ganga Dussehra, Phool Dei.",
+          "tags": [
+            "festivals",
+            "culture"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "polity_governance",
+      "name": "Government & Polity",
+      "summary": "Constitutional leadership, administrative structure, and state symbols of Uttarakhand.",
+      "facts": [
+        {
+          "id": "uttarakhand_pol_1",
+          "topicId": "uttarakhand",
+          "subtopicId": "polity_governance",
+          "title": "Governor & Constitutional Head",
+          "content": "The current Governor is Lt. Gen. Gurmit Singh.",
+          "lastVerified": "2026-01-01",
+          "tags": [
+            "governor",
+            "polity",
+            "executive"
+          ]
+        },
+        {
+          "id": "uttarakhand_pol_2",
+          "topicId": "uttarakhand",
+          "subtopicId": "polity_governance",
+          "title": "Chief Minister & Administration",
+          "content": "The Chief Minister of Uttarakhand is Pushkar Singh Dhami.",
+          "lastVerified": "2026-01-01",
+          "tags": [
+            "chief_minister",
+            "governance"
+          ]
+        },
+        {
+          "id": "uttarakhand_pol_3",
+          "topicId": "uttarakhand",
+          "subtopicId": "polity_governance",
+          "title": "High Court Jurisdiction",
+          "content": "Judicial jurisdiction falls under Uttarakhand High Court (Nainital).",
+          "tags": [
+            "high_court",
+            "judiciary"
+          ]
+        },
+        {
+          "id": "uttarakhand_pol_4",
+          "topicId": "uttarakhand",
+          "subtopicId": "polity_governance",
+          "title": "Official State Symbols",
+          "content": "State Animal: Alpine musk deer | State Bird: Himalayan monal | State Flower: Brahma Kamal | State Tree: Burans (Rhododendron).",
+          "tags": [
+            "symbols",
+            "emblem"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "economy_agriculture",
+      "name": "Economy & Agriculture",
+      "summary": "Natural resources, minerals, industrial clusters, and agriculture in Uttarakhand.",
+      "facts": [
+        {
+          "id": "uttarakhand_econ_1",
+          "topicId": "uttarakhand",
+          "subtopicId": "economy_agriculture",
+          "title": "Mineral Wealth & Natural Resources",
+          "content": "Principal minerals and resources: Limestone, Magnesite, Gypsum, Rock Phosphate.",
+          "tags": [
+            "minerals",
+            "resources",
+            "economy"
+          ]
+        },
+        {
+          "id": "uttarakhand_econ_2",
+          "topicId": "uttarakhand",
+          "subtopicId": "economy_agriculture",
+          "title": "Economic Profile & Industries",
+          "content": "Uttarakhand plays a vital role in India's economy through key agricultural production, manufacturing corridors, and services.",
+          "tags": [
+            "industry",
+            "agriculture"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "places_monuments",
+      "name": "Places, Monuments & Tourism",
+      "summary": "Heritage landmarks, national parks, and tourism attractions in Uttarakhand.",
+      "facts": [
+        {
+          "id": "uttarakhand_tour_1",
+          "topicId": "uttarakhand",
+          "subtopicId": "places_monuments",
+          "title": "Historic Monuments & Cultural Sites",
+          "content": "Prominent monuments and heritage landmarks: Kedarnath Temple (Jyotirlinga), Badrinath Temple, Jageshwar Temples, Tehri Dam (highest dam in India, 260.5m).",
+          "tags": [
+            "monuments",
+            "heritage",
+            "tourism"
+          ]
+        },
+        {
+          "id": "uttarakhand_tour_2",
+          "topicId": "uttarakhand",
+          "subtopicId": "places_monuments",
+          "title": "National Parks & Protected Areas",
+          "content": "Key protected conservation areas: Jim Corbett National Park (India's oldest, est. 1936), Nanda Devi & Valley of Flowers (UNESCO).",
+          "tags": [
+            "national_parks",
+            "wildlife",
+            "conservation"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "schemes_awards",
+      "name": "State Schemes & Awards",
+      "summary": "Prominent welfare schemes, civic initiatives, and state honors of Uttarakhand.",
+      "facts": [
+        {
+          "id": "uttarakhand_sch_1",
+          "topicId": "uttarakhand",
+          "subtopicId": "schemes_awards",
+          "title": "Key State Welfare Schemes",
+          "content": "Notable welfare initiatives and government programs: Mukhyamantri Mahalakshmi Yojana, Ghasyari Kalyan Yojana, Uniform Civil Code (UCC).",
+          "lastVerified": "2026-01-01",
+          "tags": [
+            "schemes",
+            "welfare",
+            "governance"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,265 @@
+{
+  "id": "chandigarh",
+  "type": "ut",
+  "name": "Chandigarh",
+  "capital": "Chandigarh",
+  "formationDate": "1 November 1966",
+  "areaSqKm": 114,
+  "districtsCount": 1,
+  "officialLanguages": [
+    "English",
+    "Hindi",
+    "Punjabi"
+  ],
+  "highCourt": "Punjab and Haryana High Court",
+  "governorOrLtGovernor": "Gulab Chand Kataria",
+  "governorTitle": "Administrator",
+  "lastVerified": "2026-01-01",
+  "stateSymbols": {
+    "animal": "Indian grey mongoose",
+    "bird": "Indian grey hornbill",
+    "flower": "Palash",
+    "tree": "Mango"
+  },
+  "summary": "India's first planned modern city post-independence, designed by Swiss-French architect Le Corbusier. Serves as the joint capital of Punjab and Haryana while functioning as a Union Territory.",
+  "dance": "Bhangra, Giddha",
+  "festivals": "Rose Festival, Mango Festival, Chandigarh Carnival",
+  "rivers": "Sukhna Choe, Patiala Ki Rao",
+  "minerals": "Nil",
+  "monuments": "The Capitol Complex (UNESCO World Heritage Site), Rock Garden of Nek Chand, Sukhna Lake, Zakir Hussain Rose Garden",
+  "nationalParks": "Sukhna Wildlife Sanctuary",
+  "schemes": "Smart City Chandigarh Initiatives",
+  "mcqs": [
+    {
+      "q": "Who was the master architect and urban planner who designed the modernist layout and Capitol Complex of Chandigarh?",
+      "o": [
+        "Le Corbusier",
+        "Edwin Lutyens",
+        "Herbert Baker",
+        "Charles Correa"
+      ],
+      "a": 0,
+      "exp": "Swiss-French architect Le Corbusier designed the master plan and government buildings of Chandigarh in the 1950s."
+    },
+    {
+      "q": "The world-famous Rock Garden in Chandigarh was secretly created out of recycled industrial and domestic waste by which visionary?",
+      "o": [
+        "Nek Chand Saini",
+        "Sobha Singh",
+        "B. V. Doshi",
+        "Satish Gujral"
+      ],
+      "a": 0,
+      "exp": "Nek Chand spent nearly two decades secretly building the 40-acre sculpture park from discarded urban scrap."
+    }
+  ],
+  "subtopics": [
+    {
+      "id": "geography",
+      "name": "Geography",
+      "summary": "Location, borders, physical terrain, and major river systems of Chandigarh.",
+      "facts": [
+        {
+          "id": "chandigarh_geo_1",
+          "topicId": "chandigarh",
+          "subtopicId": "geography",
+          "title": "Capital & Geographic Scope",
+          "content": "The capital is Chandigarh. Chandigarh covers a geographic area of 114 sq km across 1 administrative districts.",
+          "tags": [
+            "capital",
+            "geography",
+            "area"
+          ]
+        },
+        {
+          "id": "chandigarh_geo_2",
+          "topicId": "chandigarh",
+          "subtopicId": "geography",
+          "title": "Major Rivers & Drainage Systems",
+          "content": "Key river systems flowing through the region include: Sukhna Choe, Patiala Ki Rao.",
+          "tags": [
+            "rivers",
+            "water",
+            "geography"
+          ]
+        },
+        {
+          "id": "chandigarh_geo_3",
+          "topicId": "chandigarh",
+          "subtopicId": "geography",
+          "title": "Geographical Landscape & Highlights",
+          "content": "India's first planned modern city post-independence, designed by Swiss-French architect Le Corbusier. Serves as the joint capital of Punjab and Haryana while functioning as a Union Territory.",
+          "tags": [
+            "terrain",
+            "features"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "history_culture",
+      "name": "History & Culture",
+      "summary": "Historical formation, classical/folk dances, and vibrant festivals of Chandigarh.",
+      "facts": [
+        {
+          "id": "chandigarh_hist_1",
+          "topicId": "chandigarh",
+          "subtopicId": "history_culture",
+          "title": "State Formation & Language",
+          "content": "Chandigarh was formally instituted on 1 November 1966. Official language(s): English, Hindi, Punjabi.",
+          "tags": [
+            "formation",
+            "history",
+            "languages"
+          ]
+        },
+        {
+          "id": "chandigarh_hist_2",
+          "topicId": "chandigarh",
+          "subtopicId": "history_culture",
+          "title": "Dance Forms & Traditional Arts",
+          "content": "Celebrated traditional and folk dance forms: Bhangra, Giddha.",
+          "tags": [
+            "dance",
+            "culture",
+            "arts"
+          ]
+        },
+        {
+          "id": "chandigarh_hist_3",
+          "topicId": "chandigarh",
+          "subtopicId": "history_culture",
+          "title": "Major Festivals & Celebrations",
+          "content": "Prominent cultural festivals: Rose Festival, Mango Festival, Chandigarh Carnival.",
+          "tags": [
+            "festivals",
+            "culture"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "polity_governance",
+      "name": "Government & Polity",
+      "summary": "Constitutional leadership, administrative structure, and state symbols of Chandigarh.",
+      "facts": [
+        {
+          "id": "chandigarh_pol_1",
+          "topicId": "chandigarh",
+          "subtopicId": "polity_governance",
+          "title": "Administrator & Constitutional Head",
+          "content": "The current Administrator is Gulab Chand Kataria.",
+          "lastVerified": "2026-01-01",
+          "tags": [
+            "governor",
+            "polity",
+            "executive"
+          ]
+        },
+        {
+          "id": "chandigarh_pol_3",
+          "topicId": "chandigarh",
+          "subtopicId": "polity_governance",
+          "title": "High Court Jurisdiction",
+          "content": "Judicial jurisdiction falls under Punjab and Haryana High Court.",
+          "tags": [
+            "high_court",
+            "judiciary"
+          ]
+        },
+        {
+          "id": "chandigarh_pol_4",
+          "topicId": "chandigarh",
+          "subtopicId": "polity_governance",
+          "title": "Official State Symbols",
+          "content": "State Animal: Indian grey mongoose | State Bird: Indian grey hornbill | State Flower: Palash | State Tree: Mango.",
+          "tags": [
+            "symbols",
+            "emblem"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "economy_agriculture",
+      "name": "Economy & Agriculture",
+      "summary": "Natural resources, minerals, industrial clusters, and agriculture in Chandigarh.",
+      "facts": [
+        {
+          "id": "chandigarh_econ_1",
+          "topicId": "chandigarh",
+          "subtopicId": "economy_agriculture",
+          "title": "Mineral Wealth & Natural Resources",
+          "content": "Principal minerals and resources: Nil.",
+          "tags": [
+            "minerals",
+            "resources",
+            "economy"
+          ]
+        },
+        {
+          "id": "chandigarh_econ_2",
+          "topicId": "chandigarh",
+          "subtopicId": "economy_agriculture",
+          "title": "Economic Profile & Industries",
+          "content": "Chandigarh plays a vital role in India's economy through key agricultural production, manufacturing corridors, and services.",
+          "tags": [
+            "industry",
+            "agriculture"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "places_monuments",
+      "name": "Places, Monuments & Tourism",
+      "summary": "Heritage landmarks, national parks, and tourism attractions in Chandigarh.",
+      "facts": [
+        {
+          "id": "chandigarh_tour_1",
+          "topicId": "chandigarh",
+          "subtopicId": "places_monuments",
+          "title": "Historic Monuments & Cultural Sites",
+          "content": "Prominent monuments and heritage landmarks: The Capitol Complex (UNESCO World Heritage Site), Rock Garden of Nek Chand, Sukhna Lake, Zakir Hussain Rose Garden.",
+          "tags": [
+            "monuments",
+            "heritage",
+            "tourism"
+          ]
+        },
+        {
+          "id": "chandigarh_tour_2",
+          "topicId": "chandigarh",
+          "subtopicId": "places_monuments",
+          "title": "National Parks & Protected Areas",
+          "content": "Key protected conservation areas: Sukhna Wildlife Sanctuary.",
+          "tags": [
+            "national_parks",
+            "wildlife",
+            "conservation"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "schemes_awards",
+      "name": "State Schemes & Awards",
+      "summary": "Prominent welfare schemes, civic initiatives, and state honors of Chandigarh.",
+      "facts": [
+        {
+          "id": "chandigarh_sch_1",
+          "topicId": "chandigarh",
+          "subtopicId": "schemes_awards",
+          "title": "Key State Welfare Schemes",
+          "content": "Notable welfare initiatives and government programs: Smart City Chandigarh Initiatives.",
+          "lastVerified": "2026-01-01",
+          "tags": [
+            "schemes",
+            "welfare",
+            "governance"
+          ]
+        }
+      ]
+    }
+  ]
+}

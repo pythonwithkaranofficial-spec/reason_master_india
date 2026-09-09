@@ -1,0 +1,56 @@
+{
+  "id": "world_geography",
+  "name": "World Geography",
+  "iconName": "Compass",
+  "summary": "Continents, oceans, deepest trenches, major mountain ranges, straits, canals, and deserts.",
+  "concept": "Covers physical geography of Earth's 7 continents and 5 oceans. Key topics include the Mariana Trench (deepest oceanic trench, ~11,034m in Pacific), the Nile and Amazon rivers, the Andes (longest mountain chain) and Himalayas (highest), the Sahara (largest hot desert) and Antarctica (largest polar desert), and strategic maritime chokepoints: Suez Canal, Panama Canal, Strait of Malacca, Strait of Gibraltar, and Strait of Hormuz.",
+  "subtopics": [
+    {
+      "id": "oceans_straits_canals",
+      "name": "Oceans, Strategic Straits & Canals",
+      "summary": "Chokepoints connecting oceans and seas.",
+      "facts": [
+        {
+          "title": "Suez Canal Maritime Gateway",
+          "content": "Opened in November 1869 across the Isthmus of Suez in Egypt, directly connecting the Mediterranean Sea to the Red Sea.",
+          "tags": [
+            "canals",
+            "suez"
+          ]
+        },
+        {
+          "title": "Strait of Malacca",
+          "content": "Narrow stretch of water between the Malay Peninsula and the Indonesian island of Sumatra, the world's busiest maritime oil transit route connecting Indian and Pacific Oceans.",
+          "tags": [
+            "straits",
+            "shipping"
+          ]
+        }
+      ]
+    }
+  ],
+  "mcqs": [
+    {
+      "q": "Which is the deepest oceanic trench on Earth, plunging approximately 11,000 meters below sea level in the western Pacific Ocean?",
+      "o": [
+        "Mariana Trench (Challenger Deep)",
+        "Java Trench",
+        "Puerto Rico Trench",
+        "Sunda Trench"
+      ],
+      "a": 0,
+      "exp": "Challenger Deep in the Mariana Trench is the deepest known point on Earth."
+    },
+    {
+      "q": "Which man-made artificial waterway opened in 1914 connects the Atlantic Ocean with the Pacific Ocean across Central America?",
+      "o": [
+        "Panama Canal",
+        "Suez Canal",
+        "Kiel Canal",
+        "Erie Canal"
+      ],
+      "a": 0,
+      "exp": "The 82-kilometer Panama Canal cuts across the Isthmus of Panama, dramatically shortening oceanic voyage times."
+    }
+  ]
+}

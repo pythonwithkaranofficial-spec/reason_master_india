@@ -1,0 +1,1872 @@
+{
+  "id": "rajasthan",
+  "type": "state",
+  "name": "Rajasthan",
+  "capital": "Jaipur (Pink City)",
+  "formationDate": "30 March 1949",
+  "areaSqKm": 342239,
+  "districtsCount": 50,
+  "officialLanguages": [
+    "Hindi"
+  ],
+  "highCourt": "Rajasthan High Court (Principal Seat Jodhpur, Bench Jaipur)",
+  "chiefMinister": "Bhajan Lal Sharma",
+  "governorOrLtGovernor": "Haribhau Bagade",
+  "governorTitle": "Governor",
+  "lastVerified": "2026-01-01",
+  "stateSymbols": {
+    "animal": "Chinkara & Camel",
+    "bird": "Great Indian bustard (Godavan)",
+    "flower": "Rohida",
+    "tree": "Khejri (Prosopis cineraria)"
+  },
+  "summary": "India's largest state by geographic area (10.4% of country). Home to the Thar Desert, Aravalli Range (world's oldest fold mountains), Hill Forts of Rajasthan (UNESCO), and rich Rajput history.",
+  "dance": "Ghoomar, Kalbelia (UNESCO Intangible Cultural Heritage), Bhavai, Chari",
+  "festivals": "Pushkar Camel Fair, Desert Festival (Jaisalmer), Gangaur, Teej",
+  "rivers": "Chambal, Banas, Luni (inland drainage), Sabarmati, Mahi",
+  "minerals": "Zinc & Lead (Zawar - sole producer in India), Marble (Makrana), Copper (Khetri)",
+  "monuments": "Hill Forts (Chittorgarh, Kumbhalgarh, Ranthambore, Amber, Jaisalmer, Gagron), Hawa Mahal, Jantar Mantar, Mehrangarh Fort",
+  "nationalParks": "Ranthambore, Sariska, Keoladeo Ghana (Bharatpur Bird Sanctuary, UNESCO), Desert National Park, Mukundra Hills",
+  "schemes": "Mukhyamantri Nishulk Dawa Yojana, Bhamashah / Jan Aadhaar, Chiranjeevi Health Insurance",
+  "mcqs": [
+    {
+      "q": "Which traditional folk dance of the snake-charmer community in Rajasthan was inscribed on UNESCO's Representative List of Intangible Cultural Heritage in 2010?",
+      "o": [
+        "Kalbelia",
+        "Ghoomar",
+        "Chari",
+        "Terah Taali"
+      ],
+      "a": 0,
+      "exp": "Kalbelia dance features sensuous, swirling movements replicating serpents, performed to the music of the Pungi and Dafla."
+    },
+    {
+      "q": "The wall of which fort in Rajasthan is the second-longest continuous wall in the world after the Great Wall of China (36 km)?",
+      "o": [
+        "Kumbhalgarh Fort",
+        "Chittorgarh Fort",
+        "Mehrangarh Fort",
+        "Ranthambore Fort"
+      ],
+      "a": 0,
+      "exp": "Kumbhalgarh Fort, built by Rana Kumbha in the Rajsamand district, features massive perimeter fortifications stretching 36 km."
+    },
+    {
+      "q": "Who founded the Mewar Kingdom?",
+      "o": [
+        "Guhil",
+        "Bappa Rawal",
+        "Rana Sanga",
+        "Maharana Pratap"
+      ],
+      "a": 1,
+      "exp": "Bappa Rawal established the Mewar kingdom in 734 AD after defeating the Mauryas of Chittor."
+    },
+    {
+      "q": "Which Rajput ruler is known for his unmatched valor and fought against Akbar's forces in the Battle of Haldighati?",
+      "o": [
+        "Rana Kumbha",
+        "Rana Sanga",
+        "Maharana Pratap",
+        "Rao Jodha"
+      ],
+      "a": 2,
+      "exp": "Maharana Pratap led the Mewar army in the Battle of Haldighati on 18 June 1576 against the Mughal army led by Man Singh I."
+    },
+    {
+      "q": "Who is the author of the epic historical poem 'Prithviraj Raso'?",
+      "o": [
+        "Kalhana",
+        "Chand Bardai",
+        "Jayanaka",
+        "Suryamal Misran"
+      ],
+      "a": 1,
+      "exp": "Prithviraj Raso, chronicling the life of Prithviraj Chauhan, was composed in Brajbhasha/Pingal by court poet Chand Bardai."
+    },
+    {
+      "q": "Which is the highest peak in Rajasthan and the Aravalli mountain range?",
+      "o": [
+        "Ser",
+        "Guru Shikhar (1,722 m)",
+        "Achalgarh",
+        "Dilwara"
+      ],
+      "a": 1,
+      "exp": "Guru Shikhar in Mount Abu (Sirohi district) is the highest peak of Rajasthan with an elevation of 1,722 meters."
+    },
+    {
+      "q": "Which river is known as the only perennial river originating within Rajasthan, and has Bisalpur Dam constructed on it?",
+      "o": [
+        "Chambal",
+        "Banas River",
+        "Luni",
+        "Sabarmati"
+      ],
+      "a": 1,
+      "exp": "Banas River (Van ki Asha) originates from the Khamnore hills in Rajsamand; Bisalpur Dam in Tonk is built on it."
+    },
+    {
+      "q": "Which bird is designated as the State Bird of Rajasthan?",
+      "o": [
+        "Peacock",
+        "Great Indian Bustard (Godawan)",
+        "Flamingo",
+        "Sarus Crane"
+      ],
+      "a": 1,
+      "exp": "The Great Indian Bustard (Ardeotis nigriceps), locally known as Godawan, was declared Rajasthan's state bird in 1981."
+    },
+    {
+      "q": "Which animal is recognized as the State Animal of Rajasthan?",
+      "o": [
+        "Blackbuck",
+        "Chinkara & Camel",
+        "Tiger",
+        "Nilgai"
+      ],
+      "a": 1,
+      "exp": "Chinkara is the state animal (wild category) and Camel was declared the state animal (domestic/heritage category) in 2014."
+    },
+    {
+      "q": "Which salt lake in Rajasthan is the largest inland saltwater lake in India?",
+      "o": [
+        "Pachpadra",
+        "Didwana",
+        "Sambhar Salt Lake",
+        "Lunkaransar"
+      ],
+      "a": 2,
+      "exp": "Sambhar Salt Lake situated near Jaipur produces a significant share of India's inland salt."
+    },
+    {
+      "q": "The massive perimeter wall of which fort in Rajasthan is the second-longest in the world (36 km)?",
+      "o": [
+        "Chittorgarh Fort",
+        "Kumbhalgarh Fort",
+        "Mehrangarh Fort",
+        "Ranthambore Fort"
+      ],
+      "a": 1,
+      "exp": "Kumbhalgarh Fort in Rajsamand, built by Rana Kumbha, features a 36-km long continuous protective stone wall."
+    },
+    {
+      "q": "Who was the first Chief Minister of Rajasthan upon its formation?",
+      "o": [
+        "Tikaram Paliwal",
+        "Heeralal Shastri",
+        "Jai Narayan Vyas",
+        "Mohan Lal Sukhadia"
+      ],
+      "a": 1,
+      "exp": "Pandit Heeralal Shastri served as the first Chief Minister of Rajasthan from 7 April 1949 to 5 January 1951."
+    },
+    {
+      "q": "Which city in Rajasthan is popularly known as the 'City of Lakes' and 'Venice of the East'?",
+      "o": [
+        "Jaipur",
+        "Jodhpur",
+        "Udaipur",
+        "Bikaner"
+      ],
+      "a": 2,
+      "exp": "Udaipur, founded by Maharana Udai Singh II, is famous worldwide as the City of Lakes (Pichola, Fateh Sagar)."
+    },
+    {
+      "q": "Which mineral mine in Zawar (near Udaipur) is India's primary and oldest source of Zinc and Lead?",
+      "o": [
+        "Copper",
+        "Iron Ore",
+        "Zinc and Lead",
+        "Bauxite"
+      ],
+      "a": 2,
+      "exp": "Zawar mines in Udaipur are the sole and historic lead-zinc ore mining district in India."
+    },
+    {
+      "q": "Which traditional dance of Rajasthan, performed with brass pots balanced on the head, is renowned worldwide?",
+      "o": [
+        "Ghoomar",
+        "Chari Dance",
+        "Kalbelia",
+        "Gair"
+      ],
+      "a": 1,
+      "exp": "Chari dance is a popular folk dance originating from the Gujjar community of Kishangarh, balancing flaming brass pots."
+    },
+    {
+      "q": "Which district in Rajasthan hosts the famous Pushkar International Camel Fair every year?",
+      "o": [
+        "Nagaur",
+        "Bikaner",
+        "Ajmer",
+        "Jaisalmer"
+      ],
+      "a": 2,
+      "exp": "The historic Pushkar Fair takes place on Kartik Purnima near the sacred Pushkar Lake in Ajmer district."
+    },
+    {
+      "q": "Which fort in Rajasthan is perched on the Chitranga hill and is the largest fort in India?",
+      "o": [
+        "Kumbhalgarh",
+        "Chittorgarh Fort",
+        "Taragarh",
+        "Gagron Fort"
+      ],
+      "a": 1,
+      "exp": "Chittorgarh Fort is the grandest hill fort in India, standing as a monument to Rajput chivalry and Jauhar."
+    },
+    {
+      "q": "The famous 'Bani Thani' miniature painting of Kishangarh school was painted by:",
+      "o": [
+        "Nihal Chand",
+        "Sahibdin",
+        "Manaku",
+        "Nainsukh"
+      ],
+      "a": 0,
+      "exp": "Nihal Chand painted Bani Thani under the patronage of Raja Sawant Singh (Nagari Das) of Kishangarh."
+    },
+    {
+      "q": "Which temple dedicated to Jeen Mata is situated in the Aravalli hills of Rajasthan?",
+      "o": [
+        "Jhunjhunu",
+        "Sikar",
+        "Churu",
+        "Alwar"
+      ],
+      "a": 1,
+      "exp": "The sacred temple of Jeen Mata is situated in Rewasa, Sikar district."
+    },
+    {
+      "q": "Which place in Rajasthan is renowned for its tyre and tube manufacturing industry?",
+      "o": [
+        "Bhiwadi",
+        "Kankroli (Rajsamand)",
+        "Kota",
+        "Alwar"
+      ],
+      "a": 1,
+      "exp": "JK Tyre plant is located at Kankroli in Rajsamand district."
+    },
+    {
+      "q": "The famous folk deity 'Veer Tejaji' passed away at which holy site in Ajmer district?",
+      "o": [
+        "Nagaur",
+        "Ajmer",
+        "Barmer",
+        "Jodhpur"
+      ],
+      "a": 1,
+      "exp": "Sursura in Kishangarh (Ajmer) is where Veer Tejaji attained martyrdom protecting cows."
+    },
+    {
+      "q": "Rajasthan is often termed the 'Museum of Minerals' because:",
+      "o": [
+        "It produces only gold",
+        "It possesses a vast diversity of metallic and non-metallic minerals",
+        "It has no mineral deposits",
+        "All minerals are imported"
+      ],
+      "a": 1,
+      "exp": "Rajasthan possesses over 79 varieties of minerals, ranking first in zinc, lead, wollastonite, gypsum, and marble."
+    },
+    {
+      "q": "Who founded the Mewar kingdom in 734 AD after defeating the Mauryas of Chittor?",
+      "o": [
+        "Rana Kumbha",
+        "Bappa Rawal",
+        "Rana Sanga",
+        "Hammir Dev"
+      ],
+      "a": 1,
+      "exp": "Bappa Rawal (Kalbhoj) established the Mewar dynasty at Nagda/Chittorgarh."
+    },
+    {
+      "q": "The Battle of Haldighati in 1576 was fought between Maharana Pratap and the Mughal army commanded by:",
+      "o": [
+        "Asaf Khan",
+        "Man Singh I of Amber",
+        "Bairam Khan",
+        "Mahabat Khan"
+      ],
+      "a": 1,
+      "exp": "Akbar's general Raja Man Singh I of Amber commanded the Mughal forces at Haldighati on 18 June 1576."
+    },
+    {
+      "q": "Who is the author of 'Prithviraj Raso', celebrating the life of Prithviraj Chauhan III?",
+      "o": [
+        "Jayanaka",
+        "Chand Bardai",
+        "Suryamal Misran",
+        "Muhnot Nainsi"
+      ],
+      "a": 1,
+      "exp": "Chand Bardai was the court poet and friend of Prithviraj Chauhan III."
+    },
+    {
+      "q": "Which is the highest peak in Rajasthan, situated in the Mount Abu region?",
+      "o": [
+        "Ser",
+        "Guru Shikhar (1,722 m)",
+        "Achalgarh",
+        "Dilwara"
+      ],
+      "a": 1,
+      "exp": "Guru Shikhar in Sirohi district rises to an altitude of 1,722 meters (world's oldest fold mountains - Aravalli)."
+    },
+    {
+      "q": "Which river originating in the Khamnore Hills (Rajsamand) is completely contained within Rajasthan?",
+      "o": [
+        "Chambal",
+        "Banas River",
+        "Luni",
+        "Sabarmati"
+      ],
+      "a": 1,
+      "exp": "Banas (Hope of the Forest / Van ki Asha) flows entirely within Rajasthan; Bisalpur Dam in Tonk is on it."
+    },
+    {
+      "q": "Which inland saltwater lake in Rajasthan is the largest inland salt lake in India?",
+      "o": [
+        "Pachpadra",
+        "Sambhar Salt Lake",
+        "Didwana",
+        "Lunkaransar"
+      ],
+      "a": 1,
+      "exp": "Sambhar Salt Lake produces roughly 9% of India's total salt and is a designated Ramsar wetland."
+    },
+    {
+      "q": "The 36-km long continuous protective perimeter wall of which fort is known as the Great Wall of India?",
+      "o": [
+        "Chittorgarh Fort",
+        "Kumbhalgarh Fort",
+        "Mehrangarh Fort",
+        "Ranthambore Fort"
+      ],
+      "a": 1,
+      "exp": "Kumbhalgarh Fort in Rajsamand, built by Rana Kumbha, features the second-longest continuous wall in the world."
+    },
+    {
+      "q": "Taragarh Fort (Star Fort), commanding the historic city of Ajmer, was built on which hill?",
+      "o": [
+        "Bithli Hill (Garh Beetli)",
+        "Chitranga Hill",
+        "Chidiyantuk Hill",
+        "Trikuta Hill"
+      ],
+      "a": 0,
+      "exp": "Taragarh Fort was built by Ajaypal Chauhan on Garh Beetli hill, earning it the name Garh Beetli."
+    },
+    {
+      "q": "The world-renowned miniature painting 'Bani Thani' belongs to which school of Rajasthani painting?",
+      "o": [
+        "Mewar School",
+        "Kishangarh School",
+        "Bundi School",
+        "Marwar School"
+      ],
+      "a": 1,
+      "exp": "Bani Thani, known as the 'Mona Lisa of India', was painted by Nihal Chand in Kishangarh."
+    },
+    {
+      "q": "Which folk dance of the Shekhawati region is performed with sticks during Holi?",
+      "o": [
+        "Ghoomar",
+        "Gindar Dance (गींदड़ नृत्य)",
+        "Chari",
+        "Bhavai"
+      ],
+      "a": 1,
+      "exp": "Gindar dance is an energetic folk dance performed exclusively by men in the Shekhawati region during Holi."
+    },
+    {
+      "q": "Who was the first Chief Minister of Rajasthan?",
+      "o": [
+        "Tikaram Paliwal",
+        "Pandit Heeralal Shastri",
+        "Jai Narayan Vyas",
+        "Mohan Lal Sukhadia"
+      ],
+      "a": 1,
+      "exp": "Pandit Heeralal Shastri assumed office as the first Premier/Chief Minister of Rajasthan on 7 April 1949."
+    },
+    {
+      "q": "The Great Indian Bustard, locally called 'Godawan', was declared the State Bird of Rajasthan in which year?",
+      "o": [
+        "1971",
+        "1981",
+        "1991",
+        "2001"
+      ],
+      "a": 1,
+      "exp": "Godawan (Ardeotis nigriceps) was declared the State Bird of Rajasthan in 1981."
+    },
+    {
+      "q": "Which mineral mine in Zawar (Udaipur district) is the sole and primary producer of Zinc and Lead in India?",
+      "o": [
+        "Copper",
+        "Zinc and Lead (सीसा एवं जस्ता)",
+        "Bauxite",
+        "Iron Ore"
+      ],
+      "a": 1,
+      "exp": "Zawar mines in Udaipur are India's oldest and major lead-zinc deposits, operated by Hindustan Zinc."
+    },
+    {
+      "q": "Which district in Rajasthan is the leading producer of Isabgol (Psyllium husk)?",
+      "o": [
+        "Jalore",
+        "Jaipur",
+        "Kota",
+        "Alwar"
+      ],
+      "a": 0,
+      "exp": "Jalore district accounts for the largest production of export-grade Isabgol in Rajasthan."
+    }
+  ],
+  "subtopics": [
+    {
+      "id": "geography",
+      "name": "Geography",
+      "summary": "Location, borders, physical terrain, and major river systems of Rajasthan.",
+      "facts": [
+        {
+          "id": "rajasthan_geo_1",
+          "topicId": "rajasthan",
+          "subtopicId": "geography",
+          "title": "Capital & Geographic Scope",
+          "content": "The capital is Jaipur (Pink City). Rajasthan covers a geographic area of 342,239 sq km across 50 administrative districts.",
+          "tags": [
+            "capital",
+            "geography",
+            "area"
+          ]
+        },
+        {
+          "id": "rajasthan_geo_2",
+          "topicId": "rajasthan",
+          "subtopicId": "geography",
+          "title": "Major Rivers & Drainage Systems",
+          "content": "Key river systems flowing through the region include: Chambal, Banas, Luni (inland drainage), Sabarmati, Mahi.",
+          "tags": [
+            "rivers",
+            "water",
+            "geography"
+          ]
+        },
+        {
+          "id": "rajasthan_geo_3",
+          "topicId": "rajasthan",
+          "subtopicId": "geography",
+          "title": "Geographical Landscape & Highlights",
+          "content": "India's largest state by geographic area (10.4% of country). Home to the Thar Desert, Aravalli Range (world's oldest fold mountains), Hill Forts of Rajasthan (UNESCO), and rich Rajput history.",
+          "tags": [
+            "terrain",
+            "features"
+          ]
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "gk_raj_core_004",
+          "questionText": "Which is the highest peak in Rajasthan and the Aravalli mountain range?",
+          "questionTextHi": "राजस्थान और अरावली पर्वतमाला की सर्वोच्च पर्वत चोटी कौन सी है?",
+          "options": [
+            "Ser",
+            "Guru Shikhar (1,722 m)",
+            "Achalgarh",
+            "Dilwara"
+          ],
+          "optionsHi": [
+            "सेर",
+            "गुरु शिखर (1,722 मीटर)",
+            "अचलगढ़",
+            "दिलवाड़ा"
+          ],
+          "correctIndex": 1,
+          "explanation": "Guru Shikhar in Mount Abu (Sirohi district) is the highest peak of Rajasthan with an elevation of 1,722 meters.",
+          "explanationHi": "माउंट आबू (सिरोही जिला) में स्थित गुरु शिखर 1,722 मीटर की ऊंचाई के साथ राजस्थान और अरावली की सबसे ऊंची चोटी है।",
+          "hint": "Key knowledge regarding Rajasthan geography.",
+          "hintHi": "राजस्थान geography का महत्वपूर्ण तथ्य।",
+          "difficulty": "easy",
+          "lastVerified": "2026-01-01",
+          "examTags": [
+            "ras_prelims",
+            "rajasthan_police_si",
+            "rajasthan_patwar",
+            "reet",
+            "rsmssb"
+          ],
+          "source": {
+            "type": "pdf",
+            "collection": "rajasthan_gk",
+            "fileName": "corrected-rajasthan-gk-1-100_compress.pdf",
+            "page": 2
+          }
+        },
+        {
+          "id": "gk_raj_core_005",
+          "questionText": "Which river is known as the only perennial river originating within Rajasthan, and has Bisalpur Dam constructed on it?",
+          "questionTextHi": "राजस्थान से पूर्णतः प्रवाहित होने वाली और जिस पर बीसलपुर बांध निर्मित है, वह प्रमुख नदी कौन सी है?",
+          "options": [
+            "Chambal",
+            "Banas River",
+            "Luni",
+            "Sabarmati"
+          ],
+          "optionsHi": [
+            "चम्बल",
+            "बनास नदी",
+            "लूनी",
+            "साबरमती"
+          ],
+          "correctIndex": 1,
+          "explanation": "Banas River (Van ki Asha) originates from the Khamnore hills in Rajsamand; Bisalpur Dam in Tonk is built on it.",
+          "explanationHi": "बनास नदी (वन की आशा) राजसमंद के खमनोर की पहाड़ियों से निकलती है और टोंक में बीसलपुर बांध इसी पर बना है।",
+          "hint": "Key knowledge regarding Rajasthan geography.",
+          "hintHi": "राजस्थान geography का महत्वपूर्ण तथ्य।",
+          "difficulty": "easy",
+          "lastVerified": "2026-01-01",
+          "examTags": [
+            "ras_prelims",
+            "rajasthan_police_si",
+            "rajasthan_patwar",
+            "reet",
+            "rsmssb"
+          ],
+          "source": {
+            "type": "pdf",
+            "collection": "rajasthan_gk",
+            "fileName": "corrected-rajasthan-gk-1-100_compress.pdf",
+            "page": 2
+          }
+        },
+        {
+          "id": "gk_raj_core_008",
+          "questionText": "Which salt lake in Rajasthan is the largest inland saltwater lake in India?",
+          "questionTextHi": "राजस्थान की कौन सी झील भारत की सबसे बड़ी अंतःस्थलीय खारे पानी की झील है?",
+          "options": [
+            "Pachpadra",
+            "Didwana",
+            "Sambhar Salt Lake",
+            "Lunkaransar"
+          ],
+          "optionsHi": [
+            "पचपदरा",
+            "डीडवाना",
+            "सांभर झील",
+            "लूणकरणसर"
+          ],
+          "correctIndex": 2,
+          "explanation": "Sambhar Salt Lake situated near Jaipur produces a significant share of India's inland salt.",
+          "explanationHi": "जयपुर के निकट स्थित सांभर झील भारत की सबसे बड़ी अंतःस्थलीय खारे पानी की झील है।",
+          "hint": "Key knowledge regarding Rajasthan geography.",
+          "hintHi": "राजस्थान geography का महत्वपूर्ण तथ्य।",
+          "difficulty": "medium",
+          "lastVerified": "2026-01-01",
+          "examTags": [
+            "ras_prelims",
+            "rajasthan_police_si",
+            "rajasthan_patwar",
+            "reet",
+            "rsmssb"
+          ],
+          "source": {
+            "type": "pdf",
+            "collection": "rajasthan_gk",
+            "fileName": "corrected-rajasthan-gk-1-100_compress.pdf",
+            "page": 3
+          }
+        },
+        {
+          "id": "gk_raj_core_011",
+          "questionText": "Which city in Rajasthan is popularly known as the 'City of Lakes' and 'Venice of the East'?",
+          "questionTextHi": "राजस्थान के किस शहर को 'झीलों की नगरी' (City of Lakes) कहा जाता है?",
+          "options": [
+            "Jaipur",
+            "Jodhpur",
+            "Udaipur",
+            "Bikaner"
+          ],
+          "optionsHi": [
+            "जयपुर",
+            "जोधपुर",
+            "उदयपुर",
+            "बीकानेर"
+          ],
+          "correctIndex": 2,
+          "explanation": "Udaipur, founded by Maharana Udai Singh II, is famous worldwide as the City of Lakes (Pichola, Fateh Sagar).",
+          "explanationHi": "महाराणा उदयसिंह द्वारा स्थापित उदयपुर अपनी सुंदर झीलों (पिछोला, फतेहसागर) के कारण झीलों की नगरी कहलाता है।",
+          "hint": "Key knowledge regarding Rajasthan geography.",
+          "hintHi": "राजस्थान geography का महत्वपूर्ण तथ्य।",
+          "difficulty": "medium",
+          "lastVerified": "2026-01-01",
+          "examTags": [
+            "ras_prelims",
+            "rajasthan_police_si",
+            "rajasthan_patwar",
+            "reet",
+            "rsmssb"
+          ],
+          "source": {
+            "type": "pdf",
+            "collection": "rajasthan_gk",
+            "fileName": "corrected-rajasthan-gk-1-100_compress.pdf",
+            "page": 4
+          }
+        },
+        {
+          "id": "gk_raj_geo_001",
+          "questionText": "Which is the highest peak in Rajasthan, situated in the Mount Abu region?",
+          "questionTextHi": "माउंट आबू क्षेत्र में स्थित राजस्थान की सर्वोच्च पर्वत चोटी कौन सी है?",
+          "options": [
+            "Ser",
+            "Guru Shikhar (1,722 m)",
+            "Achalgarh",
+            "Dilwara"
+          ],
+          "optionsHi": [
+            "सेर",
+            "गुरु शिखर (1,722 मीटर)",
+            "अचलगढ़",
+            "दिलवाड़ा"
+          ],
+          "correctIndex": 1,
+          "explanation": "Guru Shikhar in Sirohi district rises to an altitude of 1,722 meters (world's oldest fold mountains - Aravalli).",
+          "explanationHi": "सिरोही जिले में स्थित गुरु शिखर 1,722 मीटर ऊंचाई के साथ राजस्थान और अरावली पर्वतमाला का सबसे ऊंचा शिखर है।",
+          "hint": "Key concept under Rajasthan.",
+          "hintHi": "Rajasthan का महत्वपूर्ण तथ्य।",
+          "difficulty": "easy",
+          "lastVerified": "2026-01-01",
+          "examTags": [
+            "ras_prelims",
+            "rajasthan_police"
+          ],
+          "source": {
+            "type": "pdf",
+            "collection": "rajasthan_gk",
+            "fileName": "corrected-rajasthan-gk-1-100_compress.pdf",
+            "page": 2
+          }
+        },
+        {
+          "id": "gk_raj_geo_002",
+          "questionText": "Which river originating in the Khamnore Hills (Rajsamand) is completely contained within Rajasthan?",
+          "questionTextHi": "राजसमंद की खमनोर की पहाड़ियों से निकलने वाली कौन सी नदी पूर्णतः राजस्थान में बहती है?",
+          "options": [
+            "Chambal",
+            "Banas River",
+            "Luni",
+            "Sabarmati"
+          ],
+          "optionsHi": [
+            "चम्बल",
+            "बनास नदी",
+            "लूनी",
+            "साबरमती"
+          ],
+          "correctIndex": 1,
+          "explanation": "Banas (Hope of the Forest / Van ki Asha) flows entirely within Rajasthan; Bisalpur Dam in Tonk is on it.",
+          "explanationHi": "बनास नदी (वन की आशा) पूर्णतः राजस्थान में बहने वाली सबसे लंबी नदी है, जिस पर टोंक में बीसलपुर बांध बना है।",
+          "hint": "Key concept under Rajasthan.",
+          "hintHi": "Rajasthan का महत्वपूर्ण तथ्य।",
+          "difficulty": "medium",
+          "lastVerified": "2026-01-01",
+          "examTags": [
+            "ras_prelims",
+            "patwar"
+          ],
+          "source": {
+            "type": "pdf",
+            "collection": "rajasthan_gk",
+            "fileName": "corrected-rajasthan-gk-1-100_compress.pdf",
+            "page": 2
+          }
+        },
+        {
+          "id": "gk_raj_geo_003",
+          "questionText": "Which inland saltwater lake in Rajasthan is the largest inland salt lake in India?",
+          "questionTextHi": "राजस्थान में स्थित भारत की सबसे बड़ी अंतःस्थलीय खारे पानी की झील कौन सी है?",
+          "options": [
+            "Pachpadra",
+            "Sambhar Salt Lake",
+            "Didwana",
+            "Lunkaransar"
+          ],
+          "optionsHi": [
+            "पचपदरा",
+            "सांभर झील",
+            "डीडवाना",
+            "लूणकरणसर"
+          ],
+          "correctIndex": 1,
+          "explanation": "Sambhar Salt Lake produces roughly 9% of India's total salt and is a designated Ramsar wetland.",
+          "explanationHi": "जयपुर के पास स्थित सांभर झील भारत के कुल नमक उत्पादन का लगभग 9% हिस्सा प्रदान करती है और रामसर साइट है।",
+          "hint": "Key concept under Rajasthan.",
+          "hintHi": "Rajasthan का महत्वपूर्ण तथ्य।",
+          "difficulty": "easy",
+          "lastVerified": "2026-01-01",
+          "examTags": [
+            "ras_prelims",
+            "state_psc"
+          ],
+          "source": {
+            "type": "pdf",
+            "collection": "rajasthan_gk",
+            "fileName": "corrected-rajasthan-gk-1-100_compress.pdf",
+            "page": 2
+          }
+        }
+      ]
+    },
+    {
+      "id": "history_culture",
+      "name": "History & Culture",
+      "summary": "Historical formation, classical/folk dances, and vibrant festivals of Rajasthan.",
+      "facts": [
+        {
+          "id": "rajasthan_hist_1",
+          "topicId": "rajasthan",
+          "subtopicId": "history_culture",
+          "title": "State Formation & Language",
+          "content": "Rajasthan was formally instituted on 30 March 1949. Official language(s): Hindi.",
+          "tags": [
+            "formation",
+            "history",
+            "languages"
+          ]
+        },
+        {
+          "id": "rajasthan_hist_2",
+          "topicId": "rajasthan",
+          "subtopicId": "history_culture",
+          "title": "Dance Forms & Traditional Arts",
+          "content": "Celebrated traditional and folk dance forms: Ghoomar, Kalbelia (UNESCO Intangible Cultural Heritage), Bhavai, Chari.",
+          "tags": [
+            "dance",
+            "culture",
+            "arts"
+          ]
+        },
+        {
+          "id": "rajasthan_hist_3",
+          "topicId": "rajasthan",
+          "subtopicId": "history_culture",
+          "title": "Major Festivals & Celebrations",
+          "content": "Prominent cultural festivals: Pushkar Camel Fair, Desert Festival (Jaisalmer), Gangaur, Teej.",
+          "tags": [
+            "festivals",
+            "culture"
+          ]
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "gk_raj_core_001",
+          "questionText": "Who founded the Mewar Kingdom?",
+          "questionTextHi": "मेवाड़ राजवंश की स्थापना किसने की थी?",
+          "options": [
+            "Guhil",
+            "Bappa Rawal",
+            "Rana Sanga",
+            "Maharana Pratap"
+          ],
+          "optionsHi": [
+            "गुहिल",
+            "बप्पा रावल",
+            "राणा सांगा",
+            "महाराणा प्रताप"
+          ],
+          "correctIndex": 1,
+          "explanation": "Bappa Rawal established the Mewar kingdom in 734 AD after defeating the Mauryas of Chittor.",
+          "explanationHi": "बप्पा रावल ने 734 ईस्वी में चित्तौड़ के मौर्य शासक मान मोरी को पराजित कर मेवाड़ राज्य की नींव रखी थी।",
+          "hint": "Key knowledge regarding Rajasthan history culture.",
+          "hintHi": "राजस्थान history culture का महत्वपूर्ण तथ्य।",
+          "difficulty": "easy",
+          "lastVerified": "2026-01-01",
+          "examTags": [
+            "ras_prelims",
+            "rajasthan_police_si",
+            "rajasthan_patwar",
+            "reet",
+            "rsmssb"
+          ],
+          "source": {
+            "type": "pdf",
+            "collection": "rajasthan_gk",
+            "fileName": "corrected-rajasthan-gk-1-100_compress.pdf",
+            "page": 1
+          }
+        },
+        {
+          "id": "gk_raj_core_002",
+          "questionText": "Which Rajput ruler is known for his unmatched valor and fought against Akbar's forces in the Battle of Haldighati?",
+          "questionTextHi": "हल्दीघाटी के ऐतिहासिक युद्ध में मुगलों के विरुद्ध अदम्य शौर्य का प्रदर्शन करने वाले राजपूत शासक कौन थे?",
+          "options": [
+            "Rana Kumbha",
+            "Rana Sanga",
+            "Maharana Pratap",
+            "Rao Jodha"
+          ],
+          "optionsHi": [
+            "राणा कुंभा",
+            "राणा सांगा",
+            "महाराणा प्रताप",
+            "राव जोधा"
+          ],
+          "correctIndex": 2,
+          "explanation": "Maharana Pratap led the Mewar army in the Battle of Haldighati on 18 June 1576 against the Mughal army led by Man Singh I.",
+          "explanationHi": "महाराणा प्रताप ने 18 जून 1576 को मानसिंह के नेतृत्व वाली मुगल सेना के विरुद्ध हल्दीघाटी का प्रसिद्ध युद्ध लड़ा था।",
+          "hint": "Key knowledge regarding Rajasthan history culture.",
+          "hintHi": "राजस्थान history culture का महत्वपूर्ण तथ्य।",
+          "difficulty": "easy",
+          "lastVerified": "2026-01-01",
+          "examTags": [
+            "ras_prelims",
+            "rajasthan_police_si",
+            "rajasthan_patwar",
+            "reet",
+            "rsmssb"
+          ],
+          "source": {
+            "type": "pdf",
+            "collection": "rajasthan_gk",
+            "fileName": "corrected-rajasthan-gk-1-100_compress.pdf",
+            "page": 1
+          }
+        },
+        {
+          "id": "gk_raj_core_003",
+          "questionText": "Who is the author of the epic historical poem 'Prithviraj Raso'?",
+          "questionTextHi": "'पृथ्वीराज रासो' महाकाव्य के रचयिता कौन हैं?",
+          "options": [
+            "Kalhana",
+            "Chand Bardai",
+            "Jayanaka",
+            "Suryamal Misran"
+          ],
+          "optionsHi": [
+            "कल्हण",
+            "चंद बरदाई",
+            "जयानक",
+            "सूर्यमल मिश्रण"
+          ],
+          "correctIndex": 1,
+          "explanation": "Prithviraj Raso, chronicling the life of Prithviraj Chauhan, was composed in Brajbhasha/Pingal by court poet Chand Bardai.",
+          "explanationHi": "पृथ्वीराज चौहान के जीवन पर आधारित 'पृथ्वीराज रासो' की रचना उनके दरबारी कवि चंद बरदाई ने की थी।",
+          "hint": "Key knowledge regarding Rajasthan history culture.",
+          "hintHi": "राजस्थान history culture का महत्वपूर्ण तथ्य।",
+          "difficulty": "easy",
+          "lastVerified": "2026-01-01",
+          "examTags": [
+            "ras_prelims",
+            "rajasthan_police_si",
+            "rajasthan_patwar",
+            "reet",
+            "rsmssb"
+          ],
+          "source": {
+            "type": "pdf",
+            "collection": "rajasthan_gk",
+            "fileName": "corrected-rajasthan-gk-1-100_compress.pdf",
+            "page": 1
+          }
+        },
+        {
+          "id": "gk_raj_core_013",
+          "questionText": "Which traditional dance of Rajasthan, performed with brass pots balanced on the head, is renowned worldwide?",
+          "questionTextHi": "सिर पर पीतल के मटके रखकर नृत्य करने वाला राजस्थान का कौन सा प्रसिद्ध लोकनृत्य है?",
+          "options": [
+            "Ghoomar",
+            "Chari Dance",
+            "Kalbelia",
+            "Gair"
+          ],
+          "optionsHi": [
+            "घूमर",
+            "चरी नृत्य",
+            "कालबेलिया",
+            "गैर"
+          ],
+          "correctIndex": 1,
+          "explanation": "Chari dance is a popular folk dance originating from the Gujjar community of Kishangarh, balancing flaming brass pots.",
+          "explanationHi": "चरी नृत्य किशनगढ़ (अजमेर) के गुर्जर समुदाय का लोकप्रिय नृत्य है जिसमें नृत्यांगनाएं सिर पर जलती हुई चरी रखती हैं।",
+          "hint": "Key knowledge regarding Rajasthan history culture.",
+          "hintHi": "राजस्थान history culture का महत्वपूर्ण तथ्य।",
+          "difficulty": "medium",
+          "lastVerified": "2026-01-01",
+          "examTags": [
+            "ras_prelims",
+            "rajasthan_police_si",
+            "rajasthan_patwar",
+            "reet",
+            "rsmssb"
+          ],
+          "source": {
+            "type": "pdf",
+            "collection": "rajasthan_gk",
+            "fileName": "corrected-rajasthan-gk-1-100_compress.pdf",
+            "page": 5
+          }
+        },
+        {
+          "id": "gk_raj_core_014",
+          "questionText": "Which district in Rajasthan hosts the famous Pushkar International Camel Fair every year?",
+          "questionTextHi": "राजस्थान के किस जिले में विश्व प्रसिद्ध पुष्कर ऊंट मेले का आयोजन प्रतिवर्ष किया जाता है?",
+          "options": [
+            "Nagaur",
+            "Bikaner",
+            "Ajmer",
+            "Jaisalmer"
+          ],
+          "optionsHi": [
+            "नागौर",
+            "बीकानेर",
+            "अजमेर",
+            "जैसलमेर"
+          ],
+          "correctIndex": 2,
+          "explanation": "The historic Pushkar Fair takes place on Kartik Purnima near the sacred Pushkar Lake in Ajmer district.",
+          "explanationHi": "कार्तिक पूर्णिमा पर पवित्र पुष्कर झील के किनारे अजमेर जिले में प्रसिद्ध पुष्कर मेले का आयोजन होता है।",
+          "hint": "Key knowledge regarding Rajasthan history culture.",
+          "hintHi": "राजस्थान history culture का महत्वपूर्ण तथ्य।",
+          "difficulty": "medium",
+          "lastVerified": "2026-01-01",
+          "examTags": [
+            "ras_prelims",
+            "rajasthan_police_si",
+            "rajasthan_patwar",
+            "reet",
+            "rsmssb"
+          ],
+          "source": {
+            "type": "pdf",
+            "collection": "rajasthan_gk",
+            "fileName": "corrected-rajasthan-gk-1-100_compress.pdf",
+            "page": 5
+          }
+        },
+        {
+          "id": "gk_raj_extra_001",
+          "questionText": "The famous 'Bani Thani' miniature painting of Kishangarh school was painted by:",
+          "questionTextHi": "किशनगढ़ चित्रशैली की प्रसिद्ध चित्र 'बनी-ठनी' के चित्रकार कौन थे?",
+          "options": [
+            "Nihal Chand",
+            "Sahibdin",
+            "Manaku",
+            "Nainsukh"
+          ],
+          "optionsHi": [
+            "निहाल चंद",
+            "साहिबदीन",
+            "मानकू",
+            "नैनसुख"
+          ],
+          "correctIndex": 0,
+          "explanation": "Nihal Chand painted Bani Thani under the patronage of Raja Sawant Singh (Nagari Das) of Kishangarh.",
+          "explanationHi": "किशनगढ़ के राजा सावंत सिंह (नागरीदास) के समय चित्रकार निहालचंद ने 'बनी-ठनी' का विश्वप्रसिद्ध चित्र बनाया था।",
+          "hint": "Focus on history culture in Rajasthan.",
+          "hintHi": "राजस्थान के history culture पर ध्यान दें।",
+          "difficulty": "medium",
+          "lastVerified": "2026-01-01",
+          "examTags": [
+            "ras_prelims",
+            "rajasthan_police",
+            "rpsc"
+          ],
+          "source": {
+            "type": "pdf",
+            "collection": "rajasthan_gk",
+            "fileName": "rajasthan-gk-questions-hindi_compress.pdf",
+            "page": 1
+          }
+        },
+        {
+          "id": "gk_raj_extra_004",
+          "questionText": "The famous folk deity 'Veer Tejaji' passed away at which holy site in Ajmer district?",
+          "questionTextHi": "लोकदेवता वीर तेजाजी का निर्वाण स्थल 'सुरसुरा' किस जिले में स्थित है?",
+          "options": [
+            "Nagaur",
+            "Ajmer",
+            "Barmer",
+            "Jodhpur"
+          ],
+          "optionsHi": [
+            "नागौर",
+            "अजमेर",
+            "बाड़मेर",
+            "जोधपुर"
+          ],
+          "correctIndex": 1,
+          "explanation": "Sursura in Kishangarh (Ajmer) is where Veer Tejaji attained martyrdom protecting cows.",
+          "explanationHi": "किशनगढ़ (अजमेर) के पास सुरसुरा धाम में तेजाजी महाराज ने गायों की रक्षा करते हुए प्राणोत्सर्ग किया था।",
+          "hint": "Focus on history culture in Rajasthan.",
+          "hintHi": "राजस्थान के history culture पर ध्यान दें।",
+          "difficulty": "medium",
+          "lastVerified": "2026-01-01",
+          "examTags": [
+            "ras_prelims",
+            "rajasthan_police",
+            "rpsc"
+          ],
+          "source": {
+            "type": "pdf",
+            "collection": "rajasthan_gk",
+            "fileName": "rajasthan-gk-questions-hindi_compress.pdf",
+            "page": 4
+          }
+        },
+        {
+          "id": "gk_raj_hist_001",
+          "questionText": "Who founded the Mewar kingdom in 734 AD after defeating the Mauryas of Chittor?",
+          "questionTextHi": "734 ईस्वी में चित्तौड़ के मान मोरी को हराकर मेवाड़ राजवंश की स्थापना किसने की थी?",
+          "options": [
+            "Rana Kumbha",
+            "Bappa Rawal",
+            "Rana Sanga",
+            "Hammir Dev"
+          ],
+          "optionsHi": [
+            "राणा कुंभा",
+            "बप्पा रावल",
+            "राणा सांगा",
+            "हम्मीर देव"
+          ],
+          "correctIndex": 1,
+          "explanation": "Bappa Rawal (Kalbhoj) established the Mewar dynasty at Nagda/Chittorgarh.",
+          "explanationHi": "बप्पा रावल (कालभोज) ने 734 ईस्वी में मौर्य शासक को हराकर मेवाड़ में गुहिल वंश का गौरव स्थापित किया।",
+          "hint": "Key concept under Rajasthan.",
+          "hintHi": "Rajasthan का महत्वपूर्ण तथ्य।",
+          "difficulty": "easy",
+          "lastVerified": "2026-01-01",
+          "examTags": [
+            "ras_prelims",
+            "rajasthan_police",
+            "rpsc"
+          ],
+          "source": {
+            "type": "pdf",
+            "collection": "rajasthan_gk",
+            "fileName": "corrected-rajasthan-gk-1-100_compress.pdf",
+            "page": 1
+          }
+        },
+        {
+          "id": "gk_raj_hist_002",
+          "questionText": "The Battle of Haldighati in 1576 was fought between Maharana Pratap and the Mughal army commanded by:",
+          "questionTextHi": "1576 में हल्दीघाटी का प्रसिद्ध युद्ध महाराणा प्रताप और किसके नेतृत्व वाली मुगल सेना के बीच हुआ था?",
+          "options": [
+            "Asaf Khan",
+            "Man Singh I of Amber",
+            "Bairam Khan",
+            "Mahabat Khan"
+          ],
+          "optionsHi": [
+            "आसफ खान",
+            "आमेर के राजा मानसिंह प्रथम",
+            "बैरम खान",
+            "महाबत खान"
+          ],
+          "correctIndex": 1,
+          "explanation": "Akbar's general Raja Man Singh I of Amber commanded the Mughal forces at Haldighati on 18 June 1576.",
+          "explanationHi": "अकबर के सेनापति आमेर के राजा मानसिंह प्रथम ने हल्दीघाटी के युद्ध में मुगल सेना का नेतृत्व किया था।",
+          "hint": "Key concept under Rajasthan.",
+          "hintHi": "Rajasthan का महत्वपूर्ण तथ्य।",
+          "difficulty": "medium",
+          "lastVerified": "2026-01-01",
+          "examTags": [
+            "ras_prelims",
+            "rajasthan_police",
+            "rpsc"
+          ],
+          "source": {
+            "type": "pdf",
+            "collection": "rajasthan_gk",
+            "fileName": "corrected-rajasthan-gk-1-100_compress.pdf",
+            "page": 1
+          }
+        },
+        {
+          "id": "gk_raj_hist_003",
+          "questionText": "Who is the author of 'Prithviraj Raso', celebrating the life of Prithviraj Chauhan III?",
+          "questionTextHi": "पृथ्वीराज चौहान तृतीय के जीवन पर आधारित महाकाव्य 'पृथ्वीराज रासो' के लेखक कौन हैं?",
+          "options": [
+            "Jayanaka",
+            "Chand Bardai",
+            "Suryamal Misran",
+            "Muhnot Nainsi"
+          ],
+          "optionsHi": [
+            "जयानक",
+            "चंद बरदाई",
+            "सूर्यमल मिश्रण",
+            "मुहणौत नैणसी"
+          ],
+          "correctIndex": 1,
+          "explanation": "Chand Bardai was the court poet and friend of Prithviraj Chauhan III.",
+          "explanationHi": "चंद बरदाई पृथ्वीराज चौहान तृतीय के राजकवि और बालसखा थे जिन्होंने पिंगल भाषा में 'पृथ्वीराज रासो' रचा।",
+          "hint": "Key concept under Rajasthan.",
+          "hintHi": "Rajasthan का महत्वपूर्ण तथ्य।",
+          "difficulty": "easy",
+          "lastVerified": "2026-01-01",
+          "examTags": [
+            "ras_prelims",
+            "reet",
+            "rsmssb"
+          ],
+          "source": {
+            "type": "pdf",
+            "collection": "rajasthan_gk",
+            "fileName": "corrected-rajasthan-gk-1-100_compress.pdf",
+            "page": 1
+          }
+        },
+        {
+          "id": "gk_raj_cult_001",
+          "questionText": "The world-renowned miniature painting 'Bani Thani' belongs to which school of Rajasthani painting?",
+          "questionTextHi": "विश्वविख्यात 'बनी-ठनी' चित्र किस राजस्थानी चित्रकला शैली से सम्बन्धित है?",
+          "options": [
+            "Mewar School",
+            "Kishangarh School",
+            "Bundi School",
+            "Marwar School"
+          ],
+          "optionsHi": [
+            "मेवाड़ शैली",
+            "किशनगढ़ शैली",
+            "बूंदी शैली",
+            "मारवाड़ शैली"
+          ],
+          "correctIndex": 1,
+          "explanation": "Bani Thani, known as the 'Mona Lisa of India', was painted by Nihal Chand in Kishangarh.",
+          "explanationHi": "चित्रकार निहालचंद द्वारा चित्रित 'बनी-ठनी' किशनगढ़ शैली की उत्कृष्ट कृति है, जिसे भारत की 'मोनालिसा' कहा जाता है।",
+          "hint": "Key concept under Rajasthan.",
+          "hintHi": "Rajasthan का महत्वपूर्ण तथ्य।",
+          "difficulty": "easy",
+          "lastVerified": "2026-01-01",
+          "examTags": [
+            "ras_prelims",
+            "reet",
+            "rpsc"
+          ],
+          "source": {
+            "type": "pdf",
+            "collection": "rajasthan_gk",
+            "fileName": "rajasthan-gk-questions-hindi_compress.pdf",
+            "page": 1
+          }
+        },
+        {
+          "id": "gk_raj_cult_002",
+          "questionText": "Which folk dance of the Shekhawati region is performed with sticks during Holi?",
+          "questionTextHi": "होली के अवसर पर शेखावाटी क्षेत्र में पुरुषों द्वारा डंडों के साथ किया जाने वाला प्रमुख नृत्य कौन सा है?",
+          "options": [
+            "Ghoomar",
+            "Gindar Dance (गींदड़ नृत्य)",
+            "Chari",
+            "Bhavai"
+          ],
+          "optionsHi": [
+            "घूमर",
+            "गींदड़ नृत्य (Gindar)",
+            "चरी",
+            "भवाई"
+          ],
+          "correctIndex": 1,
+          "explanation": "Gindar dance is an energetic folk dance performed exclusively by men in the Shekhawati region during Holi.",
+          "explanationHi": "गींदड़ नृत्य शेखावाटी (सीकर, चूरू, झुंझुनूं) का प्रसिद्ध लोकनृत्य है जो होली के अवसर पर पुरुषों द्वारा किया जाता है।",
+          "hint": "Key concept under Rajasthan.",
+          "hintHi": "Rajasthan का महत्वपूर्ण तथ्य।",
+          "difficulty": "medium",
+          "lastVerified": "2026-01-01",
+          "examTags": [
+            "ras_prelims",
+            "rpsc"
+          ],
+          "source": {
+            "type": "pdf",
+            "collection": "rajasthan_gk",
+            "fileName": "rajasthan-gk-questions-hindi_compress.pdf",
+            "page": 5
+          }
+        }
+      ]
+    },
+    {
+      "id": "polity_governance",
+      "name": "Government & Polity",
+      "summary": "Constitutional leadership, administrative structure, and state symbols of Rajasthan.",
+      "facts": [
+        {
+          "id": "rajasthan_pol_1",
+          "topicId": "rajasthan",
+          "subtopicId": "polity_governance",
+          "title": "Governor & Constitutional Head",
+          "content": "The current Governor is Haribhau Bagade.",
+          "lastVerified": "2026-01-01",
+          "tags": [
+            "governor",
+            "polity",
+            "executive"
+          ]
+        },
+        {
+          "id": "rajasthan_pol_2",
+          "topicId": "rajasthan",
+          "subtopicId": "polity_governance",
+          "title": "Chief Minister & Administration",
+          "content": "The Chief Minister of Rajasthan is Bhajan Lal Sharma.",
+          "lastVerified": "2026-01-01",
+          "tags": [
+            "chief_minister",
+            "governance"
+          ]
+        },
+        {
+          "id": "rajasthan_pol_3",
+          "topicId": "rajasthan",
+          "subtopicId": "polity_governance",
+          "title": "High Court Jurisdiction",
+          "content": "Judicial jurisdiction falls under Rajasthan High Court (Principal Seat Jodhpur, Bench Jaipur).",
+          "tags": [
+            "high_court",
+            "judiciary"
+          ]
+        },
+        {
+          "id": "rajasthan_pol_4",
+          "topicId": "rajasthan",
+          "subtopicId": "polity_governance",
+          "title": "Official State Symbols",
+          "content": "State Animal: Chinkara & Camel | State Bird: Great Indian bustard (Godavan) | State Flower: Rohida | State Tree: Khejri (Prosopis cineraria).",
+          "tags": [
+            "symbols",
+            "emblem"
+          ]
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "gk_raj_core_006",
+          "questionText": "Which bird is designated as the State Bird of Rajasthan?",
+          "questionTextHi": "राजस्थान का राज्य पक्षी कौन सा है?",
+          "options": [
+            "Peacock",
+            "Great Indian Bustard (Godawan)",
+            "Flamingo",
+            "Sarus Crane"
+          ],
+          "optionsHi": [
+            "मोर",
+            "गोडावण (Great Indian Bustard)",
+            "फ्लेमिंगो",
+            "सारस"
+          ],
+          "correctIndex": 1,
+          "explanation": "The Great Indian Bustard (Ardeotis nigriceps), locally known as Godawan, was declared Rajasthan's state bird in 1981.",
+          "explanationHi": "ग्रेट इंडियन बस्टर्ड को स्थानीय भाषा में गोडावण कहा जाता है, जिसे 1981 में राजस्थान का राज्य पक्षी घोषित किया गया था।",
+          "hint": "Key knowledge regarding Rajasthan polity governance.",
+          "hintHi": "राजस्थान polity governance का महत्वपूर्ण तथ्य।",
+          "difficulty": "medium",
+          "lastVerified": "2026-01-01",
+          "examTags": [
+            "ras_prelims",
+            "rajasthan_police_si",
+            "rajasthan_patwar",
+            "reet",
+            "rsmssb"
+          ],
+          "source": {
+            "type": "pdf",
+            "collection": "rajasthan_gk",
+            "fileName": "corrected-rajasthan-gk-1-100_compress.pdf",
+            "page": 2
+          }
+        },
+        {
+          "id": "gk_raj_core_007",
+          "questionText": "Which animal is recognized as the State Animal of Rajasthan?",
+          "questionTextHi": "राजस्थान का राज्य पशु किसे घोषित किया गया है?",
+          "options": [
+            "Blackbuck",
+            "Chinkara & Camel",
+            "Tiger",
+            "Nilgai"
+          ],
+          "optionsHi": [
+            "काला हिरण",
+            "चिंकारा एवं ऊंट",
+            "बाघ",
+            "नीलगाय"
+          ],
+          "correctIndex": 1,
+          "explanation": "Chinkara is the state animal (wild category) and Camel was declared the state animal (domestic/heritage category) in 2014.",
+          "explanationHi": "चिंकारा को वन्यजीव श्रेणी तथा ऊंट को 2014 में घरेलू/पशुधन धरोहर श्रेणी में राज्य पशु का दर्जा दिया गया है।",
+          "hint": "Key knowledge regarding Rajasthan polity governance.",
+          "hintHi": "राजस्थान polity governance का महत्वपूर्ण तथ्य।",
+          "difficulty": "medium",
+          "lastVerified": "2026-01-01",
+          "examTags": [
+            "ras_prelims",
+            "rajasthan_police_si",
+            "rajasthan_patwar",
+            "reet",
+            "rsmssb"
+          ],
+          "source": {
+            "type": "pdf",
+            "collection": "rajasthan_gk",
+            "fileName": "corrected-rajasthan-gk-1-100_compress.pdf",
+            "page": 3
+          }
+        },
+        {
+          "id": "gk_raj_core_010",
+          "questionText": "Who was the first Chief Minister of Rajasthan upon its formation?",
+          "questionTextHi": "राजस्थान के प्रथम मुख्यमंत्री कौन थे?",
+          "options": [
+            "Tikaram Paliwal",
+            "Heeralal Shastri",
+            "Jai Narayan Vyas",
+            "Mohan Lal Sukhadia"
+          ],
+          "optionsHi": [
+            "टीकाराम पालीवाल",
+            "हीरालाल शास्त्री",
+            "जय नारायण व्यास",
+            "मोहन लाल सुखाड़िया"
+          ],
+          "correctIndex": 1,
+          "explanation": "Pandit Heeralal Shastri served as the first Chief Minister of Rajasthan from 7 April 1949 to 5 January 1951.",
+          "explanationHi": "पंडित हीरालाल शास्त्री 7 अप्रैल 1949 को राजस्थान के प्रथम मुख्यमंत्री बने थे।",
+          "hint": "Key knowledge regarding Rajasthan polity governance.",
+          "hintHi": "राजस्थान polity governance का महत्वपूर्ण तथ्य।",
+          "difficulty": "medium",
+          "lastVerified": "2026-01-01",
+          "examTags": [
+            "ras_prelims",
+            "rajasthan_police_si",
+            "rajasthan_patwar",
+            "reet",
+            "rsmssb"
+          ],
+          "source": {
+            "type": "pdf",
+            "collection": "rajasthan_gk",
+            "fileName": "corrected-rajasthan-gk-1-100_compress.pdf",
+            "page": 4
+          }
+        },
+        {
+          "id": "gk_raj_pol_001",
+          "questionText": "Who was the first Chief Minister of Rajasthan?",
+          "questionTextHi": "राजस्थान के प्रथम मुख्यमंत्री कौन थे?",
+          "options": [
+            "Tikaram Paliwal",
+            "Pandit Heeralal Shastri",
+            "Jai Narayan Vyas",
+            "Mohan Lal Sukhadia"
+          ],
+          "optionsHi": [
+            "टीकाराम पालीवाल",
+            "पंडित हीरालाल शास्त्री",
+            "जय नारायण व्यास",
+            "मोहन लाल सुखाड़िया"
+          ],
+          "correctIndex": 1,
+          "explanation": "Pandit Heeralal Shastri assumed office as the first Premier/Chief Minister of Rajasthan on 7 April 1949.",
+          "explanationHi": "पंडित हीरालाल शास्त्री 7 अप्रैल 1949 को राजस्थान के प्रथम मुख्यमंत्री बने थे।",
+          "hint": "Key concept under Rajasthan.",
+          "hintHi": "Rajasthan का महत्वपूर्ण तथ्य।",
+          "difficulty": "easy",
+          "lastVerified": "2026-01-01",
+          "examTags": [
+            "ras_prelims",
+            "rajasthan_police"
+          ],
+          "source": {
+            "type": "pdf",
+            "collection": "rajasthan_gk",
+            "fileName": "corrected-rajasthan-gk-1-100_compress.pdf",
+            "page": 3
+          }
+        },
+        {
+          "id": "gk_raj_pol_002",
+          "questionText": "The Great Indian Bustard, locally called 'Godawan', was declared the State Bird of Rajasthan in which year?",
+          "questionTextHi": "ग्रेट इंडियन बस्टर्ड (गोडावण) को किस वर्ष राजस्थान का राज्य पक्षी घोषित किया गया था?",
+          "options": [
+            "1971",
+            "1981",
+            "1991",
+            "2001"
+          ],
+          "optionsHi": [
+            "1971",
+            "1981",
+            "1991",
+            "2001"
+          ],
+          "correctIndex": 1,
+          "explanation": "Godawan (Ardeotis nigriceps) was declared the State Bird of Rajasthan in 1981.",
+          "explanationHi": "गोडावण को 1981 में राजस्थान सरकार द्वारा राज्य पक्षी का दर्जा दिया गया था।",
+          "hint": "Key concept under Rajasthan.",
+          "hintHi": "Rajasthan का महत्वपूर्ण तथ्य।",
+          "difficulty": "medium",
+          "lastVerified": "2026-01-01",
+          "examTags": [
+            "ras_prelims",
+            "forest_guard"
+          ],
+          "source": {
+            "type": "pdf",
+            "collection": "rajasthan_gk",
+            "fileName": "rajasthan-gk-questions-hindi_compress.pdf",
+            "page": 1
+          }
+        }
+      ]
+    },
+    {
+      "id": "economy_agriculture",
+      "name": "Economy & Agriculture",
+      "summary": "Natural resources, minerals, industrial clusters, and agriculture in Rajasthan.",
+      "facts": [
+        {
+          "id": "rajasthan_econ_1",
+          "topicId": "rajasthan",
+          "subtopicId": "economy_agriculture",
+          "title": "Mineral Wealth & Natural Resources",
+          "content": "Principal minerals and resources: Zinc & Lead (Zawar - sole producer in India), Marble (Makrana), Copper (Khetri).",
+          "tags": [
+            "minerals",
+            "resources",
+            "economy"
+          ]
+        },
+        {
+          "id": "rajasthan_econ_2",
+          "topicId": "rajasthan",
+          "subtopicId": "economy_agriculture",
+          "title": "Economic Profile & Industries",
+          "content": "Rajasthan plays a vital role in India's economy through key agricultural production, manufacturing corridors, and services.",
+          "tags": [
+            "industry",
+            "agriculture"
+          ]
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "gk_raj_core_012",
+          "questionText": "Which mineral mine in Zawar (near Udaipur) is India's primary and oldest source of Zinc and Lead?",
+          "questionTextHi": "उदयपुर के पास जावर की खानें मुख्य रूप से किस खनिज के उत्पादन के लिए देश भर में प्रसिद्ध हैं?",
+          "options": [
+            "Copper",
+            "Iron Ore",
+            "Zinc and Lead",
+            "Bauxite"
+          ],
+          "optionsHi": [
+            "तांबा",
+            "लौह अयस्क",
+            "जस्ता एवं सीसा (Zinc & Lead)",
+            "बॉक्साइट"
+          ],
+          "correctIndex": 2,
+          "explanation": "Zawar mines in Udaipur are the sole and historic lead-zinc ore mining district in India.",
+          "explanationHi": "उदयपुर स्थित जावर की खानें भारत में सीसा और जस्ता के सबसे प्राचीन और प्रमुख स्रोत हैं।",
+          "hint": "Key knowledge regarding Rajasthan economy agriculture.",
+          "hintHi": "राजस्थान economy agriculture का महत्वपूर्ण तथ्य।",
+          "difficulty": "medium",
+          "lastVerified": "2026-01-01",
+          "examTags": [
+            "ras_prelims",
+            "rajasthan_police_si",
+            "rajasthan_patwar",
+            "reet",
+            "rsmssb"
+          ],
+          "source": {
+            "type": "pdf",
+            "collection": "rajasthan_gk",
+            "fileName": "corrected-rajasthan-gk-1-100_compress.pdf",
+            "page": 4
+          }
+        },
+        {
+          "id": "gk_raj_extra_003",
+          "questionText": "Which place in Rajasthan is renowned for its tyre and tube manufacturing industry?",
+          "questionTextHi": "राजस्थान में टायर और ट्यूब बनाने का सबसे बड़ा कारखाना कहाँ स्थित है?",
+          "options": [
+            "Bhiwadi",
+            "Kankroli (Rajsamand)",
+            "Kota",
+            "Alwar"
+          ],
+          "optionsHi": [
+            "भिवाड़ी",
+            "कांकरोली (राजसमंद)",
+            "कोटा",
+            "अलवर"
+          ],
+          "correctIndex": 1,
+          "explanation": "JK Tyre plant is located at Kankroli in Rajsamand district.",
+          "explanationHi": "कांकरोली (राजसमंद) में जेके टायर का प्रसिद्ध कारखाना स्थित है।",
+          "hint": "Focus on economy agriculture in Rajasthan.",
+          "hintHi": "राजस्थान के economy agriculture पर ध्यान दें।",
+          "difficulty": "medium",
+          "lastVerified": "2026-01-01",
+          "examTags": [
+            "ras_prelims",
+            "rajasthan_police",
+            "rpsc"
+          ],
+          "source": {
+            "type": "pdf",
+            "collection": "rajasthan_gk",
+            "fileName": "rajasthan-gk-questions-hindi_compress.pdf",
+            "page": 3
+          }
+        },
+        {
+          "id": "gk_raj_extra_005",
+          "questionText": "Rajasthan is often termed the 'Museum of Minerals' because:",
+          "questionTextHi": "राजस्थान को 'खनिजों का अजायबघर' क्यों कहा जाता है?",
+          "options": [
+            "It produces only gold",
+            "It possesses a vast diversity of metallic and non-metallic minerals",
+            "It has no mineral deposits",
+            "All minerals are imported"
+          ],
+          "optionsHi": [
+            "यहाँ केवल सोना पाया जाता है",
+            "यहाँ धात्विक एवं अधात्विक खनिजों की अत्यधिक विविधता पाई जाती है",
+            "यहाँ कोई खनिज नहीं है",
+            "सभी खनिजों का आयात होता है"
+          ],
+          "correctIndex": 1,
+          "explanation": "Rajasthan possesses over 79 varieties of minerals, ranking first in zinc, lead, wollastonite, gypsum, and marble.",
+          "explanationHi": "राजस्थान में 79 से अधिक प्रकार के खनिज पाए जाते हैं, जिसके कारण इसे खनिजों का अजायबघर कहा जाता है।",
+          "hint": "Focus on economy agriculture in Rajasthan.",
+          "hintHi": "राजस्थान के economy agriculture पर ध्यान दें।",
+          "difficulty": "medium",
+          "lastVerified": "2026-01-01",
+          "examTags": [
+            "ras_prelims",
+            "rajasthan_police",
+            "rpsc"
+          ],
+          "source": {
+            "type": "pdf",
+            "collection": "rajasthan_gk",
+            "fileName": "rajasthan-gk-questions-hindi_compress.pdf",
+            "page": 5
+          }
+        },
+        {
+          "id": "gk_raj_econ_001",
+          "questionText": "Which mineral mine in Zawar (Udaipur district) is the sole and primary producer of Zinc and Lead in India?",
+          "questionTextHi": "उदयपुर जिले में स्थित जावर की खानें भारत में मुख्य रूप से किस खनिज के उत्पादन के लिए प्रसिद्ध हैं?",
+          "options": [
+            "Copper",
+            "Zinc and Lead (सीसा एवं जस्ता)",
+            "Bauxite",
+            "Iron Ore"
+          ],
+          "optionsHi": [
+            "तांबा",
+            "सीसा एवं जस्ता (Zinc & Lead)",
+            "बॉक्साइट",
+            "लौह अयस्क"
+          ],
+          "correctIndex": 1,
+          "explanation": "Zawar mines in Udaipur are India's oldest and major lead-zinc deposits, operated by Hindustan Zinc.",
+          "explanationHi": "उदयपुर की जावर खानें भारत की सबसे पुरानी और प्रमुख सीसा-जस्ता खानें हैं।",
+          "hint": "Key concept under Rajasthan.",
+          "hintHi": "Rajasthan का महत्वपूर्ण तथ्य।",
+          "difficulty": "easy",
+          "lastVerified": "2026-01-01",
+          "examTags": [
+            "ras_prelims",
+            "patwar"
+          ],
+          "source": {
+            "type": "pdf",
+            "collection": "rajasthan_gk",
+            "fileName": "rajasthan-genral-knowledge_compress.pdf",
+            "page": 3
+          }
+        },
+        {
+          "id": "gk_raj_econ_002",
+          "questionText": "Which district in Rajasthan is the leading producer of Isabgol (Psyllium husk)?",
+          "questionTextHi": "राजस्थान का कौन सा जिला ईसबगोल (घोड़ा जीरा) का प्रमुख उत्पादक है?",
+          "options": [
+            "Jalore",
+            "Jaipur",
+            "Kota",
+            "Alwar"
+          ],
+          "optionsHi": [
+            "जालौर",
+            "जयपुर",
+            "कोटा",
+            "अलवर"
+          ],
+          "correctIndex": 0,
+          "explanation": "Jalore district accounts for the largest production of export-grade Isabgol in Rajasthan.",
+          "explanationHi": "जालौर जिला राजस्थान में ईसबगोल के उत्पादन में अग्रणी स्थान रखता है।",
+          "hint": "Key concept under Rajasthan.",
+          "hintHi": "Rajasthan का महत्वपूर्ण तथ्य।",
+          "difficulty": "medium",
+          "lastVerified": "2026-01-01",
+          "examTags": [
+            "ras_prelims",
+            "patwar"
+          ],
+          "source": {
+            "type": "pdf",
+            "collection": "rajasthan_gk",
+            "fileName": "rajasthan-gk-questions-hindi_compress.pdf",
+            "page": 10
+          }
+        }
+      ]
+    },
+    {
+      "id": "places_monuments",
+      "name": "Places, Monuments & Tourism",
+      "summary": "Heritage landmarks, national parks, and tourism attractions in Rajasthan.",
+      "facts": [
+        {
+          "id": "rajasthan_tour_1",
+          "topicId": "rajasthan",
+          "subtopicId": "places_monuments",
+          "title": "Historic Monuments & Cultural Sites",
+          "content": "Prominent monuments and heritage landmarks: Hill Forts (Chittorgarh, Kumbhalgarh, Ranthambore, Amber, Jaisalmer, Gagron), Hawa Mahal, Jantar Mantar, Mehrangarh Fort.",
+          "tags": [
+            "monuments",
+            "heritage",
+            "tourism"
+          ]
+        },
+        {
+          "id": "rajasthan_tour_2",
+          "topicId": "rajasthan",
+          "subtopicId": "places_monuments",
+          "title": "National Parks & Protected Areas",
+          "content": "Key protected conservation areas: Ranthambore, Sariska, Keoladeo Ghana (Bharatpur Bird Sanctuary, UNESCO), Desert National Park, Mukundra Hills.",
+          "tags": [
+            "national_parks",
+            "wildlife",
+            "conservation"
+          ]
+        }
+      ],
+      "practiceQuestions": [
+        {
+          "id": "gk_raj_core_009",
+          "questionText": "The massive perimeter wall of which fort in Rajasthan is the second-longest in the world (36 km)?",
+          "questionTextHi": "राजस्थान के किस किले की प्राचीर (परकोटा) 36 किमी लंबी है और दुनिया में दूसरी सबसे लंबी मानी जाती है?",
+          "options": [
+            "Chittorgarh Fort",
+            "Kumbhalgarh Fort",
+            "Mehrangarh Fort",
+            "Ranthambore Fort"
+          ],
+          "optionsHi": [
+            "चित्तौड़गढ़ किला",
+            "कुंभलगढ़ किला",
+            "मेहरानगढ़ किला",
+            "रणथंभौर किला"
+          ],
+          "correctIndex": 1,
+          "explanation": "Kumbhalgarh Fort in Rajsamand, built by Rana Kumbha, features a 36-km long continuous protective stone wall.",
+          "explanationHi": "राणा कुंभा द्वारा निर्मित कुंभलगढ़ किले (राजसमंद) की दीवार 36 किमी लंबी है, जिसे 'द ग्रेट वॉल ऑफ इंडिया' कहा जाता है।",
+          "hint": "Key knowledge regarding Rajasthan places monuments.",
+          "hintHi": "राजस्थान places monuments का महत्वपूर्ण तथ्य।",
+          "difficulty": "medium",
+          "lastVerified": "2026-01-01",
+          "examTags": [
+            "ras_prelims",
+            "rajasthan_police_si",
+            "rajasthan_patwar",
+            "reet",
+            "rsmssb"
+          ],
+          "source": {
+            "type": "pdf",
+            "collection": "rajasthan_gk",
+            "fileName": "corrected-rajasthan-gk-1-100_compress.pdf",
+            "page": 3
+          }
+        },
+        {
+          "id": "gk_raj_core_015",
+          "questionText": "Which fort in Rajasthan is perched on the Chitranga hill and is the largest fort in India?",
+          "questionTextHi": "चित्रांगद मौर्य द्वारा निर्मित भारत का सबसे विशाल किला कौन सा है?",
+          "options": [
+            "Kumbhalgarh",
+            "Chittorgarh Fort",
+            "Taragarh",
+            "Gagron Fort"
+          ],
+          "optionsHi": [
+            "कुंभलगढ़",
+            "चित्तौड़गढ़ किला",
+            "तारागढ़",
+            "गागरोन किला"
+          ],
+          "correctIndex": 1,
+          "explanation": "Chittorgarh Fort is the grandest hill fort in India, standing as a monument to Rajput chivalry and Jauhar.",
+          "explanationHi": "चित्तौड़गढ़ का किला भारत का सबसे बड़ा दुर्ग है, जिसे 'किलों का सिरमौर' भी कहा जाता है।",
+          "hint": "Key knowledge regarding Rajasthan places monuments.",
+          "hintHi": "राजस्थान places monuments का महत्वपूर्ण तथ्य।",
+          "difficulty": "medium",
+          "lastVerified": "2026-01-01",
+          "examTags": [
+            "ras_prelims",
+            "rajasthan_police_si",
+            "rajasthan_patwar",
+            "reet",
+            "rsmssb"
+          ],
+          "source": {
+            "type": "pdf",
+            "collection": "rajasthan_gk",
+            "fileName": "corrected-rajasthan-gk-1-100_compress.pdf",
+            "page": 5
+          }
+        },
+        {
+          "id": "gk_raj_extra_002",
+          "questionText": "Which temple dedicated to Jeen Mata is situated in the Aravalli hills of Rajasthan?",
+          "questionTextHi": "राजस्थान में जीण माता का प्रसिद्ध मंदिर किस जिले की अरावली पहाड़ियों में स्थित है?",
+          "options": [
+            "Jhunjhunu",
+            "Sikar",
+            "Churu",
+            "Alwar"
+          ],
+          "optionsHi": [
+            "झुंझुनूं",
+            "सीकर",
+            "चूरू",
+            "अलवर"
+          ],
+          "correctIndex": 1,
+          "explanation": "The sacred temple of Jeen Mata is situated in Rewasa, Sikar district.",
+          "explanationHi": "जीण माता का पवित्र मंदिर सीकर जिले के रेवासा गांव के पास स्थित है।",
+          "hint": "Focus on places monuments in Rajasthan.",
+          "hintHi": "राजस्थान के places monuments पर ध्यान दें।",
+          "difficulty": "medium",
+          "lastVerified": "2026-01-01",
+          "examTags": [
+            "ras_prelims",
+            "rajasthan_police",
+            "rpsc"
+          ],
+          "source": {
+            "type": "pdf",
+            "collection": "rajasthan_gk",
+            "fileName": "rajasthan-gk-questions-hindi_compress.pdf",
+            "page": 2
+          }
+        },
+        {
+          "id": "gk_raj_mon_001",
+          "questionText": "The 36-km long continuous protective perimeter wall of which fort is known as the Great Wall of India?",
+          "questionTextHi": "राजस्थान के किस किले की 36 किमी लंबी दीवार को 'द ग्रेट वॉल ऑफ इंडिया' कहा जाता है?",
+          "options": [
+            "Chittorgarh Fort",
+            "Kumbhalgarh Fort",
+            "Mehrangarh Fort",
+            "Ranthambore Fort"
+          ],
+          "optionsHi": [
+            "चित्तौड़गढ़ किला",
+            "कुंभलगढ़ किला",
+            "मेहरानगढ़ किला",
+            "रणथंभौर किला"
+          ],
+          "correctIndex": 1,
+          "explanation": "Kumbhalgarh Fort in Rajsamand, built by Rana Kumbha, features the second-longest continuous wall in the world.",
+          "explanationHi": "राणा कुंभा द्वारा निर्मित कुंभलगढ़ दुर्ग की 36 किमी लंबी प्राचीर दुनिया में चीन की दीवार के बाद दूसरी सबसे लंबी दीवार है।",
+          "hint": "Key concept under Rajasthan.",
+          "hintHi": "Rajasthan का महत्वपूर्ण तथ्य।",
+          "difficulty": "easy",
+          "lastVerified": "2026-01-01",
+          "examTags": [
+            "ras_prelims",
+            "rpsc"
+          ],
+          "source": {
+            "type": "pdf",
+            "collection": "rajasthan_gk",
+            "fileName": "corrected-rajasthan-gk-1-100_compress.pdf",
+            "page": 2
+          }
+        },
+        {
+          "id": "gk_raj_mon_002",
+          "questionText": "Taragarh Fort (Star Fort), commanding the historic city of Ajmer, was built on which hill?",
+          "questionTextHi": "अजमेर में स्थित प्रसिद्ध तारागढ़ किला किस पहाड़ी पर बना हुआ है?",
+          "options": [
+            "Bithli Hill (Garh Beetli)",
+            "Chitranga Hill",
+            "Chidiyantuk Hill",
+            "Trikuta Hill"
+          ],
+          "optionsHi": [
+            "बीठली पहाड़ी (गढ़ बीठली)",
+            "चित्रांगद पहाड़ी",
+            "चिड़ियाटूंका पहाड़ी",
+            "त्रिकूट पहाड़ी"
+          ],
+          "correctIndex": 0,
+          "explanation": "Taragarh Fort was built by Ajaypal Chauhan on Garh Beetli hill, earning it the name Garh Beetli.",
+          "explanationHi": "तारागढ़ दुर्ग का निर्माण अजयपाल चौहान ने बीठली पहाड़ी पर कराया था, इसलिए इसे 'गढ़ बीठली' भी कहते हैं।",
+          "hint": "Key concept under Rajasthan.",
+          "hintHi": "Rajasthan का महत्वपूर्ण तथ्य।",
+          "difficulty": "medium",
+          "lastVerified": "2026-01-01",
+          "examTags": [
+            "ras_prelims",
+            "rsmssb"
+          ],
+          "source": {
+            "type": "pdf",
+            "collection": "rajasthan_gk",
+            "fileName": "rajasthan-gk-questions-hindi_compress.pdf",
+            "page": 4
+          }
+        }
+      ]
+    },
+    {
+      "id": "schemes_awards",
+      "name": "State Schemes & Awards",
+      "summary": "Prominent welfare schemes, civic initiatives, and state honors of Rajasthan.",
+      "facts": [
+        {
+          "id": "rajasthan_sch_1",
+          "topicId": "rajasthan",
+          "subtopicId": "schemes_awards",
+          "title": "Key State Welfare Schemes",
+          "content": "Notable welfare initiatives and government programs: Mukhyamantri Nishulk Dawa Yojana, Bhamashah / Jan Aadhaar, Chiranjeevi Health Insurance.",
+          "lastVerified": "2026-01-01",
+          "tags": [
+            "schemes",
+            "welfare",
+            "governance"
+          ]
+        }
+      ],
+      "practiceQuestions": []
+    }
+  ],
+  "mcqCount": 36
+}

@@ -1,0 +1,56 @@
+{
+  "id": "indian_geography",
+  "name": "Indian Geography",
+  "iconName": "Compass",
+  "summary": "Physiography, Himalayan & Peninsular river basins, Monsoons, Soils, Forests, and Mineral resources.",
+  "concept": "India spans 32,87,263 sq km across the northern and eastern hemispheres. Key geographic domains include the Northern Mountains (Himalayas), Northern Plains (Indo-Gangetic), Peninsular Plateau (Deccan & Malwa), Coastal Plains, and Islands (Andaman & Nicobar, Lakshadweep). Major river systems are categorized as Himalayan (perennial) and Peninsular (rainfed).",
+  "subtopics": [
+    {
+      "id": "physiography_himalayas",
+      "name": "Physiography & Mountain Ranges",
+      "summary": "Himadri, Himachal, Shiwalik, Western Ghats, Eastern Ghats, Aravalli, Vindhya.",
+      "facts": [
+        {
+          "title": "Highest Peak in Mainland India",
+          "content": "Kangchenjunga (8,586 m) in Sikkim is the highest mountain peak in undisputed Indian territory. K2 (Godwin-Austen, 8,611m) is in Pakistan-occupied Kashmir.",
+          "tags": [
+            "himalayas",
+            "peaks"
+          ]
+        },
+        {
+          "title": "Aravalli Mountain Range",
+          "content": "The Aravalli Range running from Delhi to Gujarat is one of the oldest fold mountain systems in the world, with its highest peak at Guru Shikhar (1,722 m) in Mount Abu.",
+          "tags": [
+            "aravalli",
+            "geology"
+          ]
+        }
+      ]
+    }
+  ],
+  "mcqs": [
+    {
+      "q": "Which Indian river originates at Trimbakeshwar in Nashik and is frequently called 'Dakshin Ganga'?",
+      "o": [
+        "Godavari",
+        "Krishna",
+        "Cauvery",
+        "Mahanadi"
+      ],
+      "a": 0,
+      "exp": "The Godavari is the longest peninsular river (1,465 km) and is revered as Dakshin Ganga."
+    },
+    {
+      "q": "The southern-most point of the Indian Union territory is which geographical coordinate?",
+      "o": [
+        "Indira Point (Great Nicobar)",
+        "Kanyakumari",
+        "Rameswaram",
+        "Point Calimere"
+      ],
+      "a": 0,
+      "exp": "Indira Point at 6°45' N latitude on Great Nicobar island is India's southernmost geographical point."
+    }
+  ]
+}

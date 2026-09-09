@@ -1,0 +1,56 @@
+{
+  "id": "sports_games",
+  "name": "Sports & Games",
+  "iconName": "Award",
+  "summary": "Olympics, Asian Games, Commonwealth Games, Cricket World Cups, Trophies, and Major Dhyan Chand Khel Ratna.",
+  "concept": "Covers India's Olympic accomplishments (from K. D. Jadhav's bronze in 1952, Abhinav Bindra's shooting gold in 2008, Neeraj Chopra's javelin golds in Tokyo 2020 & World Athletics 2023), cricket achievements (1983, 2011 ODI World Cups, 2007, 2024 T20 World Cups), domestic trophies (Ranji, Duleep, Santosh, Thomas Cup), and National Sports Day on 29 August.",
+  "subtopics": [
+    {
+      "id": "olympic_achievements",
+      "name": "Olympic Records & Heroes",
+      "summary": "Individual golds, hockey dominance, athletics milestones.",
+      "facts": [
+        {
+          "title": "Neeraj Chopra Olympic Gold",
+          "content": "Neeraj Chopra won independent India's first-ever Olympic track and field gold medal in Men's Javelin Throw at Tokyo 2020 with an 87.58 m throw.",
+          "tags": [
+            "olympics",
+            "athletics"
+          ]
+        },
+        {
+          "title": "Abhinav Bindra First Individual Gold",
+          "content": "Abhinav Bindra won India's first-ever individual Olympic gold medal in the 10m Air Rifle event at Beijing 2008.",
+          "tags": [
+            "olympics",
+            "shooting"
+          ]
+        }
+      ]
+    }
+  ],
+  "mcqs": [
+    {
+      "q": "National Sports Day in India is celebrated every year on August 29 in commemoration of the birth anniversary of which legend?",
+      "o": [
+        "Major Dhyan Chand",
+        "Milkha Singh",
+        "K. D. Jadhav",
+        "Balbir Singh Sr."
+      ],
+      "a": 0,
+      "exp": "Major Dhyan Chand, the 'Wizard of Hockey', led India to Olympic gold medals in 1928, 1932, and 1936."
+    },
+    {
+      "q": "Who was the first Indian woman to win an Olympic medal?",
+      "o": [
+        "Karnam Malleswari",
+        "Mary Kom",
+        "Saina Nehwal",
+        "P. V. Sindhu"
+      ],
+      "a": 0,
+      "exp": "Weightlifter Karnam Malleswari won bronze in the 69 kg weightlifting category at the Sydney 2000 Olympics."
+    }
+  ]
+}

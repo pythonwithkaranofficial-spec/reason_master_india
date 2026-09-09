@@ -1,0 +1,276 @@
+{
+  "id": "odisha",
+  "type": "state",
+  "name": "Odisha",
+  "capital": "Bhubaneswar",
+  "formationDate": "1 April 1936",
+  "areaSqKm": 155707,
+  "districtsCount": 30,
+  "officialLanguages": [
+    "Odia (Classical Language)"
+  ],
+  "highCourt": "Orissa High Court (Cuttack)",
+  "chiefMinister": "Mohan Charan Majhi",
+  "governorOrLtGovernor": "Raghubar Das",
+  "governorTitle": "Governor",
+  "lastVerified": "2026-01-01",
+  "stateSymbols": {
+    "animal": "Sambar deer",
+    "bird": "Indian roller",
+    "flower": "Ashoka",
+    "tree": "Sacred fig (Peepal)"
+  },
+  "summary": "Originally Kalinga, whose battlefield converted Emperor Ashoka to Buddhism (261 BCE). Home to Sun Temple Konark, Jagannath Temple Puri, Chilika Lake, and Olive Ridley sea turtle nesting.",
+  "dance": "Odissi (Classical Dance), Chhau (Mayurbhanj), Gotipua, Sambalpuri",
+  "festivals": "Rath Yatra (Puri Chariot Festival), Nuakhai, Raja Parba, Bali Jatra",
+  "rivers": "Mahanadi (Hirakud Dam), Brahmani, Baitarani, Subarnarekha, Rushikulya",
+  "minerals": "Iron Ore (Mayurbhanj, Keonjhar), Bauxite (Panchpatmali), Chromite (Sukinda), Coal (Talcher)",
+  "monuments": "Konark Sun Temple (Black Pagoda, UNESCO), Jagannath Temple Puri, Lingaraj Temple, Dhauli Shanti Stupa",
+  "nationalParks": "Similipal National Park (Biosphere Reserve), Bhitarkanika National Park",
+  "schemes": "Subhadra Yojana, Biju Swasthya Kalyan Yojana, KALIA Scheme",
+  "mcqs": [
+    {
+      "q": "Which 13th-century temple in Odisha is designed as a colossal 24-wheeled chariot pulled by seven horses, known as the 'Black Pagoda'?",
+      "o": [
+        "Konark Sun Temple",
+        "Jagannath Temple Puri",
+        "Lingaraj Temple",
+        "Rajarani Temple"
+      ],
+      "a": 0,
+      "exp": "Sun Temple at Konark was built around 1250 AD by King Narasimhadeva I of the Eastern Ganga Dynasty."
+    },
+    {
+      "q": "Chilika Lake in Odisha, a designated Ramsar wetland site, is famous for which unique marine mammal species?",
+      "o": [
+        "Irrawaddy dolphin",
+        "Gangetic river dolphin",
+        "Dugong",
+        "Finless porpoise"
+      ],
+      "a": 0,
+      "exp": "Chilika Lake is the primary habitat for the endangered Irrawaddy dolphin in India."
+    }
+  ],
+  "subtopics": [
+    {
+      "id": "geography",
+      "name": "Geography",
+      "summary": "Location, borders, physical terrain, and major river systems of Odisha.",
+      "facts": [
+        {
+          "id": "odisha_geo_1",
+          "topicId": "odisha",
+          "subtopicId": "geography",
+          "title": "Capital & Geographic Scope",
+          "content": "The capital is Bhubaneswar. Odisha covers a geographic area of 155,707 sq km across 30 administrative districts.",
+          "tags": [
+            "capital",
+            "geography",
+            "area"
+          ]
+        },
+        {
+          "id": "odisha_geo_2",
+          "topicId": "odisha",
+          "subtopicId": "geography",
+          "title": "Major Rivers & Drainage Systems",
+          "content": "Key river systems flowing through the region include: Mahanadi (Hirakud Dam), Brahmani, Baitarani, Subarnarekha, Rushikulya.",
+          "tags": [
+            "rivers",
+            "water",
+            "geography"
+          ]
+        },
+        {
+          "id": "odisha_geo_3",
+          "topicId": "odisha",
+          "subtopicId": "geography",
+          "title": "Geographical Landscape & Highlights",
+          "content": "Originally Kalinga, whose battlefield converted Emperor Ashoka to Buddhism (261 BCE). Home to Sun Temple Konark, Jagannath Temple Puri, Chilika Lake, and Olive Ridley sea turtle nesting.",
+          "tags": [
+            "terrain",
+            "features"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "history_culture",
+      "name": "History & Culture",
+      "summary": "Historical formation, classical/folk dances, and vibrant festivals of Odisha.",
+      "facts": [
+        {
+          "id": "odisha_hist_1",
+          "topicId": "odisha",
+          "subtopicId": "history_culture",
+          "title": "State Formation & Language",
+          "content": "Odisha was formally instituted on 1 April 1936. Official language(s): Odia (Classical Language).",
+          "tags": [
+            "formation",
+            "history",
+            "languages"
+          ]
+        },
+        {
+          "id": "odisha_hist_2",
+          "topicId": "odisha",
+          "subtopicId": "history_culture",
+          "title": "Dance Forms & Traditional Arts",
+          "content": "Celebrated traditional and folk dance forms: Odissi (Classical Dance), Chhau (Mayurbhanj), Gotipua, Sambalpuri.",
+          "tags": [
+            "dance",
+            "culture",
+            "arts"
+          ]
+        },
+        {
+          "id": "odisha_hist_3",
+          "topicId": "odisha",
+          "subtopicId": "history_culture",
+          "title": "Major Festivals & Celebrations",
+          "content": "Prominent cultural festivals: Rath Yatra (Puri Chariot Festival), Nuakhai, Raja Parba, Bali Jatra.",
+          "tags": [
+            "festivals",
+            "culture"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "polity_governance",
+      "name": "Government & Polity",
+      "summary": "Constitutional leadership, administrative structure, and state symbols of Odisha.",
+      "facts": [
+        {
+          "id": "odisha_pol_1",
+          "topicId": "odisha",
+          "subtopicId": "polity_governance",
+          "title": "Governor & Constitutional Head",
+          "content": "The current Governor is Raghubar Das.",
+          "lastVerified": "2026-01-01",
+          "tags": [
+            "governor",
+            "polity",
+            "executive"
+          ]
+        },
+        {
+          "id": "odisha_pol_2",
+          "topicId": "odisha",
+          "subtopicId": "polity_governance",
+          "title": "Chief Minister & Administration",
+          "content": "The Chief Minister of Odisha is Mohan Charan Majhi.",
+          "lastVerified": "2026-01-01",
+          "tags": [
+            "chief_minister",
+            "governance"
+          ]
+        },
+        {
+          "id": "odisha_pol_3",
+          "topicId": "odisha",
+          "subtopicId": "polity_governance",
+          "title": "High Court Jurisdiction",
+          "content": "Judicial jurisdiction falls under Orissa High Court (Cuttack).",
+          "tags": [
+            "high_court",
+            "judiciary"
+          ]
+        },
+        {
+          "id": "odisha_pol_4",
+          "topicId": "odisha",
+          "subtopicId": "polity_governance",
+          "title": "Official State Symbols",
+          "content": "State Animal: Sambar deer | State Bird: Indian roller | State Flower: Ashoka | State Tree: Sacred fig (Peepal).",
+          "tags": [
+            "symbols",
+            "emblem"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "economy_agriculture",
+      "name": "Economy & Agriculture",
+      "summary": "Natural resources, minerals, industrial clusters, and agriculture in Odisha.",
+      "facts": [
+        {
+          "id": "odisha_econ_1",
+          "topicId": "odisha",
+          "subtopicId": "economy_agriculture",
+          "title": "Mineral Wealth & Natural Resources",
+          "content": "Principal minerals and resources: Iron Ore (Mayurbhanj, Keonjhar), Bauxite (Panchpatmali), Chromite (Sukinda), Coal (Talcher).",
+          "tags": [
+            "minerals",
+            "resources",
+            "economy"
+          ]
+        },
+        {
+          "id": "odisha_econ_2",
+          "topicId": "odisha",
+          "subtopicId": "economy_agriculture",
+          "title": "Economic Profile & Industries",
+          "content": "Odisha plays a vital role in India's economy through key agricultural production, manufacturing corridors, and services.",
+          "tags": [
+            "industry",
+            "agriculture"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "places_monuments",
+      "name": "Places, Monuments & Tourism",
+      "summary": "Heritage landmarks, national parks, and tourism attractions in Odisha.",
+      "facts": [
+        {
+          "id": "odisha_tour_1",
+          "topicId": "odisha",
+          "subtopicId": "places_monuments",
+          "title": "Historic Monuments & Cultural Sites",
+          "content": "Prominent monuments and heritage landmarks: Konark Sun Temple (Black Pagoda, UNESCO), Jagannath Temple Puri, Lingaraj Temple, Dhauli Shanti Stupa.",
+          "tags": [
+            "monuments",
+            "heritage",
+            "tourism"
+          ]
+        },
+        {
+          "id": "odisha_tour_2",
+          "topicId": "odisha",
+          "subtopicId": "places_monuments",
+          "title": "National Parks & Protected Areas",
+          "content": "Key protected conservation areas: Similipal National Park (Biosphere Reserve), Bhitarkanika National Park.",
+          "tags": [
+            "national_parks",
+            "wildlife",
+            "conservation"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "schemes_awards",
+      "name": "State Schemes & Awards",
+      "summary": "Prominent welfare schemes, civic initiatives, and state honors of Odisha.",
+      "facts": [
+        {
+          "id": "odisha_sch_1",
+          "topicId": "odisha",
+          "subtopicId": "schemes_awards",
+          "title": "Key State Welfare Schemes",
+          "content": "Notable welfare initiatives and government programs: Subhadra Yojana, Biju Swasthya Kalyan Yojana, KALIA Scheme.",
+          "lastVerified": "2026-01-01",
+          "tags": [
+            "schemes",
+            "welfare",
+            "governance"
+          ]
+        }
+      ]
+    }
+  ]
+}

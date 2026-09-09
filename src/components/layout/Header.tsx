@@ -19,12 +19,15 @@ import {
   NavIconSettings,
   NavIconMenu,
 } from "@/components/navigation/NavIcons";
+import { GKDomainSwitcher } from "@/components/gk/GKDomainSwitcher";
+import { MapPin, Landmark, Globe } from "lucide-react";
 
 export function Header() {
   const pathname = usePathname();
   const [isSearchOpen, setIsSearchOpen] = useState(false);
   const [isDrawerOpen, setIsDrawerOpen] = useState(false);
   const [isMac, setIsMac] = useState(false);
+  const isGK = pathname.startsWith("/gk");
 
   useEffect(() => {
     // Detect OS for shortcut indicator
@@ -42,7 +45,7 @@ export function Header() {
     return () => window.removeEventListener("keydown", handleKeyDown);
   }, []);
 
-  const navItems = [
+  const reasoningNavItems = [
     { label: "Verbal", href: "/verbal", icon: NavIconVerbal },
     { label: "Non-Verbal", href: "/nonverbal", icon: NavIconNonVerbal },
     { label: "Exams", href: "/exams", icon: NavIconExams },
@@ -50,6 +53,17 @@ export function Header() {
     { label: "Bookmarks", href: "/bookmarks", icon: NavIconBookmarks },
     { label: "Stats", href: "/stats", icon: NavIconStats },
   ];
+
+  const gkNavItems = [
+    { label: "States & UTs", href: "/gk/state", icon: MapPin },
+    { label: "Indian GK", href: "/gk/national", icon: Landmark },
+    { label: "World GK", href: "/gk/world", icon: Globe },
+    { label: "Practice", href: "/gk/practice", icon: NavIconPractice },
+    { label: "Bookmarks", href: "/gk/bookmarks", icon: NavIconBookmarks },
+    { label: "Stats", href: "/gk/stats", icon: NavIconStats },
+  ];
+
+  const navItems = isGK ? gkNavItems : reasoningNavItems;
 
   return (
     <>
@@ -78,57 +92,64 @@ export function Header() {
           }}
         >
           {/* 1. LEFT: Brand Area */}
-          <Link
-            href="/"
-            style={{
-              display: "flex",
-              alignItems: "center",
-              gap: "var(--nav-brand-gap, 0.75rem)",
-              textDecoration: "none",
-              flexShrink: 0,
-            }}
-          >
-            <Image
-              src={ASSETS.brand.logoMark.src}
-              alt={ASSETS.brand.logoMark.alt}
-              width={38}
-              height={38}
-              priority
+          <div style={{ display: "flex", alignItems: "center", gap: "var(--space-3)", flexShrink: 0 }}>
+            <Link
+              href={isGK ? "/gk" : "/"}
               style={{
-                borderRadius: "var(--radius-md)",
+                display: "flex",
+                alignItems: "center",
+                gap: "var(--nav-brand-gap, 0.75rem)",
+                textDecoration: "none",
                 flexShrink: 0,
               }}
-            />
+            >
+              <Image
+                src={ASSETS.brand.logoMark.src}
+                alt={ASSETS.brand.logoMark.alt}
+                width={38}
+                height={38}
+                priority
+                style={{
+                  borderRadius: "var(--radius-md)",
+                  flexShrink: 0,
+                }}
+              />
 
-            <div style={{ display: "flex", flexDirection: "column", minWidth: 0 }}>
-              <span
-                style={{
-                  fontFamily: "var(--font-poppins), sans-serif",
-                  fontWeight: 800,
-                  fontSize: "clamp(1.05rem, 3.5vw, 1.2rem)",
-                  lineHeight: 1.15,
-                  color: "var(--text-primary)",
-                  letterSpacing: "-0.02em",
-                  whiteSpace: "nowrap",
-                }}
-              >
-                ReasonMaster<span style={{ color: "var(--color-accent)" }}> India</span>
-              </span>
-              <span
-                className="brand-subtitle"
-                style={{
-                  fontSize: "0.68rem",
-                  color: "var(--text-muted)",
-                  fontWeight: 500,
-                  letterSpacing: "0.02em",
-                  whiteSpace: "nowrap",
-                  marginTop: "1px",
-                }}
-              >
-                64+ Competitive Exams • 19,500 MCQs
-              </span>
+              <div style={{ display: "flex", flexDirection: "column", minWidth: 0 }}>
+                <span
+                  style={{
+                    fontFamily: "var(--font-poppins), sans-serif",
+                    fontWeight: 800,
+                    fontSize: "clamp(1.05rem, 3.5vw, 1.2rem)",
+                    lineHeight: 1.15,
+                    color: "var(--text-primary)",
+                    letterSpacing: "-0.02em",
+                    whiteSpace: "nowrap",
+                  }}
+                >
+                  ReasonMaster<span style={{ color: "var(--color-accent)" }}> India</span>
+                </span>
+                <span
+                  className="brand-subtitle"
+                  style={{
+                    fontSize: "0.68rem",
+                    color: "var(--text-muted)",
+                    fontWeight: 500,
+                    letterSpacing: "0.02em",
+                    whiteSpace: "nowrap",
+                    marginTop: "1px",
+                  }}
+                >
+                  {isGK ? "36 States & UTs • 17 GK Topics • 100% Verified" : "64+ Competitive Exams • 19,500 MCQs"}
+                </span>
+              </div>
+            </Link>
+
+            {/* Top Domain Switcher */}
+            <div className="header-domain-switcher-wrap" style={{ display: "flex", alignItems: "center" }}>
+              <GKDomainSwitcher size="sm" />
             </div>
-          </Link>
+          </div>
 
           {/* 2. CENTER: Primary Navigation Links */}
           <nav

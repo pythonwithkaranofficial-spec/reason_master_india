@@ -1,0 +1,57 @@
+{
+  "id": "science_technology",
+  "name": "Science & Technology",
+  "iconName": "Zap",
+  "summary": "ISRO space missions, DRDO defense systems, nuclear energy, biotechnology, and IT.",
+  "concept": "India's scientific prowess is spearheaded by the Indian Space Research Organisation (ISRO, est. 15 Aug 1969), Defence Research and Development Organisation (DRDO, est. 1958), and Department of Atomic Energy (DAE). Major triumphs include Chandrayaan-3 landing at the Moon's South Pole (Shiv Shakti Point), Aditya-L1 solar observatory, Agni-V ICBM, and the indigenous Tejas fighter aircraft.",
+  "subtopics": [
+    {
+      "id": "isro_missions",
+      "name": "ISRO Space Missions",
+      "summary": "Chandrayaan, Gaganyaan, Aditya-L1, PSLV, LVM3.",
+      "facts": [
+        {
+          "title": "Chandrayaan-3 Historic Moon Landing",
+          "content": "On 23 August 2023, ISRO's Chandrayaan-3 lander Vikram touched down successfully near the lunar South Pole. The landing spot was christened 'Shiv Shakti Point', and August 23 was declared National Space Day.",
+          "lastVerified": "2026-01-01",
+          "tags": [
+            "isro",
+            "chandrayaan"
+          ]
+        },
+        {
+          "title": "First Indian Satellite Aryabhata",
+          "content": "Launched on 19 April 1975 using a Soviet Kosmos-3M launch vehicle, named after ancient Indian mathematician-astronomer Aryabhata.",
+          "tags": [
+            "satellites",
+            "isro"
+          ]
+        }
+      ]
+    }
+  ],
+  "mcqs": [
+    {
+      "q": "On which date is National Space Day celebrated annually in India to commemorate the Chandrayaan-3 lunar landing?",
+      "o": [
+        "23 August",
+        "15 August",
+        "28 February",
+        "4 October"
+      ],
+      "a": 0,
+      "exp": "Prime Minister Narendra Modi announced 23 August as National Space Day following the historic touchdown of Vikram lander near the Moon's south pole."
+    },
+    {
+      "q": "Where is the headquarters of the Indian Space Research Organisation (ISRO) located?",
+      "o": [
+        "Bengaluru",
+        "Hyderabad",
+        "Thiruvananthapuram",
+        "Ahmedabad"
+      ],
+      "a": 0,
+      "exp": "ISRO headquarters (Antariksh Bhavan) is located in Bengaluru, Karnataka."
+    }
+  ]
+}

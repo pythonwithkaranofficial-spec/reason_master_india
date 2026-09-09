@@ -1,0 +1,276 @@
+{
+  "id": "maharashtra",
+  "type": "state",
+  "name": "Maharashtra",
+  "capital": "Mumbai (Summer), Nagpur (Winter)",
+  "formationDate": "1 May 1960",
+  "areaSqKm": 307713,
+  "districtsCount": 36,
+  "officialLanguages": [
+    "Marathi (Classical Language)"
+  ],
+  "highCourt": "Bombay High Court (Mumbai)",
+  "chiefMinister": "Devendra Fadnavis",
+  "governorOrLtGovernor": "C. P. Radhakrishnan",
+  "governorTitle": "Governor",
+  "lastVerified": "2026-01-01",
+  "stateSymbols": {
+    "animal": "Indian giant squirrel (Shekru)",
+    "bird": "Yellow-footed green pigeon (Hariyal)",
+    "flower": "Jarul (Pride of India)",
+    "tree": "Mango"
+  },
+  "summary": "India's largest state economy. Mumbai is India's financial capital. Home to the Maratha Empire under Chhatrapati Shivaji Maharaj, Ajanta & Ellora caves, and Lonar impact crater lake.",
+  "dance": "Lavani, Koli dance, Dhangari Gaja, Lezim, Povada",
+  "festivals": "Ganeshotsav (celebrated grandly statewide), Gudi Padwa, Pola",
+  "rivers": "Godavari (Trimbakeshwar), Krishna (Mahabaleshwar), Bhima, Tapi, Wainganga",
+  "minerals": "Coal (Nagpur-Chandrapur), Manganese, Bauxite, Iron Ore",
+  "monuments": "Ajanta Caves (UNESCO), Ellora Caves (UNESCO, Kailash Temple), Gateway of India, CSMT Railway Terminus, Raigad Fort",
+  "nationalParks": "Tadoba-Andhari Tiger Reserve, Sanjay Gandhi National Park, Chandoli, Gugamal, Navegaon",
+  "schemes": "Mukhyamantri Majhi Ladki Bahin Yojana, Lek Ladki Yojana, Jalyukt Shivar Abhiyan",
+  "mcqs": [
+    {
+      "q": "The monolithic rock-cut Kailash Temple (Cave 16), carved from a single basalt cliff face top-down, is at which UNESCO site in Maharashtra?",
+      "o": [
+        "Ellora Caves",
+        "Ajanta Caves",
+        "Elephanta Caves",
+        "Kanheri Caves"
+      ],
+      "a": 0,
+      "exp": "Cave 16 (Kailash Temple) at Ellora was built in the 8th century by Rashtrakuta King Krishna I."
+    },
+    {
+      "q": "Which unique natural hyper-velocity meteorite impact crater lake in basaltic rock is located in Maharashtra?",
+      "o": [
+        "Lonar Lake",
+        "Venna Lake",
+        "Pashan Lake",
+        "Rankala Lake"
+      ],
+      "a": 0,
+      "exp": "Lonar Lake in Buldhana district was created by an astronomical meteorite collision during the Pleistocene Epoch."
+    }
+  ],
+  "subtopics": [
+    {
+      "id": "geography",
+      "name": "Geography",
+      "summary": "Location, borders, physical terrain, and major river systems of Maharashtra.",
+      "facts": [
+        {
+          "id": "maharashtra_geo_1",
+          "topicId": "maharashtra",
+          "subtopicId": "geography",
+          "title": "Capital & Geographic Scope",
+          "content": "The capital is Mumbai (Summer), Nagpur (Winter). Maharashtra covers a geographic area of 307,713 sq km across 36 administrative districts.",
+          "tags": [
+            "capital",
+            "geography",
+            "area"
+          ]
+        },
+        {
+          "id": "maharashtra_geo_2",
+          "topicId": "maharashtra",
+          "subtopicId": "geography",
+          "title": "Major Rivers & Drainage Systems",
+          "content": "Key river systems flowing through the region include: Godavari (Trimbakeshwar), Krishna (Mahabaleshwar), Bhima, Tapi, Wainganga.",
+          "tags": [
+            "rivers",
+            "water",
+            "geography"
+          ]
+        },
+        {
+          "id": "maharashtra_geo_3",
+          "topicId": "maharashtra",
+          "subtopicId": "geography",
+          "title": "Geographical Landscape & Highlights",
+          "content": "India's largest state economy. Mumbai is India's financial capital. Home to the Maratha Empire under Chhatrapati Shivaji Maharaj, Ajanta & Ellora caves, and Lonar impact crater lake.",
+          "tags": [
+            "terrain",
+            "features"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "history_culture",
+      "name": "History & Culture",
+      "summary": "Historical formation, classical/folk dances, and vibrant festivals of Maharashtra.",
+      "facts": [
+        {
+          "id": "maharashtra_hist_1",
+          "topicId": "maharashtra",
+          "subtopicId": "history_culture",
+          "title": "State Formation & Language",
+          "content": "Maharashtra was formally instituted on 1 May 1960. Official language(s): Marathi (Classical Language).",
+          "tags": [
+            "formation",
+            "history",
+            "languages"
+          ]
+        },
+        {
+          "id": "maharashtra_hist_2",
+          "topicId": "maharashtra",
+          "subtopicId": "history_culture",
+          "title": "Dance Forms & Traditional Arts",
+          "content": "Celebrated traditional and folk dance forms: Lavani, Koli dance, Dhangari Gaja, Lezim, Povada.",
+          "tags": [
+            "dance",
+            "culture",
+            "arts"
+          ]
+        },
+        {
+          "id": "maharashtra_hist_3",
+          "topicId": "maharashtra",
+          "subtopicId": "history_culture",
+          "title": "Major Festivals & Celebrations",
+          "content": "Prominent cultural festivals: Ganeshotsav (celebrated grandly statewide), Gudi Padwa, Pola.",
+          "tags": [
+            "festivals",
+            "culture"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "polity_governance",
+      "name": "Government & Polity",
+      "summary": "Constitutional leadership, administrative structure, and state symbols of Maharashtra.",
+      "facts": [
+        {
+          "id": "maharashtra_pol_1",
+          "topicId": "maharashtra",
+          "subtopicId": "polity_governance",
+          "title": "Governor & Constitutional Head",
+          "content": "The current Governor is C. P. Radhakrishnan.",
+          "lastVerified": "2026-01-01",
+          "tags": [
+            "governor",
+            "polity",
+            "executive"
+          ]
+        },
+        {
+          "id": "maharashtra_pol_2",
+          "topicId": "maharashtra",
+          "subtopicId": "polity_governance",
+          "title": "Chief Minister & Administration",
+          "content": "The Chief Minister of Maharashtra is Devendra Fadnavis.",
+          "lastVerified": "2026-01-01",
+          "tags": [
+            "chief_minister",
+            "governance"
+          ]
+        },
+        {
+          "id": "maharashtra_pol_3",
+          "topicId": "maharashtra",
+          "subtopicId": "polity_governance",
+          "title": "High Court Jurisdiction",
+          "content": "Judicial jurisdiction falls under Bombay High Court (Mumbai).",
+          "tags": [
+            "high_court",
+            "judiciary"
+          ]
+        },
+        {
+          "id": "maharashtra_pol_4",
+          "topicId": "maharashtra",
+          "subtopicId": "polity_governance",
+          "title": "Official State Symbols",
+          "content": "State Animal: Indian giant squirrel (Shekru) | State Bird: Yellow-footed green pigeon (Hariyal) | State Flower: Jarul (Pride of India) | State Tree: Mango.",
+          "tags": [
+            "symbols",
+            "emblem"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "economy_agriculture",
+      "name": "Economy & Agriculture",
+      "summary": "Natural resources, minerals, industrial clusters, and agriculture in Maharashtra.",
+      "facts": [
+        {
+          "id": "maharashtra_econ_1",
+          "topicId": "maharashtra",
+          "subtopicId": "economy_agriculture",
+          "title": "Mineral Wealth & Natural Resources",
+          "content": "Principal minerals and resources: Coal (Nagpur-Chandrapur), Manganese, Bauxite, Iron Ore.",
+          "tags": [
+            "minerals",
+            "resources",
+            "economy"
+          ]
+        },
+        {
+          "id": "maharashtra_econ_2",
+          "topicId": "maharashtra",
+          "subtopicId": "economy_agriculture",
+          "title": "Economic Profile & Industries",
+          "content": "Maharashtra plays a vital role in India's economy through key agricultural production, manufacturing corridors, and services.",
+          "tags": [
+            "industry",
+            "agriculture"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "places_monuments",
+      "name": "Places, Monuments & Tourism",
+      "summary": "Heritage landmarks, national parks, and tourism attractions in Maharashtra.",
+      "facts": [
+        {
+          "id": "maharashtra_tour_1",
+          "topicId": "maharashtra",
+          "subtopicId": "places_monuments",
+          "title": "Historic Monuments & Cultural Sites",
+          "content": "Prominent monuments and heritage landmarks: Ajanta Caves (UNESCO), Ellora Caves (UNESCO, Kailash Temple), Gateway of India, CSMT Railway Terminus, Raigad Fort.",
+          "tags": [
+            "monuments",
+            "heritage",
+            "tourism"
+          ]
+        },
+        {
+          "id": "maharashtra_tour_2",
+          "topicId": "maharashtra",
+          "subtopicId": "places_monuments",
+          "title": "National Parks & Protected Areas",
+          "content": "Key protected conservation areas: Tadoba-Andhari Tiger Reserve, Sanjay Gandhi National Park, Chandoli, Gugamal, Navegaon.",
+          "tags": [
+            "national_parks",
+            "wildlife",
+            "conservation"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "schemes_awards",
+      "name": "State Schemes & Awards",
+      "summary": "Prominent welfare schemes, civic initiatives, and state honors of Maharashtra.",
+      "facts": [
+        {
+          "id": "maharashtra_sch_1",
+          "topicId": "maharashtra",
+          "subtopicId": "schemes_awards",
+          "title": "Key State Welfare Schemes",
+          "content": "Notable welfare initiatives and government programs: Mukhyamantri Majhi Ladki Bahin Yojana, Lek Ladki Yojana, Jalyukt Shivar Abhiyan.",
+          "lastVerified": "2026-01-01",
+          "tags": [
+            "schemes",
+            "welfare",
+            "governance"
+          ]
+        }
+      ]
+    }
+  ]
+}

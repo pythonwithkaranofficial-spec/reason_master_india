@@ -1,0 +1,56 @@
+{
+  "id": "international_organizations",
+  "name": "International Organizations",
+  "iconName": "Shield",
+  "summary": "United Nations and agencies, Bretton Woods institutions (IMF, World Bank), WTO, G20, BRICS, and ASEAN.",
+  "concept": "Focuses on multilateral institutions governing international law, trade, and geopolitics. United Nations (founded 24 Oct 1945, New York HQ), International Court of Justice (The Hague), WHO (Geneva), UNESCO (Paris), IMF and World Bank (Washington D.C.), WTO (Geneva), BRICS (Brazil, Russia, India, China, South Africa + new members), ASEAN (Jakarta), and SAARC (Kathmandu).",
+  "subtopics": [
+    {
+      "id": "united_nations_system",
+      "name": "United Nations & Global Agencies",
+      "summary": "Founding, Charter, General Assembly, Security Council, specialised agencies.",
+      "facts": [
+        {
+          "title": "United Nations Foundation (1945)",
+          "content": "The UN Charter was signed on 26 June 1945 in San Francisco and entered into force on 24 October 1945. India was among the original 51 founding member signatories.",
+          "tags": [
+            "un",
+            "history"
+          ]
+        },
+        {
+          "title": "International Court of Justice (ICJ)",
+          "content": "Principal judicial organ of the UN, seated at the Peace Palace in The Hague, Netherlands (unlike other major UN organs in New York).",
+          "tags": [
+            "icj",
+            "law"
+          ]
+        }
+      ]
+    }
+  ],
+  "mcqs": [
+    {
+      "q": "Where is the permanent headquarters of the World Health Organization (WHO) situated?",
+      "o": [
+        "Geneva, Switzerland",
+        "Paris, France",
+        "New York, USA",
+        "Vienna, Austria"
+      ],
+      "a": 0,
+      "exp": "The WHO was established on 7 April 1948 and is headquartered in Geneva, Switzerland."
+    },
+    {
+      "q": "Where is the secretariat of the South Asian Association for Regional Cooperation (SAARC) permanently based?",
+      "o": [
+        "Kathmandu, Nepal",
+        "New Delhi, India",
+        "Dhaka, Bangladesh",
+        "Colombo, Sri Lanka"
+      ],
+      "a": 0,
+      "exp": "The SAARC Secretariat was inaugurated in Kathmandu on 16 January 1987 by King Birendra Bir Bikram Shah Dev."
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "awards_honours",
+  "name": "Awards & Honours",
+  "iconName": "Award",
+  "summary": "Civilian awards (Bharat Ratna, Padma), Gallantry awards, Literary, Cinema, and Sports honours.",
+  "concept": "Covers highest civilian honours (Bharat Ratna instituted 1954, first awarded to C. Rajagopalachari, S. Radhakrishnan, C. V. Raman), Padma Vibhushan, Padma Bhushan, Padma Shri, wartime gallantry (Param Vir Chakra, Maha Vir Chakra, Vir Chakra), peacetime gallantry (Ashoka Chakra, Kirti Chakra, Shaurya Chakra), and cultural honours (Dadasaheb Phalke, Jnanpith).",
+  "subtopics": [
+    {
+      "id": "civilian_awards",
+      "name": "Civilian Honours & Bharat Ratna",
+      "summary": "Bharat Ratna order of precedence, recipients, regulations.",
+      "facts": [
+        {
+          "title": "First Bharat Ratna Recipients (1954)",
+          "content": "Awarded to scholar-statesman C. Rajagopalachari, philosopher-president Dr. S. Radhakrishnan, and Nobel laureate physicist Dr. C. V. Raman.",
+          "tags": [
+            "bharat_ratna",
+            "civilian"
+          ]
+        },
+        {
+          "title": "Foreign Recipients of Bharat Ratna",
+          "content": "Only two non-Indian citizens have received the Bharat Ratna: Khan Abdul Ghaffar Khan (1987) and Nelson Mandela (1990).",
+          "tags": [
+            "bharat_ratna",
+            "international"
+          ]
+        }
+      ]
+    }
+  ],
+  "mcqs": [
+    {
+      "q": "What is the highest wartime military gallantry decoration awarded in the Republic of India?",
+      "o": [
+        "Param Vir Chakra",
+        "Maha Vir Chakra",
+        "Ashoka Chakra",
+        "Kirti Chakra"
+      ],
+      "a": 0,
+      "exp": "The Param Vir Chakra (PVC) is India's highest military decoration for most conspicuous bravery in the presence of the enemy. Major Somnath Sharma was its first recipient."
+    },
+    {
+      "q": "Who was the first recipient of the prestigious Dadasaheb Phalke Award, India's highest cinema honor, in 1969?",
+      "o": [
+        "Devika Rani",
+        "Prithviraj Kapoor",
+        "Satyajit Ray",
+        "Lata Mangeshkar"
+      ],
+      "a": 0,
+      "exp": "Actress Devika Rani, widely regarded as the 'First Lady of Indian Cinema', received the inaugural award in 1969."
+    }
+  ]
+}

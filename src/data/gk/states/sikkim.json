@@ -1,0 +1,279 @@
+{
+  "id": "sikkim",
+  "type": "state",
+  "name": "Sikkim",
+  "capital": "Gangtok",
+  "formationDate": "16 May 1975",
+  "areaSqKm": 7096,
+  "districtsCount": 6,
+  "officialLanguages": [
+    "English",
+    "Nepali",
+    "Bhutia",
+    "Lepcha"
+  ],
+  "highCourt": "High Court of Sikkim (Gangtok)",
+  "chiefMinister": "Prem Singh Tamang (Golay)",
+  "governorOrLtGovernor": "Om Prakash Mathur",
+  "governorTitle": "Governor",
+  "lastVerified": "2026-01-01",
+  "stateSymbols": {
+    "animal": "Red panda",
+    "bird": "Blood pheasant",
+    "flower": "Noble dendrobium",
+    "tree": "Rhododendron"
+  },
+  "summary": "India's first 100% organic state. Home to Mount Kangchenjunga (8,586m, India's highest peak). Joined the Indian Union via the 36th Constitutional Amendment Act 1975.",
+  "dance": "Singhi Chham (Snow Lion dance), Maruni, Rechungma",
+  "festivals": "Losoong, Pang Lhabsol, Saga Dawa",
+  "rivers": "Teesta (Lifeline of Sikkim), Rangit",
+  "minerals": "Copper, Lead, Zinc, Dolomite",
+  "monuments": "Rumtek Monastery, Pemayangtse Monastery, Nathu La Pass (historic Silk Route to Tibet)",
+  "nationalParks": "Khangchendzonga National Park (India's ONLY Mixed World Heritage Site on UNESCO list)",
+  "schemes": "One Family One Job Scheme, Aama Yojana, Vatsalya Scheme",
+  "mcqs": [
+    {
+      "q": "Which national park in Sikkim holds the rare distinction of being India's first and only 'Mixed' UNESCO World Heritage Site?",
+      "o": [
+        "Khangchendzonga National Park",
+        "Nanda Devi National Park",
+        "Valley of Flowers",
+        "Manas National Park"
+      ],
+      "a": 0,
+      "exp": "Khangchendzonga National Park was inscribed in 2016 under both natural and cultural criteria."
+    },
+    {
+      "q": "Through which amendment to the Indian Constitution did Sikkim officially become the 22nd state of the Indian Union in 1975?",
+      "o": [
+        "36th Amendment Act",
+        "35th Amendment Act",
+        "42nd Amendment Act",
+        "44th Amendment Act"
+      ],
+      "a": 0,
+      "exp": "The 36th Constitutional Amendment Act, 1975 made Sikkim a full-fledged 22nd state of India."
+    }
+  ],
+  "subtopics": [
+    {
+      "id": "geography",
+      "name": "Geography",
+      "summary": "Location, borders, physical terrain, and major river systems of Sikkim.",
+      "facts": [
+        {
+          "id": "sikkim_geo_1",
+          "topicId": "sikkim",
+          "subtopicId": "geography",
+          "title": "Capital & Geographic Scope",
+          "content": "The capital is Gangtok. Sikkim covers a geographic area of 7,096 sq km across 6 administrative districts.",
+          "tags": [
+            "capital",
+            "geography",
+            "area"
+          ]
+        },
+        {
+          "id": "sikkim_geo_2",
+          "topicId": "sikkim",
+          "subtopicId": "geography",
+          "title": "Major Rivers & Drainage Systems",
+          "content": "Key river systems flowing through the region include: Teesta (Lifeline of Sikkim), Rangit.",
+          "tags": [
+            "rivers",
+            "water",
+            "geography"
+          ]
+        },
+        {
+          "id": "sikkim_geo_3",
+          "topicId": "sikkim",
+          "subtopicId": "geography",
+          "title": "Geographical Landscape & Highlights",
+          "content": "India's first 100% organic state. Home to Mount Kangchenjunga (8,586m, India's highest peak). Joined the Indian Union via the 36th Constitutional Amendment Act 1975.",
+          "tags": [
+            "terrain",
+            "features"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "history_culture",
+      "name": "History & Culture",
+      "summary": "Historical formation, classical/folk dances, and vibrant festivals of Sikkim.",
+      "facts": [
+        {
+          "id": "sikkim_hist_1",
+          "topicId": "sikkim",
+          "subtopicId": "history_culture",
+          "title": "State Formation & Language",
+          "content": "Sikkim was formally instituted on 16 May 1975. Official language(s): English, Nepali, Bhutia, Lepcha.",
+          "tags": [
+            "formation",
+            "history",
+            "languages"
+          ]
+        },
+        {
+          "id": "sikkim_hist_2",
+          "topicId": "sikkim",
+          "subtopicId": "history_culture",
+          "title": "Dance Forms & Traditional Arts",
+          "content": "Celebrated traditional and folk dance forms: Singhi Chham (Snow Lion dance), Maruni, Rechungma.",
+          "tags": [
+            "dance",
+            "culture",
+            "arts"
+          ]
+        },
+        {
+          "id": "sikkim_hist_3",
+          "topicId": "sikkim",
+          "subtopicId": "history_culture",
+          "title": "Major Festivals & Celebrations",
+          "content": "Prominent cultural festivals: Losoong, Pang Lhabsol, Saga Dawa.",
+          "tags": [
+            "festivals",
+            "culture"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "polity_governance",
+      "name": "Government & Polity",
+      "summary": "Constitutional leadership, administrative structure, and state symbols of Sikkim.",
+      "facts": [
+        {
+          "id": "sikkim_pol_1",
+          "topicId": "sikkim",
+          "subtopicId": "polity_governance",
+          "title": "Governor & Constitutional Head",
+          "content": "The current Governor is Om Prakash Mathur.",
+          "lastVerified": "2026-01-01",
+          "tags": [
+            "governor",
+            "polity",
+            "executive"
+          ]
+        },
+        {
+          "id": "sikkim_pol_2",
+          "topicId": "sikkim",
+          "subtopicId": "polity_governance",
+          "title": "Chief Minister & Administration",
+          "content": "The Chief Minister of Sikkim is Prem Singh Tamang (Golay).",
+          "lastVerified": "2026-01-01",
+          "tags": [
+            "chief_minister",
+            "governance"
+          ]
+        },
+        {
+          "id": "sikkim_pol_3",
+          "topicId": "sikkim",
+          "subtopicId": "polity_governance",
+          "title": "High Court Jurisdiction",
+          "content": "Judicial jurisdiction falls under High Court of Sikkim (Gangtok).",
+          "tags": [
+            "high_court",
+            "judiciary"
+          ]
+        },
+        {
+          "id": "sikkim_pol_4",
+          "topicId": "sikkim",
+          "subtopicId": "polity_governance",
+          "title": "Official State Symbols",
+          "content": "State Animal: Red panda | State Bird: Blood pheasant | State Flower: Noble dendrobium | State Tree: Rhododendron.",
+          "tags": [
+            "symbols",
+            "emblem"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "economy_agriculture",
+      "name": "Economy & Agriculture",
+      "summary": "Natural resources, minerals, industrial clusters, and agriculture in Sikkim.",
+      "facts": [
+        {
+          "id": "sikkim_econ_1",
+          "topicId": "sikkim",
+          "subtopicId": "economy_agriculture",
+          "title": "Mineral Wealth & Natural Resources",
+          "content": "Principal minerals and resources: Copper, Lead, Zinc, Dolomite.",
+          "tags": [
+            "minerals",
+            "resources",
+            "economy"
+          ]
+        },
+        {
+          "id": "sikkim_econ_2",
+          "topicId": "sikkim",
+          "subtopicId": "economy_agriculture",
+          "title": "Economic Profile & Industries",
+          "content": "Sikkim plays a vital role in India's economy through key agricultural production, manufacturing corridors, and services.",
+          "tags": [
+            "industry",
+            "agriculture"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "places_monuments",
+      "name": "Places, Monuments & Tourism",
+      "summary": "Heritage landmarks, national parks, and tourism attractions in Sikkim.",
+      "facts": [
+        {
+          "id": "sikkim_tour_1",
+          "topicId": "sikkim",
+          "subtopicId": "places_monuments",
+          "title": "Historic Monuments & Cultural Sites",
+          "content": "Prominent monuments and heritage landmarks: Rumtek Monastery, Pemayangtse Monastery, Nathu La Pass (historic Silk Route to Tibet).",
+          "tags": [
+            "monuments",
+            "heritage",
+            "tourism"
+          ]
+        },
+        {
+          "id": "sikkim_tour_2",
+          "topicId": "sikkim",
+          "subtopicId": "places_monuments",
+          "title": "National Parks & Protected Areas",
+          "content": "Key protected conservation areas: Khangchendzonga National Park (India's ONLY Mixed World Heritage Site on UNESCO list).",
+          "tags": [
+            "national_parks",
+            "wildlife",
+            "conservation"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "schemes_awards",
+      "name": "State Schemes & Awards",
+      "summary": "Prominent welfare schemes, civic initiatives, and state honors of Sikkim.",
+      "facts": [
+        {
+          "id": "sikkim_sch_1",
+          "topicId": "sikkim",
+          "subtopicId": "schemes_awards",
+          "title": "Key State Welfare Schemes",
+          "content": "Notable welfare initiatives and government programs: One Family One Job Scheme, Aama Yojana, Vatsalya Scheme.",
+          "lastVerified": "2026-01-01",
+          "tags": [
+            "schemes",
+            "welfare",
+            "governance"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "world_sports",
+  "name": "World Sports & Tournaments",
+  "iconName": "Award",
+  "summary": "Olympic Games history, FIFA World Cup, ICC Cricket World Cup, Grand Slam Tennis, and world championship records.",
+  "concept": "Chronicles the history of international sports: Modern Olympic Games (revived 1896 in Athens by Pierre de Coubertin), FIFA World Cup (first held in Uruguay in 1930), ICC Cricket World Cups, Grand Slam tennis tournaments in chronological order (Australian Open, French Open / Roland Garros, Wimbledon - oldest, 1877, US Open), and Formula One.",
+  "subtopics": [
+    {
+      "id": "major_tournaments",
+      "name": "Global Tournaments & Milestones",
+      "summary": "Olympics, FIFA World Cup, Tennis Grand Slams.",
+      "facts": [
+        {
+          "title": "Modern Olympic Games Revival (1896)",
+          "content": "The first modern international Olympic Games were held in Athens, Greece, in April 1896, revived under the initiative of French baron Pierre de Coubertin.",
+          "tags": [
+            "olympics",
+            "history"
+          ]
+        },
+        {
+          "title": "Four Grand Slam Tennis Tournaments",
+          "content": "The four Grand Slam (Major) tournaments are played in chronological sequence: Australian Open (Hard court, Jan), French Open (Clay court, May-June), Wimbledon (Grass court, July), US Open (Hard court, Aug-Sept).",
+          "tags": [
+            "tennis",
+            "grand_slam"
+          ]
+        }
+      ]
+    }
+  ],
+  "mcqs": [
+    {
+      "q": "Which is the oldest tennis tournament in the world, founded in 1877 and played exclusively on traditional outdoor grass courts?",
+      "o": [
+        "Wimbledon Championships",
+        "Australian Open",
+        "French Open",
+        "US Open"
+      ],
+      "a": 0,
+      "exp": "The Championships, Wimbledon, was founded at the All England Club in London in 1877."
+    },
+    {
+      "q": "Which South American nation hosted and won the inaugural FIFA Football World Cup tournament in 1930?",
+      "o": [
+        "Uruguay",
+        "Brazil",
+        "Argentina",
+        "Chile"
+      ],
+      "a": 0,
+      "exp": "Uruguay hosted the first FIFA World Cup in Montevideo in 1930 and defeated Argentina 4-2 in the final."
+    }
+  ]
+}

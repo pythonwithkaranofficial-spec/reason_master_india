@@ -1,0 +1,264 @@
+{
+  "id": "andaman_and_nicobar",
+  "type": "ut",
+  "name": "Andaman and Nicobar Islands",
+  "capital": "Port Blair (Sri Vijaya Puram)",
+  "formationDate": "1 November 1956",
+  "areaSqKm": 8249,
+  "districtsCount": 3,
+  "officialLanguages": [
+    "Hindi",
+    "English"
+  ],
+  "highCourt": "Calcutta High Court (Port Blair Circuit Bench)",
+  "governorOrLtGovernor": "Admiral D. K. Joshi",
+  "governorTitle": "Lieutenant Governor",
+  "lastVerified": "2026-01-01",
+  "stateSymbols": {
+    "animal": "Dugong (Sea cow)",
+    "bird": "Andaman wood pigeon",
+    "flower": "Andaman pyinma",
+    "tree": "Andaman padauk"
+  },
+  "summary": "Archipelago of 572 islands in the Bay of Bengal and Andaman Sea. Home to the historic Cellular Jail (Kala Pani), Barren Island (South Asia's only active volcano), and indigenous tribes (Sentinelese, Jarawa, Onge, Shompen).",
+  "dance": "Nicobari Dance, Great Andamanese dance",
+  "festivals": "Island Tourism Festival, Subhash Mela",
+  "rivers": "Kalpong River (only river in Andaman, on North Andaman island)",
+  "minerals": "Limestone, Silica sand",
+  "monuments": "Cellular Jail National Memorial (Port Blair), Ross Island (Netaji Subhash Chandra Bose Dweep), Viper Island Gallows",
+  "nationalParks": "Mahatma Gandhi Marine National Park, Campbell Bay National Park, Galathea Bay, Mount Harriet (Mount Manipur)",
+  "schemes": "Andaman & Nicobar Island Integrated Development Scheme",
+  "mcqs": [
+    {
+      "q": "Where is Barren Island, the only confirmed active volcano in South Asia, located?",
+      "o": [
+        "Andaman and Nicobar Islands",
+        "Lakshadweep",
+        "Gulf of Mannar",
+        "Rann of Kutch"
+      ],
+      "a": 0,
+      "exp": "Barren Island is an active volcano in the Andaman Sea, about 138 km northeast of Port Blair."
+    },
+    {
+      "q": "The historic Cellular Jail in Port Blair, where Indian freedom fighters were exiled, was infamously known by which name?",
+      "o": [
+        "Kala Pani",
+        "Lal Qila",
+        "Mandir Jail",
+        "Tihar"
+      ],
+      "a": 0,
+      "exp": "Cellular Jail was referred to as 'Kala Pani' (Black Waters) due to its remote isolation across the ocean."
+    }
+  ],
+  "subtopics": [
+    {
+      "id": "geography",
+      "name": "Geography",
+      "summary": "Location, borders, physical terrain, and major river systems of Andaman and Nicobar Islands.",
+      "facts": [
+        {
+          "id": "andaman_and_nicobar_geo_1",
+          "topicId": "andaman_and_nicobar",
+          "subtopicId": "geography",
+          "title": "Capital & Geographic Scope",
+          "content": "The capital is Port Blair (Sri Vijaya Puram). Andaman and Nicobar Islands covers a geographic area of 8,249 sq km across 3 administrative districts.",
+          "tags": [
+            "capital",
+            "geography",
+            "area"
+          ]
+        },
+        {
+          "id": "andaman_and_nicobar_geo_2",
+          "topicId": "andaman_and_nicobar",
+          "subtopicId": "geography",
+          "title": "Major Rivers & Drainage Systems",
+          "content": "Key river systems flowing through the region include: Kalpong River (only river in Andaman, on North Andaman island).",
+          "tags": [
+            "rivers",
+            "water",
+            "geography"
+          ]
+        },
+        {
+          "id": "andaman_and_nicobar_geo_3",
+          "topicId": "andaman_and_nicobar",
+          "subtopicId": "geography",
+          "title": "Geographical Landscape & Highlights",
+          "content": "Archipelago of 572 islands in the Bay of Bengal and Andaman Sea. Home to the historic Cellular Jail (Kala Pani), Barren Island (South Asia's only active volcano), and indigenous tribes (Sentinelese, Jarawa, Onge, Shompen).",
+          "tags": [
+            "terrain",
+            "features"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "history_culture",
+      "name": "History & Culture",
+      "summary": "Historical formation, classical/folk dances, and vibrant festivals of Andaman and Nicobar Islands.",
+      "facts": [
+        {
+          "id": "andaman_and_nicobar_hist_1",
+          "topicId": "andaman_and_nicobar",
+          "subtopicId": "history_culture",
+          "title": "State Formation & Language",
+          "content": "Andaman and Nicobar Islands was formally instituted on 1 November 1956. Official language(s): Hindi, English.",
+          "tags": [
+            "formation",
+            "history",
+            "languages"
+          ]
+        },
+        {
+          "id": "andaman_and_nicobar_hist_2",
+          "topicId": "andaman_and_nicobar",
+          "subtopicId": "history_culture",
+          "title": "Dance Forms & Traditional Arts",
+          "content": "Celebrated traditional and folk dance forms: Nicobari Dance, Great Andamanese dance.",
+          "tags": [
+            "dance",
+            "culture",
+            "arts"
+          ]
+        },
+        {
+          "id": "andaman_and_nicobar_hist_3",
+          "topicId": "andaman_and_nicobar",
+          "subtopicId": "history_culture",
+          "title": "Major Festivals & Celebrations",
+          "content": "Prominent cultural festivals: Island Tourism Festival, Subhash Mela.",
+          "tags": [
+            "festivals",
+            "culture"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "polity_governance",
+      "name": "Government & Polity",
+      "summary": "Constitutional leadership, administrative structure, and state symbols of Andaman and Nicobar Islands.",
+      "facts": [
+        {
+          "id": "andaman_and_nicobar_pol_1",
+          "topicId": "andaman_and_nicobar",
+          "subtopicId": "polity_governance",
+          "title": "Lieutenant Governor & Constitutional Head",
+          "content": "The current Lieutenant Governor is Admiral D. K. Joshi.",
+          "lastVerified": "2026-01-01",
+          "tags": [
+            "governor",
+            "polity",
+            "executive"
+          ]
+        },
+        {
+          "id": "andaman_and_nicobar_pol_3",
+          "topicId": "andaman_and_nicobar",
+          "subtopicId": "polity_governance",
+          "title": "High Court Jurisdiction",
+          "content": "Judicial jurisdiction falls under Calcutta High Court (Port Blair Circuit Bench).",
+          "tags": [
+            "high_court",
+            "judiciary"
+          ]
+        },
+        {
+          "id": "andaman_and_nicobar_pol_4",
+          "topicId": "andaman_and_nicobar",
+          "subtopicId": "polity_governance",
+          "title": "Official State Symbols",
+          "content": "State Animal: Dugong (Sea cow) | State Bird: Andaman wood pigeon | State Flower: Andaman pyinma | State Tree: Andaman padauk.",
+          "tags": [
+            "symbols",
+            "emblem"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "economy_agriculture",
+      "name": "Economy & Agriculture",
+      "summary": "Natural resources, minerals, industrial clusters, and agriculture in Andaman and Nicobar Islands.",
+      "facts": [
+        {
+          "id": "andaman_and_nicobar_econ_1",
+          "topicId": "andaman_and_nicobar",
+          "subtopicId": "economy_agriculture",
+          "title": "Mineral Wealth & Natural Resources",
+          "content": "Principal minerals and resources: Limestone, Silica sand.",
+          "tags": [
+            "minerals",
+            "resources",
+            "economy"
+          ]
+        },
+        {
+          "id": "andaman_and_nicobar_econ_2",
+          "topicId": "andaman_and_nicobar",
+          "subtopicId": "economy_agriculture",
+          "title": "Economic Profile & Industries",
+          "content": "Andaman and Nicobar Islands plays a vital role in India's economy through key agricultural production, manufacturing corridors, and services.",
+          "tags": [
+            "industry",
+            "agriculture"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "places_monuments",
+      "name": "Places, Monuments & Tourism",
+      "summary": "Heritage landmarks, national parks, and tourism attractions in Andaman and Nicobar Islands.",
+      "facts": [
+        {
+          "id": "andaman_and_nicobar_tour_1",
+          "topicId": "andaman_and_nicobar",
+          "subtopicId": "places_monuments",
+          "title": "Historic Monuments & Cultural Sites",
+          "content": "Prominent monuments and heritage landmarks: Cellular Jail National Memorial (Port Blair), Ross Island (Netaji Subhash Chandra Bose Dweep), Viper Island Gallows.",
+          "tags": [
+            "monuments",
+            "heritage",
+            "tourism"
+          ]
+        },
+        {
+          "id": "andaman_and_nicobar_tour_2",
+          "topicId": "andaman_and_nicobar",
+          "subtopicId": "places_monuments",
+          "title": "National Parks & Protected Areas",
+          "content": "Key protected conservation areas: Mahatma Gandhi Marine National Park, Campbell Bay National Park, Galathea Bay, Mount Harriet (Mount Manipur).",
+          "tags": [
+            "national_parks",
+            "wildlife",
+            "conservation"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "schemes_awards",
+      "name": "State Schemes & Awards",
+      "summary": "Prominent welfare schemes, civic initiatives, and state honors of Andaman and Nicobar Islands.",
+      "facts": [
+        {
+          "id": "andaman_and_nicobar_sch_1",
+          "topicId": "andaman_and_nicobar",
+          "subtopicId": "schemes_awards",
+          "title": "Key State Welfare Schemes",
+          "content": "Notable welfare initiatives and government programs: Andaman & Nicobar Island Integrated Development Scheme.",
+          "lastVerified": "2026-01-01",
+          "tags": [
+            "schemes",
+            "welfare",
+            "governance"
+          ]
+        }
+      ]
+    }
+  ]
+}

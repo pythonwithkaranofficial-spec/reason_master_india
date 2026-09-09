@@ -1,0 +1,265 @@
+{
+  "id": "dadra_and_nagar_haveli_daman_diu",
+  "type": "ut",
+  "name": "Dadra and Nagar Haveli and Daman and Diu",
+  "capital": "Daman",
+  "formationDate": "26 January 2020",
+  "areaSqKm": 603,
+  "districtsCount": 3,
+  "officialLanguages": [
+    "Gujarati",
+    "Hindi",
+    "English"
+  ],
+  "highCourt": "Bombay High Court",
+  "governorOrLtGovernor": "Praful Patel",
+  "governorTitle": "Administrator",
+  "lastVerified": "2026-01-01",
+  "stateSymbols": {
+    "animal": "Nil",
+    "bird": "Nil",
+    "flower": "Nil",
+    "tree": "Nil"
+  },
+  "summary": "Merged on 26 January 2020 into a single Union Territory. Former Portuguese enclaves liberated in 1954 (Dadra & Nagar Haveli) and 1961 (Daman & Diu). Renowned for coastal forts and tribal culture.",
+  "dance": "Tarpa Dance (Warli tribe), Mando dance",
+  "festivals": "Nariyal Poornima, Diu Festival, Folk Dance Festival",
+  "rivers": "Daman Ganga, Kolak, Kalai",
+  "minerals": "Building stones, sand",
+  "monuments": "Moti Daman Fort, Nani Daman Fort, Diu Fort (sea-facing Portuguese citadel), Naida Caves Diu, St. Paul's Church",
+  "nationalParks": "Fudam Wildlife Sanctuary (Diu)",
+  "schemes": "PM Awas Yojana (Urban & Rural), Integrated Island Development",
+  "mcqs": [
+    {
+      "q": "Which historic sea-facing Portuguese fort in this Union Territory was besieged during the Battle of Diu in 1509 and 1538?",
+      "o": [
+        "Diu Fort",
+        "Aguada Fort",
+        "Chaul Fort",
+        "Bassein Fort"
+      ],
+      "a": 0,
+      "exp": "Diu Fort is an imposing 16th-century fortress situated on the western coast commanding the Gulf of Khambhat."
+    },
+    {
+      "q": "Tarpa dance, played with a wind instrument made from dried bottle gourd and bamboo, is celebrated by which indigenous tribe of Dadra and Nagar Haveli?",
+      "o": [
+        "Warli",
+        "Gond",
+        "Bhil",
+        "Santhal"
+      ],
+      "a": 0,
+      "exp": "The Warli and Kokna tribes perform the Tarpa dance in a circular chain holding each other around the musician."
+    }
+  ],
+  "subtopics": [
+    {
+      "id": "geography",
+      "name": "Geography",
+      "summary": "Location, borders, physical terrain, and major river systems of Dadra and Nagar Haveli and Daman and Diu.",
+      "facts": [
+        {
+          "id": "dadra_and_nagar_haveli_daman_diu_geo_1",
+          "topicId": "dadra_and_nagar_haveli_daman_diu",
+          "subtopicId": "geography",
+          "title": "Capital & Geographic Scope",
+          "content": "The capital is Daman. Dadra and Nagar Haveli and Daman and Diu covers a geographic area of 603 sq km across 3 administrative districts.",
+          "tags": [
+            "capital",
+            "geography",
+            "area"
+          ]
+        },
+        {
+          "id": "dadra_and_nagar_haveli_daman_diu_geo_2",
+          "topicId": "dadra_and_nagar_haveli_daman_diu",
+          "subtopicId": "geography",
+          "title": "Major Rivers & Drainage Systems",
+          "content": "Key river systems flowing through the region include: Daman Ganga, Kolak, Kalai.",
+          "tags": [
+            "rivers",
+            "water",
+            "geography"
+          ]
+        },
+        {
+          "id": "dadra_and_nagar_haveli_daman_diu_geo_3",
+          "topicId": "dadra_and_nagar_haveli_daman_diu",
+          "subtopicId": "geography",
+          "title": "Geographical Landscape & Highlights",
+          "content": "Merged on 26 January 2020 into a single Union Territory. Former Portuguese enclaves liberated in 1954 (Dadra & Nagar Haveli) and 1961 (Daman & Diu). Renowned for coastal forts and tribal culture.",
+          "tags": [
+            "terrain",
+            "features"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "history_culture",
+      "name": "History & Culture",
+      "summary": "Historical formation, classical/folk dances, and vibrant festivals of Dadra and Nagar Haveli and Daman and Diu.",
+      "facts": [
+        {
+          "id": "dadra_and_nagar_haveli_daman_diu_hist_1",
+          "topicId": "dadra_and_nagar_haveli_daman_diu",
+          "subtopicId": "history_culture",
+          "title": "State Formation & Language",
+          "content": "Dadra and Nagar Haveli and Daman and Diu was formally instituted on 26 January 2020. Official language(s): Gujarati, Hindi, English.",
+          "tags": [
+            "formation",
+            "history",
+            "languages"
+          ]
+        },
+        {
+          "id": "dadra_and_nagar_haveli_daman_diu_hist_2",
+          "topicId": "dadra_and_nagar_haveli_daman_diu",
+          "subtopicId": "history_culture",
+          "title": "Dance Forms & Traditional Arts",
+          "content": "Celebrated traditional and folk dance forms: Tarpa Dance (Warli tribe), Mando dance.",
+          "tags": [
+            "dance",
+            "culture",
+            "arts"
+          ]
+        },
+        {
+          "id": "dadra_and_nagar_haveli_daman_diu_hist_3",
+          "topicId": "dadra_and_nagar_haveli_daman_diu",
+          "subtopicId": "history_culture",
+          "title": "Major Festivals & Celebrations",
+          "content": "Prominent cultural festivals: Nariyal Poornima, Diu Festival, Folk Dance Festival.",
+          "tags": [
+            "festivals",
+            "culture"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "polity_governance",
+      "name": "Government & Polity",
+      "summary": "Constitutional leadership, administrative structure, and state symbols of Dadra and Nagar Haveli and Daman and Diu.",
+      "facts": [
+        {
+          "id": "dadra_and_nagar_haveli_daman_diu_pol_1",
+          "topicId": "dadra_and_nagar_haveli_daman_diu",
+          "subtopicId": "polity_governance",
+          "title": "Administrator & Constitutional Head",
+          "content": "The current Administrator is Praful Patel.",
+          "lastVerified": "2026-01-01",
+          "tags": [
+            "governor",
+            "polity",
+            "executive"
+          ]
+        },
+        {
+          "id": "dadra_and_nagar_haveli_daman_diu_pol_3",
+          "topicId": "dadra_and_nagar_haveli_daman_diu",
+          "subtopicId": "polity_governance",
+          "title": "High Court Jurisdiction",
+          "content": "Judicial jurisdiction falls under Bombay High Court.",
+          "tags": [
+            "high_court",
+            "judiciary"
+          ]
+        },
+        {
+          "id": "dadra_and_nagar_haveli_daman_diu_pol_4",
+          "topicId": "dadra_and_nagar_haveli_daman_diu",
+          "subtopicId": "polity_governance",
+          "title": "Official State Symbols",
+          "content": "State Animal: Nil | State Bird: Nil | State Flower: Nil | State Tree: Nil.",
+          "tags": [
+            "symbols",
+            "emblem"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "economy_agriculture",
+      "name": "Economy & Agriculture",
+      "summary": "Natural resources, minerals, industrial clusters, and agriculture in Dadra and Nagar Haveli and Daman and Diu.",
+      "facts": [
+        {
+          "id": "dadra_and_nagar_haveli_daman_diu_econ_1",
+          "topicId": "dadra_and_nagar_haveli_daman_diu",
+          "subtopicId": "economy_agriculture",
+          "title": "Mineral Wealth & Natural Resources",
+          "content": "Principal minerals and resources: Building stones, sand.",
+          "tags": [
+            "minerals",
+            "resources",
+            "economy"
+          ]
+        },
+        {
+          "id": "dadra_and_nagar_haveli_daman_diu_econ_2",
+          "topicId": "dadra_and_nagar_haveli_daman_diu",
+          "subtopicId": "economy_agriculture",
+          "title": "Economic Profile & Industries",
+          "content": "Dadra and Nagar Haveli and Daman and Diu plays a vital role in India's economy through key agricultural production, manufacturing corridors, and services.",
+          "tags": [
+            "industry",
+            "agriculture"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "places_monuments",
+      "name": "Places, Monuments & Tourism",
+      "summary": "Heritage landmarks, national parks, and tourism attractions in Dadra and Nagar Haveli and Daman and Diu.",
+      "facts": [
+        {
+          "id": "dadra_and_nagar_haveli_daman_diu_tour_1",
+          "topicId": "dadra_and_nagar_haveli_daman_diu",
+          "subtopicId": "places_monuments",
+          "title": "Historic Monuments & Cultural Sites",
+          "content": "Prominent monuments and heritage landmarks: Moti Daman Fort, Nani Daman Fort, Diu Fort (sea-facing Portuguese citadel), Naida Caves Diu, St. Paul's Church.",
+          "tags": [
+            "monuments",
+            "heritage",
+            "tourism"
+          ]
+        },
+        {
+          "id": "dadra_and_nagar_haveli_daman_diu_tour_2",
+          "topicId": "dadra_and_nagar_haveli_daman_diu",
+          "subtopicId": "places_monuments",
+          "title": "National Parks & Protected Areas",
+          "content": "Key protected conservation areas: Fudam Wildlife Sanctuary (Diu).",
+          "tags": [
+            "national_parks",
+            "wildlife",
+            "conservation"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "schemes_awards",
+      "name": "State Schemes & Awards",
+      "summary": "Prominent welfare schemes, civic initiatives, and state honors of Dadra and Nagar Haveli and Daman and Diu.",
+      "facts": [
+        {
+          "id": "dadra_and_nagar_haveli_daman_diu_sch_1",
+          "topicId": "dadra_and_nagar_haveli_daman_diu",
+          "subtopicId": "schemes_awards",
+          "title": "Key State Welfare Schemes",
+          "content": "Notable welfare initiatives and government programs: PM Awas Yojana (Urban & Rural), Integrated Island Development.",
+          "lastVerified": "2026-01-01",
+          "tags": [
+            "schemes",
+            "welfare",
+            "governance"
+          ]
+        }
+      ]
+    }
+  ]
+}

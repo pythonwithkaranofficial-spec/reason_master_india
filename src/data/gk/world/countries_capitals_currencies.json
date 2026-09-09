@@ -1,0 +1,57 @@
+{
+  "id": "countries_capitals_currencies",
+  "name": "Countries, Capitals & Currencies",
+  "iconName": "Compass",
+  "summary": "Global nations, their administrative capitals, national currencies, and regional blocs.",
+  "concept": "Systematic index of sovereign nations and territorial capitals across Asia, Europe, Africa, Americas, and Oceania. Commonly examined pairings include Japan (Tokyo, Yen), Russia (Moscow, Ruble), South Korea (Seoul, Won), UK (London, Pound Sterling), China (Beijing, Renminbi/Yuan), Brazil (Brasília, Real), South Africa (Pretoria/Cape Town/Bloemfontein, Rand), and Australia (Canberra, Australian Dollar).",
+  "subtopics": [
+    {
+      "id": "major_world_capitals",
+      "name": "Key Global Nations & Currencies",
+      "summary": "Major trading economies, G20 nations, and neighboring states.",
+      "facts": [
+        {
+          "title": "South Africa's Three Capital Cities",
+          "content": "South Africa has three official capitals: Pretoria (Executive/Administrative), Cape Town (Legislative), and Bloemfontein (Judicial).",
+          "tags": [
+            "capitals",
+            "africa"
+          ]
+        },
+        {
+          "title": "Eurozone Currency Area",
+          "content": "The Euro (€) is the official common currency utilized by 20 of the 27 European Union member states (Croatia joined as 20th member in Jan 2023).",
+          "lastVerified": "2026-01-01",
+          "tags": [
+            "europe",
+            "currency"
+          ]
+        }
+      ]
+    }
+  ],
+  "mcqs": [
+    {
+      "q": "What is the official capital city of Australia?",
+      "o": [
+        "Canberra",
+        "Sydney",
+        "Melbourne",
+        "Brisbane"
+      ],
+      "a": 0,
+      "exp": "Canberra was selected as the purpose-built federal capital in 1908 as a compromise between rival cities Sydney and Melbourne."
+    },
+    {
+      "q": "What is the official national currency of South Korea?",
+      "o": [
+        "South Korean Won (KRW)",
+        "Yen",
+        "Yuan",
+        "Ringgit"
+      ],
+      "a": 0,
+      "exp": "The Won (symbol: ₩) is the currency of South Korea, issued by the Bank of Korea."
+    }
+  ]
+}

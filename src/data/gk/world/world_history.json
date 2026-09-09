@@ -1,0 +1,56 @@
+{
+  "id": "world_history",
+  "name": "World History",
+  "iconName": "BookOpen",
+  "summary": "Ancient civilizations, Renaissance, French Revolution, Industrial Revolution, World Wars, and Cold War.",
+  "concept": "Covers pivotal global historical epochs: Mesopotamian, Egyptian, and Greco-Roman civilizations; the European Renaissance and Scientific Revolution; the French Revolution (1789, Liberty, Equality, Fraternity); World War I (1914-1918, Treaty of Versailles); Russian Revolution (1917, Bolsheviks); World War II (1939-1945, Pearl Harbor, Hiroshima & Nagasaki); and the Cold War & Fall of the Berlin Wall (1989).",
+  "subtopics": [
+    {
+      "id": "major_revolutions_wars",
+      "name": "Revolutions & Global Conflicts",
+      "summary": "French Revolution, World War I, World War II, Cold War.",
+      "facts": [
+        {
+          "title": "French Revolution & Human Rights (1789)",
+          "content": "Began with the storming of the Bastille on 14 July 1789, publishing the 'Declaration of the Rights of Man and of the Citizen' and popularizing 'Liberty, Equality, Fraternity'.",
+          "tags": [
+            "france",
+            "revolution"
+          ]
+        },
+        {
+          "title": "Treaty of Versailles (1919)",
+          "content": "Peace treaty signed on 28 June 1919 ending World War I between Germany and the Allied Powers, which also established the League of Nations.",
+          "tags": [
+            "ww1",
+            "treaty"
+          ]
+        }
+      ]
+    }
+  ],
+  "mcqs": [
+    {
+      "q": "On which Japanese city was the first atomic bomb ('Little Boy') dropped by the US B-29 bomber Enola Gay on 6 August 1945?",
+      "o": [
+        "Hiroshima",
+        "Nagasaki",
+        "Tokyo",
+        "Kyoto"
+      ],
+      "a": 0,
+      "exp": "The first wartime nuclear weapon was detonated over Hiroshima on 6 August 1945, followed by Nagasaki on 9 August."
+    },
+    {
+      "q": "The storming of which medieval fortress and political prison on 14 July 1789 marked the outbreak of the French Revolution?",
+      "o": [
+        "Bastille",
+        "Tuileries Palace",
+        "Versailles",
+        "Conciergerie"
+      ],
+      "a": 0,
+      "exp": "The storming of the Bastille became the defining flashpoint of the French Revolution, commemorated annually as Bastille Day."
+    }
+  ]
+}

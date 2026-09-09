@@ -1,0 +1,276 @@
+{
+  "id": "karnataka",
+  "type": "state",
+  "name": "Karnataka",
+  "capital": "Bengaluru",
+  "formationDate": "1 November 1956",
+  "areaSqKm": 191791,
+  "districtsCount": 31,
+  "officialLanguages": [
+    "Kannada (Classical Language)"
+  ],
+  "highCourt": "High Court of Karnataka (Bengaluru)",
+  "chiefMinister": "Siddaramaiah",
+  "governorOrLtGovernor": "Thawar Chand Gehlot",
+  "governorTitle": "Governor",
+  "lastVerified": "2026-01-01",
+  "stateSymbols": {
+    "animal": "Asian elephant",
+    "bird": "Indian roller",
+    "flower": "Lotus",
+    "tree": "Sandalwood"
+  },
+  "summary": "Bengaluru is India's 'Silicon Valley'. Renowned for coffee, sandalwood, ISRO headquarters, and UNESCO World Heritage Sites at Hampi, Pattadakal, and the Sacred Ensembles of the Hoysalas.",
+  "dance": "Yakshagana, Dollu Kunitha, Veeragase",
+  "festivals": "Mysuru Dasara, Karaga, Hampi Utsav, Kambala (Buffalo race)",
+  "rivers": "Cauvery, Krishna, Tungabhadra, Sharavathi (Jog Falls), Kabini",
+  "minerals": "Gold (Hutti - only active gold mine in India), Iron Ore (Kudremukh), Manganese",
+  "monuments": "Hampi Monuments (Vijayanagara), Pattadakal, Hoysala Temples (Belur, Halebidu, Somanathapura), Gol Gumbaz, Mysore Palace",
+  "nationalParks": "Bandipur National Park, Nagarhole, Bannerghatta, Kudremukh, Anshi",
+  "schemes": "Gruha Lakshmi, Yuva Nidhi, Shakthi Scheme, Anna Bhagya, Gruha Jyothi",
+  "mcqs": [
+    {
+      "q": "Which city served as the capital of the medieval Vijayanagara Empire, now a UNESCO World Heritage Site in Karnataka?",
+      "o": [
+        "Hampi",
+        "Badami",
+        "Belur",
+        "Pattadakal"
+      ],
+      "a": 0,
+      "exp": "Hampi on the banks of the Tungabhadra was the capital of the Vijayanagara Empire from 1336 to 1565 AD."
+    },
+    {
+      "q": "India's only active gold-producing mine is located in which district of Karnataka?",
+      "o": [
+        "Hutti (Raichur)",
+        "Kolar Gold Fields",
+        "Chitradurga",
+        "Ballari"
+      ],
+      "a": 0,
+      "exp": "Hutti Gold Mines in Raichur district is currently the only operational commercial gold-producing mine in India."
+    }
+  ],
+  "subtopics": [
+    {
+      "id": "geography",
+      "name": "Geography",
+      "summary": "Location, borders, physical terrain, and major river systems of Karnataka.",
+      "facts": [
+        {
+          "id": "karnataka_geo_1",
+          "topicId": "karnataka",
+          "subtopicId": "geography",
+          "title": "Capital & Geographic Scope",
+          "content": "The capital is Bengaluru. Karnataka covers a geographic area of 191,791 sq km across 31 administrative districts.",
+          "tags": [
+            "capital",
+            "geography",
+            "area"
+          ]
+        },
+        {
+          "id": "karnataka_geo_2",
+          "topicId": "karnataka",
+          "subtopicId": "geography",
+          "title": "Major Rivers & Drainage Systems",
+          "content": "Key river systems flowing through the region include: Cauvery, Krishna, Tungabhadra, Sharavathi (Jog Falls), Kabini.",
+          "tags": [
+            "rivers",
+            "water",
+            "geography"
+          ]
+        },
+        {
+          "id": "karnataka_geo_3",
+          "topicId": "karnataka",
+          "subtopicId": "geography",
+          "title": "Geographical Landscape & Highlights",
+          "content": "Bengaluru is India's 'Silicon Valley'. Renowned for coffee, sandalwood, ISRO headquarters, and UNESCO World Heritage Sites at Hampi, Pattadakal, and the Sacred Ensembles of the Hoysalas.",
+          "tags": [
+            "terrain",
+            "features"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "history_culture",
+      "name": "History & Culture",
+      "summary": "Historical formation, classical/folk dances, and vibrant festivals of Karnataka.",
+      "facts": [
+        {
+          "id": "karnataka_hist_1",
+          "topicId": "karnataka",
+          "subtopicId": "history_culture",
+          "title": "State Formation & Language",
+          "content": "Karnataka was formally instituted on 1 November 1956. Official language(s): Kannada (Classical Language).",
+          "tags": [
+            "formation",
+            "history",
+            "languages"
+          ]
+        },
+        {
+          "id": "karnataka_hist_2",
+          "topicId": "karnataka",
+          "subtopicId": "history_culture",
+          "title": "Dance Forms & Traditional Arts",
+          "content": "Celebrated traditional and folk dance forms: Yakshagana, Dollu Kunitha, Veeragase.",
+          "tags": [
+            "dance",
+            "culture",
+            "arts"
+          ]
+        },
+        {
+          "id": "karnataka_hist_3",
+          "topicId": "karnataka",
+          "subtopicId": "history_culture",
+          "title": "Major Festivals & Celebrations",
+          "content": "Prominent cultural festivals: Mysuru Dasara, Karaga, Hampi Utsav, Kambala (Buffalo race).",
+          "tags": [
+            "festivals",
+            "culture"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "polity_governance",
+      "name": "Government & Polity",
+      "summary": "Constitutional leadership, administrative structure, and state symbols of Karnataka.",
+      "facts": [
+        {
+          "id": "karnataka_pol_1",
+          "topicId": "karnataka",
+          "subtopicId": "polity_governance",
+          "title": "Governor & Constitutional Head",
+          "content": "The current Governor is Thawar Chand Gehlot.",
+          "lastVerified": "2026-01-01",
+          "tags": [
+            "governor",
+            "polity",
+            "executive"
+          ]
+        },
+        {
+          "id": "karnataka_pol_2",
+          "topicId": "karnataka",
+          "subtopicId": "polity_governance",
+          "title": "Chief Minister & Administration",
+          "content": "The Chief Minister of Karnataka is Siddaramaiah.",
+          "lastVerified": "2026-01-01",
+          "tags": [
+            "chief_minister",
+            "governance"
+          ]
+        },
+        {
+          "id": "karnataka_pol_3",
+          "topicId": "karnataka",
+          "subtopicId": "polity_governance",
+          "title": "High Court Jurisdiction",
+          "content": "Judicial jurisdiction falls under High Court of Karnataka (Bengaluru).",
+          "tags": [
+            "high_court",
+            "judiciary"
+          ]
+        },
+        {
+          "id": "karnataka_pol_4",
+          "topicId": "karnataka",
+          "subtopicId": "polity_governance",
+          "title": "Official State Symbols",
+          "content": "State Animal: Asian elephant | State Bird: Indian roller | State Flower: Lotus | State Tree: Sandalwood.",
+          "tags": [
+            "symbols",
+            "emblem"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "economy_agriculture",
+      "name": "Economy & Agriculture",
+      "summary": "Natural resources, minerals, industrial clusters, and agriculture in Karnataka.",
+      "facts": [
+        {
+          "id": "karnataka_econ_1",
+          "topicId": "karnataka",
+          "subtopicId": "economy_agriculture",
+          "title": "Mineral Wealth & Natural Resources",
+          "content": "Principal minerals and resources: Gold (Hutti - only active gold mine in India), Iron Ore (Kudremukh), Manganese.",
+          "tags": [
+            "minerals",
+            "resources",
+            "economy"
+          ]
+        },
+        {
+          "id": "karnataka_econ_2",
+          "topicId": "karnataka",
+          "subtopicId": "economy_agriculture",
+          "title": "Economic Profile & Industries",
+          "content": "Karnataka plays a vital role in India's economy through key agricultural production, manufacturing corridors, and services.",
+          "tags": [
+            "industry",
+            "agriculture"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "places_monuments",
+      "name": "Places, Monuments & Tourism",
+      "summary": "Heritage landmarks, national parks, and tourism attractions in Karnataka.",
+      "facts": [
+        {
+          "id": "karnataka_tour_1",
+          "topicId": "karnataka",
+          "subtopicId": "places_monuments",
+          "title": "Historic Monuments & Cultural Sites",
+          "content": "Prominent monuments and heritage landmarks: Hampi Monuments (Vijayanagara), Pattadakal, Hoysala Temples (Belur, Halebidu, Somanathapura), Gol Gumbaz, Mysore Palace.",
+          "tags": [
+            "monuments",
+            "heritage",
+            "tourism"
+          ]
+        },
+        {
+          "id": "karnataka_tour_2",
+          "topicId": "karnataka",
+          "subtopicId": "places_monuments",
+          "title": "National Parks & Protected Areas",
+          "content": "Key protected conservation areas: Bandipur National Park, Nagarhole, Bannerghatta, Kudremukh, Anshi.",
+          "tags": [
+            "national_parks",
+            "wildlife",
+            "conservation"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "schemes_awards",
+      "name": "State Schemes & Awards",
+      "summary": "Prominent welfare schemes, civic initiatives, and state honors of Karnataka.",
+      "facts": [
+        {
+          "id": "karnataka_sch_1",
+          "topicId": "karnataka",
+          "subtopicId": "schemes_awards",
+          "title": "Key State Welfare Schemes",
+          "content": "Notable welfare initiatives and government programs: Gruha Lakshmi, Yuva Nidhi, Shakthi Scheme, Anna Bhagya, Gruha Jyothi.",
+          "lastVerified": "2026-01-01",
+          "tags": [
+            "schemes",
+            "welfare",
+            "governance"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,277 @@
+{
+  "id": "west_bengal",
+  "type": "state",
+  "name": "West Bengal",
+  "capital": "Kolkata",
+  "formationDate": "26 January 1950",
+  "areaSqKm": 88752,
+  "districtsCount": 23,
+  "officialLanguages": [
+    "Bengali (Classical Language)",
+    "English"
+  ],
+  "highCourt": "Calcutta High Court (Oldest High Court in India, est. 1862)",
+  "chiefMinister": "Mamata Banerjee",
+  "governorOrLtGovernor": "C. V. Ananda Bose",
+  "governorTitle": "Governor",
+  "lastVerified": "2026-01-01",
+  "stateSymbols": {
+    "animal": "Fishing cat",
+    "bird": "White-throated kingfisher",
+    "flower": "Night-flowering jasmine (Shephali)",
+    "tree": "Chatim tree"
+  },
+  "summary": "Cultural and intellectual heartland of modern India. Birthplace of Rabindranath Tagore, Swami Vivekananda, and Netaji Subhas Chandra Bose. Home to the Sundarbans (world's largest delta) and Darjeeling Himalayan Railway.",
+  "dance": "Chhau (Purulia), Baul singing, Brita dance, Gambhira",
+  "festivals": "Durga Puja (UNESCO Intangible Cultural Heritage), Poila Boishakh, Ganga Sagar Mela",
+  "rivers": "Hooghly (Bhagirathi-Hooghly), Teesta, Damodar, Rupnarayan, Subarnarekha",
+  "minerals": "Coal (Raniganj - India's oldest coalfield, 1774), China clay, Dolomite",
+  "monuments": "Victoria Memorial, Howrah Bridge (Rabindra Setu), Dakshineswar Kali Temple, Santiniketan (UNESCO 2023)",
+  "nationalParks": "Sundarbans National Park (UNESCO), Gorumara, Jaldapara, Singalila, Buxa",
+  "schemes": "Kanyashree Prakalpa (UN Public Service First Prize), Lakshmir Bhandar, Swasthya Sathi",
+  "mcqs": [
+    {
+      "q": "The Sundarbans delta, shared between West Bengal and Bangladesh, is the world's largest mangrove forest and home to which apex predator?",
+      "o": [
+        "Royal Bengal tiger",
+        "Snow leopard",
+        "Asiatic lion",
+        "Indian leopard"
+      ],
+      "a": 0,
+      "exp": "The Sundarbans Mangroves are formed by the confluence of Ganga, Brahmaputra, and Meghna and house the Royal Bengal Tiger."
+    },
+    {
+      "q": "Santiniketan, the university town founded by Maharshi Debendranath Tagore and expanded by Rabindranath Tagore, was inscribed as a UNESCO World Heritage Site in which year?",
+      "o": [
+        "2023",
+        "2020",
+        "2018",
+        "2015"
+      ],
+      "a": 0,
+      "exp": "Santiniketan was designated India's 41st UNESCO World Heritage Site in September 2023."
+    }
+  ],
+  "subtopics": [
+    {
+      "id": "geography",
+      "name": "Geography",
+      "summary": "Location, borders, physical terrain, and major river systems of West Bengal.",
+      "facts": [
+        {
+          "id": "west_bengal_geo_1",
+          "topicId": "west_bengal",
+          "subtopicId": "geography",
+          "title": "Capital & Geographic Scope",
+          "content": "The capital is Kolkata. West Bengal covers a geographic area of 88,752 sq km across 23 administrative districts.",
+          "tags": [
+            "capital",
+            "geography",
+            "area"
+          ]
+        },
+        {
+          "id": "west_bengal_geo_2",
+          "topicId": "west_bengal",
+          "subtopicId": "geography",
+          "title": "Major Rivers & Drainage Systems",
+          "content": "Key river systems flowing through the region include: Hooghly (Bhagirathi-Hooghly), Teesta, Damodar, Rupnarayan, Subarnarekha.",
+          "tags": [
+            "rivers",
+            "water",
+            "geography"
+          ]
+        },
+        {
+          "id": "west_bengal_geo_3",
+          "topicId": "west_bengal",
+          "subtopicId": "geography",
+          "title": "Geographical Landscape & Highlights",
+          "content": "Cultural and intellectual heartland of modern India. Birthplace of Rabindranath Tagore, Swami Vivekananda, and Netaji Subhas Chandra Bose. Home to the Sundarbans (world's largest delta) and Darjeeling Himalayan Railway.",
+          "tags": [
+            "terrain",
+            "features"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "history_culture",
+      "name": "History & Culture",
+      "summary": "Historical formation, classical/folk dances, and vibrant festivals of West Bengal.",
+      "facts": [
+        {
+          "id": "west_bengal_hist_1",
+          "topicId": "west_bengal",
+          "subtopicId": "history_culture",
+          "title": "State Formation & Language",
+          "content": "West Bengal was formally instituted on 26 January 1950. Official language(s): Bengali (Classical Language), English.",
+          "tags": [
+            "formation",
+            "history",
+            "languages"
+          ]
+        },
+        {
+          "id": "west_bengal_hist_2",
+          "topicId": "west_bengal",
+          "subtopicId": "history_culture",
+          "title": "Dance Forms & Traditional Arts",
+          "content": "Celebrated traditional and folk dance forms: Chhau (Purulia), Baul singing, Brita dance, Gambhira.",
+          "tags": [
+            "dance",
+            "culture",
+            "arts"
+          ]
+        },
+        {
+          "id": "west_bengal_hist_3",
+          "topicId": "west_bengal",
+          "subtopicId": "history_culture",
+          "title": "Major Festivals & Celebrations",
+          "content": "Prominent cultural festivals: Durga Puja (UNESCO Intangible Cultural Heritage), Poila Boishakh, Ganga Sagar Mela.",
+          "tags": [
+            "festivals",
+            "culture"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "polity_governance",
+      "name": "Government & Polity",
+      "summary": "Constitutional leadership, administrative structure, and state symbols of West Bengal.",
+      "facts": [
+        {
+          "id": "west_bengal_pol_1",
+          "topicId": "west_bengal",
+          "subtopicId": "polity_governance",
+          "title": "Governor & Constitutional Head",
+          "content": "The current Governor is C. V. Ananda Bose.",
+          "lastVerified": "2026-01-01",
+          "tags": [
+            "governor",
+            "polity",
+            "executive"
+          ]
+        },
+        {
+          "id": "west_bengal_pol_2",
+          "topicId": "west_bengal",
+          "subtopicId": "polity_governance",
+          "title": "Chief Minister & Administration",
+          "content": "The Chief Minister of West Bengal is Mamata Banerjee.",
+          "lastVerified": "2026-01-01",
+          "tags": [
+            "chief_minister",
+            "governance"
+          ]
+        },
+        {
+          "id": "west_bengal_pol_3",
+          "topicId": "west_bengal",
+          "subtopicId": "polity_governance",
+          "title": "High Court Jurisdiction",
+          "content": "Judicial jurisdiction falls under Calcutta High Court (Oldest High Court in India, est. 1862).",
+          "tags": [
+            "high_court",
+            "judiciary"
+          ]
+        },
+        {
+          "id": "west_bengal_pol_4",
+          "topicId": "west_bengal",
+          "subtopicId": "polity_governance",
+          "title": "Official State Symbols",
+          "content": "State Animal: Fishing cat | State Bird: White-throated kingfisher | State Flower: Night-flowering jasmine (Shephali) | State Tree: Chatim tree.",
+          "tags": [
+            "symbols",
+            "emblem"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "economy_agriculture",
+      "name": "Economy & Agriculture",
+      "summary": "Natural resources, minerals, industrial clusters, and agriculture in West Bengal.",
+      "facts": [
+        {
+          "id": "west_bengal_econ_1",
+          "topicId": "west_bengal",
+          "subtopicId": "economy_agriculture",
+          "title": "Mineral Wealth & Natural Resources",
+          "content": "Principal minerals and resources: Coal (Raniganj - India's oldest coalfield, 1774), China clay, Dolomite.",
+          "tags": [
+            "minerals",
+            "resources",
+            "economy"
+          ]
+        },
+        {
+          "id": "west_bengal_econ_2",
+          "topicId": "west_bengal",
+          "subtopicId": "economy_agriculture",
+          "title": "Economic Profile & Industries",
+          "content": "West Bengal plays a vital role in India's economy through key agricultural production, manufacturing corridors, and services.",
+          "tags": [
+            "industry",
+            "agriculture"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "places_monuments",
+      "name": "Places, Monuments & Tourism",
+      "summary": "Heritage landmarks, national parks, and tourism attractions in West Bengal.",
+      "facts": [
+        {
+          "id": "west_bengal_tour_1",
+          "topicId": "west_bengal",
+          "subtopicId": "places_monuments",
+          "title": "Historic Monuments & Cultural Sites",
+          "content": "Prominent monuments and heritage landmarks: Victoria Memorial, Howrah Bridge (Rabindra Setu), Dakshineswar Kali Temple, Santiniketan (UNESCO 2023).",
+          "tags": [
+            "monuments",
+            "heritage",
+            "tourism"
+          ]
+        },
+        {
+          "id": "west_bengal_tour_2",
+          "topicId": "west_bengal",
+          "subtopicId": "places_monuments",
+          "title": "National Parks & Protected Areas",
+          "content": "Key protected conservation areas: Sundarbans National Park (UNESCO), Gorumara, Jaldapara, Singalila, Buxa.",
+          "tags": [
+            "national_parks",
+            "wildlife",
+            "conservation"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "schemes_awards",
+      "name": "State Schemes & Awards",
+      "summary": "Prominent welfare schemes, civic initiatives, and state honors of West Bengal.",
+      "facts": [
+        {
+          "id": "west_bengal_sch_1",
+          "topicId": "west_bengal",
+          "subtopicId": "schemes_awards",
+          "title": "Key State Welfare Schemes",
+          "content": "Notable welfare initiatives and government programs: Kanyashree Prakalpa (UN Public Service First Prize), Lakshmir Bhandar, Swasthya Sathi.",
+          "lastVerified": "2026-01-01",
+          "tags": [
+            "schemes",
+            "welfare",
+            "governance"
+          ]
+        }
+      ]
+    }
+  ]
+}

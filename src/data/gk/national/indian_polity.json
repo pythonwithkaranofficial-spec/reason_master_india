@@ -1,0 +1,79 @@
+{
+  "id": "indian_polity",
+  "name": "Polity & Constitution",
+  "iconName": "Shield",
+  "summary": "Preamble, Fundamental Rights, Directive Principles, President, Parliament, Judiciary, and Constitutional Amendments.",
+  "concept": "The Constitution of India is the supreme law of the land, adopted on 26 November 1949 and coming into effect on 26 January 1950. Dr. B. R. Ambedkar served as Chairman of the Drafting Committee. Key topics include Articles 12-35 (Fundamental Rights), Articles 36-51 (Directive Principles), Parliament (Lok Sabha & Rajya Sabha), Emergency provisions (Articles 352, 356, 360), and Landmark Amendments.",
+  "subtopics": [
+    {
+      "id": "preamble_citizenship",
+      "name": "Preamble, Union & Citizenship",
+      "summary": "Preamble keywords, Reorganization of States, Articles 1 to 11.",
+      "facts": [
+        {
+          "title": "42nd Amendment & Preamble",
+          "content": "The 42nd Amendment Act of 1976 added the words 'Socialist', 'Secular', and 'Integrity' to the Preamble of the Indian Constitution.",
+          "tags": [
+            "preamble",
+            "amendments"
+          ]
+        },
+        {
+          "title": "Objective Resolution",
+          "content": "Jawaharlal Nehru moved the historic Objective Resolution in the Constituent Assembly on 13 December 1946, which became the Preamble.",
+          "tags": [
+            "constitution",
+            "history"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fundamental_rights",
+      "name": "Fundamental Rights & Duties",
+      "summary": "Articles 12-35 (6 Fundamental Rights), Article 32 (Writs), and Article 51A.",
+      "facts": [
+        {
+          "title": "Article 32: Heart and Soul of Constitution",
+          "content": "Dr. B. R. Ambedkar termed Article 32 (Right to Constitutional Remedies through Writs: Habeas Corpus, Mandamus, Prohibition, Certiorari, Quo-Warranto) the 'Heart and Soul' of the Constitution.",
+          "tags": [
+            "writs",
+            "rights"
+          ]
+        },
+        {
+          "title": "Fundamental Duties (Article 51A)",
+          "content": "Added by the 42nd Amendment in 1976 based on the Swaran Singh Committee recommendations. Currently 11 duties exist.",
+          "tags": [
+            "duties",
+            "constitution"
+          ]
+        }
+      ]
+    }
+  ],
+  "mcqs": [
+    {
+      "q": "Under which Article of the Indian Constitution can a citizen directly move the Supreme Court for enforcement of Fundamental Rights?",
+      "o": [
+        "Article 32",
+        "Article 226",
+        "Article 14",
+        "Article 21"
+      ],
+      "a": 0,
+      "exp": "Article 32 guarantees the right to constitutional remedies through writs."
+    },
+    {
+      "q": "Which constitutional amendment reduced the voting age in India from 21 years to 18 years for Lok Sabha and Assembly elections?",
+      "o": [
+        "61st Amendment Act, 1988",
+        "42nd Amendment Act, 1976",
+        "44th Amendment Act, 1978",
+        "73rd Amendment Act, 1992"
+      ],
+      "a": 0,
+      "exp": "The 61st Constitutional Amendment Act amended Article 326, reducing voting age from 21 to 18 years."
+    }
+  ]
+}

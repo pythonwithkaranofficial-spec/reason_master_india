@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-09-08T14:40:28.358Z",
+  "generatedAt": "2026-09-09T15:52:16.517Z",
   "totalTopics": 39,
-  "totalQuestions": 19500,
+  "totalQuestions": 26877,
   "totalWorkedExamples": 207,
-  "totalEmbeddedPracticeQuestions": 844,
+  "totalEmbeddedPracticeQuestions": 859,
   "classificationCounts": {
-    "typeA_textOnly": 12500,
-    "typeB_optionalVisual": 4000,
-    "typeC_visualRequired": 7000,
-    "typeD_existingVisualRendered": 7000,
-    "typeE_visualOptionsRequired": 3091
+    "typeA_textOnly": 18736,
+    "typeB_optionalVisual": 4611,
+    "typeC_visualRequired": 8141,
+    "typeD_existingVisualRendered": 8141,
+    "typeE_visualOptionsRequired": 3401
   },
   "byTopic": {
     "alphabet_test": {
-      "totalQuestions": 500,
+      "totalQuestions": 1324,
       "category": "verbal",
-      "typeA": 500,
+      "typeA": 1324,
       "typeB": 0,
       "typeC": 0,
       "typeD": 0,
@@ -24,9 +24,9 @@
       "embeddedPractice": 20
     },
     "analogy": {
-      "totalQuestions": 500,
+      "totalQuestions": 1048,
       "category": "verbal",
-      "typeA": 500,
+      "typeA": 1048,
       "typeB": 0,
       "typeC": 0,
       "typeD": 0,
@@ -46,9 +46,9 @@
       "embeddedPractice": 20
     },
     "analytical_reasoning": {
-      "totalQuestions": 500,
+      "totalQuestions": 615,
       "category": "verbal",
-      "typeA": 500,
+      "typeA": 615,
       "typeB": 0,
       "typeC": 0,
       "typeD": 0,
@@ -57,20 +57,20 @@
       "embeddedPractice": 20
     },
     "blood_relations": {
-      "totalQuestions": 500,
+      "totalQuestions": 708,
       "category": "verbal",
-      "typeA": 500,
-      "typeB": 500,
+      "typeA": 708,
+      "typeB": 708,
       "typeC": 0,
       "typeD": 0,
       "typeE": 0,
       "workedExamples": 7,
-      "embeddedPractice": 22
+      "embeddedPractice": 32
     },
     "cause_and_effect": {
-      "totalQuestions": 500,
+      "totalQuestions": 688,
       "category": "verbal",
-      "typeA": 500,
+      "typeA": 688,
       "typeB": 0,
       "typeC": 0,
       "typeD": 0,
@@ -79,20 +79,20 @@
       "embeddedPractice": 20
     },
     "classification": {
-      "totalQuestions": 500,
+      "totalQuestions": 1037,
       "category": "verbal",
-      "typeA": 500,
+      "typeA": 1037,
       "typeB": 0,
       "typeC": 0,
       "typeD": 0,
       "typeE": 0,
       "workedExamples": 7,
-      "embeddedPractice": 22
+      "embeddedPractice": 32
     },
     "coding_decoding": {
-      "totalQuestions": 500,
+      "totalQuestions": 747,
       "category": "verbal",
-      "typeA": 500,
+      "typeA": 747,
       "typeB": 0,
       "typeC": 0,
       "typeD": 0,
@@ -101,20 +101,20 @@
       "embeddedPractice": 40
     },
     "counting_figures": {
-      "totalQuestions": 500,
+      "totalQuestions": 640,
       "category": "nonverbal",
       "typeA": 0,
       "typeB": 0,
-      "typeC": 500,
-      "typeD": 500,
-      "typeE": 150,
+      "typeC": 640,
+      "typeD": 640,
+      "typeE": 236,
       "workedExamples": 5,
       "embeddedPractice": 20
     },
     "course_of_action": {
-      "totalQuestions": 500,
+      "totalQuestions": 565,
       "category": "verbal",
-      "typeA": 500,
+      "typeA": 565,
       "typeB": 0,
       "typeC": 0,
       "typeD": 0,
@@ -123,9 +123,9 @@
       "embeddedPractice": 20
     },
     "critical_reasoning": {
-      "totalQuestions": 500,
+      "totalQuestions": 549,
       "category": "verbal",
-      "typeA": 500,
+      "typeA": 549,
       "typeB": 0,
       "typeC": 0,
       "typeD": 0,
@@ -134,13 +134,13 @@
       "embeddedPractice": 20
     },
     "cubes_and_dice": {
-      "totalQuestions": 500,
+      "totalQuestions": 700,
       "category": "nonverbal",
       "typeA": 0,
       "typeB": 0,
-      "typeC": 500,
-      "typeD": 500,
-      "typeE": 500,
+      "typeC": 700,
+      "typeD": 700,
+      "typeE": 566,
       "workedExamples": 5,
       "embeddedPractice": 20
     },
@@ -156,10 +156,10 @@
       "embeddedPractice": 20
     },
     "direction_sense": {
-      "totalQuestions": 500,
+      "totalQuestions": 703,
       "category": "verbal",
-      "typeA": 500,
-      "typeB": 500,
+      "typeA": 703,
+      "typeB": 703,
       "typeC": 0,
       "typeD": 0,
       "typeE": 0,
@@ -167,13 +167,13 @@
       "embeddedPractice": 40
     },
     "embedded_figures": {
-      "totalQuestions": 500,
+      "totalQuestions": 520,
       "category": "nonverbal",
       "typeA": 0,
       "typeB": 0,
-      "typeC": 500,
-      "typeD": 500,
-      "typeE": 500,
+      "typeC": 520,
+      "typeD": 520,
+      "typeE": 520,
       "workedExamples": 5,
       "embeddedPractice": 20
     },
@@ -184,7 +184,7 @@
       "typeB": 0,
       "typeC": 500,
       "typeD": 500,
-      "typeE": 500,
+      "typeE": 250,
       "workedExamples": 5,
       "embeddedPractice": 20
     },
@@ -211,9 +211,9 @@
       "embeddedPractice": 20
     },
     "input_output": {
-      "totalQuestions": 500,
+      "totalQuestions": 600,
       "category": "verbal",
-      "typeA": 500,
+      "typeA": 600,
       "typeB": 0,
       "typeC": 0,
       "typeD": 0,
@@ -222,10 +222,10 @@
       "embeddedPractice": 20
     },
     "logical_venn_diagrams": {
-      "totalQuestions": 500,
+      "totalQuestions": 700,
       "category": "verbal",
-      "typeA": 500,
-      "typeB": 500,
+      "typeA": 700,
+      "typeB": 700,
       "typeC": 0,
       "typeD": 0,
       "typeE": 0,
@@ -233,68 +233,68 @@
       "embeddedPractice": 20
     },
     "mathematical_operations": {
-      "totalQuestions": 500,
+      "totalQuestions": 901,
       "category": "nonverbal",
       "typeA": 0,
       "typeB": 0,
-      "typeC": 500,
-      "typeD": 500,
-      "typeE": 325,
+      "typeC": 901,
+      "typeD": 901,
+      "typeE": 405,
       "workedExamples": 5,
       "embeddedPractice": 20
     },
     "mirror_images": {
-      "totalQuestions": 500,
+      "totalQuestions": 555,
       "category": "nonverbal",
       "typeA": 0,
       "typeB": 0,
-      "typeC": 500,
-      "typeD": 500,
-      "typeE": 0,
+      "typeC": 555,
+      "typeD": 555,
+      "typeE": 55,
       "workedExamples": 5,
       "embeddedPractice": 20
     },
     "missing_character": {
-      "totalQuestions": 500,
+      "totalQuestions": 700,
       "category": "nonverbal",
       "typeA": 0,
       "typeB": 0,
-      "typeC": 500,
-      "typeD": 500,
-      "typeE": 33,
+      "typeC": 700,
+      "typeD": 700,
+      "typeE": 161,
       "workedExamples": 5,
       "embeddedPractice": 20
     },
     "nonverbal_series": {
-      "totalQuestions": 500,
+      "totalQuestions": 570,
       "category": "nonverbal",
       "typeA": 0,
       "typeB": 0,
-      "typeC": 500,
-      "typeD": 500,
-      "typeE": 250,
+      "typeC": 570,
+      "typeD": 570,
+      "typeE": 320,
       "workedExamples": 5,
       "embeddedPractice": 20
     },
     "odd_figure_out": {
-      "totalQuestions": 500,
+      "totalQuestions": 525,
       "category": "nonverbal",
       "typeA": 0,
       "typeB": 0,
-      "typeC": 500,
-      "typeD": 500,
-      "typeE": 500,
+      "typeC": 525,
+      "typeD": 525,
+      "typeE": 525,
       "workedExamples": 5,
       "embeddedPractice": 20
     },
     "paper_cutting": {
-      "totalQuestions": 500,
+      "totalQuestions": 530,
       "category": "nonverbal",
       "typeA": 0,
       "typeB": 0,
-      "typeC": 500,
-      "typeD": 500,
-      "typeE": 0,
+      "typeC": 530,
+      "typeD": 530,
+      "typeE": 30,
       "workedExamples": 5,
       "embeddedPractice": 20
     },
@@ -343,9 +343,9 @@
       "embeddedPractice": 20
     },
     "ranking_order": {
-      "totalQuestions": 500,
+      "totalQuestions": 893,
       "category": "verbal",
-      "typeA": 500,
+      "typeA": 893,
       "typeB": 0,
       "typeC": 0,
       "typeD": 0,
@@ -376,20 +376,20 @@
       "embeddedPractice": 20
     },
     "series_completion": {
-      "totalQuestions": 500,
+      "totalQuestions": 2496,
       "category": "verbal",
-      "typeA": 500,
+      "typeA": 2496,
       "typeB": 0,
       "typeC": 0,
       "typeD": 0,
       "typeE": 0,
       "workedExamples": 6,
-      "embeddedPractice": 40
+      "embeddedPractice": 35
     },
     "statement_argument": {
-      "totalQuestions": 500,
+      "totalQuestions": 660,
       "category": "verbal",
-      "typeA": 500,
+      "typeA": 660,
       "typeB": 0,
       "typeC": 0,
       "typeD": 0,
@@ -398,9 +398,9 @@
       "embeddedPractice": 20
     },
     "statement_assumption": {
-      "totalQuestions": 500,
+      "totalQuestions": 798,
       "category": "verbal",
-      "typeA": 500,
+      "typeA": 798,
       "typeB": 0,
       "typeC": 0,
       "typeD": 0,
@@ -409,9 +409,9 @@
       "embeddedPractice": 20
     },
     "statement_conclusion": {
-      "totalQuestions": 500,
+      "totalQuestions": 605,
       "category": "verbal",
-      "typeA": 500,
+      "typeA": 605,
       "typeB": 0,
       "typeC": 0,
       "typeD": 0,

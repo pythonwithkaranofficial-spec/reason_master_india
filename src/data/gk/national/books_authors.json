@@ -1,0 +1,56 @@
+{
+  "id": "books_authors",
+  "name": "Books & Authors",
+  "iconName": "Book",
+  "summary": "Ancient Sanskrit classics, Freedom struggle memoirs, and contemporary Booker and Sahitya Akademi prize-winners.",
+  "concept": "Frequently asked category covering classical works (Arthashastra by Chanakya, Shakuntala by Kalidasa, Rajatarangini by Kalhana), independence-era literature (Discovery of India by Nehru, Hind Swaraj by Gandhi, Anandamath by Bankim Chandra Chattopadhyay), and modern Booker winners (Arundhati Roy, Aravind Adiga, Salman Rushdie, Geetanjali Shree).",
+  "subtopics": [
+    {
+      "id": "classical_ancient_books",
+      "name": "Classical & Medieval Classics",
+      "summary": "Chanakya, Kalidasa, Banabhatta, Kalhana, Panini.",
+      "facts": [
+        {
+          "title": "Rajatarangini: History of Kashmir",
+          "content": "Written in Sanskrit verse by Kalhana in 1148-1150 CE, considered India's first systematic historical chronicle.",
+          "tags": [
+            "kashmir",
+            "history"
+          ]
+        },
+        {
+          "title": "Ashtadhyayi: Foundation of Sanskrit Grammar",
+          "content": "Composed by ancient grammarian Panini around the 5th-6th century BCE, defining 3,959 sutras on phonology and morphology.",
+          "tags": [
+            "sanskrit",
+            "grammar"
+          ]
+        }
+      ]
+    }
+  ],
+  "mcqs": [
+    {
+      "q": "Who authored the famous novel 'Anandamath', which contains India's national song 'Vande Mataram'?",
+      "o": [
+        "Bankim Chandra Chattopadhyay",
+        "Rabindranath Tagore",
+        "Sarat Chandra Chattopadhyay",
+        "Michael Madhusudan Dutt"
+      ],
+      "a": 0,
+      "exp": "Bankim Chandra Chattopadhyay published Anandamath in 1882 based on the Sannyasi Rebellion."
+    },
+    {
+      "q": "Who wrote 'The Discovery of India' while imprisoned by the British at Ahmednagar Fort between 1942 and 1946?",
+      "o": [
+        "Jawaharlal Nehru",
+        "Mahatma Gandhi",
+        "Subhas Chandra Bose",
+        "Dr. B. R. Ambedkar"
+      ],
+      "a": 0,
+      "exp": "Jawaharlal Nehru wrote the classic text surveying Indian culture, philosophy, and history during his detention."
+    }
+  ]
+}

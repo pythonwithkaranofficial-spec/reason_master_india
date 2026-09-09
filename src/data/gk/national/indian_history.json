@@ -1,0 +1,121 @@
+{
+  "id": "indian_history",
+  "name": "Indian History",
+  "iconName": "BookOpen",
+  "summary": "From the Indus Valley Civilization and Vedic eras to Mauryan, Gupta, Mughal empires, and the Indian Freedom Struggle (1857-1947).",
+  "concept": "Indian history is traditionally divided into Ancient India (Prehistoric to 750 CE), Medieval India (750 CE to 1757 CE), and Modern India (1757 CE to 1947 CE). Exam questions emphasize the Indus Valley Civilization, Vedic literature, Mauryan & Gupta golden eras, Mughal architecture & revenue systems, the 1857 Sepoy Mutiny, Indian National Congress sessions, and Gandhian freedom movements.",
+  "subtopics": [
+    {
+      "id": "ancient_india",
+      "name": "Ancient India & Indus Valley",
+      "summary": "Harappan sites, Vedic literature, 16 Mahajanapadas, Buddhism and Jainism.",
+      "facts": [
+        {
+          "title": "Harappa & Mohenjo-Daro Discovery",
+          "content": "Daya Ram Sahni excavated Harappa in 1921, while R. D. Banerji discovered Mohenjo-Daro in 1922 under the leadership of Sir John Marshall.",
+          "tags": [
+            "ivc",
+            "archaeology"
+          ]
+        },
+        {
+          "title": "The Great Bath at Mohenjo-Daro",
+          "content": "A public water tank lined with bitumen mortar, indicating advanced municipal hydraulic engineering in 2500 BCE.",
+          "tags": [
+            "ivc",
+            "mohenjodaro"
+          ]
+        },
+        {
+          "title": "Four Vedas and Vedic Corpus",
+          "content": "Rigveda is the world's oldest religious text (1,028 hymns). Samaveda focuses on chant melody, Yajurveda on rituals, and Atharvaveda on everyday life, healing, and charms.",
+          "tags": [
+            "vedas",
+            "ancient"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "medieval_india",
+      "name": "Medieval India & Empires",
+      "summary": "Delhi Sultanate dynasties, Mughal Empire, Maratha Empire, and Vijayanagara Empire.",
+      "facts": [
+        {
+          "title": "Five Dynasties of Delhi Sultanate",
+          "content": "The Delhi Sultanate (1206-1526) comprised the Slave (Mamluk), Khalji, Tughlaq, Sayyid, and Lodi dynasties, founded by Qutb-ud-din Aibak.",
+          "tags": [
+            "sultanate",
+            "history"
+          ]
+        },
+        {
+          "title": "Mughal Empire Battles of Panipat",
+          "content": "1st Panipat (1526): Babur defeated Ibrahim Lodi. 2nd Panipat (1556): Akbar defeated Hemu. 3rd Panipat (1761): Ahmad Shah Abdali defeated the Marathas.",
+          "tags": [
+            "panipat",
+            "mughals"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "modern_freedom_movement",
+      "name": "Modern India & Freedom Movement",
+      "summary": "1857 Revolt, Indian National Congress, Partition of Bengal, Gandhian movements.",
+      "facts": [
+        {
+          "title": "First War of Independence (1857)",
+          "content": "Triggered by Mangal Pandey at Barrackpore on 29 March 1857 and spreading to Meerut on 10 May 1857 against the British East India Company.",
+          "tags": [
+            "1857",
+            "freedom"
+          ]
+        },
+        {
+          "title": "Foundation of Indian National Congress",
+          "content": "Founded in Bombay in December 1885 by Allan Octavian Hume. Womesh Chandra Bonnerjee was the first president at Gokuldas Tejpal Sanskrit College.",
+          "tags": [
+            "inc",
+            "freedom"
+          ]
+        }
+      ]
+    }
+  ],
+  "mcqs": [
+    {
+      "q": "Which Indus Valley site is famous for the discovery of a tidal dockyard connected to the Arabian Sea?",
+      "o": [
+        "Lothal",
+        "Kalibangan",
+        "Dholavira",
+        "Rakhigarhi"
+      ],
+      "a": 0,
+      "exp": "Lothal in Gujarat had a world-famous trapezoidal brick basin serving as a tidal dockyard."
+    },
+    {
+      "q": "Who was the Viceroy of India when the Indian National Congress was founded in 1885?",
+      "o": [
+        "Lord Dufferin",
+        "Lord Curzon",
+        "Lord Ripon",
+        "Lord Lytton"
+      ],
+      "a": 0,
+      "exp": "Lord Dufferin was the Viceroy of India from 1884 to 1888."
+    },
+    {
+      "q": "Which session of the Indian National Congress adopted the historic resolution for 'Purna Swaraj' (Complete Independence)?",
+      "o": [
+        "Lahore Session (1929)",
+        "Karachi Session (1931)",
+        "Calcutta Session (1906)",
+        "Belgaum Session (1924)"
+      ],
+      "a": 0,
+      "exp": "Under the presidency of Jawaharlal Nehru, the Lahore Session of 1929 declared Purna Swaraj as Congress's ultimate goal."
+    }
+  ]
+}

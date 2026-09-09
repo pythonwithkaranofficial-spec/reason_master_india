@@ -1,0 +1,57 @@
+{
+  "id": "national_parks_wildlife",
+  "name": "National Parks & Wildlife",
+  "iconName": "Shield",
+  "summary": "Tiger reserves, elephant reserves, biosphere reserves, Ramsar wetland sites, and endangered fauna.",
+  "concept": "India hosts over 106 National Parks, 570+ Wildlife Sanctuaries, 55 Tiger Reserves (under Project Tiger, launched 1 April 1973), 18 Biosphere Reserves, and 85 Ramsar wetland sites. Key species studied include the Royal Bengal Tiger, Asian Elephant, Great Indian Rhinoceros, Asiatic Lion, Snow Leopard, and Nilgiri Tahr.",
+  "subtopics": [
+    {
+      "id": "tiger_reserves_parks",
+      "name": "Tiger Reserves & Bio-Sanctuaries",
+      "summary": "Project Tiger, core habitats, megafauna.",
+      "facts": [
+        {
+          "title": "Project Tiger Golden Jubilee",
+          "content": "Launched on 1 April 1973 at Jim Corbett National Park under Prime Minister Indira Gandhi with Kailash Sankhala as first director. As of the 2022 census, India is home to 3,682 tigers (over 75% of world population).",
+          "lastVerified": "2026-01-01",
+          "tags": [
+            "project_tiger",
+            "wildlife"
+          ]
+        },
+        {
+          "title": "Nilgiri Biosphere Reserve",
+          "content": "Designated in 1986 as India's first Biosphere Reserve, spanning the Western Ghats across Tamil Nadu, Kerala, and Karnataka.",
+          "tags": [
+            "biosphere",
+            "ecology"
+          ]
+        }
+      ]
+    }
+  ],
+  "mcqs": [
+    {
+      "q": "Which is the largest mangrove tiger habitat and the only mangrove forest in the world inhabited by wild tigers?",
+      "o": [
+        "Sundarbans National Park",
+        "Bhitarkanika National Park",
+        "Pichavaram Mangroves",
+        "Coringa Sanctuary"
+      ],
+      "a": 0,
+      "exp": "The Sundarbans delta in West Bengal is the world's largest contiguous mangrove ecosystem and tiger habitat."
+    },
+    {
+      "q": "Kaziranga National Park in Assam is globally celebrated for housing two-thirds of the total world population of which animal?",
+      "o": [
+        "Great Indian One-horned Rhinoceros",
+        "Wild Asian Water Buffalo",
+        "Golden Langur",
+        "Clouded Leopard"
+      ],
+      "a": 0,
+      "exp": "Kaziranga National Park is a UNESCO World Heritage Site with the highest concentration of greater one-horned rhinos in the world."
+    }
+  ]
+}

@@ -1,0 +1,278 @@
+{
+  "id": "tripura",
+  "type": "state",
+  "name": "Tripura",
+  "capital": "Agartala",
+  "formationDate": "21 January 1972",
+  "areaSqKm": 10491,
+  "districtsCount": 8,
+  "officialLanguages": [
+    "Bengali",
+    "Kokborok",
+    "English"
+  ],
+  "highCourt": "High Court of Tripura (Agartala)",
+  "chiefMinister": "Manik Saha",
+  "governorOrLtGovernor": "N. Indrasena Reddy",
+  "governorTitle": "Governor",
+  "lastVerified": "2026-01-01",
+  "stateSymbols": {
+    "animal": "Phayre's leaf monkey",
+    "bird": "Green imperial pigeon",
+    "flower": "Nageshwar",
+    "tree": "Agarwood"
+  },
+  "summary": "Surrounded on three sides by Bangladesh. Ruled for centuries by the Manikya dynasty. Home to Ujjayanta Palace, the colossal rock-cut carvings of Unakoti ('Angkor Wat of North-East'), and Queen pineapple.",
+  "dance": "Hojagiri (performed on an earthen pitcher), Garia, Lebang Boomani",
+  "festivals": "Kharchi Puja (worship of 14 deities), Garia Puja, Neermahal Water Festival",
+  "rivers": "Howrah, Gomati, Manu, Khowai, Feni",
+  "minerals": "Natural Gas, Glass sand, Clay",
+  "monuments": "Ujjayanta Palace, Neermahal (Water Palace in Rudrasagar Lake), Unakoti Rock Sculptures, Tripurasundari Temple",
+  "nationalParks": "Clouded Leopard National Park (Sepahijala), Rajbari National Park (Bison)",
+  "schemes": "Mukhyamantri Chaa Sramik Kalyan Prakalpa, Tripura Gramin Bank microcredit",
+  "mcqs": [
+    {
+      "q": "Which archaeological site in Tripura features monumental 7th-9th century rock-cut Shaivite carvings, known as the 'Angkor Wat of the North-East'?",
+      "o": [
+        "Unakoti",
+        "Pilak",
+        "Devtamura",
+        "Boxanagar"
+      ],
+      "a": 0,
+      "exp": "Unakoti ('one less than a crore') features massive stone reliefs, prominently the 30-foot head of Shiva."
+    },
+    {
+      "q": "Neermahal, eastern India's only lake palace built in 1930 by Maharaja Bir Bikram Kishore Manikya, is situated in which lake?",
+      "o": [
+        "Rudrasagar Lake",
+        "Dumboor Lake",
+        "Kalyan Sagar",
+        "Kamalasagar"
+      ],
+      "a": 0,
+      "exp": "Neermahal combines Hindu and Mughal architectural styles in the center of Rudrasagar Lake."
+    }
+  ],
+  "subtopics": [
+    {
+      "id": "geography",
+      "name": "Geography",
+      "summary": "Location, borders, physical terrain, and major river systems of Tripura.",
+      "facts": [
+        {
+          "id": "tripura_geo_1",
+          "topicId": "tripura",
+          "subtopicId": "geography",
+          "title": "Capital & Geographic Scope",
+          "content": "The capital is Agartala. Tripura covers a geographic area of 10,491 sq km across 8 administrative districts.",
+          "tags": [
+            "capital",
+            "geography",
+            "area"
+          ]
+        },
+        {
+          "id": "tripura_geo_2",
+          "topicId": "tripura",
+          "subtopicId": "geography",
+          "title": "Major Rivers & Drainage Systems",
+          "content": "Key river systems flowing through the region include: Howrah, Gomati, Manu, Khowai, Feni.",
+          "tags": [
+            "rivers",
+            "water",
+            "geography"
+          ]
+        },
+        {
+          "id": "tripura_geo_3",
+          "topicId": "tripura",
+          "subtopicId": "geography",
+          "title": "Geographical Landscape & Highlights",
+          "content": "Surrounded on three sides by Bangladesh. Ruled for centuries by the Manikya dynasty. Home to Ujjayanta Palace, the colossal rock-cut carvings of Unakoti ('Angkor Wat of North-East'), and Queen pineapple.",
+          "tags": [
+            "terrain",
+            "features"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "history_culture",
+      "name": "History & Culture",
+      "summary": "Historical formation, classical/folk dances, and vibrant festivals of Tripura.",
+      "facts": [
+        {
+          "id": "tripura_hist_1",
+          "topicId": "tripura",
+          "subtopicId": "history_culture",
+          "title": "State Formation & Language",
+          "content": "Tripura was formally instituted on 21 January 1972. Official language(s): Bengali, Kokborok, English.",
+          "tags": [
+            "formation",
+            "history",
+            "languages"
+          ]
+        },
+        {
+          "id": "tripura_hist_2",
+          "topicId": "tripura",
+          "subtopicId": "history_culture",
+          "title": "Dance Forms & Traditional Arts",
+          "content": "Celebrated traditional and folk dance forms: Hojagiri (performed on an earthen pitcher), Garia, Lebang Boomani.",
+          "tags": [
+            "dance",
+            "culture",
+            "arts"
+          ]
+        },
+        {
+          "id": "tripura_hist_3",
+          "topicId": "tripura",
+          "subtopicId": "history_culture",
+          "title": "Major Festivals & Celebrations",
+          "content": "Prominent cultural festivals: Kharchi Puja (worship of 14 deities), Garia Puja, Neermahal Water Festival.",
+          "tags": [
+            "festivals",
+            "culture"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "polity_governance",
+      "name": "Government & Polity",
+      "summary": "Constitutional leadership, administrative structure, and state symbols of Tripura.",
+      "facts": [
+        {
+          "id": "tripura_pol_1",
+          "topicId": "tripura",
+          "subtopicId": "polity_governance",
+          "title": "Governor & Constitutional Head",
+          "content": "The current Governor is N. Indrasena Reddy.",
+          "lastVerified": "2026-01-01",
+          "tags": [
+            "governor",
+            "polity",
+            "executive"
+          ]
+        },
+        {
+          "id": "tripura_pol_2",
+          "topicId": "tripura",
+          "subtopicId": "polity_governance",
+          "title": "Chief Minister & Administration",
+          "content": "The Chief Minister of Tripura is Manik Saha.",
+          "lastVerified": "2026-01-01",
+          "tags": [
+            "chief_minister",
+            "governance"
+          ]
+        },
+        {
+          "id": "tripura_pol_3",
+          "topicId": "tripura",
+          "subtopicId": "polity_governance",
+          "title": "High Court Jurisdiction",
+          "content": "Judicial jurisdiction falls under High Court of Tripura (Agartala).",
+          "tags": [
+            "high_court",
+            "judiciary"
+          ]
+        },
+        {
+          "id": "tripura_pol_4",
+          "topicId": "tripura",
+          "subtopicId": "polity_governance",
+          "title": "Official State Symbols",
+          "content": "State Animal: Phayre's leaf monkey | State Bird: Green imperial pigeon | State Flower: Nageshwar | State Tree: Agarwood.",
+          "tags": [
+            "symbols",
+            "emblem"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "economy_agriculture",
+      "name": "Economy & Agriculture",
+      "summary": "Natural resources, minerals, industrial clusters, and agriculture in Tripura.",
+      "facts": [
+        {
+          "id": "tripura_econ_1",
+          "topicId": "tripura",
+          "subtopicId": "economy_agriculture",
+          "title": "Mineral Wealth & Natural Resources",
+          "content": "Principal minerals and resources: Natural Gas, Glass sand, Clay.",
+          "tags": [
+            "minerals",
+            "resources",
+            "economy"
+          ]
+        },
+        {
+          "id": "tripura_econ_2",
+          "topicId": "tripura",
+          "subtopicId": "economy_agriculture",
+          "title": "Economic Profile & Industries",
+          "content": "Tripura plays a vital role in India's economy through key agricultural production, manufacturing corridors, and services.",
+          "tags": [
+            "industry",
+            "agriculture"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "places_monuments",
+      "name": "Places, Monuments & Tourism",
+      "summary": "Heritage landmarks, national parks, and tourism attractions in Tripura.",
+      "facts": [
+        {
+          "id": "tripura_tour_1",
+          "topicId": "tripura",
+          "subtopicId": "places_monuments",
+          "title": "Historic Monuments & Cultural Sites",
+          "content": "Prominent monuments and heritage landmarks: Ujjayanta Palace, Neermahal (Water Palace in Rudrasagar Lake), Unakoti Rock Sculptures, Tripurasundari Temple.",
+          "tags": [
+            "monuments",
+            "heritage",
+            "tourism"
+          ]
+        },
+        {
+          "id": "tripura_tour_2",
+          "topicId": "tripura",
+          "subtopicId": "places_monuments",
+          "title": "National Parks & Protected Areas",
+          "content": "Key protected conservation areas: Clouded Leopard National Park (Sepahijala), Rajbari National Park (Bison).",
+          "tags": [
+            "national_parks",
+            "wildlife",
+            "conservation"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "schemes_awards",
+      "name": "State Schemes & Awards",
+      "summary": "Prominent welfare schemes, civic initiatives, and state honors of Tripura.",
+      "facts": [
+        {
+          "id": "tripura_sch_1",
+          "topicId": "tripura",
+          "subtopicId": "schemes_awards",
+          "title": "Key State Welfare Schemes",
+          "content": "Notable welfare initiatives and government programs: Mukhyamantri Chaa Sramik Kalyan Prakalpa, Tripura Gramin Bank microcredit.",
+          "lastVerified": "2026-01-01",
+          "tags": [
+            "schemes",
+            "welfare",
+            "governance"
+          ]
+        }
+      ]
+    }
+  ]
+}

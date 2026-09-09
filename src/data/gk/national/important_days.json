@@ -1,0 +1,56 @@
+{
+  "id": "important_days",
+  "name": "Important National Days",
+  "iconName": "Calendar",
+  "summary": "Commemorative national days, anniversaries, and associated historical events.",
+  "concept": "Questions in competitive exams test knowledge of key national observances: National Youth Day (12 Jan), Republic Day (26 Jan), National Science Day (28 Feb), National Panchayati Raj Day (24 Apr), Kargil Vijay Diwas (26 Jul), National Sports Day (29 Aug), Hindi Diwas (14 Sep), National Unity Day (31 Oct), and Constitution Day (26 Nov).",
+  "subtopics": [
+    {
+      "id": "national_observances",
+      "name": "National Observances & Significance",
+      "summary": "Dates, origins, historical context, and themes.",
+      "facts": [
+        {
+          "title": "National Science Day (28 February)",
+          "content": "Commemorates the discovery of the Raman Effect by Sir C. V. Raman on 28 February 1928, for which he received the 1930 Nobel Prize in Physics.",
+          "tags": [
+            "science",
+            "raman_effect"
+          ]
+        },
+        {
+          "title": "Constitution Day (26 November)",
+          "content": "Commemorates the adoption of the Constitution of India by the Constituent Assembly on 26 November 1949, officially instituted in 2015.",
+          "tags": [
+            "constitution",
+            "polity"
+          ]
+        }
+      ]
+    }
+  ],
+  "mcqs": [
+    {
+      "q": "National Youth Day is celebrated on 12 January every year across India in honor of the birth anniversary of which icon?",
+      "o": [
+        "Swami Vivekananda",
+        "Bhagat Singh",
+        "Subhas Chandra Bose",
+        "Rabindranath Tagore"
+      ],
+      "a": 0,
+      "exp": "Government of India declared Swami Vivekananda's birth date (12 January) as National Youth Day in 1984."
+    },
+    {
+      "q": "National Unity Day (Rashtriya Ekta Diwas) on October 31 marks the birth anniversary of which architect of Indian national integration?",
+      "o": [
+        "Sardar Vallabhbhai Patel",
+        "B. R. Ambedkar",
+        "Jawaharlal Nehru",
+        "Lal Bahadur Shastri"
+      ],
+      "a": 0,
+      "exp": "National Unity Day honors the Iron Man of India, Sardar Patel, who unified over 560 princely states into the Indian Union."
+    }
+  ]
+}

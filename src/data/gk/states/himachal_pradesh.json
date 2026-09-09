@@ -1,0 +1,276 @@
+{
+  "id": "himachal_pradesh",
+  "type": "state",
+  "name": "Himachal Pradesh",
+  "capital": "Shimla (Summer), Dharamshala (Winter)",
+  "formationDate": "25 January 1971",
+  "areaSqKm": 55673,
+  "districtsCount": 12,
+  "officialLanguages": [
+    "Hindi"
+  ],
+  "highCourt": "Himachal Pradesh High Court (Shimla)",
+  "chiefMinister": "Sukhvinder Singh Sukhu",
+  "governorOrLtGovernor": "Shiv Pratap Shukla",
+  "governorTitle": "Governor",
+  "lastVerified": "2026-01-01",
+  "stateSymbols": {
+    "animal": "Snow leopard",
+    "bird": "Western tragopan",
+    "flower": "Pink rhododendron",
+    "tree": "Deodar cedar"
+  },
+  "summary": "Known as 'Dev Bhoomi' (Land of the Gods). Features high-altitude Himalayan terrain, fruit cultivation ('Apple State of India'), and Dalai Lama's central residence at McLeod Ganj.",
+  "dance": "Nati (Guinness World Record folk dance), Chham, Rakshasa dance",
+  "festivals": "Kullu Dussehra, Minjar Fair, Fagli, Losar",
+  "rivers": "Chenab, Ravi, Beas, Sutlej, Yamuna",
+  "minerals": "Limestone, Gypsum, Rock Salt (Mandi), Barite",
+  "monuments": "Kalka-Shimla Toy Train (UNESCO), Hidimba Devi Temple (Manali), Kangra Fort, Tabo Monastery",
+  "nationalParks": "Great Himalayan National Park (UNESCO), Pin Valley National Park, Khirganga National Park",
+  "schemes": "Indira Gandhi Pyari Behna Sukh Samman Nidhi, Mukhya Mantri Swavlamban Yojana",
+  "mcqs": [
+    {
+      "q": "Which UNESCO World Heritage National Park in Himachal Pradesh preserves alpine peaks and temperate biodiversity?",
+      "o": [
+        "Great Himalayan National Park",
+        "Pin Valley National Park",
+        "Jim Corbett National Park",
+        "Hemis National Park"
+      ],
+      "a": 0,
+      "exp": "Great Himalayan National Park in Kullu was inscribed as a UNESCO World Heritage Site in 2014."
+    },
+    {
+      "q": "Which folk dance of Himachal Pradesh holds a Guinness World Record for the largest gathering of dancers?",
+      "o": [
+        "Kullu Nati",
+        "Giddha",
+        "Rouf",
+        "Bhangra"
+      ],
+      "a": 0,
+      "exp": "Kullu Nati entered the Guinness Book of World Records in 2016 with over 20,000 women performing together."
+    }
+  ],
+  "subtopics": [
+    {
+      "id": "geography",
+      "name": "Geography",
+      "summary": "Location, borders, physical terrain, and major river systems of Himachal Pradesh.",
+      "facts": [
+        {
+          "id": "himachal_pradesh_geo_1",
+          "topicId": "himachal_pradesh",
+          "subtopicId": "geography",
+          "title": "Capital & Geographic Scope",
+          "content": "The capital is Shimla (Summer), Dharamshala (Winter). Himachal Pradesh covers a geographic area of 55,673 sq km across 12 administrative districts.",
+          "tags": [
+            "capital",
+            "geography",
+            "area"
+          ]
+        },
+        {
+          "id": "himachal_pradesh_geo_2",
+          "topicId": "himachal_pradesh",
+          "subtopicId": "geography",
+          "title": "Major Rivers & Drainage Systems",
+          "content": "Key river systems flowing through the region include: Chenab, Ravi, Beas, Sutlej, Yamuna.",
+          "tags": [
+            "rivers",
+            "water",
+            "geography"
+          ]
+        },
+        {
+          "id": "himachal_pradesh_geo_3",
+          "topicId": "himachal_pradesh",
+          "subtopicId": "geography",
+          "title": "Geographical Landscape & Highlights",
+          "content": "Known as 'Dev Bhoomi' (Land of the Gods). Features high-altitude Himalayan terrain, fruit cultivation ('Apple State of India'), and Dalai Lama's central residence at McLeod Ganj.",
+          "tags": [
+            "terrain",
+            "features"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "history_culture",
+      "name": "History & Culture",
+      "summary": "Historical formation, classical/folk dances, and vibrant festivals of Himachal Pradesh.",
+      "facts": [
+        {
+          "id": "himachal_pradesh_hist_1",
+          "topicId": "himachal_pradesh",
+          "subtopicId": "history_culture",
+          "title": "State Formation & Language",
+          "content": "Himachal Pradesh was formally instituted on 25 January 1971. Official language(s): Hindi.",
+          "tags": [
+            "formation",
+            "history",
+            "languages"
+          ]
+        },
+        {
+          "id": "himachal_pradesh_hist_2",
+          "topicId": "himachal_pradesh",
+          "subtopicId": "history_culture",
+          "title": "Dance Forms & Traditional Arts",
+          "content": "Celebrated traditional and folk dance forms: Nati (Guinness World Record folk dance), Chham, Rakshasa dance.",
+          "tags": [
+            "dance",
+            "culture",
+            "arts"
+          ]
+        },
+        {
+          "id": "himachal_pradesh_hist_3",
+          "topicId": "himachal_pradesh",
+          "subtopicId": "history_culture",
+          "title": "Major Festivals & Celebrations",
+          "content": "Prominent cultural festivals: Kullu Dussehra, Minjar Fair, Fagli, Losar.",
+          "tags": [
+            "festivals",
+            "culture"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "polity_governance",
+      "name": "Government & Polity",
+      "summary": "Constitutional leadership, administrative structure, and state symbols of Himachal Pradesh.",
+      "facts": [
+        {
+          "id": "himachal_pradesh_pol_1",
+          "topicId": "himachal_pradesh",
+          "subtopicId": "polity_governance",
+          "title": "Governor & Constitutional Head",
+          "content": "The current Governor is Shiv Pratap Shukla.",
+          "lastVerified": "2026-01-01",
+          "tags": [
+            "governor",
+            "polity",
+            "executive"
+          ]
+        },
+        {
+          "id": "himachal_pradesh_pol_2",
+          "topicId": "himachal_pradesh",
+          "subtopicId": "polity_governance",
+          "title": "Chief Minister & Administration",
+          "content": "The Chief Minister of Himachal Pradesh is Sukhvinder Singh Sukhu.",
+          "lastVerified": "2026-01-01",
+          "tags": [
+            "chief_minister",
+            "governance"
+          ]
+        },
+        {
+          "id": "himachal_pradesh_pol_3",
+          "topicId": "himachal_pradesh",
+          "subtopicId": "polity_governance",
+          "title": "High Court Jurisdiction",
+          "content": "Judicial jurisdiction falls under Himachal Pradesh High Court (Shimla).",
+          "tags": [
+            "high_court",
+            "judiciary"
+          ]
+        },
+        {
+          "id": "himachal_pradesh_pol_4",
+          "topicId": "himachal_pradesh",
+          "subtopicId": "polity_governance",
+          "title": "Official State Symbols",
+          "content": "State Animal: Snow leopard | State Bird: Western tragopan | State Flower: Pink rhododendron | State Tree: Deodar cedar.",
+          "tags": [
+            "symbols",
+            "emblem"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "economy_agriculture",
+      "name": "Economy & Agriculture",
+      "summary": "Natural resources, minerals, industrial clusters, and agriculture in Himachal Pradesh.",
+      "facts": [
+        {
+          "id": "himachal_pradesh_econ_1",
+          "topicId": "himachal_pradesh",
+          "subtopicId": "economy_agriculture",
+          "title": "Mineral Wealth & Natural Resources",
+          "content": "Principal minerals and resources: Limestone, Gypsum, Rock Salt (Mandi), Barite.",
+          "tags": [
+            "minerals",
+            "resources",
+            "economy"
+          ]
+        },
+        {
+          "id": "himachal_pradesh_econ_2",
+          "topicId": "himachal_pradesh",
+          "subtopicId": "economy_agriculture",
+          "title": "Economic Profile & Industries",
+          "content": "Himachal Pradesh plays a vital role in India's economy through key agricultural production, manufacturing corridors, and services.",
+          "tags": [
+            "industry",
+            "agriculture"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "places_monuments",
+      "name": "Places, Monuments & Tourism",
+      "summary": "Heritage landmarks, national parks, and tourism attractions in Himachal Pradesh.",
+      "facts": [
+        {
+          "id": "himachal_pradesh_tour_1",
+          "topicId": "himachal_pradesh",
+          "subtopicId": "places_monuments",
+          "title": "Historic Monuments & Cultural Sites",
+          "content": "Prominent monuments and heritage landmarks: Kalka-Shimla Toy Train (UNESCO), Hidimba Devi Temple (Manali), Kangra Fort, Tabo Monastery.",
+          "tags": [
+            "monuments",
+            "heritage",
+            "tourism"
+          ]
+        },
+        {
+          "id": "himachal_pradesh_tour_2",
+          "topicId": "himachal_pradesh",
+          "subtopicId": "places_monuments",
+          "title": "National Parks & Protected Areas",
+          "content": "Key protected conservation areas: Great Himalayan National Park (UNESCO), Pin Valley National Park, Khirganga National Park.",
+          "tags": [
+            "national_parks",
+            "wildlife",
+            "conservation"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "schemes_awards",
+      "name": "State Schemes & Awards",
+      "summary": "Prominent welfare schemes, civic initiatives, and state honors of Himachal Pradesh.",
+      "facts": [
+        {
+          "id": "himachal_pradesh_sch_1",
+          "topicId": "himachal_pradesh",
+          "subtopicId": "schemes_awards",
+          "title": "Key State Welfare Schemes",
+          "content": "Notable welfare initiatives and government programs: Indira Gandhi Pyari Behna Sukh Samman Nidhi, Mukhya Mantri Swavlamban Yojana.",
+          "lastVerified": "2026-01-01",
+          "tags": [
+            "schemes",
+            "welfare",
+            "governance"
+          ]
+        }
+      ]
+    }
+  ]
+}

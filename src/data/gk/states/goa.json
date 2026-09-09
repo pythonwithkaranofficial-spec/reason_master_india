@@ -1,0 +1,276 @@
+{
+  "id": "goa",
+  "type": "state",
+  "name": "Goa",
+  "capital": "Panaji",
+  "formationDate": "30 May 1987",
+  "areaSqKm": 3702,
+  "districtsCount": 2,
+  "officialLanguages": [
+    "Konkani"
+  ],
+  "highCourt": "Bombay High Court (Panaji Bench)",
+  "chiefMinister": "Pramod Sawant",
+  "governorOrLtGovernor": "P. S. Sreedharan Pillai",
+  "governorTitle": "Governor",
+  "lastVerified": "2026-01-01",
+  "stateSymbols": {
+    "animal": "Gaur",
+    "bird": "Flame-throated bulbul",
+    "flower": "Jasmine",
+    "tree": "Matti"
+  },
+  "summary": "India's smallest state by area. Liberated from Portuguese colonial rule on 19 December 1961 (Operation Vijay). World-renowned for beaches, churches, and cashew feni.",
+  "dance": "Fugdi, Dhalo, Dekhnni, Kunbi",
+  "festivals": "Goa Carnival, Shigmo, Feast of St. Francis Xavier, Sao Joao",
+  "rivers": "Mandovi, Zuari, Chapora, Terekhol, Sal",
+  "minerals": "Iron Ore, Manganese, Bauxite",
+  "monuments": "Basilica of Bom Jesus (UNESCO Site), Se Cathedral, Aguada Fort, Chapora Fort, Dudhsagar Falls",
+  "nationalParks": "Bhagwan Mahaveer Sanctuary & Mollem National Park, Salim Ali Bird Sanctuary",
+  "schemes": "Griha Adhar Scheme, Mukhyamantri Devdarshan Yatra, Dayanand Social Security Scheme",
+  "mcqs": [
+    {
+      "q": "On which date did the Indian Armed Forces liberate Goa from Portuguese rule via Operation Vijay?",
+      "o": [
+        "19 December 1961",
+        "15 August 1947",
+        "26 January 1950",
+        "30 May 1987"
+      ],
+      "a": 0,
+      "exp": "Operation Vijay was conducted on 18-19 December 1961, ending 451 years of Portuguese rule in Goa."
+    },
+    {
+      "q": "The mortal remains of which saint are preserved in the Basilica of Bom Jesus in Old Goa?",
+      "o": [
+        "St. Francis Xavier",
+        "St. Thomas",
+        "St. Ignatius of Loyola",
+        "St. Peter"
+      ],
+      "a": 0,
+      "exp": "The Basilica of Bom Jesus, a UNESCO World Heritage Site, contains the sacred relics of St. Francis Xavier."
+    }
+  ],
+  "subtopics": [
+    {
+      "id": "geography",
+      "name": "Geography",
+      "summary": "Location, borders, physical terrain, and major river systems of Goa.",
+      "facts": [
+        {
+          "id": "goa_geo_1",
+          "topicId": "goa",
+          "subtopicId": "geography",
+          "title": "Capital & Geographic Scope",
+          "content": "The capital is Panaji. Goa covers a geographic area of 3,702 sq km across 2 administrative districts.",
+          "tags": [
+            "capital",
+            "geography",
+            "area"
+          ]
+        },
+        {
+          "id": "goa_geo_2",
+          "topicId": "goa",
+          "subtopicId": "geography",
+          "title": "Major Rivers & Drainage Systems",
+          "content": "Key river systems flowing through the region include: Mandovi, Zuari, Chapora, Terekhol, Sal.",
+          "tags": [
+            "rivers",
+            "water",
+            "geography"
+          ]
+        },
+        {
+          "id": "goa_geo_3",
+          "topicId": "goa",
+          "subtopicId": "geography",
+          "title": "Geographical Landscape & Highlights",
+          "content": "India's smallest state by area. Liberated from Portuguese colonial rule on 19 December 1961 (Operation Vijay). World-renowned for beaches, churches, and cashew feni.",
+          "tags": [
+            "terrain",
+            "features"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "history_culture",
+      "name": "History & Culture",
+      "summary": "Historical formation, classical/folk dances, and vibrant festivals of Goa.",
+      "facts": [
+        {
+          "id": "goa_hist_1",
+          "topicId": "goa",
+          "subtopicId": "history_culture",
+          "title": "State Formation & Language",
+          "content": "Goa was formally instituted on 30 May 1987. Official language(s): Konkani.",
+          "tags": [
+            "formation",
+            "history",
+            "languages"
+          ]
+        },
+        {
+          "id": "goa_hist_2",
+          "topicId": "goa",
+          "subtopicId": "history_culture",
+          "title": "Dance Forms & Traditional Arts",
+          "content": "Celebrated traditional and folk dance forms: Fugdi, Dhalo, Dekhnni, Kunbi.",
+          "tags": [
+            "dance",
+            "culture",
+            "arts"
+          ]
+        },
+        {
+          "id": "goa_hist_3",
+          "topicId": "goa",
+          "subtopicId": "history_culture",
+          "title": "Major Festivals & Celebrations",
+          "content": "Prominent cultural festivals: Goa Carnival, Shigmo, Feast of St. Francis Xavier, Sao Joao.",
+          "tags": [
+            "festivals",
+            "culture"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "polity_governance",
+      "name": "Government & Polity",
+      "summary": "Constitutional leadership, administrative structure, and state symbols of Goa.",
+      "facts": [
+        {
+          "id": "goa_pol_1",
+          "topicId": "goa",
+          "subtopicId": "polity_governance",
+          "title": "Governor & Constitutional Head",
+          "content": "The current Governor is P. S. Sreedharan Pillai.",
+          "lastVerified": "2026-01-01",
+          "tags": [
+            "governor",
+            "polity",
+            "executive"
+          ]
+        },
+        {
+          "id": "goa_pol_2",
+          "topicId": "goa",
+          "subtopicId": "polity_governance",
+          "title": "Chief Minister & Administration",
+          "content": "The Chief Minister of Goa is Pramod Sawant.",
+          "lastVerified": "2026-01-01",
+          "tags": [
+            "chief_minister",
+            "governance"
+          ]
+        },
+        {
+          "id": "goa_pol_3",
+          "topicId": "goa",
+          "subtopicId": "polity_governance",
+          "title": "High Court Jurisdiction",
+          "content": "Judicial jurisdiction falls under Bombay High Court (Panaji Bench).",
+          "tags": [
+            "high_court",
+            "judiciary"
+          ]
+        },
+        {
+          "id": "goa_pol_4",
+          "topicId": "goa",
+          "subtopicId": "polity_governance",
+          "title": "Official State Symbols",
+          "content": "State Animal: Gaur | State Bird: Flame-throated bulbul | State Flower: Jasmine | State Tree: Matti.",
+          "tags": [
+            "symbols",
+            "emblem"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "economy_agriculture",
+      "name": "Economy & Agriculture",
+      "summary": "Natural resources, minerals, industrial clusters, and agriculture in Goa.",
+      "facts": [
+        {
+          "id": "goa_econ_1",
+          "topicId": "goa",
+          "subtopicId": "economy_agriculture",
+          "title": "Mineral Wealth & Natural Resources",
+          "content": "Principal minerals and resources: Iron Ore, Manganese, Bauxite.",
+          "tags": [
+            "minerals",
+            "resources",
+            "economy"
+          ]
+        },
+        {
+          "id": "goa_econ_2",
+          "topicId": "goa",
+          "subtopicId": "economy_agriculture",
+          "title": "Economic Profile & Industries",
+          "content": "Goa plays a vital role in India's economy through key agricultural production, manufacturing corridors, and services.",
+          "tags": [
+            "industry",
+            "agriculture"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "places_monuments",
+      "name": "Places, Monuments & Tourism",
+      "summary": "Heritage landmarks, national parks, and tourism attractions in Goa.",
+      "facts": [
+        {
+          "id": "goa_tour_1",
+          "topicId": "goa",
+          "subtopicId": "places_monuments",
+          "title": "Historic Monuments & Cultural Sites",
+          "content": "Prominent monuments and heritage landmarks: Basilica of Bom Jesus (UNESCO Site), Se Cathedral, Aguada Fort, Chapora Fort, Dudhsagar Falls.",
+          "tags": [
+            "monuments",
+            "heritage",
+            "tourism"
+          ]
+        },
+        {
+          "id": "goa_tour_2",
+          "topicId": "goa",
+          "subtopicId": "places_monuments",
+          "title": "National Parks & Protected Areas",
+          "content": "Key protected conservation areas: Bhagwan Mahaveer Sanctuary & Mollem National Park, Salim Ali Bird Sanctuary.",
+          "tags": [
+            "national_parks",
+            "wildlife",
+            "conservation"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "schemes_awards",
+      "name": "State Schemes & Awards",
+      "summary": "Prominent welfare schemes, civic initiatives, and state honors of Goa.",
+      "facts": [
+        {
+          "id": "goa_sch_1",
+          "topicId": "goa",
+          "subtopicId": "schemes_awards",
+          "title": "Key State Welfare Schemes",
+          "content": "Notable welfare initiatives and government programs: Griha Adhar Scheme, Mukhyamantri Devdarshan Yatra, Dayanand Social Security Scheme.",
+          "lastVerified": "2026-01-01",
+          "tags": [
+            "schemes",
+            "welfare",
+            "governance"
+          ]
+        }
+      ]
+    }
+  ]
+}

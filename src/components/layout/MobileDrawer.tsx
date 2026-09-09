@@ -19,6 +19,8 @@ import {
   NavIconSettings,
   NavIconClose,
 } from "@/components/navigation/NavIcons";
+import { GKDomainSwitcher } from "@/components/gk/GKDomainSwitcher";
+import { MapPin, Landmark, Globe, Home } from "lucide-react";
 
 interface MobileDrawerProps {
   isOpen: boolean;
@@ -28,6 +30,7 @@ interface MobileDrawerProps {
 
 export function MobileDrawer({ isOpen, onClose, onOpenSearch }: MobileDrawerProps) {
   const pathname = usePathname();
+  const isGK = pathname.startsWith("/gk");
   const { settings, isLoaded } = useUserSettings();
   const questionCount = isLoaded ? settings.defaultQuestionCount : 10;
   const instantMode = isLoaded && settings.instantFeedback ? "instant" : "review";
@@ -55,7 +58,7 @@ export function MobileDrawer({ isOpen, onClose, onOpenSearch }: MobileDrawerProp
     };
   }, [isOpen]);
 
-  const navLinks = [
+  const reasoningNavLinks = [
     { label: "Verbal Reasoning", href: "/verbal", icon: NavIconVerbal, badge: "25 Topics" },
     { label: "Non-Verbal Reasoning", href: "/nonverbal", icon: NavIconNonVerbal, badge: "14 Topics" },
     { label: "Competitive Exams", href: "/exams", icon: NavIconExams, badge: "64 Exams" },
@@ -63,6 +66,18 @@ export function MobileDrawer({ isOpen, onClose, onOpenSearch }: MobileDrawerProp
     { label: "Bookmarked Questions", href: "/bookmarks", icon: NavIconBookmarks },
     { label: "Diagnostic Statistics", href: "/stats", icon: NavIconStats },
   ];
+
+  const gkNavLinks = [
+    { label: "GK Overview Hub", href: "/gk", icon: Home, badge: "Hub" },
+    { label: "State GK", href: "/gk/state", icon: MapPin, badge: "36 States & UTs" },
+    { label: "Indian GK", href: "/gk/national", icon: Landmark, badge: "11 Topics" },
+    { label: "World GK", href: "/gk/world", icon: Globe, badge: "6 Topics" },
+    { label: "Practice Arena", href: "/gk/practice", icon: NavIconPractice, badge: "MCQ Tests" },
+    { label: "GK Bookmarks", href: "/gk/bookmarks", icon: NavIconBookmarks },
+    { label: "GK Diagnostic Stats", href: "/gk/stats", icon: NavIconStats },
+  ];
+
+  const navLinks = isGK ? gkNavLinks : reasoningNavLinks;
 
   if (!isOpen) return null;
 
@@ -156,8 +171,13 @@ export function MobileDrawer({ isOpen, onClose, onOpenSearch }: MobileDrawerProp
           </button>
         </div>
 
+        {/* Domain Switcher */}
+        <div style={{ padding: "var(--space-3) var(--space-5) var(--space-1)", display: "flex", justifyContent: "center" }}>
+          <GKDomainSwitcher size="md" showFullLabel />
+        </div>
+
         {/* Quick Search Action */}
-        <div style={{ padding: "var(--space-3) var(--space-5) var(--space-2)" }}>
+        <div style={{ padding: "var(--space-2) var(--space-5) var(--space-2)" }}>
           <button
             onClick={() => {
               onClose();
@@ -184,7 +204,7 @@ export function MobileDrawer({ isOpen, onClose, onOpenSearch }: MobileDrawerProp
         {/* Quick Practice Launcher */}
         <div style={{ padding: "0 var(--space-5) var(--space-2)" }}>
           <Link
-            href={`/practice/session?count=${questionCount}&difficulty=mixed&mode=${instantMode}`}
+            href={isGK ? "/gk/practice" : `/practice/session?count=${questionCount}&difficulty=mixed&mode=${instantMode}`}
             onClick={onClose}
             className="btn btn-primary"
             style={{
@@ -199,7 +219,7 @@ export function MobileDrawer({ isOpen, onClose, onOpenSearch }: MobileDrawerProp
             }}
           >
             <Zap size={16} />
-            <span>Quick {questionCount}-Q Practice Session</span>
+            <span>{isGK ? "Launch GK Practice Test" : `Quick ${questionCount}-Q Practice Session`}</span>
           </Link>
         </div>
 

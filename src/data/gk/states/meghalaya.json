@@ -1,0 +1,278 @@
+{
+  "id": "meghalaya",
+  "type": "state",
+  "name": "Meghalaya",
+  "capital": "Shillong",
+  "formationDate": "21 January 1972",
+  "areaSqKm": 22429,
+  "districtsCount": 12,
+  "officialLanguages": [
+    "English",
+    "Khasi",
+    "Garo"
+  ],
+  "highCourt": "High Court of Meghalaya (Shillong)",
+  "chiefMinister": "Conrad Sangma",
+  "governorOrLtGovernor": "C. H. Vijayashankar",
+  "governorTitle": "Governor",
+  "lastVerified": "2026-01-01",
+  "stateSymbols": {
+    "animal": "Clouded leopard",
+    "bird": "Hill myna",
+    "flower": "Lady's slipper orchid",
+    "tree": "White teak (Gamhar)"
+  },
+  "summary": "Known as the 'Abode of Clouds'. Home to Mawsynram (the wettest place on Earth), living root bridges handmade by Khasi tribes, and a matrilineal social lineage system.",
+  "dance": "Shad Suk Mynsiem, Nongkrem Dance, Wangala (Hundred Drums Festival)",
+  "festivals": "Wangala Festival, Shad Suk Mynsiem, Behdeinkhlam",
+  "rivers": "Umiam, Umngot (Dawki - crystal clear river), Simsang, Kopili",
+  "minerals": "Coal, Limestone, Uranium (Domiasiat), Sillimanite",
+  "monuments": "Living Root Bridges of Cherrapunji, Nohkalikai Falls (tallest plunge waterfall in India, 340m), Mawsmai Cave",
+  "nationalParks": "Balphakram National Park, Nokrek National Park (UNESCO Biosphere Reserve)",
+  "schemes": "FOCUS Scheme, Meghalaya Health Insurance Scheme (MHIS)",
+  "mcqs": [
+    {
+      "q": "Which location in Meghalaya holds the Guinness World Record for the highest average annual rainfall on Earth?",
+      "o": [
+        "Mawsynram",
+        "Cherrapunji (Sohra)",
+        "Shillong",
+        "Tura"
+      ],
+      "a": 0,
+      "exp": "Mawsynram in the East Khasi Hills receives approximately 11,872 mm of rain annually, making it the wettest place on Earth."
+    },
+    {
+      "q": "The indigenous living root bridges of Meghalaya are grown and guided across streams from the aerial roots of which tree?",
+      "o": [
+        "Ficus elastica (Rubber fig)",
+        "Ficus religiosa (Peepal)",
+        "Ficus benghalensis (Banyan)",
+        "Bambusa vulgaris (Bamboo)"
+      ],
+      "a": 0,
+      "exp": "Khasi and Jaintia tribes train the aerial roots of Ficus elastica through hollow betel nut trunks across riverbanks."
+    }
+  ],
+  "subtopics": [
+    {
+      "id": "geography",
+      "name": "Geography",
+      "summary": "Location, borders, physical terrain, and major river systems of Meghalaya.",
+      "facts": [
+        {
+          "id": "meghalaya_geo_1",
+          "topicId": "meghalaya",
+          "subtopicId": "geography",
+          "title": "Capital & Geographic Scope",
+          "content": "The capital is Shillong. Meghalaya covers a geographic area of 22,429 sq km across 12 administrative districts.",
+          "tags": [
+            "capital",
+            "geography",
+            "area"
+          ]
+        },
+        {
+          "id": "meghalaya_geo_2",
+          "topicId": "meghalaya",
+          "subtopicId": "geography",
+          "title": "Major Rivers & Drainage Systems",
+          "content": "Key river systems flowing through the region include: Umiam, Umngot (Dawki - crystal clear river), Simsang, Kopili.",
+          "tags": [
+            "rivers",
+            "water",
+            "geography"
+          ]
+        },
+        {
+          "id": "meghalaya_geo_3",
+          "topicId": "meghalaya",
+          "subtopicId": "geography",
+          "title": "Geographical Landscape & Highlights",
+          "content": "Known as the 'Abode of Clouds'. Home to Mawsynram (the wettest place on Earth), living root bridges handmade by Khasi tribes, and a matrilineal social lineage system.",
+          "tags": [
+            "terrain",
+            "features"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "history_culture",
+      "name": "History & Culture",
+      "summary": "Historical formation, classical/folk dances, and vibrant festivals of Meghalaya.",
+      "facts": [
+        {
+          "id": "meghalaya_hist_1",
+          "topicId": "meghalaya",
+          "subtopicId": "history_culture",
+          "title": "State Formation & Language",
+          "content": "Meghalaya was formally instituted on 21 January 1972. Official language(s): English, Khasi, Garo.",
+          "tags": [
+            "formation",
+            "history",
+            "languages"
+          ]
+        },
+        {
+          "id": "meghalaya_hist_2",
+          "topicId": "meghalaya",
+          "subtopicId": "history_culture",
+          "title": "Dance Forms & Traditional Arts",
+          "content": "Celebrated traditional and folk dance forms: Shad Suk Mynsiem, Nongkrem Dance, Wangala (Hundred Drums Festival).",
+          "tags": [
+            "dance",
+            "culture",
+            "arts"
+          ]
+        },
+        {
+          "id": "meghalaya_hist_3",
+          "topicId": "meghalaya",
+          "subtopicId": "history_culture",
+          "title": "Major Festivals & Celebrations",
+          "content": "Prominent cultural festivals: Wangala Festival, Shad Suk Mynsiem, Behdeinkhlam.",
+          "tags": [
+            "festivals",
+            "culture"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "polity_governance",
+      "name": "Government & Polity",
+      "summary": "Constitutional leadership, administrative structure, and state symbols of Meghalaya.",
+      "facts": [
+        {
+          "id": "meghalaya_pol_1",
+          "topicId": "meghalaya",
+          "subtopicId": "polity_governance",
+          "title": "Governor & Constitutional Head",
+          "content": "The current Governor is C. H. Vijayashankar.",
+          "lastVerified": "2026-01-01",
+          "tags": [
+            "governor",
+            "polity",
+            "executive"
+          ]
+        },
+        {
+          "id": "meghalaya_pol_2",
+          "topicId": "meghalaya",
+          "subtopicId": "polity_governance",
+          "title": "Chief Minister & Administration",
+          "content": "The Chief Minister of Meghalaya is Conrad Sangma.",
+          "lastVerified": "2026-01-01",
+          "tags": [
+            "chief_minister",
+            "governance"
+          ]
+        },
+        {
+          "id": "meghalaya_pol_3",
+          "topicId": "meghalaya",
+          "subtopicId": "polity_governance",
+          "title": "High Court Jurisdiction",
+          "content": "Judicial jurisdiction falls under High Court of Meghalaya (Shillong).",
+          "tags": [
+            "high_court",
+            "judiciary"
+          ]
+        },
+        {
+          "id": "meghalaya_pol_4",
+          "topicId": "meghalaya",
+          "subtopicId": "polity_governance",
+          "title": "Official State Symbols",
+          "content": "State Animal: Clouded leopard | State Bird: Hill myna | State Flower: Lady's slipper orchid | State Tree: White teak (Gamhar).",
+          "tags": [
+            "symbols",
+            "emblem"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "economy_agriculture",
+      "name": "Economy & Agriculture",
+      "summary": "Natural resources, minerals, industrial clusters, and agriculture in Meghalaya.",
+      "facts": [
+        {
+          "id": "meghalaya_econ_1",
+          "topicId": "meghalaya",
+          "subtopicId": "economy_agriculture",
+          "title": "Mineral Wealth & Natural Resources",
+          "content": "Principal minerals and resources: Coal, Limestone, Uranium (Domiasiat), Sillimanite.",
+          "tags": [
+            "minerals",
+            "resources",
+            "economy"
+          ]
+        },
+        {
+          "id": "meghalaya_econ_2",
+          "topicId": "meghalaya",
+          "subtopicId": "economy_agriculture",
+          "title": "Economic Profile & Industries",
+          "content": "Meghalaya plays a vital role in India's economy through key agricultural production, manufacturing corridors, and services.",
+          "tags": [
+            "industry",
+            "agriculture"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "places_monuments",
+      "name": "Places, Monuments & Tourism",
+      "summary": "Heritage landmarks, national parks, and tourism attractions in Meghalaya.",
+      "facts": [
+        {
+          "id": "meghalaya_tour_1",
+          "topicId": "meghalaya",
+          "subtopicId": "places_monuments",
+          "title": "Historic Monuments & Cultural Sites",
+          "content": "Prominent monuments and heritage landmarks: Living Root Bridges of Cherrapunji, Nohkalikai Falls (tallest plunge waterfall in India, 340m), Mawsmai Cave.",
+          "tags": [
+            "monuments",
+            "heritage",
+            "tourism"
+          ]
+        },
+        {
+          "id": "meghalaya_tour_2",
+          "topicId": "meghalaya",
+          "subtopicId": "places_monuments",
+          "title": "National Parks & Protected Areas",
+          "content": "Key protected conservation areas: Balphakram National Park, Nokrek National Park (UNESCO Biosphere Reserve).",
+          "tags": [
+            "national_parks",
+            "wildlife",
+            "conservation"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "schemes_awards",
+      "name": "State Schemes & Awards",
+      "summary": "Prominent welfare schemes, civic initiatives, and state honors of Meghalaya.",
+      "facts": [
+        {
+          "id": "meghalaya_sch_1",
+          "topicId": "meghalaya",
+          "subtopicId": "schemes_awards",
+          "title": "Key State Welfare Schemes",
+          "content": "Notable welfare initiatives and government programs: FOCUS Scheme, Meghalaya Health Insurance Scheme (MHIS).",
+          "lastVerified": "2026-01-01",
+          "tags": [
+            "schemes",
+            "welfare",
+            "governance"
+          ]
+        }
+      ]
+    }
+  ]
+}

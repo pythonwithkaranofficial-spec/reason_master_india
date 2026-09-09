@@ -9,6 +9,7 @@ import {
   NavIconExams,
   NavIconPractice,
 } from "@/components/navigation/NavIcons";
+import { MapPin, Landmark, Globe } from "lucide-react";
 
 function HomeIcon({ size = 20 }: { size?: number }) {
   return (
@@ -31,19 +32,30 @@ function HomeIcon({ size = 20 }: { size?: number }) {
 
 export function MobileNav() {
   const pathname = usePathname();
+  const isGK = pathname.startsWith("/gk");
 
   // Hide mobile nav during active test/session to give maximum focus
   if (pathname.includes("/practice/session")) {
     return null;
   }
 
-  const items = [
+  const reasoningItems = [
     { label: "Home", href: "/", icon: HomeIcon, exact: true },
     { label: "Verbal", href: "/verbal", icon: NavIconVerbal },
     { label: "Non-Verbal", href: "/nonverbal", icon: NavIconNonVerbal },
     { label: "Exams", href: "/exams", icon: NavIconExams },
     { label: "Practice", href: "/practice", icon: NavIconPractice },
   ];
+
+  const gkItems = [
+    { label: "GK Home", href: "/gk", icon: HomeIcon, exact: true },
+    { label: "States", href: "/gk/state", icon: MapPin },
+    { label: "India", href: "/gk/national", icon: Landmark },
+    { label: "World", href: "/gk/world", icon: Globe },
+    { label: "Practice", href: "/gk/practice", icon: NavIconPractice },
+  ];
+
+  const items = isGK ? gkItems : reasoningItems;
 
   return (
     <nav

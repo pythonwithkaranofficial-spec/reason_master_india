@@ -1,0 +1,279 @@
+{
+  "id": "delhi",
+  "type": "ut",
+  "name": "Delhi (NCT)",
+  "capital": "New Delhi",
+  "formationDate": "1 February 1992 (as NCT via 69th Amendment)",
+  "areaSqKm": 1484,
+  "districtsCount": 11,
+  "officialLanguages": [
+    "Hindi",
+    "English",
+    "Urdu",
+    "Punjabi"
+  ],
+  "highCourt": "Delhi High Court (est. 1966)",
+  "chiefMinister": "Atishi Marlena",
+  "governorOrLtGovernor": "Vinai Kumar Saxena",
+  "governorTitle": "Lieutenant Governor",
+  "lastVerified": "2026-01-01",
+  "stateSymbols": {
+    "animal": "Nilgai",
+    "bird": "House sparrow",
+    "flower": "Alfalfa",
+    "tree": "Flamboyant (Gulmohar)"
+  },
+  "summary": "National Capital Territory of India. Seat of the Union Government, Parliament of India, and Supreme Court. Historic city built and rebuilt over millennia (Seven Historical Cities of Delhi).",
+  "dance": "Kathak, Contemporary theatre",
+  "festivals": "Republic Day Parade, Independence Day at Red Fort, Qutub Festival",
+  "rivers": "Yamuna River",
+  "minerals": "Silica sand, China clay (Southern Ridge)",
+  "monuments": "Red Fort (UNESCO), Qutub Minar (UNESCO), Humayun's Tomb (UNESCO), India Gate, Rashtrapati Bhavan, Lotus Temple, Akshardham Temple",
+  "nationalParks": "Asola Bhatti Wildlife Sanctuary",
+  "schemes": "Mukhyamantri Mahila Samman Yojana, Free Bus Travel for Women, Delhi Solar Policy",
+  "mcqs": [
+    {
+      "q": "Which monument in Delhi was the first garden-tomb on the Indian subcontinent and inspired the architecture of the Taj Mahal?",
+      "o": [
+        "Humayun's Tomb",
+        "Safdarjung Tomb",
+        "Qutub Minar",
+        "Tomb of Iltutmish"
+      ],
+      "a": 0,
+      "exp": "Humayun's Tomb, built in 1569-70 by his widow Bega Begum (Haji Begum), is a designated UNESCO World Heritage Site."
+    },
+    {
+      "q": "Through which Constitutional Amendment Act was Delhi designated as the 'National Capital Territory of Delhi' (NCT) with a Legislative Assembly in 1991?",
+      "o": [
+        "69th Amendment Act",
+        "61st Amendment Act",
+        "73rd Amendment Act",
+        "86th Amendment Act"
+      ],
+      "a": 0,
+      "exp": "The 69th Constitutional Amendment Act, 1991 inserted Articles 239AA and 239AB into the Indian Constitution, creating the NCT of Delhi."
+    }
+  ],
+  "subtopics": [
+    {
+      "id": "geography",
+      "name": "Geography",
+      "summary": "Location, borders, physical terrain, and major river systems of Delhi (NCT).",
+      "facts": [
+        {
+          "id": "delhi_geo_1",
+          "topicId": "delhi",
+          "subtopicId": "geography",
+          "title": "Capital & Geographic Scope",
+          "content": "The capital is New Delhi. Delhi (NCT) covers a geographic area of 1,484 sq km across 11 administrative districts.",
+          "tags": [
+            "capital",
+            "geography",
+            "area"
+          ]
+        },
+        {
+          "id": "delhi_geo_2",
+          "topicId": "delhi",
+          "subtopicId": "geography",
+          "title": "Major Rivers & Drainage Systems",
+          "content": "Key river systems flowing through the region include: Yamuna River.",
+          "tags": [
+            "rivers",
+            "water",
+            "geography"
+          ]
+        },
+        {
+          "id": "delhi_geo_3",
+          "topicId": "delhi",
+          "subtopicId": "geography",
+          "title": "Geographical Landscape & Highlights",
+          "content": "National Capital Territory of India. Seat of the Union Government, Parliament of India, and Supreme Court. Historic city built and rebuilt over millennia (Seven Historical Cities of Delhi).",
+          "tags": [
+            "terrain",
+            "features"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "history_culture",
+      "name": "History & Culture",
+      "summary": "Historical formation, classical/folk dances, and vibrant festivals of Delhi (NCT).",
+      "facts": [
+        {
+          "id": "delhi_hist_1",
+          "topicId": "delhi",
+          "subtopicId": "history_culture",
+          "title": "State Formation & Language",
+          "content": "Delhi (NCT) was formally instituted on 1 February 1992 (as NCT via 69th Amendment). Official language(s): Hindi, English, Urdu, Punjabi.",
+          "tags": [
+            "formation",
+            "history",
+            "languages"
+          ]
+        },
+        {
+          "id": "delhi_hist_2",
+          "topicId": "delhi",
+          "subtopicId": "history_culture",
+          "title": "Dance Forms & Traditional Arts",
+          "content": "Celebrated traditional and folk dance forms: Kathak, Contemporary theatre.",
+          "tags": [
+            "dance",
+            "culture",
+            "arts"
+          ]
+        },
+        {
+          "id": "delhi_hist_3",
+          "topicId": "delhi",
+          "subtopicId": "history_culture",
+          "title": "Major Festivals & Celebrations",
+          "content": "Prominent cultural festivals: Republic Day Parade, Independence Day at Red Fort, Qutub Festival.",
+          "tags": [
+            "festivals",
+            "culture"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "polity_governance",
+      "name": "Government & Polity",
+      "summary": "Constitutional leadership, administrative structure, and state symbols of Delhi (NCT).",
+      "facts": [
+        {
+          "id": "delhi_pol_1",
+          "topicId": "delhi",
+          "subtopicId": "polity_governance",
+          "title": "Lieutenant Governor & Constitutional Head",
+          "content": "The current Lieutenant Governor is Vinai Kumar Saxena.",
+          "lastVerified": "2026-01-01",
+          "tags": [
+            "governor",
+            "polity",
+            "executive"
+          ]
+        },
+        {
+          "id": "delhi_pol_2",
+          "topicId": "delhi",
+          "subtopicId": "polity_governance",
+          "title": "Chief Minister & Administration",
+          "content": "The Chief Minister of Delhi (NCT) is Atishi Marlena.",
+          "lastVerified": "2026-01-01",
+          "tags": [
+            "chief_minister",
+            "governance"
+          ]
+        },
+        {
+          "id": "delhi_pol_3",
+          "topicId": "delhi",
+          "subtopicId": "polity_governance",
+          "title": "High Court Jurisdiction",
+          "content": "Judicial jurisdiction falls under Delhi High Court (est. 1966).",
+          "tags": [
+            "high_court",
+            "judiciary"
+          ]
+        },
+        {
+          "id": "delhi_pol_4",
+          "topicId": "delhi",
+          "subtopicId": "polity_governance",
+          "title": "Official State Symbols",
+          "content": "State Animal: Nilgai | State Bird: House sparrow | State Flower: Alfalfa | State Tree: Flamboyant (Gulmohar).",
+          "tags": [
+            "symbols",
+            "emblem"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "economy_agriculture",
+      "name": "Economy & Agriculture",
+      "summary": "Natural resources, minerals, industrial clusters, and agriculture in Delhi (NCT).",
+      "facts": [
+        {
+          "id": "delhi_econ_1",
+          "topicId": "delhi",
+          "subtopicId": "economy_agriculture",
+          "title": "Mineral Wealth & Natural Resources",
+          "content": "Principal minerals and resources: Silica sand, China clay (Southern Ridge).",
+          "tags": [
+            "minerals",
+            "resources",
+            "economy"
+          ]
+        },
+        {
+          "id": "delhi_econ_2",
+          "topicId": "delhi",
+          "subtopicId": "economy_agriculture",
+          "title": "Economic Profile & Industries",
+          "content": "Delhi (NCT) plays a vital role in India's economy through key agricultural production, manufacturing corridors, and services.",
+          "tags": [
+            "industry",
+            "agriculture"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "places_monuments",
+      "name": "Places, Monuments & Tourism",
+      "summary": "Heritage landmarks, national parks, and tourism attractions in Delhi (NCT).",
+      "facts": [
+        {
+          "id": "delhi_tour_1",
+          "topicId": "delhi",
+          "subtopicId": "places_monuments",
+          "title": "Historic Monuments & Cultural Sites",
+          "content": "Prominent monuments and heritage landmarks: Red Fort (UNESCO), Qutub Minar (UNESCO), Humayun's Tomb (UNESCO), India Gate, Rashtrapati Bhavan, Lotus Temple, Akshardham Temple.",
+          "tags": [
+            "monuments",
+            "heritage",
+            "tourism"
+          ]
+        },
+        {
+          "id": "delhi_tour_2",
+          "topicId": "delhi",
+          "subtopicId": "places_monuments",
+          "title": "National Parks & Protected Areas",
+          "content": "Key protected conservation areas: Asola Bhatti Wildlife Sanctuary.",
+          "tags": [
+            "national_parks",
+            "wildlife",
+            "conservation"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "schemes_awards",
+      "name": "State Schemes & Awards",
+      "summary": "Prominent welfare schemes, civic initiatives, and state honors of Delhi (NCT).",
+      "facts": [
+        {
+          "id": "delhi_sch_1",
+          "topicId": "delhi",
+          "subtopicId": "schemes_awards",
+          "title": "Key State Welfare Schemes",
+          "content": "Notable welfare initiatives and government programs: Mukhyamantri Mahila Samman Yojana, Free Bus Travel for Women, Delhi Solar Policy.",
+          "lastVerified": "2026-01-01",
+          "tags": [
+            "schemes",
+            "welfare",
+            "governance"
+          ]
+        }
+      ]
+    }
+  ]
+}

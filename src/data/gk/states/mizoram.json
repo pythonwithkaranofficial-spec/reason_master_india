@@ -1,0 +1,277 @@
+{
+  "id": "mizoram",
+  "type": "state",
+  "name": "Mizoram",
+  "capital": "Aizawl",
+  "formationDate": "20 February 1987",
+  "areaSqKm": 21081,
+  "districtsCount": 11,
+  "officialLanguages": [
+    "Mizo",
+    "English"
+  ],
+  "highCourt": "Gauhati High Court (Aizawl Permanent Bench)",
+  "chiefMinister": "Lalduhoma",
+  "governorOrLtGovernor": "Hari Babu Kambhampati",
+  "governorTitle": "Governor",
+  "lastVerified": "2026-01-01",
+  "stateSymbols": {
+    "animal": "Himalayan serow",
+    "bird": "Mrs. Hume's pheasant",
+    "flower": "Red vanda",
+    "tree": "Iron wood (Herse)"
+  },
+  "summary": "Known as the 'Land of the Hill People'. Boasts the highest percentage of forest cover among Indian states (over 85%). Famous for its Cheraw (bamboo dance) and peaceful Mizo Accord (1986).",
+  "dance": "Cheraw (Bamboo Dance), Khuallam, Chheihlam, Chai",
+  "festivals": "Chapchar Kut, Mim Kut, Pawl Kut",
+  "rivers": "Tlawng, Chhimtuipui (Kaladan), Tut, Tuivawl",
+  "minerals": "Sandstone, Limestone, Clay",
+  "monuments": "Solomon's Temple (Aizawl), Vantawng Falls (highest waterfall in Mizoram, 229m), Phawngpui Blue Mountain",
+  "nationalParks": "Murlen National Park, Phawngpui National Park (Blue Mountain)",
+  "schemes": "Handholding Scheme (Bana Kaih), SEDP (Socio-Economic Development Policy)",
+  "mcqs": [
+    {
+      "q": "Which famous traditional folk dance of Mizoram involves dancers stepping in and out between pairs of horizontal bamboo staves?",
+      "o": [
+        "Cheraw (Bamboo Dance)",
+        "Khuallam",
+        "Chheihlam",
+        "Chai"
+      ],
+      "a": 0,
+      "exp": "Cheraw is an ancient dance of Mizoram where male performers rhythmically clap bamboo poles while female dancers step skillfully in between."
+    },
+    {
+      "q": "What is the highest mountain peak in Mizoram, affectionately known as the 'Blue Mountain'?",
+      "o": [
+        "Phawngpui",
+        "Saramati",
+        "Doda Betta",
+        "Kangchenjunga"
+      ],
+      "a": 0,
+      "exp": "Phawngpui (elevation 2,157 m) is the highest peak in Mizoram, reverentially called the Blue Mountain."
+    }
+  ],
+  "subtopics": [
+    {
+      "id": "geography",
+      "name": "Geography",
+      "summary": "Location, borders, physical terrain, and major river systems of Mizoram.",
+      "facts": [
+        {
+          "id": "mizoram_geo_1",
+          "topicId": "mizoram",
+          "subtopicId": "geography",
+          "title": "Capital & Geographic Scope",
+          "content": "The capital is Aizawl. Mizoram covers a geographic area of 21,081 sq km across 11 administrative districts.",
+          "tags": [
+            "capital",
+            "geography",
+            "area"
+          ]
+        },
+        {
+          "id": "mizoram_geo_2",
+          "topicId": "mizoram",
+          "subtopicId": "geography",
+          "title": "Major Rivers & Drainage Systems",
+          "content": "Key river systems flowing through the region include: Tlawng, Chhimtuipui (Kaladan), Tut, Tuivawl.",
+          "tags": [
+            "rivers",
+            "water",
+            "geography"
+          ]
+        },
+        {
+          "id": "mizoram_geo_3",
+          "topicId": "mizoram",
+          "subtopicId": "geography",
+          "title": "Geographical Landscape & Highlights",
+          "content": "Known as the 'Land of the Hill People'. Boasts the highest percentage of forest cover among Indian states (over 85%). Famous for its Cheraw (bamboo dance) and peaceful Mizo Accord (1986).",
+          "tags": [
+            "terrain",
+            "features"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "history_culture",
+      "name": "History & Culture",
+      "summary": "Historical formation, classical/folk dances, and vibrant festivals of Mizoram.",
+      "facts": [
+        {
+          "id": "mizoram_hist_1",
+          "topicId": "mizoram",
+          "subtopicId": "history_culture",
+          "title": "State Formation & Language",
+          "content": "Mizoram was formally instituted on 20 February 1987. Official language(s): Mizo, English.",
+          "tags": [
+            "formation",
+            "history",
+            "languages"
+          ]
+        },
+        {
+          "id": "mizoram_hist_2",
+          "topicId": "mizoram",
+          "subtopicId": "history_culture",
+          "title": "Dance Forms & Traditional Arts",
+          "content": "Celebrated traditional and folk dance forms: Cheraw (Bamboo Dance), Khuallam, Chheihlam, Chai.",
+          "tags": [
+            "dance",
+            "culture",
+            "arts"
+          ]
+        },
+        {
+          "id": "mizoram_hist_3",
+          "topicId": "mizoram",
+          "subtopicId": "history_culture",
+          "title": "Major Festivals & Celebrations",
+          "content": "Prominent cultural festivals: Chapchar Kut, Mim Kut, Pawl Kut.",
+          "tags": [
+            "festivals",
+            "culture"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "polity_governance",
+      "name": "Government & Polity",
+      "summary": "Constitutional leadership, administrative structure, and state symbols of Mizoram.",
+      "facts": [
+        {
+          "id": "mizoram_pol_1",
+          "topicId": "mizoram",
+          "subtopicId": "polity_governance",
+          "title": "Governor & Constitutional Head",
+          "content": "The current Governor is Hari Babu Kambhampati.",
+          "lastVerified": "2026-01-01",
+          "tags": [
+            "governor",
+            "polity",
+            "executive"
+          ]
+        },
+        {
+          "id": "mizoram_pol_2",
+          "topicId": "mizoram",
+          "subtopicId": "polity_governance",
+          "title": "Chief Minister & Administration",
+          "content": "The Chief Minister of Mizoram is Lalduhoma.",
+          "lastVerified": "2026-01-01",
+          "tags": [
+            "chief_minister",
+            "governance"
+          ]
+        },
+        {
+          "id": "mizoram_pol_3",
+          "topicId": "mizoram",
+          "subtopicId": "polity_governance",
+          "title": "High Court Jurisdiction",
+          "content": "Judicial jurisdiction falls under Gauhati High Court (Aizawl Permanent Bench).",
+          "tags": [
+            "high_court",
+            "judiciary"
+          ]
+        },
+        {
+          "id": "mizoram_pol_4",
+          "topicId": "mizoram",
+          "subtopicId": "polity_governance",
+          "title": "Official State Symbols",
+          "content": "State Animal: Himalayan serow | State Bird: Mrs. Hume's pheasant | State Flower: Red vanda | State Tree: Iron wood (Herse).",
+          "tags": [
+            "symbols",
+            "emblem"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "economy_agriculture",
+      "name": "Economy & Agriculture",
+      "summary": "Natural resources, minerals, industrial clusters, and agriculture in Mizoram.",
+      "facts": [
+        {
+          "id": "mizoram_econ_1",
+          "topicId": "mizoram",
+          "subtopicId": "economy_agriculture",
+          "title": "Mineral Wealth & Natural Resources",
+          "content": "Principal minerals and resources: Sandstone, Limestone, Clay.",
+          "tags": [
+            "minerals",
+            "resources",
+            "economy"
+          ]
+        },
+        {
+          "id": "mizoram_econ_2",
+          "topicId": "mizoram",
+          "subtopicId": "economy_agriculture",
+          "title": "Economic Profile & Industries",
+          "content": "Mizoram plays a vital role in India's economy through key agricultural production, manufacturing corridors, and services.",
+          "tags": [
+            "industry",
+            "agriculture"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "places_monuments",
+      "name": "Places, Monuments & Tourism",
+      "summary": "Heritage landmarks, national parks, and tourism attractions in Mizoram.",
+      "facts": [
+        {
+          "id": "mizoram_tour_1",
+          "topicId": "mizoram",
+          "subtopicId": "places_monuments",
+          "title": "Historic Monuments & Cultural Sites",
+          "content": "Prominent monuments and heritage landmarks: Solomon's Temple (Aizawl), Vantawng Falls (highest waterfall in Mizoram, 229m), Phawngpui Blue Mountain.",
+          "tags": [
+            "monuments",
+            "heritage",
+            "tourism"
+          ]
+        },
+        {
+          "id": "mizoram_tour_2",
+          "topicId": "mizoram",
+          "subtopicId": "places_monuments",
+          "title": "National Parks & Protected Areas",
+          "content": "Key protected conservation areas: Murlen National Park, Phawngpui National Park (Blue Mountain).",
+          "tags": [
+            "national_parks",
+            "wildlife",
+            "conservation"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "schemes_awards",
+      "name": "State Schemes & Awards",
+      "summary": "Prominent welfare schemes, civic initiatives, and state honors of Mizoram.",
+      "facts": [
+        {
+          "id": "mizoram_sch_1",
+          "topicId": "mizoram",
+          "subtopicId": "schemes_awards",
+          "title": "Key State Welfare Schemes",
+          "content": "Notable welfare initiatives and government programs: Handholding Scheme (Bana Kaih), SEDP (Socio-Economic Development Policy).",
+          "lastVerified": "2026-01-01",
+          "tags": [
+            "schemes",
+            "welfare",
+            "governance"
+          ]
+        }
+      ]
+    }
+  ]
+}

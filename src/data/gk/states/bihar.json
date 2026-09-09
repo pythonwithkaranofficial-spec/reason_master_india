@@ -1,0 +1,288 @@
+{
+  "id": "bihar",
+  "type": "state",
+  "name": "Bihar",
+  "capital": "Patna",
+  "formationDate": "22 March 1912",
+  "areaSqKm": 94163,
+  "districtsCount": 38,
+  "officialLanguages": [
+    "Hindi",
+    "Urdu"
+  ],
+  "highCourt": "Patna High Court",
+  "chiefMinister": "Nitish Kumar",
+  "governorOrLtGovernor": "Rajendra Arlekar",
+  "governorTitle": "Governor",
+  "lastVerified": "2026-01-01",
+  "stateSymbols": {
+    "animal": "Gaur",
+    "bird": "House sparrow",
+    "flower": "Kachnar",
+    "tree": "Peepal"
+  },
+  "summary": "Birthplace of Buddhism and Jainism. Seat of ancient empires (Magadha, Maurya, Gupta) and world-renowned ancient universities (Nalanda and Vikramashila). Celebrates Chhath Puja.",
+  "dance": "Bidesia, Jat-Jatin, Jhijhiya, Kajari",
+  "festivals": "Chhath Puja, Sonepur Cattle Fair, Sama Chakeva",
+  "rivers": "Ganga, Gandak, Kosi, Son, Bagmati, Ghaghara",
+  "minerals": "Pyrites (Amjhore), Mica, Limestone, Steatite",
+  "monuments": "Mahabodhi Temple (Bodh Gaya), Nalanda University Ruins, Golghar, Sasaram Tomb of Sher Shah Suri",
+  "nationalParks": "Valmiki National Park, Vikramshila Gangetic Dolphin Sanctuary",
+  "schemes": "Saat Nischay Part-2, Mukhyamantri Kanya Utthan Yojana, Student Credit Card Scheme",
+  "mcqs": [
+    {
+      "q": "Under which tree did Gautama Buddha attain enlightenment in Bodh Gaya, Bihar?",
+      "o": [
+        "Bodhi Tree (Peepal)",
+        "Banyan Tree",
+        "Sal Tree",
+        "Neem Tree"
+      ],
+      "a": 0,
+      "exp": "Gautama Buddha attained supreme enlightenment under the sacred Bodhi tree at Bodh Gaya."
+    },
+    {
+      "q": "Which ancient university in Bihar was revived in the 21st century after its historical destruction in 1193 AD?",
+      "o": [
+        "Nalanda University",
+        "Takshashila University",
+        "Vikramashila University",
+        "Odantapuri University"
+      ],
+      "a": 0,
+      "exp": "Nalanda Mahavihara was founded by Kumaragupta I of the Gupta dynasty in the 5th century AD."
+    },
+    {
+      "q": "Which river is historically known as the 'Sorrow of Bihar' due to frequent course shifts and floods?",
+      "o": [
+        "Kosi River",
+        "Gandak River",
+        "Son River",
+        "Ghaghara River"
+      ],
+      "a": 0,
+      "exp": "The Kosi River has shifted course over 120 km over 250 years, causing devastating inundation."
+    }
+  ],
+  "subtopics": [
+    {
+      "id": "geography",
+      "name": "Geography",
+      "summary": "Location, borders, physical terrain, and major river systems of Bihar.",
+      "facts": [
+        {
+          "id": "bihar_geo_1",
+          "topicId": "bihar",
+          "subtopicId": "geography",
+          "title": "Capital & Geographic Scope",
+          "content": "The capital is Patna. Bihar covers a geographic area of 94,163 sq km across 38 administrative districts.",
+          "tags": [
+            "capital",
+            "geography",
+            "area"
+          ]
+        },
+        {
+          "id": "bihar_geo_2",
+          "topicId": "bihar",
+          "subtopicId": "geography",
+          "title": "Major Rivers & Drainage Systems",
+          "content": "Key river systems flowing through the region include: Ganga, Gandak, Kosi, Son, Bagmati, Ghaghara.",
+          "tags": [
+            "rivers",
+            "water",
+            "geography"
+          ]
+        },
+        {
+          "id": "bihar_geo_3",
+          "topicId": "bihar",
+          "subtopicId": "geography",
+          "title": "Geographical Landscape & Highlights",
+          "content": "Birthplace of Buddhism and Jainism. Seat of ancient empires (Magadha, Maurya, Gupta) and world-renowned ancient universities (Nalanda and Vikramashila). Celebrates Chhath Puja.",
+          "tags": [
+            "terrain",
+            "features"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "history_culture",
+      "name": "History & Culture",
+      "summary": "Historical formation, classical/folk dances, and vibrant festivals of Bihar.",
+      "facts": [
+        {
+          "id": "bihar_hist_1",
+          "topicId": "bihar",
+          "subtopicId": "history_culture",
+          "title": "State Formation & Language",
+          "content": "Bihar was formally instituted on 22 March 1912. Official language(s): Hindi, Urdu.",
+          "tags": [
+            "formation",
+            "history",
+            "languages"
+          ]
+        },
+        {
+          "id": "bihar_hist_2",
+          "topicId": "bihar",
+          "subtopicId": "history_culture",
+          "title": "Dance Forms & Traditional Arts",
+          "content": "Celebrated traditional and folk dance forms: Bidesia, Jat-Jatin, Jhijhiya, Kajari.",
+          "tags": [
+            "dance",
+            "culture",
+            "arts"
+          ]
+        },
+        {
+          "id": "bihar_hist_3",
+          "topicId": "bihar",
+          "subtopicId": "history_culture",
+          "title": "Major Festivals & Celebrations",
+          "content": "Prominent cultural festivals: Chhath Puja, Sonepur Cattle Fair, Sama Chakeva.",
+          "tags": [
+            "festivals",
+            "culture"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "polity_governance",
+      "name": "Government & Polity",
+      "summary": "Constitutional leadership, administrative structure, and state symbols of Bihar.",
+      "facts": [
+        {
+          "id": "bihar_pol_1",
+          "topicId": "bihar",
+          "subtopicId": "polity_governance",
+          "title": "Governor & Constitutional Head",
+          "content": "The current Governor is Rajendra Arlekar.",
+          "lastVerified": "2026-01-01",
+          "tags": [
+            "governor",
+            "polity",
+            "executive"
+          ]
+        },
+        {
+          "id": "bihar_pol_2",
+          "topicId": "bihar",
+          "subtopicId": "polity_governance",
+          "title": "Chief Minister & Administration",
+          "content": "The Chief Minister of Bihar is Nitish Kumar.",
+          "lastVerified": "2026-01-01",
+          "tags": [
+            "chief_minister",
+            "governance"
+          ]
+        },
+        {
+          "id": "bihar_pol_3",
+          "topicId": "bihar",
+          "subtopicId": "polity_governance",
+          "title": "High Court Jurisdiction",
+          "content": "Judicial jurisdiction falls under Patna High Court.",
+          "tags": [
+            "high_court",
+            "judiciary"
+          ]
+        },
+        {
+          "id": "bihar_pol_4",
+          "topicId": "bihar",
+          "subtopicId": "polity_governance",
+          "title": "Official State Symbols",
+          "content": "State Animal: Gaur | State Bird: House sparrow | State Flower: Kachnar | State Tree: Peepal.",
+          "tags": [
+            "symbols",
+            "emblem"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "economy_agriculture",
+      "name": "Economy & Agriculture",
+      "summary": "Natural resources, minerals, industrial clusters, and agriculture in Bihar.",
+      "facts": [
+        {
+          "id": "bihar_econ_1",
+          "topicId": "bihar",
+          "subtopicId": "economy_agriculture",
+          "title": "Mineral Wealth & Natural Resources",
+          "content": "Principal minerals and resources: Pyrites (Amjhore), Mica, Limestone, Steatite.",
+          "tags": [
+            "minerals",
+            "resources",
+            "economy"
+          ]
+        },
+        {
+          "id": "bihar_econ_2",
+          "topicId": "bihar",
+          "subtopicId": "economy_agriculture",
+          "title": "Economic Profile & Industries",
+          "content": "Bihar plays a vital role in India's economy through key agricultural production, manufacturing corridors, and services.",
+          "tags": [
+            "industry",
+            "agriculture"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "places_monuments",
+      "name": "Places, Monuments & Tourism",
+      "summary": "Heritage landmarks, national parks, and tourism attractions in Bihar.",
+      "facts": [
+        {
+          "id": "bihar_tour_1",
+          "topicId": "bihar",
+          "subtopicId": "places_monuments",
+          "title": "Historic Monuments & Cultural Sites",
+          "content": "Prominent monuments and heritage landmarks: Mahabodhi Temple (Bodh Gaya), Nalanda University Ruins, Golghar, Sasaram Tomb of Sher Shah Suri.",
+          "tags": [
+            "monuments",
+            "heritage",
+            "tourism"
+          ]
+        },
+        {
+          "id": "bihar_tour_2",
+          "topicId": "bihar",
+          "subtopicId": "places_monuments",
+          "title": "National Parks & Protected Areas",
+          "content": "Key protected conservation areas: Valmiki National Park, Vikramshila Gangetic Dolphin Sanctuary.",
+          "tags": [
+            "national_parks",
+            "wildlife",
+            "conservation"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "schemes_awards",
+      "name": "State Schemes & Awards",
+      "summary": "Prominent welfare schemes, civic initiatives, and state honors of Bihar.",
+      "facts": [
+        {
+          "id": "bihar_sch_1",
+          "topicId": "bihar",
+          "subtopicId": "schemes_awards",
+          "title": "Key State Welfare Schemes",
+          "content": "Notable welfare initiatives and government programs: Saat Nischay Part-2, Mukhyamantri Kanya Utthan Yojana, Student Credit Card Scheme.",
+          "lastVerified": "2026-01-01",
+          "tags": [
+            "schemes",
+            "welfare",
+            "governance"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,280 @@
+{
+  "id": "puducherry",
+  "type": "ut",
+  "name": "Puducherry",
+  "capital": "Puducherry",
+  "formationDate": "16 August 1962 (De Jure transfer from France)",
+  "areaSqKm": 492,
+  "districtsCount": 4,
+  "officialLanguages": [
+    "Tamil",
+    "French",
+    "Telugu",
+    "Malayalam",
+    "English"
+  ],
+  "highCourt": "Madras High Court (Chennai)",
+  "chiefMinister": "N. Rangasamy",
+  "governorOrLtGovernor": "K. Kailashnathan",
+  "governorTitle": "Lieutenant Governor",
+  "lastVerified": "2026-01-01",
+  "stateSymbols": {
+    "animal": "Indian palm squirrel",
+    "bird": "Asian koel",
+    "flower": "Cannonball flower (Nagalingam)",
+    "tree": "Bael fruit tree"
+  },
+  "summary": "Comprises 4 non-contiguous geographical enclaves: Puducherry & Karaikal (in Tamil Nadu), Yanam (in Andhra Pradesh), and Mahe (in Kerala). Former French colonial capital; home to Sri Aurobindo Ashram and experimental global township Auroville.",
+  "dance": "Garadi (celebrating Rama's victory over Ravana)",
+  "festivals": "Bastille Day (14 July), Fete de Puducherry, French Food Festival",
+  "rivers": "Gingee (Sankaraparani), Mahe River, Coringa (Godavari distributary in Yanam)",
+  "minerals": "Lignite, Limestone",
+  "monuments": "Auroville (Matrimandir - 'Temple of the Mother'), Sri Aurobindo Ashram, Promenade Beach, French Quarter (White Town)",
+  "nationalParks": "Ousteri Lake (Ramsar Conservation Site)",
+  "schemes": "Free Rice Scheme, Laptop distribution for higher education",
+  "mcqs": [
+    {
+      "q": "Auroville, the experimental international universal township designed by French architect Roger Anger, is located near which Union Territory?",
+      "o": [
+        "Puducherry",
+        "Chandigarh",
+        "Daman",
+        "Goa"
+      ],
+      "a": 0,
+      "exp": "Auroville was founded in 1968 by Mirra Alfassa ('The Mother') of Sri Aurobindo Ashram and endorsed by UNESCO."
+    },
+    {
+      "q": "Which enclave of Puducherry, situated on the Malabar Coast of Kerala, is India's smallest district by geographic area (approx 9 sq km)?",
+      "o": [
+        "Mahe",
+        "Yanam",
+        "Karaikal",
+        "Puducherry"
+      ],
+      "a": 0,
+      "exp": "Mahe in Kerala is the smallest district in India, spanning just 9 sq km."
+    }
+  ],
+  "subtopics": [
+    {
+      "id": "geography",
+      "name": "Geography",
+      "summary": "Location, borders, physical terrain, and major river systems of Puducherry.",
+      "facts": [
+        {
+          "id": "puducherry_geo_1",
+          "topicId": "puducherry",
+          "subtopicId": "geography",
+          "title": "Capital & Geographic Scope",
+          "content": "The capital is Puducherry. Puducherry covers a geographic area of 492 sq km across 4 administrative districts.",
+          "tags": [
+            "capital",
+            "geography",
+            "area"
+          ]
+        },
+        {
+          "id": "puducherry_geo_2",
+          "topicId": "puducherry",
+          "subtopicId": "geography",
+          "title": "Major Rivers & Drainage Systems",
+          "content": "Key river systems flowing through the region include: Gingee (Sankaraparani), Mahe River, Coringa (Godavari distributary in Yanam).",
+          "tags": [
+            "rivers",
+            "water",
+            "geography"
+          ]
+        },
+        {
+          "id": "puducherry_geo_3",
+          "topicId": "puducherry",
+          "subtopicId": "geography",
+          "title": "Geographical Landscape & Highlights",
+          "content": "Comprises 4 non-contiguous geographical enclaves: Puducherry & Karaikal (in Tamil Nadu), Yanam (in Andhra Pradesh), and Mahe (in Kerala). Former French colonial capital; home to Sri Aurobindo Ashram and experimental global township Auroville.",
+          "tags": [
+            "terrain",
+            "features"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "history_culture",
+      "name": "History & Culture",
+      "summary": "Historical formation, classical/folk dances, and vibrant festivals of Puducherry.",
+      "facts": [
+        {
+          "id": "puducherry_hist_1",
+          "topicId": "puducherry",
+          "subtopicId": "history_culture",
+          "title": "State Formation & Language",
+          "content": "Puducherry was formally instituted on 16 August 1962 (De Jure transfer from France). Official language(s): Tamil, French, Telugu, Malayalam, English.",
+          "tags": [
+            "formation",
+            "history",
+            "languages"
+          ]
+        },
+        {
+          "id": "puducherry_hist_2",
+          "topicId": "puducherry",
+          "subtopicId": "history_culture",
+          "title": "Dance Forms & Traditional Arts",
+          "content": "Celebrated traditional and folk dance forms: Garadi (celebrating Rama's victory over Ravana).",
+          "tags": [
+            "dance",
+            "culture",
+            "arts"
+          ]
+        },
+        {
+          "id": "puducherry_hist_3",
+          "topicId": "puducherry",
+          "subtopicId": "history_culture",
+          "title": "Major Festivals & Celebrations",
+          "content": "Prominent cultural festivals: Bastille Day (14 July), Fete de Puducherry, French Food Festival.",
+          "tags": [
+            "festivals",
+            "culture"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "polity_governance",
+      "name": "Government & Polity",
+      "summary": "Constitutional leadership, administrative structure, and state symbols of Puducherry.",
+      "facts": [
+        {
+          "id": "puducherry_pol_1",
+          "topicId": "puducherry",
+          "subtopicId": "polity_governance",
+          "title": "Lieutenant Governor & Constitutional Head",
+          "content": "The current Lieutenant Governor is K. Kailashnathan.",
+          "lastVerified": "2026-01-01",
+          "tags": [
+            "governor",
+            "polity",
+            "executive"
+          ]
+        },
+        {
+          "id": "puducherry_pol_2",
+          "topicId": "puducherry",
+          "subtopicId": "polity_governance",
+          "title": "Chief Minister & Administration",
+          "content": "The Chief Minister of Puducherry is N. Rangasamy.",
+          "lastVerified": "2026-01-01",
+          "tags": [
+            "chief_minister",
+            "governance"
+          ]
+        },
+        {
+          "id": "puducherry_pol_3",
+          "topicId": "puducherry",
+          "subtopicId": "polity_governance",
+          "title": "High Court Jurisdiction",
+          "content": "Judicial jurisdiction falls under Madras High Court (Chennai).",
+          "tags": [
+            "high_court",
+            "judiciary"
+          ]
+        },
+        {
+          "id": "puducherry_pol_4",
+          "topicId": "puducherry",
+          "subtopicId": "polity_governance",
+          "title": "Official State Symbols",
+          "content": "State Animal: Indian palm squirrel | State Bird: Asian koel | State Flower: Cannonball flower (Nagalingam) | State Tree: Bael fruit tree.",
+          "tags": [
+            "symbols",
+            "emblem"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "economy_agriculture",
+      "name": "Economy & Agriculture",
+      "summary": "Natural resources, minerals, industrial clusters, and agriculture in Puducherry.",
+      "facts": [
+        {
+          "id": "puducherry_econ_1",
+          "topicId": "puducherry",
+          "subtopicId": "economy_agriculture",
+          "title": "Mineral Wealth & Natural Resources",
+          "content": "Principal minerals and resources: Lignite, Limestone.",
+          "tags": [
+            "minerals",
+            "resources",
+            "economy"
+          ]
+        },
+        {
+          "id": "puducherry_econ_2",
+          "topicId": "puducherry",
+          "subtopicId": "economy_agriculture",
+          "title": "Economic Profile & Industries",
+          "content": "Puducherry plays a vital role in India's economy through key agricultural production, manufacturing corridors, and services.",
+          "tags": [
+            "industry",
+            "agriculture"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "places_monuments",
+      "name": "Places, Monuments & Tourism",
+      "summary": "Heritage landmarks, national parks, and tourism attractions in Puducherry.",
+      "facts": [
+        {
+          "id": "puducherry_tour_1",
+          "topicId": "puducherry",
+          "subtopicId": "places_monuments",
+          "title": "Historic Monuments & Cultural Sites",
+          "content": "Prominent monuments and heritage landmarks: Auroville (Matrimandir - 'Temple of the Mother'), Sri Aurobindo Ashram, Promenade Beach, French Quarter (White Town).",
+          "tags": [
+            "monuments",
+            "heritage",
+            "tourism"
+          ]
+        },
+        {
+          "id": "puducherry_tour_2",
+          "topicId": "puducherry",
+          "subtopicId": "places_monuments",
+          "title": "National Parks & Protected Areas",
+          "content": "Key protected conservation areas: Ousteri Lake (Ramsar Conservation Site).",
+          "tags": [
+            "national_parks",
+            "wildlife",
+            "conservation"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "schemes_awards",
+      "name": "State Schemes & Awards",
+      "summary": "Prominent welfare schemes, civic initiatives, and state honors of Puducherry.",
+      "facts": [
+        {
+          "id": "puducherry_sch_1",
+          "topicId": "puducherry",
+          "subtopicId": "schemes_awards",
+          "title": "Key State Welfare Schemes",
+          "content": "Notable welfare initiatives and government programs: Free Rice Scheme, Laptop distribution for higher education.",
+          "lastVerified": "2026-01-01",
+          "tags": [
+            "schemes",
+            "welfare",
+            "governance"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "world_important_days",
+  "name": "Important World Days",
+  "iconName": "Calendar",
+  "summary": "United Nations international days, global environmental dates, and human rights anniversaries.",
+  "concept": "Key international observances celebrated globally: International Women's Day (8 March), World Water Day (22 March), World Health Day (7 April), Earth Day (22 April), World Environment Day (5 June), International Day of Yoga (21 June), World Ozone Day (16 September), and Human Rights Day (10 December).",
+  "subtopics": [
+    {
+      "id": "un_international_days",
+      "name": "Global Observances & Origins",
+      "summary": "Dates, UN resolutions, environmental awareness, and human rights.",
+      "facts": [
+        {
+          "title": "World Environment Day (5 June)",
+          "content": "Led by the United Nations Environment Programme (UNEP) since 1973, marking the anniversary of the 1972 Stockholm Conference on the Human Environment.",
+          "tags": [
+            "environment",
+            "unep"
+          ]
+        },
+        {
+          "title": "International Day of Yoga (21 June)",
+          "content": "Adopted unanimously by the UN General Assembly in December 2014 following a proposal by Indian Prime Minister Narendra Modi. Celebrated annually on 21 June (summer solstice).",
+          "tags": [
+            "yoga",
+            "united_nations"
+          ]
+        }
+      ]
+    }
+  ],
+  "mcqs": [
+    {
+      "q": "On which date is World Environment Day celebrated globally under the leadership of UNEP?",
+      "o": [
+        "5 June",
+        "22 April",
+        "21 March",
+        "16 September"
+      ],
+      "a": 0,
+      "exp": "World Environment Day has been celebrated annually on 5 June since 1973."
+    },
+    {
+      "q": "Human Rights Day is observed across the world every year on 10 December in commemoration of what event in 1948?",
+      "o": [
+        "Adoption of the Universal Declaration of Human Rights (UDHR)",
+        "Foundation of the Red Cross",
+        "Establishment of the League of Nations",
+        "Signing of Geneva Convention"
+      ],
+      "a": 0,
+      "exp": "On 10 December 1948, the UN General Assembly adopted the Universal Declaration of Human Rights in Paris."
+    }
+  ]
+}

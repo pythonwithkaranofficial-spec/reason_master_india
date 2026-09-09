@@ -1,0 +1,56 @@
+{
+  "id": "static_gk_superlatives",
+  "name": "Static GK & First in India",
+  "iconName": "Eye",
+  "summary": "First officeholders, highest/longest/largest geographical wonders, national emblems, and superlatives.",
+  "concept": "Foundational high-yield facts: First President (Dr. Rajendra Prasad), First PM (Jawaharlal Nehru), First Woman President (Pratibha Patil), First Woman PM (Indira Gandhi), First Chief Justice (H. J. Kania), First Chief Election Commissioner (Sukumar Sen). Superlatives: Highest dam (Tehri, 260.5m), Longest dam (Hirakud, 25.8 km), Longest river bridge (Bhupen Hazarika Setu, 9.15 km), Highest peak (Kangchenjunga).",
+  "subtopics": [
+    {
+      "id": "first_in_india",
+      "name": "First Dignitaries & Pioneers",
+      "summary": "Pioneering Indian personalities in administration, science, and judiciary.",
+      "facts": [
+        {
+          "title": "First Chief Election Commissioner",
+          "content": "Sukumar Sen served as India's first Chief Election Commissioner from 1950 to 1958, conducting the historic first General Elections of 1951-52.",
+          "tags": [
+            "first",
+            "election"
+          ]
+        },
+        {
+          "title": "First Woman Judge of the Supreme Court",
+          "content": "Justice M. Fathima Beevi was appointed as the first female judge of the Supreme Court of India in October 1989.",
+          "tags": [
+            "first",
+            "judiciary"
+          ]
+        }
+      ]
+    }
+  ],
+  "mcqs": [
+    {
+      "q": "Who was the first Indian to travel to outer space aboard Soviet mission Soyuz T-11 in April 1984?",
+      "o": [
+        "Wing Commander Rakesh Sharma",
+        "Kalpana Chawla",
+        "Sunita Williams",
+        "Ravish Malhotra"
+      ],
+      "a": 0,
+      "exp": "Wing Commander Rakesh Sharma spent 7 days, 21 hours and 40 minutes aboard the Salyut 7 orbital space station in 1984."
+    },
+    {
+      "q": "Which is the highest dam in India, constructed across the Bhagirathi River in Uttarakhand?",
+      "o": [
+        "Tehri Dam (260.5 m)",
+        "Bhakra Dam",
+        "Sardar Sarovar Dam",
+        "Hirakud Dam"
+      ],
+      "a": 0,
+      "exp": "Tehri Dam on the Bhagirathi River in New Tehri, Uttarakhand, is India's highest and the 4th highest dam in the world."
+    }
+  ]
+}
