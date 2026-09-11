@@ -50,65 +50,64 @@ export default function GKStatsPage() {
   };
 
   return (
-    <div style={{ paddingBottom: "var(--space-12)" }}>
+    <div className="container" style={{ paddingTop: "var(--space-6)", paddingBottom: "var(--space-16)" }}>
       {/* Header Banner */}
-      <section
+      <div
+        className="rm-card"
         style={{
-          padding: "var(--space-6) 0 var(--space-6)",
-          borderBottom: "1px solid var(--border-color)",
+          padding: "var(--space-8)",
+          marginBottom: "var(--space-8)",
           backgroundColor: "var(--bg-surface)",
         }}
       >
-        <div className="container" style={{ maxWidth: "1000px", margin: "0 auto", padding: "0 var(--space-4)" }}>
-          <Breadcrumb
-            items={[
-              { label: "GK Hub", href: "/gk" },
-              { label: "GK Diagnostic Statistics" },
-            ]}
-          />
+        <Breadcrumb
+          items={[
+            { label: "GK Hub", href: "/gk" },
+            { label: "GK Diagnostic Statistics" },
+          ]}
+        />
 
-          <div style={{ marginTop: "var(--space-4)" }}>
-            <div
-              style={{
-                display: "inline-flex",
-                alignItems: "center",
-                gap: "6px",
-                fontSize: "0.8rem",
-                fontWeight: 600,
-                color: "#059669",
-                backgroundColor: "rgba(16, 185, 129, 0.1)",
-                padding: "3px 10px",
-                borderRadius: "9999px",
-                marginBottom: "var(--space-2)",
-                border: "1px solid rgba(16, 185, 129, 0.2)",
-              }}
-            >
-              <TrendingUp size={13} />
-              <span>Performance Analytics</span>
-            </div>
-
-            <h1
-              style={{
-                fontSize: "clamp(1.8rem, 3.5vw, 2.4rem)",
-                fontWeight: 800,
-                color: "var(--text-primary)",
-                letterSpacing: "-0.02em",
-                lineHeight: 1.2,
-                marginBottom: "var(--space-2)",
-              }}
-            >
-              GK Diagnostic Dashboard
-            </h1>
-
-            <p style={{ fontSize: "1.05rem", color: "var(--text-secondary)", lineHeight: 1.5 }}>
-              Isolated performance analytics for General Knowledge. Track accuracy by pillar, review weak topics, and optimize your study plan.
-            </p>
+        <div style={{ marginTop: "var(--space-4)" }}>
+          <div
+            style={{
+              display: "inline-flex",
+              alignItems: "center",
+              gap: "6px",
+              fontSize: "0.8rem",
+              fontWeight: 600,
+              color: "#059669",
+              backgroundColor: "rgba(16, 185, 129, 0.1)",
+              padding: "3px 10px",
+              borderRadius: "9999px",
+              marginBottom: "var(--space-2)",
+              border: "1px solid rgba(16, 185, 129, 0.2)",
+            }}
+          >
+            <TrendingUp size={13} />
+            <span>Performance Analytics</span>
           </div>
+
+          <h1
+            style={{
+              fontSize: "clamp(1.8rem, 3.5vw, 2.4rem)",
+              fontWeight: 800,
+              color: "var(--text-primary)",
+              letterSpacing: "-0.02em",
+              lineHeight: 1.2,
+              marginBottom: "var(--space-2)",
+            }}
+          >
+            GK Diagnostic Dashboard
+          </h1>
+
+          <p style={{ fontSize: "1.05rem", color: "var(--text-secondary)", lineHeight: 1.5 }}>
+            Isolated performance analytics for General Knowledge. Track accuracy by pillar, review weak topics, and optimize your study plan.
+          </p>
         </div>
-      </section>
+      </div>
 
       {/* Main Content */}
-      <div className="container" style={{ maxWidth: "1000px", margin: "0 auto", padding: "var(--space-8) var(--space-4) 0" }}>
+      <div style={{ maxWidth: "1000px", margin: "0 auto" }}>
         {loading ? (
           <div
             style={{

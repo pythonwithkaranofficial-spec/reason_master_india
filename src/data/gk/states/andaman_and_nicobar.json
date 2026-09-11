@@ -30,26 +30,98 @@
   "schemes": "Andaman & Nicobar Island Integrated Development Scheme",
   "mcqs": [
     {
+      "id": "gk_state_andaman_and_nicobar_q1",
       "q": "Where is Barren Island, the only confirmed active volcano in South Asia, located?",
+      "questionText": "Where is Barren Island, the only confirmed active volcano in South Asia, located?",
+      "qHi": "दक्षिण एशिया और भारत का एकमात्र सक्रिय ज्वालामुखी 'बैरन द्वीप' कहाँ स्थित है?",
+      "questionTextHi": "दक्षिण एशिया और भारत का एकमात्र सक्रिय ज्वालामुखी 'बैरन द्वीप' कहाँ स्थित है?",
       "o": [
         "Andaman and Nicobar Islands",
         "Lakshadweep",
         "Gulf of Mannar",
         "Rann of Kutch"
       ],
+      "options": [
+        "Andaman and Nicobar Islands",
+        "Lakshadweep",
+        "Gulf of Mannar",
+        "Rann of Kutch"
+      ],
+      "oHi": [
+        "अंडमान और निकोबार द्वीप समूह",
+        "लक्षद्वीप",
+        "मन्नार की खाड़ी",
+        "दमन और दीव"
+      ],
+      "optionsHi": [
+        "अंडमान और निकोबार द्वीप समूह",
+        "लक्षद्वीप",
+        "मन्नार की खाड़ी",
+        "दमन और दीव"
+      ],
       "a": 0,
-      "exp": "Barren Island is an active volcano in the Andaman Sea, about 138 km northeast of Port Blair."
+      "correctIndex": 0,
+      "exp": "Barren Island is an active volcano in the Andaman Sea, about 138 km northeast of Port Blair.",
+      "explanation": "Barren Island is an active volcano in the Andaman Sea, about 138 km northeast of Port Blair.",
+      "expHi": "बैरन द्वीप अंडमान सागर में पोर्ट ब्लेयर से लगभग 138 किमी उत्तर-पूर्व में स्थित एक सक्रिय स्ट्रैटोवोलकैनो है।",
+      "explanationHi": "बैरन द्वीप अंडमान सागर में पोर्ट ब्लेयर से लगभग 138 किमी उत्तर-पूर्व में स्थित एक सक्रिय स्ट्रैटोवोलकैनो है।",
+      "hint": "Reflect upon the geographic, political, and cultural heritage of Andaman and Nicobar Islands.",
+      "hintHi": "यह अंडमान सागर में स्थित ज्वालामुखी द्वीप है।",
+      "difficulty": "medium",
+      "lastVerified": "2026-01-01",
+      "examTags": [
+        "ssc_cgl",
+        "state_psc",
+        "railway",
+        "police"
+      ]
     },
     {
+      "id": "gk_state_andaman_and_nicobar_q2",
       "q": "The historic Cellular Jail in Port Blair, where Indian freedom fighters were exiled, was infamously known by which name?",
+      "questionText": "The historic Cellular Jail in Port Blair, where Indian freedom fighters were exiled, was infamously known by which name?",
+      "qHi": "पोर्ट ब्लेयर की ऐतिहासिक सेलुलर जेल, जहाँ स्वतंत्रता सेनानियों को निर्वासित किया जाता था, को किस नाम से जाना जाता था?",
+      "questionTextHi": "पोर्ट ब्लेयर की ऐतिहासिक सेलुलर जेल, जहाँ स्वतंत्रता सेनानियों को निर्वासित किया जाता था, को किस नाम से जाना जाता था?",
       "o": [
         "Kala Pani",
         "Lal Qila",
         "Mandir Jail",
         "Tihar"
       ],
+      "options": [
+        "Kala Pani",
+        "Lal Qila",
+        "Mandir Jail",
+        "Tihar"
+      ],
+      "oHi": [
+        "काला पानी",
+        "अंडमान बैरक",
+        "तिहाड़",
+        "सिल्वर जेल"
+      ],
+      "optionsHi": [
+        "काला पानी",
+        "अंडमान बैरक",
+        "तिहाड़",
+        "सिल्वर जेल"
+      ],
       "a": 0,
-      "exp": "Cellular Jail was referred to as 'Kala Pani' (Black Waters) due to its remote isolation across the ocean."
+      "correctIndex": 0,
+      "exp": "Cellular Jail was referred to as 'Kala Pani' (Black Waters) due to its remote isolation across the ocean.",
+      "explanation": "Cellular Jail was referred to as 'Kala Pani' (Black Waters) due to its remote isolation across the ocean.",
+      "expHi": "ब्रिटिश काल में 1906 में निर्मित सेलुलर जेल को इसके अत्यंत कठोर कारावास और एकांत कोठरियों के कारण 'काला पानी' कहा जाता था।",
+      "explanationHi": "ब्रिटिश काल में 1906 में निर्मित सेलुलर जेल को इसके अत्यंत कठोर कारावास और एकांत कोठरियों के कारण 'काला पानी' कहा जाता था।",
+      "hint": "Reflect upon the geographic, political, and cultural heritage of Andaman and Nicobar Islands.",
+      "hintHi": "विनायक दामोदर सावरकर को इसी जेल में रखा गया था।",
+      "difficulty": "medium",
+      "lastVerified": "2026-01-01",
+      "examTags": [
+        "ssc_cgl",
+        "state_psc",
+        "railway",
+        "police"
+      ]
     }
   ],
   "subtopics": [
@@ -260,5 +332,6 @@
         }
       ]
     }
-  ]
+  ],
+  "mcqCount": 2
 }

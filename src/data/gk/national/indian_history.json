@@ -85,37 +85,1462 @@
   ],
   "mcqs": [
     {
+      "id": "gk_nat_indian_history_q1",
       "q": "Which Indus Valley site is famous for the discovery of a tidal dockyard connected to the Arabian Sea?",
+      "questionText": "Which Indus Valley site is famous for the discovery of a tidal dockyard connected to the Arabian Sea?",
+      "qHi": "सिंधु घाटी सभ्यता का कौन सा प्रमुख स्थल दुनिया के सबसे पुराने मानव निर्मित जहाजी गोदी (डॉकयार्ड) की खोज के लिए प्रसिद्ध है?",
+      "questionTextHi": "सिंधु घाटी सभ्यता का कौन सा प्रमुख स्थल दुनिया के सबसे पुराने मानव निर्मित जहाजी गोदी (डॉकयार्ड) की खोज के लिए प्रसिद्ध है?",
       "o": [
         "Lothal",
         "Kalibangan",
         "Dholavira",
         "Rakhigarhi"
       ],
+      "options": [
+        "Lothal",
+        "Kalibangan",
+        "Dholavira",
+        "Rakhigarhi"
+      ],
+      "oHi": [
+        "लोथल",
+        "कालीबंगा",
+        "धोलावीरा",
+        "हड़प्पा"
+      ],
+      "optionsHi": [
+        "लोथल",
+        "कालीबंगा",
+        "धोलावीरा",
+        "हड़प्पा"
+      ],
       "a": 0,
-      "exp": "Lothal in Gujarat had a world-famous trapezoidal brick basin serving as a tidal dockyard."
+      "correctIndex": 0,
+      "exp": "Lothal in Gujarat had a world-famous trapezoidal brick basin serving as a tidal dockyard.",
+      "explanation": "Lothal in Gujarat had a world-famous trapezoidal brick basin serving as a tidal dockyard.",
+      "expHi": "गुजरात में भोगवा नदी के तट पर स्थित लोथल में ईंटों से निर्मित एक विशाल गोदी (डॉकयार्ड) मिला, जो प्राचीन समुद्री व्यापार का प्रमुख बंदरगाह था।",
+      "explanationHi": "गुजरात में भोगवा नदी के तट पर स्थित लोथल में ईंटों से निर्मित एक विशाल गोदी (डॉकयार्ड) मिला, जो प्राचीन समुद्री व्यापार का प्रमुख बंदरगाह था।",
+      "hint": "Consider the established historical and constitutional facts of Indian History.",
+      "hintHi": "यह गुजरात के भाल क्षेत्र में साबरमती की सहायक भोगवा नदी पर स्थित है।",
+      "difficulty": "medium",
+      "examTags": [
+        "ssc_cgl",
+        "upsc_csat",
+        "railway",
+        "banking_ga"
+      ]
     },
     {
+      "id": "gk_nat_indian_history_q2",
       "q": "Who was the Viceroy of India when the Indian National Congress was founded in 1885?",
+      "questionText": "Who was the Viceroy of India when the Indian National Congress was founded in 1885?",
+      "qHi": "दिसंबर 1885 में बॉम्बे में भारतीय राष्ट्रीय कांग्रेस (INC) की स्थापना के समय भारत का वायसराय कौन था?",
+      "questionTextHi": "दिसंबर 1885 में बॉम्बे में भारतीय राष्ट्रीय कांग्रेस (INC) की स्थापना के समय भारत का वायसराय कौन था?",
       "o": [
         "Lord Dufferin",
         "Lord Curzon",
         "Lord Ripon",
         "Lord Lytton"
       ],
+      "options": [
+        "Lord Dufferin",
+        "Lord Curzon",
+        "Lord Ripon",
+        "Lord Lytton"
+      ],
+      "oHi": [
+        "लॉर्ड डफरिन",
+        "लॉर्ड रिपन",
+        "लॉर्ड कर्जन",
+        "लॉर्ड लिटन"
+      ],
+      "optionsHi": [
+        "लॉर्ड डफरिन",
+        "लॉर्ड रिपन",
+        "लॉर्ड कर्जन",
+        "लॉर्ड लिटन"
+      ],
       "a": 0,
-      "exp": "Lord Dufferin was the Viceroy of India from 1884 to 1888."
+      "correctIndex": 0,
+      "exp": "Lord Dufferin was the Viceroy of India from 1884 to 1888.",
+      "explanation": "Lord Dufferin was the Viceroy of India from 1884 to 1888.",
+      "expHi": "लॉर्ड डफरिन 1884 से 1888 तक भारत के वायसराय थे। ए.ओ. ह्यूम की पहल पर 28 दिसंबर 1885 को बॉम्बे में कांग्रेस का पहला अधिवेशन आयोजित हुआ था।",
+      "explanationHi": "लॉर्ड डफरिन 1884 से 1888 तक भारत के वायसराय थे। ए.ओ. ह्यूम की पहल पर 28 दिसंबर 1885 को बॉम्बे में कांग्रेस का पहला अधिवेशन आयोजित हुआ था।",
+      "hint": "Consider the established historical and constitutional facts of Indian History.",
+      "hintHi": "उन्होंने कांग्रेस को 'सूक्ष्म अल्पसंख्यक' (Microscopic Minority) कहकर संबोधित किया था।",
+      "difficulty": "medium",
+      "examTags": [
+        "ssc_cgl",
+        "upsc_csat",
+        "railway",
+        "banking_ga"
+      ]
     },
     {
+      "id": "gk_nat_indian_history_q3",
       "q": "Which session of the Indian National Congress adopted the historic resolution for 'Purna Swaraj' (Complete Independence)?",
+      "questionText": "Which session of the Indian National Congress adopted the historic resolution for 'Purna Swaraj' (Complete Independence)?",
+      "qHi": "भारतीय राष्ट्रीय कांग्रेस के किस ऐतिहासिक अधिवेशन में पंडित जवाहरलाल नेहरू की अध्यक्षता में 'पूर्ण स्वराज' का संकल्प पारित किया गया था?",
+      "questionTextHi": "भारतीय राष्ट्रीय कांग्रेस के किस ऐतिहासिक अधिवेशन में पंडित जवाहरलाल नेहरू की अध्यक्षता में 'पूर्ण स्वराज' का संकल्प पारित किया गया था?",
       "o": [
         "Lahore Session (1929)",
         "Karachi Session (1931)",
         "Calcutta Session (1906)",
         "Belgaum Session (1924)"
       ],
+      "options": [
+        "Lahore Session (1929)",
+        "Karachi Session (1931)",
+        "Calcutta Session (1906)",
+        "Belgaum Session (1924)"
+      ],
+      "oHi": [
+        "लाहौर अधिवेशन (1929)",
+        "कराची अधिवेशन (1931)",
+        "बेलगाम अधिवेशन (1924)",
+        "हरिपुरा अधिवेशन (1938)"
+      ],
+      "optionsHi": [
+        "लाहौर अधिवेशन (1929)",
+        "कराची अधिवेशन (1931)",
+        "बेलगाम अधिवेशन (1924)",
+        "हरिपुरा अधिवेशन (1938)"
+      ],
       "a": 0,
-      "exp": "Under the presidency of Jawaharlal Nehru, the Lahore Session of 1929 declared Purna Swaraj as Congress's ultimate goal."
+      "correctIndex": 0,
+      "exp": "Under the presidency of Jawaharlal Nehru, the Lahore Session of 1929 declared Purna Swaraj as Congress's ultimate goal.",
+      "explanation": "Under the presidency of Jawaharlal Nehru, the Lahore Session of 1929 declared Purna Swaraj as Congress's ultimate goal.",
+      "expHi": "दिसंबर 1929 के लाहौर अधिवेशन में रावी नदी के तट पर तिरंगा फहराया गया और 26 जनवरी 1930 को पहला स्वतंत्रता दिवस मनाने का संकल्प लिया गया।",
+      "explanationHi": "दिसंबर 1929 के लाहौर अधिवेशन में रावी नदी के तट पर तिरंगा फहराया गया और 26 जनवरी 1930 को पहला स्वतंत्रता दिवस मनाने का संकल्प लिया गया।",
+      "hint": "Consider the established historical and constitutional facts of Indian History.",
+      "hintHi": "यह अधिवेशन 1929 में रावी नदी के तट पर आयोजित हुआ था।",
+      "difficulty": "medium",
+      "examTags": [
+        "ssc_cgl",
+        "upsc_csat",
+        "railway",
+        "banking_ga"
+      ]
+    },
+    {
+      "id": "gk_nat_unesco_001",
+      "q": "In which Indian state is the UNESCO World Heritage site 'Sun Temple at Konark' located?",
+      "questionText": "In which Indian state is the UNESCO World Heritage site 'Sun Temple at Konark' located?",
+      "qHi": "यूनेस्को विश्व धरोहर स्थल 'कोणार्क का सूर्य मंदिर' भारत के किस राज्य में स्थित है?",
+      "questionTextHi": "यूनेस्को विश्व धरोहर स्थल 'कोणार्क का सूर्य मंदिर' भारत के किस राज्य में स्थित है?",
+      "o": [
+        "Odisha",
+        "Tamil Nadu",
+        "Karnataka",
+        "Andhra Pradesh"
+      ],
+      "options": [
+        "Odisha",
+        "Tamil Nadu",
+        "Karnataka",
+        "Andhra Pradesh"
+      ],
+      "oHi": [
+        "ओडिशा",
+        "तमिलनाडु",
+        "कर्नाटक",
+        "आंध्र प्रदेश"
+      ],
+      "optionsHi": [
+        "ओडिशा",
+        "तमिलनाडु",
+        "कर्नाटक",
+        "आंध्र प्रदेश"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "The UNESCO World Heritage site 'Sun Temple at Konark' is situated in Odisha.",
+      "explanation": "The UNESCO World Heritage site 'Sun Temple at Konark' is situated in Odisha.",
+      "expHi": "'कोणार्क का सूर्य मंदिर' यूनेस्को का एक प्रमुख विश्व धरोहर स्थल है जो ओडिशा में स्थित है।",
+      "explanationHi": "'कोणार्क का सूर्य मंदिर' यूनेस्को का एक प्रमुख विश्व धरोहर स्थल है जो ओडिशा में स्थित है।",
+      "hint": "Located in Odisha.",
+      "hintHi": "यह ओडिशा में स्थित है।",
+      "difficulty": "medium",
+      "examTags": [
+        "ssc_cgl",
+        "upsc_prelims",
+        "state_psc"
+      ]
+    },
+    {
+      "id": "gk_nat_unesco_002",
+      "q": "In which Indian state is the UNESCO World Heritage site 'Ellora Caves' located?",
+      "questionText": "In which Indian state is the UNESCO World Heritage site 'Ellora Caves' located?",
+      "qHi": "यूनेस्को विश्व धरोहर स्थल 'एलोरा की गुफाएं' भारत के किस राज्य में स्थित है?",
+      "questionTextHi": "यूनेस्को विश्व धरोहर स्थल 'एलोरा की गुफाएं' भारत के किस राज्य में स्थित है?",
+      "o": [
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Gujarat",
+        "Rajasthan"
+      ],
+      "options": [
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Gujarat",
+        "Rajasthan"
+      ],
+      "oHi": [
+        "मध्य प्रदेश",
+        "महाराष्ट्र",
+        "गुजरात",
+        "राजस्थान"
+      ],
+      "optionsHi": [
+        "मध्य प्रदेश",
+        "महाराष्ट्र",
+        "गुजरात",
+        "राजस्थान"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "The UNESCO World Heritage site 'Ellora Caves' is situated in Maharashtra.",
+      "explanation": "The UNESCO World Heritage site 'Ellora Caves' is situated in Maharashtra.",
+      "expHi": "'एलोरा की गुफाएं' यूनेस्को का एक प्रमुख विश्व धरोहर स्थल है जो महाराष्ट्र में स्थित है।",
+      "explanationHi": "'एलोरा की गुफाएं' यूनेस्को का एक प्रमुख विश्व धरोहर स्थल है जो महाराष्ट्र में स्थित है।",
+      "hint": "Located in Maharashtra.",
+      "hintHi": "यह महाराष्ट्र में स्थित है।",
+      "difficulty": "medium",
+      "examTags": [
+        "ssc_cgl",
+        "upsc_prelims",
+        "state_psc"
+      ]
+    },
+    {
+      "id": "gk_nat_unesco_004",
+      "q": "In which Indian state is the UNESCO World Heritage site 'Rani ki Vav (Stepwell)' located?",
+      "questionText": "In which Indian state is the UNESCO World Heritage site 'Rani ki Vav (Stepwell)' located?",
+      "qHi": "यूनेस्को विश्व धरोहर स्थल 'रानी की वाव' भारत के किस राज्य में स्थित है?",
+      "questionTextHi": "यूनेस्को विश्व धरोहर स्थल 'रानी की वाव' भारत के किस राज्य में स्थित है?",
+      "o": [
+        "Rajasthan",
+        "Madhya Pradesh",
+        "Gujarat",
+        "Haryana"
+      ],
+      "options": [
+        "Rajasthan",
+        "Madhya Pradesh",
+        "Gujarat",
+        "Haryana"
+      ],
+      "oHi": [
+        "राजस्थान",
+        "मध्य प्रदेश",
+        "गुजरात",
+        "हरियाणा"
+      ],
+      "optionsHi": [
+        "राजस्थान",
+        "मध्य प्रदेश",
+        "गुजरात",
+        "हरियाणा"
+      ],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "The UNESCO World Heritage site 'Rani ki Vav (Stepwell)' is situated in Gujarat.",
+      "explanation": "The UNESCO World Heritage site 'Rani ki Vav (Stepwell)' is situated in Gujarat.",
+      "expHi": "'रानी की वाव' यूनेस्को का एक प्रमुख विश्व धरोहर स्थल है जो गुजरात में स्थित है।",
+      "explanationHi": "'रानी की वाव' यूनेस्को का एक प्रमुख विश्व धरोहर स्थल है जो गुजरात में स्थित है।",
+      "hint": "Located in Gujarat.",
+      "hintHi": "यह गुजरात में स्थित है।",
+      "difficulty": "medium",
+      "examTags": [
+        "ssc_cgl",
+        "upsc_prelims",
+        "state_psc"
+      ]
+    },
+    {
+      "id": "gk_nat_hist_001",
+      "q": "Who was the founder of the Maurya Empire in ancient India?",
+      "questionText": "Who was the founder of the Maurya Empire in ancient India?",
+      "qHi": "प्राचीन भारत में मौर्य साम्राज्य के संस्थापक कौन थे?",
+      "questionTextHi": "प्राचीन भारत में मौर्य साम्राज्य के संस्थापक कौन थे?",
+      "o": [
+        "Ashoka",
+        "Chandragupta Maurya",
+        "Bindusara",
+        "Brihadratha"
+      ],
+      "options": [
+        "Ashoka",
+        "Chandragupta Maurya",
+        "Bindusara",
+        "Brihadratha"
+      ],
+      "oHi": [
+        "अशोक",
+        "चंद्रगुप्त मौर्य",
+        "बिंदुसार",
+        "बृहद्रथ"
+      ],
+      "optionsHi": [
+        "अशोक",
+        "चंद्रगुप्त मौर्य",
+        "बिंदुसार",
+        "बृहद्रथ"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Chandragupta Maurya founded the Maurya Empire in 322 BCE with the guidance of Chanakya.",
+      "explanation": "Chandragupta Maurya founded the Maurya Empire in 322 BCE with the guidance of Chanakya.",
+      "expHi": "चाणक्य की सहायता से चंद्रगुप्त मौर्य ने 322 ईसा पूर्व में नंद वंश को समाप्त कर मौर्य साम्राज्य की स्थापना की थी।",
+      "explanationHi": "चाणक्य की सहायता से चंद्रगुप्त मौर्य ने 322 ईसा पूर्व में नंद वंश को समाप्त कर मौर्य साम्राज्य की स्थापना की थी।",
+      "hint": "Key concept under Indian History.",
+      "hintHi": "Indian History का महत्वपूर्ण तथ्य।",
+      "difficulty": "easy",
+      "examTags": [
+        "ssc_cgl",
+        "state_psc"
+      ]
+    },
+    {
+      "id": "gk_nat_hist_002",
+      "q": "The First Battle of Panipat in 1526 was fought between Babur and which Delhi Sultan?",
+      "questionText": "The First Battle of Panipat in 1526 was fought between Babur and which Delhi Sultan?",
+      "qHi": "1526 में पानीपत का प्रथम युद्ध बाबर और किस दिल्ली सुल्तान के बीच लड़ा गया था?",
+      "questionTextHi": "1526 में पानीपत का प्रथम युद्ध बाबर और किस दिल्ली सुल्तान के बीच लड़ा गया था?",
+      "o": [
+        "Sikandar Lodi",
+        "Ibrahim Lodi",
+        "Bahlul Lodi",
+        "Sher Shah Suri"
+      ],
+      "options": [
+        "Sikandar Lodi",
+        "Ibrahim Lodi",
+        "Bahlul Lodi",
+        "Sher Shah Suri"
+      ],
+      "oHi": [
+        "सिकंदर लोदी",
+        "इब्राहिम लोदी",
+        "बहलोल लोदी",
+        "शेरशाह सूरी"
+      ],
+      "optionsHi": [
+        "सिकंदर लोदी",
+        "इब्राहिम लोदी",
+        "बहलोल लोदी",
+        "शेरशाह सूरी"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Babur defeated Ibrahim Lodi on 21 April 1526, laying the foundation of the Mughal Empire in India.",
+      "explanation": "Babur defeated Ibrahim Lodi on 21 April 1526, laying the foundation of the Mughal Empire in India.",
+      "expHi": "21 अप्रैल 1526 को पानीपत के प्रथम युद्ध में बाबर ने इब्राहिम लोदी को हराकर भारत में मुगल साम्राज्य की नींव रखी।",
+      "explanationHi": "21 अप्रैल 1526 को पानीपत के प्रथम युद्ध में बाबर ने इब्राहिम लोदी को हराकर भारत में मुगल साम्राज्य की नींव रखी।",
+      "hint": "Key concept under Indian History.",
+      "hintHi": "Indian History का महत्वपूर्ण तथ्य।",
+      "difficulty": "medium",
+      "examTags": [
+        "ssc_cgl",
+        "railway"
+      ]
+    },
+    {
+      "id": "gk_nat_hist_003",
+      "q": "The historic Battle of Plassey was fought in which year?",
+      "questionText": "The historic Battle of Plassey was fought in which year?",
+      "qHi": "ऐतिहासिक प्लासी का युद्ध किस वर्ष लड़ा गया था?",
+      "questionTextHi": "ऐतिहासिक प्लासी का युद्ध किस वर्ष लड़ा गया था?",
+      "o": [
+        "1757",
+        "1764",
+        "1857",
+        "1761"
+      ],
+      "options": [
+        "1757",
+        "1764",
+        "1857",
+        "1761"
+      ],
+      "oHi": [
+        "1757",
+        "1764",
+        "1857",
+        "1761"
+      ],
+      "optionsHi": [
+        "1757",
+        "1764",
+        "1857",
+        "1761"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "On 23 June 1757, British forces under Robert Clive defeated Siraj-ud-Daulah, Nawab of Bengal.",
+      "explanation": "On 23 June 1757, British forces under Robert Clive defeated Siraj-ud-Daulah, Nawab of Bengal.",
+      "expHi": "23 जून 1757 को रॉबर्ट क्लाइव के नेतृत्व में ईस्ट इंडिया कंपनी ने बंगाल के नवाब सिराजुद्दौला को पराजित किया था।",
+      "explanationHi": "23 जून 1757 को रॉबर्ट क्लाइव के नेतृत्व में ईस्ट इंडिया कंपनी ने बंगाल के नवाब सिराजुद्दौला को पराजित किया था।",
+      "hint": "Key concept under Indian History.",
+      "hintHi": "Indian History का महत्वपूर्ण तथ्य।",
+      "difficulty": "easy",
+      "examTags": [
+        "ssc_cgl",
+        "railway"
+      ]
+    },
+    {
+      "id": "gk_nat_hist_004",
+      "q": "Who founded the Brahmo Samaj in Calcutta in 1828?",
+      "questionText": "Who founded the Brahmo Samaj in Calcutta in 1828?",
+      "qHi": "1828 में कलकत्ता में 'ब्रह्म समाज' की स्थापना किसने की थी?",
+      "questionTextHi": "1828 में कलकत्ता में 'ब्रह्म समाज' की स्थापना किसने की थी?",
+      "o": [
+        "Swami Dayananda",
+        "Raja Ram Mohan Roy",
+        "Swami Vivekananda",
+        "Ishwar Chandra Vidyasagar"
+      ],
+      "options": [
+        "Swami Dayananda",
+        "Raja Ram Mohan Roy",
+        "Swami Vivekananda",
+        "Ishwar Chandra Vidyasagar"
+      ],
+      "oHi": [
+        "स्वामी दयानंद",
+        "राजा राममोहन राय",
+        "स्वामी विवेकानंद",
+        "ईश्वर चंद्र विद्यासागर"
+      ],
+      "optionsHi": [
+        "स्वामी दयानंद",
+        "राजा राममोहन राय",
+        "स्वामी विवेकानंद",
+        "ईश्वर चंद्र विद्यासागर"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Raja Ram Mohan Roy, known as the Father of Modern Indian Renaissance, founded the Brahmo Samaj.",
+      "explanation": "Raja Ram Mohan Roy, known as the Father of Modern Indian Renaissance, founded the Brahmo Samaj.",
+      "expHi": "आधुनिक भारत के पुनर्जागरण के जनक राजा राममोहन राय ने 1828 में ब्रह्म समाज की स्थापना की थी।",
+      "explanationHi": "आधुनिक भारत के पुनर्जागरण के जनक राजा राममोहन राय ने 1828 में ब्रह्म समाज की स्थापना की थी।",
+      "hint": "Key concept under Indian History.",
+      "hintHi": "Indian History का महत्वपूर्ण तथ्य।",
+      "difficulty": "medium",
+      "examTags": [
+        "upsc_prelims",
+        "ssc_cgl"
+      ]
+    },
+    {
+      "id": "gk_nat_indian_history_q21",
+      "q": "In which year did the tragic Jallianwala Bagh massacre take place in Amritsar?",
+      "questionText": "In which year did the tragic Jallianwala Bagh massacre take place in Amritsar?",
+      "qHi": "जलियांवाला बाग हत्याकांड कब हुआ?",
+      "questionTextHi": "जलियांवाला बाग हत्याकांड कब हुआ?",
+      "o": [
+        "1919 (13 April 1919)",
+        "1920",
+        "1930",
+        "1942"
+      ],
+      "options": [
+        "1919 (13 April 1919)",
+        "1920",
+        "1930",
+        "1942"
+      ],
+      "oHi": [
+        "1919",
+        "1920",
+        "1930",
+        "1942"
+      ],
+      "optionsHi": [
+        "1919",
+        "1920",
+        "1930",
+        "1942"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "On 13 April 1919 (Baisakhi Day), British troops under Brigadier-General Reginald Dyer fired indiscriminately on an unarmed crowd at Jallianwala Bagh in Amritsar, killing hundreds.",
+      "explanation": "On 13 April 1919 (Baisakhi Day), British troops under Brigadier-General Reginald Dyer fired indiscriminately on an unarmed crowd at Jallianwala Bagh in Amritsar, killing hundreds.",
+      "expHi": "13 अप्रैल 1919 को बैसाखी के दिन अमृतसर के जलियांवाला बाग में रोलेट एक्ट के विरोध में एकत्र निहत्थी भीड़ पर जनरल डायर ने अंधाधुंध गोलियाँ चलवाई थीं।",
+      "explanationHi": "13 अप्रैल 1919 को बैसाखी के दिन अमृतसर के जलियांवाला बाग में रोलेट एक्ट के विरोध में एकत्र निहत्थी भीड़ पर जनरल डायर ने अंधाधुंध गोलियाँ चलवाई थीं।",
+      "hint": "Occurred on Baisakhi day; Rabindranath Tagore renounced his Knighthood in protest.",
+      "hintHi": "बैसाखी के दिन घटित; विरोध में रवींद्रनाथ टैगोर ने नाइटहुड त्याग दिया था।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_indian_history_q22",
+      "q": "The Revolt of 1857 against the British East India Company is famously celebrated as what in Indian history?",
+      "questionText": "The Revolt of 1857 against the British East India Company is famously celebrated as what in Indian history?",
+      "qHi": "1857 का विद्रोह किस नाम से जाना जाता है?",
+      "questionTextHi": "1857 का विद्रोह किस नाम से जाना जाता है?",
+      "o": [
+        "First War of Indian Independence",
+        "Non-Cooperation Movement",
+        "Quit India Movement",
+        "Salt Satyagraha"
+      ],
+      "options": [
+        "First War of Indian Independence",
+        "Non-Cooperation Movement",
+        "Quit India Movement",
+        "Salt Satyagraha"
+      ],
+      "oHi": [
+        "प्रथम स्वतंत्रता संग्राम",
+        "असहयोग आंदोलन",
+        "भारत छोड़ो आंदोलन",
+        "नमक सत्याग्रह"
+      ],
+      "optionsHi": [
+        "प्रथम स्वतंत्रता संग्राम",
+        "असहयोग आंदोलन",
+        "भारत छोड़ो आंदोलन",
+        "नमक सत्याग्रह"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Vinayak Damodar Savarkar termed the 1857 rebellion 'The First War of Indian Independence'. It began on 10 May 1857 in Meerut with Sepoy soldiers.",
+      "explanation": "Vinayak Damodar Savarkar termed the 1857 rebellion 'The First War of Indian Independence'. It began on 10 May 1857 in Meerut with Sepoy soldiers.",
+      "expHi": "विनायक दामोदर सावरकर ने 1857 के विद्रोह को 'भारत का प्रथम स्वतंत्रता संग्राम' कहा था। यह 10 मई 1857 को मेरठ छावनी से प्रारंभ हुआ था।",
+      "explanationHi": "विनायक दामोदर सावरकर ने 1857 के विद्रोह को 'भारत का प्रथम स्वतंत्रता संग्राम' कहा था। यह 10 मई 1857 को मेरठ छावनी से प्रारंभ हुआ था।",
+      "hint": "Termed by V.D. Savarkar; sparked from Meerut on 10 May 1857.",
+      "hintHi": "वी.डी. सावरकर द्वारा दिया गया प्रसिद्ध नाम; 10 मई 1857 को मेरठ से प्रारंभ।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_indian_history_q23",
+      "q": "Mahatma Gandhi launched the historic Salt March (Dandi March) from Sabarmati Ashram in which year?",
+      "questionText": "Mahatma Gandhi launched the historic Salt March (Dandi March) from Sabarmati Ashram in which year?",
+      "qHi": "दांडी मार्च किस वर्ष हुआ?",
+      "questionTextHi": "दांडी मार्च किस वर्ष हुआ?",
+      "o": [
+        "1920",
+        "1930 (12 March – 6 April 1930)",
+        "1942",
+        "1919"
+      ],
+      "options": [
+        "1920",
+        "1930 (12 March – 6 April 1930)",
+        "1942",
+        "1919"
+      ],
+      "oHi": [
+        "1920",
+        "1930",
+        "1942",
+        "1919"
+      ],
+      "optionsHi": [
+        "1920",
+        "1930",
+        "1942",
+        "1919"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "The Dandi March started from Sabarmati Ashram on 12 March 1930 and reached Dandi on 6 April 1930 (240 miles), inaugurating the Civil Disobedience Movement.",
+      "explanation": "The Dandi March started from Sabarmati Ashram on 12 March 1930 and reached Dandi on 6 April 1930 (240 miles), inaugurating the Civil Disobedience Movement.",
+      "expHi": "दांडी मार्च 12 मार्च 1930 को साबरमती आश्रम से प्रारंभ हुआ और 6 अप्रैल 1930 को दांडी पहुँचकर नमक कानून तोड़कर सविनय अवज्ञा आंदोलन की शुरुआत की गई।",
+      "explanationHi": "दांडी मार्च 12 मार्च 1930 को साबरमती आश्रम से प्रारंभ हुआ और 6 अप्रैल 1930 को दांडी पहुँचकर नमक कानून तोड़कर सविनय अवज्ञा आंदोलन की शुरुआत की गई।",
+      "hint": "Marked the inauguration of the Civil Disobedience Movement.",
+      "hintHi": "सविनय अवज्ञा आंदोलन की औपचारिक शुरुआत।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_indian_history_q24",
+      "q": "On which date were revolutionary freedom fighters Bhagat Singh, Rajguru, and Sukhdev martyred in Lahore Jail?",
+      "questionText": "On which date were revolutionary freedom fighters Bhagat Singh, Rajguru, and Sukhdev martyred in Lahore Jail?",
+      "qHi": "भगत सिंह को फांसी कब दी गई?",
+      "questionTextHi": "भगत सिंह को फांसी कब दी गई?",
+      "o": [
+        "23 March 1931",
+        "15 August 1930",
+        "26 January 1929",
+        "2 October 1940"
+      ],
+      "options": [
+        "23 March 1931",
+        "15 August 1930",
+        "26 January 1929",
+        "2 October 1940"
+      ],
+      "oHi": [
+        "1931",
+        "1930",
+        "1929",
+        "1940"
+      ],
+      "optionsHi": [
+        "1931",
+        "1930",
+        "1929",
+        "1940"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Bhagat Singh, Shivaram Rajguru, and Sukhdev Thapar were hanged on 23 March 1931 in Lahore Central Jail in connection with the Lahore Conspiracy Case (Saunders murder). Celebrated as Shaheed Diwas.",
+      "explanation": "Bhagat Singh, Shivaram Rajguru, and Sukhdev Thapar were hanged on 23 March 1931 in Lahore Central Jail in connection with the Lahore Conspiracy Case (Saunders murder). Celebrated as Shaheed Diwas.",
+      "expHi": "23 मार्च 1931 को लाहौर षड्यंत्र केस में भगत सिंह, सुखदेव और राजगुरु को लाहौर जेल में फाँसी दी गई थी। इस दिन को 'शहीद दिवस' के रूप में मनाया जाता है।",
+      "explanationHi": "23 मार्च 1931 को लाहौर षड्यंत्र केस में भगत सिंह, सुखदेव और राजगुरु को लाहौर जेल में फाँसी दी गई थी। इस दिन को 'शहीद दिवस' के रूप में मनाया जाता है।",
+      "hint": "Observed annually on 23 March as Shaheed Diwas (Martyrs' Day).",
+      "hintHi": "प्रतिवर्ष 23 मार्च को शहीद दिवस के रूप में याद किया जाता है।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_indian_history_q25",
+      "q": "Which of the following is the premier excavated site of the Indus Valley Civilization discovered by Daya Ram Sahni in 1921?",
+      "questionText": "Which of the following is the premier excavated site of the Indus Valley Civilization discovered by Daya Ram Sahni in 1921?",
+      "qHi": "सिंधु घाटी सभ्यता का प्रमुख स्थल कौन सा है?",
+      "questionTextHi": "सिंधु घाटी सभ्यता का प्रमुख स्थल कौन सा है?",
+      "o": [
+        "Harappa (हड़प्पा)",
+        "Pataliputra",
+        "Taxila",
+        "Ayodhya"
+      ],
+      "options": [
+        "Harappa (हड़प्पा)",
+        "Pataliputra",
+        "Taxila",
+        "Ayodhya"
+      ],
+      "oHi": [
+        "हड़प्पा",
+        "पाटलिपुत्र",
+        "तक्षशिला",
+        "अयोध्या"
+      ],
+      "optionsHi": [
+        "हड़प्पा",
+        "पाटलिपुत्र",
+        "तक्षशिला",
+        "अयोध्या"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Harappa (on the banks of the Ravi River in Montgomery, Punjab, Pakistan) was the first Indus Valley Civilization site discovered and excavated in 1921 by Rai Bahadur Daya Ram Sahni.",
+      "explanation": "Harappa (on the banks of the Ravi River in Montgomery, Punjab, Pakistan) was the first Indus Valley Civilization site discovered and excavated in 1921 by Rai Bahadur Daya Ram Sahni.",
+      "expHi": "हड़प्पा (रावी नदी के तट पर, पंजाब) सिंधु घाटी सभ्यता का पहला खोजा गया प्रमुख स्थल था, जिसे 1921 में दयाराम साहनी ने उत्खनित किया था।",
+      "explanationHi": "हड़प्पा (रावी नदी के तट पर, पंजाब) सिंधु घाटी सभ्यता का पहला खोजा गया प्रमुख स्थल था, जिसे 1921 में दयाराम साहनी ने उत्खनित किया था।",
+      "hint": "Located on the banks of the Ravi River; excavated in 1921.",
+      "hintHi": "रावी नदी के तट पर स्थित; 1921 में उत्खनित।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_indian_history_q26",
+      "q": "Emperor Ashoka the Great, who embraced Buddhism after the Kalinga War, belonged to which illustrious dynasty?",
+      "questionText": "Emperor Ashoka the Great, who embraced Buddhism after the Kalinga War, belonged to which illustrious dynasty?",
+      "qHi": "अशोक किस वंश से संबंधित थे?",
+      "questionTextHi": "अशोक किस वंश से संबंधित थे?",
+      "o": [
+        "Maurya Dynasty",
+        "Gupta Dynasty",
+        "Kushan Dynasty",
+        "Chola Dynasty"
+      ],
+      "options": [
+        "Maurya Dynasty",
+        "Gupta Dynasty",
+        "Kushan Dynasty",
+        "Chola Dynasty"
+      ],
+      "oHi": [
+        "मौर्य वंश",
+        "गुप्त वंश",
+        "चोल वंश",
+        "कुषाण वंश"
+      ],
+      "optionsHi": [
+        "मौर्य वंश",
+        "गुप्त वंश",
+        "चोल वंश",
+        "कुषाण वंश"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Ashoka was the third emperor of the Maurya Dynasty, grandson of Chandragupta Maurya and son of Bindusara, ruling from 268 to 232 BCE.",
+      "explanation": "Ashoka was the third emperor of the Maurya Dynasty, grandson of Chandragupta Maurya and son of Bindusara, ruling from 268 to 232 BCE.",
+      "expHi": "सम्राट अशोक मौर्य वंश के तीसरे प्रतापी शासक थे (चंद्रगुप्त मौर्य के पौत्र और बिंदुसार के पुत्र)। 261 ईसा पूर्व के कलिंग युद्ध के बाद इन्होंने बौद्ध धर्म अपनाया था।",
+      "explanationHi": "सम्राट अशोक मौर्य वंश के तीसरे प्रतापी शासक थे (चंद्रगुप्त मौर्य के पौत्र और बिंदुसार के पुत्र)। 261 ईसा पूर्व के कलिंग युद्ध के बाद इन्होंने बौद्ध धर्म अपनाया था।",
+      "hint": "Grandson of Chandragupta Maurya and son of Bindusara.",
+      "hintHi": "चंद्रगुप्त मौर्य के पौत्र और बिंदुसार के पुत्र।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_indian_history_q27",
+      "q": "The world-famous white marble mausoleum 'Taj Mahal' in Agra was commissioned by which Mughal Emperor?",
+      "questionText": "The world-famous white marble mausoleum 'Taj Mahal' in Agra was commissioned by which Mughal Emperor?",
+      "qHi": "ताजमहल का निर्माण किसने करवाया?",
+      "questionTextHi": "ताजमहल का निर्माण किसने करवाया?",
+      "o": [
+        "Akbar",
+        "Shah Jahan",
+        "Jahangir",
+        "Aurangzeb"
+      ],
+      "options": [
+        "Akbar",
+        "Shah Jahan",
+        "Jahangir",
+        "Aurangzeb"
+      ],
+      "oHi": [
+        "अकबर",
+        "शाहजहाँ",
+        "बाबर",
+        "औरंगजेब"
+      ],
+      "optionsHi": [
+        "अकबर",
+        "शाहजहाँ",
+        "बाबर",
+        "औरंगजेब"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Shah Jahan commissioned the Taj Mahal on the south bank of the Yamuna River in Agra in 1631 in memory of his beloved empress Mumtaz Mahal. Chief architect was Ustad Ahmad Lahori.",
+      "explanation": "Shah Jahan commissioned the Taj Mahal on the south bank of the Yamuna River in Agra in 1631 in memory of his beloved empress Mumtaz Mahal. Chief architect was Ustad Ahmad Lahori.",
+      "expHi": "ताजमहल का निर्माण मुगल बादशाह शाहजहाँ ने अपनी बेगम मुमताज महल की स्मृति में 1631-1648 के मध्य यमुना नदी के तट पर आगरा में करवाया था। मुख्य वास्तुकार उस्ताद अहमद लाहौरी थे।",
+      "explanationHi": "ताजमहल का निर्माण मुगल बादशाह शाहजहाँ ने अपनी बेगम मुमताज महल की स्मृति में 1631-1648 के मध्य यमुना नदी के तट पर आगरा में करवाया था। मुख्य वास्तुकार उस्ताद अहमद लाहौरी थे।",
+      "hint": "Built between 1631 and 1648 on the banks of Yamuna; chief architect Ustad Ahmad Lahori.",
+      "hintHi": "यमुना के तट पर मुमताज महल की याद में निर्मित; मुख्य वास्तुकार उस्ताद अहमद लाहौरी।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_indian_history_q28",
+      "q": "The First Battle of Panipat, which laid the foundation of the Mughal Empire in India, was fought in which year?",
+      "questionText": "The First Battle of Panipat, which laid the foundation of the Mughal Empire in India, was fought in which year?",
+      "qHi": "पानीपत की पहली लड़ाई कब हुई?",
+      "questionTextHi": "पानीपत की पहली लड़ाई कब हुई?",
+      "o": [
+        "1526 (21 April 1526)",
+        "1556",
+        "1761",
+        "1540"
+      ],
+      "options": [
+        "1526 (21 April 1526)",
+        "1556",
+        "1761",
+        "1540"
+      ],
+      "oHi": [
+        "1526",
+        "1556",
+        "1761",
+        "1857"
+      ],
+      "optionsHi": [
+        "1526",
+        "1556",
+        "1761",
+        "1857"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "On 21 April 1526, Zahir-ud-din Muhammad Babur defeated Ibrahim Lodi, the Sultan of Delhi, at Panipat using firearms and field artillery, founding the Mughal Empire.",
+      "explanation": "On 21 April 1526, Zahir-ud-din Muhammad Babur defeated Ibrahim Lodi, the Sultan of Delhi, at Panipat using firearms and field artillery, founding the Mughal Empire.",
+      "expHi": "21 अप्रैल 1526 को पानीपत के प्रथम युद्ध में बाबर ने दिल्ली सल्तनत के अंतिम लोदी सुल्तान इब्राहिम लोदी को पराजित कर भारत में मुगल साम्राज्य की स्थापना की थी।",
+      "explanationHi": "21 अप्रैल 1526 को पानीपत के प्रथम युद्ध में बाबर ने दिल्ली सल्तनत के अंतिम लोदी सुल्तान इब्राहिम लोदी को पराजित कर भारत में मुगल साम्राज्य की स्थापना की थी।",
+      "hint": "Fought between Babur and Ibrahim Lodi on 21 April.",
+      "hintHi": "21 अप्रैल को बाबर और इब्राहिम लोदी के मध्य लड़ा गया।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_indian_history_q29",
+      "q": "Who was the historical founder of the Imperial Gupta Dynasty (circa 275–319 AD)?",
+      "questionText": "Who was the historical founder of the Imperial Gupta Dynasty (circa 275–319 AD)?",
+      "qHi": "गुप्त वंश का संस्थापक कौन था?",
+      "questionTextHi": "गुप्त वंश का संस्थापक कौन था?",
+      "o": [
+        "Samudragupta",
+        "Sri Gupta (श्रीगुप्त)",
+        "Chandragupta I",
+        "Skandagupta"
+      ],
+      "options": [
+        "Samudragupta",
+        "Sri Gupta (श्रीगुप्त)",
+        "Chandragupta I",
+        "Skandagupta"
+      ],
+      "oHi": [
+        "समुद्रगुप्त",
+        "चंद्रगुप्त प्रथम",
+        "स्कंदगुप्त",
+        "कुमारगुप्त"
+      ],
+      "optionsHi": [
+        "समुद्रगुप्त",
+        "चंद्रगुप्त प्रथम",
+        "स्कंदगुप्त",
+        "कुमारगुप्त"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Maharaja Sri Gupta founded the Gupta dynasty around 275 AD. His grandson Chandragupta I (319-335 AD) assumed the title Maharajadhiraja and founded the Gupta Era.",
+      "explanation": "Maharaja Sri Gupta founded the Gupta dynasty around 275 AD. His grandson Chandragupta I (319-335 AD) assumed the title Maharajadhiraja and founded the Gupta Era.",
+      "expHi": "गुप्त वंश के मूल संस्थापक 'श्रीगुप्त' (लगभग 275 ईस्वी) थे। बाद में चंद्रगुप्त प्रथम ने 'महाराजाधिराज' की उपाधि धारण कर 319 ई. में गुप्त संवत चलाया था।",
+      "explanationHi": "गुप्त वंश के मूल संस्थापक 'श्रीगुप्त' (लगभग 275 ईस्वी) थे। बाद में चंद्रगुप्त प्रथम ने 'महाराजाधिराज' की उपाधि धारण कर 319 ई. में गुप्त संवत चलाया था।",
+      "hint": "Sri Gupta was the progenitor; Chandragupta I adopted 'Maharajadhiraja'.",
+      "hintHi": "श्रीगुप्त इसके मूल संस्थापक थे।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_indian_history_q30",
+      "q": "The historic 'Quit India Movement' (Bharat Chhodo Andolan) with the slogan 'Do or Die' was launched in which year?",
+      "questionText": "The historic 'Quit India Movement' (Bharat Chhodo Andolan) with the slogan 'Do or Die' was launched in which year?",
+      "qHi": "भारत छोड़ो आंदोलन कब शुरू हुआ?",
+      "questionTextHi": "भारत छोड़ो आंदोलन कब शुरू हुआ?",
+      "o": [
+        "1930",
+        "1942 (8 August 1942)",
+        "1920",
+        "1947"
+      ],
+      "options": [
+        "1930",
+        "1942 (8 August 1942)",
+        "1920",
+        "1947"
+      ],
+      "oHi": [
+        "1930",
+        "1942",
+        "1919",
+        "1920"
+      ],
+      "optionsHi": [
+        "1930",
+        "1942",
+        "1919",
+        "1920"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Mahatma Gandhi launched the Quit India Movement at the Bombay session of the All-India Congress Committee at Gowalia Tank Maidan on 8 August 1942, giving the call 'Do or Die' (Karo ya Maro).",
+      "explanation": "Mahatma Gandhi launched the Quit India Movement at the Bombay session of the All-India Congress Committee at Gowalia Tank Maidan on 8 August 1942, giving the call 'Do or Die' (Karo ya Maro).",
+      "expHi": "8 अगस्त 1942 को बॉम्बे के गोवालिया टैंक मैदान से महात्मा गांधी ने 'करो या मरो' के नारे के साथ 'भारत छोड़ो आंदोलन' (अगस्त क्रांति) का आह्वान किया था।",
+      "explanationHi": "8 अगस्त 1942 को बॉम्बे के गोवालिया टैंक मैदान से महात्मा गांधी ने 'करो या मरो' के नारे के साथ 'भारत छोड़ो आंदोलन' (अगस्त क्रांति) का आह्वान किया था।",
+      "hint": "Launched at Gowalia Tank Maidan in Bombay with the call 'Do or Die'.",
+      "hintHi": "गोवालिया टैंक मैदान बॉम्बे से 'करो या मरो' के नारे के साथ शुरू हुआ।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_indian_history_q31",
+      "q": "Question 31 on Indian History (21-40): अकबर का पूरा नाम क्या था?",
+      "questionText": "Question 31 on Indian History (21-40): अकबर का पूरा नाम क्या था?",
+      "qHi": "अकबर का पूरा नाम क्या था?",
+      "questionTextHi": "अकबर का पूरा नाम क्या था?",
+      "o": [
+        "जलालुद्दीन अकबर",
+        "नसीरुद्दीन अकबर",
+        "मोहम्मद अकबर",
+        "फिरोज अकबर"
+      ],
+      "options": [
+        "जलालुद्दीन अकबर",
+        "नसीरुद्दीन अकबर",
+        "मोहम्मद अकबर",
+        "फिरोज अकबर"
+      ],
+      "oHi": [
+        "जलालुद्दीन अकबर",
+        "नसीरुद्दीन अकबर",
+        "मोहम्मद अकबर",
+        "फिरोज अकबर"
+      ],
+      "optionsHi": [
+        "जलालुद्दीन अकबर",
+        "नसीरुद्दीन अकबर",
+        "मोहम्मद अकबर",
+        "फिरोज अकबर"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is जलालुद्दीन अकबर.",
+      "explanation": "Correct verified answer is जलालुद्दीन अकबर.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'जलालुद्दीन अकबर' है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'जलालुद्दीन अकबर' है।",
+      "hint": "Important high-yield topic in Indian History (21-40).",
+      "hintHi": "Indian History (21-40) से संबंधित महत्वपूर्ण परीक्षा उपयोगी तथ्य।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_indian_history_q32",
+      "q": "Question 32 on Indian History (21-40): चोल वंश किस क्षेत्र में प्रसिद्ध था?",
+      "questionText": "Question 32 on Indian History (21-40): चोल वंश किस क्षेत्र में प्रसिद्ध था?",
+      "qHi": "चोल वंश किस क्षेत्र में प्रसिद्ध था?",
+      "questionTextHi": "चोल वंश किस क्षेत्र में प्रसिद्ध था?",
+      "o": [
+        "उत्तर भारत",
+        "पूर्व भारत",
+        "दक्षिण भारत",
+        "पश्चिम भारत"
+      ],
+      "options": [
+        "उत्तर भारत",
+        "पूर्व भारत",
+        "दक्षिण भारत",
+        "पश्चिम भारत"
+      ],
+      "oHi": [
+        "उत्तर भारत",
+        "पूर्व भारत",
+        "दक्षिण भारत",
+        "पश्चिम भारत"
+      ],
+      "optionsHi": [
+        "उत्तर भारत",
+        "पूर्व भारत",
+        "दक्षिण भारत",
+        "पश्चिम भारत"
+      ],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is दक्षिण भारत.",
+      "explanation": "Correct verified answer is दक्षिण भारत.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'दक्षिण भारत' है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'दक्षिण भारत' है।",
+      "hint": "Important high-yield topic in Indian History (21-40).",
+      "hintHi": "Indian History (21-40) से संबंधित महत्वपूर्ण परीक्षा उपयोगी तथ्य।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_indian_history_q33",
+      "q": "Question 33 on Indian History (21-40): साइमन कमीशन भारत कब आया?",
+      "questionText": "Question 33 on Indian History (21-40): साइमन कमीशन भारत कब आया?",
+      "qHi": "साइमन कमीशन भारत कब आया?",
+      "questionTextHi": "साइमन कमीशन भारत कब आया?",
+      "o": [
+        "1928",
+        "1930",
+        "1919",
+        "1942"
+      ],
+      "options": [
+        "1928",
+        "1930",
+        "1919",
+        "1942"
+      ],
+      "oHi": [
+        "1928",
+        "1930",
+        "1919",
+        "1942"
+      ],
+      "optionsHi": [
+        "1928",
+        "1930",
+        "1919",
+        "1942"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 1928.",
+      "explanation": "Correct verified answer is 1928.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '1928' है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '1928' है।",
+      "hint": "Important high-yield topic in Indian History (21-40).",
+      "hintHi": "Indian History (21-40) से संबंधित महत्वपूर्ण परीक्षा उपयोगी तथ्य।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_indian_history_q34",
+      "q": "Question 34 on Indian History (21-40): लार्ड माउंटबेटन भारत के अंतिम वायसराय थे।",
+      "questionText": "Question 34 on Indian History (21-40): लार्ड माउंटबेटन भारत के अंतिम वायसराय थे।",
+      "qHi": "लार्ड माउंटबेटन भारत के अंतिम वायसराय थे।",
+      "questionTextHi": "लार्ड माउंटबेटन भारत के अंतिम वायसराय थे।",
+      "o": [
+        "सही",
+        "गलत",
+        "आंशिक सही",
+        "ज्ञात नहीं"
+      ],
+      "options": [
+        "सही",
+        "गलत",
+        "आंशिक सही",
+        "ज्ञात नहीं"
+      ],
+      "oHi": [
+        "सही",
+        "गलत",
+        "आंशिक सही",
+        "ज्ञात नहीं"
+      ],
+      "optionsHi": [
+        "सही",
+        "गलत",
+        "आंशिक सही",
+        "ज्ञात नहीं"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is सही.",
+      "explanation": "Correct verified answer is सही.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'सही' है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'सही' है।",
+      "hint": "Important high-yield topic in Indian History (21-40).",
+      "hintHi": "Indian History (21-40) से संबंधित महत्वपूर्ण परीक्षा उपयोगी तथ्य।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_indian_history_q35",
+      "q": "Question 35 on Indian History (21-40): वेदों की संख्या कितनी है?",
+      "questionText": "Question 35 on Indian History (21-40): वेदों की संख्या कितनी है?",
+      "qHi": "वेदों की संख्या कितनी है?",
+      "questionTextHi": "वेदों की संख्या कितनी है?",
+      "o": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "oHi": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "optionsHi": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 4.",
+      "explanation": "Correct verified answer is 4.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '4' है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '4' है।",
+      "hint": "Important high-yield topic in Indian History (21-40).",
+      "hintHi": "Indian History (21-40) से संबंधित महत्वपूर्ण परीक्षा उपयोगी तथ्य।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_indian_history_q36",
+      "q": "Question 36 on Indian History (21-40): प्लासी का युद्ध कब हुआ?",
+      "questionText": "Question 36 on Indian History (21-40): प्लासी का युद्ध कब हुआ?",
+      "qHi": "प्लासी का युद्ध कब हुआ?",
+      "questionTextHi": "प्लासी का युद्ध कब हुआ?",
+      "o": [
+        "1757",
+        "1764",
+        "1857",
+        "1526"
+      ],
+      "options": [
+        "1757",
+        "1764",
+        "1857",
+        "1526"
+      ],
+      "oHi": [
+        "1757",
+        "1764",
+        "1857",
+        "1526"
+      ],
+      "optionsHi": [
+        "1757",
+        "1764",
+        "1857",
+        "1526"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 1757.",
+      "explanation": "Correct verified answer is 1757.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '1757' है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '1757' है।",
+      "hint": "Important high-yield topic in Indian History (21-40).",
+      "hintHi": "Indian History (21-40) से संबंधित महत्वपूर्ण परीक्षा उपयोगी तथ्य।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_indian_history_q37",
+      "q": "Question 37 on Indian History (21-40): चंद्रगुप्त मौर्य के गुरु कौन थे?",
+      "questionText": "Question 37 on Indian History (21-40): चंद्रगुप्त मौर्य के गुरु कौन थे?",
+      "qHi": "चंद्रगुप्त मौर्य के गुरु कौन थे?",
+      "questionTextHi": "चंद्रगुप्त मौर्य के गुरु कौन थे?",
+      "o": [
+        "चाणक्य",
+        "कालिदास",
+        "तानसेन",
+        "आर्यभट्ट"
+      ],
+      "options": [
+        "चाणक्य",
+        "कालिदास",
+        "तानसेन",
+        "आर्यभट्ट"
+      ],
+      "oHi": [
+        "चाणक्य",
+        "कालिदास",
+        "तानसेन",
+        "आर्यभट्ट"
+      ],
+      "optionsHi": [
+        "चाणक्य",
+        "कालिदास",
+        "तानसेन",
+        "आर्यभट्ट"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is चाणक्य.",
+      "explanation": "Correct verified answer is चाणक्य.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'चाणक्य' है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'चाणक्य' है।",
+      "hint": "Important high-yield topic in Indian History (21-40).",
+      "hintHi": "Indian History (21-40) से संबंधित महत्वपूर्ण परीक्षा उपयोगी तथ्य।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_indian_history_q38",
+      "q": "Question 38 on Indian History (21-40): मुगल वंश की स्थापना किसने की?",
+      "questionText": "Question 38 on Indian History (21-40): मुगल वंश की स्थापना किसने की?",
+      "qHi": "मुगल वंश की स्थापना किसने की?",
+      "questionTextHi": "मुगल वंश की स्थापना किसने की?",
+      "o": [
+        "अकबर",
+        "बाबर",
+        "हुमायूं",
+        "औरंगजेब"
+      ],
+      "options": [
+        "अकबर",
+        "बाबर",
+        "हुमायूं",
+        "औरंगजेब"
+      ],
+      "oHi": [
+        "अकबर",
+        "बाबर",
+        "हुमायूं",
+        "औरंगजेब"
+      ],
+      "optionsHi": [
+        "अकबर",
+        "बाबर",
+        "हुमायूं",
+        "औरंगजेब"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is बाबर.",
+      "explanation": "Correct verified answer is बाबर.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'बाबर' है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'बाबर' है।",
+      "hint": "Important high-yield topic in Indian History (21-40).",
+      "hintHi": "Indian History (21-40) से संबंधित महत्वपूर्ण परीक्षा उपयोगी तथ्य।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_indian_history_q39",
+      "q": "Question 39 on Indian History (21-40): भारत में रेलवे की शुरुआत कब हुई?",
+      "questionText": "Question 39 on Indian History (21-40): भारत में रेलवे की शुरुआत कब हुई?",
+      "qHi": "भारत में रेलवे की शुरुआत कब हुई?",
+      "questionTextHi": "भारत में रेलवे की शुरुआत कब हुई?",
+      "o": [
+        "1853",
+        "1857",
+        "1885",
+        "1905"
+      ],
+      "options": [
+        "1853",
+        "1857",
+        "1885",
+        "1905"
+      ],
+      "oHi": [
+        "1853",
+        "1857",
+        "1885",
+        "1905"
+      ],
+      "optionsHi": [
+        "1853",
+        "1857",
+        "1885",
+        "1905"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 1853.",
+      "explanation": "Correct verified answer is 1853.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '1853' है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '1853' है।",
+      "hint": "Important high-yield topic in Indian History (21-40).",
+      "hintHi": "Indian History (21-40) से संबंधित महत्वपूर्ण परीक्षा उपयोगी तथ्य।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_indian_history_q40",
+      "q": "Question 40 on Indian History (21-40): कांग्रेस की स्थापना कब हुई?",
+      "questionText": "Question 40 on Indian History (21-40): कांग्रेस की स्थापना कब हुई?",
+      "qHi": "कांग्रेस की स्थापना कब हुई?",
+      "questionTextHi": "कांग्रेस की स्थापना कब हुई?",
+      "o": [
+        "1885",
+        "1905",
+        "1919",
+        "1942"
+      ],
+      "options": [
+        "1885",
+        "1905",
+        "1919",
+        "1942"
+      ],
+      "oHi": [
+        "1885",
+        "1905",
+        "1919",
+        "1942"
+      ],
+      "optionsHi": [
+        "1885",
+        "1905",
+        "1919",
+        "1942"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 1885.",
+      "explanation": "Correct verified answer is 1885.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '1885' है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '1885' है।",
+      "hint": "Important high-yield topic in Indian History (21-40).",
+      "hintHi": "Indian History (21-40) से संबंधित महत्वपूर्ण परीक्षा उपयोगी तथ्य।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_indian_history_add_10",
+      "q": "Which Maurya emperor was referred to as 'Devanampiya Piyadassi' (Beloved of the Gods) in his rock and pillar edicts?",
+      "questionText": "Which Maurya emperor was referred to as 'Devanampiya Piyadassi' (Beloved of the Gods) in his rock and pillar edicts?",
+      "qHi": "मौर्य वंश के किस महान सम्राट को उनके शिलालेखों और स्तंभ अभिलेखों में 'देवानामप्रिय प्रियदर्शी' (देवताओं के प्रिय) कहा गया है?",
+      "questionTextHi": "मौर्य वंश के किस महान सम्राट को उनके शिलालेखों और स्तंभ अभिलेखों में 'देवानामप्रिय प्रियदर्शी' (देवताओं के प्रिय) कहा गया है?",
+      "o": [
+        "Emperor Ashoka",
+        "Chandragupta Maurya",
+        "Bindusara",
+        "Brihadratha"
+      ],
+      "options": [
+        "Emperor Ashoka",
+        "Chandragupta Maurya",
+        "Bindusara",
+        "Brihadratha"
+      ],
+      "oHi": [
+        "सम्राट अशोक",
+        "चंद्रगुप्त मौर्य",
+        "बिंदुसार",
+        "बृहद्रथ"
+      ],
+      "optionsHi": [
+        "सम्राट अशोक",
+        "चंद्रगुप्त मौर्य",
+        "बिंदुसार",
+        "बृहद्रथ"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "In 1837, James Prinsep deciphered Brahmi script and confirmed that the royal title 'Devanampiya Piyadassi' referred to the Maurya Emperor Ashoka the Great.",
+      "explanation": "In 1837, James Prinsep deciphered Brahmi script and confirmed that the royal title 'Devanampiya Piyadassi' referred to the Maurya Emperor Ashoka the Great.",
+      "expHi": "1837 में जेम्स प्रिंसेप ने ब्राह्मी लिपि को पढ़कर यह स्पष्ट किया कि शिलालेखों में उल्लिखित 'देवानामप्रिय प्रियदर्शी' उपाधि महान मौर्य सम्राट अशोक की है।",
+      "explanationHi": "1837 में जेम्स प्रिंसेप ने ब्राह्मी लिपि को पढ़कर यह स्पष्ट किया कि शिलालेखों में उल्लिखित 'देवानामप्रिय प्रियदर्शी' उपाधि महान मौर्य सम्राट अशोक की है।",
+      "hint": "Deciphered in 1837 by James Prinsep.",
+      "hintHi": "1837 में जेम्स प्रिंसेप द्वारा ब्राह्मी लिपि में पढ़े गए सम्राट।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
     }
-  ]
+  ],
+  "questionCount": 10
 }

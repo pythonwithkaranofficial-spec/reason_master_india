@@ -31,26 +31,2226 @@
   ],
   "mcqs": [
     {
+      "id": "gk_nat_static_gk_superlatives_q1",
       "q": "Who was the first Indian to travel to outer space aboard Soviet mission Soyuz T-11 in April 1984?",
+      "questionText": "Who was the first Indian to travel to outer space aboard Soviet mission Soyuz T-11 in April 1984?",
+      "qHi": "3 अप्रैल 1984 को सोवियत अंतरिक्ष यान सोयुज टी-11 से अंतरिक्ष में यात्रा करने वाले पहले भारतीय नागरिक कौन बने?",
+      "questionTextHi": "3 अप्रैल 1984 को सोवियत अंतरिक्ष यान सोयुज टी-11 से अंतरिक्ष में यात्रा करने वाले पहले भारतीय नागरिक कौन बने?",
       "o": [
         "Wing Commander Rakesh Sharma",
         "Kalpana Chawla",
         "Sunita Williams",
         "Ravish Malhotra"
       ],
+      "options": [
+        "Wing Commander Rakesh Sharma",
+        "Kalpana Chawla",
+        "Sunita Williams",
+        "Ravish Malhotra"
+      ],
+      "oHi": [
+        "विंग कमांडर राकेश शर्मा",
+        "कल्पना चावला",
+        "सुनीता विलियम्स",
+        "रविश मल्होत्रा"
+      ],
+      "optionsHi": [
+        "विंग कमांडर राकेश शर्मा",
+        "कल्पना चावला",
+        "सुनीता विलियम्स",
+        "रविश मल्होत्रा"
+      ],
       "a": 0,
-      "exp": "Wing Commander Rakesh Sharma spent 7 days, 21 hours and 40 minutes aboard the Salyut 7 orbital space station in 1984."
+      "correctIndex": 0,
+      "exp": "Wing Commander Rakesh Sharma spent 7 days, 21 hours and 40 minutes aboard the Salyut 7 orbital space station in 1984.",
+      "explanation": "Wing Commander Rakesh Sharma spent 7 days, 21 hours and 40 minutes aboard the Salyut 7 orbital space station in 1984.",
+      "expHi": "विंग कमांडर राकेश शर्मा अंतरिक्ष में जाने वाले पहले भारतीय बने। तत्कालीन प्रधानमंत्री इंदिरा गांधी के सवाल पर उन्होंने कहा था- 'सारे जहाँ से अच्छा हिन्दोस्तां हमारा'!",
+      "explanationHi": "विंग कमांडर राकेश शर्मा अंतरिक्ष में जाने वाले पहले भारतीय बने। तत्कालीन प्रधानमंत्री इंदिरा गांधी के सवाल पर उन्होंने कहा था- 'सारे जहाँ से अच्छा हिन्दोस्तां हमारा'!",
+      "hint": "Consider the established historical and constitutional facts of Static GK & First in India.",
+      "hintHi": "इंदिरा गांधी से बात करते हुए उन्होंने कहा था- 'सारे जहाँ से अच्छा हिन्दोस्तां हमारा'।",
+      "difficulty": "medium",
+      "examTags": [
+        "ssc_cgl",
+        "upsc_csat",
+        "railway",
+        "banking_ga"
+      ]
     },
     {
+      "id": "gk_nat_static_gk_superlatives_q2",
       "q": "Which is the highest dam in India, constructed across the Bhagirathi River in Uttarakhand?",
+      "questionText": "Which is the highest dam in India, constructed across the Bhagirathi River in Uttarakhand?",
+      "qHi": "उत्तराखंड में भागीरथी और भिलंगना नदियों के संगम पर बना 260.5 मीटर ऊंचा भारत का सबसे ऊंचा बांध कौन सा है?",
+      "questionTextHi": "उत्तराखंड में भागीरथी और भिलंगना नदियों के संगम पर बना 260.5 मीटर ऊंचा भारत का सबसे ऊंचा बांध कौन सा है?",
       "o": [
         "Tehri Dam (260.5 m)",
         "Bhakra Dam",
         "Sardar Sarovar Dam",
         "Hirakud Dam"
       ],
+      "options": [
+        "Tehri Dam (260.5 m)",
+        "Bhakra Dam",
+        "Sardar Sarovar Dam",
+        "Hirakud Dam"
+      ],
+      "oHi": [
+        "टिहरी बांध (260.5 मीटर)",
+        "भाखड़ा नांगल बांध",
+        "सरदार सरोवर बांध",
+        "हीराकुंड बांध"
+      ],
+      "optionsHi": [
+        "टिहरी बांध (260.5 मीटर)",
+        "भाखड़ा नांगल बांध",
+        "सरदार सरोवर बांध",
+        "हीराकुंड बांध"
+      ],
       "a": 0,
-      "exp": "Tehri Dam on the Bhagirathi River in New Tehri, Uttarakhand, is India's highest and the 4th highest dam in the world."
+      "correctIndex": 0,
+      "exp": "Tehri Dam on the Bhagirathi River in New Tehri, Uttarakhand, is India's highest and the 4th highest dam in the world.",
+      "explanation": "Tehri Dam on the Bhagirathi River in New Tehri, Uttarakhand, is India's highest and the 4th highest dam in the world.",
+      "expHi": "टिहरी बांध उत्तराखंड के टिहरी जिले में स्थित भारत का सबसे ऊंचा और दुनिया का चौथा सबसे ऊंचा रॉक-एंड-अर्थ-फिल तटबंध बांध है।",
+      "explanationHi": "टिहरी बांध उत्तराखंड के टिहरी जिले में स्थित भारत का सबसे ऊंचा और दुनिया का चौथा सबसे ऊंचा रॉक-एंड-अर्थ-फिल तटबंध बांध है।",
+      "hint": "Consider the established historical and constitutional facts of Static GK & First in India.",
+      "hintHi": "यह उत्तराखंड में भागीरथी नदी पर निर्मित है।",
+      "difficulty": "medium",
+      "examTags": [
+        "ssc_cgl",
+        "upsc_csat",
+        "railway",
+        "banking_ga"
+      ]
+    },
+    {
+      "id": "gk_nat_pers_001",
+      "q": "Which distinguished Indian leader is popularly known as 'Frontier Gandhi'?",
+      "questionText": "Which distinguished Indian leader is popularly known as 'Frontier Gandhi'?",
+      "qHi": "किस महान भारतीय नेता को लोकप्रिय रूप से 'सीमांत गांधी' के नाम से जाना जाता है?",
+      "questionTextHi": "किस महान भारतीय नेता को लोकप्रिय रूप से 'सीमांत गांधी' के नाम से जाना जाता है?",
+      "o": [
+        "Liaquat Ali",
+        "Khan Abdul Ghaffar Khan",
+        "Maulana Azad",
+        "Sir Syed Ahmad"
+      ],
+      "options": [
+        "Liaquat Ali",
+        "Khan Abdul Ghaffar Khan",
+        "Maulana Azad",
+        "Sir Syed Ahmad"
+      ],
+      "oHi": [
+        "लियाकत अली",
+        "खान अब्दुल गफ्फार खान",
+        "मौलाना आजाद",
+        "सर सैयद अहमद"
+      ],
+      "optionsHi": [
+        "लियाकत अली",
+        "खान अब्दुल गफ्फार खान",
+        "मौलाना आजाद",
+        "सर सैयद अहमद"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Khan Abdul Ghaffar Khan was widely revered and bestowed with the historic honorific 'Frontier Gandhi'.",
+      "explanation": "Khan Abdul Ghaffar Khan was widely revered and bestowed with the historic honorific 'Frontier Gandhi'.",
+      "expHi": "खान अब्दुल गफ्फार खान को देश सेवा और योगदान के कारण 'सीमांत गांधी' की उपाधि से सम्मानित किया गया।",
+      "explanationHi": "खान अब्दुल गफ्फार खान को देश सेवा और योगदान के कारण 'सीमांत गांधी' की उपाधि से सम्मानित किया गया।",
+      "hint": "Refers to Khan Abdul Ghaffar Khan.",
+      "hintHi": "यह उपाधि खान अब्दुल गफ्फार खान को दी गई थी।",
+      "difficulty": "easy",
+      "examTags": [
+        "ssc_cgl",
+        "railway_ntpc",
+        "police",
+        "state_psc"
+      ]
+    },
+    {
+      "id": "gk_nat_pers_002",
+      "q": "Which distinguished Indian leader is popularly known as 'Iron Man of India'?",
+      "questionText": "Which distinguished Indian leader is popularly known as 'Iron Man of India'?",
+      "qHi": "किस महान भारतीय नेता को लोकप्रिय रूप से 'भारत का लौह पुरुष' के नाम से जाना जाता है?",
+      "questionTextHi": "किस महान भारतीय नेता को लोकप्रिय रूप से 'भारत का लौह पुरुष' के नाम से जाना जाता है?",
+      "o": [
+        "Jawaharlal Nehru",
+        "Sardar Vallabhbhai Patel",
+        "B.R. Ambedkar",
+        "Subhas Chandra Bose"
+      ],
+      "options": [
+        "Jawaharlal Nehru",
+        "Sardar Vallabhbhai Patel",
+        "B.R. Ambedkar",
+        "Subhas Chandra Bose"
+      ],
+      "oHi": [
+        "जवाहरलाल नेहरू",
+        "सरदार वल्लभभाई पटेल",
+        "बी.आर. आंबेडकर",
+        "सुभाष चंद्र बोस"
+      ],
+      "optionsHi": [
+        "जवाहरलाल नेहरू",
+        "सरदार वल्लभभाई पटेल",
+        "बी.आर. आंबेडकर",
+        "सुभाष चंद्र बोस"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Sardar Vallabhbhai Patel was widely revered and bestowed with the historic honorific 'Iron Man of India'.",
+      "explanation": "Sardar Vallabhbhai Patel was widely revered and bestowed with the historic honorific 'Iron Man of India'.",
+      "expHi": "सरदार वल्लभभाई पटेल को देश सेवा और योगदान के कारण 'भारत का लौह पुरुष' की उपाधि से सम्मानित किया गया।",
+      "explanationHi": "सरदार वल्लभभाई पटेल को देश सेवा और योगदान के कारण 'भारत का लौह पुरुष' की उपाधि से सम्मानित किया गया।",
+      "hint": "Refers to Sardar Vallabhbhai Patel.",
+      "hintHi": "यह उपाधि सरदार वल्लभभाई पटेल को दी गई थी।",
+      "difficulty": "easy",
+      "examTags": [
+        "ssc_cgl",
+        "railway_ntpc",
+        "police",
+        "state_psc"
+      ]
+    },
+    {
+      "id": "gk_nat_pers_003",
+      "q": "Which distinguished Indian leader is popularly known as 'Nightingale of India (Bharat Kokila)'?",
+      "questionText": "Which distinguished Indian leader is popularly known as 'Nightingale of India (Bharat Kokila)'?",
+      "qHi": "किस महान भारतीय नेता को लोकप्रिय रूप से 'भारत कोकिला' के नाम से जाना जाता है?",
+      "questionTextHi": "किस महान भारतीय नेता को लोकप्रिय रूप से 'भारत कोकिला' के नाम से जाना जाता है?",
+      "o": [
+        "Lata Mangeshkar",
+        "Sarojini Naidu",
+        "Annie Besant",
+        "Sucheta Kripalani"
+      ],
+      "options": [
+        "Lata Mangeshkar",
+        "Sarojini Naidu",
+        "Annie Besant",
+        "Sucheta Kripalani"
+      ],
+      "oHi": [
+        "लता मंगेशकर",
+        "सरोजिनी नायडू",
+        "एनी बेसेंट",
+        "सुचेता कृपलानी"
+      ],
+      "optionsHi": [
+        "लता मंगेशकर",
+        "सरोजिनी नायडू",
+        "एनी बेसेंट",
+        "सुचेता कृपलानी"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Sarojini Naidu was widely revered and bestowed with the historic honorific 'Nightingale of India (Bharat Kokila)'.",
+      "explanation": "Sarojini Naidu was widely revered and bestowed with the historic honorific 'Nightingale of India (Bharat Kokila)'.",
+      "expHi": "सरोजिनी नायडू को देश सेवा और योगदान के कारण 'भारत कोकिला' की उपाधि से सम्मानित किया गया।",
+      "explanationHi": "सरोजिनी नायडू को देश सेवा और योगदान के कारण 'भारत कोकिला' की उपाधि से सम्मानित किया गया।",
+      "hint": "Refers to Sarojini Naidu.",
+      "hintHi": "यह उपाधि सरोजिनी नायडू को दी गई थी।",
+      "difficulty": "easy",
+      "examTags": [
+        "ssc_cgl",
+        "railway_ntpc",
+        "police",
+        "state_psc"
+      ]
+    },
+    {
+      "id": "gk_nat_pers_004",
+      "q": "Which distinguished Indian leader is popularly known as 'Grand Old Man of India'?",
+      "questionText": "Which distinguished Indian leader is popularly known as 'Grand Old Man of India'?",
+      "qHi": "किस महान भारतीय नेता को लोकप्रिय रूप से 'भारत के वयोवृद्ध पुरुष' के नाम से जाना जाता है?",
+      "questionTextHi": "किस महान भारतीय नेता को लोकप्रिय रूप से 'भारत के वयोवृद्ध पुरुष' के नाम से जाना जाता है?",
+      "o": [
+        "Gopal Krishna Gokhale",
+        "Dadabhai Naoroji",
+        "Pherozeshah Mehta",
+        "Dinshaw Wacha"
+      ],
+      "options": [
+        "Gopal Krishna Gokhale",
+        "Dadabhai Naoroji",
+        "Pherozeshah Mehta",
+        "Dinshaw Wacha"
+      ],
+      "oHi": [
+        "गोपाल कृष्ण गोखले",
+        "दादाभाई नौरोजी",
+        "फिरोजशाह मेहता",
+        "दिनशॉ वाचा"
+      ],
+      "optionsHi": [
+        "गोपाल कृष्ण गोखले",
+        "दादाभाई नौरोजी",
+        "फिरोजशाह मेहता",
+        "दिनशॉ वाचा"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Dadabhai Naoroji was widely revered and bestowed with the historic honorific 'Grand Old Man of India'.",
+      "explanation": "Dadabhai Naoroji was widely revered and bestowed with the historic honorific 'Grand Old Man of India'.",
+      "expHi": "दादाभाई नौरोजी को देश सेवा और योगदान के कारण 'भारत के वयोवृद्ध पुरुष' की उपाधि से सम्मानित किया गया।",
+      "explanationHi": "दादाभाई नौरोजी को देश सेवा और योगदान के कारण 'भारत के वयोवृद्ध पुरुष' की उपाधि से सम्मानित किया गया।",
+      "hint": "Refers to Dadabhai Naoroji.",
+      "hintHi": "यह उपाधि दादाभाई नौरोजी को दी गई थी।",
+      "difficulty": "easy",
+      "examTags": [
+        "ssc_cgl",
+        "railway_ntpc",
+        "police",
+        "state_psc"
+      ]
+    },
+    {
+      "id": "gk_nat_pers_005",
+      "q": "Which distinguished Indian leader is popularly known as 'Missile Man of India'?",
+      "questionText": "Which distinguished Indian leader is popularly known as 'Missile Man of India'?",
+      "qHi": "किस महान भारतीय नेता को लोकप्रिय रूप से 'भारत के मिसाइल मैन' के नाम से जाना जाता है?",
+      "questionTextHi": "किस महान भारतीय नेता को लोकप्रिय रूप से 'भारत के मिसाइल मैन' के नाम से जाना जाता है?",
+      "o": [
+        "Homi Bhabha",
+        "Dr. A.P.J. Abdul Kalam",
+        "Satish Dhawan",
+        "Vikram Sarabhai"
+      ],
+      "options": [
+        "Homi Bhabha",
+        "Dr. A.P.J. Abdul Kalam",
+        "Satish Dhawan",
+        "Vikram Sarabhai"
+      ],
+      "oHi": [
+        "होमी भाभा",
+        "डॉ. ए.पी.जे. अब्दुल कलाम",
+        "सतीश धवन",
+        "विक्रम साराभाई"
+      ],
+      "optionsHi": [
+        "होमी भाभा",
+        "डॉ. ए.पी.जे. अब्दुल कलाम",
+        "सतीश धवन",
+        "विक्रम साराभाई"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Dr. A.P.J. Abdul Kalam was widely revered and bestowed with the historic honorific 'Missile Man of India'.",
+      "explanation": "Dr. A.P.J. Abdul Kalam was widely revered and bestowed with the historic honorific 'Missile Man of India'.",
+      "expHi": "डॉ. ए.पी.जे. अब्दुल कलाम को देश सेवा और योगदान के कारण 'भारत के मिसाइल मैन' की उपाधि से सम्मानित किया गया।",
+      "explanationHi": "डॉ. ए.पी.जे. अब्दुल कलाम को देश सेवा और योगदान के कारण 'भारत के मिसाइल मैन' की उपाधि से सम्मानित किया गया।",
+      "hint": "Refers to Dr. A.P.J. Abdul Kalam.",
+      "hintHi": "यह उपाधि डॉ. ए.पी.जे. अब्दुल कलाम को दी गई थी।",
+      "difficulty": "easy",
+      "examTags": [
+        "ssc_cgl",
+        "railway_ntpc",
+        "police",
+        "state_psc"
+      ]
+    },
+    {
+      "id": "gk_nat_pers_006",
+      "q": "Which distinguished Indian leader is popularly known as 'Punjab Kesari (Lion of Punjab)'?",
+      "questionText": "Which distinguished Indian leader is popularly known as 'Punjab Kesari (Lion of Punjab)'?",
+      "qHi": "किस महान भारतीय नेता को लोकप्रिय रूप से 'पंजाब केसरी' के नाम से जाना जाता है?",
+      "questionTextHi": "किस महान भारतीय नेता को लोकप्रिय रूप से 'पंजाब केसरी' के नाम से जाना जाता है?",
+      "o": [
+        "Bhagat Singh",
+        "Lala Lajpat Rai",
+        "Bal Gangadhar Tilak",
+        "Udham Singh"
+      ],
+      "options": [
+        "Bhagat Singh",
+        "Lala Lajpat Rai",
+        "Bal Gangadhar Tilak",
+        "Udham Singh"
+      ],
+      "oHi": [
+        "भगत सिंह",
+        "लाला लाजपत राय",
+        "बाल गंगाधर तिलक",
+        "उधम सिंह"
+      ],
+      "optionsHi": [
+        "भगत सिंह",
+        "लाला लाजपत राय",
+        "बाल गंगाधर तिलक",
+        "उधम सिंह"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Lala Lajpat Rai was widely revered and bestowed with the historic honorific 'Punjab Kesari (Lion of Punjab)'.",
+      "explanation": "Lala Lajpat Rai was widely revered and bestowed with the historic honorific 'Punjab Kesari (Lion of Punjab)'.",
+      "expHi": "लाला लाजपत राय को देश सेवा और योगदान के कारण 'पंजाब केसरी' की उपाधि से सम्मानित किया गया।",
+      "explanationHi": "लाला लाजपत राय को देश सेवा और योगदान के कारण 'पंजाब केसरी' की उपाधि से सम्मानित किया गया।",
+      "hint": "Refers to Lala Lajpat Rai.",
+      "hintHi": "यह उपाधि लाला लाजपत राय को दी गई थी।",
+      "difficulty": "easy",
+      "examTags": [
+        "ssc_cgl",
+        "railway_ntpc",
+        "police",
+        "state_psc"
+      ]
+    },
+    {
+      "id": "gk_nat_flag_001",
+      "q": "The ratio of the length to width of the National Flag of India is:",
+      "questionText": "The ratio of the length to width of the National Flag of India is:",
+      "qHi": "भारत के राष्ट्रीय ध्वज की लंबाई और चौड़ाई का अनुपात क्या है?",
+      "questionTextHi": "भारत के राष्ट्रीय ध्वज की लंबाई और चौड़ाई का अनुपात क्या है?",
+      "o": [
+        "2:3",
+        "3:2",
+        "3:4",
+        "1:2"
+      ],
+      "options": [
+        "2:3",
+        "3:2",
+        "3:4",
+        "1:2"
+      ],
+      "oHi": [
+        "2:3",
+        "3:2",
+        "3:4",
+        "1:2"
+      ],
+      "optionsHi": [
+        "2:3",
+        "3:2",
+        "3:4",
+        "1:2"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "The official ratio of the length to width of the Indian National Flag is 3:2.",
+      "explanation": "The official ratio of the length to width of the Indian National Flag is 3:2.",
+      "expHi": "भारत के राष्ट्रीय ध्वज की लंबाई और चौड़ाई का आधिकारिक अनुपात 3:2 है।",
+      "explanationHi": "भारत के राष्ट्रीय ध्वज की लंबाई और चौड़ाई का आधिकारिक अनुपात 3:2 है।",
+      "hint": "Official emblem & flag code of India.",
+      "hintHi": "भारत की ध्वज संहिता का मूलभूत नियम।",
+      "difficulty": "easy",
+      "examTags": [
+        "ssc_cgl",
+        "railway",
+        "police",
+        "state_psc"
+      ]
+    },
+    {
+      "id": "gk_nat_flag_002",
+      "q": "How many spokes are there in the Ashoka Chakra on the National Flag of India?",
+      "questionText": "How many spokes are there in the Ashoka Chakra on the National Flag of India?",
+      "qHi": "भारत के राष्ट्रीय ध्वज के अशोक चक्र में कितनी तीलियाँ (स्पोक्स) होती हैं?",
+      "questionTextHi": "भारत के राष्ट्रीय ध्वज के अशोक चक्र में कितनी तीलियाँ (स्पोक्स) होती हैं?",
+      "o": [
+        "20",
+        "22",
+        "24",
+        "26"
+      ],
+      "options": [
+        "20",
+        "22",
+        "24",
+        "26"
+      ],
+      "oHi": [
+        "20",
+        "22",
+        "24",
+        "26"
+      ],
+      "optionsHi": [
+        "20",
+        "22",
+        "24",
+        "26"
+      ],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "The Ashoka Chakra at the center of the Indian flag features 24 spokes representing 24 hours of progression.",
+      "explanation": "The Ashoka Chakra at the center of the Indian flag features 24 spokes representing 24 hours of progression.",
+      "expHi": "अशोक चक्र में 24 तीलियाँ होती हैं जो दिन के 24 घंटों और निरंतर प्रगति का प्रतीक हैं।",
+      "explanationHi": "अशोक चक्र में 24 तीलियाँ होती हैं जो दिन के 24 घंटों और निरंतर प्रगति का प्रतीक हैं।",
+      "hint": "Official emblem & flag code of India.",
+      "hintHi": "भारत की ध्वज संहिता का मूलभूत नियम।",
+      "difficulty": "easy",
+      "examTags": [
+        "ssc_cgl",
+        "railway",
+        "police",
+        "state_psc"
+      ]
+    },
+    {
+      "id": "gk_nat_flag_003",
+      "q": "What is the color of the Dharma Chakra in the center of the National Flag?",
+      "questionText": "What is the color of the Dharma Chakra in the center of the National Flag?",
+      "qHi": "राष्ट्रीय ध्वज के मध्य में बने चक्र का रंग क्या होता है?",
+      "questionTextHi": "राष्ट्रीय ध्वज के मध्य में बने चक्र का रंग क्या होता है?",
+      "o": [
+        "Black",
+        "Dark Blue (Navy Blue)",
+        "Green",
+        "Cyan"
+      ],
+      "options": [
+        "Black",
+        "Dark Blue (Navy Blue)",
+        "Green",
+        "Cyan"
+      ],
+      "oHi": [
+        "काला",
+        "गहरा नीला (नेवी ब्लू)",
+        "हरा",
+        "आसमानी"
+      ],
+      "optionsHi": [
+        "काला",
+        "गहरा नीला (नेवी ब्लू)",
+        "हरा",
+        "आसमानी"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "The Dharma Chakra in the center of the flag is navy blue in color.",
+      "explanation": "The Dharma Chakra in the center of the flag is navy blue in color.",
+      "expHi": "राष्ट्रीय ध्वज के केंद्र में स्थित धर्म चक्र का रंग गहरा नीला (Navy Blue) होता है।",
+      "explanationHi": "राष्ट्रीय ध्वज के केंद्र में स्थित धर्म चक्र का रंग गहरा नीला (Navy Blue) होता है।",
+      "hint": "Official emblem & flag code of India.",
+      "hintHi": "भारत की ध्वज संहिता का मूलभूत नियम।",
+      "difficulty": "easy",
+      "examTags": [
+        "ssc_cgl",
+        "railway",
+        "police",
+        "state_psc"
+      ]
+    },
+    {
+      "id": "gk_nat_flag_004",
+      "q": "The National Song of India 'Vande Mataram' was composed by:",
+      "questionText": "The National Song of India 'Vande Mataram' was composed by:",
+      "qHi": "भारत का राष्ट्रीय गीत 'वंदे मातरम्' किसके द्वारा रचित है?",
+      "questionTextHi": "भारत का राष्ट्रीय गीत 'वंदे मातरम्' किसके द्वारा रचित है?",
+      "o": [
+        "Rabindranath Tagore",
+        "Bankim Chandra Chattopadhyay",
+        "Sri Aurobindo",
+        "Sarojini Naidu"
+      ],
+      "options": [
+        "Rabindranath Tagore",
+        "Bankim Chandra Chattopadhyay",
+        "Sri Aurobindo",
+        "Sarojini Naidu"
+      ],
+      "oHi": [
+        "रवींद्रनाथ टैगोर",
+        "बंकिम चंद्र चट्टोपाध्याय",
+        "श्री अरबिंदो",
+        "सरोजिनी नायडू"
+      ],
+      "optionsHi": [
+        "रवींद्रनाथ टैगोर",
+        "बंकिम चंद्र चट्टोपाध्याय",
+        "श्री अरबिंदो",
+        "सरोजिनी नायडू"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Vande Mataram was penned in Sanskrit by Bankim Chandra Chattopadhyay in his 1882 novel Anandamath.",
+      "explanation": "Vande Mataram was penned in Sanskrit by Bankim Chandra Chattopadhyay in his 1882 novel Anandamath.",
+      "expHi": "वंदे मातरम् की रचना बंकिम चंद्र चट्टोपाध्याय ने 1882 में अपने उपन्यास 'आनंदमठ' में की थी।",
+      "explanationHi": "वंदे मातरम् की रचना बंकिम चंद्र चट्टोपाध्याय ने 1882 में अपने उपन्यास 'आनंदमठ' में की थी।",
+      "hint": "Official emblem & flag code of India.",
+      "hintHi": "भारत की ध्वज संहिता का मूलभूत नियम।",
+      "difficulty": "easy",
+      "examTags": [
+        "ssc_cgl",
+        "railway",
+        "police",
+        "state_psc"
+      ]
+    },
+    {
+      "id": "gk_nat_stat_001",
+      "q": "Which national leader is celebrated with the popular honorific 'Iron Man of India'?",
+      "questionText": "Which national leader is celebrated with the popular honorific 'Iron Man of India'?",
+      "qHi": "किस राष्ट्रीय नेता को 'भारत का लौह पुरुष' (Iron Man of India) कहा जाता है?",
+      "questionTextHi": "किस राष्ट्रीय नेता को 'भारत का लौह पुरुष' (Iron Man of India) कहा जाता है?",
+      "o": [
+        "Jawaharlal Nehru",
+        "Sardar Vallabhbhai Patel",
+        "B.R. Ambedkar",
+        "Subhas Chandra Bose"
+      ],
+      "options": [
+        "Jawaharlal Nehru",
+        "Sardar Vallabhbhai Patel",
+        "B.R. Ambedkar",
+        "Subhas Chandra Bose"
+      ],
+      "oHi": [
+        "जवाहरलाल नेहरू",
+        "सरदार वल्लभभाई पटेल",
+        "बी.आर. आंबेडकर",
+        "सुभाष चंद्र बोस"
+      ],
+      "optionsHi": [
+        "जवाहरलाल नेहरू",
+        "सरदार वल्लभभाई पटेल",
+        "बी.आर. आंबेडकर",
+        "सुभाष चंद्र बोस"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Sardar Patel integrated 562 princely states into the Indian Union, earning the title Iron Man.",
+      "explanation": "Sardar Patel integrated 562 princely states into the Indian Union, earning the title Iron Man.",
+      "expHi": "सरदार वल्लभभाई पटेल ने 562 रियासतों का भारत संघ में एकीकरण किया, इसलिए उन्हें लौह पुरुष कहा जाता है।",
+      "explanationHi": "सरदार वल्लभभाई पटेल ने 562 रियासतों का भारत संघ में एकीकरण किया, इसलिए उन्हें लौह पुरुष कहा जाता है।",
+      "hint": "Key concept under Static Gk Superlatives.",
+      "hintHi": "Static Gk Superlatives का महत्वपूर्ण तथ्य।",
+      "difficulty": "easy",
+      "examTags": [
+        "ssc_cgl",
+        "police",
+        "railway"
+      ]
+    },
+    {
+      "id": "gk_nat_stat_002",
+      "q": "Khan Abdul Ghaffar Khan was affectionately known by which nickname during the freedom struggle?",
+      "questionText": "Khan Abdul Ghaffar Khan was affectionately known by which nickname during the freedom struggle?",
+      "qHi": "स्वतंत्रता संग्राम के दौरान खान अब्दुल गफ्फार खान को किस उपनाम से जाना जाता था?",
+      "questionTextHi": "स्वतंत्रता संग्राम के दौरान खान अब्दुल गफ्फार खान को किस उपनाम से जाना जाता था?",
+      "o": [
+        "Frontier Gandhi (सीमांत गांधी)",
+        "Deshbandhu",
+        "Lokmanya",
+        "Dinabandhu"
+      ],
+      "options": [
+        "Frontier Gandhi (सीमांत गांधी)",
+        "Deshbandhu",
+        "Lokmanya",
+        "Dinabandhu"
+      ],
+      "oHi": [
+        "सीमांत गांधी (Frontier Gandhi)",
+        "देशबंधु",
+        "लोकमान्य",
+        "दीनबंधु"
+      ],
+      "optionsHi": [
+        "सीमांत गांधी (Frontier Gandhi)",
+        "देशबंधु",
+        "लोकमान्य",
+        "दीनबंधु"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Khan Abdul Ghaffar Khan led the Khudai Khidmatgar (Red Shirts) and was known as Frontier Gandhi.",
+      "explanation": "Khan Abdul Ghaffar Khan led the Khudai Khidmatgar (Red Shirts) and was known as Frontier Gandhi.",
+      "expHi": "खान अब्दुल गफ्फार खान ने 'खुदाई खिदमतगार' आंदोलन का नेतृत्व किया और उन्हें सीमांत गांधी कहा जाता था।",
+      "explanationHi": "खान अब्दुल गफ्फार खान ने 'खुदाई खिदमतगार' आंदोलन का नेतृत्व किया और उन्हें सीमांत गांधी कहा जाता था।",
+      "hint": "Key concept under Static Gk Superlatives.",
+      "hintHi": "Static Gk Superlatives का महत्वपूर्ण तथ्य।",
+      "difficulty": "medium",
+      "examTags": [
+        "ssc_cgl",
+        "state_psc"
+      ]
+    },
+    {
+      "id": "gk_nat_static_gk_superlatives_q76",
+      "q": "Question 76 on Science & Current Affairs (61-80): हाल ही में आयोजित G20 शिखर सम्मेलन 2023 की मेजबानी किस देश ने की?",
+      "questionText": "Question 76 on Science & Current Affairs (61-80): हाल ही में आयोजित G20 शिखर सम्मेलन 2023 की मेजबानी किस देश ने की?",
+      "qHi": "हाल ही में आयोजित G20 शिखर सम्मेलन 2023 की मेजबानी किस देश ने की?",
+      "questionTextHi": "हाल ही में आयोजित G20 शिखर सम्मेलन 2023 की मेजबानी किस देश ने की?",
+      "o": [
+        "चीन",
+        "अमेरिका",
+        "भारत",
+        "जापान"
+      ],
+      "options": [
+        "चीन",
+        "अमेरिका",
+        "भारत",
+        "जापान"
+      ],
+      "oHi": [
+        "चीन",
+        "अमेरिका",
+        "भारत",
+        "जापान"
+      ],
+      "optionsHi": [
+        "चीन",
+        "अमेरिका",
+        "भारत",
+        "जापान"
+      ],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is भारत.",
+      "explanation": "Correct verified answer is भारत.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'भारत' है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'भारत' है।",
+      "hint": "Important high-yield topic in Science & Current Affairs (61-80).",
+      "hintHi": "Science & Current Affairs (61-80) से संबंधित महत्वपूर्ण परीक्षा उपयोगी तथ्य।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_static_gk_superlatives_q77",
+      "q": "Question 77 on Science & Current Affairs (61-80): ‘स्वच्छ भारत अभियान’ कब शुरू हुआ?",
+      "questionText": "Question 77 on Science & Current Affairs (61-80): ‘स्वच्छ भारत अभियान’ कब शुरू हुआ?",
+      "qHi": "‘स्वच्छ भारत अभियान’ कब शुरू हुआ?",
+      "questionTextHi": "‘स्वच्छ भारत अभियान’ कब शुरू हुआ?",
+      "o": [
+        "2012",
+        "2014",
+        "2016",
+        "2018"
+      ],
+      "options": [
+        "2012",
+        "2014",
+        "2016",
+        "2018"
+      ],
+      "oHi": [
+        "2012",
+        "2014",
+        "2016",
+        "2018"
+      ],
+      "optionsHi": [
+        "2012",
+        "2014",
+        "2016",
+        "2018"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 2014.",
+      "explanation": "Correct verified answer is 2014.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '2014' है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '2014' है।",
+      "hint": "Important high-yield topic in Science & Current Affairs (61-80).",
+      "hintHi": "Science & Current Affairs (61-80) से संबंधित महत्वपूर्ण परीक्षा उपयोगी तथ्य।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_static_gk_superlatives_q78",
+      "q": "Question 78 on Science & Current Affairs (61-80): चंद्रयान-3 मिशन किस वर्ष सफल हुआ?",
+      "questionText": "Question 78 on Science & Current Affairs (61-80): चंद्रयान-3 मिशन किस वर्ष सफल हुआ?",
+      "qHi": "चंद्रयान-3 मिशन किस वर्ष सफल हुआ?",
+      "questionTextHi": "चंद्रयान-3 मिशन किस वर्ष सफल हुआ?",
+      "o": [
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "options": [
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "oHi": [
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "optionsHi": [
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 2023.",
+      "explanation": "Correct verified answer is 2023.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '2023' है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '2023' है।",
+      "hint": "Important high-yield topic in Science & Current Affairs (61-80).",
+      "hintHi": "Science & Current Affairs (61-80) से संबंधित महत्वपूर्ण परीक्षा उपयोगी तथ्य।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_static_gk_superlatives_q79",
+      "q": "Question 79 on Science & Current Affairs (61-80): RBI का मुख्यालय कहाँ स्थित है?",
+      "questionText": "Question 79 on Science & Current Affairs (61-80): RBI का मुख्यालय कहाँ स्थित है?",
+      "qHi": "RBI का मुख्यालय कहाँ स्थित है?",
+      "questionTextHi": "RBI का मुख्यालय कहाँ स्थित है?",
+      "o": [
+        "नई दिल्ली",
+        "मुंबई",
+        "चेन्नई",
+        "कोलकाता"
+      ],
+      "options": [
+        "नई दिल्ली",
+        "मुंबई",
+        "चेन्नई",
+        "कोलकाता"
+      ],
+      "oHi": [
+        "नई दिल्ली",
+        "मुंबई",
+        "चेन्नई",
+        "कोलकाता"
+      ],
+      "optionsHi": [
+        "नई दिल्ली",
+        "मुंबई",
+        "चेन्नई",
+        "कोलकाता"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is मुंबई.",
+      "explanation": "Correct verified answer is मुंबई.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'मुंबई' है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'मुंबई' है।",
+      "hint": "Important high-yield topic in Science & Current Affairs (61-80).",
+      "hintHi": "Science & Current Affairs (61-80) से संबंधित महत्वपूर्ण परीक्षा उपयोगी तथ्य।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_static_gk_superlatives_q80",
+      "q": "Question 80 on Science & Current Affairs (61-80): हाल ही में कौन सा देश BRICS का नया सदस्य बना (2023)?",
+      "questionText": "Question 80 on Science & Current Affairs (61-80): हाल ही में कौन सा देश BRICS का नया सदस्य बना (2023)?",
+      "qHi": "हाल ही में कौन सा देश BRICS का नया सदस्य बना (2023)?",
+      "questionTextHi": "हाल ही में कौन सा देश BRICS का नया सदस्य बना (2023)?",
+      "o": [
+        "सऊदी अरब",
+        "जापान",
+        "जर्मनी",
+        "कनाडा"
+      ],
+      "options": [
+        "सऊदी अरब",
+        "जापान",
+        "जर्मनी",
+        "कनाडा"
+      ],
+      "oHi": [
+        "सऊदी अरब",
+        "जापान",
+        "जर्मनी",
+        "कनाडा"
+      ],
+      "optionsHi": [
+        "सऊदी अरब",
+        "जापान",
+        "जर्मनी",
+        "कनाडा"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is सऊदी अरब.",
+      "explanation": "Correct verified answer is सऊदी अरब.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'सऊदी अरब' है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'सऊदी अरब' है।",
+      "hint": "Important high-yield topic in Science & Current Affairs (61-80).",
+      "hintHi": "Science & Current Affairs (61-80) से संबंधित महत्वपूर्ण परीक्षा उपयोगी तथ्य।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_static_gk_superlatives_q81",
+      "q": "Question 81 on Mixed Important GK (81–100): भारत का राष्ट्रीय पशु कौन सा है?",
+      "questionText": "Question 81 on Mixed Important GK (81–100): भारत का राष्ट्रीय पशु कौन सा है?",
+      "qHi": "भारत का राष्ट्रीय पशु कौन सा है?",
+      "questionTextHi": "भारत का राष्ट्रीय पशु कौन सा है?",
+      "o": [
+        "शेर",
+        "बाघ",
+        "हाथी",
+        "मोर"
+      ],
+      "options": [
+        "शेर",
+        "बाघ",
+        "हाथी",
+        "मोर"
+      ],
+      "oHi": [
+        "शेर",
+        "बाघ",
+        "हाथी",
+        "मोर"
+      ],
+      "optionsHi": [
+        "शेर",
+        "बाघ",
+        "हाथी",
+        "मोर"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is बाघ.",
+      "explanation": "Correct verified answer is बाघ.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'बाघ' है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'बाघ' है।",
+      "hint": "Important high-yield topic in Mixed Important GK (81–100).",
+      "hintHi": "Mixed Important GK (81–100) से संबंधित महत्वपूर्ण परीक्षा उपयोगी तथ्य।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_static_gk_superlatives_q82",
+      "q": "Question 82 on Mixed Important GK (81–100): भारत का राष्ट्रीय गान किसने लिखा?",
+      "questionText": "Question 82 on Mixed Important GK (81–100): भारत का राष्ट्रीय गान किसने लिखा?",
+      "qHi": "भारत का राष्ट्रीय गान किसने लिखा?",
+      "questionTextHi": "भारत का राष्ट्रीय गान किसने लिखा?",
+      "o": [
+        "महात्मा गांधी",
+        "रवीन्द्रनाथ टैगोर",
+        "जवाहरलाल नेहरू",
+        "सरदार पटेल"
+      ],
+      "options": [
+        "महात्मा गांधी",
+        "रवीन्द्रनाथ टैगोर",
+        "जवाहरलाल नेहरू",
+        "सरदार पटेल"
+      ],
+      "oHi": [
+        "महात्मा गांधी",
+        "रवीन्द्रनाथ टैगोर",
+        "जवाहरलाल नेहरू",
+        "सरदार पटेल"
+      ],
+      "optionsHi": [
+        "महात्मा गांधी",
+        "रवीन्द्रनाथ टैगोर",
+        "जवाहरलाल नेहरू",
+        "सरदार पटेल"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is रवीन्द्रनाथ टैगोर.",
+      "explanation": "Correct verified answer is रवीन्द्रनाथ टैगोर.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'रवीन्द्रनाथ टैगोर' है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'रवीन्द्रनाथ टैगोर' है।",
+      "hint": "Important high-yield topic in Mixed Important GK (81–100).",
+      "hintHi": "Mixed Important GK (81–100) से संबंधित महत्वपूर्ण परीक्षा उपयोगी तथ्य।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_static_gk_superlatives_q83",
+      "q": "Question 83 on Mixed Important GK (81–100): भारत का राष्ट्रीय खेल (परंपरागत रूप से माना जाने वाला) कौन सा है?",
+      "questionText": "Question 83 on Mixed Important GK (81–100): भारत का राष्ट्रीय खेल (परंपरागत रूप से माना जाने वाला) कौन सा है?",
+      "qHi": "भारत का राष्ट्रीय खेल (परंपरागत रूप से माना जाने वाला) कौन सा है?",
+      "questionTextHi": "भारत का राष्ट्रीय खेल (परंपरागत रूप से माना जाने वाला) कौन सा है?",
+      "o": [
+        "क्रिकेट",
+        "हॉकी",
+        "कबड्डी",
+        "फुटबॉल"
+      ],
+      "options": [
+        "क्रिकेट",
+        "हॉकी",
+        "कबड्डी",
+        "फुटबॉल"
+      ],
+      "oHi": [
+        "क्रिकेट",
+        "हॉकी",
+        "कबड्डी",
+        "फुटबॉल"
+      ],
+      "optionsHi": [
+        "क्रिकेट",
+        "हॉकी",
+        "कबड्डी",
+        "फुटबॉल"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is हॉकी.",
+      "explanation": "Correct verified answer is हॉकी.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'हॉकी' है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'हॉकी' है।",
+      "hint": "Important high-yield topic in Mixed Important GK (81–100).",
+      "hintHi": "Mixed Important GK (81–100) से संबंधित महत्वपूर्ण परीक्षा उपयोगी तथ्य।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_static_gk_superlatives_q84",
+      "q": "Question 84 on Mixed Important GK (81–100): RBI की स्थापना कब हुई?",
+      "questionText": "Question 84 on Mixed Important GK (81–100): RBI की स्थापना कब हुई?",
+      "qHi": "RBI की स्थापना कब हुई?",
+      "questionTextHi": "RBI की स्थापना कब हुई?",
+      "o": [
+        "1935",
+        "1947",
+        "1950",
+        "1960"
+      ],
+      "options": [
+        "1935",
+        "1947",
+        "1950",
+        "1960"
+      ],
+      "oHi": [
+        "1935",
+        "1947",
+        "1950",
+        "1960"
+      ],
+      "optionsHi": [
+        "1935",
+        "1947",
+        "1950",
+        "1960"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 1935.",
+      "explanation": "Correct verified answer is 1935.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '1935' है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '1935' है।",
+      "hint": "Important high-yield topic in Mixed Important GK (81–100).",
+      "hintHi": "Mixed Important GK (81–100) से संबंधित महत्वपूर्ण परीक्षा उपयोगी तथ्य।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_static_gk_superlatives_q85",
+      "q": "Question 85 on Mixed Important GK (81–100): UNO (संयुक्त राष्ट्र संगठन) की स्थापना कब हुई?",
+      "questionText": "Question 85 on Mixed Important GK (81–100): UNO (संयुक्त राष्ट्र संगठन) की स्थापना कब हुई?",
+      "qHi": "UNO (संयुक्त राष्ट्र संगठन) की स्थापना कब हुई?",
+      "questionTextHi": "UNO (संयुक्त राष्ट्र संगठन) की स्थापना कब हुई?",
+      "o": [
+        "1945",
+        "1947",
+        "1950",
+        "1965"
+      ],
+      "options": [
+        "1945",
+        "1947",
+        "1950",
+        "1965"
+      ],
+      "oHi": [
+        "1945",
+        "1947",
+        "1950",
+        "1965"
+      ],
+      "optionsHi": [
+        "1945",
+        "1947",
+        "1950",
+        "1965"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 1945.",
+      "explanation": "Correct verified answer is 1945.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '1945' है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '1945' है।",
+      "hint": "Important high-yield topic in Mixed Important GK (81–100).",
+      "hintHi": "Mixed Important GK (81–100) से संबंधित महत्वपूर्ण परीक्षा उपयोगी तथ्य।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_static_gk_superlatives_q86",
+      "q": "Question 86 on Mixed Important GK (81–100): भारत का राष्ट्रीय ध्वज किसने डिजाइन किया?",
+      "questionText": "Question 86 on Mixed Important GK (81–100): भारत का राष्ट्रीय ध्वज किसने डिजाइन किया?",
+      "qHi": "भारत का राष्ट्रीय ध्वज किसने डिजाइन किया?",
+      "questionTextHi": "भारत का राष्ट्रीय ध्वज किसने डिजाइन किया?",
+      "o": [
+        "पिंगली वेंकैया",
+        "गांधी जी",
+        "नेहरू",
+        "टैगोर"
+      ],
+      "options": [
+        "पिंगली वेंकैया",
+        "गांधी जी",
+        "नेहरू",
+        "टैगोर"
+      ],
+      "oHi": [
+        "पिंगली वेंकैया",
+        "गांधी जी",
+        "नेहरू",
+        "टैगोर"
+      ],
+      "optionsHi": [
+        "पिंगली वेंकैया",
+        "गांधी जी",
+        "नेहरू",
+        "टैगोर"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is पिंगली वेंकैया.",
+      "explanation": "Correct verified answer is पिंगली वेंकैया.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'पिंगली वेंकैया' है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'पिंगली वेंकैया' है।",
+      "hint": "Important high-yield topic in Mixed Important GK (81–100).",
+      "hintHi": "Mixed Important GK (81–100) से संबंधित महत्वपूर्ण परीक्षा उपयोगी तथ्य।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_static_gk_superlatives_q87",
+      "q": "Question 87 on Mixed Important GK (81–100): भारत का राष्ट्रीय पक्षी कौन सा है?",
+      "questionText": "Question 87 on Mixed Important GK (81–100): भारत का राष्ट्रीय पक्षी कौन सा है?",
+      "qHi": "भारत का राष्ट्रीय पक्षी कौन सा है?",
+      "questionTextHi": "भारत का राष्ट्रीय पक्षी कौन सा है?",
+      "o": [
+        "तोता",
+        "मोर",
+        "कबूतर",
+        "गरुड़"
+      ],
+      "options": [
+        "तोता",
+        "मोर",
+        "कबूतर",
+        "गरुड़"
+      ],
+      "oHi": [
+        "तोता",
+        "मोर",
+        "कबूतर",
+        "गरुड़"
+      ],
+      "optionsHi": [
+        "तोता",
+        "मोर",
+        "कबूतर",
+        "गरुड़"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is मोर.",
+      "explanation": "Correct verified answer is मोर.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'मोर' है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'मोर' है।",
+      "hint": "Important high-yield topic in Mixed Important GK (81–100).",
+      "hintHi": "Mixed Important GK (81–100) से संबंधित महत्वपूर्ण परीक्षा उपयोगी तथ्य।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_static_gk_superlatives_q88",
+      "q": "Question 88 on Mixed Important GK (81–100): भारत का राष्ट्रीय फूल कौन सा है?",
+      "questionText": "Question 88 on Mixed Important GK (81–100): भारत का राष्ट्रीय फूल कौन सा है?",
+      "qHi": "भारत का राष्ट्रीय फूल कौन सा है?",
+      "questionTextHi": "भारत का राष्ट्रीय फूल कौन सा है?",
+      "o": [
+        "गुलाब",
+        "कमल",
+        "चमेली",
+        "सूरजमुखी"
+      ],
+      "options": [
+        "गुलाब",
+        "कमल",
+        "चमेली",
+        "सूरजमुखी"
+      ],
+      "oHi": [
+        "गुलाब",
+        "कमल",
+        "चमेली",
+        "सूरजमुखी"
+      ],
+      "optionsHi": [
+        "गुलाब",
+        "कमल",
+        "चमेली",
+        "सूरजमुखी"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is कमल.",
+      "explanation": "Correct verified answer is कमल.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'कमल' है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'कमल' है।",
+      "hint": "Important high-yield topic in Mixed Important GK (81–100).",
+      "hintHi": "Mixed Important GK (81–100) से संबंधित महत्वपूर्ण परीक्षा उपयोगी तथ्य।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_static_gk_superlatives_q89",
+      "q": "Question 89 on Mixed Important GK (81–100): भारत का राष्ट्रीय वृक्ष कौन सा है?",
+      "questionText": "Question 89 on Mixed Important GK (81–100): भारत का राष्ट्रीय वृक्ष कौन सा है?",
+      "qHi": "भारत का राष्ट्रीय वृक्ष कौन सा है?",
+      "questionTextHi": "भारत का राष्ट्रीय वृक्ष कौन सा है?",
+      "o": [
+        "नीम",
+        "पीपल",
+        "बरगद",
+        "आम"
+      ],
+      "options": [
+        "नीम",
+        "पीपल",
+        "बरगद",
+        "आम"
+      ],
+      "oHi": [
+        "नीम",
+        "पीपल",
+        "बरगद",
+        "आम"
+      ],
+      "optionsHi": [
+        "नीम",
+        "पीपल",
+        "बरगद",
+        "आम"
+      ],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is बरगद.",
+      "explanation": "Correct verified answer is बरगद.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'बरगद' है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'बरगद' है।",
+      "hint": "Important high-yield topic in Mixed Important GK (81–100).",
+      "hintHi": "Mixed Important GK (81–100) से संबंधित महत्वपूर्ण परीक्षा उपयोगी तथ्य।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_static_gk_superlatives_q90",
+      "q": "Question 90 on Mixed Important GK (81–100): भारत की पहली महिला प्रधानमंत्री कौन थीं?",
+      "questionText": "Question 90 on Mixed Important GK (81–100): भारत की पहली महिला प्रधानमंत्री कौन थीं?",
+      "qHi": "भारत की पहली महिला प्रधानमंत्री कौन थीं?",
+      "questionTextHi": "भारत की पहली महिला प्रधानमंत्री कौन थीं?",
+      "o": [
+        "सरोजिनी नायडू",
+        "इंदिरा गांधी",
+        "प्रतिभा पाटिल",
+        "सुषमा स्वराज"
+      ],
+      "options": [
+        "सरोजिनी नायडू",
+        "इंदिरा गांधी",
+        "प्रतिभा पाटिल",
+        "सुषमा स्वराज"
+      ],
+      "oHi": [
+        "सरोजिनी नायडू",
+        "इंदिरा गांधी",
+        "प्रतिभा पाटिल",
+        "सुषमा स्वराज"
+      ],
+      "optionsHi": [
+        "सरोजिनी नायडू",
+        "इंदिरा गांधी",
+        "प्रतिभा पाटिल",
+        "सुषमा स्वराज"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is इंदिरा गांधी.",
+      "explanation": "Correct verified answer is इंदिरा गांधी.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'इंदिरा गांधी' है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'इंदिरा गांधी' है।",
+      "hint": "Important high-yield topic in Mixed Important GK (81–100).",
+      "hintHi": "Mixed Important GK (81–100) से संबंधित महत्वपूर्ण परीक्षा उपयोगी तथ्य।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_static_gk_superlatives_q91",
+      "q": "Question 92 on Mixed Important GK (81–100): भारत का राष्ट्रीय गीत कौन सा है?",
+      "questionText": "Question 92 on Mixed Important GK (81–100): भारत का राष्ट्रीय गीत कौन सा है?",
+      "qHi": "भारत का राष्ट्रीय गीत कौन सा है?",
+      "questionTextHi": "भारत का राष्ट्रीय गीत कौन सा है?",
+      "o": [
+        "जन गण मन",
+        "वंदे मातरम्",
+        "सारे जहाँ से अच्छा",
+        "ऐ मेरे वतन के लोगों"
+      ],
+      "options": [
+        "जन गण मन",
+        "वंदे मातरम्",
+        "सारे जहाँ से अच्छा",
+        "ऐ मेरे वतन के लोगों"
+      ],
+      "oHi": [
+        "जन गण मन",
+        "वंदे मातरम्",
+        "सारे जहाँ से अच्छा",
+        "ऐ मेरे वतन के लोगों"
+      ],
+      "optionsHi": [
+        "जन गण मन",
+        "वंदे मातरम्",
+        "सारे जहाँ से अच्छा",
+        "ऐ मेरे वतन के लोगों"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is वंदे मातरम्.",
+      "explanation": "Correct verified answer is वंदे मातरम्.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'वंदे मातरम्' है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'वंदे मातरम्' है।",
+      "hint": "Important high-yield topic in Mixed Important GK (81–100).",
+      "hintHi": "Mixed Important GK (81–100) से संबंधित महत्वपूर्ण परीक्षा उपयोगी तथ्य।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_static_gk_superlatives_q92",
+      "q": "Question 93 on Mixed Important GK (81–100): विश्व का सबसे ऊँचा पर्वत कौन सा है?",
+      "questionText": "Question 93 on Mixed Important GK (81–100): विश्व का सबसे ऊँचा पर्वत कौन सा है?",
+      "qHi": "विश्व का सबसे ऊँचा पर्वत कौन सा है?",
+      "questionTextHi": "विश्व का सबसे ऊँचा पर्वत कौन सा है?",
+      "o": [
+        "K2",
+        "कंचनजंगा",
+        "माउंट एवरेस्ट",
+        "नंदा देवी"
+      ],
+      "options": [
+        "K2",
+        "कंचनजंगा",
+        "माउंट एवरेस्ट",
+        "नंदा देवी"
+      ],
+      "oHi": [
+        "K2",
+        "कंचनजंगा",
+        "माउंट एवरेस्ट",
+        "नंदा देवी"
+      ],
+      "optionsHi": [
+        "K2",
+        "कंचनजंगा",
+        "माउंट एवरेस्ट",
+        "नंदा देवी"
+      ],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is माउंट एवरेस्ट.",
+      "explanation": "Correct verified answer is माउंट एवरेस्ट.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'माउंट एवरेस्ट' है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'माउंट एवरेस्ट' है।",
+      "hint": "Important high-yield topic in Mixed Important GK (81–100).",
+      "hintHi": "Mixed Important GK (81–100) से संबंधित महत्वपूर्ण परीक्षा उपयोगी तथ्य।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_static_gk_superlatives_q93",
+      "q": "Question 94 on Mixed Important GK (81–100): भारत का सबसे बड़ा सार्वजनिक क्षेत्र का बैंक कौन सा है?",
+      "questionText": "Question 94 on Mixed Important GK (81–100): भारत का सबसे बड़ा सार्वजनिक क्षेत्र का बैंक कौन सा है?",
+      "qHi": "भारत का सबसे बड़ा सार्वजनिक क्षेत्र का बैंक कौन सा है?",
+      "questionTextHi": "भारत का सबसे बड़ा सार्वजनिक क्षेत्र का बैंक कौन सा है?",
+      "o": [
+        "PNB",
+        "SBI",
+        "BOB",
+        "Canara Bank"
+      ],
+      "options": [
+        "PNB",
+        "SBI",
+        "BOB",
+        "Canara Bank"
+      ],
+      "oHi": [
+        "PNB",
+        "SBI",
+        "BOB",
+        "Canara Bank"
+      ],
+      "optionsHi": [
+        "PNB",
+        "SBI",
+        "BOB",
+        "Canara Bank"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is SBI.",
+      "explanation": "Correct verified answer is SBI.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'SBI' है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'SBI' है।",
+      "hint": "Important high-yield topic in Mixed Important GK (81–100).",
+      "hintHi": "Mixed Important GK (81–100) से संबंधित महत्वपूर्ण परीक्षा उपयोगी तथ्य।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_static_gk_superlatives_q94",
+      "q": "Question 95 on Mixed Important GK (81–100): भारत में योजना आयोग की स्थापना कब हुई?",
+      "questionText": "Question 95 on Mixed Important GK (81–100): भारत में योजना आयोग की स्थापना कब हुई?",
+      "qHi": "भारत में योजना आयोग की स्थापना कब हुई?",
+      "questionTextHi": "भारत में योजना आयोग की स्थापना कब हुई?",
+      "o": [
+        "1947",
+        "1950",
+        "1952",
+        "1960"
+      ],
+      "options": [
+        "1947",
+        "1950",
+        "1952",
+        "1960"
+      ],
+      "oHi": [
+        "1947",
+        "1950",
+        "1952",
+        "1960"
+      ],
+      "optionsHi": [
+        "1947",
+        "1950",
+        "1952",
+        "1960"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 1950.",
+      "explanation": "Correct verified answer is 1950.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '1950' है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '1950' है।",
+      "hint": "Important high-yield topic in Mixed Important GK (81–100).",
+      "hintHi": "Mixed Important GK (81–100) से संबंधित महत्वपूर्ण परीक्षा उपयोगी तथ्य।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_static_gk_superlatives_q95",
+      "q": "Question 96 on Mixed Important GK (81–100): भारत का राष्ट्रीय जलचर कौन सा है?",
+      "questionText": "Question 96 on Mixed Important GK (81–100): भारत का राष्ट्रीय जलचर कौन सा है?",
+      "qHi": "भारत का राष्ट्रीय जलचर कौन सा है?",
+      "questionTextHi": "भारत का राष्ट्रीय जलचर कौन सा है?",
+      "o": [
+        "शार्क",
+        "व्हेल",
+        "गंगा डॉल्फिन",
+        "मगरमच्छ"
+      ],
+      "options": [
+        "शार्क",
+        "व्हेल",
+        "गंगा डॉल्फिन",
+        "मगरमच्छ"
+      ],
+      "oHi": [
+        "शार्क",
+        "व्हेल",
+        "गंगा डॉल्फिन",
+        "मगरमच्छ"
+      ],
+      "optionsHi": [
+        "शार्क",
+        "व्हेल",
+        "गंगा डॉल्फिन",
+        "मगरमच्छ"
+      ],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is गंगा डॉल्फिन.",
+      "explanation": "Correct verified answer is गंगा डॉल्फिन.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'गंगा डॉल्फिन' है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'गंगा डॉल्फिन' है।",
+      "hint": "Important high-yield topic in Mixed Important GK (81–100).",
+      "hintHi": "Mixed Important GK (81–100) से संबंधित महत्वपूर्ण परीक्षा उपयोगी तथ्य।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_static_gk_superlatives_q96",
+      "q": "Question 97 on Mixed Important GK (81–100): संविधान दिवस कब मनाया जाता है?",
+      "questionText": "Question 97 on Mixed Important GK (81–100): संविधान दिवस कब मनाया जाता है?",
+      "qHi": "संविधान दिवस कब मनाया जाता है?",
+      "questionTextHi": "संविधान दिवस कब मनाया जाता है?",
+      "o": [
+        "15 अगस्त",
+        "26 जनवरी",
+        "2 अक्टूबर",
+        "26 नवंबर"
+      ],
+      "options": [
+        "15 अगस्त",
+        "26 जनवरी",
+        "2 अक्टूबर",
+        "26 नवंबर"
+      ],
+      "oHi": [
+        "15 अगस्त",
+        "26 जनवरी",
+        "2 अक्टूबर",
+        "26 नवंबर"
+      ],
+      "optionsHi": [
+        "15 अगस्त",
+        "26 जनवरी",
+        "2 अक्टूबर",
+        "26 नवंबर"
+      ],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is 26 नवंबर.",
+      "explanation": "Correct verified answer is 26 नवंबर.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '26 नवंबर' है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '26 नवंबर' है।",
+      "hint": "Important high-yield topic in Mixed Important GK (81–100).",
+      "hintHi": "Mixed Important GK (81–100) से संबंधित महत्वपूर्ण परीक्षा उपयोगी तथ्य।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_static_gk_superlatives_q97",
+      "q": "Question 98 on Mixed Important GK (81–100): भारत का राष्ट्रीय कैलेंडर किस पर आधारित है?",
+      "questionText": "Question 98 on Mixed Important GK (81–100): भारत का राष्ट्रीय कैलेंडर किस पर आधारित है?",
+      "qHi": "भारत का राष्ट्रीय कैलेंडर किस पर आधारित है?",
+      "questionTextHi": "भारत का राष्ट्रीय कैलेंडर किस पर आधारित है?",
+      "o": [
+        "विक्रम संवत",
+        "शक संवत",
+        "हिजरी संवत",
+        "ग्रेगोरियन कैलेंडर"
+      ],
+      "options": [
+        "विक्रम संवत",
+        "शक संवत",
+        "हिजरी संवत",
+        "ग्रेगोरियन कैलेंडर"
+      ],
+      "oHi": [
+        "विक्रम संवत",
+        "शक संवत",
+        "हिजरी संवत",
+        "ग्रेगोरियन कैलेंडर"
+      ],
+      "optionsHi": [
+        "विक्रम संवत",
+        "शक संवत",
+        "हिजरी संवत",
+        "ग्रेगोरियन कैलेंडर"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is शक संवत.",
+      "explanation": "Correct verified answer is शक संवत.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'शक संवत' है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'शक संवत' है।",
+      "hint": "Important high-yield topic in Mixed Important GK (81–100).",
+      "hintHi": "Mixed Important GK (81–100) से संबंधित महत्वपूर्ण परीक्षा उपयोगी तथ्य।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_static_gk_superlatives_q98",
+      "q": "Question 99 on Mixed Important GK (81–100): भारत की पहली महिला राष्ट्रपति कौन थीं?",
+      "questionText": "Question 99 on Mixed Important GK (81–100): भारत की पहली महिला राष्ट्रपति कौन थीं?",
+      "qHi": "भारत की पहली महिला राष्ट्रपति कौन थीं?",
+      "questionTextHi": "भारत की पहली महिला राष्ट्रपति कौन थीं?",
+      "o": [
+        "इंदिरा गांधी",
+        "प्रतिभा पाटिल",
+        "सुषमा स्वराज",
+        "मीरा कुमार"
+      ],
+      "options": [
+        "इंदिरा गांधी",
+        "प्रतिभा पाटिल",
+        "सुषमा स्वराज",
+        "मीरा कुमार"
+      ],
+      "oHi": [
+        "इंदिरा गांधी",
+        "प्रतिभा पाटिल",
+        "सुषमा स्वराज",
+        "मीरा कुमार"
+      ],
+      "optionsHi": [
+        "इंदिरा गांधी",
+        "प्रतिभा पाटिल",
+        "सुषमा स्वराज",
+        "मीरा कुमार"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is प्रतिभा पाटिल.",
+      "explanation": "Correct verified answer is प्रतिभा पाटिल.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'प्रतिभा पाटिल' है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'प्रतिभा पाटिल' है।",
+      "hint": "Important high-yield topic in Mixed Important GK (81–100).",
+      "hintHi": "Mixed Important GK (81–100) से संबंधित महत्वपूर्ण परीक्षा उपयोगी तथ्य।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_static_gk_superlatives_q99",
+      "q": "Question 100 on Mixed Important GK (81–100): भारत का राष्ट्रीय मुद्रा चिन्ह (₹) किस वर्ष अपनाया गया?",
+      "questionText": "Question 100 on Mixed Important GK (81–100): भारत का राष्ट्रीय मुद्रा चिन्ह (₹) किस वर्ष अपनाया गया?",
+      "qHi": "भारत का राष्ट्रीय मुद्रा चिन्ह (₹) किस वर्ष अपनाया गया?",
+      "questionTextHi": "भारत का राष्ट्रीय मुद्रा चिन्ह (₹) किस वर्ष अपनाया गया?",
+      "o": [
+        "2008",
+        "2009",
+        "2010",
+        "2012"
+      ],
+      "options": [
+        "2008",
+        "2009",
+        "2010",
+        "2012"
+      ],
+      "oHi": [
+        "2008",
+        "2009",
+        "2010",
+        "2012"
+      ],
+      "optionsHi": [
+        "2008",
+        "2009",
+        "2010",
+        "2012"
+      ],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 2010.",
+      "explanation": "Correct verified answer is 2010.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '2010' है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '2010' है।",
+      "hint": "Important high-yield topic in Mixed Important GK (81–100).",
+      "hintHi": "Mixed Important GK (81–100) से संबंधित महत्वपूर्ण परीक्षा उपयोगी तथ्य।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_personalities_curated_1",
+      "q": "Which Pashtun independence activist was reverently titled 'Frontier Gandhi' and 'Badshah Khan' for his nonviolent Khudai Khidmatgar movement?",
+      "questionText": "Which Pashtun independence activist was reverently titled 'Frontier Gandhi' and 'Badshah Khan' for his nonviolent Khudai Khidmatgar movement?",
+      "qHi": "अहिंसक 'खुदाई खिदमतगार' (लाल कुर्ती) आंदोलन का नेतृत्व करने वाले किस महान स्वतंत्रता सेनानी को 'सीमांत गाँधी' (Frontier Gandhi) कहा जाता है?",
+      "questionTextHi": "अहिंसक 'खुदाई खिदमतगार' (लाल कुर्ती) आंदोलन का नेतृत्व करने वाले किस महान स्वतंत्रता सेनानी को 'सीमांत गाँधी' (Frontier Gandhi) कहा जाता है?",
+      "o": [
+        "Khan Abdul Ghaffar Khan",
+        "Maulana Abul Kalam Azad",
+        "Liaquat Ali Khan",
+        "Shaukat Ali"
+      ],
+      "options": [
+        "Khan Abdul Ghaffar Khan",
+        "Maulana Abul Kalam Azad",
+        "Liaquat Ali Khan",
+        "Shaukat Ali"
+      ],
+      "oHi": [
+        "खान अब्दुल गफ्फार खान",
+        "मौलाना अबुल कलाम आजाद",
+        "लियाकत अली खान",
+        "शौकत अली"
+      ],
+      "optionsHi": [
+        "खान अब्दुल गफ्फार खान",
+        "मौलाना अबुल कलाम आजाद",
+        "लियाकत अली खान",
+        "शौकत अली"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Khan Abdul Ghaffar Khan (Badshah Khan) organized the nonviolent Khudai Khidmatgar (Red Shirts) movement in the North-West Frontier Province. In 1987, he became the first non-Indian citizen awarded the Bharat Ratna.",
+      "explanation": "Khan Abdul Ghaffar Khan (Badshah Khan) organized the nonviolent Khudai Khidmatgar (Red Shirts) movement in the North-West Frontier Province. In 1987, he became the first non-Indian citizen awarded the Bharat Ratna.",
+      "expHi": "खान अब्दुल गफ्फार खान (बादशाह खान) को 'सीमांत गाँधी' कहा जाता है। इन्होंने उत्तर-पश्चिम सीमांत प्रांत में अहिंसक 'खुदाई खिदमतगार' संगठन बनाया। 1987 में वे भारत रत्न पाने वाले पहले गैर-भारतीय बने।",
+      "explanationHi": "खान अब्दुल गफ्फार खान (बादशाह खान) को 'सीमांत गाँधी' कहा जाता है। इन्होंने उत्तर-पश्चिम सीमांत प्रांत में अहिंसक 'खुदाई खिदमतगार' संगठन बनाया। 1987 में वे भारत रत्न पाने वाले पहले गैर-भारतीय बने।",
+      "hint": "Leader of the Red Shirts (Khudai Khidmatgars); first non-Indian Bharat Ratna recipient (1987).",
+      "hintHi": "लाल कुर्ती आंदोलन के नेता; 1987 में भारत रत्न से सम्मानित प्रथम विदेशी नागरिक।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA"
+      ]
+    },
+    {
+      "id": "gk_nat_personalities_curated_2",
+      "q": "Which prominent freedom fighter and educationist was honored with the title 'Mahamana' and founded Banaras Hindu University (BHU) in 1916?",
+      "questionText": "Which prominent freedom fighter and educationist was honored with the title 'Mahamana' and founded Banaras Hindu University (BHU) in 1916?",
+      "qHi": "महात्मा गांधी द्वारा 'महामना' की उपाधि से सम्मानित तथा 1916 में बनारस हिंदू विश्वविद्यालय (BHU) के संस्थापक महान शिक्षाविद् कौन थे?",
+      "questionTextHi": "महात्मा गांधी द्वारा 'महामना' की उपाधि से सम्मानित तथा 1916 में बनारस हिंदू विश्वविद्यालय (BHU) के संस्थापक महान शिक्षाविद् कौन थे?",
+      "o": [
+        "Pandit Madan Mohan Malaviya",
+        "Gopal Krishna Gokhale",
+        "Bal Gangadhar Tilak",
+        "Lala Lajpat Rai"
+      ],
+      "options": [
+        "Pandit Madan Mohan Malaviya",
+        "Gopal Krishna Gokhale",
+        "Bal Gangadhar Tilak",
+        "Lala Lajpat Rai"
+      ],
+      "oHi": [
+        "पंडित मदन मोहन मालवीय",
+        "गोपाल कृष्ण गोखले",
+        "बाल गंगाधर तिलक",
+        "लाला लाजपत राय"
+      ],
+      "optionsHi": [
+        "पंडित मदन मोहन मालवीय",
+        "गोपाल कृष्ण गोखले",
+        "बाल गंगाधर तिलक",
+        "लाला लाजपत राय"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Pandit Madan Mohan Malaviya was conferred the honorific 'Mahamana' by Mahatma Gandhi. He founded the Banaras Hindu University (BHU) in 1916 and was posthumously awarded the Bharat Ratna in 2014.",
+      "explanation": "Pandit Madan Mohan Malaviya was conferred the honorific 'Mahamana' by Mahatma Gandhi. He founded the Banaras Hindu University (BHU) in 1916 and was posthumously awarded the Bharat Ratna in 2014.",
+      "expHi": "पंडित मदन मोहन मालवीय को 'महामना' कहा जाता है। इन्होंने 1916 में काशी हिंदू विश्वविद्यालय (BHU) की स्थापना की। इन्हें 2014 में मरणोपरांत भारत रत्न से सम्मानित किया गया।",
+      "explanationHi": "पंडित मदन मोहन मालवीय को 'महामना' कहा जाता है। इन्होंने 1916 में काशी हिंदू विश्वविद्यालय (BHU) की स्थापना की। इन्हें 2014 में मरणोपरांत भारत रत्न से सम्मानित किया गया।",
+      "hint": "Founder of Banaras Hindu University; conferred Bharat Ratna in 2014.",
+      "hintHi": "1916 में काशी हिंदू विश्वविद्यालय (BHU) के संस्थापक।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA"
+      ]
+    },
+    {
+      "id": "gk_nat_personalities_curated_3",
+      "q": "Who earned the epithet 'Grand Old Man of India' and authored 'Poverty and Un-British Rule in India', introducing the Drain of Wealth theory?",
+      "questionText": "Who earned the epithet 'Grand Old Man of India' and authored 'Poverty and Un-British Rule in India', introducing the Drain of Wealth theory?",
+      "qHi": "'भारत के वयोवृद्ध पुरुष' (Grand Old Man of India) कहलाने वाले तथा 'धन निष्कासन सिद्धांत' (Drain of Wealth) के प्रतिपादक कौन थे?",
+      "questionTextHi": "'भारत के वयोवृद्ध पुरुष' (Grand Old Man of India) कहलाने वाले तथा 'धन निष्कासन सिद्धांत' (Drain of Wealth) के प्रतिपादक कौन थे?",
+      "o": [
+        "Dadabhai Naoroji",
+        "Surendranath Banerjee",
+        "Pherozeshah Mehta",
+        "Dinshaw Wacha"
+      ],
+      "options": [
+        "Dadabhai Naoroji",
+        "Surendranath Banerjee",
+        "Pherozeshah Mehta",
+        "Dinshaw Wacha"
+      ],
+      "oHi": [
+        "दादाभाई नौरोजी",
+        "सुरेंद्रनाथ बनर्जी",
+        "फिरोजशाह मेहता",
+        "दिनशा वाचा"
+      ],
+      "optionsHi": [
+        "दादाभाई नौरोजी",
+        "सुरेंद्रनाथ बनर्जी",
+        "फिरोजशाह मेहता",
+        "दिनशा वाचा"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Dadabhai Naoroji was the first Asian to be elected to the British Parliament (House of Commons in 1892). He demonstrated the economic exploitation of India by Britain in his book 'Poverty and Un-British Rule in India'.",
+      "explanation": "Dadabhai Naoroji was the first Asian to be elected to the British Parliament (House of Commons in 1892). He demonstrated the economic exploitation of India by Britain in his book 'Poverty and Un-British Rule in India'.",
+      "expHi": "दादाभाई नौरोजी 1892 में ब्रिटिश संसद (हाउस ऑफ कॉमन्स) में चुने जाने वाले पहले एशियाई थे। इन्होंने 'पॉवर्टी एंड अन-ब्रिटिश रूल इन इंडिया' पुस्तक में भारत से ब्रिटेन जाने वाले धन के निष्कासन की व्याख्या की।",
+      "explanationHi": "दादाभाई नौरोजी 1892 में ब्रिटिश संसद (हाउस ऑफ कॉमन्स) में चुने जाने वाले पहले एशियाई थे। इन्होंने 'पॉवर्टी एंड अन-ब्रिटिश रूल इन इंडिया' पुस्तक में भारत से ब्रिटेन जाने वाले धन के निष्कासन की व्याख्या की।",
+      "hint": "First Asian MP in the British House of Commons (1892).",
+      "hintHi": "1892 में ब्रिटिश संसद के लिए निर्वाचित होने वाले प्रथम एशियाई।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA"
+      ]
+    },
+    {
+      "id": "gk_nat_personalities_curated_4",
+      "q": "Which legendary sprint champion was conferred the moniker 'The Flying Sikh' by Pakistan's President Ayub Khan in 1960?",
+      "questionText": "Which legendary sprint champion was conferred the moniker 'The Flying Sikh' by Pakistan's President Ayub Khan in 1960?",
+      "qHi": "1960 में लाहौर में अब्दुल खालिक को पराजित करने के बाद पाकिस्तान के राष्ट्रपति अयूब खान ने किस महान धावक को 'द फ्लाइंग सिख' (The Flying Sikh) की उपाधि दी थी?",
+      "questionTextHi": "1960 में लाहौर में अब्दुल खालिक को पराजित करने के बाद पाकिस्तान के राष्ट्रपति अयूब खान ने किस महान धावक को 'द फ्लाइंग सिख' (The Flying Sikh) की उपाधि दी थी?",
+      "o": [
+        "Milkha Singh",
+        "Gurbachan Singh Randhawa",
+        "Makhan Singh",
+        "PT Usha"
+      ],
+      "options": [
+        "Milkha Singh",
+        "Gurbachan Singh Randhawa",
+        "Makhan Singh",
+        "PT Usha"
+      ],
+      "oHi": [
+        "मिल्खा सिंह",
+        "गुरबचन सिंह रंधावा",
+        "माखन सिंह",
+        "पी.टी. उषा"
+      ],
+      "optionsHi": [
+        "मिल्खा सिंह",
+        "गुरबचन सिंह रंधावा",
+        "माखन सिंह",
+        "पी.टी. उषा"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Milkha Singh won gold medals in the 200m and 400m at the 1958 Asian Games and the 440 yards at the 1958 Commonwealth Games. In 1960, Ayub Khan proclaimed him 'The Flying Sikh'.",
+      "explanation": "Milkha Singh won gold medals in the 200m and 400m at the 1958 Asian Games and the 440 yards at the 1958 Commonwealth Games. In 1960, Ayub Khan proclaimed him 'The Flying Sikh'.",
+      "expHi": "मिल्खा सिंह ने 1958 के राष्ट्रमंडल खेलों और एशियाई खेलों में स्वर्ण पदक जीतकर भारत का नाम रोशन किया। 1960 में पाकिस्तान में दौड़ जीतने पर राष्ट्रपति अयूब खान ने उन्हें 'द फ्लाइंग सिख' कहा।",
+      "explanationHi": "मिल्खा सिंह ने 1958 के राष्ट्रमंडल खेलों और एशियाई खेलों में स्वर्ण पदक जीतकर भारत का नाम रोशन किया। 1960 में पाकिस्तान में दौड़ जीतने पर राष्ट्रपति अयूब खान ने उन्हें 'द फ्लाइंग सिख' कहा।",
+      "hint": "First Indian athlete to win an individual athletics gold at the Commonwealth Games (1958).",
+      "hintHi": "1958 के राष्ट्रमंडल खेलों में स्वर्ण जीतने वाले प्रथम भारतीय एथलीट।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA"
+      ]
+    },
+    {
+      "id": "gk_nat_static_gk_superlatives_add_1",
+      "q": "What is the official ratio of length to width of the National Flag of India (Tiranga)?",
+      "questionText": "What is the official ratio of length to width of the National Flag of India (Tiranga)?",
+      "qHi": "भारत के राष्ट्रीय ध्वज (तिरंगा) की लंबाई और चौड़ाई का आधिकारिक संवैधानिक अनुपात क्या है?",
+      "questionTextHi": "भारत के राष्ट्रीय ध्वज (तिरंगा) की लंबाई और चौड़ाई का आधिकारिक संवैधानिक अनुपात क्या है?",
+      "o": [
+        "3 : 2",
+        "2 : 3",
+        "4 : 3",
+        "3 : 1"
+      ],
+      "options": [
+        "3 : 2",
+        "2 : 3",
+        "4 : 3",
+        "3 : 1"
+      ],
+      "oHi": [
+        "3 : 2",
+        "2 : 3",
+        "4 : 3",
+        "3 : 1"
+      ],
+      "optionsHi": [
+        "3 : 2",
+        "2 : 3",
+        "4 : 3",
+        "3 : 1"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Under the Flag Code of India, the ratio of the length to the height (width) of the National Flag shall be 3:2 (if width to length, it is 2:3).",
+      "explanation": "Under the Flag Code of India, the ratio of the length to the height (width) of the National Flag shall be 3:2 (if width to length, it is 2:3).",
+      "expHi": "भारतीय ध्वज संहिता के अनुसार राष्ट्रीय ध्वज की लंबाई और चौड़ाई का अनुपात 3:2 होता है (तथा चौड़ाई और लंबाई का अनुपात 2:3 होता है)।",
+      "explanationHi": "भारतीय ध्वज संहिता के अनुसार राष्ट्रीय ध्वज की लंबाई और चौड़ाई का अनुपात 3:2 होता है (तथा चौड़ाई और लंबाई का अनुपात 2:3 होता है)।",
+      "hint": "Length is 3 units for every 2 units of width.",
+      "hintHi": "लंबाई 3 इकाई और चौड़ाई 2 इकाई।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_static_gk_superlatives_add_3",
+      "q": "Who among the following designed the National Flag of independent India adopted on 22 July 1947?",
+      "questionText": "Who among the following designed the National Flag of independent India adopted on 22 July 1947?",
+      "qHi": "22 जुलाई 1947 को संविधान सभा द्वारा अपनाए गए स्वतंत्र भारत के राष्ट्रीय ध्वज का मूल स्वरूप किसने डिजाइन किया था?",
+      "questionTextHi": "22 जुलाई 1947 को संविधान सभा द्वारा अपनाए गए स्वतंत्र भारत के राष्ट्रीय ध्वज का मूल स्वरूप किसने डिजाइन किया था?",
+      "o": [
+        "Pingali Venkayya",
+        "Rabindranath Tagore",
+        "Bhikaji Cama",
+        "Bankim Chandra Chattopadhyay"
+      ],
+      "options": [
+        "Pingali Venkayya",
+        "Rabindranath Tagore",
+        "Bhikaji Cama",
+        "Bankim Chandra Chattopadhyay"
+      ],
+      "oHi": [
+        "पिंगली वेंकैया",
+        "रवींद्रनाथ टैगोर",
+        "भीकाजी कामा",
+        "बंकिम चंद्र चट्टोपाध्याय"
+      ],
+      "optionsHi": [
+        "पिंगली वेंकैया",
+        "रवींद्रनाथ टैगोर",
+        "भीकाजी कामा",
+        "बंकिम चंद्र चट्टोपाध्याय"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Pingali Venkayya, an agriculturist and freedom fighter from Andhra Pradesh, presented the flag design to Mahatma Gandhi in 1921, which served as the foundation of the National Flag adopted in 1947.",
+      "explanation": "Pingali Venkayya, an agriculturist and freedom fighter from Andhra Pradesh, presented the flag design to Mahatma Gandhi in 1921, which served as the foundation of the National Flag adopted in 1947.",
+      "expHi": "आंध्र प्रदेश के स्वतंत्रता सेनानी पिंगली वेंकैया ने भारतीय राष्ट्रीय ध्वज का प्रारूप तैयार किया था, जिसे 22 जुलाई 1947 को संविधान सभा ने राष्ट्रीय ध्वज के रूप में स्वीकार किया।",
+      "explanationHi": "आंध्र प्रदेश के स्वतंत्रता सेनानी पिंगली वेंकैया ने भारतीय राष्ट्रीय ध्वज का प्रारूप तैयार किया था, जिसे 22 जुलाई 1947 को संविधान सभा ने राष्ट्रीय ध्वज के रूप में स्वीकार किया।",
+      "hint": "Freedom fighter from Andhra Pradesh; his design was adopted on 22 July 1947.",
+      "hintHi": "आंध्र प्रदेश के स्वतंत्रता सेनानी जिन्होंने 1921 में गांधीजी को प्रारूप सौंपा था।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_static_gk_superlatives_add_4",
+      "q": "What is the playing time of the full standard version of the National Anthem of India, 'Jana Gana Mana'?",
+      "questionText": "What is the playing time of the full standard version of the National Anthem of India, 'Jana Gana Mana'?",
+      "qHi": "रवींद्रनाथ टैगोर द्वारा रचित भारत के राष्ट्रगान 'जन गण मन' के गायन की आधिकारिक मानक समयावधि कितनी है?",
+      "questionTextHi": "रवींद्रनाथ टैगोर द्वारा रचित भारत के राष्ट्रगान 'जन गण मन' के गायन की आधिकारिक मानक समयावधि कितनी है?",
+      "o": [
+        "52 Seconds (52 सेकंड)",
+        "50 Seconds",
+        "65 Seconds",
+        "60 Seconds"
+      ],
+      "options": [
+        "52 Seconds (52 सेकंड)",
+        "50 Seconds",
+        "65 Seconds",
+        "60 Seconds"
+      ],
+      "oHi": [
+        "52 सेकंड",
+        "50 सेकंड",
+        "65 सेकंड",
+        "60 सेकंड"
+      ],
+      "optionsHi": [
+        "52 सेकंड",
+        "50 सेकंड",
+        "65 सेकंड",
+        "60 सेकंड"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "The full official duration of the National Anthem of India 'Jana Gana Mana' is approximately 52 seconds (short version consisting of first and last lines takes about 20 seconds).",
+      "explanation": "The full official duration of the National Anthem of India 'Jana Gana Mana' is approximately 52 seconds (short version consisting of first and last lines takes about 20 seconds).",
+      "expHi": "भारत के राष्ट्रगान 'जन गण मन' को पूर्ण रूप से गाने में 52 सेकंड का समय लगता है (इसके संक्षिप्त रूप में प्रथम और अंतिम पंक्ति गाने में लगभग 20 सेकंड लगते हैं)।",
+      "explanationHi": "भारत के राष्ट्रगान 'जन गण मन' को पूर्ण रूप से गाने में 52 सेकंड का समय लगता है (इसके संक्षिप्त रूप में प्रथम और अंतिम पंक्ति गाने में लगभग 20 सेकंड लगते हैं)।",
+      "hint": "Exactly 52 seconds for the full version.",
+      "hintHi": "राष्ट्रगान के पूरे गायन में ठीक 52 सेकंड लगते हैं।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_static_gk_superlatives_add_5",
+      "q": "Which river was officially declared the 'National River of India' in November 2008?",
+      "questionText": "Which river was officially declared the 'National River of India' in November 2008?",
+      "qHi": "नवंबर 2008 में किस पवित्र नदी को भारत की 'राष्ट्रीय नदी' घोषित किया गया था?",
+      "questionTextHi": "नवंबर 2008 में किस पवित्र नदी को भारत की 'राष्ट्रीय नदी' घोषित किया गया था?",
+      "o": [
+        "Ganga River",
+        "Yamuna River",
+        "Brahmaputra River",
+        "Godavari River"
+      ],
+      "options": [
+        "Ganga River",
+        "Yamuna River",
+        "Brahmaputra River",
+        "Godavari River"
+      ],
+      "oHi": [
+        "गंगा नदी",
+        "यमुना नदी",
+        "ब्रह्मपुत्र नदी",
+        "गोदावरी नदी"
+      ],
+      "optionsHi": [
+        "गंगा नदी",
+        "यमुना नदी",
+        "ब्रह्मपुत्र नदी",
+        "गोदावरी नदी"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "The River Ganga (2,525 km) was declared India's National River on 4 November 2008 to achieve the objectives of clean river conservation under the National Ganga River Basin Authority (NGRBA).",
+      "explanation": "The River Ganga (2,525 km) was declared India's National River on 4 November 2008 to achieve the objectives of clean river conservation under the National Ganga River Basin Authority (NGRBA).",
+      "expHi": "4 नवंबर 2008 को तत्कालीन प्रधानमंत्री डॉ. मनमोहन सिंह द्वारा गंगा नदी (लंबाई 2,525 किमी) को भारत की 'राष्ट्रीय नदी' घोषित किया गया था।",
+      "explanationHi": "4 नवंबर 2008 को तत्कालीन प्रधानमंत्री डॉ. मनमोहन सिंह द्वारा गंगा नदी (लंबाई 2,525 किमी) को भारत की 'राष्ट्रीय नदी' घोषित किया गया था।",
+      "hint": "India's longest river stretching 2,525 km from Gangotri to Bay of Bengal.",
+      "hintHi": "गंगोत्री से बंगाल की खाड़ी तक 2,525 किमी बहने वाली भारत की सबसे लंबी नदी।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_static_gk_superlatives_add_6",
+      "q": "Which creature was notified as the 'National Aquatic Animal of India' in October 2009?",
+      "questionText": "Which creature was notified as the 'National Aquatic Animal of India' in October 2009?",
+      "qHi": "अक्टूबर 2009 में किस दुर्लभ स्तनधारी जीव को भारत का 'राष्ट्रीय जलीय जीव' घोषित किया गया था?",
+      "questionTextHi": "अक्टूबर 2009 में किस दुर्लभ स्तनधारी जीव को भारत का 'राष्ट्रीय जलीय जीव' घोषित किया गया था?",
+      "o": [
+        "Ganges River Dolphin (प्लैटानिस्ता गंगेटिका)",
+        "Gharial",
+        "Olive Ridley Turtle",
+        "Dugong"
+      ],
+      "options": [
+        "Ganges River Dolphin (प्लैटानिस्ता गंगेटिका)",
+        "Gharial",
+        "Olive Ridley Turtle",
+        "Dugong"
+      ],
+      "oHi": [
+        "गंगा नदी डॉल्फिन (Ganges River Dolphin)",
+        "घड़ियाल",
+        "ओलिव रिडले कछुआ",
+        "डूगोंग (समुद्री गाय)"
+      ],
+      "optionsHi": [
+        "गंगा नदी डॉल्फिन (Ganges River Dolphin)",
+        "घड़ियाल",
+        "ओलिव रिडले कछुआ",
+        "डूगोंग (समुद्री गाय)"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "The South Asian River Dolphin (Platanista gangetica), commonly called 'Susu', was notified as the National Aquatic Animal of India on 5 October 2009, reflecting clean freshwater river health.",
+      "explanation": "The South Asian River Dolphin (Platanista gangetica), commonly called 'Susu', was notified as the National Aquatic Animal of India on 5 October 2009, reflecting clean freshwater river health.",
+      "expHi": "5 अक्टूबर 2009 को गंगा नदी में पाई जाने वाली डॉल्फिन (प्लैटानिस्ता गंगेटिका, स्थानीय नाम 'सोंस') को भारत का राष्ट्रीय जलीय जीव घोषित किया गया। प्रतिवर्ष 5 अक्टूबर को 'राष्ट्रीय डॉल्फिन दिवस' मनाया जाता है।",
+      "explanationHi": "5 अक्टूबर 2009 को गंगा नदी में पाई जाने वाली डॉल्फिन (प्लैटानिस्ता गंगेटिका, स्थानीय नाम 'सोंस') को भारत का राष्ट्रीय जलीय जीव घोषित किया गया। प्रतिवर्ष 5 अक्टूबर को 'राष्ट्रीय डॉल्फिन दिवस' मनाया जाता है।",
+      "hint": "A nearly blind freshwater dolphin species locally called 'Susu'.",
+      "hintHi": "मीठे पानी की दृष्टिहीन स्तनधारी डॉल्फिन जिसे 'सोंस' भी कहते हैं।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
     }
-  ]
+  ],
+  "questionCount": 14
 }

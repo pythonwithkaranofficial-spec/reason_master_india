@@ -31,26 +31,98 @@
   "schemes": "Smart City Chandigarh Initiatives",
   "mcqs": [
     {
+      "id": "gk_state_chandigarh_q1",
       "q": "Who was the master architect and urban planner who designed the modernist layout and Capitol Complex of Chandigarh?",
+      "questionText": "Who was the master architect and urban planner who designed the modernist layout and Capitol Complex of Chandigarh?",
+      "qHi": "स्वतंत्र भारत के पहले योजनाबद्ध शहर चंडीगढ़ का मास्टर प्लान किस प्रसिद्ध स्विस-फ्रांसीसी वास्तुकार ने तैयार किया था?",
+      "questionTextHi": "स्वतंत्र भारत के पहले योजनाबद्ध शहर चंडीगढ़ का मास्टर प्लान किस प्रसिद्ध स्विस-फ्रांसीसी वास्तुकार ने तैयार किया था?",
       "o": [
         "Le Corbusier",
         "Edwin Lutyens",
         "Herbert Baker",
         "Charles Correa"
       ],
+      "options": [
+        "Le Corbusier",
+        "Edwin Lutyens",
+        "Herbert Baker",
+        "Charles Correa"
+      ],
+      "oHi": [
+        "ली कोर्बुजिए (Le Corbusier)",
+        "एडविन लुटियंस",
+        "चार्ल्स कोरिया",
+        "हरबर्ट बेकर"
+      ],
+      "optionsHi": [
+        "ली कोर्बुजिए (Le Corbusier)",
+        "एडविन लुटियंस",
+        "चार्ल्स कोरिया",
+        "हरबर्ट बेकर"
+      ],
       "a": 0,
-      "exp": "Swiss-French architect Le Corbusier designed the master plan and government buildings of Chandigarh in the 1950s."
+      "correctIndex": 0,
+      "exp": "Swiss-French architect Le Corbusier designed the master plan and government buildings of Chandigarh in the 1950s.",
+      "explanation": "Swiss-French architect Le Corbusier designed the master plan and government buildings of Chandigarh in the 1950s.",
+      "expHi": "ली कोर्बुजिए ने आधुनिक मानव शरीर की संरचना के आधार पर चंडीगढ़ का सेक्टर-आधारित मास्टर प्लान और कैपिटल कॉम्प्लेक्स डिजाइन किया था।",
+      "explanationHi": "ली कोर्बुजिए ने आधुनिक मानव शरीर की संरचना के आधार पर चंडीगढ़ का सेक्टर-आधारित मास्टर प्लान और कैपिटल कॉम्प्लेक्स डिजाइन किया था।",
+      "hint": "Reflect upon the geographic, political, and cultural heritage of Chandigarh.",
+      "hintHi": "उन्होंने चंडीगढ़ के 'ओपन हैंड' स्मारक को भी डिजाइन किया था।",
+      "difficulty": "medium",
+      "lastVerified": "2026-01-01",
+      "examTags": [
+        "ssc_cgl",
+        "state_psc",
+        "railway",
+        "police"
+      ]
     },
     {
+      "id": "gk_state_chandigarh_q2",
       "q": "The world-famous Rock Garden in Chandigarh was secretly created out of recycled industrial and domestic waste by which visionary?",
+      "questionText": "The world-famous Rock Garden in Chandigarh was secretly created out of recycled industrial and domestic waste by which visionary?",
+      "qHi": "औद्योगिक और घरेलू कचरे से बना चंडीगढ़ का विश्व विख्यात 'रॉक गार्डन' किसने गुप्त रूप से तैयार किया था?",
+      "questionTextHi": "औद्योगिक और घरेलू कचरे से बना चंडीगढ़ का विश्व विख्यात 'रॉक गार्डन' किसने गुप्त रूप से तैयार किया था?",
       "o": [
         "Nek Chand Saini",
         "Sobha Singh",
         "B. V. Doshi",
         "Satish Gujral"
       ],
+      "options": [
+        "Nek Chand Saini",
+        "Sobha Singh",
+        "B. V. Doshi",
+        "Satish Gujral"
+      ],
+      "oHi": [
+        "नेक चंद सैनी",
+        "शोभा सिंह",
+        "ली कोर्बुजिए",
+        "अमृता शेरगिल"
+      ],
+      "optionsHi": [
+        "नेक चंद सैनी",
+        "शोभा सिंह",
+        "ली कोर्बुजिए",
+        "अमृता शेरगिल"
+      ],
       "a": 0,
-      "exp": "Nek Chand spent nearly two decades secretly building the 40-acre sculpture park from discarded urban scrap."
+      "correctIndex": 0,
+      "exp": "Nek Chand spent nearly two decades secretly building the 40-acre sculpture park from discarded urban scrap.",
+      "explanation": "Nek Chand spent nearly two decades secretly building the 40-acre sculpture park from discarded urban scrap.",
+      "expHi": "नेक चंद सैनी ने 1957 में सुखना झील के पास सरकारी जमीन पर फेंके गए कचरे, चीनी मिट्टी के बर्तनों और पत्थरों से गुप्त रूप से रॉक गार्डन का निर्माण शुरू किया था।",
+      "explanationHi": "नेक चंद सैनी ने 1957 में सुखना झील के पास सरकारी जमीन पर फेंके गए कचरे, चीनी मिट्टी के बर्तनों और पत्थरों से गुप्त रूप से रॉक गार्डन का निर्माण शुरू किया था।",
+      "hint": "Reflect upon the geographic, political, and cultural heritage of Chandigarh.",
+      "hintHi": "वे पीडब्ल्यूडी में सड़क निरीक्षक के रूप में कार्यरत थे।",
+      "difficulty": "medium",
+      "lastVerified": "2026-01-01",
+      "examTags": [
+        "ssc_cgl",
+        "state_psc",
+        "railway",
+        "police"
+      ]
     }
   ],
   "subtopics": [
@@ -261,5 +333,6 @@
         }
       ]
     }
-  ]
+  ],
+  "mcqCount": 2
 }

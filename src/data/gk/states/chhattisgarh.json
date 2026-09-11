@@ -31,26 +31,98 @@
   "schemes": "Mahtari Vandan Yojana, Rajiv Gandhi Kisan Nyay Yojana, Mukhyamantri Suposhan Abhiyan",
   "mcqs": [
     {
+      "id": "gk_state_chhattisgarh_q1",
       "q": "Which state is the sole producer of tin ore (cassiterite) in India?",
+      "questionText": "Which state is the sole producer of tin ore (cassiterite) in India?",
+      "qHi": "भारत में टिन अयस्क (कैसिटराइट) का एकमात्र वाणिज्यिक उत्पादक राज्य कौन सा है?",
+      "questionTextHi": "भारत में टिन अयस्क (कैसिटराइट) का एकमात्र वाणिज्यिक उत्पादक राज्य कौन सा है?",
       "o": [
         "Chhattisgarh",
         "Jharkhand",
         "Odisha",
         "Madhya Pradesh"
       ],
+      "options": [
+        "Chhattisgarh",
+        "Jharkhand",
+        "Odisha",
+        "Madhya Pradesh"
+      ],
+      "oHi": [
+        "छत्तीसगढ़",
+        "झारखंड",
+        "ओडिशा",
+        "मध्य प्रदेश"
+      ],
+      "optionsHi": [
+        "छत्तीसगढ़",
+        "झारखंड",
+        "ओडिशा",
+        "मध्य प्रदेश"
+      ],
       "a": 0,
-      "exp": "Dantewada and Bastar districts of Chhattisgarh are the only commercial producers of tin ore in India."
+      "correctIndex": 0,
+      "exp": "Dantewada and Bastar districts of Chhattisgarh are the only commercial producers of tin ore in India.",
+      "explanation": "Dantewada and Bastar districts of Chhattisgarh are the only commercial producers of tin ore in India.",
+      "expHi": "छत्तीसगढ़ के दंतेवाड़ा और बस्तर जिले भारत में टिन अयस्क (कैसिटराइट) के एकमात्र वाणिज्यिक उत्पादक हैं।",
+      "explanationHi": "छत्तीसगढ़ के दंतेवाड़ा और बस्तर जिले भारत में टिन अयस्क (कैसिटराइट) के एकमात्र वाणिज्यिक उत्पादक हैं।",
+      "hint": "Reflect upon the geographic, political, and cultural heritage of Chhattisgarh.",
+      "hintHi": "बस्तर संभाग इस खनिज के एकमात्र उत्पादन के लिए प्रसिद्ध है।",
+      "difficulty": "medium",
+      "lastVerified": "2026-01-01",
+      "examTags": [
+        "ssc_cgl",
+        "state_psc",
+        "railway",
+        "police"
+      ]
     },
     {
+      "id": "gk_state_chhattisgarh_q2",
       "q": "Chitrakote Waterfall on the Indravati River is widely known by which title?",
+      "questionText": "Chitrakote Waterfall on the Indravati River is widely known by which title?",
+      "qHi": "इंद्रावती नदी पर स्थित चित्रकोट जलप्रपात को लोकप्रिय रूप से किस नाम से जाना जाता है?",
+      "questionTextHi": "इंद्रावती नदी पर स्थित चित्रकोट जलप्रपात को लोकप्रिय रूप से किस नाम से जाना जाता है?",
       "o": [
         "Niagara Falls of India",
         "Angel Falls of India",
         "Victoria Falls of India",
         "Iguazu Falls of India"
       ],
+      "options": [
+        "Niagara Falls of India",
+        "Angel Falls of India",
+        "Victoria Falls of India",
+        "Iguazu Falls of India"
+      ],
+      "oHi": [
+        "भारत का नियाग्रा जलप्रपात",
+        "भारत का एंजेल जलप्रपात",
+        "भारत का विक्टोरिया जलप्रपात",
+        "भारत का इगुआजु जलप्रपात"
+      ],
+      "optionsHi": [
+        "भारत का नियाग्रा जलप्रपात",
+        "भारत का एंजेल जलप्रपात",
+        "भारत का विक्टोरिया जलप्रपात",
+        "भारत का इगुआजु जलप्रपात"
+      ],
       "a": 0,
-      "exp": "Chitrakote Falls in Bastar district is the widest waterfall in India (approx 300 meters during monsoons)."
+      "correctIndex": 0,
+      "exp": "Chitrakote Falls in Bastar district is the widest waterfall in India (approx 300 meters during monsoons).",
+      "explanation": "Chitrakote Falls in Bastar district is the widest waterfall in India (approx 300 meters during monsoons).",
+      "expHi": "बस्तर जिले में इंद्रावती नदी पर स्थित चित्रकोट जलप्रपात मानसून के दौरान लगभग 300 मीटर चौड़ा हो जाता है, जिसके कारण इसे 'भारत का नियाग्रा' कहा जाता है।",
+      "explanationHi": "बस्तर जिले में इंद्रावती नदी पर स्थित चित्रकोट जलप्रपात मानसून के दौरान लगभग 300 मीटर चौड़ा हो जाता है, जिसके कारण इसे 'भारत का नियाग्रा' कहा जाता है।",
+      "hint": "Reflect upon the geographic, political, and cultural heritage of Chhattisgarh.",
+      "hintHi": "यह घोड़े की नाल के आकार में फैला भारत का सबसे चौड़ा जलप्रपात है।",
+      "difficulty": "medium",
+      "lastVerified": "2026-01-01",
+      "examTags": [
+        "ssc_cgl",
+        "state_psc",
+        "railway",
+        "police"
+      ]
     }
   ],
   "subtopics": [
@@ -273,5 +345,6 @@
         }
       ]
     }
-  ]
+  ],
+  "mcqCount": 2
 }

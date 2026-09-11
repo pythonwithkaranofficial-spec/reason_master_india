@@ -31,37 +31,145 @@
   "schemes": "Saat Nischay Part-2, Mukhyamantri Kanya Utthan Yojana, Student Credit Card Scheme",
   "mcqs": [
     {
+      "id": "gk_state_bihar_q1",
       "q": "Under which tree did Gautama Buddha attain enlightenment in Bodh Gaya, Bihar?",
+      "questionText": "Under which tree did Gautama Buddha attain enlightenment in Bodh Gaya, Bihar?",
+      "qHi": "गौतम बुद्ध को बिहार के बोधगया में किस वृक्ष के नीचे ज्ञान (कैवल्य) प्राप्त हुआ था?",
+      "questionTextHi": "गौतम बुद्ध को बिहार के बोधगया में किस वृक्ष के नीचे ज्ञान (कैवल्य) प्राप्त हुआ था?",
       "o": [
         "Bodhi Tree (Peepal)",
         "Banyan Tree",
         "Sal Tree",
         "Neem Tree"
       ],
+      "options": [
+        "Bodhi Tree (Peepal)",
+        "Banyan Tree",
+        "Sal Tree",
+        "Neem Tree"
+      ],
+      "oHi": [
+        "बोधि वृक्ष (पीपल)",
+        "बरगद का पेड़",
+        "साल का वृक्ष",
+        "नीम का पेड़"
+      ],
+      "optionsHi": [
+        "बोधि वृक्ष (पीपल)",
+        "बरगद का पेड़",
+        "साल का वृक्ष",
+        "नीम का पेड़"
+      ],
       "a": 0,
-      "exp": "Gautama Buddha attained supreme enlightenment under the sacred Bodhi tree at Bodh Gaya."
+      "correctIndex": 0,
+      "exp": "Gautama Buddha attained supreme enlightenment under the sacred Bodhi tree at Bodh Gaya.",
+      "explanation": "Gautama Buddha attained supreme enlightenment under the sacred Bodhi tree at Bodh Gaya.",
+      "expHi": "गौतम बुद्ध को निरंजना नदी के तट पर बोधगया में पवित्र बोधि वृक्ष (पीपल) के नीचे 49 दिनों के ध्यान के बाद ज्ञान प्राप्त हुआ था।",
+      "explanationHi": "गौतम बुद्ध को निरंजना नदी के तट पर बोधगया में पवित्र बोधि वृक्ष (पीपल) के नीचे 49 दिनों के ध्यान के बाद ज्ञान प्राप्त हुआ था।",
+      "hint": "Reflect upon the geographic, political, and cultural heritage of Bihar.",
+      "hintHi": "यह फिकस रिलिजियोसा (पीपल) प्रजाति का वृक्ष है।",
+      "difficulty": "medium",
+      "lastVerified": "2026-01-01",
+      "examTags": [
+        "ssc_cgl",
+        "state_psc",
+        "railway",
+        "police"
+      ]
     },
     {
+      "id": "gk_state_bihar_q2",
       "q": "Which ancient university in Bihar was revived in the 21st century after its historical destruction in 1193 AD?",
+      "questionText": "Which ancient university in Bihar was revived in the 21st century after its historical destruction in 1193 AD?",
+      "qHi": "1193 ईस्वी में नष्ट होने के बाद 21वीं सदी में बिहार के किस प्राचीन विश्वविद्यालय को पुनर्जीवित किया गया?",
+      "questionTextHi": "1193 ईस्वी में नष्ट होने के बाद 21वीं सदी में बिहार के किस प्राचीन विश्वविद्यालय को पुनर्जीवित किया गया?",
       "o": [
         "Nalanda University",
         "Takshashila University",
         "Vikramashila University",
         "Odantapuri University"
       ],
+      "options": [
+        "Nalanda University",
+        "Takshashila University",
+        "Vikramashila University",
+        "Odantapuri University"
+      ],
+      "oHi": [
+        "नालंदा विश्वविद्यालय",
+        "तक्षशिला विश्वविद्यालय",
+        "विक्रमशिला विश्वविद्यालय",
+        "ओदंतपुरी विश्वविद्यालय"
+      ],
+      "optionsHi": [
+        "नालंदा विश्वविद्यालय",
+        "तक्षशिला विश्वविद्यालय",
+        "विक्रमशिला विश्वविद्यालय",
+        "ओदंतपुरी विश्वविद्यालय"
+      ],
       "a": 0,
-      "exp": "Nalanda Mahavihara was founded by Kumaragupta I of the Gupta dynasty in the 5th century AD."
+      "correctIndex": 0,
+      "exp": "Nalanda Mahavihara was founded by Kumaragupta I of the Gupta dynasty in the 5th century AD.",
+      "explanation": "Nalanda Mahavihara was founded by Kumaragupta I of the Gupta dynasty in the 5th century AD.",
+      "expHi": "नालंदा महाविहार की स्थापना 5वीं शताब्दी में गुप्त वंश के कुमारगुप्त प्रथम ने की थी। इसे 2010 के संसदीय अधिनियम द्वारा आधुनिक अंतरराष्ट्रीय विश्वविद्यालय के रूप में पुनर्जीवित किया गया।",
+      "explanationHi": "नालंदा महाविहार की स्थापना 5वीं शताब्दी में गुप्त वंश के कुमारगुप्त प्रथम ने की थी। इसे 2010 के संसदीय अधिनियम द्वारा आधुनिक अंतरराष्ट्रीय विश्वविद्यालय के रूप में पुनर्जीवित किया गया।",
+      "hint": "Reflect upon the geographic, political, and cultural heritage of Bihar.",
+      "hintHi": "यह प्राचीन मगध में स्थित विश्व प्रसिद्ध आवासीय बौद्ध महाविहार था।",
+      "difficulty": "medium",
+      "lastVerified": "2026-01-01",
+      "examTags": [
+        "ssc_cgl",
+        "state_psc",
+        "railway",
+        "police"
+      ]
     },
     {
+      "id": "gk_state_bihar_q3",
       "q": "Which river is historically known as the 'Sorrow of Bihar' due to frequent course shifts and floods?",
+      "questionText": "Which river is historically known as the 'Sorrow of Bihar' due to frequent course shifts and floods?",
+      "qHi": "बार-बार मार्ग बदलने और विनाशकारी बाढ़ के कारण ऐतिहासिक रूप से किस नदी को 'बिहार का शोक' कहा जाता है?",
+      "questionTextHi": "बार-बार मार्ग बदलने और विनाशकारी बाढ़ के कारण ऐतिहासिक रूप से किस नदी को 'बिहार का शोक' कहा जाता है?",
       "o": [
         "Kosi River",
         "Gandak River",
         "Son River",
         "Ghaghara River"
       ],
+      "options": [
+        "Kosi River",
+        "Gandak River",
+        "Son River",
+        "Ghaghara River"
+      ],
+      "oHi": [
+        "कोसी नदी",
+        "गंडक नदी",
+        "सोन नदी",
+        "घाघरा नदी"
+      ],
+      "optionsHi": [
+        "कोसी नदी",
+        "गंडक नदी",
+        "सोन नदी",
+        "घाघरा नदी"
+      ],
       "a": 0,
-      "exp": "The Kosi River has shifted course over 120 km over 250 years, causing devastating inundation."
+      "correctIndex": 0,
+      "exp": "The Kosi River has shifted course over 120 km over 250 years, causing devastating inundation.",
+      "explanation": "The Kosi River has shifted course over 120 km over 250 years, causing devastating inundation.",
+      "expHi": "कोसी नदी ने पिछले 250 वर्षों में 120 किमी से अधिक का मार्ग बदला है और गंभीर बाढ़ पैदा की है, जिसके कारण इसे बिहार का शोक कहा जाता है।",
+      "explanationHi": "कोसी नदी ने पिछले 250 वर्षों में 120 किमी से अधिक का मार्ग बदला है और गंभीर बाढ़ पैदा की है, जिसके कारण इसे बिहार का शोक कहा जाता है।",
+      "hint": "Reflect upon the geographic, political, and cultural heritage of Bihar.",
+      "hintHi": "यह नेपाल के हिमालयी हिमनदों से निकलकर बिहार में गंगा में मिलती है।",
+      "difficulty": "medium",
+      "lastVerified": "2026-01-01",
+      "examTags": [
+        "ssc_cgl",
+        "state_psc",
+        "railway",
+        "police"
+      ]
     }
   ],
   "subtopics": [
@@ -284,5 +392,6 @@
         }
       ]
     }
-  ]
+  ],
+  "mcqCount": 3
 }

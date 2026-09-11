@@ -32,26 +32,98 @@
   "schemes": "Carbon-Neutral Ladakh Initiative, Mission Organic Development Initiative (M.O.D.I.)",
   "mcqs": [
     {
+      "id": "gk_state_ladakh_q1",
       "q": "Which is the largest national park in India by geographic area, world-famous for its high concentration of wild snow leopards?",
+      "questionText": "Which is the largest national park in India by geographic area, world-famous for its high concentration of wild snow leopards?",
+      "qHi": "क्षेत्रफल की दृष्टि से भारत का सबसे बड़ा राष्ट्रीय उद्यान कौन सा है, जो हिम तेंदुओं की सबसे अधिक आबादी के लिए विख्यात है?",
+      "questionTextHi": "क्षेत्रफल की दृष्टि से भारत का सबसे बड़ा राष्ट्रीय उद्यान कौन सा है, जो हिम तेंदुओं की सबसे अधिक आबादी के लिए विख्यात है?",
       "o": [
         "Hemis National Park",
         "Desert National Park",
         "Gangotri National Park",
         "Namdapha National Park"
       ],
+      "options": [
+        "Hemis National Park",
+        "Desert National Park",
+        "Gangotri National Park",
+        "Namdapha National Park"
+      ],
+      "oHi": [
+        "हेमिस राष्ट्रीय उद्यान",
+        "डेजर्ट राष्ट्रीय उद्यान",
+        "गंगोत्री राष्ट्रीय उद्यान",
+        "नमदाफा राष्ट्रीय उद्यान"
+      ],
+      "optionsHi": [
+        "हेमिस राष्ट्रीय उद्यान",
+        "डेजर्ट राष्ट्रीय उद्यान",
+        "गंगोत्री राष्ट्रीय उद्यान",
+        "नमदाफा राष्ट्रीय उद्यान"
+      ],
       "a": 0,
-      "exp": "Hemis National Park in Ladakh spans over 4,400 sq km and is India's largest designated national park."
+      "correctIndex": 0,
+      "exp": "Hemis National Park in Ladakh spans over 4,400 sq km and is India's largest designated national park.",
+      "explanation": "Hemis National Park in Ladakh spans over 4,400 sq km and is India's largest designated national park.",
+      "expHi": "पूर्वी लद्दाख में 4,400 वर्ग किमी में फैला हेमिस राष्ट्रीय उद्यान भारत का सबसे बड़ा राष्ट्रीय उद्यान है और हिम तेंदुए (पेंथेरा अनसिया) के संरक्षण का वैश्विक केंद्र है।",
+      "explanationHi": "पूर्वी लद्दाख में 4,400 वर्ग किमी में फैला हेमिस राष्ट्रीय उद्यान भारत का सबसे बड़ा राष्ट्रीय उद्यान है और हिम तेंदुए (पेंथेरा अनसिया) के संरक्षण का वैश्विक केंद्र है।",
+      "hint": "Reflect upon the geographic, political, and cultural heritage of Ladakh.",
+      "hintHi": "यह प्रसिद्ध हेमिस गोम्पा बौद्ध मठ के पास स्थित है।",
+      "difficulty": "medium",
+      "lastVerified": "2026-01-01",
+      "examTags": [
+        "ssc_cgl",
+        "state_psc",
+        "railway",
+        "police"
+      ]
     },
     {
+      "id": "gk_state_ladakh_q2",
       "q": "Which mountain pass in Ladakh, constructed by BRO at 19,024 feet, is officially recognized by Guinness World Records as the world's highest motorable pass?",
+      "questionText": "Which mountain pass in Ladakh, constructed by BRO at 19,024 feet, is officially recognized by Guinness World Records as the world's highest motorable pass?",
+      "qHi": "लद्दाख का कौन सा दर्रा बीआरओ (BRO) द्वारा 19,024 फीट की ऊंचाई पर बनाई गई दुनिया की सबसे ऊंची मोटर योग्य सड़क के लिए जाना जाता है?",
+      "questionTextHi": "लद्दाख का कौन सा दर्रा बीआरओ (BRO) द्वारा 19,024 फीट की ऊंचाई पर बनाई गई दुनिया की सबसे ऊंची मोटर योग्य सड़क के लिए जाना जाता है?",
       "o": [
         "Umling La",
         "Khardung La",
         "Chang La",
         "Zoji La"
       ],
+      "options": [
+        "Umling La",
+        "Khardung La",
+        "Chang La",
+        "Zoji La"
+      ],
+      "oHi": [
+        "उमलिंग ला",
+        "खारदुंग ला",
+        "चांग ला",
+        "ज़ोजिला"
+      ],
+      "optionsHi": [
+        "उमलिंग ला",
+        "खारदुंग ला",
+        "चांग ला",
+        "ज़ोजिला"
+      ],
       "a": 0,
-      "exp": "Umling La pass in Eastern Ladakh was constructed by Border Roads Organisation (BRO) under Project Himank."
+      "correctIndex": 0,
+      "exp": "Umling La pass in Eastern Ladakh was constructed by Border Roads Organisation (BRO) under Project Himank.",
+      "explanation": "Umling La pass in Eastern Ladakh was constructed by Border Roads Organisation (BRO) under Project Himank.",
+      "expHi": "सीमा सड़क संगठन (BRO) ने 'प्रोजेक्ट हिमांक' के तहत उमलिंग ला दर्रे पर 19,024 फीट की ऊंचाई पर दुनिया की सबसे ऊंची पक्की सड़क बनाकर गिनीज वर्ल्ड रिकॉर्ड स्थापित किया।",
+      "explanationHi": "सीमा सड़क संगठन (BRO) ने 'प्रोजेक्ट हिमांक' के तहत उमलिंग ला दर्रे पर 19,024 फीट की ऊंचाई पर दुनिया की सबसे ऊंची पक्की सड़क बनाकर गिनीज वर्ल्ड रिकॉर्ड स्थापित किया।",
+      "hint": "Reflect upon the geographic, political, and cultural heritage of Ladakh.",
+      "hintHi": "इसने खारदुंग ला को पीछे छोड़कर विश्व रिकॉर्ड अपने नाम किया।",
+      "difficulty": "medium",
+      "lastVerified": "2026-01-01",
+      "examTags": [
+        "ssc_cgl",
+        "state_psc",
+        "railway",
+        "police"
+      ]
     }
   ],
   "subtopics": [
@@ -262,5 +334,6 @@
         }
       ]
     }
-  ]
+  ],
+  "mcqCount": 2
 }

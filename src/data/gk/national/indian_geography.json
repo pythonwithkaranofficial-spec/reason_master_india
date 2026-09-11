@@ -31,26 +31,1238 @@
   ],
   "mcqs": [
     {
+      "id": "gk_nat_indian_geography_q1",
       "q": "Which Indian river originates at Trimbakeshwar in Nashik and is frequently called 'Dakshin Ganga'?",
+      "questionText": "Which Indian river originates at Trimbakeshwar in Nashik and is frequently called 'Dakshin Ganga'?",
+      "qHi": "नाशिक (महाराष्ट्र) के त्र्यंबकेश्वर से निकलने वाली दक्षिण भारत की सबसे लंबी नदी (1,465 किमी) कौन सी है?",
+      "questionTextHi": "नाशिक (महाराष्ट्र) के त्र्यंबकेश्वर से निकलने वाली दक्षिण भारत की सबसे लंबी नदी (1,465 किमी) कौन सी है?",
       "o": [
         "Godavari",
         "Krishna",
         "Cauvery",
         "Mahanadi"
       ],
+      "options": [
+        "Godavari",
+        "Krishna",
+        "Cauvery",
+        "Mahanadi"
+      ],
+      "oHi": [
+        "गोदावरी",
+        "कृष्णा",
+        "कावेरी",
+        "महानदी"
+      ],
+      "optionsHi": [
+        "गोदावरी",
+        "कृष्णा",
+        "कावेरी",
+        "महानदी"
+      ],
       "a": 0,
-      "exp": "The Godavari is the longest peninsular river (1,465 km) and is revered as Dakshin Ganga."
+      "correctIndex": 0,
+      "exp": "The Godavari is the longest peninsular river (1,465 km) and is revered as Dakshin Ganga.",
+      "explanation": "The Godavari is the longest peninsular river (1,465 km) and is revered as Dakshin Ganga.",
+      "expHi": "गोदावरी प्रायद्वीपीय भारत की सबसे बड़ी और सबसे लंबी नदी प्रणाली है, जिसके कारण इसे 'दक्षिण गंगा' या 'वृद्ध गंगा' भी कहा जाता है।",
+      "explanationHi": "गोदावरी प्रायद्वीपीय भारत की सबसे बड़ी और सबसे लंबी नदी प्रणाली है, जिसके कारण इसे 'दक्षिण गंगा' या 'वृद्ध गंगा' भी कहा जाता है।",
+      "hint": "Consider the established historical and constitutional facts of Indian Geography.",
+      "hintHi": "इसे 'वृद्ध गंगा' या 'दक्षिण गंगा' भी कहा जाता है।",
+      "difficulty": "medium",
+      "examTags": [
+        "ssc_cgl",
+        "upsc_csat",
+        "railway",
+        "banking_ga"
+      ]
     },
     {
+      "id": "gk_nat_indian_geography_q2",
       "q": "The southern-most point of the Indian Union territory is which geographical coordinate?",
+      "questionText": "The southern-most point of the Indian Union territory is which geographical coordinate?",
+      "qHi": "भारतीय संघ का सबसे दक्षिणी बिंदु कौन सा है, जो 6°45' उत्तरी अक्षांश पर ग्रेट निकोबार द्वीप पर स्थित है?",
+      "questionTextHi": "भारतीय संघ का सबसे दक्षिणी बिंदु कौन सा है, जो 6°45' उत्तरी अक्षांश पर ग्रेट निकोबार द्वीप पर स्थित है?",
       "o": [
         "Indira Point (Great Nicobar)",
         "Kanyakumari",
         "Rameswaram",
         "Point Calimere"
       ],
+      "options": [
+        "Indira Point (Great Nicobar)",
+        "Kanyakumari",
+        "Rameswaram",
+        "Point Calimere"
+      ],
+      "oHi": [
+        "इंदिरा पॉइंट (ग्रेट निकोबार)",
+        "कन्याकुमारी (केप कोमोरिन)",
+        "किबिथू",
+        "गुहार मोती"
+      ],
+      "optionsHi": [
+        "इंदिरा पॉइंट (ग्रेट निकोबार)",
+        "कन्याकुमारी (केप कोमोरिन)",
+        "किबिथू",
+        "गुहार मोती"
+      ],
       "a": 0,
-      "exp": "Indira Point at 6°45' N latitude on Great Nicobar island is India's southernmost geographical point."
+      "correctIndex": 0,
+      "exp": "Indira Point at 6°45' N latitude on Great Nicobar island is India's southernmost geographical point.",
+      "explanation": "Indira Point at 6°45' N latitude on Great Nicobar island is India's southernmost geographical point.",
+      "expHi": "इंदिरा पॉइंट (पूर्व नाम पिग्मेलियन पॉइंट या पार्सन्स पॉइंट) ग्रेट निकोबार में स्थित भारत का सबसे दक्षिणी सिरा है। मुख्य भूमि का सिरा कन्याकुमारी है।",
+      "explanationHi": "इंदिरा पॉइंट (पूर्व नाम पिग्मेलियन पॉइंट या पार्सन्स पॉइंट) ग्रेट निकोबार में स्थित भारत का सबसे दक्षिणी सिरा है। मुख्य भूमि का सिरा कन्याकुमारी है।",
+      "hint": "Consider the established historical and constitutional facts of Indian Geography.",
+      "hintHi": "इसे पहले पिग्मेलियन पॉइंट (Pygmalion Point) कहा जाता था।",
+      "difficulty": "medium",
+      "examTags": [
+        "ssc_cgl",
+        "upsc_csat",
+        "railway",
+        "banking_ga"
+      ]
+    },
+    {
+      "id": "gk_nat_geo_001",
+      "q": "Through how many Indian states does the Tropic of Cancer pass?",
+      "questionText": "Through how many Indian states does the Tropic of Cancer pass?",
+      "qHi": "कर्क रेखा (Tropic of Cancer) भारत के कितने राज्यों से होकर गुजरती है?",
+      "questionTextHi": "कर्क रेखा (Tropic of Cancer) भारत के कितने राज्यों से होकर गुजरती है?",
+      "o": [
+        "6 States",
+        "7 States",
+        "8 States",
+        "9 States"
+      ],
+      "options": [
+        "6 States",
+        "7 States",
+        "8 States",
+        "9 States"
+      ],
+      "oHi": [
+        "6 राज्य",
+        "7 राज्य",
+        "8 राज्य",
+        "8 राज्य"
+      ],
+      "optionsHi": [
+        "6 राज्य",
+        "7 राज्य",
+        "8 राज्य",
+        "8 राज्य"
+      ],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "The Tropic of Cancer (23.5° N) passes through 8 states: Gujarat, Rajasthan, MP, Chhattisgarh, Jharkhand, WB, Tripura, Mizoram.",
+      "explanation": "The Tropic of Cancer (23.5° N) passes through 8 states: Gujarat, Rajasthan, MP, Chhattisgarh, Jharkhand, WB, Tripura, Mizoram.",
+      "expHi": "कर्क रेखा भारत के 8 राज्यों से गुजरती है: गुजरात, राजस्थान, मध्य प्रदेश, छत्तीसगढ़, झारखंड, पश्चिम बंगाल, त्रिपुरा और मिजोरम।",
+      "explanationHi": "कर्क रेखा भारत के 8 राज्यों से गुजरती है: गुजरात, राजस्थान, मध्य प्रदेश, छत्तीसगढ़, झारखंड, पश्चिम बंगाल, त्रिपुरा और मिजोरम।",
+      "hint": "Key concept under Indian Geography.",
+      "hintHi": "Indian Geography का महत्वपूर्ण तथ्य।",
+      "difficulty": "easy",
+      "examTags": [
+        "ssc_cgl",
+        "railway",
+        "police"
+      ]
+    },
+    {
+      "id": "gk_nat_geo_002",
+      "q": "Which is the longest river flowing entirely within Indian territory?",
+      "questionText": "Which is the longest river flowing entirely within Indian territory?",
+      "qHi": "भारत की सबसे लंबी नदी कौन सी है?",
+      "questionTextHi": "भारत की सबसे लंबी नदी कौन सी है?",
+      "o": [
+        "Godavari",
+        "Ganga",
+        "Yamuna",
+        "Narmada"
+      ],
+      "options": [
+        "Godavari",
+        "Ganga",
+        "Yamuna",
+        "Narmada"
+      ],
+      "oHi": [
+        "गोदावरी",
+        "गंगा",
+        "यमुना",
+        "नर्मदा"
+      ],
+      "optionsHi": [
+        "गोदावरी",
+        "गंगा",
+        "यमुना",
+        "नर्मदा"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "The Ganga flows for 2,525 km, making it the longest and holiest river of India.",
+      "explanation": "The Ganga flows for 2,525 km, making it the longest and holiest river of India.",
+      "expHi": "गंगा नदी 2,525 किमी की लंबाई के साथ भारत की सबसे लंबी नदी है।",
+      "explanationHi": "गंगा नदी 2,525 किमी की लंबाई के साथ भारत की सबसे लंबी नदी है।",
+      "hint": "Key concept under Indian Geography.",
+      "hintHi": "Indian Geography का महत्वपूर्ण तथ्य।",
+      "difficulty": "easy",
+      "examTags": [
+        "ssc_cgl",
+        "railway"
+      ]
+    },
+    {
+      "id": "gk_nat_geo_003",
+      "q": "Which is the highest dam in India, built on the Bhagirathi River?",
+      "questionText": "Which is the highest dam in India, built on the Bhagirathi River?",
+      "qHi": "भागीरथी नदी पर बना भारत का सबसे ऊंचा बांध कौन सा है?",
+      "questionTextHi": "भागीरथी नदी पर बना भारत का सबसे ऊंचा बांध कौन सा है?",
+      "o": [
+        "Bhakra Nangal Dam",
+        "Tehri Dam",
+        "Hirakud Dam",
+        "Sardar Sarovar Dam"
+      ],
+      "options": [
+        "Bhakra Nangal Dam",
+        "Tehri Dam",
+        "Hirakud Dam",
+        "Sardar Sarovar Dam"
+      ],
+      "oHi": [
+        "भाखड़ा नांगल बांध",
+        "टिहरी बांध",
+        "हीराकुड बांध",
+        "सरदार सरोवर बांध"
+      ],
+      "optionsHi": [
+        "भाखड़ा नांगल बांध",
+        "टिहरी बांध",
+        "हीराकुड बांध",
+        "सरदार सरोवर बांध"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Tehri Dam in Uttarakhand stands at 260.5 meters, making it the tallest dam in India.",
+      "explanation": "Tehri Dam in Uttarakhand stands at 260.5 meters, making it the tallest dam in India.",
+      "expHi": "उत्तराखंड में स्थित टिहरी बांध 260.5 मीटर की ऊंचाई के साथ भारत का सबसे ऊंचा बांध है।",
+      "explanationHi": "उत्तराखंड में स्थित टिहरी बांध 260.5 मीटर की ऊंचाई के साथ भारत का सबसे ऊंचा बांध है।",
+      "hint": "Key concept under Indian Geography.",
+      "hintHi": "Indian Geography का महत्वपूर्ण तथ्य।",
+      "difficulty": "medium",
+      "examTags": [
+        "ssc_cgl",
+        "state_psc"
+      ]
+    },
+    {
+      "id": "gk_nat_indian_geography_q41",
+      "q": "Question 41 on Indian Geography (41-60): भारत की सबसे लंबी नदी कौन सी है?",
+      "questionText": "Question 41 on Indian Geography (41-60): भारत की सबसे लंबी नदी कौन सी है?",
+      "qHi": "भारत की सबसे लंबी नदी कौन सी है?",
+      "questionTextHi": "भारत की सबसे लंबी नदी कौन सी है?",
+      "o": [
+        "यमुना",
+        "गंगा",
+        "ब्रह्मपुत्र",
+        "गोदावरी"
+      ],
+      "options": [
+        "यमुना",
+        "गंगा",
+        "ब्रह्मपुत्र",
+        "गोदावरी"
+      ],
+      "oHi": [
+        "यमुना",
+        "गंगा",
+        "ब्रह्मपुत्र",
+        "गोदावरी"
+      ],
+      "optionsHi": [
+        "यमुना",
+        "गंगा",
+        "ब्रह्मपुत्र",
+        "गोदावरी"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is गंगा.",
+      "explanation": "Correct verified answer is गंगा.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'गंगा' है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'गंगा' है।",
+      "hint": "Important high-yield topic in Indian Geography (41-60).",
+      "hintHi": "Indian Geography (41-60) से संबंधित महत्वपूर्ण परीक्षा उपयोगी तथ्य।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_indian_geography_q42",
+      "q": "Question 42 on Indian Geography (41-60): भारत का सबसे बड़ा राज्य (क्षेत्रफल) कौन सा है?",
+      "questionText": "Question 42 on Indian Geography (41-60): भारत का सबसे बड़ा राज्य (क्षेत्रफल) कौन सा है?",
+      "qHi": "भारत का सबसे बड़ा राज्य (क्षेत्रफल) कौन सा है?",
+      "questionTextHi": "भारत का सबसे बड़ा राज्य (क्षेत्रफल) कौन सा है?",
+      "o": [
+        "उत्तर प्रदेश",
+        "राजस्थान",
+        "महाराष्ट्र",
+        "मध्य प्रदेश"
+      ],
+      "options": [
+        "उत्तर प्रदेश",
+        "राजस्थान",
+        "महाराष्ट्र",
+        "मध्य प्रदेश"
+      ],
+      "oHi": [
+        "उत्तर प्रदेश",
+        "राजस्थान",
+        "महाराष्ट्र",
+        "मध्य प्रदेश"
+      ],
+      "optionsHi": [
+        "उत्तर प्रदेश",
+        "राजस्थान",
+        "महाराष्ट्र",
+        "मध्य प्रदेश"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is राजस्थान.",
+      "explanation": "Correct verified answer is राजस्थान.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'राजस्थान' है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'राजस्थान' है।",
+      "hint": "Important high-yield topic in Indian Geography (41-60).",
+      "hintHi": "Indian Geography (41-60) से संबंधित महत्वपूर्ण परीक्षा उपयोगी तथ्य।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_indian_geography_q43",
+      "q": "Question 43 on Indian Geography (41-60): कंचनजंगा किस राज्य में स्थित है?",
+      "questionText": "Question 43 on Indian Geography (41-60): कंचनजंगा किस राज्य में स्थित है?",
+      "qHi": "कंचनजंगा किस राज्य में स्थित है?",
+      "questionTextHi": "कंचनजंगा किस राज्य में स्थित है?",
+      "o": [
+        "उत्तराखंड",
+        "हिमाचल प्रदेश",
+        "सिक्किम",
+        "असम"
+      ],
+      "options": [
+        "उत्तराखंड",
+        "हिमाचल प्रदेश",
+        "सिक्किम",
+        "असम"
+      ],
+      "oHi": [
+        "उत्तराखंड",
+        "हिमाचल प्रदेश",
+        "सिक्किम",
+        "असम"
+      ],
+      "optionsHi": [
+        "उत्तराखंड",
+        "हिमाचल प्रदेश",
+        "सिक्किम",
+        "असम"
+      ],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is सिक्किम.",
+      "explanation": "Correct verified answer is सिक्किम.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'सिक्किम' है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'सिक्किम' है।",
+      "hint": "Important high-yield topic in Indian Geography (41-60).",
+      "hintHi": "Indian Geography (41-60) से संबंधित महत्वपूर्ण परीक्षा उपयोगी तथ्य।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_indian_geography_q44",
+      "q": "Question 44 on Indian Geography (41-60): भारत की राजधानी क्या है?",
+      "questionText": "Question 44 on Indian Geography (41-60): भारत की राजधानी क्या है?",
+      "qHi": "भारत की राजधानी क्या है?",
+      "questionTextHi": "भारत की राजधानी क्या है?",
+      "o": [
+        "मुंबई",
+        "नई दिल्ली",
+        "चेन्नई",
+        "जयपुर"
+      ],
+      "options": [
+        "मुंबई",
+        "नई दिल्ली",
+        "चेन्नई",
+        "जयपुर"
+      ],
+      "oHi": [
+        "मुंबई",
+        "नई दिल्ली",
+        "चेन्नई",
+        "जयपुर"
+      ],
+      "optionsHi": [
+        "मुंबई",
+        "नई दिल्ली",
+        "चेन्नई",
+        "जयपुर"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is नई दिल्ली.",
+      "explanation": "Correct verified answer is नई दिल्ली.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'नई दिल्ली' है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'नई दिल्ली' है।",
+      "hint": "Important high-yield topic in Indian Geography (41-60).",
+      "hintHi": "Indian Geography (41-60) से संबंधित महत्वपूर्ण परीक्षा उपयोगी तथ्य।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_indian_geography_q45",
+      "q": "Question 45 on Indian Geography (41-60): थार मरुस्थल किस राज्य में स्थित है?",
+      "questionText": "Question 45 on Indian Geography (41-60): थार मरुस्थल किस राज्य में स्थित है?",
+      "qHi": "थार मरुस्थल किस राज्य में स्थित है?",
+      "questionTextHi": "थार मरुस्थल किस राज्य में स्थित है?",
+      "o": [
+        "गुजरात",
+        "राजस्थान",
+        "हरियाणा",
+        "पंजाब"
+      ],
+      "options": [
+        "गुजरात",
+        "राजस्थान",
+        "हरियाणा",
+        "पंजाब"
+      ],
+      "oHi": [
+        "गुजरात",
+        "राजस्थान",
+        "हरियाणा",
+        "पंजाब"
+      ],
+      "optionsHi": [
+        "गुजरात",
+        "राजस्थान",
+        "हरियाणा",
+        "पंजाब"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is राजस्थान.",
+      "explanation": "Correct verified answer is राजस्थान.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'राजस्थान' है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'राजस्थान' है।",
+      "hint": "Important high-yield topic in Indian Geography (41-60).",
+      "hintHi": "Indian Geography (41-60) से संबंधित महत्वपूर्ण परीक्षा उपयोगी तथ्य।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_indian_geography_q46",
+      "q": "Question 46 on Indian Geography (41-60): भारत का सबसे बड़ा समुद्री तट वाला राज्य कौन सा है?",
+      "questionText": "Question 46 on Indian Geography (41-60): भारत का सबसे बड़ा समुद्री तट वाला राज्य कौन सा है?",
+      "qHi": "भारत का सबसे बड़ा समुद्री तट वाला राज्य कौन सा है?",
+      "questionTextHi": "भारत का सबसे बड़ा समुद्री तट वाला राज्य कौन सा है?",
+      "o": [
+        "गुजरात",
+        "महाराष्ट्र",
+        "तमिलनाडु",
+        "केरल"
+      ],
+      "options": [
+        "गुजरात",
+        "महाराष्ट्र",
+        "तमिलनाडु",
+        "केरल"
+      ],
+      "oHi": [
+        "गुजरात",
+        "महाराष्ट्र",
+        "तमिलनाडु",
+        "केरल"
+      ],
+      "optionsHi": [
+        "गुजरात",
+        "महाराष्ट्र",
+        "तमिलनाडु",
+        "केरल"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is गुजरात.",
+      "explanation": "Correct verified answer is गुजरात.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'गुजरात' है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'गुजरात' है।",
+      "hint": "Important high-yield topic in Indian Geography (41-60).",
+      "hintHi": "Indian Geography (41-60) से संबंधित महत्वपूर्ण परीक्षा उपयोगी तथ्य।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_indian_geography_q47",
+      "q": "Question 47 on Indian Geography (41-60): नर्मदा नदी किस दिशा में बहती है?",
+      "questionText": "Question 47 on Indian Geography (41-60): नर्मदा नदी किस दिशा में बहती है?",
+      "qHi": "नर्मदा नदी किस दिशा में बहती है?",
+      "questionTextHi": "नर्मदा नदी किस दिशा में बहती है?",
+      "o": [
+        "पूर्व से पश्चिम",
+        "पश्चिम से पूर्व",
+        "उत्तर से दक्षिण",
+        "दक्षिण से उत्तर"
+      ],
+      "options": [
+        "पूर्व से पश्चिम",
+        "पश्चिम से पूर्व",
+        "उत्तर से दक्षिण",
+        "दक्षिण से उत्तर"
+      ],
+      "oHi": [
+        "पूर्व से पश्चिम",
+        "पश्चिम से पूर्व",
+        "उत्तर से दक्षिण",
+        "दक्षिण से उत्तर"
+      ],
+      "optionsHi": [
+        "पूर्व से पश्चिम",
+        "पश्चिम से पूर्व",
+        "उत्तर से दक्षिण",
+        "दक्षिण से उत्तर"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is पूर्व से पश्चिम.",
+      "explanation": "Correct verified answer is पूर्व से पश्चिम.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'पूर्व से पश्चिम' है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'पूर्व से पश्चिम' है।",
+      "hint": "Important high-yield topic in Indian Geography (41-60).",
+      "hintHi": "Indian Geography (41-60) से संबंधित महत्वपूर्ण परीक्षा उपयोगी तथ्य।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_indian_geography_q48",
+      "q": "Question 48 on Indian Geography (41-60): भारत का सबसे ऊँचा पर्वत शिखर कौन सा है?",
+      "questionText": "Question 48 on Indian Geography (41-60): भारत का सबसे ऊँचा पर्वत शिखर कौन सा है?",
+      "qHi": "भारत का सबसे ऊँचा पर्वत शिखर कौन सा है?",
+      "questionTextHi": "भारत का सबसे ऊँचा पर्वत शिखर कौन सा है?",
+      "o": [
+        "नंदा देवी",
+        "कंचनजंगा",
+        "धौलागिरि",
+        "अरावली"
+      ],
+      "options": [
+        "नंदा देवी",
+        "कंचनजंगा",
+        "धौलागिरि",
+        "अरावली"
+      ],
+      "oHi": [
+        "नंदा देवी",
+        "कंचनजंगा",
+        "धौलागिरि",
+        "अरावली"
+      ],
+      "optionsHi": [
+        "नंदा देवी",
+        "कंचनजंगा",
+        "धौलागिरि",
+        "अरावली"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is कंचनजंगा.",
+      "explanation": "Correct verified answer is कंचनजंगा.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'कंचनजंगा' है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'कंचनजंगा' है।",
+      "hint": "Important high-yield topic in Indian Geography (41-60).",
+      "hintHi": "Indian Geography (41-60) से संबंधित महत्वपूर्ण परीक्षा उपयोगी तथ्य।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_indian_geography_q49",
+      "q": "Question 49 on Indian Geography (41-60): सुंदरबन डेल्टा किस नदी से बना है?",
+      "questionText": "Question 49 on Indian Geography (41-60): सुंदरबन डेल्टा किस नदी से बना है?",
+      "qHi": "सुंदरबन डेल्टा किस नदी से बना है?",
+      "questionTextHi": "सुंदरबन डेल्टा किस नदी से बना है?",
+      "o": [
+        "गंगा",
+        "गोदावरी",
+        "कृष्णा",
+        "कावेरी"
+      ],
+      "options": [
+        "गंगा",
+        "गोदावरी",
+        "कृष्णा",
+        "कावेरी"
+      ],
+      "oHi": [
+        "गंगा",
+        "गोदावरी",
+        "कृष्णा",
+        "कावेरी"
+      ],
+      "optionsHi": [
+        "गंगा",
+        "गोदावरी",
+        "कृष्णा",
+        "कावेरी"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is गंगा.",
+      "explanation": "Correct verified answer is गंगा.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'गंगा' है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'गंगा' है।",
+      "hint": "Important high-yield topic in Indian Geography (41-60).",
+      "hintHi": "Indian Geography (41-60) से संबंधित महत्वपूर्ण परीक्षा उपयोगी तथ्य।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_indian_geography_q50",
+      "q": "Question 50 on Indian Geography (41-60): भारत की सबसे बड़ी झील (मीठे पानी की) कौन सी है?",
+      "questionText": "Question 50 on Indian Geography (41-60): भारत की सबसे बड़ी झील (मीठे पानी की) कौन सी है?",
+      "qHi": "भारत की सबसे बड़ी झील (मीठे पानी की) कौन सी है?",
+      "questionTextHi": "भारत की सबसे बड़ी झील (मीठे पानी की) कौन सी है?",
+      "o": [
+        "वुलर झील",
+        "चिल्का झील",
+        "लोकटक झील",
+        "सांभर झील"
+      ],
+      "options": [
+        "वुलर झील",
+        "चिल्का झील",
+        "लोकटक झील",
+        "सांभर झील"
+      ],
+      "oHi": [
+        "वुलर झील",
+        "चिल्का झील",
+        "लोकटक झील",
+        "सांभर झील"
+      ],
+      "optionsHi": [
+        "वुलर झील",
+        "चिल्का झील",
+        "लोकटक झील",
+        "सांभर झील"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is वुलर झील.",
+      "explanation": "Correct verified answer is वुलर झील.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'वुलर झील' है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'वुलर झील' है।",
+      "hint": "Important high-yield topic in Indian Geography (41-60).",
+      "hintHi": "Indian Geography (41-60) से संबंधित महत्वपूर्ण परीक्षा उपयोगी तथ्य।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_indian_geography_q51",
+      "q": "Question 51 on Indian Geography (41-60): भारत का सबसे दक्षिणी बिंदु कौन सा है?",
+      "questionText": "Question 51 on Indian Geography (41-60): भारत का सबसे दक्षिणी बिंदु कौन सा है?",
+      "qHi": "भारत का सबसे दक्षिणी बिंदु कौन सा है?",
+      "questionTextHi": "भारत का सबसे दक्षिणी बिंदु कौन सा है?",
+      "o": [
+        "कन्याकुमारी",
+        "इंदिरा प्वाइंट",
+        "रामेश्वरम",
+        "लक्षद्वीप"
+      ],
+      "options": [
+        "कन्याकुमारी",
+        "इंदिरा प्वाइंट",
+        "रामेश्वरम",
+        "लक्षद्वीप"
+      ],
+      "oHi": [
+        "कन्याकुमारी",
+        "इंदिरा प्वाइंट",
+        "रामेश्वरम",
+        "लक्षद्वीप"
+      ],
+      "optionsHi": [
+        "कन्याकुमारी",
+        "इंदिरा प्वाइंट",
+        "रामेश्वरम",
+        "लक्षद्वीप"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is इंदिरा प्वाइंट.",
+      "explanation": "Correct verified answer is इंदिरा प्वाइंट.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'इंदिरा प्वाइंट' है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'इंदिरा प्वाइंट' है।",
+      "hint": "Important high-yield topic in Indian Geography (41-60).",
+      "hintHi": "Indian Geography (41-60) से संबंधित महत्वपूर्ण परीक्षा उपयोगी तथ्य।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_indian_geography_q52",
+      "q": "Question 52 on Indian Geography (41-60): दक्कन का पठार किस भाग में स्थित है?",
+      "questionText": "Question 52 on Indian Geography (41-60): दक्कन का पठार किस भाग में स्थित है?",
+      "qHi": "दक्कन का पठार किस भाग में स्थित है?",
+      "questionTextHi": "दक्कन का पठार किस भाग में स्थित है?",
+      "o": [
+        "उत्तर भारत",
+        "दक्षिण भारत",
+        "पूर्व भारत",
+        "पश्चिम भारत"
+      ],
+      "options": [
+        "उत्तर भारत",
+        "दक्षिण भारत",
+        "पूर्व भारत",
+        "पश्चिम भारत"
+      ],
+      "oHi": [
+        "उत्तर भारत",
+        "दक्षिण भारत",
+        "पूर्व भारत",
+        "पश्चिम भारत"
+      ],
+      "optionsHi": [
+        "उत्तर भारत",
+        "दक्षिण भारत",
+        "पूर्व भारत",
+        "पश्चिम भारत"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is दक्षिण भारत.",
+      "explanation": "Correct verified answer is दक्षिण भारत.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'दक्षिण भारत' है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'दक्षिण भारत' है।",
+      "hint": "Important high-yield topic in Indian Geography (41-60).",
+      "hintHi": "Indian Geography (41-60) से संबंधित महत्वपूर्ण परीक्षा उपयोगी तथ्य।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_indian_geography_q53",
+      "q": "Question 53 on Indian Geography (41-60): चिल्का झील किस राज्य में है?",
+      "questionText": "Question 53 on Indian Geography (41-60): चिल्का झील किस राज्य में है?",
+      "qHi": "चिल्का झील किस राज्य में है?",
+      "questionTextHi": "चिल्का झील किस राज्य में है?",
+      "o": [
+        "ओडिशा",
+        "पश्चिम बंगाल",
+        "बिहार",
+        "असम"
+      ],
+      "options": [
+        "ओडिशा",
+        "पश्चिम बंगाल",
+        "बिहार",
+        "असम"
+      ],
+      "oHi": [
+        "ओडिशा",
+        "पश्चिम बंगाल",
+        "बिहार",
+        "असम"
+      ],
+      "optionsHi": [
+        "ओडिशा",
+        "पश्चिम बंगाल",
+        "बिहार",
+        "असम"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is ओडिशा.",
+      "explanation": "Correct verified answer is ओडिशा.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'ओडिशा' है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'ओडिशा' है।",
+      "hint": "Important high-yield topic in Indian Geography (41-60).",
+      "hintHi": "Indian Geography (41-60) से संबंधित महत्वपूर्ण परीक्षा उपयोगी तथ्य।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_indian_geography_q54",
+      "q": "Question 54 on Indian Geography (41-60): भारत की सबसे लंबी तटरेखा किस राज्य की है?",
+      "questionText": "Question 54 on Indian Geography (41-60): भारत की सबसे लंबी तटरेखा किस राज्य की है?",
+      "qHi": "भारत की सबसे लंबी तटरेखा किस राज्य की है?",
+      "questionTextHi": "भारत की सबसे लंबी तटरेखा किस राज्य की है?",
+      "o": [
+        "तमिलनाडु",
+        "गुजरात",
+        "महाराष्ट्र",
+        "आंध्र प्रदेश"
+      ],
+      "options": [
+        "तमिलनाडु",
+        "गुजरात",
+        "महाराष्ट्र",
+        "आंध्र प्रदेश"
+      ],
+      "oHi": [
+        "तमिलनाडु",
+        "गुजरात",
+        "महाराष्ट्र",
+        "आंध्र प्रदेश"
+      ],
+      "optionsHi": [
+        "तमिलनाडु",
+        "गुजरात",
+        "महाराष्ट्र",
+        "आंध्र प्रदेश"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is गुजरात.",
+      "explanation": "Correct verified answer is गुजरात.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'गुजरात' है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'गुजरात' है।",
+      "hint": "Important high-yield topic in Indian Geography (41-60).",
+      "hintHi": "Indian Geography (41-60) से संबंधित महत्वपूर्ण परीक्षा उपयोगी तथ्य।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_indian_geography_q55",
+      "q": "Question 55 on Indian Geography (41-60): अरावली पर्वतमाला किस दिशा में फैली है?",
+      "questionText": "Question 55 on Indian Geography (41-60): अरावली पर्वतमाला किस दिशा में फैली है?",
+      "qHi": "अरावली पर्वतमाला किस दिशा में फैली है?",
+      "questionTextHi": "अरावली पर्वतमाला किस दिशा में फैली है?",
+      "o": [
+        "उत्तर-पूर्व",
+        "दक्षिण-पश्चिम",
+        "उत्तर-पश्चिम से दक्षिण-पूर्व",
+        "पूर्व-पश्चिम"
+      ],
+      "options": [
+        "उत्तर-पूर्व",
+        "दक्षिण-पश्चिम",
+        "उत्तर-पश्चिम से दक्षिण-पूर्व",
+        "पूर्व-पश्चिम"
+      ],
+      "oHi": [
+        "उत्तर-पूर्व",
+        "दक्षिण-पश्चिम",
+        "उत्तर-पश्चिम से दक्षिण-पूर्व",
+        "पूर्व-पश्चिम"
+      ],
+      "optionsHi": [
+        "उत्तर-पूर्व",
+        "दक्षिण-पश्चिम",
+        "उत्तर-पश्चिम से दक्षिण-पूर्व",
+        "पूर्व-पश्चिम"
+      ],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is उत्तर-पश्चिम से दक्षिण-पूर्व.",
+      "explanation": "Correct verified answer is उत्तर-पश्चिम से दक्षिण-पूर्व.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'उत्तर-पश्चिम से दक्षिण-पूर्व' है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'उत्तर-पश्चिम से दक्षिण-पूर्व' है।",
+      "hint": "Important high-yield topic in Indian Geography (41-60).",
+      "hintHi": "Indian Geography (41-60) से संबंधित महत्वपूर्ण परीक्षा उपयोगी तथ्य।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_indian_geography_q56",
+      "q": "Question 56 on Indian Geography (41-60): भारत का सबसे अधिक वर्षा वाला स्थान?",
+      "questionText": "Question 56 on Indian Geography (41-60): भारत का सबसे अधिक वर्षा वाला स्थान?",
+      "qHi": "भारत का सबसे अधिक वर्षा वाला स्थान?",
+      "questionTextHi": "भारत का सबसे अधिक वर्षा वाला स्थान?",
+      "o": [
+        "शिलांग",
+        "मासिनराम",
+        "चेरापूंजी",
+        "गुवाहाटी"
+      ],
+      "options": [
+        "शिलांग",
+        "मासिनराम",
+        "चेरापूंजी",
+        "गुवाहाटी"
+      ],
+      "oHi": [
+        "शिलांग",
+        "मासिनराम",
+        "चेरापूंजी",
+        "गुवाहाटी"
+      ],
+      "optionsHi": [
+        "शिलांग",
+        "मासिनराम",
+        "चेरापूंजी",
+        "गुवाहाटी"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is मासिनराम.",
+      "explanation": "Correct verified answer is मासिनराम.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'मासिनराम' है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'मासिनराम' है।",
+      "hint": "Important high-yield topic in Indian Geography (41-60).",
+      "hintHi": "Indian Geography (41-60) से संबंधित महत्वपूर्ण परीक्षा उपयोगी तथ्य।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_indian_geography_q57",
+      "q": "Question 57 on Indian Geography (41-60): कावेरी नदी किस राज्य से निकलती है?",
+      "questionText": "Question 57 on Indian Geography (41-60): कावेरी नदी किस राज्य से निकलती है?",
+      "qHi": "कावेरी नदी किस राज्य से निकलती है?",
+      "questionTextHi": "कावेरी नदी किस राज्य से निकलती है?",
+      "o": [
+        "केरल",
+        "तमिलनाडु",
+        "कर्नाटक",
+        "महाराष्ट्र"
+      ],
+      "options": [
+        "केरल",
+        "तमिलनाडु",
+        "कर्नाटक",
+        "महाराष्ट्र"
+      ],
+      "oHi": [
+        "केरल",
+        "तमिलनाडु",
+        "कर्नाटक",
+        "महाराष्ट्र"
+      ],
+      "optionsHi": [
+        "केरल",
+        "तमिलनाडु",
+        "कर्नाटक",
+        "महाराष्ट्र"
+      ],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is कर्नाटक.",
+      "explanation": "Correct verified answer is कर्नाटक.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'कर्नाटक' है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'कर्नाटक' है।",
+      "hint": "Important high-yield topic in Indian Geography (41-60).",
+      "hintHi": "Indian Geography (41-60) से संबंधित महत्वपूर्ण परीक्षा उपयोगी तथ्य।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_indian_geography_q58",
+      "q": "Question 58 on Indian Geography (41-60): भारत का सबसे बड़ा बंदरगाह कौन सा है?",
+      "questionText": "Question 58 on Indian Geography (41-60): भारत का सबसे बड़ा बंदरगाह कौन सा है?",
+      "qHi": "भारत का सबसे बड़ा बंदरगाह कौन सा है?",
+      "questionTextHi": "भारत का सबसे बड़ा बंदरगाह कौन सा है?",
+      "o": [
+        "मुंबई",
+        "कांडला",
+        "विशाखापत्तनम",
+        "कोलकाता"
+      ],
+      "options": [
+        "मुंबई",
+        "कांडला",
+        "विशाखापत्तनम",
+        "कोलकाता"
+      ],
+      "oHi": [
+        "मुंबई",
+        "कांडला",
+        "विशाखापत्तनम",
+        "कोलकाता"
+      ],
+      "optionsHi": [
+        "मुंबई",
+        "कांडला",
+        "विशाखापत्तनम",
+        "कोलकाता"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is मुंबई.",
+      "explanation": "Correct verified answer is मुंबई.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'मुंबई' है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'मुंबई' है।",
+      "hint": "Important high-yield topic in Indian Geography (41-60).",
+      "hintHi": "Indian Geography (41-60) से संबंधित महत्वपूर्ण परीक्षा उपयोगी तथ्य।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_indian_geography_q59",
+      "q": "Question 59 on Indian Geography (41-60): लद्दाख किस प्रकार का क्षेत्र है?",
+      "questionText": "Question 59 on Indian Geography (41-60): लद्दाख किस प्रकार का क्षेत्र है?",
+      "qHi": "लद्दाख किस प्रकार का क्षेत्र है?",
+      "questionTextHi": "लद्दाख किस प्रकार का क्षेत्र है?",
+      "o": [
+        "रेगिस्तान",
+        "ठंडा मरुस्थल",
+        "मैदान",
+        "पठार"
+      ],
+      "options": [
+        "रेगिस्तान",
+        "ठंडा मरुस्थल",
+        "मैदान",
+        "पठार"
+      ],
+      "oHi": [
+        "रेगिस्तान",
+        "ठंडा मरुस्थल",
+        "मैदान",
+        "पठार"
+      ],
+      "optionsHi": [
+        "रेगिस्तान",
+        "ठंडा मरुस्थल",
+        "मैदान",
+        "पठार"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is ठंडा मरुस्थल.",
+      "explanation": "Correct verified answer is ठंडा मरुस्थल.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'ठंडा मरुस्थल' है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'ठंडा मरुस्थल' है।",
+      "hint": "Important high-yield topic in Indian Geography (41-60).",
+      "hintHi": "Indian Geography (41-60) से संबंधित महत्वपूर्ण परीक्षा उपयोगी तथ्य।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_indian_geography_q60",
+      "q": "Question 60 on Indian Geography (41-60): ब्रह्मपुत्र नदी किस देश से भारत में प्रवेश करती है?",
+      "questionText": "Question 60 on Indian Geography (41-60): ब्रह्मपुत्र नदी किस देश से भारत में प्रवेश करती है?",
+      "qHi": "ब्रह्मपुत्र नदी किस देश से भारत में प्रवेश करती है?",
+      "questionTextHi": "ब्रह्मपुत्र नदी किस देश से भारत में प्रवेश करती है?",
+      "o": [
+        "नेपाल",
+        "भूटान",
+        "चीन",
+        "म्यांमार"
+      ],
+      "options": [
+        "नेपाल",
+        "भूटान",
+        "चीन",
+        "म्यांमार"
+      ],
+      "oHi": [
+        "नेपाल",
+        "भूटान",
+        "चीन",
+        "म्यांमार"
+      ],
+      "optionsHi": [
+        "नेपाल",
+        "भूटान",
+        "चीन",
+        "म्यांमार"
+      ],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is चीन.",
+      "explanation": "Correct verified answer is चीन.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'चीन' है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'चीन' है।",
+      "hint": "Important high-yield topic in Indian Geography (41-60).",
+      "hintHi": "Indian Geography (41-60) से संबंधित महत्वपूर्ण परीक्षा उपयोगी तथ्य।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_indian_geography_add_8",
+      "q": "Which river is celebrated as 'Dakshin Ganga' (Ganges of the South) and is the longest peninsular river in India?",
+      "questionText": "Which river is celebrated as 'Dakshin Ganga' (Ganges of the South) and is the longest peninsular river in India?",
+      "qHi": "किस नदी को 'दक्षिण गंगा' या 'वृद्ध गंगा' कहा जाता है तथा जो भारत के प्रायद्वीपीय पठार की सबसे लंबी नदी (1,465 किमी) है?",
+      "questionTextHi": "किस नदी को 'दक्षिण गंगा' या 'वृद्ध गंगा' कहा जाता है तथा जो भारत के प्रायद्वीपीय पठार की सबसे लंबी नदी (1,465 किमी) है?",
+      "o": [
+        "Godavari River",
+        "Krishna River",
+        "Cauvery River",
+        "Mahanadi River"
+      ],
+      "options": [
+        "Godavari River",
+        "Krishna River",
+        "Cauvery River",
+        "Mahanadi River"
+      ],
+      "oHi": [
+        "गोदावरी नदी",
+        "कृष्णा नदी",
+        "कावेरी नदी",
+        "महानदी"
+      ],
+      "optionsHi": [
+        "गोदावरी नदी",
+        "कृष्णा नदी",
+        "कावेरी नदी",
+        "महानदी"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "The Godavari River rises at Trimbakeshwar near Nashik in Maharashtra and flows 1,465 km into the Bay of Bengal, celebrated as the 'Dakshin Ganga' or 'Vridha Ganga'.",
+      "explanation": "The Godavari River rises at Trimbakeshwar near Nashik in Maharashtra and flows 1,465 km into the Bay of Bengal, celebrated as the 'Dakshin Ganga' or 'Vridha Ganga'.",
+      "expHi": "गोदावरी नदी महाराष्ट्र के नासिक जिले के त्र्यंबकेश्वर से निकलकर 1,465 किमी बहती हुई बंगाल की खाड़ी में गिरती है। विशालता और पवित्रता के कारण इसे 'दक्षिण गंगा' या 'वृद्ध गंगा' कहा जाता है।",
+      "explanationHi": "गोदावरी नदी महाराष्ट्र के नासिक जिले के त्र्यंबकेश्वर से निकलकर 1,465 किमी बहती हुई बंगाल की खाड़ी में गिरती है। विशालता और पवित्रता के कारण इसे 'दक्षिण गंगा' या 'वृद्ध गंगा' कहा जाता है।",
+      "hint": "Rises from Trimbakeshwar near Nashik in Maharashtra.",
+      "hintHi": "महाराष्ट्र के नासिक के निकट त्र्यंबकेश्वर से निकलती है।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
     }
-  ]
+  ],
+  "questionCount": 5
 }

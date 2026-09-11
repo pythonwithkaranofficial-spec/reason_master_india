@@ -31,26 +31,473 @@
   ],
   "mcqs": [
     {
+      "id": "gk_world_world_geography_q1",
       "q": "Which is the deepest oceanic trench on Earth, plunging approximately 11,000 meters below sea level in the western Pacific Ocean?",
+      "questionText": "Which is the deepest oceanic trench on Earth, plunging approximately 11,000 meters below sea level in the western Pacific Ocean?",
+      "qHi": "पश्चिमी प्रशांत महासागर में स्थित पृथ्वी का सबसे गहरा महासागरीय गर्त कौन सा है, जिसकी गहराई लगभग 10,994 मीटर है?",
+      "questionTextHi": "पश्चिमी प्रशांत महासागर में स्थित पृथ्वी का सबसे गहरा महासागरीय गर्त कौन सा है, जिसकी गहराई लगभग 10,994 मीटर है?",
       "o": [
         "Mariana Trench (Challenger Deep)",
         "Java Trench",
         "Puerto Rico Trench",
         "Sunda Trench"
       ],
+      "options": [
+        "Mariana Trench (Challenger Deep)",
+        "Java Trench",
+        "Puerto Rico Trench",
+        "Sunda Trench"
+      ],
+      "oHi": [
+        "मारियाना गर्त (चैलेंजर डीप)",
+        "टोंगा गर्त",
+        "प्यूर्टो रिको गर्त",
+        "सुंडा गर्त"
+      ],
+      "optionsHi": [
+        "मारियाना गर्त (चैलेंजर डीप)",
+        "टोंगा गर्त",
+        "प्यूर्टो रिको गर्त",
+        "सुंडा गर्त"
+      ],
       "a": 0,
-      "exp": "Challenger Deep in the Mariana Trench is the deepest known point on Earth."
+      "correctIndex": 0,
+      "exp": "Challenger Deep in the Mariana Trench is the deepest known point on Earth.",
+      "explanation": "Challenger Deep in the Mariana Trench is the deepest known point on Earth.",
+      "expHi": "मारियाना ट्रेंच में स्थित 'चैलेंजर डीप' पृथ्वी का ज्ञात सबसे गहरा बिंदु है, जो लगभग 11 किमी गहरा है।",
+      "explanationHi": "मारियाना ट्रेंच में स्थित 'चैलेंजर डीप' पृथ्वी का ज्ञात सबसे गहरा बिंदु है, जो लगभग 11 किमी गहरा है।",
+      "hint": "Recall standard international treaties, geography, and global organizations for World Geography.",
+      "hintHi": "इसका सबसे गहरा बिंदु 'चैलेंजर डीप' कहलाता है।",
+      "difficulty": "medium",
+      "examTags": [
+        "ssc_cgl",
+        "railway",
+        "defence",
+        "banking_ga"
+      ]
     },
     {
+      "id": "gk_world_world_geography_q2",
       "q": "Which man-made artificial waterway opened in 1914 connects the Atlantic Ocean with the Pacific Ocean across Central America?",
+      "questionText": "Which man-made artificial waterway opened in 1914 connects the Atlantic Ocean with the Pacific Ocean across Central America?",
+      "qHi": "1914 में शुरू की गई कौन सी मानव निर्मित कृत्रिम नहर अटलांटिक महासागर को प्रशांत महासागर से जोड़ती है?",
+      "questionTextHi": "1914 में शुरू की गई कौन सी मानव निर्मित कृत्रिम नहर अटलांटिक महासागर को प्रशांत महासागर से जोड़ती है?",
       "o": [
         "Panama Canal",
         "Suez Canal",
         "Kiel Canal",
         "Erie Canal"
       ],
+      "options": [
+        "Panama Canal",
+        "Suez Canal",
+        "Kiel Canal",
+        "Erie Canal"
+      ],
+      "oHi": [
+        "पनामा नहर",
+        "स्वेज नहर",
+        "कील नहर",
+        "कोरिंथ नहर"
+      ],
+      "optionsHi": [
+        "पनामा नहर",
+        "स्वेज नहर",
+        "कील नहर",
+        "कोरिंथ नहर"
+      ],
       "a": 0,
-      "exp": "The 82-kilometer Panama Canal cuts across the Isthmus of Panama, dramatically shortening oceanic voyage times."
+      "correctIndex": 0,
+      "exp": "The 82-kilometer Panama Canal cuts across the Isthmus of Panama, dramatically shortening oceanic voyage times.",
+      "explanation": "The 82-kilometer Panama Canal cuts across the Isthmus of Panama, dramatically shortening oceanic voyage times.",
+      "expHi": "पनामा नहर मध्य अमेरिका में पनामा के जलडमरूमध्य को काटकर बनाई गई 82 किमी लंबी लॉक्स-आधारित नहर है जो दो महासागरों को जोड़ती है।",
+      "explanationHi": "पनामा नहर मध्य अमेरिका में पनामा के जलडमरूमध्य को काटकर बनाई गई 82 किमी लंबी लॉक्स-आधारित नहर है जो दो महासागरों को जोड़ती है।",
+      "hint": "Recall standard international treaties, geography, and global organizations for World Geography.",
+      "hintHi": "यह मध्य अमेरिका के पनामा देश में स्थित है।",
+      "difficulty": "medium",
+      "examTags": [
+        "ssc_cgl",
+        "railway",
+        "defence",
+        "banking_ga"
+      ]
+    },
+    {
+      "id": "gk_world_world_geography_curated_1",
+      "q": "Which is the smallest sovereign country in the world by both land area (0.49 sq km) and population?",
+      "questionText": "Which is the smallest sovereign country in the world by both land area (0.49 sq km) and population?",
+      "qHi": "क्षेत्रफल (मात्र 0.49 वर्ग किमी) और जनसंख्या दोनों की दृष्टि से विश्व का सबसे छोटा संप्रभु देश कौन सा है?",
+      "questionTextHi": "क्षेत्रफल (मात्र 0.49 वर्ग किमी) और जनसंख्या दोनों की दृष्टि से विश्व का सबसे छोटा संप्रभु देश कौन सा है?",
+      "o": [
+        "Vatican City",
+        "Monaco",
+        "Nauru",
+        "San Marino"
+      ],
+      "options": [
+        "Vatican City",
+        "Monaco",
+        "Nauru",
+        "San Marino"
+      ],
+      "oHi": [
+        "वेटिकन सिटी",
+        "मोनाको",
+        "नाउरू",
+        "सैन मैरिनो"
+      ],
+      "optionsHi": [
+        "वेटिकन सिटी",
+        "मोनाको",
+        "नाउरू",
+        "सैन मैरिनो"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Vatican City, an independent enclave surrounded entirely by Rome, Italy, covers an area of about 49 hectares (0.49 sq km), ruled by the Pope as the Holy See.",
+      "explanation": "Vatican City, an independent enclave surrounded entirely by Rome, Italy, covers an area of about 49 hectares (0.49 sq km), ruled by the Pope as the Holy See.",
+      "expHi": "वेटिकन सिटी इटली की राजधानी रोम से घिरा हुआ एक स्वतंत्र नगर-राज्य है। इसका क्षेत्रफल मात्र 0.49 वर्ग किमी है और यह कैथोलिक चर्च का प्रशासनिक केंद्र है।",
+      "explanationHi": "वेटिकन सिटी इटली की राजधानी रोम से घिरा हुआ एक स्वतंत्र नगर-राज्य है। इसका क्षेत्रफल मात्र 0.49 वर्ग किमी है और यह कैथोलिक चर्च का प्रशासनिक केंद्र है।",
+      "hint": "An enclaved city-state surrounded completely by Rome, Italy.",
+      "hintHi": "इटली की राजधानी रोम के अंदर स्थित संप्रभु नगर-राज्य।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "Banking",
+        "Railways"
+      ]
+    },
+    {
+      "id": "gk_world_world_geography_curated_2",
+      "q": "Which is the deepest freshwater lake in the world, holding approximately 20% of Earth's unfrozen surface freshwater?",
+      "questionText": "Which is the deepest freshwater lake in the world, holding approximately 20% of Earth's unfrozen surface freshwater?",
+      "qHi": "विश्व की सबसे गहरी मीठे पानी की झील कौन सी है, जिसमें पृथ्वी के धरातलीय मीठे पानी का लगभग 20% भाग समाहित है?",
+      "questionTextHi": "विश्व की सबसे गहरी मीठे पानी की झील कौन सी है, जिसमें पृथ्वी के धरातलीय मीठे पानी का लगभग 20% भाग समाहित है?",
+      "o": [
+        "Lake Baikal (Russia)",
+        "Lake Tanganyika",
+        "Lake Superior",
+        "Caspian Sea"
+      ],
+      "options": [
+        "Lake Baikal (Russia)",
+        "Lake Tanganyika",
+        "Lake Superior",
+        "Caspian Sea"
+      ],
+      "oHi": [
+        "बैकाल झील (रूस)",
+        "टांगानिका झील",
+        "सुपीरियर झील",
+        "कैस्पियन सागर"
+      ],
+      "optionsHi": [
+        "बैकाल झील (रूस)",
+        "टांगानिका झील",
+        "सुपीरियर झील",
+        "कैस्पियन सागर"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Lake Baikal in southern Siberia, Russia, has a maximum depth of 1,642 meters (5,387 ft), making it the world's deepest and oldest (25 million years) freshwater lake.",
+      "explanation": "Lake Baikal in southern Siberia, Russia, has a maximum depth of 1,642 meters (5,387 ft), making it the world's deepest and oldest (25 million years) freshwater lake.",
+      "expHi": "रूस के दक्षिणी साइबेरिया में स्थित बैकाल झील 1,642 मीटर की गहराई के साथ विश्व की सबसे गहरी और सबसे प्राचीन मीठे पानी की झील है।",
+      "explanationHi": "रूस के दक्षिणी साइबेरिया में स्थित बैकाल झील 1,642 मीटर की गहराई के साथ विश्व की सबसे गहरी और सबसे प्राचीन मीठे पानी की झील है।",
+      "hint": "Located in Siberia, Russia; reaches a maximum depth of 1,642 meters.",
+      "hintHi": "रूस के साइबेरिया में स्थित 1,642 मीटर गहरी झील।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "Banking",
+        "Railways"
+      ]
+    },
+    {
+      "id": "gk_world_world_geography_curated_3",
+      "q": "Which is the longest river in the world, flowing northward across eastern Africa into the Mediterranean Sea?",
+      "questionText": "Which is the longest river in the world, flowing northward across eastern Africa into the Mediterranean Sea?",
+      "qHi": "अफ्रीका महाद्वीप से उत्तर की ओर भूमध्य सागर में गिरने वाली विश्व की सबसे लंबी नदी कौन सी है?",
+      "questionTextHi": "अफ्रीका महाद्वीप से उत्तर की ओर भूमध्य सागर में गिरने वाली विश्व की सबसे लंबी नदी कौन सी है?",
+      "o": [
+        "Nile River (नील नदी, ~6,650 km)",
+        "Amazon River",
+        "Yangtze River",
+        "Mississippi-Missouri"
+      ],
+      "options": [
+        "Nile River (नील नदी, ~6,650 km)",
+        "Amazon River",
+        "Yangtze River",
+        "Mississippi-Missouri"
+      ],
+      "oHi": [
+        "नील नदी (~6,650 किमी)",
+        "अमेजन नदी",
+        "यांग्त्से नदी",
+        "मिसिसिपी-मिसौरी"
+      ],
+      "optionsHi": [
+        "नील नदी (~6,650 किमी)",
+        "अमेजन नदी",
+        "यांग्त्से नदी",
+        "मिसिसिपी-मिसौरी"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "The River Nile is traditionally recognized as the longest river in the world, stretching approximately 6,650 km (4,132 miles) through 11 African nations, historic lifeblood of Egypt.",
+      "explanation": "The River Nile is traditionally recognized as the longest river in the world, stretching approximately 6,650 km (4,132 miles) through 11 African nations, historic lifeblood of Egypt.",
+      "expHi": "नील नदी लगभग 6,650 किमी की लंबाई के साथ विश्व की सबसे लंबी नदी मानी जाती है। इसका उद्गम विक्टोरिया झील क्षेत्र से होता है और यह मिस्र की जीवनरेखा कहलाती है।",
+      "explanationHi": "नील नदी लगभग 6,650 किमी की लंबाई के साथ विश्व की सबसे लंबी नदी मानी जाती है। इसका उद्गम विक्टोरिया झील क्षेत्र से होता है और यह मिस्र की जीवनरेखा कहलाती है।",
+      "hint": "Known historically as the lifeline and gift of Egypt.",
+      "hintHi": "मिस्र की जीवनरेखा कहलाने वाली नदी।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "Banking",
+        "Railways"
+      ]
+    },
+    {
+      "id": "gk_world_world_geography_curated_4",
+      "q": "Which country is internationally renowned as the 'Land of Thousand Lakes' with over 187,000 lakes?",
+      "questionText": "Which country is internationally renowned as the 'Land of Thousand Lakes' with over 187,000 lakes?",
+      "qHi": "1,87,000 से अधिक झीलों के कारण विश्व के किस नॉर्डिक देश को 'हजारों झीलों की भूमि' (Land of Thousand Lakes) कहा जाता है?",
+      "questionTextHi": "1,87,000 से अधिक झीलों के कारण विश्व के किस नॉर्डिक देश को 'हजारों झीलों की भूमि' (Land of Thousand Lakes) कहा जाता है?",
+      "o": [
+        "Finland",
+        "Norway",
+        "Sweden",
+        "Iceland"
+      ],
+      "options": [
+        "Finland",
+        "Norway",
+        "Sweden",
+        "Iceland"
+      ],
+      "oHi": [
+        "फिनलैंड",
+        "नॉर्वे",
+        "स्वीडन",
+        "आइसलैंड"
+      ],
+      "optionsHi": [
+        "फिनलैंड",
+        "नॉर्वे",
+        "स्वीडन",
+        "आइसलैंड"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Finland contains approximately 187,888 lakes, earning it the global moniker 'The Land of a Thousand Lakes' (Suomi).",
+      "explanation": "Finland contains approximately 187,888 lakes, earning it the global moniker 'The Land of a Thousand Lakes' (Suomi).",
+      "expHi": "फिनलैंड में लगभग 1,87,888 झीलें स्थित हैं, जिसके कारण इसे दुनिया भर में 'हजारों झीलों का देश' कहा जाता है। इसकी राजधानी हेलसिंकी है।",
+      "explanationHi": "फिनलैंड में लगभग 1,87,888 झीलें स्थित हैं, जिसके कारण इसे दुनिया भर में 'हजारों झीलों का देश' कहा जाता है। इसकी राजधानी हेलसिंकी है।",
+      "hint": "A Nordic country whose capital is Helsinki.",
+      "hintHi": "हेलसिंकी राजधानी वाला नॉर्डिक देश।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "Banking",
+        "Railways"
+      ]
+    },
+    {
+      "id": "gk_world_world_geography_quiz_10",
+      "q": "Which is the highest uninterrupted waterfall in the world, plunging 979 meters (3,212 feet)?",
+      "questionText": "Which is the highest uninterrupted waterfall in the world, plunging 979 meters (3,212 feet)?",
+      "qHi": "विश्व का सबसे ऊँचा अविरल जलप्रपात कौन सा है, जिसकी कुल ऊँचाई 979 मीटर (3,212 फीट) है?",
+      "questionTextHi": "विश्व का सबसे ऊँचा अविरल जलप्रपात कौन सा है, जिसकी कुल ऊँचाई 979 मीटर (3,212 फीट) है?",
+      "o": [
+        "Angel Falls (Venezuela)",
+        "Niagara Falls",
+        "Victoria Falls",
+        "Iguazu Falls"
+      ],
+      "options": [
+        "Angel Falls (Venezuela)",
+        "Niagara Falls",
+        "Victoria Falls",
+        "Iguazu Falls"
+      ],
+      "oHi": [
+        "एंजेल जलप्रपात (वेनेजुएला)",
+        "नियाग्रा जलप्रपात",
+        "विक्टोरिया जलप्रपात",
+        "इगुआजू जलप्रपात"
+      ],
+      "optionsHi": [
+        "एंजेल जलप्रपात (वेनेजुएला)",
+        "नियाग्रा जलप्रपात",
+        "विक्टोरिया जलप्रपात",
+        "इगुआजू जलप्रपात"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Angel Falls (Salto Ángel) in the Canaima National Park, Venezuela, drops 979 meters from the Auyán-tepui mountain, making it the highest waterfall on Earth.",
+      "explanation": "Angel Falls (Salto Ángel) in the Canaima National Park, Venezuela, drops 979 meters from the Auyán-tepui mountain, making it the highest waterfall on Earth.",
+      "expHi": "वेनेजुएला के कानाइमा नेशनल पार्क में औयान-टेपुई पर्वत से गिरने वाला एंजेल जलप्रपात (979 मीटर) विश्व का सबसे ऊँचा जलप्रपात है।",
+      "explanationHi": "वेनेजुएला के कानाइमा नेशनल पार्क में औयान-टेपुई पर्वत से गिरने वाला एंजेल जलप्रपात (979 मीटर) विश्व का सबसे ऊँचा जलप्रपात है।",
+      "hint": "Located in Canaima National Park, Venezuela; named after aviator Jimmie Angel.",
+      "hintHi": "वेनेजुएला के कानाइमा नेशनल पार्क में स्थित।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "Banking",
+        "Railways"
+      ]
+    },
+    {
+      "id": "gk_world_world_geography_quiz_11",
+      "q": "Which artificial waterway opened in 1869 connects the Mediterranean Sea to the Red Sea, eliminating the route around Africa?",
+      "questionText": "Which artificial waterway opened in 1869 connects the Mediterranean Sea to the Red Sea, eliminating the route around Africa?",
+      "qHi": "1869 में खोला गया कौन सा कृत्रिम जलमार्ग भूमध्य सागर को लाल सागर से जोड़ता है?",
+      "questionTextHi": "1869 में खोला गया कौन सा कृत्रिम जलमार्ग भूमध्य सागर को लाल सागर से जोड़ता है?",
+      "o": [
+        "Suez Canal (Egypt)",
+        "Panama Canal",
+        "Kiel Canal",
+        "Corinth Canal"
+      ],
+      "options": [
+        "Suez Canal (Egypt)",
+        "Panama Canal",
+        "Kiel Canal",
+        "Corinth Canal"
+      ],
+      "oHi": [
+        "स्वेज नहर (मिस्र)",
+        "पनामा नहर",
+        "कील नहर",
+        "कोरिंथ नहर"
+      ],
+      "optionsHi": [
+        "स्वेज नहर (मिस्र)",
+        "पनामा नहर",
+        "कील नहर",
+        "कोरिंथ नहर"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "The Suez Canal in Egypt, engineered by Ferdinand de Lesseps and opened on 17 November 1869, creates a direct maritime route between the North Atlantic and northern Indian oceans via the Mediterranean and Red seas.",
+      "explanation": "The Suez Canal in Egypt, engineered by Ferdinand de Lesseps and opened on 17 November 1869, creates a direct maritime route between the North Atlantic and northern Indian oceans via the Mediterranean and Red seas.",
+      "expHi": "मिस्र में स्थित 193.3 किमी लंबी स्वेज नहर 17 नवंबर 1869 को खोली गई थी। यह भूमध्य सागर और लाल सागर को जोड़कर यूरोप और एशिया के बीच की समुद्री दूरी को हजारों मील कम करती है।",
+      "explanationHi": "मिस्र में स्थित 193.3 किमी लंबी स्वेज नहर 17 नवंबर 1869 को खोली गई थी। यह भूमध्य सागर और लाल सागर को जोड़कर यूरोप और एशिया के बीच की समुद्री दूरी को हजारों मील कम करती है।",
+      "hint": "Engineered by Ferdinand de Lesseps in Egypt, opened in 1869.",
+      "hintHi": "1869 में मिस्र में शुरू हुई विश्व प्रसिद्ध नहर।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "Banking",
+        "Railways"
+      ]
+    },
+    {
+      "id": "gk_world_world_geography_quiz_12",
+      "q": "Which is the largest island in the world that is not a continent?",
+      "questionText": "Which is the largest island in the world that is not a continent?",
+      "qHi": "महाद्वीपों को छोड़कर विश्व का सबसे बड़ा द्वीप कौन सा है?",
+      "questionTextHi": "महाद्वीपों को छोड़कर विश्व का सबसे बड़ा द्वीप कौन सा है?",
+      "o": [
+        "Greenland (ग्रनलैंड)",
+        "New Guinea",
+        "Borneo",
+        "Madagascar"
+      ],
+      "options": [
+        "Greenland (ग्रनलैंड)",
+        "New Guinea",
+        "Borneo",
+        "Madagascar"
+      ],
+      "oHi": [
+        "ग्रीनलैंड",
+        "न्यू गिनी",
+        "बोर्नियो",
+        "मेडागास्कर"
+      ],
+      "optionsHi": [
+        "ग्रीनलैंड",
+        "न्यू गिनी",
+        "बोर्नियो",
+        "मेडागास्कर"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Greenland covers 2,166,086 sq km, making it the world's largest non-continental island, politically an autonomous territory within the Kingdom of Denmark.",
+      "explanation": "Greenland covers 2,166,086 sq km, making it the world's largest non-continental island, politically an autonomous territory within the Kingdom of Denmark.",
+      "expHi": "ग्रीनलैंड लगभग 21.6 लाख वर्ग किमी क्षेत्रफल के साथ विश्व का सबसे बड़ा द्वीप है। यह भौगोलिक रूप से उत्तरी अमेरिका और राजनीतिक रूप से डेनमार्क का भाग है।",
+      "explanationHi": "ग्रीनलैंड लगभग 21.6 लाख वर्ग किमी क्षेत्रफल के साथ विश्व का सबसे बड़ा द्वीप है। यह भौगोलिक रूप से उत्तरी अमेरिका और राजनीतिक रूप से डेनमार्क का भाग है।",
+      "hint": "An autonomous territory within the Kingdom of Denmark.",
+      "hintHi": "डेनमार्क के अधीन स्वायत्त क्षेत्र।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "Banking",
+        "Railways"
+      ]
+    },
+    {
+      "id": "gk_world_world_geography_quiz_13",
+      "q": "Which is the longest continental mountain range in the world, stretching approximately 7,000 km along western South America?",
+      "questionText": "Which is the longest continental mountain range in the world, stretching approximately 7,000 km along western South America?",
+      "qHi": "दक्षिण अमेरिका के पश्चिमी तट के समानांतर लगभग 7,000 किमी लंबी विश्व की सबसे लंबी पर्वत श्रृंखला कौन सी है?",
+      "questionTextHi": "दक्षिण अमेरिका के पश्चिमी तट के समानांतर लगभग 7,000 किमी लंबी विश्व की सबसे लंबी पर्वत श्रृंखला कौन सी है?",
+      "o": [
+        "Andes Mountains",
+        "Rocky Mountains",
+        "Himalayas",
+        "Alps"
+      ],
+      "options": [
+        "Andes Mountains",
+        "Rocky Mountains",
+        "Himalayas",
+        "Alps"
+      ],
+      "oHi": [
+        "एंडीज पर्वतमाला",
+        "रॉकी पर्वतमाला",
+        "हिमालय",
+        "आल्प्स"
+      ],
+      "optionsHi": [
+        "एंडीज पर्वतमाला",
+        "रॉकी पर्वतमाला",
+        "हिमालय",
+        "आल्प्स"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "The Andes mountain range extends over 7,000 km (4,350 miles) through 7 South American countries (Venezuela, Colombia, Ecuador, Peru, Bolivia, Chile, Argentina). Highest peak is Aconcagua (6,961 m).",
+      "explanation": "The Andes mountain range extends over 7,000 km (4,350 miles) through 7 South American countries (Venezuela, Colombia, Ecuador, Peru, Bolivia, Chile, Argentina). Highest peak is Aconcagua (6,961 m).",
+      "expHi": "एंडीज पर्वतमाला दक्षिण अमेरिका के 7 देशों में 7,000 किमी लंबाई में फैली विश्व की सबसे लंबी पर्वत श्रृंखला है। इसकी सर्वोच्च चोटी एकांकागुआ (6,961 मीटर) है।",
+      "explanationHi": "एंडीज पर्वतमाला दक्षिण अमेरिका के 7 देशों में 7,000 किमी लंबाई में फैली विश्व की सबसे लंबी पर्वत श्रृंखला है। इसकी सर्वोच्च चोटी एकांकागुआ (6,961 मीटर) है।",
+      "hint": "Passes through 7 South American nations; Mount Aconcagua is its highest peak.",
+      "hintHi": "दक्षिण अमेरिका के 7 देशों से गुजरने वाली पर्वतमाला; सर्वोच्च चोटी एकांकागुआ।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "Banking",
+        "Railways"
+      ]
     }
-  ]
+  ],
+  "questionCount": 2
 }

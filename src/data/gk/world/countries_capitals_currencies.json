@@ -32,26 +32,332 @@
   ],
   "mcqs": [
     {
+      "id": "gk_world_countries_capitals_currencies_q1",
       "q": "What is the official capital city of Australia?",
+      "questionText": "What is the official capital city of Australia?",
+      "qHi": "ऑस्ट्रेलिया की आधिकारिक संघीय राजधानी कौन सी है?",
+      "questionTextHi": "ऑस्ट्रेलिया की आधिकारिक संघीय राजधानी कौन सी है?",
       "o": [
         "Canberra",
         "Sydney",
         "Melbourne",
         "Brisbane"
       ],
+      "options": [
+        "Canberra",
+        "Sydney",
+        "Melbourne",
+        "Brisbane"
+      ],
+      "oHi": [
+        "कैनबरा",
+        "सिडनी",
+        "मेलबर्न",
+        "ब्रिसबेन"
+      ],
+      "optionsHi": [
+        "कैनबरा",
+        "सिडनी",
+        "मेलबर्न",
+        "ब्रिसबेन"
+      ],
       "a": 0,
-      "exp": "Canberra was selected as the purpose-built federal capital in 1908 as a compromise between rival cities Sydney and Melbourne."
+      "correctIndex": 0,
+      "exp": "Canberra was selected as the purpose-built federal capital in 1908 as a compromise between rival cities Sydney and Melbourne.",
+      "explanation": "Canberra was selected as the purpose-built federal capital in 1908 as a compromise between rival cities Sydney and Melbourne.",
+      "expHi": "सिडनी और मेलबर्न के बीच प्रतिद्वंद्विता को सुलझाने के लिए 1913 में कैनबरा को ऑस्ट्रेलिया की राजधानी के रूप में नियोजित और स्थापित किया गया था।",
+      "explanationHi": "सिडनी और मेलबर्न के बीच प्रतिद्वंद्विता को सुलझाने के लिए 1913 में कैनबरा को ऑस्ट्रेलिया की राजधानी के रूप में नियोजित और स्थापित किया गया था।",
+      "hint": "Recall standard international treaties, geography, and global organizations for Countries, Capitals & Currencies.",
+      "hintHi": "यह सिडनी या मेलबर्न नहीं है, बल्कि एक योजनाबद्ध संघीय राजधानी है।",
+      "difficulty": "medium",
+      "examTags": [
+        "ssc_cgl",
+        "railway",
+        "defence",
+        "banking_ga"
+      ]
     },
     {
+      "id": "gk_world_countries_capitals_currencies_q2",
       "q": "What is the official national currency of South Korea?",
+      "questionText": "What is the official national currency of South Korea?",
+      "qHi": "दक्षिण कोरिया (कोरिया गणराज्य) की आधिकारिक राष्ट्रीय मुद्रा कौन सी है?",
+      "questionTextHi": "दक्षिण कोरिया (कोरिया गणराज्य) की आधिकारिक राष्ट्रीय मुद्रा कौन सी है?",
       "o": [
         "South Korean Won (KRW)",
         "Yen",
         "Yuan",
         "Ringgit"
       ],
+      "options": [
+        "South Korean Won (KRW)",
+        "Yen",
+        "Yuan",
+        "Ringgit"
+      ],
+      "oHi": [
+        "दक्षिण कोरियाई वॉन (KRW)",
+        "जापानी येन (JPY)",
+        "चीनी युआन (CNY)",
+        "रिंगित (MYR)"
+      ],
+      "optionsHi": [
+        "दक्षिण कोरियाई वॉन (KRW)",
+        "जापानी येन (JPY)",
+        "चीनी युआन (CNY)",
+        "रिंगित (MYR)"
+      ],
       "a": 0,
-      "exp": "The Won (symbol: ₩) is the currency of South Korea, issued by the Bank of Korea."
+      "correctIndex": 0,
+      "exp": "The Won (symbol: ₩) is the currency of South Korea, issued by the Bank of Korea.",
+      "explanation": "The Won (symbol: ₩) is the currency of South Korea, issued by the Bank of Korea.",
+      "expHi": "दक्षिण कोरिया की राष्ट्रीय मुद्रा 'वॉन' (प्रतीक: ₩) है, जो बैंक ऑफ कोरिया द्वारा जारी की जाती है।",
+      "explanationHi": "दक्षिण कोरिया की राष्ट्रीय मुद्रा 'वॉन' (प्रतीक: ₩) है, जो बैंक ऑफ कोरिया द्वारा जारी की जाती है।",
+      "hint": "Recall standard international treaties, geography, and global organizations for Countries, Capitals & Currencies.",
+      "hintHi": "इस मुद्रा का अंतरराष्ट्रीय कोड KRW और प्रतीक ₩ है।",
+      "difficulty": "medium",
+      "examTags": [
+        "ssc_cgl",
+        "railway",
+        "defence",
+        "banking_ga"
+      ]
+    },
+    {
+      "id": "gk_world_countries_capitals_currencies_quiz_1",
+      "q": "What is the official federal capital city of Australia?",
+      "questionText": "What is the official federal capital city of Australia?",
+      "qHi": "ऑस्ट्रेलिया की आधिकारिक संघीय राजधानी कौन सा शहर है?",
+      "questionTextHi": "ऑस्ट्रेलिया की आधिकारिक संघीय राजधानी कौन सा शहर है?",
+      "o": [
+        "Canberra",
+        "Sydney",
+        "Melbourne",
+        "Brisbane"
+      ],
+      "options": [
+        "Canberra",
+        "Sydney",
+        "Melbourne",
+        "Brisbane"
+      ],
+      "oHi": [
+        "कैनबरा",
+        "सिडनी",
+        "मेलबर्न",
+        "ब्रिसबेन"
+      ],
+      "optionsHi": [
+        "कैनबरा",
+        "सिडनी",
+        "मेलबर्न",
+        "ब्रिसबेन"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Canberra was founded in 1913 as the purpose-built compromise capital between rival cities Sydney and Melbourne.",
+      "explanation": "Canberra was founded in 1913 as the purpose-built compromise capital between rival cities Sydney and Melbourne.",
+      "expHi": "सिडनी और मेलबर्न के बीच प्रतिद्वंद्विता को समाप्त करने के लिए 1913 में दोनों के बीच कैनबरा को योजनाबद्ध राजधानी बनाया गया था।",
+      "explanationHi": "सिडनी और मेलबर्न के बीच प्रतिद्वंद्विता को समाप्त करने के लिए 1913 में दोनों के बीच कैनबरा को योजनाबद्ध राजधानी बनाया गया था।",
+      "hint": "A purpose-built federal capital city founded in 1913.",
+      "hintHi": "सिडनी या मेलबर्न नहीं, बल्कि 1913 में स्थापित एक योजनाबद्ध नगर।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "Banking",
+        "Railways"
+      ]
+    },
+    {
+      "id": "gk_world_countries_capitals_currencies_quiz_2",
+      "q": "What is the capital city of Canada, situated on the south bank of the Ottawa River?",
+      "questionText": "What is the capital city of Canada, situated on the south bank of the Ottawa River?",
+      "qHi": "ओटावा नदी के दक्षिणी तट पर स्थित कनाडा की राजधानी कौन सा शहर है?",
+      "questionTextHi": "ओटावा नदी के दक्षिणी तट पर स्थित कनाडा की राजधानी कौन सा शहर है?",
+      "o": [
+        "Ottawa",
+        "Toronto",
+        "Vancouver",
+        "Montreal"
+      ],
+      "options": [
+        "Ottawa",
+        "Toronto",
+        "Vancouver",
+        "Montreal"
+      ],
+      "oHi": [
+        "ओटावा",
+        "टोरंटो",
+        "वैंकूवर",
+        "मॉन्ट्रियल"
+      ],
+      "optionsHi": [
+        "ओटावा",
+        "टोरंटो",
+        "वैंकूवर",
+        "मॉन्ट्रियल"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Queen Victoria chose Ottawa as Canada's permanent capital in 1857 because of its defensible location between French and English speaking provinces.",
+      "explanation": "Queen Victoria chose Ottawa as Canada's permanent capital in 1857 because of its defensible location between French and English speaking provinces.",
+      "expHi": "1857 में महारानी विक्टोरिया ने ओटावा को कनाडा की स्थायी राजधानी चुना था क्योंकि यह अंग्रेजी और फ्रेंच भाषी क्षेत्रों के मध्य स्थित सुरक्षित नगर था।",
+      "explanationHi": "1857 में महारानी विक्टोरिया ने ओटावा को कनाडा की स्थायी राजधानी चुना था क्योंकि यह अंग्रेजी और फ्रेंच भाषी क्षेत्रों के मध्य स्थित सुरक्षित नगर था।",
+      "hint": "Chosen as capital in 1857 by Queen Victoria.",
+      "hintHi": "1857 में महारानी विक्टोरिया द्वारा चुनी गई राजधानी।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "Banking",
+        "Railways"
+      ]
+    },
+    {
+      "id": "gk_world_countries_capitals_currencies_quiz_3",
+      "q": "What is the name of the national Parliament of Japan?",
+      "questionText": "What is the name of the national Parliament of Japan?",
+      "qHi": "जापान की राष्ट्रीय संसद (व्यवस्थापिका) को क्या कहा जाता है?",
+      "questionTextHi": "जापान की राष्ट्रीय संसद (व्यवस्थापिका) को क्या कहा जाता है?",
+      "o": [
+        "National Diet (डाइट)",
+        "Knesset",
+        "Duma",
+        "Congress"
+      ],
+      "options": [
+        "National Diet (डाइट)",
+        "Knesset",
+        "Duma",
+        "Congress"
+      ],
+      "oHi": [
+        "डाइट (National Diet)",
+        "नेसेट",
+        "ड्यूमा",
+        "कांग्रेस"
+      ],
+      "optionsHi": [
+        "डाइट (National Diet)",
+        "नेसेट",
+        "ड्यूमा",
+        "कांग्रेस"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "The National Diet (Kokkai) is Japan's bicameral legislature, composed of the House of Representatives and the House of Councillors.",
+      "explanation": "The National Diet (Kokkai) is Japan's bicameral legislature, composed of the House of Representatives and the House of Councillors.",
+      "expHi": "जापान की द्विसदनीय संसद को 'डाइट' (Diet / Kokkai) कहा जाता है। इसमें प्रतिनिधि सभा और पार्षद सभा शामिल हैं।",
+      "explanationHi": "जापान की द्विसदनीय संसद को 'डाइट' (Diet / Kokkai) कहा जाता है। इसमें प्रतिनिधि सभा और पार्षद सभा शामिल हैं।",
+      "hint": "Bicameral legislature known in Japanese as Kokkai.",
+      "hintHi": "जापानी भाषा में इसे 'कोक्काई' कहा जाता है।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "Banking",
+        "Railways"
+      ]
+    },
+    {
+      "id": "gk_world_countries_capitals_currencies_quiz_4",
+      "q": "What is the official currency of Russia?",
+      "questionText": "What is the official currency of Russia?",
+      "qHi": "रूस (रूसी संघ) की आधिकारिक मुद्रा कौन सी है?",
+      "questionTextHi": "रूस (रूसी संघ) की आधिकारिक मुद्रा कौन सी है?",
+      "o": [
+        "Russian Ruble (रूबल)",
+        "Euro",
+        "Yen",
+        "Dinar"
+      ],
+      "options": [
+        "Russian Ruble (रूबल)",
+        "Euro",
+        "Yen",
+        "Dinar"
+      ],
+      "oHi": [
+        "रूसी रूबल (Ruble)",
+        "यूरो",
+        "येन",
+        "दीनार"
+      ],
+      "optionsHi": [
+        "रूसी रूबल (Ruble)",
+        "यूरो",
+        "येन",
+        "दीनार"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "The Russian Ruble (RUB) is the currency of the Russian Federation and the historic monetary unit used across centuries in Russia.",
+      "explanation": "The Russian Ruble (RUB) is the currency of the Russian Federation and the historic monetary unit used across centuries in Russia.",
+      "expHi": "रूसी रूबल (RUB) रूसी संघ की आधिकारिक राष्ट्रीय मुद्रा है।",
+      "explanationHi": "रूसी रूबल (RUB) रूसी संघ की आधिकारिक राष्ट्रीय मुद्रा है।",
+      "hint": "Divided into 100 kopecks.",
+      "hintHi": "यह 100 कोपेक में विभाजित होती है।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "Banking",
+        "Railways"
+      ]
+    },
+    {
+      "id": "gk_world_countries_capitals_currencies_quiz_5",
+      "q": "What is the capital city of Brazil, famous for its airplane-shaped modernist masterplan designed by Oscar Niemeyer and Lúcio Costa?",
+      "questionText": "What is the capital city of Brazil, famous for its airplane-shaped modernist masterplan designed by Oscar Niemeyer and Lúcio Costa?",
+      "qHi": "ऑस्कर नीमेयर द्वारा हवाई जहाज के आकार में डिजाइन की गई ब्राजील की योजनाबद्ध राजधानी कौन सी है?",
+      "questionTextHi": "ऑस्कर नीमेयर द्वारा हवाई जहाज के आकार में डिजाइन की गई ब्राजील की योजनाबद्ध राजधानी कौन सी है?",
+      "o": [
+        "Brasília",
+        "Rio de Janeiro",
+        "São Paulo",
+        "Salvador"
+      ],
+      "options": [
+        "Brasília",
+        "Rio de Janeiro",
+        "São Paulo",
+        "Salvador"
+      ],
+      "oHi": [
+        "ब्रासीलिया (Brasília)",
+        "रियो डी जनेरियो",
+        "साओ पाउलो",
+        "साल्वाडोर"
+      ],
+      "optionsHi": [
+        "ब्रासीलिया (Brasília)",
+        "रियो डी जनेरियो",
+        "साओ पाउलो",
+        "साल्वाडोर"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Brasília was inaugurated as Brazil's planned federal capital on 21 April 1960, moving the seat of government inland from Rio de Janeiro.",
+      "explanation": "Brasília was inaugurated as Brazil's planned federal capital on 21 April 1960, moving the seat of government inland from Rio de Janeiro.",
+      "expHi": "21 अप्रैल 1960 को रियो डी जनेरियो के स्थान पर ब्रासीलिया को ब्राजील की नई और योजनाबद्ध संघीय राजधानी बनाया गया था।",
+      "explanationHi": "21 अप्रैल 1960 को रियो डी जनेरियो के स्थान पर ब्रासीलिया को ब्राजील की नई और योजनाबद्ध संघीय राजधानी बनाया गया था।",
+      "hint": "Replaced Rio de Janeiro as capital in 1960.",
+      "hintHi": "1960 में रियो डी जनेरियो की जगह राजधानी बनी।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "Banking",
+        "Railways"
+      ]
     }
-  ]
+  ],
+  "questionCount": 2
 }

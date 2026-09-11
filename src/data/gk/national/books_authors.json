@@ -31,26 +31,1157 @@
   ],
   "mcqs": [
     {
+      "id": "gk_nat_books_authors_q1",
       "q": "Who authored the famous novel 'Anandamath', which contains India's national song 'Vande Mataram'?",
+      "questionText": "Who authored the famous novel 'Anandamath', which contains India's national song 'Vande Mataram'?",
+      "qHi": "भारत के राष्ट्रीय गीत 'वंदे मातरम्' से युक्त प्रसिद्ध ऐतिहासिक उपन्यास 'आनंदमठ' के रचयिता कौन हैं?",
+      "questionTextHi": "भारत के राष्ट्रीय गीत 'वंदे मातरम्' से युक्त प्रसिद्ध ऐतिहासिक उपन्यास 'आनंदमठ' के रचयिता कौन हैं?",
       "o": [
         "Bankim Chandra Chattopadhyay",
         "Rabindranath Tagore",
         "Sarat Chandra Chattopadhyay",
         "Michael Madhusudan Dutt"
       ],
+      "options": [
+        "Bankim Chandra Chattopadhyay",
+        "Rabindranath Tagore",
+        "Sarat Chandra Chattopadhyay",
+        "Michael Madhusudan Dutt"
+      ],
+      "oHi": [
+        "बंकिम चंद्र चट्टोपाध्याय",
+        "रवींद्रनाथ टैगोर",
+        "शरतचंद्र चट्टोपाध्याय",
+        "स्वामी विवेकानंद"
+      ],
+      "optionsHi": [
+        "बंकिम चंद्र चट्टोपाध्याय",
+        "रवींद्रनाथ टैगोर",
+        "शरतचंद्र चट्टोपाध्याय",
+        "स्वामी विवेकानंद"
+      ],
       "a": 0,
-      "exp": "Bankim Chandra Chattopadhyay published Anandamath in 1882 based on the Sannyasi Rebellion."
+      "correctIndex": 0,
+      "exp": "Bankim Chandra Chattopadhyay published Anandamath in 1882 based on the Sannyasi Rebellion.",
+      "explanation": "Bankim Chandra Chattopadhyay published Anandamath in 1882 based on the Sannyasi Rebellion.",
+      "expHi": "बंकिम चंद्र चट्टोपाध्याय द्वारा 1882 में रचित आनंदमठ संन्यासी विद्रोह की पृष्ठभूमि पर आधारित है, जिसमें राष्ट्रीय गीत 'वंदे मातरम्' सम्मिलित है।",
+      "explanationHi": "बंकिम चंद्र चट्टोपाध्याय द्वारा 1882 में रचित आनंदमठ संन्यासी विद्रोह की पृष्ठभूमि पर आधारित है, जिसमें राष्ट्रीय गीत 'वंदे मातरम्' सम्मिलित है।",
+      "hint": "Consider the established historical and constitutional facts of Books & Authors.",
+      "hintHi": "उन्होंने 1882 में संन्यासी विद्रोह की पृष्ठभूमि पर यह उपन्यास लिखा था।",
+      "difficulty": "medium",
+      "examTags": [
+        "ssc_cgl",
+        "upsc_csat",
+        "railway",
+        "banking_ga"
+      ]
     },
     {
+      "id": "gk_nat_books_authors_q2",
       "q": "Who wrote 'The Discovery of India' while imprisoned by the British at Ahmednagar Fort between 1942 and 1946?",
+      "questionText": "Who wrote 'The Discovery of India' while imprisoned by the British at Ahmednagar Fort between 1942 and 1946?",
+      "qHi": "1942-1945 के दौरान अहमदनगर किला जेल में कैद रहते हुए 'द डिस्कवरी ऑफ इंडिया' (भारत की खोज) पुस्तक किसने लिखी थी?",
+      "questionTextHi": "1942-1945 के दौरान अहमदनगर किला जेल में कैद रहते हुए 'द डिस्कवरी ऑफ इंडिया' (भारत की खोज) पुस्तक किसने लिखी थी?",
       "o": [
         "Jawaharlal Nehru",
         "Mahatma Gandhi",
         "Subhas Chandra Bose",
         "Dr. B. R. Ambedkar"
       ],
+      "options": [
+        "Jawaharlal Nehru",
+        "Mahatma Gandhi",
+        "Subhas Chandra Bose",
+        "Dr. B. R. Ambedkar"
+      ],
+      "oHi": [
+        "जवाहरलाल नेहरू",
+        "महात्मा गांधी",
+        "सुभाष चंद्र बोस",
+        "मौलाना अबुल कलाम आजाद"
+      ],
+      "optionsHi": [
+        "जवाहरलाल नेहरू",
+        "महात्मा गांधी",
+        "सुभाष चंद्र बोस",
+        "मौलाना अबुल कलाम आजाद"
+      ],
       "a": 0,
-      "exp": "Jawaharlal Nehru wrote the classic text surveying Indian culture, philosophy, and history during his detention."
+      "correctIndex": 0,
+      "exp": "Jawaharlal Nehru wrote the classic text surveying Indian culture, philosophy, and history during his detention.",
+      "explanation": "Jawaharlal Nehru wrote the classic text surveying Indian culture, philosophy, and history during his detention.",
+      "expHi": "भारत के प्रथम प्रधानमंत्री पंडित जवाहरलाल नेहरू ने भारत छोड़ो आंदोलन के दौरान अहमदनगर किले में कैद रहते हुए भारतीय इतिहास और दर्शन पर यह कालजयी पुस्तक लिखी थी।",
+      "explanationHi": "भारत के प्रथम प्रधानमंत्री पंडित जवाहरलाल नेहरू ने भारत छोड़ो आंदोलन के दौरान अहमदनगर किले में कैद रहते हुए भारतीय इतिहास और दर्शन पर यह कालजयी पुस्तक लिखी थी।",
+      "hint": "Consider the established historical and constitutional facts of Books & Authors.",
+      "hintHi": "वे स्वतंत्र भारत के प्रथम प्रधानमंत्री थे।",
+      "difficulty": "medium",
+      "examTags": [
+        "ssc_cgl",
+        "upsc_csat",
+        "railway",
+        "banking_ga"
+      ]
+    },
+    {
+      "id": "gk_nat_book_001",
+      "q": "Who is the author of the celebrated classic 'Ramayana'?",
+      "questionText": "Who is the author of the celebrated classic 'Ramayana'?",
+      "qHi": "प्रसिद्ध कृति 'Ramayana' के लेखक / रचयिता कौन हैं?",
+      "questionTextHi": "प्रसिद्ध कृति 'Ramayana' के लेखक / रचयिता कौन हैं?",
+      "o": [
+        "Ved Vyasa",
+        "Maharishi Valmiki",
+        "Kalidasa",
+        "Tulsidas"
+      ],
+      "options": [
+        "Ved Vyasa",
+        "Maharishi Valmiki",
+        "Kalidasa",
+        "Tulsidas"
+      ],
+      "oHi": [
+        "वेद व्यास",
+        "महर्षि वाल्मीकि",
+        "कालिदास",
+        "तुलसीदास"
+      ],
+      "optionsHi": [
+        "वेद व्यास",
+        "महर्षि वाल्मीकि",
+        "कालिदास",
+        "तुलसीदास"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "'Ramayana' was authored by Maharishi Valmiki, an enduring landmark in Indian literature.",
+      "explanation": "'Ramayana' was authored by Maharishi Valmiki, an enduring landmark in Indian literature.",
+      "expHi": "'Ramayana' के रचयिता महर्षि वाल्मीकि हैं, जो भारतीय साहित्य की एक अमर कृति है।",
+      "explanationHi": "'Ramayana' के रचयिता महर्षि वाल्मीकि हैं, जो भारतीय साहित्य की एक अमर कृति है।",
+      "hint": "Written by Maharishi Valmiki.",
+      "hintHi": "इसकी रचना महर्षि वाल्मीकि द्वारा की गई थी।",
+      "difficulty": "easy",
+      "examTags": [
+        "ssc_cgl",
+        "upsc_prelims",
+        "state_psc",
+        "cds"
+      ]
+    },
+    {
+      "id": "gk_nat_book_002",
+      "q": "Who is the author of the celebrated classic 'Mahabharata'?",
+      "questionText": "Who is the author of the celebrated classic 'Mahabharata'?",
+      "qHi": "प्रसिद्ध कृति 'Mahabharata' के लेखक / रचयिता कौन हैं?",
+      "questionTextHi": "प्रसिद्ध कृति 'Mahabharata' के लेखक / रचयिता कौन हैं?",
+      "o": [
+        "Ved Vyasa",
+        "Valmiki",
+        "Banabhatta",
+        "Panini"
+      ],
+      "options": [
+        "Ved Vyasa",
+        "Valmiki",
+        "Banabhatta",
+        "Panini"
+      ],
+      "oHi": [
+        "वेद व्यास",
+        "वाल्मीकि",
+        "बाणभट्ट",
+        "पाणिनि"
+      ],
+      "optionsHi": [
+        "वेद व्यास",
+        "वाल्मीकि",
+        "बाणभट्ट",
+        "पाणिनि"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "'Mahabharata' was authored by Ved Vyasa, an enduring landmark in Indian literature.",
+      "explanation": "'Mahabharata' was authored by Ved Vyasa, an enduring landmark in Indian literature.",
+      "expHi": "'Mahabharata' के रचयिता वेद व्यास हैं, जो भारतीय साहित्य की एक अमर कृति है।",
+      "explanationHi": "'Mahabharata' के रचयिता वेद व्यास हैं, जो भारतीय साहित्य की एक अमर कृति है।",
+      "hint": "Written by Ved Vyasa.",
+      "hintHi": "इसकी रचना वेद व्यास द्वारा की गई थी।",
+      "difficulty": "easy",
+      "examTags": [
+        "ssc_cgl",
+        "upsc_prelims",
+        "state_psc",
+        "cds"
+      ]
+    },
+    {
+      "id": "gk_nat_book_003",
+      "q": "Who is the author of the celebrated classic 'Arthashastra'?",
+      "questionText": "Who is the author of the celebrated classic 'Arthashastra'?",
+      "qHi": "प्रसिद्ध कृति 'Arthashastra' के लेखक / रचयिता कौन हैं?",
+      "questionTextHi": "प्रसिद्ध कृति 'Arthashastra' के लेखक / रचयिता कौन हैं?",
+      "o": [
+        "Megasthenes",
+        "Patanjali",
+        "Kautilya (Chanakya)",
+        "Harisena"
+      ],
+      "options": [
+        "Megasthenes",
+        "Patanjali",
+        "Kautilya (Chanakya)",
+        "Harisena"
+      ],
+      "oHi": [
+        "मेगस्थनीज",
+        "पतंजलि",
+        "कौटिल्य (चाणक्य)",
+        "हरिषेण"
+      ],
+      "optionsHi": [
+        "मेगस्थनीज",
+        "पतंजलि",
+        "कौटिल्य (चाणक्य)",
+        "हरिषेण"
+      ],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "'Arthashastra' was authored by Kautilya (Chanakya), an enduring landmark in Indian literature.",
+      "explanation": "'Arthashastra' was authored by Kautilya (Chanakya), an enduring landmark in Indian literature.",
+      "expHi": "'Arthashastra' के रचयिता कौटिल्य (चाणक्य) हैं, जो भारतीय साहित्य की एक अमर कृति है।",
+      "explanationHi": "'Arthashastra' के रचयिता कौटिल्य (चाणक्य) हैं, जो भारतीय साहित्य की एक अमर कृति है।",
+      "hint": "Written by Kautilya (Chanakya).",
+      "hintHi": "इसकी रचना कौटिल्य (चाणक्य) द्वारा की गई थी।",
+      "difficulty": "easy",
+      "examTags": [
+        "ssc_cgl",
+        "upsc_prelims",
+        "state_psc",
+        "cds"
+      ]
+    },
+    {
+      "id": "gk_nat_book_004",
+      "q": "Who is the author of the celebrated classic 'Ashtadhyayi'?",
+      "questionText": "Who is the author of the celebrated classic 'Ashtadhyayi'?",
+      "qHi": "प्रसिद्ध कृति 'Ashtadhyayi' के लेखक / रचयिता कौन हैं?",
+      "questionTextHi": "प्रसिद्ध कृति 'Ashtadhyayi' के लेखक / रचयिता कौन हैं?",
+      "o": [
+        "Panini",
+        "Patanjali",
+        "Pingala",
+        "Aryabhata"
+      ],
+      "options": [
+        "Panini",
+        "Patanjali",
+        "Pingala",
+        "Aryabhata"
+      ],
+      "oHi": [
+        "पाणिनि",
+        "पतंजलि",
+        "पिंगल",
+        "आर्यभट्ट"
+      ],
+      "optionsHi": [
+        "पाणिनि",
+        "पतंजलि",
+        "पिंगल",
+        "आर्यभट्ट"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "'Ashtadhyayi' was authored by Panini, an enduring landmark in Indian literature.",
+      "explanation": "'Ashtadhyayi' was authored by Panini, an enduring landmark in Indian literature.",
+      "expHi": "'Ashtadhyayi' के रचयिता पाणिनि हैं, जो भारतीय साहित्य की एक अमर कृति है।",
+      "explanationHi": "'Ashtadhyayi' के रचयिता पाणिनि हैं, जो भारतीय साहित्य की एक अमर कृति है।",
+      "hint": "Written by Panini.",
+      "hintHi": "इसकी रचना पाणिनि द्वारा की गई थी।",
+      "difficulty": "easy",
+      "examTags": [
+        "ssc_cgl",
+        "upsc_prelims",
+        "state_psc",
+        "cds"
+      ]
+    },
+    {
+      "id": "gk_nat_book_005",
+      "q": "Who is the author of the celebrated classic 'Indica'?",
+      "questionText": "Who is the author of the celebrated classic 'Indica'?",
+      "qHi": "प्रसिद्ध कृति 'Indica' के लेखक / रचयिता कौन हैं?",
+      "questionTextHi": "प्रसिद्ध कृति 'Indica' के लेखक / रचयिता कौन हैं?",
+      "o": [
+        "Fa-Hien",
+        "Hiuen Tsang",
+        "Megasthenes",
+        "Al-Biruni"
+      ],
+      "options": [
+        "Fa-Hien",
+        "Hiuen Tsang",
+        "Megasthenes",
+        "Al-Biruni"
+      ],
+      "oHi": [
+        "फाह्यान",
+        "ह्वेन त्सांग",
+        "मेगस्थनीज",
+        "अल-बरूनी"
+      ],
+      "optionsHi": [
+        "फाह्यान",
+        "ह्वेन त्सांग",
+        "मेगस्थनीज",
+        "अल-बरूनी"
+      ],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "'Indica' was authored by Megasthenes, an enduring landmark in Indian literature.",
+      "explanation": "'Indica' was authored by Megasthenes, an enduring landmark in Indian literature.",
+      "expHi": "'Indica' के रचयिता मेगस्थनीज हैं, जो भारतीय साहित्य की एक अमर कृति है।",
+      "explanationHi": "'Indica' के रचयिता मेगस्थनीज हैं, जो भारतीय साहित्य की एक अमर कृति है।",
+      "hint": "Written by Megasthenes.",
+      "hintHi": "इसकी रचना मेगस्थनीज द्वारा की गई थी।",
+      "difficulty": "easy",
+      "examTags": [
+        "ssc_cgl",
+        "upsc_prelims",
+        "state_psc",
+        "cds"
+      ]
+    },
+    {
+      "id": "gk_nat_book_006",
+      "q": "Who is the author of the celebrated classic 'Panchatantra'?",
+      "questionText": "Who is the author of the celebrated classic 'Panchatantra'?",
+      "qHi": "प्रसिद्ध कृति 'Panchatantra' के लेखक / रचयिता कौन हैं?",
+      "questionTextHi": "प्रसिद्ध कृति 'Panchatantra' के लेखक / रचयिता कौन हैं?",
+      "o": [
+        "Kalidasa",
+        "Vishnu Sharma",
+        "Sudraka",
+        "Bhasa"
+      ],
+      "options": [
+        "Kalidasa",
+        "Vishnu Sharma",
+        "Sudraka",
+        "Bhasa"
+      ],
+      "oHi": [
+        "कालिदास",
+        "विष्णु शर्मा",
+        "शूद्रक",
+        "भास"
+      ],
+      "optionsHi": [
+        "कालिदास",
+        "विष्णु शर्मा",
+        "शूद्रक",
+        "भास"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "'Panchatantra' was authored by Vishnu Sharma, an enduring landmark in Indian literature.",
+      "explanation": "'Panchatantra' was authored by Vishnu Sharma, an enduring landmark in Indian literature.",
+      "expHi": "'Panchatantra' के रचयिता विष्णु शर्मा हैं, जो भारतीय साहित्य की एक अमर कृति है।",
+      "explanationHi": "'Panchatantra' के रचयिता विष्णु शर्मा हैं, जो भारतीय साहित्य की एक अमर कृति है।",
+      "hint": "Written by Vishnu Sharma.",
+      "hintHi": "इसकी रचना विष्णु शर्मा द्वारा की गई थी।",
+      "difficulty": "easy",
+      "examTags": [
+        "ssc_cgl",
+        "upsc_prelims",
+        "state_psc",
+        "cds"
+      ]
+    },
+    {
+      "id": "gk_nat_book_007",
+      "q": "Who is the author of the celebrated classic 'Rajatarangini'?",
+      "questionText": "Who is the author of the celebrated classic 'Rajatarangini'?",
+      "qHi": "प्रसिद्ध कृति 'Rajatarangini' के लेखक / रचयिता कौन हैं?",
+      "questionTextHi": "प्रसिद्ध कृति 'Rajatarangini' के लेखक / रचयिता कौन हैं?",
+      "o": [
+        "Kalhana",
+        "Bilhana",
+        "Banabhatta",
+        "Jayadeva"
+      ],
+      "options": [
+        "Kalhana",
+        "Bilhana",
+        "Banabhatta",
+        "Jayadeva"
+      ],
+      "oHi": [
+        "कल्हण",
+        "बिल्हण",
+        "बाणभट्ट",
+        "जयदेव"
+      ],
+      "optionsHi": [
+        "कल्हण",
+        "बिल्हण",
+        "बाणभट्ट",
+        "जयदेव"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "'Rajatarangini' was authored by Kalhana, an enduring landmark in Indian literature.",
+      "explanation": "'Rajatarangini' was authored by Kalhana, an enduring landmark in Indian literature.",
+      "expHi": "'Rajatarangini' के रचयिता कल्हण हैं, जो भारतीय साहित्य की एक अमर कृति है।",
+      "explanationHi": "'Rajatarangini' के रचयिता कल्हण हैं, जो भारतीय साहित्य की एक अमर कृति है।",
+      "hint": "Written by Kalhana.",
+      "hintHi": "इसकी रचना कल्हण द्वारा की गई थी।",
+      "difficulty": "medium",
+      "examTags": [
+        "ssc_cgl",
+        "upsc_prelims",
+        "state_psc",
+        "cds"
+      ]
+    },
+    {
+      "id": "gk_nat_book_008",
+      "q": "Who is the author of the celebrated classic 'Harshacharita'?",
+      "questionText": "Who is the author of the celebrated classic 'Harshacharita'?",
+      "qHi": "प्रसिद्ध कृति 'Harshacharita' के लेखक / रचयिता कौन हैं?",
+      "questionTextHi": "प्रसिद्ध कृति 'Harshacharita' के लेखक / रचयिता कौन हैं?",
+      "o": [
+        "Harsha",
+        "Banabhatta",
+        "Dandin",
+        "Bhavabhuti"
+      ],
+      "options": [
+        "Harsha",
+        "Banabhatta",
+        "Dandin",
+        "Bhavabhuti"
+      ],
+      "oHi": [
+        "हर्षवर्धन",
+        "बाणभट्ट",
+        "दण्डी",
+        "भवभूति"
+      ],
+      "optionsHi": [
+        "हर्षवर्धन",
+        "बाणभट्ट",
+        "दण्डी",
+        "भवभूति"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "'Harshacharita' was authored by Banabhatta, an enduring landmark in Indian literature.",
+      "explanation": "'Harshacharita' was authored by Banabhatta, an enduring landmark in Indian literature.",
+      "expHi": "'Harshacharita' के रचयिता बाणभट्ट हैं, जो भारतीय साहित्य की एक अमर कृति है।",
+      "explanationHi": "'Harshacharita' के रचयिता बाणभट्ट हैं, जो भारतीय साहित्य की एक अमर कृति है।",
+      "hint": "Written by Banabhatta.",
+      "hintHi": "इसकी रचना बाणभट्ट द्वारा की गई थी।",
+      "difficulty": "medium",
+      "examTags": [
+        "ssc_cgl",
+        "upsc_prelims",
+        "state_psc",
+        "cds"
+      ]
+    },
+    {
+      "id": "gk_nat_book_009",
+      "q": "Who is the author of the celebrated classic 'The Discovery of India'?",
+      "questionText": "Who is the author of the celebrated classic 'The Discovery of India'?",
+      "qHi": "प्रसिद्ध कृति 'The Discovery of India' के लेखक / रचयिता कौन हैं?",
+      "questionTextHi": "प्रसिद्ध कृति 'The Discovery of India' के लेखक / रचयिता कौन हैं?",
+      "o": [
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Dr. B.R. Ambedkar",
+        "Subhas Chandra Bose"
+      ],
+      "options": [
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Dr. B.R. Ambedkar",
+        "Subhas Chandra Bose"
+      ],
+      "oHi": [
+        "महात्मा गांधी",
+        "जवाहरलाल नेहरू",
+        "डॉ. बी.आर. आंबेडकर",
+        "सुभाष चंद्र बोस"
+      ],
+      "optionsHi": [
+        "महात्मा गांधी",
+        "जवाहरलाल नेहरू",
+        "डॉ. बी.आर. आंबेडकर",
+        "सुभाष चंद्र बोस"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "'The Discovery of India' was authored by Jawaharlal Nehru, an enduring landmark in Indian literature.",
+      "explanation": "'The Discovery of India' was authored by Jawaharlal Nehru, an enduring landmark in Indian literature.",
+      "expHi": "'The Discovery of India' के रचयिता जवाहरलाल नेहरू हैं, जो भारतीय साहित्य की एक अमर कृति है।",
+      "explanationHi": "'The Discovery of India' के रचयिता जवाहरलाल नेहरू हैं, जो भारतीय साहित्य की एक अमर कृति है।",
+      "hint": "Written by Jawaharlal Nehru.",
+      "hintHi": "इसकी रचना जवाहरलाल नेहरू द्वारा की गई थी।",
+      "difficulty": "medium",
+      "examTags": [
+        "ssc_cgl",
+        "upsc_prelims",
+        "state_psc",
+        "cds"
+      ]
+    },
+    {
+      "id": "gk_nat_book_010",
+      "q": "Who is the author of the celebrated classic 'Hind Swaraj'?",
+      "questionText": "Who is the author of the celebrated classic 'Hind Swaraj'?",
+      "qHi": "प्रसिद्ध कृति 'Hind Swaraj' के लेखक / रचयिता कौन हैं?",
+      "questionTextHi": "प्रसिद्ध कृति 'Hind Swaraj' के लेखक / रचयिता कौन हैं?",
+      "o": [
+        "Bal Gangadhar Tilak",
+        "Mahatma Gandhi",
+        "Lala Lajpat Rai",
+        "Gopal Krishna Gokhale"
+      ],
+      "options": [
+        "Bal Gangadhar Tilak",
+        "Mahatma Gandhi",
+        "Lala Lajpat Rai",
+        "Gopal Krishna Gokhale"
+      ],
+      "oHi": [
+        "बाल गंगाधर तिलक",
+        "महात्मा गांधी",
+        "लाला लाजपत राय",
+        "गोपाल कृष्ण गोखले"
+      ],
+      "optionsHi": [
+        "बाल गंगाधर तिलक",
+        "महात्मा गांधी",
+        "लाला लाजपत राय",
+        "गोपाल कृष्ण गोखले"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "'Hind Swaraj' was authored by Mahatma Gandhi, an enduring landmark in Indian literature.",
+      "explanation": "'Hind Swaraj' was authored by Mahatma Gandhi, an enduring landmark in Indian literature.",
+      "expHi": "'Hind Swaraj' के रचयिता महात्मा गांधी हैं, जो भारतीय साहित्य की एक अमर कृति है।",
+      "explanationHi": "'Hind Swaraj' के रचयिता महात्मा गांधी हैं, जो भारतीय साहित्य की एक अमर कृति है।",
+      "hint": "Written by Mahatma Gandhi.",
+      "hintHi": "इसकी रचना महात्मा गांधी द्वारा की गई थी।",
+      "difficulty": "medium",
+      "examTags": [
+        "ssc_cgl",
+        "upsc_prelims",
+        "state_psc",
+        "cds"
+      ]
+    },
+    {
+      "id": "gk_nat_book_011",
+      "q": "Who is the author of the celebrated classic 'Anandamath'?",
+      "questionText": "Who is the author of the celebrated classic 'Anandamath'?",
+      "qHi": "प्रसिद्ध कृति 'Anandamath' के लेखक / रचयिता कौन हैं?",
+      "questionTextHi": "प्रसिद्ध कृति 'Anandamath' के लेखक / रचयिता कौन हैं?",
+      "o": [
+        "Rabindranath Tagore",
+        "Bankim Chandra Chattopadhyay",
+        "Sarat Chandra",
+        "Premchand"
+      ],
+      "options": [
+        "Rabindranath Tagore",
+        "Bankim Chandra Chattopadhyay",
+        "Sarat Chandra",
+        "Premchand"
+      ],
+      "oHi": [
+        "रवींद्रनाथ टैगोर",
+        "बंकिम चंद्र चट्टोपाध्याय",
+        "शरत चंद्र",
+        "प्रेमचंद"
+      ],
+      "optionsHi": [
+        "रवींद्रनाथ टैगोर",
+        "बंकिम चंद्र चट्टोपाध्याय",
+        "शरत चंद्र",
+        "प्रेमचंद"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "'Anandamath' was authored by Bankim Chandra Chattopadhyay, an enduring landmark in Indian literature.",
+      "explanation": "'Anandamath' was authored by Bankim Chandra Chattopadhyay, an enduring landmark in Indian literature.",
+      "expHi": "'Anandamath' के रचयिता बंकिम चंद्र चट्टोपाध्याय हैं, जो भारतीय साहित्य की एक अमर कृति है।",
+      "explanationHi": "'Anandamath' के रचयिता बंकिम चंद्र चट्टोपाध्याय हैं, जो भारतीय साहित्य की एक अमर कृति है।",
+      "hint": "Written by Bankim Chandra Chattopadhyay.",
+      "hintHi": "इसकी रचना बंकिम चंद्र चट्टोपाध्याय द्वारा की गई थी।",
+      "difficulty": "medium",
+      "examTags": [
+        "ssc_cgl",
+        "upsc_prelims",
+        "state_psc",
+        "cds"
+      ]
+    },
+    {
+      "id": "gk_nat_book_012",
+      "q": "Who is the author of the celebrated classic 'Geetanjali'?",
+      "questionText": "Who is the author of the celebrated classic 'Geetanjali'?",
+      "qHi": "प्रसिद्ध कृति 'Geetanjali' के लेखक / रचयिता कौन हैं?",
+      "questionTextHi": "प्रसिद्ध कृति 'Geetanjali' के लेखक / रचयिता कौन हैं?",
+      "o": [
+        "Rabindranath Tagore",
+        "Sarojini Naidu",
+        "Kazi Nazrul Islam",
+        "Toru Dutt"
+      ],
+      "options": [
+        "Rabindranath Tagore",
+        "Sarojini Naidu",
+        "Kazi Nazrul Islam",
+        "Toru Dutt"
+      ],
+      "oHi": [
+        "रवींद्रनाथ टैगोर",
+        "सरोजिनी नायडू",
+        "काजी नजरुल इस्लाम",
+        "तोरु दत्त"
+      ],
+      "optionsHi": [
+        "रवींद्रनाथ टैगोर",
+        "सरोजिनी नायडू",
+        "काजी नजरुल इस्लाम",
+        "तोरु दत्त"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "'Geetanjali' was authored by Rabindranath Tagore, an enduring landmark in Indian literature.",
+      "explanation": "'Geetanjali' was authored by Rabindranath Tagore, an enduring landmark in Indian literature.",
+      "expHi": "'Geetanjali' के रचयिता रवींद्रनाथ टैगोर हैं, जो भारतीय साहित्य की एक अमर कृति है।",
+      "explanationHi": "'Geetanjali' के रचयिता रवींद्रनाथ टैगोर हैं, जो भारतीय साहित्य की एक अमर कृति है।",
+      "hint": "Written by Rabindranath Tagore.",
+      "hintHi": "इसकी रचना रवींद्रनाथ टैगोर द्वारा की गई थी।",
+      "difficulty": "medium",
+      "examTags": [
+        "ssc_cgl",
+        "upsc_prelims",
+        "state_psc",
+        "cds"
+      ]
+    },
+    {
+      "id": "gk_nat_bk_001",
+      "q": "Who authored the Sanskrit treatise on political statecraft and economic policy titled 'Arthashastra'?",
+      "questionText": "Who authored the Sanskrit treatise on political statecraft and economic policy titled 'Arthashastra'?",
+      "qHi": "राजनीति और अर्थनीति के महान संस्कृत ग्रंथ 'अर्थशास्त्र' के रचयिता कौन हैं?",
+      "questionTextHi": "राजनीति और अर्थनीति के महान संस्कृत ग्रंथ 'अर्थशास्त्र' के रचयिता कौन हैं?",
+      "o": [
+        "Megasthenes",
+        "Kautilya (Chanakya)",
+        "Patanjali",
+        "Panini"
+      ],
+      "options": [
+        "Megasthenes",
+        "Kautilya (Chanakya)",
+        "Patanjali",
+        "Panini"
+      ],
+      "oHi": [
+        "मेगस्थनीज",
+        "कौटिल्य (चाणक्य)",
+        "पतंजलि",
+        "पाणिनि"
+      ],
+      "optionsHi": [
+        "मेगस्थनीज",
+        "कौटिल्य (चाणक्य)",
+        "पतंजलि",
+        "पाणिनि"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Arthashastra was authored by Kautilya (Chanakya/Vishnugupta), the prime minister of Chandragupta Maurya.",
+      "explanation": "Arthashastra was authored by Kautilya (Chanakya/Vishnugupta), the prime minister of Chandragupta Maurya.",
+      "expHi": "अर्थशास्त्र की रचना चंद्रगुप्त मौर्य के प्रधानमंत्री और गुरु कौटिल्य (चाणक्य) ने की थी।",
+      "explanationHi": "अर्थशास्त्र की रचना चंद्रगुप्त मौर्य के प्रधानमंत्री और गुरु कौटिल्य (चाणक्य) ने की थी।",
+      "hint": "Key concept under Books Authors.",
+      "hintHi": "Books Authors का महत्वपूर्ण तथ्य।",
+      "difficulty": "easy",
+      "examTags": [
+        "ssc_cgl",
+        "upsc_prelims"
+      ]
+    },
+    {
+      "id": "gk_nat_bk_002",
+      "q": "Who is the author of 'Ashtadhyayi', the earliest foundational Sanskrit grammar text?",
+      "questionText": "Who is the author of 'Ashtadhyayi', the earliest foundational Sanskrit grammar text?",
+      "qHi": "संस्कृत व्याकरण के सबसे प्राचीन और प्रामाणिक ग्रंथ 'अष्टाध्यायी' के रचयिता कौन हैं?",
+      "questionTextHi": "संस्कृत व्याकरण के सबसे प्राचीन और प्रामाणिक ग्रंथ 'अष्टाध्यायी' के रचयिता कौन हैं?",
+      "o": [
+        "Panini",
+        "Patanjali",
+        "Katyayana",
+        "Bhartrhari"
+      ],
+      "options": [
+        "Panini",
+        "Patanjali",
+        "Katyayana",
+        "Bhartrhari"
+      ],
+      "oHi": [
+        "पाणिनि",
+        "पतंजलि",
+        "कात्यायन",
+        "भर्तृहरि"
+      ],
+      "optionsHi": [
+        "पाणिनि",
+        "पतंजलि",
+        "कात्यायन",
+        "भर्तृहरि"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Panini's Ashtadhyayi composed in 5th-6th century BCE is the foundational work of Sanskrit linguistics.",
+      "explanation": "Panini's Ashtadhyayi composed in 5th-6th century BCE is the foundational work of Sanskrit linguistics.",
+      "expHi": "पाणिनि द्वारा रचित अष्टाध्यायी संस्कृत व्याकरण का सबसे महान और आधारभूत ग्रंथ है।",
+      "explanationHi": "पाणिनि द्वारा रचित अष्टाध्यायी संस्कृत व्याकरण का सबसे महान और आधारभूत ग्रंथ है।",
+      "hint": "Key concept under Books Authors.",
+      "hintHi": "Books Authors का महत्वपूर्ण तथ्य।",
+      "difficulty": "medium",
+      "examTags": [
+        "ssc_cgl",
+        "state_psc"
+      ]
+    },
+    {
+      "id": "gk_nat_bk_003",
+      "q": "Which Greek ambassador to the Mauryan court wrote the historic chronicle 'Indica'?",
+      "questionText": "Which Greek ambassador to the Mauryan court wrote the historic chronicle 'Indica'?",
+      "qHi": "मौर्य दरबार में आए किस यूनानी राजदूत ने प्रसिद्ध पुस्तक 'इंडिका' लिखी थी?",
+      "questionTextHi": "मौर्य दरबार में आए किस यूनानी राजदूत ने प्रसिद्ध पुस्तक 'इंडिका' लिखी थी?",
+      "o": [
+        "Deimachus",
+        "Megasthenes",
+        "Fa-Hien",
+        "Hiuen Tsang"
+      ],
+      "options": [
+        "Deimachus",
+        "Megasthenes",
+        "Fa-Hien",
+        "Hiuen Tsang"
+      ],
+      "oHi": [
+        "डाइमेकस",
+        "मेगस्थनीज",
+        "फाह्यान",
+        "ह्वेन त्सांग"
+      ],
+      "optionsHi": [
+        "डाइमेकस",
+        "मेगस्थनीज",
+        "फाह्यान",
+        "ह्वेन त्सांग"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Megasthenes, ambassador of Seleucus I Nicator to Chandragupta Maurya, authored Indica.",
+      "explanation": "Megasthenes, ambassador of Seleucus I Nicator to Chandragupta Maurya, authored Indica.",
+      "expHi": "सेल्युकस निकेटर के राजदूत मेगस्थनीज ने मौर्य साम्राज्य का विवरण अपनी पुस्तक 'इंडिका' में दर्ज किया था।",
+      "explanationHi": "सेल्युकस निकेटर के राजदूत मेगस्थनीज ने मौर्य साम्राज्य का विवरण अपनी पुस्तक 'इंडिका' में दर्ज किया था।",
+      "hint": "Key concept under Books Authors.",
+      "hintHi": "Books Authors का महत्वपूर्ण तथ्य।",
+      "difficulty": "easy",
+      "examTags": [
+        "ssc_cgl",
+        "railway"
+      ]
+    },
+    {
+      "id": "gk_nat_books_authors_curated_1",
+      "q": "Who is the celebrated author of the ancient Indian collection of interrelated animal fables, 'Panchatantra'?",
+      "questionText": "Who is the celebrated author of the ancient Indian collection of interrelated animal fables, 'Panchatantra'?",
+      "qHi": "प्राचीन भारतीय नीतिपरक पशु-पक्षियों की अमर कथाओं के संग्रह 'पंचतंत्र' के प्रसिद्ध रचयिता कौन हैं?",
+      "questionTextHi": "प्राचीन भारतीय नीतिपरक पशु-पक्षियों की अमर कथाओं के संग्रह 'पंचतंत्र' के प्रसिद्ध रचयिता कौन हैं?",
+      "o": [
+        "Vishnu Sharma",
+        "Chanakya",
+        "Kalidasa",
+        "Banabhatta"
+      ],
+      "options": [
+        "Vishnu Sharma",
+        "Chanakya",
+        "Kalidasa",
+        "Banabhatta"
+      ],
+      "oHi": [
+        "विष्णु शर्मा",
+        "चाणक्य",
+        "कालिदास",
+        "बाणभट्ट"
+      ],
+      "optionsHi": [
+        "विष्णु शर्मा",
+        "चाणक्य",
+        "कालिदास",
+        "बाणभट्ट"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Pandit Vishnu Sharma composed the Panchatantra in Sanskrit to impart moral values and statecraft to three princes. It is one of the most widely translated secular books in world literature.",
+      "explanation": "Pandit Vishnu Sharma composed the Panchatantra in Sanskrit to impart moral values and statecraft to three princes. It is one of the most widely translated secular books in world literature.",
+      "expHi": "पंडित विष्णु शर्मा ने तीन राजकुमारों को नीति, व्यवहार और राजनीति की शिक्षा देने के लिए संस्कृत में 'पंचतंत्र' की रचना की थी। यह विश्व की सर्वाधिक अनूदित पुस्तकों में से एक है।",
+      "explanationHi": "पंडित विष्णु शर्मा ने तीन राजकुमारों को नीति, व्यवहार और राजनीति की शिक्षा देने के लिए संस्कृत में 'पंचतंत्र' की रचना की थी। यह विश्व की सर्वाधिक अनूदित पुस्तकों में से एक है।",
+      "hint": "Composed in Sanskrit to educate young princes in political science and morality.",
+      "hintHi": "राजकुमारों को नीतिशास्त्र सिखाने के लिए संस्कृत में रचित अमर ग्रंथ।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA"
+      ]
+    },
+    {
+      "id": "gk_nat_books_authors_curated_2",
+      "q": "Who authored the foundational ancient Indian treatise on statecraft, economic policy, and military strategy titled 'Arthashastra'?",
+      "questionText": "Who authored the foundational ancient Indian treatise on statecraft, economic policy, and military strategy titled 'Arthashastra'?",
+      "qHi": "प्राचीन भारत में राजनीति, अर्थनीति, विदेश नीति एवं सैन्य रणनीति के कालजयी ग्रंथ 'अर्थशास्त्र' के रचयिता कौन हैं?",
+      "questionTextHi": "प्राचीन भारत में राजनीति, अर्थनीति, विदेश नीति एवं सैन्य रणनीति के कालजयी ग्रंथ 'अर्थशास्त्र' के रचयिता कौन हैं?",
+      "o": [
+        "Chanakya (Kautilya / Vishnugupta)",
+        "Megasthenes",
+        "Ashoka",
+        "Chandragupta Maurya"
+      ],
+      "options": [
+        "Chanakya (Kautilya / Vishnugupta)",
+        "Megasthenes",
+        "Ashoka",
+        "Chandragupta Maurya"
+      ],
+      "oHi": [
+        "चाणक्य (कौटिल्य / विष्णुगुप्त)",
+        "मेगस्थनीज",
+        "अशोक",
+        "चंद्रगुप्त मौर्य"
+      ],
+      "optionsHi": [
+        "चाणक्य (कौटिल्य / विष्णुगुप्त)",
+        "मेगस्थनीज",
+        "अशोक",
+        "चंद्रगुप्त मौर्य"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Chanakya (Kautilya or Vishnugupta), the prime minister and mentor of Chandragupta Maurya, authored the 15-book treatise 'Arthashastra' covering governance, taxation, and espionage.",
+      "explanation": "Chanakya (Kautilya or Vishnugupta), the prime minister and mentor of Chandragupta Maurya, authored the 15-book treatise 'Arthashastra' covering governance, taxation, and espionage.",
+      "expHi": "मौर्य साम्राज्य के संस्थापक चंद्रगुप्त मौर्य के प्रधानमंत्री और गुरु चाणक्य (कौटिल्य/विष्णुगुप्त) ने 'अर्थशास्त्र' की रचना की, जिसमें सप्तांग सिद्धांत और कूटनीति का वर्णन है।",
+      "explanationHi": "मौर्य साम्राज्य के संस्थापक चंद्रगुप्त मौर्य के प्रधानमंत्री और गुरु चाणक्य (कौटिल्य/विष्णुगुप्त) ने 'अर्थशास्त्र' की रचना की, जिसमें सप्तांग सिद्धांत और कूटनीति का वर्णन है।",
+      "hint": "Royal adviser to Chandragupta Maurya; formulated the Saptanga theory of state.",
+      "hintHi": "चंद्रगुप्त मौर्य के प्रधानमंत्री; सप्तांग सिद्धांत के प्रतिपादक।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA"
+      ]
+    },
+    {
+      "id": "gk_nat_books_authors_curated_3",
+      "q": "Which Sanskrit scholar composed the historical chronicle 'Rajatarangini' (River of Kings), recounting the history of Kashmir?",
+      "questionText": "Which Sanskrit scholar composed the historical chronicle 'Rajatarangini' (River of Kings), recounting the history of Kashmir?",
+      "qHi": "कश्मीर के राजाओं और उनके इतिहास का क्रमिक व प्रामाणिक विवरण प्रस्तुत करने वाले संस्कृत ग्रंथ 'राजतरंगिणी' के रचयिता कौन हैं?",
+      "questionTextHi": "कश्मीर के राजाओं और उनके इतिहास का क्रमिक व प्रामाणिक विवरण प्रस्तुत करने वाले संस्कृत ग्रंथ 'राजतरंगिणी' के रचयिता कौन हैं?",
+      "o": [
+        "Kalhana (कल्हण)",
+        "Bilhana",
+        "Banabhatta",
+        "Hemachandra"
+      ],
+      "options": [
+        "Kalhana (कल्हण)",
+        "Bilhana",
+        "Banabhatta",
+        "Hemachandra"
+      ],
+      "oHi": [
+        "कल्हण",
+        "बिल्हण",
+        "बाणभट्ट",
+        "हेमचंद्र"
+      ],
+      "optionsHi": [
+        "कल्हण",
+        "बिल्हण",
+        "बाणभट्ट",
+        "हेमचंद्र"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Kalhana composed 'Rajatarangini' (The River of Kings) in Sanskrit verse during 1148-1150 AD, regarded as India's first truly historical text adhering to objective historiography.",
+      "explanation": "Kalhana composed 'Rajatarangini' (The River of Kings) in Sanskrit verse during 1148-1150 AD, regarded as India's first truly historical text adhering to objective historiography.",
+      "expHi": "कल्हण ने 1148-1150 ईस्वी में 'राजतरंगिणी' की रचना की। इसे भारतीय इतिहास लेखन का प्रथम वैज्ञानिक व प्रामाणिक ग्रंथ माना जाता है।",
+      "explanationHi": "कल्हण ने 1148-1150 ईस्वी में 'राजतरंगिणी' की रचना की। इसे भारतीय इतिहास लेखन का प्रथम वैज्ञानिक व प्रामाणिक ग्रंथ माना जाता है।",
+      "hint": "12th-century Kashmiri historian; authored 8 cantos (Tarangas).",
+      "hintHi": "12वीं सदी के कश्मीरी विद्वान; 8 तरंगों में कश्मीर का इतिहास लिखा।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA"
+      ]
+    },
+    {
+      "id": "gk_nat_books_authors_curated_4",
+      "q": "Who was the court poet (Asthana Kavi) of Emperor Harshavardhana who wrote 'Harshacharita' and the world's first novel 'Kadambari'?",
+      "questionText": "Who was the court poet (Asthana Kavi) of Emperor Harshavardhana who wrote 'Harshacharita' and the world's first novel 'Kadambari'?",
+      "qHi": "सम्राट हर्षवर्धन के दरबारी कवि कौन थे, जिन्होंने 'हर्षचरित' और विश्व का प्रथम गद्य उपन्यास 'कादम्बरी' लिखा?",
+      "questionTextHi": "सम्राट हर्षवर्धन के दरबारी कवि कौन थे, जिन्होंने 'हर्षचरित' और विश्व का प्रथम गद्य उपन्यास 'कादम्बरी' लिखा?",
+      "o": [
+        "Banabhatta (बाणभट्ट)",
+        "Mayura",
+        "Dandin",
+        "Subandhu"
+      ],
+      "options": [
+        "Banabhatta (बाणभट्ट)",
+        "Mayura",
+        "Dandin",
+        "Subandhu"
+      ],
+      "oHi": [
+        "बाणभट्ट",
+        "मयूर",
+        "दण्डी",
+        "सुबंधु"
+      ],
+      "optionsHi": [
+        "बाणभट्ट",
+        "मयूर",
+        "दण्डी",
+        "सुबंधु"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Banabhatta served in the 7th-century court of King Harsha of Kannauj. He composed 'Harshacharita' (biography of Harsha) and the celebrated Sanskrit romantic prose work 'Kadambari'.",
+      "explanation": "Banabhatta served in the 7th-century court of King Harsha of Kannauj. He composed 'Harshacharita' (biography of Harsha) and the celebrated Sanskrit romantic prose work 'Kadambari'.",
+      "expHi": "बाणभट्ट 7वीं शताब्दी में सम्राट हर्षवर्धन के राजकवि थे। इन्होंने हर्ष के जीवन पर 'हर्षचरित' तथा अमर संस्कृत गद्य काव्य 'कादम्बरी' की रचना की थी।",
+      "explanationHi": "बाणभट्ट 7वीं शताब्दी में सम्राट हर्षवर्धन के राजकवि थे। इन्होंने हर्ष के जीवन पर 'हर्षचरित' तथा अमर संस्कृत गद्य काव्य 'कादम्बरी' की रचना की थी।",
+      "hint": "7th-century Sanskrit scholar in the court of Kannauj ruler Harsha.",
+      "hintHi": "कन्नौज नरेश सम्राट हर्ष के दरबारी कवि।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA"
+      ]
+    },
+    {
+      "id": "gk_nat_books_authors_curated_5",
+      "q": "Which Bengali literary masterpiece by Bankim Chandra Chattopadhyay contains our National Song 'Vande Mataram'?",
+      "questionText": "Which Bengali literary masterpiece by Bankim Chandra Chattopadhyay contains our National Song 'Vande Mataram'?",
+      "qHi": "बंकिम चंद्र चट्टोपाध्याय के किस प्रसिद्ध उपन्यास में भारत का राष्ट्रीय गीत 'वन्दे मातरम्' समाहित है?",
+      "questionTextHi": "बंकिम चंद्र चट्टोपाध्याय के किस प्रसिद्ध उपन्यास में भारत का राष्ट्रीय गीत 'वन्दे मातरम्' समाहित है?",
+      "o": [
+        "Anandamath (आनंदमठ, 1882)",
+        "Durgeshnandini",
+        "Kapalkundala",
+        "Devi Chaudhurani"
+      ],
+      "options": [
+        "Anandamath (आनंदमठ, 1882)",
+        "Durgeshnandini",
+        "Kapalkundala",
+        "Devi Chaudhurani"
+      ],
+      "oHi": [
+        "आनंदमठ (1882)",
+        "दुर्गेशनंदिनी",
+        "कपालकुंडला",
+        "देवी चौधरानी"
+      ],
+      "optionsHi": [
+        "आनंदमठ (1882)",
+        "दुर्गेशनंदिनी",
+        "कपालकुंडला",
+        "देवी चौधरानी"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Bankim Chandra Chattopadhyay wrote 'Anandamath' in 1882 against the backdrop of the Sannyasi Rebellion of 1770. It incorporates the patriotic hymn 'Vande Mataram', later adopted as India's National Song.",
+      "explanation": "Bankim Chandra Chattopadhyay wrote 'Anandamath' in 1882 against the backdrop of the Sannyasi Rebellion of 1770. It incorporates the patriotic hymn 'Vande Mataram', later adopted as India's National Song.",
+      "expHi": "बंकिम चंद्र चट्टोपाध्याय ने 1882 में संन्यासी विद्रोह की पृष्ठभूमि पर 'आनंदमठ' उपन्यास लिखा, जिसमें 'वन्दे मातरम्' गीत शामिल था। इसे 24 जनवरी 1950 को राष्ट्रीय गीत का दर्जा दिया गया।",
+      "explanationHi": "बंकिम चंद्र चट्टोपाध्याय ने 1882 में संन्यासी विद्रोह की पृष्ठभूमि पर 'आनंदमठ' उपन्यास लिखा, जिसमें 'वन्दे मातरम्' गीत शामिल था। इसे 24 जनवरी 1950 को राष्ट्रीय गीत का दर्जा दिया गया।",
+      "hint": "Set against the backdrop of the late 18th-century Sannyasi Rebellion in Bengal.",
+      "hintHi": "18वीं शताब्दी के संन्यासी विद्रोह की ऐतिहासिक पृष्ठभूमि पर रचित।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA"
+      ]
+    },
+    {
+      "id": "gk_nat_books_authors_curated_6",
+      "q": "Which Indian leader penned the seminal historical work 'The Discovery of India' while imprisoned at Ahmednagar Fort (1942–1946)?",
+      "questionText": "Which Indian leader penned the seminal historical work 'The Discovery of India' while imprisoned at Ahmednagar Fort (1942–1946)?",
+      "qHi": "भारत के किस महान नेता ने 1942 से 1946 के दौरान अहमदनगर किले की जेल में बंदी रहते हुए प्रसिद्ध पुस्तक 'द डिस्कवरी ऑफ इंडिया' (भारत की खोज) लिखी थी?",
+      "questionTextHi": "भारत के किस महान नेता ने 1942 से 1946 के दौरान अहमदनगर किले की जेल में बंदी रहते हुए प्रसिद्ध पुस्तक 'द डिस्कवरी ऑफ इंडिया' (भारत की खोज) लिखी थी?",
+      "o": [
+        "Jawaharlal Nehru",
+        "Subhas Chandra Bose",
+        "Mahatma Gandhi",
+        "Dr. B. R. Ambedkar"
+      ],
+      "options": [
+        "Jawaharlal Nehru",
+        "Subhas Chandra Bose",
+        "Mahatma Gandhi",
+        "Dr. B. R. Ambedkar"
+      ],
+      "oHi": [
+        "जवाहरलाल नेहरू",
+        "सुभाष चंद्र बोस",
+        "महात्मा गांधी",
+        "डॉ. बी.आर. आंबेडकर"
+      ],
+      "optionsHi": [
+        "जवाहरलाल नेहरू",
+        "सुभाष चंद्र बोस",
+        "महात्मा गांधी",
+        "डॉ. बी.आर. आंबेडकर"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Jawaharlal Nehru wrote 'The Discovery of India' during his imprisonment at Ahmednagar Fort following the Quit India Movement. It traces Indian culture, philosophy, and history from the Indus Valley Civilization.",
+      "explanation": "Jawaharlal Nehru wrote 'The Discovery of India' during his imprisonment at Ahmednagar Fort following the Quit India Movement. It traces Indian culture, philosophy, and history from the Indus Valley Civilization.",
+      "expHi": "पंडित जवाहरलाल नेहरू ने 1942 के भारत छोड़ो आंदोलन के दौरान अहमदनगर किले में कैद रहते हुए 'भारत की खोज' (The Discovery of India) पुस्तक लिखी थी।",
+      "explanationHi": "पंडित जवाहरलाल नेहरू ने 1942 के भारत छोड़ो आंदोलन के दौरान अहमदनगर किले में कैद रहते हुए 'भारत की खोज' (The Discovery of India) पुस्तक लिखी थी।",
+      "hint": "India's first Prime Minister; also wrote 'Glimpses of World History'.",
+      "hintHi": "भारत के प्रथम प्रधानमंत्री; 'ग्लिम्पसेज ऑफ वर्ल्ड हिस्ट्री' के भी रचयिता।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA"
+      ]
+    },
+    {
+      "id": "gk_nat_books_authors_curated_7",
+      "q": "Who wrote the autobiography 'Wings of Fire' detailing his journey from Rameswaram to the forefront of India's missile and space programs?",
+      "questionText": "Who wrote the autobiography 'Wings of Fire' detailing his journey from Rameswaram to the forefront of India's missile and space programs?",
+      "qHi": "रामेश्वरम से लेकर भारत के मिसाइल एवं अंतरिक्ष कार्यक्रम तक की प्रेरणादायक यात्रा का वर्णन करने वाली आत्मकथा 'विंग्स ऑफ फायर' (अग्नि की उड़ान) के लेखक कौन हैं?",
+      "questionTextHi": "रामेश्वरम से लेकर भारत के मिसाइल एवं अंतरिक्ष कार्यक्रम तक की प्रेरणादायक यात्रा का वर्णन करने वाली आत्मकथा 'विंग्स ऑफ फायर' (अग्नि की उड़ान) के लेखक कौन हैं?",
+      "o": [
+        "Dr. A. P. J. Abdul Kalam",
+        "Dr. Homi Bhabha",
+        "Dr. Vikram Sarabhai",
+        "Prof. Satish Dhawan"
+      ],
+      "options": [
+        "Dr. A. P. J. Abdul Kalam",
+        "Dr. Homi Bhabha",
+        "Dr. Vikram Sarabhai",
+        "Prof. Satish Dhawan"
+      ],
+      "oHi": [
+        "डॉ. ए.पी.जे. अब्दुल कलाम",
+        "डॉ. होमी भाभा",
+        "डॉ. विक्रम साराभाई",
+        "प्रो. सतीश धवन"
+      ],
+      "optionsHi": [
+        "डॉ. ए.पी.जे. अब्दुल कलाम",
+        "डॉ. होमी भाभा",
+        "डॉ. विक्रम साराभाई",
+        "प्रो. सतीश धवन"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "'Wings of Fire' (1999) is the autobiography of India's 'Missile Man' and 11th President, Dr. A.P.J. Abdul Kalam, co-written with Arun Tiwari.",
+      "explanation": "'Wings of Fire' (1999) is the autobiography of India's 'Missile Man' and 11th President, Dr. A.P.J. Abdul Kalam, co-written with Arun Tiwari.",
+      "expHi": "'अग्नि की उड़ान' (Wings of Fire) भारत के मिसाइल मैन और 11वें राष्ट्रपति डॉ. ए.पी.जे. अब्दुल कलाम की प्रसिद्ध आत्मकथा है, जिसके सह-लेखक अरुण तिवारी हैं।",
+      "explanationHi": "'अग्नि की उड़ान' (Wings of Fire) भारत के मिसाइल मैन और 11वें राष्ट्रपति डॉ. ए.पी.जे. अब्दुल कलाम की प्रसिद्ध आत्मकथा है, जिसके सह-लेखक अरुण तिवारी हैं।",
+      "hint": "Former President of India, renowned as the 'Missile Man'.",
+      "hintHi": "भारत के 11वें राष्ट्रपति और मिसाइल मैन।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA"
+      ]
+    },
+    {
+      "id": "gk_nat_books_authors_curated_8",
+      "q": "Who won the prestigious Man Booker Prize in 1997 for the debut novel 'The God of Small Things'?",
+      "questionText": "Who won the prestigious Man Booker Prize in 1997 for the debut novel 'The God of Small Things'?",
+      "qHi": "1997 में अपने प्रथम उपन्यास 'द गॉड ऑफ स्मॉल थिंग्स' के लिए प्रतिष्ठित मैन बुकर पुरस्कार जीतने वाली पहली भारतीय महिला कौन थीं?",
+      "questionTextHi": "1997 में अपने प्रथम उपन्यास 'द गॉड ऑफ स्मॉल थिंग्स' के लिए प्रतिष्ठित मैन बुकर पुरस्कार जीतने वाली पहली भारतीय महिला कौन थीं?",
+      "o": [
+        "Arundhati Roy (अरुंधति रॉय)",
+        "Anita Desai",
+        "Kiran Desai",
+        "Jhumpa Lahiri"
+      ],
+      "options": [
+        "Arundhati Roy (अरुंधति रॉय)",
+        "Anita Desai",
+        "Kiran Desai",
+        "Jhumpa Lahiri"
+      ],
+      "oHi": [
+        "अरुंधति रॉय",
+        "अनीता देसाई",
+        "किरण देसाई",
+        "झुम्पा लाहिड़ी"
+      ],
+      "optionsHi": [
+        "अरुंधति रॉय",
+        "अनीता देसाई",
+        "किरण देसाई",
+        "झुम्पा लाहिड़ी"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Arundhati Roy became the first Indian citizen to win the Booker Prize in 1997 for 'The God of Small Things', set in the village of Ayemenem in Kerala.",
+      "explanation": "Arundhati Roy became the first Indian citizen to win the Booker Prize in 1997 for 'The God of Small Things', set in the village of Ayemenem in Kerala.",
+      "expHi": "अरुंधति रॉय 1997 में अपने उपन्यास 'द गॉड ऑफ स्मॉल थिंग्स' (केरल के अय्यमेनम गाँव की पृष्ठभूमि पर आधारित) के लिए बुकर पुरस्कार जीतने वाली पहली भारतीय नागरिक बनीं।",
+      "explanationHi": "अरुंधति रॉय 1997 में अपने उपन्यास 'द गॉड ऑफ स्मॉल थिंग्स' (केरल के अय्यमेनम गाँव की पृष्ठभूमि पर आधारित) के लिए बुकर पुरस्कार जीतने वाली पहली भारतीय नागरिक बनीं।",
+      "hint": "First Indian citizen to win the Booker Prize; novel is set in Ayemenem, Kerala.",
+      "hintHi": "केरल के अय्यमेनम गाँव की पृष्ठभूमि पर रचित उपन्यास।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA"
+      ]
     }
-  ]
+  ],
+  "questionCount": 17
 }

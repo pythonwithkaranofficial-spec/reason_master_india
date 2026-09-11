@@ -31,26 +31,238 @@
   ],
   "mcqs": [
     {
+      "id": "gk_world_world_history_q1",
       "q": "On which Japanese city was the first atomic bomb ('Little Boy') dropped by the US B-29 bomber Enola Gay on 6 August 1945?",
+      "questionText": "On which Japanese city was the first atomic bomb ('Little Boy') dropped by the US B-29 bomber Enola Gay on 6 August 1945?",
+      "qHi": "द्वितीय विश्व युद्ध के दौरान 6 अगस्त 1945 को अमेरिकी वायुसेना द्वारा दुनिया का पहला परमाणु बम ('लिटिल बॉय') किस जापानी शहर पर गिराया गया था?",
+      "questionTextHi": "द्वितीय विश्व युद्ध के दौरान 6 अगस्त 1945 को अमेरिकी वायुसेना द्वारा दुनिया का पहला परमाणु बम ('लिटिल बॉय') किस जापानी शहर पर गिराया गया था?",
       "o": [
         "Hiroshima",
         "Nagasaki",
         "Tokyo",
         "Kyoto"
       ],
+      "options": [
+        "Hiroshima",
+        "Nagasaki",
+        "Tokyo",
+        "Kyoto"
+      ],
+      "oHi": [
+        "हिरोशिमा",
+        "नागासाकी",
+        "टोक्यो",
+        "ओसाका"
+      ],
+      "optionsHi": [
+        "हिरोशिमा",
+        "नागासाकी",
+        "टोक्यो",
+        "ओसाका"
+      ],
       "a": 0,
-      "exp": "The first wartime nuclear weapon was detonated over Hiroshima on 6 August 1945, followed by Nagasaki on 9 August."
+      "correctIndex": 0,
+      "exp": "The first wartime nuclear weapon was detonated over Hiroshima on 6 August 1945, followed by Nagasaki on 9 August.",
+      "explanation": "The first wartime nuclear weapon was detonated over Hiroshima on 6 August 1945, followed by Nagasaki on 9 August.",
+      "expHi": "अमेरिकी बी-29 बॉम्बर 'एनोला गे' ने 6 अगस्त 1945 को हिरोशिमा पर पहला यूरेनियम परमाणु बम गिराया था। दूसरा बम ('फैट मैन') 9 अगस्त को नागासाकी पर गिराया गया।",
+      "explanationHi": "अमेरिकी बी-29 बॉम्बर 'एनोला गे' ने 6 अगस्त 1945 को हिरोशिमा पर पहला यूरेनियम परमाणु बम गिराया था। दूसरा बम ('फैट मैन') 9 अगस्त को नागासाकी पर गिराया गया।",
+      "hint": "Recall standard international treaties, geography, and global organizations for World History.",
+      "hintHi": "नागासाकी पर तीन दिन बाद दूसरा परमाणु बम गिराया गया था।",
+      "difficulty": "medium",
+      "examTags": [
+        "ssc_cgl",
+        "railway",
+        "defence",
+        "banking_ga"
+      ]
     },
     {
+      "id": "gk_world_world_history_q2",
       "q": "The storming of which medieval fortress and political prison on 14 July 1789 marked the outbreak of the French Revolution?",
+      "questionText": "The storming of which medieval fortress and political prison on 14 July 1789 marked the outbreak of the French Revolution?",
+      "qHi": "14 जुलाई 1789 को पेरिस में किस कुख्यात मध्यकालीन जेल-किले पर जनता के हमले ने फ्रांसीसी क्रांति की शुरुआत की?",
+      "questionTextHi": "14 जुलाई 1789 को पेरिस में किस कुख्यात मध्यकालीन जेल-किले पर जनता के हमले ने फ्रांसीसी क्रांति की शुरुआत की?",
       "o": [
         "Bastille",
         "Tuileries Palace",
         "Versailles",
         "Conciergerie"
       ],
+      "options": [
+        "Bastille",
+        "Tuileries Palace",
+        "Versailles",
+        "Conciergerie"
+      ],
+      "oHi": [
+        "बास्तिल (Bastille)",
+        "वर्साय का महल",
+        "ट्यूलरीज",
+        "लौवर"
+      ],
+      "optionsHi": [
+        "बास्तिल (Bastille)",
+        "वर्साय का महल",
+        "ट्यूलरीज",
+        "लौवर"
+      ],
       "a": 0,
-      "exp": "The storming of the Bastille became the defining flashpoint of the French Revolution, commemorated annually as Bastille Day."
+      "correctIndex": 0,
+      "exp": "The storming of the Bastille became the defining flashpoint of the French Revolution, commemorated annually as Bastille Day.",
+      "explanation": "The storming of the Bastille became the defining flashpoint of the French Revolution, commemorated annually as Bastille Day.",
+      "expHi": "बास्तिल के पतन को निरंकुश बोरबॉन राजशाही के अंत का प्रतीक माना जाता है। 14 जुलाई को फ्रांस में राष्ट्रीय दिवस ('बास्तिल डे') के रूप में मनाया जाता है।",
+      "explanationHi": "बास्तिल के पतन को निरंकुश बोरबॉन राजशाही के अंत का प्रतीक माना जाता है। 14 जुलाई को फ्रांस में राष्ट्रीय दिवस ('बास्तिल डे') के रूप में मनाया जाता है।",
+      "hint": "Recall standard international treaties, geography, and global organizations for World History.",
+      "hintHi": "फ्रांस में हर वर्ष 14 जुलाई को बास्तिल दिवस राष्ट्रीय अवकाश के रूप में मनाया जाता है।",
+      "difficulty": "medium",
+      "examTags": [
+        "ssc_cgl",
+        "railway",
+        "defence",
+        "banking_ga"
+      ]
+    },
+    {
+      "id": "gk_world_world_history_curated_7",
+      "q": "Which colossal neoclassical sculpture was gifted by the people of France to the United States in 1886 to commemorate friendship and liberty?",
+      "questionText": "Which colossal neoclassical sculpture was gifted by the people of France to the United States in 1886 to commemorate friendship and liberty?",
+      "qHi": "1886 में फ्रांस की जनता ने संयुक्त राज्य अमेरिका को स्वतंत्रता और मैत्री के प्रतीक के रूप में कौन सी विशाल प्रतिमा भेंट की थी?",
+      "questionTextHi": "1886 में फ्रांस की जनता ने संयुक्त राज्य अमेरिका को स्वतंत्रता और मैत्री के प्रतीक के रूप में कौन सी विशाल प्रतिमा भेंट की थी?",
+      "o": [
+        "Statue of Liberty (न्यूयॉर्क)",
+        "Christ the Redeemer",
+        "Eiffel Tower",
+        "The Thinker"
+      ],
+      "options": [
+        "Statue of Liberty (न्यूयॉर्क)",
+        "Christ the Redeemer",
+        "Eiffel Tower",
+        "The Thinker"
+      ],
+      "oHi": [
+        "स्टैच्यू ऑफ लिबर्टी (Statue of Liberty)",
+        "क्राइस्ट द रिडीमर",
+        "एफिल टॉवर",
+        "द थिंकर"
+      ],
+      "optionsHi": [
+        "स्टैच्यू ऑफ लिबर्टी (Statue of Liberty)",
+        "क्राइस्ट द रिडीमर",
+        "एफिल टॉवर",
+        "द थिंकर"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "The Statue of Liberty (Liberty Enlightening the World) was sculpted by Frédéric-Auguste Bartholdi with internal framework by Gustave Eiffel and dedicated on Liberty Island in New York Harbor in 1886.",
+      "explanation": "The Statue of Liberty (Liberty Enlightening the World) was sculpted by Frédéric-Auguste Bartholdi with internal framework by Gustave Eiffel and dedicated on Liberty Island in New York Harbor in 1886.",
+      "expHi": "स्टैच्यू ऑफ लिबर्टी की डिजाइन मूर्तिकार फ्रेडरिक ऑगस्ट बार्थोल्डी ने बनाई थी और इसका आंतरिक ढांचा गुस्ताव एफिल ने तैयार किया था। इसे 1886 में फ्रांस ने अमेरिका को उपहार स्वरूप दिया था।",
+      "explanationHi": "स्टैच्यू ऑफ लिबर्टी की डिजाइन मूर्तिकार फ्रेडरिक ऑगस्ट बार्थोल्डी ने बनाई थी और इसका आंतरिक ढांचा गुस्ताव एफिल ने तैयार किया था। इसे 1886 में फ्रांस ने अमेरिका को उपहार स्वरूप दिया था।",
+      "hint": "Sculpted by Frédéric-Auguste Bartholdi and situated on Liberty Island in New York.",
+      "hintHi": "न्यूयॉर्क हार्बर के लिबर्टी द्वीप पर स्थित विश्व प्रसिद्ध प्रतिमा।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "Banking",
+        "Railways"
+      ]
+    },
+    {
+      "id": "gk_world_world_history_quiz_14",
+      "q": "The ancient rose-red city of 'Petra', half-carved into sandstone cliffs, is located in which modern Middle Eastern country?",
+      "questionText": "The ancient rose-red city of 'Petra', half-carved into sandstone cliffs, is located in which modern Middle Eastern country?",
+      "qHi": "चट्टानों को तराश कर बनाई गई प्राचीन 'पेत्रा' (Petra) नगरी किस आधुनिक मध्य-पूर्वी देश में स्थित है?",
+      "questionTextHi": "चट्टानों को तराश कर बनाई गई प्राचीन 'पेत्रा' (Petra) नगरी किस आधुनिक मध्य-पूर्वी देश में स्थित है?",
+      "o": [
+        "Jordan (जॉर्डन)",
+        "Egypt",
+        "Syria",
+        "Iraq"
+      ],
+      "options": [
+        "Jordan (जॉर्डन)",
+        "Egypt",
+        "Syria",
+        "Iraq"
+      ],
+      "oHi": [
+        "जॉर्डन",
+        "मिस्र",
+        "सीरिया",
+        "इराक"
+      ],
+      "optionsHi": [
+        "जॉर्डन",
+        "मिस्र",
+        "सीरिया",
+        "इराक"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Petra, the historic capital of the Nabataean kingdom established around the 4th century BCE, is famous for its rock-cut architecture (such as Al-Khazneh) in modern-day Jordan.",
+      "explanation": "Petra, the historic capital of the Nabataean kingdom established around the 4th century BCE, is famous for its rock-cut architecture (such as Al-Khazneh) in modern-day Jordan.",
+      "expHi": "पेत्रा जॉर्डन के मआन प्रांत में स्थित प्राचीन नबाती साम्राज्य की राजधानी थी, जिसे लाल बलुआ पत्थर की चट्टानों को तराश कर बनाया गया था। यह नवीन सात अजूबों में शामिल है।",
+      "explanationHi": "पेत्रा जॉर्डन के मआन प्रांत में स्थित प्राचीन नबाती साम्राज्य की राजधानी थी, जिसे लाल बलुआ पत्थर की चट्टानों को तराश कर बनाया गया था। यह नवीन सात अजूबों में शामिल है।",
+      "hint": "Capital of the ancient Nabataean kingdom; famous for Al-Khazneh (The Treasury).",
+      "hintHi": "प्राचीन नबाती राज्य की राजधानी; अल-खजनेह (खजाना) के लिए विख्यात।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "Banking",
+        "Railways"
+      ]
+    },
+    {
+      "id": "gk_world_world_history_quiz_15",
+      "q": "Which ancient wonder of the world is the only one still largely intact today?",
+      "questionText": "Which ancient wonder of the world is the only one still largely intact today?",
+      "qHi": "प्राचीन विश्व के सात अजूबों में से एकमात्र कौन सा अजूबा आज भी अपने मूल स्वरूप में विद्यमान है?",
+      "questionTextHi": "प्राचीन विश्व के सात अजूबों में से एकमात्र कौन सा अजूबा आज भी अपने मूल स्वरूप में विद्यमान है?",
+      "o": [
+        "Great Pyramid of Giza (Egypt)",
+        "Hanging Gardens of Babylon",
+        "Colossus of Rhodes",
+        "Lighthouse of Alexandria"
+      ],
+      "options": [
+        "Great Pyramid of Giza (Egypt)",
+        "Hanging Gardens of Babylon",
+        "Colossus of Rhodes",
+        "Lighthouse of Alexandria"
+      ],
+      "oHi": [
+        "गीजा का महान पिरामिड (मिस्र)",
+        "बेबिलोन के झूलते बाग",
+        "रोड्स की विशाल प्रतिमा",
+        "अलेक्जेंड्रिया का प्रकाशस्तंभ"
+      ],
+      "optionsHi": [
+        "गीजा का महान पिरामिड (मिस्र)",
+        "बेबिलोन के झूलते बाग",
+        "रोड्स की विशाल प्रतिमा",
+        "अलेक्जेंड्रिया का प्रकाशस्तंभ"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "The Great Pyramid of Giza (Pyramid of Khufu), built circa 2560 BCE in ancient Egypt, is the oldest and only surviving wonder of the original Seven Wonders of the Ancient World.",
+      "explanation": "The Great Pyramid of Giza (Pyramid of Khufu), built circa 2560 BCE in ancient Egypt, is the oldest and only surviving wonder of the original Seven Wonders of the Ancient World.",
+      "expHi": "मिस्र के काहिरा के पास स्थित गीजा का पिरामिड (खूफू का पिरामिड, लगभग 2560 ईसा पूर्व) प्राचीन विश्व के सात आश्चर्यों में सबसे पुराना और एकमात्र शेष बचा आश्चर्य है।",
+      "explanationHi": "मिस्र के काहिरा के पास स्थित गीजा का पिरामिड (खूफू का पिरामिड, लगभग 2560 ईसा पूर्व) प्राचीन विश्व के सात आश्चर्यों में सबसे पुराना और एकमात्र शेष बचा आश्चर्य है।",
+      "hint": "Constructed around 2560 BCE during the reign of Pharaoh Khufu.",
+      "hintHi": "लगभग 2560 ईसा पूर्व फिरौन खूफू के काल में निर्मित।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "Banking",
+        "Railways"
+      ]
     }
-  ]
+  ],
+  "questionCount": 2
 }

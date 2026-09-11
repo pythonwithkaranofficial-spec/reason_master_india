@@ -31,26 +31,98 @@
   "schemes": "Mukhyamantri Mahalakshmi Yojana, Ghasyari Kalyan Yojana, Uniform Civil Code (UCC)",
   "mcqs": [
     {
+      "id": "gk_state_uttarakhand_q1",
       "q": "India's first and oldest national park, established in 1936 as Hailey National Park, is situated in which district of Uttarakhand?",
+      "questionText": "India's first and oldest national park, established in 1936 as Hailey National Park, is situated in which district of Uttarakhand?",
+      "qHi": "1936 में 'हेली नेशनल पार्क' के रूप में स्थापित भारत का पहला और सबसे पुराना राष्ट्रीय उद्यान कौन सा है?",
+      "questionTextHi": "1936 में 'हेली नेशनल पार्क' के रूप में स्थापित भारत का पहला और सबसे पुराना राष्ट्रीय उद्यान कौन सा है?",
       "o": [
         "Jim Corbett National Park (Nainital & Pauri)",
         "Rajaji National Park",
         "Nanda Devi National Park",
         "Govind National Park"
       ],
+      "options": [
+        "Jim Corbett National Park (Nainital & Pauri)",
+        "Rajaji National Park",
+        "Nanda Devi National Park",
+        "Govind National Park"
+      ],
+      "oHi": [
+        "जिम कॉर्बेट राष्ट्रीय उद्यान",
+        "राजाजी राष्ट्रीय उद्यान",
+        "नंदा देवी राष्ट्रीय उद्यान",
+        "गंगोत्री राष्ट्रीय उद्यान"
+      ],
+      "optionsHi": [
+        "जिम कॉर्बेट राष्ट्रीय उद्यान",
+        "राजाजी राष्ट्रीय उद्यान",
+        "नंदा देवी राष्ट्रीय उद्यान",
+        "गंगोत्री राष्ट्रीय उद्यान"
+      ],
       "a": 0,
-      "exp": "Established in 1936 to protect the Bengal tiger, it was renamed Jim Corbett National Park in 1957."
+      "correctIndex": 0,
+      "exp": "Established in 1936 to protect the Bengal tiger, it was renamed Jim Corbett National Park in 1957.",
+      "explanation": "Established in 1936 to protect the Bengal tiger, it was renamed Jim Corbett National Park in 1957.",
+      "expHi": "1936 में स्थापित जिम कॉर्बेट राष्ट्रीय उद्यान 1973 में 'प्रोजेक्ट टाइगर' के तहत आने वाला पहला टाइगर रिजर्व बना। यह रामगंगा नदी घाटी में स्थित है।",
+      "explanationHi": "1936 में स्थापित जिम कॉर्बेट राष्ट्रीय उद्यान 1973 में 'प्रोजेक्ट टाइगर' के तहत आने वाला पहला टाइगर रिजर्व बना। यह रामगंगा नदी घाटी में स्थित है।",
+      "hint": "Reflect upon the geographic, political, and cultural heritage of Uttarakhand.",
+      "hintHi": "1973 में यहीं से 'प्रोजेक्ट टाइगर' की शुरुआत हुई थी।",
+      "difficulty": "medium",
+      "lastVerified": "2026-01-01",
+      "examTags": [
+        "ssc_cgl",
+        "state_psc",
+        "railway",
+        "police"
+      ]
     },
     {
+      "id": "gk_state_uttarakhand_q2",
       "q": "At which holy confluence (Prayag) do the Bhagirathi and Alaknanda rivers unite to officially become the River Ganga?",
+      "questionText": "At which holy confluence (Prayag) do the Bhagirathi and Alaknanda rivers unite to officially become the River Ganga?",
+      "qHi": "पंच प्रयागों में से किस पवित्र संगम पर भागीरथी और अलकनंदा नदियां मिलकर औपचारिक रूप से 'गंगा' बनती हैं?",
+      "questionTextHi": "पंच प्रयागों में से किस पवित्र संगम पर भागीरथी और अलकनंदा नदियां मिलकर औपचारिक रूप से 'गंगा' बनती हैं?",
       "o": [
         "Devprayag",
         "Rudraprayag",
         "Karnaprayag",
         "Vishnuprayag"
       ],
+      "options": [
+        "Devprayag",
+        "Rudraprayag",
+        "Karnaprayag",
+        "Vishnuprayag"
+      ],
+      "oHi": [
+        "देवप्रयाग",
+        "रुद्रप्रयाग",
+        "कर्णप्रयाग",
+        "विष्णुप्रयाग"
+      ],
+      "optionsHi": [
+        "देवप्रयाग",
+        "रुद्रप्रयाग",
+        "कर्णप्रयाग",
+        "विष्णुप्रयाग"
+      ],
       "a": 0,
-      "exp": "At Devprayag, the Bhagirathi joins the Alaknanda, and the combined stream flows forward as the holy Ganga."
+      "correctIndex": 0,
+      "exp": "At Devprayag, the Bhagirathi joins the Alaknanda, and the combined stream flows forward as the holy Ganga.",
+      "explanation": "At Devprayag, the Bhagirathi joins the Alaknanda, and the combined stream flows forward as the holy Ganga.",
+      "expHi": "टिहरी गढ़वाल जिले के देवप्रयाग में शांत अलकनंदा और तीव्र प्रवाह वाली भागीरथी का संगम होता है, जिसके बाद इसे 'गंगा' के नाम से जाना जाता है।",
+      "explanationHi": "टिहरी गढ़वाल जिले के देवप्रयाग में शांत अलकनंदा और तीव्र प्रवाह वाली भागीरथी का संगम होता है, जिसके बाद इसे 'गंगा' के नाम से जाना जाता है।",
+      "hint": "Reflect upon the geographic, political, and cultural heritage of Uttarakhand.",
+      "hintHi": "यह पंच प्रयागों में अंतिम और सबसे पवित्र संगम है।",
+      "difficulty": "medium",
+      "lastVerified": "2026-01-01",
+      "examTags": [
+        "ssc_cgl",
+        "state_psc",
+        "railway",
+        "police"
+      ]
     }
   ],
   "subtopics": [
@@ -273,5 +345,6 @@
         }
       ]
     }
-  ]
+  ],
+  "mcqCount": 2
 }

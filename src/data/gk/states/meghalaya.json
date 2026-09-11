@@ -32,26 +32,98 @@
   "schemes": "FOCUS Scheme, Meghalaya Health Insurance Scheme (MHIS)",
   "mcqs": [
     {
+      "id": "gk_state_meghalaya_q1",
       "q": "Which location in Meghalaya holds the Guinness World Record for the highest average annual rainfall on Earth?",
+      "questionText": "Which location in Meghalaya holds the Guinness World Record for the highest average annual rainfall on Earth?",
+      "qHi": "मेघालय का कौन सा स्थान पृथ्वी पर सबसे अधिक औसत वार्षिक वर्षा (लगभग 11,872 मिमी) दर्ज करने के लिए प्रसिद्ध है?",
+      "questionTextHi": "मेघालय का कौन सा स्थान पृथ्वी पर सबसे अधिक औसत वार्षिक वर्षा (लगभग 11,872 मिमी) दर्ज करने के लिए प्रसिद्ध है?",
       "o": [
         "Mawsynram",
         "Cherrapunji (Sohra)",
         "Shillong",
         "Tura"
       ],
+      "options": [
+        "Mawsynram",
+        "Cherrapunji (Sohra)",
+        "Shillong",
+        "Tura"
+      ],
+      "oHi": [
+        "मौसिनराम",
+        "चेरापूंजी (सोहरा)",
+        "शिलांग",
+        "जोवाई"
+      ],
+      "optionsHi": [
+        "मौसिनराम",
+        "चेरापूंजी (सोहरा)",
+        "शिलांग",
+        "जोवाई"
+      ],
       "a": 0,
-      "exp": "Mawsynram in the East Khasi Hills receives approximately 11,872 mm of rain annually, making it the wettest place on Earth."
+      "correctIndex": 0,
+      "exp": "Mawsynram in the East Khasi Hills receives approximately 11,872 mm of rain annually, making it the wettest place on Earth.",
+      "explanation": "Mawsynram in the East Khasi Hills receives approximately 11,872 mm of rain annually, making it the wettest place on Earth.",
+      "expHi": "खासी पहाड़ियों में स्थित मौसिनराम बंगाल की खाड़ी से आने वाली मानसूनी पवनों के कीपनुमा संघनन के कारण पृथ्वी का सबसे नम स्थान है।",
+      "explanationHi": "खासी पहाड़ियों में स्थित मौसिनराम बंगाल की खाड़ी से आने वाली मानसूनी पवनों के कीपनुमा संघनन के कारण पृथ्वी का सबसे नम स्थान है।",
+      "hint": "Reflect upon the geographic, political, and cultural heritage of Meghalaya.",
+      "hintHi": "यह पूर्वी खासी हिल्स जिले में स्थित है।",
+      "difficulty": "medium",
+      "lastVerified": "2026-01-01",
+      "examTags": [
+        "ssc_cgl",
+        "state_psc",
+        "railway",
+        "police"
+      ]
     },
     {
+      "id": "gk_state_meghalaya_q2",
       "q": "The indigenous living root bridges of Meghalaya are grown and guided across streams from the aerial roots of which tree?",
+      "questionText": "The indigenous living root bridges of Meghalaya are grown and guided across streams from the aerial roots of which tree?",
+      "qHi": "मेघालय के स्वदेशी जीवित जड़ पुल (लिविंग रूट ब्रिज) किस वृक्ष की हवाई जड़ों को गूंथकर बनाए जाते हैं?",
+      "questionTextHi": "मेघालय के स्वदेशी जीवित जड़ पुल (लिविंग रूट ब्रिज) किस वृक्ष की हवाई जड़ों को गूंथकर बनाए जाते हैं?",
       "o": [
         "Ficus elastica (Rubber fig)",
         "Ficus religiosa (Peepal)",
         "Ficus benghalensis (Banyan)",
         "Bambusa vulgaris (Bamboo)"
       ],
+      "options": [
+        "Ficus elastica (Rubber fig)",
+        "Ficus religiosa (Peepal)",
+        "Ficus benghalensis (Banyan)",
+        "Bambusa vulgaris (Bamboo)"
+      ],
+      "oHi": [
+        "फिकस इलास्टिका (रबर का पेड़)",
+        "बरगद का पेड़",
+        "बांस",
+        "साल का वृक्ष"
+      ],
+      "optionsHi": [
+        "फिकस इलास्टिका (रबर का पेड़)",
+        "बरगद का पेड़",
+        "बांस",
+        "साल का वृक्ष"
+      ],
       "a": 0,
-      "exp": "Khasi and Jaintia tribes train the aerial roots of Ficus elastica through hollow betel nut trunks across riverbanks."
+      "correctIndex": 0,
+      "exp": "Khasi and Jaintia tribes train the aerial roots of Ficus elastica through hollow betel nut trunks across riverbanks.",
+      "explanation": "Khasi and Jaintia tribes train the aerial roots of Ficus elastica through hollow betel nut trunks across riverbanks.",
+      "expHi": "खासी और जयंतिया जनजातियाँ फिकस इलास्टिका (भारतीय रबर अंजीर) की द्वितीयक हवाई जड़ों को सुपारी के तनों के सहारे नदियों के आर-पार गूंथकर मजबूत पुल बनाती हैं।",
+      "explanationHi": "खासी और जयंतिया जनजातियाँ फिकस इलास्टिका (भारतीय रबर अंजीर) की द्वितीयक हवाई जड़ों को सुपारी के तनों के सहारे नदियों के आर-पार गूंथकर मजबूत पुल बनाती हैं।",
+      "hint": "Reflect upon the geographic, political, and cultural heritage of Meghalaya.",
+      "hintHi": "यह भारतीय रबर के पेड़ की लचीली और मजबूत जड़ें हैं।",
+      "difficulty": "medium",
+      "lastVerified": "2026-01-01",
+      "examTags": [
+        "ssc_cgl",
+        "state_psc",
+        "railway",
+        "police"
+      ]
     }
   ],
   "subtopics": [
@@ -274,5 +346,6 @@
         }
       ]
     }
-  ]
+  ],
+  "mcqCount": 2
 }

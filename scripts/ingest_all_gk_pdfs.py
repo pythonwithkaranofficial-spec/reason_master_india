@@ -801,10 +801,26 @@ def main():
         raj_qs = [q for q in final_questions if q.get("stateId") == "rajasthan"]
         raj_data["mcqs"] = [
             {
+                "id": q["id"],
                 "q": q["questionText"],
+                "questionText": q["questionText"],
+                "qHi": q.get("questionTextHi", ""),
+                "questionTextHi": q.get("questionTextHi", ""),
                 "o": q["options"],
+                "options": q["options"],
+                "oHi": q.get("optionsHi", []),
+                "optionsHi": q.get("optionsHi", []),
                 "a": q["correctIndex"],
-                "exp": q["explanation"]
+                "correctIndex": q["correctIndex"],
+                "exp": q.get("explanation", ""),
+                "explanation": q.get("explanation", ""),
+                "expHi": q.get("explanationHi", ""),
+                "explanationHi": q.get("explanationHi", ""),
+                "hint": q.get("hint", ""),
+                "hintHi": q.get("hintHi", ""),
+                "difficulty": q.get("difficulty", "medium"),
+                "lastVerified": q.get("lastVerified", "2026-01-01"),
+                "examTags": q.get("examTags", [])
             }
             for q in raj_qs
         ]

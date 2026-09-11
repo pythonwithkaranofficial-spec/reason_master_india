@@ -62,227 +62,233 @@ export default async function StateDetailPage({ params }: StateDetailPageProps) 
   const prevState = ALL_STATES_SUMMARY[prevIndex];
   const nextState = ALL_STATES_SUMMARY[nextIndex];
 
-  // Map mcqs to GKPracticeQuestion
+  // Map mcqs to GKPracticeQuestion with complete bilingual fields
   const practiceQuestions: GKPracticeQuestion[] = ((state as any).mcqs || []).map(
     (m: any, idx: number) => ({
-      id: `gk_state_${state.id}_q${idx + 1}`,
-      questionText: m.q,
-      options: m.o,
-      correctIndex: m.a,
-      explanation: m.exp,
-      difficulty: "medium",
-      lastVerified: state.lastVerified,
+      id: m.id || `gk_state_${state.id}_q${idx + 1}`,
+      questionText: m.questionText || m.q,
+      questionTextHi: m.questionTextHi || m.qHi,
+      options: m.options || m.o,
+      optionsHi: m.optionsHi || m.oHi,
+      correctIndex: m.correctIndex ?? m.a ?? 0,
+      explanation: m.explanation || m.exp || "",
+      explanationHi: m.explanationHi || m.expHi || "",
+      hint: m.hint || "",
+      hintHi: m.hintHi || "",
+      difficulty: m.difficulty || "medium",
+      lastVerified: m.lastVerified || state.lastVerified,
     })
   );
 
   const isUT = state.type === "ut";
 
   return (
-    <div style={{ paddingBottom: "var(--space-12)" }}>
-      {/* 1. Header Section */}
-      <section
+    <div className="container" style={{ paddingTop: "var(--space-6)", paddingBottom: "var(--space-16)" }}>
+      {/* Breadcrumb Navigation */}
+      <Breadcrumb
+        items={[
+          { label: "GK Hub", href: "/gk" },
+          { label: "States & UTs", href: "/gk/state" },
+          { label: state.name },
+        ]}
+      />
+
+      {/* 1. Hero Card - Consistent with Reasoning Topic Layout */}
+      <div
+        className="rm-card"
         style={{
-          padding: "var(--space-6) 0 var(--space-6)",
-          borderBottom: "1px solid var(--border-color)",
+          padding: "clamp(var(--space-6), 4vw, var(--space-8))",
+          marginTop: "var(--space-4)",
+          marginBottom: "var(--space-8)",
           backgroundColor: "var(--bg-surface)",
         }}
       >
-        <div className="container" style={{ maxWidth: "1200px", margin: "0 auto", padding: "0 var(--space-4)" }}>
-          <Breadcrumb
-            items={[
-              { label: "GK Hub", href: "/gk" },
-              { label: "States & UTs", href: "/gk/state" },
-              { label: state.name },
-            ]}
-          />
+        <div>
+          {/* Badges Bar */}
+          <div
+            style={{
+              display: "flex",
+              flexWrap: "wrap",
+              alignItems: "center",
+              gap: "var(--space-2)",
+              marginBottom: "var(--space-3)",
+            }}
+          >
+            <span
+              className="tag"
+              style={{
+                fontSize: "0.8rem",
+                fontWeight: 700,
+                backgroundColor: isUT ? "rgba(245, 158, 11, 0.12)" : "var(--color-primary-subtle)",
+                color: isUT ? "#d97706" : "var(--color-primary)",
+                borderColor: isUT ? "rgba(245, 158, 11, 0.25)" : "var(--border-color)",
+              }}
+            >
+              {isUT ? "Union Territory" : "State of India"}
+            </span>
 
-          <div style={{ marginTop: "var(--space-4)" }}>
-            {/* Badges Bar */}
+            <span
+              style={{
+                display: "inline-flex",
+                alignItems: "center",
+                gap: "4px",
+                fontSize: "0.78rem",
+                fontWeight: 600,
+                color: "#059669",
+                backgroundColor: "rgba(16, 185, 129, 0.1)",
+                border: "1px solid rgba(16, 185, 129, 0.25)",
+                padding: "3px 8px",
+                borderRadius: "var(--radius-sm)",
+              }}
+            >
+              <ShieldCheck size={14} />
+              Verified As of {state.lastVerified}
+            </span>
+          </div>
+
+          {/* State Title */}
+          <h1
+            style={{
+              fontSize: "clamp(2rem, 4vw, 2.75rem)",
+              fontWeight: 800,
+              color: "var(--text-primary)",
+              letterSpacing: "-0.02em",
+              lineHeight: 1.15,
+              marginBottom: "var(--space-2)",
+            }}
+          >
+            {state.name}
+          </h1>
+
+          <p
+            style={{
+              fontSize: "1.05rem",
+              color: "var(--text-secondary)",
+              lineHeight: 1.6,
+              maxWidth: "950px",
+              marginBottom: "var(--space-6)",
+            }}
+          >
+            {state.summary}
+          </p>
+
+          {/* Key Fact Pills / Grid */}
+          <div
+            style={{
+              display: "grid",
+              gridTemplateColumns: "repeat(auto-fit, minmax(200px, 1fr))",
+              gap: "var(--space-3)",
+            }}
+          >
             <div
               style={{
+                padding: "var(--space-3) var(--space-4)",
+                borderRadius: "var(--radius-md)",
+                backgroundColor: "var(--bg-surface-elevated, var(--bg-surface))",
+                border: "1px solid var(--border-color)",
+              }}
+            >
+              <div style={{ fontSize: "0.75rem", color: "var(--text-muted)", marginBottom: "2px" }}>Capital</div>
+              <div style={{ fontSize: "0.95rem", fontWeight: 700, color: "var(--text-primary)" }}>{state.capital}</div>
+            </div>
+
+            <div
+              style={{
+                padding: "var(--space-3) var(--space-4)",
+                borderRadius: "var(--radius-md)",
+                backgroundColor: "var(--bg-surface-elevated, var(--bg-surface))",
+                border: "1px solid var(--border-color)",
+              }}
+            >
+              <div style={{ fontSize: "0.75rem", color: "var(--text-muted)", marginBottom: "2px" }}>Formation Date</div>
+              <div style={{ fontSize: "0.95rem", fontWeight: 700, color: "var(--text-primary)" }}>{state.formationDate}</div>
+            </div>
+
+            <div
+              style={{
+                padding: "var(--space-3) var(--space-4)",
+                borderRadius: "var(--radius-md)",
+                backgroundColor: "var(--bg-surface-elevated, var(--bg-surface))",
+                border: "1px solid var(--border-color)",
+              }}
+            >
+              <div style={{ fontSize: "0.75rem", color: "var(--text-muted)", marginBottom: "2px" }}>Area &amp; Districts</div>
+              <div style={{ fontSize: "0.95rem", fontWeight: 700, color: "var(--text-primary)" }}>
+                {state.areaSqKm.toLocaleString()} km² • {state.districtsCount} Districts
+              </div>
+            </div>
+
+            <div
+              style={{
+                padding: "var(--space-3) var(--space-4)",
+                borderRadius: "var(--radius-md)",
+                backgroundColor: "var(--bg-surface-elevated, var(--bg-surface))",
+                border: "1px solid var(--border-color)",
+              }}
+            >
+              <div style={{ fontSize: "0.75rem", color: "var(--text-muted)", marginBottom: "2px" }}>High Court</div>
+              <div style={{ fontSize: "0.95rem", fontWeight: 700, color: "var(--text-primary)", overflow: "hidden", textOverflow: "ellipsis", whiteSpace: "nowrap" }}>
+                {state.highCourt}
+              </div>
+            </div>
+
+            {state.chiefMinister && (
+              <div
+                style={{
+                  padding: "var(--space-3) var(--space-4)",
+                  borderRadius: "var(--radius-md)",
+                  backgroundColor: "var(--bg-surface-elevated, var(--bg-surface))",
+                  border: "1px solid var(--border-color)",
+                }}
+              >
+                <div style={{ fontSize: "0.75rem", color: "var(--text-muted)", marginBottom: "2px" }}>Chief Minister</div>
+                <div style={{ fontSize: "0.95rem", fontWeight: 700, color: "var(--text-primary)" }}>{state.chiefMinister}</div>
+              </div>
+            )}
+
+            <div
+              style={{
+                padding: "var(--space-3) var(--space-4)",
+                borderRadius: "var(--radius-md)",
+                backgroundColor: "var(--bg-surface-elevated, var(--bg-surface))",
+                border: "1px solid var(--border-color)",
+              }}
+            >
+              <div style={{ fontSize: "0.75rem", color: "var(--text-muted)", marginBottom: "2px" }}>{state.governorTitle}</div>
+              <div style={{ fontSize: "0.95rem", fontWeight: 700, color: "var(--text-primary)" }}>{state.governorOrLtGovernor}</div>
+            </div>
+          </div>
+
+          {/* Official State Symbols Banner */}
+          {state.stateSymbols && (
+            <div
+              style={{
+                marginTop: "var(--space-4)",
+                padding: "var(--space-3) var(--space-4)",
+                borderRadius: "var(--radius-md)",
+                backgroundColor: "var(--color-primary-subtle)",
+                border: "1px solid var(--border-color)",
                 display: "flex",
                 flexWrap: "wrap",
                 alignItems: "center",
-                gap: "var(--space-2)",
-                marginBottom: "var(--space-3)",
+                gap: "var(--space-4)",
+                fontSize: "0.85rem",
               }}
             >
-              <span
-                className="tag"
-                style={{
-                  fontSize: "0.8rem",
-                  fontWeight: 700,
-                  backgroundColor: isUT ? "rgba(245, 158, 11, 0.12)" : "var(--color-primary-subtle)",
-                  color: isUT ? "#d97706" : "var(--color-primary)",
-                  borderColor: isUT ? "rgba(245, 158, 11, 0.25)" : "var(--border-color)",
-                }}
-              >
-                {isUT ? "Union Territory" : "State of India"}
-              </span>
-
-              <span
-                style={{
-                  display: "inline-flex",
-                  alignItems: "center",
-                  gap: "4px",
-                  fontSize: "0.78rem",
-                  fontWeight: 600,
-                  color: "#059669",
-                  backgroundColor: "rgba(16, 185, 129, 0.1)",
-                  border: "1px solid rgba(16, 185, 129, 0.25)",
-                  padding: "3px 8px",
-                  borderRadius: "var(--radius-sm)",
-                }}
-              >
-                <ShieldCheck size={14} />
-                Verified As of {state.lastVerified}
-              </span>
+              <span style={{ fontWeight: 700, color: "var(--color-primary)" }}>Official Symbols:</span>
+              <span><strong>Animal:</strong> {state.stateSymbols.animal || "N/A"}</span>
+              <span><strong>Bird:</strong> {state.stateSymbols.bird || "N/A"}</span>
+              <span><strong>Flower:</strong> {state.stateSymbols.flower || "N/A"}</span>
+              <span><strong>Tree:</strong> {state.stateSymbols.tree || "N/A"}</span>
             </div>
-
-            {/* State Title */}
-            <h1
-              style={{
-                fontSize: "clamp(2rem, 4vw, 2.75rem)",
-                fontWeight: 800,
-                color: "var(--text-primary)",
-                letterSpacing: "-0.02em",
-                lineHeight: 1.15,
-                marginBottom: "var(--space-2)",
-              }}
-            >
-              {state.name}
-            </h1>
-
-            <p
-              style={{
-                fontSize: "1.1rem",
-                color: "var(--text-secondary)",
-                lineHeight: 1.55,
-                maxWidth: "900px",
-                marginBottom: "var(--space-6)",
-              }}
-            >
-              {state.summary}
-            </p>
-
-            {/* Key Fact Pills / Grid */}
-            <div
-              style={{
-                display: "grid",
-                gridTemplateColumns: "repeat(auto-fit, minmax(220px, 1fr))",
-                gap: "var(--space-3)",
-              }}
-            >
-              <div
-                style={{
-                  padding: "var(--space-3) var(--space-4)",
-                  borderRadius: "var(--radius-md)",
-                  backgroundColor: "var(--bg-surface-elevated, var(--bg-surface))",
-                  border: "1px solid var(--border-color)",
-                }}
-              >
-                <div style={{ fontSize: "0.75rem", color: "var(--text-muted)", marginBottom: "2px" }}>Capital</div>
-                <div style={{ fontSize: "0.95rem", fontWeight: 700, color: "var(--text-primary)" }}>{state.capital}</div>
-              </div>
-
-              <div
-                style={{
-                  padding: "var(--space-3) var(--space-4)",
-                  borderRadius: "var(--radius-md)",
-                  backgroundColor: "var(--bg-surface-elevated, var(--bg-surface))",
-                  border: "1px solid var(--border-color)",
-                }}
-              >
-                <div style={{ fontSize: "0.75rem", color: "var(--text-muted)", marginBottom: "2px" }}>Formation Date</div>
-                <div style={{ fontSize: "0.95rem", fontWeight: 700, color: "var(--text-primary)" }}>{state.formationDate}</div>
-              </div>
-
-              <div
-                style={{
-                  padding: "var(--space-3) var(--space-4)",
-                  borderRadius: "var(--radius-md)",
-                  backgroundColor: "var(--bg-surface-elevated, var(--bg-surface))",
-                  border: "1px solid var(--border-color)",
-                }}
-              >
-                <div style={{ fontSize: "0.75rem", color: "var(--text-muted)", marginBottom: "2px" }}>Area &amp; Districts</div>
-                <div style={{ fontSize: "0.95rem", fontWeight: 700, color: "var(--text-primary)" }}>
-                  {state.areaSqKm.toLocaleString()} km² • {state.districtsCount} Districts
-                </div>
-              </div>
-
-              <div
-                style={{
-                  padding: "var(--space-3) var(--space-4)",
-                  borderRadius: "var(--radius-md)",
-                  backgroundColor: "var(--bg-surface-elevated, var(--bg-surface))",
-                  border: "1px solid var(--border-color)",
-                }}
-              >
-                <div style={{ fontSize: "0.75rem", color: "var(--text-muted)", marginBottom: "2px" }}>High Court</div>
-                <div style={{ fontSize: "0.95rem", fontWeight: 700, color: "var(--text-primary)", overflow: "hidden", textOverflow: "ellipsis", whiteSpace: "nowrap" }}>
-                  {state.highCourt}
-                </div>
-              </div>
-
-              {state.chiefMinister && (
-                <div
-                  style={{
-                    padding: "var(--space-3) var(--space-4)",
-                    borderRadius: "var(--radius-md)",
-                    backgroundColor: "var(--bg-surface-elevated, var(--bg-surface))",
-                    border: "1px solid var(--border-color)",
-                  }}
-                >
-                  <div style={{ fontSize: "0.75rem", color: "var(--text-muted)", marginBottom: "2px" }}>Chief Minister</div>
-                  <div style={{ fontSize: "0.95rem", fontWeight: 700, color: "var(--text-primary)" }}>{state.chiefMinister}</div>
-                </div>
-              )}
-
-              <div
-                style={{
-                  padding: "var(--space-3) var(--space-4)",
-                  borderRadius: "var(--radius-md)",
-                  backgroundColor: "var(--bg-surface-elevated, var(--bg-surface))",
-                  border: "1px solid var(--border-color)",
-                }}
-              >
-                <div style={{ fontSize: "0.75rem", color: "var(--text-muted)", marginBottom: "2px" }}>{state.governorTitle}</div>
-                <div style={{ fontSize: "0.95rem", fontWeight: 700, color: "var(--text-primary)" }}>{state.governorOrLtGovernor}</div>
-              </div>
-            </div>
-
-            {/* Official State Symbols Banner */}
-            {state.stateSymbols && (
-              <div
-                style={{
-                  marginTop: "var(--space-4)",
-                  padding: "var(--space-3) var(--space-4)",
-                  borderRadius: "var(--radius-md)",
-                  backgroundColor: "var(--color-primary-subtle)",
-                  border: "1px solid var(--border-color)",
-                  display: "flex",
-                  flexWrap: "wrap",
-                  alignItems: "center",
-                  gap: "var(--space-4)",
-                  fontSize: "0.85rem",
-                }}
-              >
-                <span style={{ fontWeight: 700, color: "var(--color-primary)" }}>Official Symbols:</span>
-                <span><strong>Animal:</strong> {state.stateSymbols.animal || "N/A"}</span>
-                <span><strong>Bird:</strong> {state.stateSymbols.bird || "N/A"}</span>
-                <span><strong>Flower:</strong> {state.stateSymbols.flower || "N/A"}</span>
-                <span><strong>Tree:</strong> {state.stateSymbols.tree || "N/A"}</span>
-              </div>
-            )}
-          </div>
+          )}
         </div>
-      </section>
+      </div>
 
       {/* 2. Main Content Sections */}
-      <div className="container" style={{ maxWidth: "1200px", margin: "0 auto", padding: "var(--space-8) var(--space-4) 0" }}>
+      <div style={{ display: "flex", flexDirection: "column", gap: "var(--space-8)" }}>
         {/* Section A: Standardized Subtopics & Fact Cards */}
-        <section style={{ marginBottom: "var(--space-10)" }}>
+        <section>
           <div style={{ marginBottom: "var(--space-5)" }}>
             <h2 style={{ fontSize: "1.5rem", fontWeight: 800, color: "var(--text-primary)", marginBottom: "var(--space-1)" }}>
               Standardized State Subtopics &amp; High-Yield Facts

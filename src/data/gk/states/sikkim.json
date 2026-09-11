@@ -33,26 +33,98 @@
   "schemes": "One Family One Job Scheme, Aama Yojana, Vatsalya Scheme",
   "mcqs": [
     {
+      "id": "gk_state_sikkim_q1",
       "q": "Which national park in Sikkim holds the rare distinction of being India's first and only 'Mixed' UNESCO World Heritage Site?",
+      "questionText": "Which national park in Sikkim holds the rare distinction of being India's first and only 'Mixed' UNESCO World Heritage Site?",
+      "qHi": "सिक्किम का कौन सा राष्ट्रीय उद्यान भारत का पहला और एकमात्र 'मिश्रित' (प्राकृतिक और सांस्कृतिक) यूनेस्को विश्व धरोहर स्थल है?",
+      "questionTextHi": "सिक्किम का कौन सा राष्ट्रीय उद्यान भारत का पहला और एकमात्र 'मिश्रित' (प्राकृतिक और सांस्कृतिक) यूनेस्को विश्व धरोहर स्थल है?",
       "o": [
         "Khangchendzonga National Park",
         "Nanda Devi National Park",
         "Valley of Flowers",
         "Manas National Park"
       ],
+      "options": [
+        "Khangchendzonga National Park",
+        "Nanda Devi National Park",
+        "Valley of Flowers",
+        "Manas National Park"
+      ],
+      "oHi": [
+        "कंचनजंगा राष्ट्रीय उद्यान",
+        "नंदा देवी राष्ट्रीय उद्यान",
+        "फूलों की घाटी",
+        "मानस राष्ट्रीय उद्यान"
+      ],
+      "optionsHi": [
+        "कंचनजंगा राष्ट्रीय उद्यान",
+        "नंदा देवी राष्ट्रीय उद्यान",
+        "फूलों की घाटी",
+        "मानस राष्ट्रीय उद्यान"
+      ],
       "a": 0,
-      "exp": "Khangchendzonga National Park was inscribed in 2016 under both natural and cultural criteria."
+      "correctIndex": 0,
+      "exp": "Khangchendzonga National Park was inscribed in 2016 under both natural and cultural criteria.",
+      "explanation": "Khangchendzonga National Park was inscribed in 2016 under both natural and cultural criteria.",
+      "expHi": "कंचनजंगा राष्ट्रीय उद्यान को 2016 में इसके अद्वितीय जैव-पारिस्थितिकी तंत्र और तिब्बती बौद्ध सांस्कृतिक महत्व के लिए यूनेस्को मिश्रित स्थल घोषित किया गया।",
+      "explanationHi": "कंचनजंगा राष्ट्रीय उद्यान को 2016 में इसके अद्वितीय जैव-पारिस्थितिकी तंत्र और तिब्बती बौद्ध सांस्कृतिक महत्व के लिए यूनेस्को मिश्रित स्थल घोषित किया गया।",
+      "hint": "Reflect upon the geographic, political, and cultural heritage of Sikkim.",
+      "hintHi": "यह भारत की सबसे ऊंची पर्वत चोटी (8,586 मीटर) के आसपास स्थित है।",
+      "difficulty": "medium",
+      "lastVerified": "2026-01-01",
+      "examTags": [
+        "ssc_cgl",
+        "state_psc",
+        "railway",
+        "police"
+      ]
     },
     {
+      "id": "gk_state_sikkim_q2",
       "q": "Through which amendment to the Indian Constitution did Sikkim officially become the 22nd state of the Indian Union in 1975?",
+      "questionText": "Through which amendment to the Indian Constitution did Sikkim officially become the 22nd state of the Indian Union in 1975?",
+      "qHi": "भारतीय संविधान के किस संशोधन अधिनियम के तहत 1975 में सिक्किम भारत संघ का 22वां पूर्ण राज्य बना?",
+      "questionTextHi": "भारतीय संविधान के किस संशोधन अधिनियम के तहत 1975 में सिक्किम भारत संघ का 22वां पूर्ण राज्य बना?",
       "o": [
         "36th Amendment Act",
         "35th Amendment Act",
         "42nd Amendment Act",
         "44th Amendment Act"
       ],
+      "options": [
+        "36th Amendment Act",
+        "35th Amendment Act",
+        "42nd Amendment Act",
+        "44th Amendment Act"
+      ],
+      "oHi": [
+        "36वां संविधान संशोधन अधिनियम",
+        "35वां संविधान संशोधन अधिनियम",
+        "42वां संविधान संशोधन अधिनियम",
+        "44वां संविधान संशोधन अधिनियम"
+      ],
+      "optionsHi": [
+        "36वां संविधान संशोधन अधिनियम",
+        "35वां संविधान संशोधन अधिनियम",
+        "42वां संविधान संशोधन अधिनियम",
+        "44वां संविधान संशोधन अधिनियम"
+      ],
       "a": 0,
-      "exp": "The 36th Constitutional Amendment Act, 1975 made Sikkim a full-fledged 22nd state of India."
+      "correctIndex": 0,
+      "exp": "The 36th Constitutional Amendment Act, 1975 made Sikkim a full-fledged 22nd state of India.",
+      "explanation": "The 36th Constitutional Amendment Act, 1975 made Sikkim a full-fledged 22nd state of India.",
+      "expHi": "36वें संविधान संशोधन अधिनियम 1975 के द्वारा चोग्याल राजशाही की समाप्ति के बाद सिक्किम को पूर्ण राज्य का दर्जा दिया गया।",
+      "explanationHi": "36वें संविधान संशोधन अधिनियम 1975 के द्वारा चोग्याल राजशाही की समाप्ति के बाद सिक्किम को पूर्ण राज्य का दर्जा दिया गया।",
+      "hint": "Reflect upon the geographic, political, and cultural heritage of Sikkim.",
+      "hintHi": "35वें संशोधन ने इसे सहयोगी राज्य बनाया था और अगले संशोधन ने पूर्ण राज्य।",
+      "difficulty": "medium",
+      "lastVerified": "2026-01-01",
+      "examTags": [
+        "ssc_cgl",
+        "state_psc",
+        "railway",
+        "police"
+      ]
     }
   ],
   "subtopics": [
@@ -275,5 +347,6 @@
         }
       ]
     }
-  ]
+  ],
+  "mcqCount": 2
 }

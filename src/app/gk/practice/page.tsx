@@ -76,65 +76,64 @@ export default function GKPracticeHubPage() {
   ];
 
   return (
-    <div style={{ paddingBottom: "var(--space-12)" }}>
+    <div className="container" style={{ paddingTop: "var(--space-6)", paddingBottom: "var(--space-16)" }}>
       {/* Header Banner */}
-      <section
+      <div
+        className="rm-card"
         style={{
-          padding: "var(--space-6) 0 var(--space-6)",
-          borderBottom: "1px solid var(--border-color)",
+          padding: "var(--space-8)",
+          marginBottom: "var(--space-8)",
           backgroundColor: "var(--bg-surface)",
         }}
       >
-        <div className="container" style={{ maxWidth: "1200px", margin: "0 auto", padding: "0 var(--space-4)" }}>
-          <Breadcrumb
-            items={[
-              { label: "GK Hub", href: "/gk" },
-              { label: "Practice Arena" },
-            ]}
-          />
+        <Breadcrumb
+          items={[
+            { label: "GK Hub", href: "/gk" },
+            { label: "Practice Arena" },
+          ]}
+        />
 
-          <div style={{ marginTop: "var(--space-4)", maxWidth: "800px" }}>
-            <div
-              style={{
-                display: "inline-flex",
-                alignItems: "center",
-                gap: "6px",
-                fontSize: "0.8rem",
-                fontWeight: 600,
-                color: "var(--color-primary)",
-                backgroundColor: "var(--color-primary-subtle)",
-                padding: "3px 10px",
-                borderRadius: "9999px",
-                marginBottom: "var(--space-2)",
-                border: "1px solid var(--border-color)",
-              }}
-            >
-              <Zap size={13} />
-              <span>Test Simulator</span>
-            </div>
-
-            <h1
-              style={{
-                fontSize: "clamp(1.8rem, 3.5vw, 2.4rem)",
-                fontWeight: 800,
-                color: "var(--text-primary)",
-                letterSpacing: "-0.02em",
-                lineHeight: 1.2,
-                marginBottom: "var(--space-2)",
-              }}
-            >
-              GK Practice Arena &amp; Mock Tests
-            </h1>
-
-            <p style={{ fontSize: "1.05rem", color: "var(--text-secondary)", lineHeight: 1.5 }}>
-              Launch instant drills or configure custom mock tests with timed countdowns, immediate explanations, and detailed score analytics.
-            </p>
+        <div style={{ marginTop: "var(--space-4)", maxWidth: "800px" }}>
+          <div
+            style={{
+              display: "inline-flex",
+              alignItems: "center",
+              gap: "6px",
+              fontSize: "0.8rem",
+              fontWeight: 600,
+              color: "var(--color-primary)",
+              backgroundColor: "var(--color-primary-subtle)",
+              padding: "3px 10px",
+              borderRadius: "9999px",
+              marginBottom: "var(--space-2)",
+              border: "1px solid var(--border-color)",
+            }}
+          >
+            <Zap size={13} />
+            <span>Test Simulator</span>
           </div>
+
+          <h1
+            style={{
+              fontSize: "clamp(1.8rem, 3.5vw, 2.4rem)",
+              fontWeight: 800,
+              color: "var(--text-primary)",
+              letterSpacing: "-0.02em",
+              lineHeight: 1.2,
+              marginBottom: "var(--space-2)",
+            }}
+          >
+            GK Practice Arena &amp; Mock Tests
+          </h1>
+
+          <p style={{ fontSize: "1.05rem", color: "var(--text-secondary)", lineHeight: 1.5 }}>
+            Launch instant drills or configure custom mock tests with timed countdowns, immediate explanations, and detailed score analytics.
+          </p>
         </div>
-      </section>
+      </div>
 
       {/* Main Container */}
-      <div className="container" style={{ maxWidth: "1200px", margin: "0 auto", padding: "var(--space-8) var(--space-4) 0" }}>
+      <div>
         {/* Quick Configurator Card */}
         <div
           style={{

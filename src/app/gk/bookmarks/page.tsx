@@ -23,6 +23,7 @@ import {
 export default function GKBookmarksPage() {
   const [bookmarks, setBookmarks] = useState<GKBookmarkItem[]>([]);
   const [loading, setLoading] = useState(true);
+  const [lang, setLang] = useState<"en" | "hi">("en");
   const [categoryFilter, setCategoryFilter] = useState<"all" | "state" | "national" | "world">("all");
   const [searchQuery, setSearchQuery] = useState("");
 
@@ -56,65 +57,64 @@ export default function GKBookmarksPage() {
   }, [bookmarks, categoryFilter, searchQuery]);
 
   return (
-    <div style={{ paddingBottom: "var(--space-12)" }}>
+    <div className="container" style={{ paddingTop: "var(--space-6)", paddingBottom: "var(--space-16)" }}>
       {/* Header Banner */}
-      <section
+      <div
+        className="rm-card"
         style={{
-          padding: "var(--space-6) 0 var(--space-6)",
-          borderBottom: "1px solid var(--border-color)",
+          padding: "var(--space-8)",
+          marginBottom: "var(--space-8)",
           backgroundColor: "var(--bg-surface)",
         }}
       >
-        <div className="container" style={{ maxWidth: "1000px", margin: "0 auto", padding: "0 var(--space-4)" }}>
-          <Breadcrumb
-            items={[
-              { label: "GK Hub", href: "/gk" },
-              { label: "Bookmarked Questions" },
-            ]}
-          />
+        <Breadcrumb
+          items={[
+            { label: "GK Hub", href: "/gk" },
+            { label: "Bookmarked Questions" },
+          ]}
+        />
 
-          <div style={{ marginTop: "var(--space-4)" }}>
-            <div
-              style={{
-                display: "inline-flex",
-                alignItems: "center",
-                gap: "6px",
-                fontSize: "0.8rem",
-                fontWeight: 600,
-                color: "var(--color-primary)",
-                backgroundColor: "var(--color-primary-subtle)",
-                padding: "3px 10px",
-                borderRadius: "9999px",
-                marginBottom: "var(--space-2)",
-                border: "1px solid var(--border-color)",
-              }}
-            >
-              <BookmarkCheck size={13} />
-              <span>Personal Vault</span>
-            </div>
-
-            <h1
-              style={{
-                fontSize: "clamp(1.8rem, 3.5vw, 2.4rem)",
-                fontWeight: 800,
-                color: "var(--text-primary)",
-                letterSpacing: "-0.02em",
-                lineHeight: 1.2,
-                marginBottom: "var(--space-2)",
-              }}
-            >
-              Bookmarked GK Questions
-            </h1>
-
-            <p style={{ fontSize: "1.05rem", color: "var(--text-secondary)", lineHeight: 1.5 }}>
-              Review saved questions, study detailed explanations, and master high-yield topics before your exam.
-            </p>
+        <div style={{ marginTop: "var(--space-4)" }}>
+          <div
+            style={{
+              display: "inline-flex",
+              alignItems: "center",
+              gap: "6px",
+              fontSize: "0.8rem",
+              fontWeight: 600,
+              color: "var(--color-primary)",
+              backgroundColor: "var(--color-primary-subtle)",
+              padding: "3px 10px",
+              borderRadius: "9999px",
+              marginBottom: "var(--space-2)",
+              border: "1px solid var(--border-color)",
+            }}
+          >
+            <BookmarkCheck size={13} />
+            <span>Personal Vault</span>
           </div>
+
+          <h1
+            style={{
+              fontSize: "clamp(1.8rem, 3.5vw, 2.4rem)",
+              fontWeight: 800,
+              color: "var(--text-primary)",
+              letterSpacing: "-0.02em",
+              lineHeight: 1.2,
+              marginBottom: "var(--space-2)",
+            }}
+          >
+            Bookmarked GK Questions
+          </h1>
+
+          <p style={{ fontSize: "1.05rem", color: "var(--text-secondary)", lineHeight: 1.5 }}>
+            Review saved questions, study detailed explanations, and master high-yield topics before your exam.
+          </p>
         </div>
-      </section>
+      </div>
 
       {/* Main Container */}
-      <div className="container" style={{ maxWidth: "1000px", margin: "0 auto", padding: "var(--space-8) var(--space-4) 0" }}>
+      <div style={{ maxWidth: "1000px", margin: "0 auto" }}>
         {/* Search & Filter Bar */}
         <div
           style={{
@@ -131,7 +131,7 @@ export default function GKBookmarksPage() {
           }}
         >
           {/* Search Bar */}
-          <div style={{ position: "relative", flex: "1 1 280px", maxWidth: "420px" }}>
+          <div style={{ position: "relative", flex: "1 1 240px", maxWidth: "380px" }}>
             <Search
               size={16}
               style={{
@@ -160,8 +160,53 @@ export default function GKBookmarksPage() {
             />
           </div>
 
-          {/* Category Filter Pills */}
-          <div style={{ display: "flex", gap: "var(--space-2)", flexWrap: "wrap" }}>
+          {/* Right: Language Switcher & Filter Pills */}
+          <div style={{ display: "flex", gap: "var(--space-2)", flexWrap: "wrap", alignItems: "center" }}>
+            {/* Language Switcher */}
+            <div
+              style={{
+                display: "inline-flex",
+                alignItems: "center",
+                padding: "2px",
+                backgroundColor: "var(--bg-surface-elevated, #f1f5f9)",
+                borderRadius: "9999px",
+                border: "1px solid var(--border-color)",
+                marginRight: "var(--space-2)",
+              }}
+            >
+              <button
+                type="button"
+                onClick={() => setLang("en")}
+                style={{
+                  padding: "3px 10px",
+                  fontSize: "0.78rem",
+                  fontWeight: lang === "en" ? 700 : 500,
+                  borderRadius: "9999px",
+                  backgroundColor: lang === "en" ? "var(--color-primary)" : "transparent",
+                  color: lang === "en" ? "#ffffff" : "var(--text-secondary)",
+                  border: "none",
+                  cursor: "pointer",
+                }}
+              >
+                English
+              </button>
+              <button
+                type="button"
+                onClick={() => setLang("hi")}
+                style={{
+                  padding: "3px 10px",
+                  fontSize: "0.78rem",
+                  fontWeight: lang === "hi" ? 700 : 500,
+                  borderRadius: "9999px",
+                  backgroundColor: lang === "hi" ? "var(--color-primary)" : "transparent",
+                  color: lang === "hi" ? "#ffffff" : "var(--text-secondary)",
+                  border: "none",
+                  cursor: "pointer",
+                }}
+              >
+                हिन्दी
+              </button>
+            </div>
             {[
               { id: "all", label: `All (${bookmarks.length})` },
               { id: "state", label: "State GK" },
@@ -326,41 +371,48 @@ export default function GKBookmarksPage() {
                     marginBottom: "var(--space-3)",
                   }}
                 >
-                  {b.questionText}
+                  {(() => {
+                    const qTextHi = (b as any)?.questionTextHi || (b as any)?.qHi || (b as any)?.question_hi;
+                    return lang === "hi" && qTextHi ? qTextHi : b.questionText;
+                  })()}
                 </h3>
 
                 {/* Options */}
                 <div style={{ display: "flex", flexDirection: "column", gap: "6px", marginBottom: "var(--space-3)" }}>
-                  {b.options.map((opt, optIdx) => {
-                    const isCorrect = optIdx === b.correctIndex;
-                    return (
-                      <div
-                        key={optIdx}
-                        style={{
-                          display: "flex",
-                          alignItems: "center",
-                          justifyContent: "space-between",
-                          padding: "0.55rem 0.85rem",
-                          borderRadius: "var(--radius-md)",
-                          border: isCorrect ? "1.5px solid #10b981" : "1px solid var(--border-color)",
-                          backgroundColor: isCorrect ? "rgba(16, 185, 129, 0.1)" : "var(--bg-surface-elevated)",
-                          color: isCorrect ? "#059669" : "var(--text-secondary)",
-                          fontSize: "0.88rem",
-                          fontWeight: isCorrect ? 600 : 400,
-                        }}
-                      >
-                        <div style={{ display: "flex", alignItems: "center", gap: "8px" }}>
-                          <span style={{ fontWeight: 700, width: "20px" }}>{String.fromCharCode(65 + optIdx)}.</span>
-                          <span>{opt}</span>
+                  {(() => {
+                    const optsHi = (b as any)?.optionsHi || (b as any)?.oHi || (b as any)?.options_hi;
+                    const opts = (lang === "hi" && Array.isArray(optsHi) && optsHi.length === 4) ? optsHi : b.options;
+                    return opts.map((opt, optIdx) => {
+                      const isCorrect = optIdx === b.correctIndex;
+                      return (
+                        <div
+                          key={optIdx}
+                          style={{
+                            display: "flex",
+                            alignItems: "center",
+                            justifyContent: "space-between",
+                            padding: "0.55rem 0.85rem",
+                            borderRadius: "var(--radius-md)",
+                            border: isCorrect ? "1.5px solid #10b981" : "1px solid var(--border-color)",
+                            backgroundColor: isCorrect ? "rgba(16, 185, 129, 0.1)" : "var(--bg-surface-elevated)",
+                            color: isCorrect ? "#059669" : "var(--text-secondary)",
+                            fontSize: "0.88rem",
+                            fontWeight: isCorrect ? 600 : 400,
+                          }}
+                        >
+                          <div style={{ display: "flex", alignItems: "center", gap: "8px" }}>
+                            <span style={{ fontWeight: 700, width: "20px" }}>{String.fromCharCode(65 + optIdx)}.</span>
+                            <span>{opt}</span>
+                          </div>
+                          {isCorrect && (
+                            <span style={{ fontSize: "0.75rem", fontWeight: 700, color: "#059669" }}>
+                              {lang === "hi" ? "सही उत्तर" : "Correct Answer"}
+                            </span>
+                          )}
                         </div>
-                        {isCorrect && (
-                          <span style={{ fontSize: "0.75rem", fontWeight: 700, color: "#059669" }}>
-                            Correct Answer
-                          </span>
-                        )}
-                      </div>
-                    );
-                  })}
+                      );
+                    });
+                  })()}
                 </div>
 
                 {/* Explanation */}
@@ -375,7 +427,11 @@ export default function GKBookmarksPage() {
                     border: "1px solid var(--border-color)",
                   }}
                 >
-                  <strong>Explanation:</strong> {b.explanation}
+                  <strong>{lang === "hi" ? "व्याख्या:" : "Explanation:"}</strong>{" "}
+                  {(() => {
+                    const expHi = (b as any)?.explanationHi || (b as any)?.expHi;
+                    return lang === "hi" && expHi ? expHi : b.explanation;
+                  })()}
                 </div>
               </div>
             ))}

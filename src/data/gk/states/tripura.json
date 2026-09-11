@@ -32,26 +32,98 @@
   "schemes": "Mukhyamantri Chaa Sramik Kalyan Prakalpa, Tripura Gramin Bank microcredit",
   "mcqs": [
     {
+      "id": "gk_state_tripura_q1",
       "q": "Which archaeological site in Tripura features monumental 7th-9th century rock-cut Shaivite carvings, known as the 'Angkor Wat of the North-East'?",
+      "questionText": "Which archaeological site in Tripura features monumental 7th-9th century rock-cut Shaivite carvings, known as the 'Angkor Wat of the North-East'?",
+      "qHi": "त्रिपुरा का कौन सा पुरातात्विक स्थल चट्टानों को काटकर बनाई गई विशाल भगवान शिव और देवी-देवताओं की नक्काशी के लिए 'पूर्वोत्तर का अंगकोर वाट' कहलाता है?",
+      "questionTextHi": "त्रिपुरा का कौन सा पुरातात्विक स्थल चट्टानों को काटकर बनाई गई विशाल भगवान शिव और देवी-देवताओं की नक्काशी के लिए 'पूर्वोत्तर का अंगकोर वाट' कहलाता है?",
       "o": [
         "Unakoti",
         "Pilak",
         "Devtamura",
         "Boxanagar"
       ],
+      "options": [
+        "Unakoti",
+        "Pilak",
+        "Devtamura",
+        "Boxanagar"
+      ],
+      "oHi": [
+        "उनाकोटी",
+        "पिलक",
+        "देबतामुरा",
+        "बोक्सानगर"
+      ],
+      "optionsHi": [
+        "उनाकोटी",
+        "पिलक",
+        "देबतामुरा",
+        "बोक्सानगर"
+      ],
       "a": 0,
-      "exp": "Unakoti ('one less than a crore') features massive stone reliefs, prominently the 30-foot head of Shiva."
+      "correctIndex": 0,
+      "exp": "Unakoti ('one less than a crore') features massive stone reliefs, prominently the 30-foot head of Shiva.",
+      "explanation": "Unakoti ('one less than a crore') features massive stone reliefs, prominently the 30-foot head of Shiva.",
+      "expHi": "उनाकोटी (जिसका अर्थ है 'एक करोड़ में एक कम') 7वीं से 9वीं शताब्दी का शैव तीर्थस्थल है जहाँ 'उनाकोटीश्वर काल भैरव' की 30 फुट ऊंची विशाल नक्काशी है।",
+      "explanationHi": "उनाकोटी (जिसका अर्थ है 'एक करोड़ में एक कम') 7वीं से 9वीं शताब्दी का शैव तीर्थस्थल है जहाँ 'उनाकोटीश्वर काल भैरव' की 30 फुट ऊंची विशाल नक्काशी है।",
+      "hint": "Reflect upon the geographic, political, and cultural heritage of Tripura.",
+      "hintHi": "शाब्दिक अर्थ में इसका तात्पर्य 'एक करोड़ में से एक कम' है।",
+      "difficulty": "medium",
+      "lastVerified": "2026-01-01",
+      "examTags": [
+        "ssc_cgl",
+        "state_psc",
+        "railway",
+        "police"
+      ]
     },
     {
+      "id": "gk_state_tripura_q2",
       "q": "Neermahal, eastern India's only lake palace built in 1930 by Maharaja Bir Bikram Kishore Manikya, is situated in which lake?",
+      "questionText": "Neermahal, eastern India's only lake palace built in 1930 by Maharaja Bir Bikram Kishore Manikya, is situated in which lake?",
+      "qHi": "1930 में महाराजा बीर बिक्रम किशोर माणिक्य द्वारा निर्मित पूर्वी भारत का एकमात्र जल महल 'नीरमहल' किस झील के बीच स्थित है?",
+      "questionTextHi": "1930 में महाराजा बीर बिक्रम किशोर माणिक्य द्वारा निर्मित पूर्वी भारत का एकमात्र जल महल 'नीरमहल' किस झील के बीच स्थित है?",
       "o": [
         "Rudrasagar Lake",
         "Dumboor Lake",
         "Kalyan Sagar",
         "Kamalasagar"
       ],
+      "options": [
+        "Rudrasagar Lake",
+        "Dumboor Lake",
+        "Kalyan Sagar",
+        "Kamalasagar"
+      ],
+      "oHi": [
+        "रुद्रसागर झील",
+        "डंबर झील",
+        "कमलासागर",
+        "कल्याण सागर"
+      ],
+      "optionsHi": [
+        "रुद्रसागर झील",
+        "डंबर झील",
+        "कमलासागर",
+        "कल्याण सागर"
+      ],
       "a": 0,
-      "exp": "Neermahal combines Hindu and Mughal architectural styles in the center of Rudrasagar Lake."
+      "correctIndex": 0,
+      "exp": "Neermahal combines Hindu and Mughal architectural styles in the center of Rudrasagar Lake.",
+      "explanation": "Neermahal combines Hindu and Mughal architectural styles in the center of Rudrasagar Lake.",
+      "expHi": "नीरमहल त्रिपुरा के सिपाहीजाला जिले में रामसर आर्द्रभूमि रुद्रसागर झील के मध्य हिंदू और इस्लामिक स्थापत्य कला के सुंदर संगम के रूप में निर्मित है।",
+      "explanationHi": "नीरमहल त्रिपुरा के सिपाहीजाला जिले में रामसर आर्द्रभूमि रुद्रसागर झील के मध्य हिंदू और इस्लामिक स्थापत्य कला के सुंदर संगम के रूप में निर्मित है।",
+      "hint": "Reflect upon the geographic, political, and cultural heritage of Tripura.",
+      "hintHi": "यह त्रिपुरा की प्रसिद्ध रामसर आर्द्रभूमि झील है।",
+      "difficulty": "medium",
+      "lastVerified": "2026-01-01",
+      "examTags": [
+        "ssc_cgl",
+        "state_psc",
+        "railway",
+        "police"
+      ]
     }
   ],
   "subtopics": [
@@ -274,5 +346,6 @@
         }
       ]
     }
-  ]
+  ],
+  "mcqCount": 2
 }

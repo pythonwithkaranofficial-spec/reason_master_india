@@ -30,26 +30,98 @@
   "schemes": "Aam Aadmi Clinic, Mukh Mantri Teerth Yatra, Farishtey Scheme",
   "mcqs": [
     {
+      "id": "gk_state_punjab_q1",
       "q": "The foundation stone of Sri Harmandir Sahib (Golden Temple) in Amritsar was laid by which revered Sufi saint?",
+      "questionText": "The foundation stone of Sri Harmandir Sahib (Golden Temple) in Amritsar was laid by which revered Sufi saint?",
+      "qHi": "अमृतसर में श्री हरमंदिर साहिब (स्वर्ण मंदिर) की आधारशिला किस पूज्य सूफी संत ने रखी थी?",
+      "questionTextHi": "अमृतसर में श्री हरमंदिर साहिब (स्वर्ण मंदिर) की आधारशिला किस पूज्य सूफी संत ने रखी थी?",
       "o": [
         "Hazrat Mian Mir",
         "Baba Farid",
         "Nizamuddin Auliya",
         "Khwaja Moinuddin Chishti"
       ],
+      "options": [
+        "Hazrat Mian Mir",
+        "Baba Farid",
+        "Nizamuddin Auliya",
+        "Khwaja Moinuddin Chishti"
+      ],
+      "oHi": [
+        "हजरत मियां मीर",
+        "बाबा फरीद",
+        "निजामुद्दीन औलिया",
+        "ख्वाजा मोइनुद्दीन चिश्ती"
+      ],
+      "optionsHi": [
+        "हजरत मियां मीर",
+        "बाबा फरीद",
+        "निजामुद्दीन औलिया",
+        "ख्वाजा मोइनुद्दीन चिश्ती"
+      ],
       "a": 0,
-      "exp": "At the invitation of Guru Arjan Dev Ji (5th Sikh Guru), Sufi saint Hazrat Mian Mir laid the foundation stone in December 1588."
+      "correctIndex": 0,
+      "exp": "At the invitation of Guru Arjan Dev Ji (5th Sikh Guru), Sufi saint Hazrat Mian Mir laid the foundation stone in December 1588.",
+      "explanation": "At the invitation of Guru Arjan Dev Ji (5th Sikh Guru), Sufi saint Hazrat Mian Mir laid the foundation stone in December 1588.",
+      "expHi": "सिखों के 5वें गुरु, गुरु अर्जुन देव जी के आमंत्रण पर लाहौर के पूज्य सूफी संत हजरत मियां मीर ने दिसंबर 1588 में स्वर्ण मंदिर की आधारशिला रखी थी।",
+      "explanationHi": "सिखों के 5वें गुरु, गुरु अर्जुन देव जी के आमंत्रण पर लाहौर के पूज्य सूफी संत हजरत मियां मीर ने दिसंबर 1588 में स्वर्ण मंदिर की आधारशिला रखी थी।",
+      "hint": "Reflect upon the geographic, political, and cultural heritage of Punjab.",
+      "hintHi": "वे लाहौर के कादिरी सिलसिले के प्रसिद्ध सूफी संत थे।",
+      "difficulty": "medium",
+      "lastVerified": "2026-01-01",
+      "examTags": [
+        "ssc_cgl",
+        "state_psc",
+        "railway",
+        "police"
+      ]
     },
     {
+      "id": "gk_state_punjab_q2",
       "q": "On which auspicious festival in Punjab did General Reginald Dyer order the infamous Jallianwala Bagh massacre on 13 April 1919?",
+      "questionText": "On which auspicious festival in Punjab did General Reginald Dyer order the infamous Jallianwala Bagh massacre on 13 April 1919?",
+      "qHi": "13 अप्रैल 1919 को पंजाब के किस पावन त्योहार के दिन जनरल डायर ने कुख्यात जलियांवाला बाग नरसंहार कराया था?",
+      "questionTextHi": "13 अप्रैल 1919 को पंजाब के किस पावन त्योहार के दिन जनरल डायर ने कुख्यात जलियांवाला बाग नरसंहार कराया था?",
       "o": [
         "Baisakhi",
         "Lohri",
         "Diwali",
         "Hola Mohalla"
       ],
+      "options": [
+        "Baisakhi",
+        "Lohri",
+        "Diwali",
+        "Hola Mohalla"
+      ],
+      "oHi": [
+        "बैसाखी",
+        "लोहड़ी",
+        "दिवाली",
+        "होला मोहल्ला"
+      ],
+      "optionsHi": [
+        "बैसाखी",
+        "लोहड़ी",
+        "दिवाली",
+        "होला मोहल्ला"
+      ],
       "a": 0,
-      "exp": "Thousands of citizens assembled at Jallianwala Bagh on Baisakhi to peacefully protest the Rowlatt Act."
+      "correctIndex": 0,
+      "exp": "Thousands of citizens assembled at Jallianwala Bagh on Baisakhi to peacefully protest the Rowlatt Act.",
+      "explanation": "Thousands of citizens assembled at Jallianwala Bagh on Baisakhi to peacefully protest the Rowlatt Act.",
+      "expHi": "रॉलेट एक्ट के विरोध में और डॉ. सैफुद्दीन किचलू व सत्यपाल की गिरफ्तारी के खिलाफ शांतिपूर्ण सभा के दौरान बैसाखी के दिन जलियांवाला बाग में अंधाधुंध गोलियां चलाई गईं।",
+      "explanationHi": "रॉलेट एक्ट के विरोध में और डॉ. सैफुद्दीन किचलू व सत्यपाल की गिरफ्तारी के खिलाफ शांतिपूर्ण सभा के दौरान बैसाखी के दिन जलियांवाला बाग में अंधाधुंध गोलियां चलाई गईं।",
+      "hint": "Reflect upon the geographic, political, and cultural heritage of Punjab.",
+      "hintHi": "यह पंजाब में रबी की फसल कटाई से जुड़ा प्रमुख वसंत उत्सव है।",
+      "difficulty": "medium",
+      "lastVerified": "2026-01-01",
+      "examTags": [
+        "ssc_cgl",
+        "state_psc",
+        "railway",
+        "police"
+      ]
     }
   ],
   "subtopics": [
@@ -272,5 +344,6 @@
         }
       ]
     }
-  ]
+  ],
+  "mcqCount": 2
 }

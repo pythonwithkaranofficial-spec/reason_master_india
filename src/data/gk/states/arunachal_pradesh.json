@@ -30,37 +30,145 @@
   "schemes": "Chief Minister's Arogya Arunachal Yojana, Dulari Kanya Scheme",
   "mcqs": [
     {
+      "id": "gk_state_arunachal_pradesh_q1",
       "q": "Which monastery in Arunachal Pradesh is the largest Buddhist monastery in India?",
+      "questionText": "Which monastery in Arunachal Pradesh is the largest Buddhist monastery in India?",
+      "qHi": "अरुणाचल प्रदेश का कौन सा मठ भारत का सबसे बड़ा बौद्ध मठ है?",
+      "questionTextHi": "अरुणाचल प्रदेश का कौन सा मठ भारत का सबसे बड़ा बौद्ध मठ है?",
       "o": [
         "Tawang Monastery",
         "Rumtek Monastery",
         "Hemis Monastery",
         "Bomdila Monastery"
       ],
+      "options": [
+        "Tawang Monastery",
+        "Rumtek Monastery",
+        "Hemis Monastery",
+        "Bomdila Monastery"
+      ],
+      "oHi": [
+        "तवांग मठ",
+        "रुमटेक मठ",
+        "हेमिस मठ",
+        "बोमडिला मठ"
+      ],
+      "optionsHi": [
+        "तवांग मठ",
+        "रुमटेक मठ",
+        "हेमिस मठ",
+        "बोमडिला मठ"
+      ],
       "a": 0,
-      "exp": "Tawang Monastery was founded by Merak Lama Lodre Gyatso in 1680-1681 and is the second largest in the world after the Potala Palace in Lhasa."
+      "correctIndex": 0,
+      "exp": "Tawang Monastery was founded by Merak Lama Lodre Gyatso in 1680-1681 and is the second largest in the world after the Potala Palace in Lhasa.",
+      "explanation": "Tawang Monastery was founded by Merak Lama Lodre Gyatso in 1680-1681 and is the second largest in the world after the Potala Palace in Lhasa.",
+      "expHi": "तवांग मठ की स्थापना 1680-1681 में मेराक लामा लोद्रे ग्यात्सो ने की थी। यह ल्हासा के पोटाला महल के बाद दुनिया का दूसरा सबसे बड़ा बौद्ध मठ है।",
+      "explanationHi": "तवांग मठ की स्थापना 1680-1681 में मेराक लामा लोद्रे ग्यात्सो ने की थी। यह ल्हासा के पोटाला महल के बाद दुनिया का दूसरा सबसे बड़ा बौद्ध मठ है।",
+      "hint": "Reflect upon the geographic, political, and cultural heritage of Arunachal Pradesh.",
+      "hintHi": "यह भारत-चीन सीमा के निकट पश्चिमी अरुणाचल प्रदेश में स्थित है।",
+      "difficulty": "medium",
+      "lastVerified": "2026-01-01",
+      "examTags": [
+        "ssc_cgl",
+        "state_psc",
+        "railway",
+        "police"
+      ]
     },
     {
+      "id": "gk_state_arunachal_pradesh_q2",
       "q": "Which state animal of Arunachal Pradesh is also known as Mithun?",
+      "questionText": "Which state animal of Arunachal Pradesh is also known as Mithun?",
+      "qHi": "अरुणाचल प्रदेश का कौन सा राज्य पशु 'मिथुन' के नाम से भी जाना जाता है?",
+      "questionTextHi": "अरुणाचल प्रदेश का कौन सा राज्य पशु 'मिथुन' के नाम से भी जाना जाता है?",
       "o": [
         "Gayal",
         "Red Panda",
         "Takin",
         "Snow Leopard"
       ],
+      "options": [
+        "Gayal",
+        "Red Panda",
+        "Takin",
+        "Snow Leopard"
+      ],
+      "oHi": [
+        "गयाल (मिथुन)",
+        "लाल पांडा",
+        "ताकिन",
+        "हिम तेंदुआ"
+      ],
+      "optionsHi": [
+        "गयाल (मिथुन)",
+        "लाल पांडा",
+        "ताकिन",
+        "हिम तेंदुआ"
+      ],
       "a": 0,
-      "exp": "The Gayal (Bos frontalis), locally known as Mithun, is the state animal of Arunachal Pradesh."
+      "correctIndex": 0,
+      "exp": "The Gayal (Bos frontalis), locally known as Mithun, is the state animal of Arunachal Pradesh.",
+      "explanation": "The Gayal (Bos frontalis), locally known as Mithun, is the state animal of Arunachal Pradesh.",
+      "expHi": "गयाल (बॉस फ्रंटालिस), जिसे स्थानीय रूप से मिथुन कहा जाता है, अरुणाचल प्रदेश का आधिकारिक राज्य पशु है।",
+      "explanationHi": "गयाल (बॉस फ्रंटालिस), जिसे स्थानीय रूप से मिथुन कहा जाता है, अरुणाचल प्रदेश का आधिकारिक राज्य पशु है।",
+      "hint": "Reflect upon the geographic, political, and cultural heritage of Arunachal Pradesh.",
+      "hintHi": "यह गोजातीय पशु पूर्वोत्तर जनजातियों की सामाजिक और आर्थिक समृद्धि का प्रतीक है।",
+      "difficulty": "medium",
+      "lastVerified": "2026-01-01",
+      "examTags": [
+        "ssc_cgl",
+        "state_psc",
+        "railway",
+        "police"
+      ]
     },
     {
+      "id": "gk_state_arunachal_pradesh_q3",
       "q": "Which river enters India from Tibet through Arunachal Pradesh as the Siang River?",
+      "questionText": "Which river enters India from Tibet through Arunachal Pradesh as the Siang River?",
+      "qHi": "तिब्बत से अरुणाचल प्रदेश में प्रवेश करने वाली कौन सी नदी 'सियांग' कहलाती है?",
+      "questionTextHi": "तिब्बत से अरुणाचल प्रदेश में प्रवेश करने वाली कौन सी नदी 'सियांग' कहलाती है?",
       "o": [
         "Brahmaputra",
         "Indus",
         "Subansiri",
         "Lohit"
       ],
+      "options": [
+        "Brahmaputra",
+        "Indus",
+        "Subansiri",
+        "Lohit"
+      ],
+      "oHi": [
+        "ब्रह्मपुत्र",
+        "सिंधु",
+        "सुबनसिरी",
+        "लोहित"
+      ],
+      "optionsHi": [
+        "ब्रह्मपुत्र",
+        "सिंधु",
+        "सुबनसिरी",
+        "लोहित"
+      ],
       "a": 0,
-      "exp": "The Yarlung Tsangpo enters India at Gelling in Arunachal Pradesh, where it is called the Siang before becoming the Brahmaputra in Assam."
+      "correctIndex": 0,
+      "exp": "The Yarlung Tsangpo enters India at Gelling in Arunachal Pradesh, where it is called the Siang before becoming the Brahmaputra in Assam.",
+      "explanation": "The Yarlung Tsangpo enters India at Gelling in Arunachal Pradesh, where it is called the Siang before becoming the Brahmaputra in Assam.",
+      "expHi": "यारलुंग त्सांगपो तिब्बत से भारत में अरुणाचल प्रदेश के जेलिंग से प्रवेश करती है, जहाँ इसे सियांग कहा जाता है, और आगे चलकर असम में ब्रह्मपुत्र बनती है।",
+      "explanationHi": "यारलुंग त्सांगपो तिब्बत से भारत में अरुणाचल प्रदेश के जेलिंग से प्रवेश करती है, जहाँ इसे सियांग कहा जाता है, और आगे चलकर असम में ब्रह्मपुत्र बनती है।",
+      "hint": "Reflect upon the geographic, political, and cultural heritage of Arunachal Pradesh.",
+      "hintHi": "असम में यह नदी ब्रह्मपुत्र के नाम से जानी जाती है।",
+      "difficulty": "medium",
+      "lastVerified": "2026-01-01",
+      "examTags": [
+        "ssc_cgl",
+        "state_psc",
+        "railway",
+        "police"
+      ]
     }
   ],
   "subtopics": [
@@ -283,5 +391,6 @@
         }
       ]
     }
-  ]
+  ],
+  "mcqCount": 3
 }

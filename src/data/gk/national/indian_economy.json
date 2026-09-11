@@ -31,26 +31,418 @@
   ],
   "mcqs": [
     {
+      "id": "gk_nat_indian_economy_q1",
       "q": "When did the Goods and Services Tax (GST) officially take effect in India across all states and Union territories?",
+      "questionText": "When did the Goods and Services Tax (GST) officially take effect in India across all states and Union territories?",
+      "qHi": "भारत में 'एक राष्ट्र, एक कर' की अवधारणा के तहत वस्तु एवं सेवा कर (GST) आधिकारिक तौर पर किस तारीख को लागू हुआ था?",
+      "questionTextHi": "भारत में 'एक राष्ट्र, एक कर' की अवधारणा के तहत वस्तु एवं सेवा कर (GST) आधिकारिक तौर पर किस तारीख को लागू हुआ था?",
       "o": [
         "1 July 2017",
         "1 April 2017",
         "8 November 2016",
         "1 January 2018"
       ],
+      "options": [
+        "1 July 2017",
+        "1 April 2017",
+        "8 November 2016",
+        "1 January 2018"
+      ],
+      "oHi": [
+        "1 जुलाई 2017",
+        "1 अप्रैल 2017",
+        "8 नवंबर 2016",
+        "1 जनवरी 2018"
+      ],
+      "optionsHi": [
+        "1 जुलाई 2017",
+        "1 अप्रैल 2017",
+        "8 नवंबर 2016",
+        "1 जनवरी 2018"
+      ],
       "a": 0,
-      "exp": "GST was launched at a midnight session of Parliament on 1 July 2017 via the 101st Constitutional Amendment Act."
+      "correctIndex": 0,
+      "exp": "GST was launched at a midnight session of Parliament on 1 July 2017 via the 101st Constitutional Amendment Act.",
+      "explanation": "GST was launched at a midnight session of Parliament on 1 July 2017 via the 101st Constitutional Amendment Act.",
+      "expHi": "101वें संविधान संशोधन अधिनियम के तहत 1 जुलाई 2017 की मध्यरात्रि को संसद के सेंट्रल हॉल से जीएसटी की औपचारिक शुरुआत की गई थी।",
+      "explanationHi": "101वें संविधान संशोधन अधिनियम के तहत 1 जुलाई 2017 की मध्यरात्रि को संसद के सेंट्रल हॉल से जीएसटी की औपचारिक शुरुआत की गई थी।",
+      "hint": "Consider the established historical and constitutional facts of Indian Economy.",
+      "hintHi": "यह 101वें संविधान संशोधन अधिनियम द्वारा लागू किया गया था।",
+      "difficulty": "medium",
+      "examTags": [
+        "ssc_cgl",
+        "upsc_csat",
+        "railway",
+        "banking_ga"
+      ]
     },
     {
+      "id": "gk_nat_indian_economy_q2",
       "q": "Which policy think tank replaced the 65-year-old Planning Commission of India on 1 January 2015?",
+      "questionText": "Which policy think tank replaced the 65-year-old Planning Commission of India on 1 January 2015?",
+      "qHi": "1 जनवरी 2015 को 65 वर्ष पुराने योजना आयोग के स्थान पर किस नए नीति थिंक टैंक की स्थापना की गई थी?",
+      "questionTextHi": "1 जनवरी 2015 को 65 वर्ष पुराने योजना आयोग के स्थान पर किस नए नीति थिंक टैंक की स्थापना की गई थी?",
       "o": [
         "NITI Aayog",
         "National Development Council",
         "Finance Commission",
         "Economic Advisory Council"
       ],
+      "options": [
+        "NITI Aayog",
+        "National Development Council",
+        "Finance Commission",
+        "Economic Advisory Council"
+      ],
+      "oHi": [
+        "नीति आयोग (NITI Aayog)",
+        "राष्ट्रीय विकास परिषद",
+        "वित्त आयोग",
+        "केंद्रीय सांख्यिकी संगठन"
+      ],
+      "optionsHi": [
+        "नीति आयोग (NITI Aayog)",
+        "राष्ट्रीय विकास परिषद",
+        "वित्त आयोग",
+        "केंद्रीय सांख्यिकी संगठन"
+      ],
       "a": 0,
-      "exp": "NITI Aayog (National Institution for Transforming India) was instituted on 1 January 2015 with the Prime Minister as Chairperson."
+      "correctIndex": 0,
+      "exp": "NITI Aayog (National Institution for Transforming India) was instituted on 1 January 2015 with the Prime Minister as Chairperson.",
+      "explanation": "NITI Aayog (National Institution for Transforming India) was instituted on 1 January 2015 with the Prime Minister as Chairperson.",
+      "expHi": "नीति आयोग (नेशनल इंस्टीट्यूशन फॉर ट्रांसफॉर्मिंग इंडिया) सहकारी संघवाद को बढ़ावा देने वाला भारत सरकार का प्रमुख नीति थिंक टैंक है, जिसके पदेन अध्यक्ष प्रधानमंत्री होते हैं।",
+      "explanationHi": "नीति आयोग (नेशनल इंस्टीट्यूशन फॉर ट्रांसफॉर्मिंग इंडिया) सहकारी संघवाद को बढ़ावा देने वाला भारत सरकार का प्रमुख नीति थिंक टैंक है, जिसके पदेन अध्यक्ष प्रधानमंत्री होते हैं।",
+      "hint": "Consider the established historical and constitutional facts of Indian Economy.",
+      "hintHi": "इसका पूरा नाम 'नेशनल इंस्टीट्यूशन फॉर ट्रांसफॉर्मिंग इंडिया' है।",
+      "difficulty": "medium",
+      "examTags": [
+        "ssc_cgl",
+        "upsc_csat",
+        "railway",
+        "banking_ga"
+      ]
+    },
+    {
+      "id": "gk_nat_econ_001",
+      "q": "Where is the permanent headquarters of the Reserve Bank of India (RBI) located?",
+      "questionText": "Where is the permanent headquarters of the Reserve Bank of India (RBI) located?",
+      "qHi": "भारतीय रिज़र्व बैंक (RBI) का स्थायी मुख्यालय कहाँ स्थित है?",
+      "questionTextHi": "भारतीय रिज़र्व बैंक (RBI) का स्थायी मुख्यालय कहाँ स्थित है?",
+      "o": [
+        "New Delhi",
+        "Mumbai",
+        "Kolkata",
+        "Chennai"
+      ],
+      "options": [
+        "New Delhi",
+        "Mumbai",
+        "Kolkata",
+        "Chennai"
+      ],
+      "oHi": [
+        "नई दिल्ली",
+        "मुंबई",
+        "कोलकाता",
+        "चेन्नई"
+      ],
+      "optionsHi": [
+        "नई दिल्ली",
+        "मुंबई",
+        "कोलकाता",
+        "चेन्नई"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Established in Kolkata in 1935, RBI headquarters was permanently moved to Mumbai in 1937.",
+      "explanation": "Established in Kolkata in 1935, RBI headquarters was permanently moved to Mumbai in 1937.",
+      "expHi": "1935 में कोलकाता में स्थापना के बाद, 1937 में आरबीआई का मुख्यालय स्थायी रूप से मुंबई स्थानांतरित कर दिया गया था।",
+      "explanationHi": "1935 में कोलकाता में स्थापना के बाद, 1937 में आरबीआई का मुख्यालय स्थायी रूप से मुंबई स्थानांतरित कर दिया गया था।",
+      "hint": "Key concept under Indian Economy.",
+      "hintHi": "Indian Economy का महत्वपूर्ण तथ्य।",
+      "difficulty": "easy",
+      "examTags": [
+        "banking",
+        "ssc_cgl"
+      ]
+    },
+    {
+      "id": "gk_nat_econ_002",
+      "q": "The Goods and Services Tax (GST) was implemented nationwide in India on which date?",
+      "questionText": "The Goods and Services Tax (GST) was implemented nationwide in India on which date?",
+      "qHi": "भारत में वस्तु एवं सेवा कर (GST) किस तारीख को देश भर में लागू किया गया था?",
+      "questionTextHi": "भारत में वस्तु एवं सेवा कर (GST) किस तारीख को देश भर में लागू किया गया था?",
+      "o": [
+        "1 April 2017",
+        "1 July 2017",
+        "8 November 2016",
+        "1 January 2018"
+      ],
+      "options": [
+        "1 April 2017",
+        "1 July 2017",
+        "8 November 2016",
+        "1 January 2018"
+      ],
+      "oHi": [
+        "1 अप्रैल 2017",
+        "1 जुलाई 2017",
+        "8 नवंबर 2016",
+        "1 जनवरी 2018"
+      ],
+      "optionsHi": [
+        "1 अप्रैल 2017",
+        "1 जुलाई 2017",
+        "8 नवंबर 2016",
+        "1 जनवरी 2018"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "GST came into effect on 1 July 2017 through the 101st Constitutional Amendment Act.",
+      "explanation": "GST came into effect on 1 July 2017 through the 101st Constitutional Amendment Act.",
+      "expHi": "101वें संविधान संशोधन अधिनियम के माध्यम से 1 जुलाई 2017 को भारत में जीएसटी लागू किया गया था।",
+      "explanationHi": "101वें संविधान संशोधन अधिनियम के माध्यम से 1 जुलाई 2017 को भारत में जीएसटी लागू किया गया था।",
+      "hint": "Key concept under Indian Economy.",
+      "hintHi": "Indian Economy का महत्वपूर्ण तथ्य।",
+      "difficulty": "medium",
+      "examTags": [
+        "ssc_cgl",
+        "upsc_prelims",
+        "banking"
+      ]
+    },
+    {
+      "id": "gk_nat_econ_003",
+      "q": "Who is universally celebrated as the Father of the Green Revolution in India?",
+      "questionText": "Who is universally celebrated as the Father of the Green Revolution in India?",
+      "qHi": "भारत में 'हरित क्रांति के जनक' के रूप में किसे जाना जाता है?",
+      "questionTextHi": "भारत में 'हरित क्रांति के जनक' के रूप में किसे जाना जाता है?",
+      "o": [
+        "Dr. Verghese Kurien",
+        "M.S. Swaminathan",
+        "Norman Borlaug",
+        "Dr. Homi Bhabha"
+      ],
+      "options": [
+        "Dr. Verghese Kurien",
+        "M.S. Swaminathan",
+        "Norman Borlaug",
+        "Dr. Homi Bhabha"
+      ],
+      "oHi": [
+        "डॉ. वर्गीज कुलियन",
+        "एम.एस. स्वामीनाथन",
+        "नॉर्मन बोरलॉग",
+        "डॉ. होमी भाभा"
+      ],
+      "optionsHi": [
+        "डॉ. वर्गीज कुलियन",
+        "एम.एस. स्वामीनाथन",
+        "नॉर्मन बोरलॉग",
+        "डॉ. होमी भाभा"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Prof. M.S. Swaminathan introduced high-yielding wheat varieties that transformed India into food self-sufficiency.",
+      "explanation": "Prof. M.S. Swaminathan introduced high-yielding wheat varieties that transformed India into food self-sufficiency.",
+      "expHi": "प्रो. एम.एस. स्वामीनाथन ने उच्च उपज वाले बीजों को पेश कर भारत को खाद्यान्न में आत्मनिर्भर बनाया।",
+      "explanationHi": "प्रो. एम.एस. स्वामीनाथन ने उच्च उपज वाले बीजों को पेश कर भारत को खाद्यान्न में आत्मनिर्भर बनाया।",
+      "hint": "Key concept under Indian Economy.",
+      "hintHi": "Indian Economy का महत्वपूर्ण तथ्य।",
+      "difficulty": "easy",
+      "examTags": [
+        "ssc_cgl",
+        "state_psc"
+      ]
+    },
+    {
+      "id": "gk_nat_indian_economy_exp_13",
+      "q": "The Reserve Bank of India (RBI) commenced operations on 1 April 1935 based on the recommendations of which Royal Commission?",
+      "questionText": "The Reserve Bank of India (RBI) commenced operations on 1 April 1935 based on the recommendations of which Royal Commission?",
+      "qHi": "भारतीय रिज़र्व बैंक (RBI) की स्थापना 1 अप्रैल 1935 को किस आयोग की सिफारिशों के आधार पर की गई थी?",
+      "questionTextHi": "भारतीय रिज़र्व बैंक (RBI) की स्थापना 1 अप्रैल 1935 को किस आयोग की सिफारिशों के आधार पर की गई थी?",
+      "o": [
+        "Hilton Young Commission (रॉयल कमीशन)",
+        "Hunter Commission",
+        "Kothari Commission",
+        "Sarkaria Commission"
+      ],
+      "options": [
+        "Hilton Young Commission (रॉयल कमीशन)",
+        "Hunter Commission",
+        "Kothari Commission",
+        "Sarkaria Commission"
+      ],
+      "oHi": [
+        "हिल्टन यंग आयोग (Hilton Young Commission)",
+        "हंटर आयोग",
+        "कोठारी आयोग",
+        "सरकारिया आयोग"
+      ],
+      "optionsHi": [
+        "हिल्टन यंग आयोग (Hilton Young Commission)",
+        "हंटर आयोग",
+        "कोठारी आयोग",
+        "सरकारिया आयोग"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "The Reserve Bank of India was set up on 1 April 1935 under the Reserve Bank of India Act, 1934, following the recommendations of the Royal Commission on Indian Currency and Finance (Hilton Young Commission) of 1926.",
+      "explanation": "The Reserve Bank of India was set up on 1 April 1935 under the Reserve Bank of India Act, 1934, following the recommendations of the Royal Commission on Indian Currency and Finance (Hilton Young Commission) of 1926.",
+      "expHi": "भारतीय रिज़र्व बैंक (RBI) की स्थापना 1926 के हिल्टन यंग आयोग (Royal Commission on Indian Currency and Finance) की सिफारिश पर 1 अप्रैल 1935 को की गई थी। 1 जनवरी 1949 को इसका राष्ट्रीयकरण हुआ।",
+      "explanationHi": "भारतीय रिज़र्व बैंक (RBI) की स्थापना 1926 के हिल्टन यंग आयोग (Royal Commission on Indian Currency and Finance) की सिफारिश पर 1 अप्रैल 1935 को की गई थी। 1 जनवरी 1949 को इसका राष्ट्रीयकरण हुआ।",
+      "hint": "Royal Commission on Indian Currency and Finance of 1926.",
+      "hintHi": "1926 का शाही आयोग जिसे हिल्टन यंग कमीशन कहा जाता है।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "Banking",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_indian_economy_exp_14",
+      "q": "The nationwide Goods and Services Tax (GST) in India came into effect on 1 July 2017 through which Constitutional Amendment Act?",
+      "questionText": "The nationwide Goods and Services Tax (GST) in India came into effect on 1 July 2017 through which Constitutional Amendment Act?",
+      "qHi": "भारत में 'एक देश, एक कर' की अवधारणा पर आधारित वस्तु एवं सेवा कर (GST) 1 जुलाई 2017 को किस संविधान संशोधन द्वारा लागू हुआ?",
+      "questionTextHi": "भारत में 'एक देश, एक कर' की अवधारणा पर आधारित वस्तु एवं सेवा कर (GST) 1 जुलाई 2017 को किस संविधान संशोधन द्वारा लागू हुआ?",
+      "o": [
+        "101st Constitutional Amendment Act (101वाँ संशोधन)",
+        "100th Amendment",
+        "102nd Amendment",
+        "103rd Amendment"
+      ],
+      "options": [
+        "101st Constitutional Amendment Act (101वाँ संशोधन)",
+        "100th Amendment",
+        "102nd Amendment",
+        "103rd Amendment"
+      ],
+      "oHi": [
+        "101वाँ संविधान संशोधन अधिनियम",
+        "100वाँ संशोधन",
+        "102वाँ संशोधन",
+        "103वाँ संशोधन"
+      ],
+      "optionsHi": [
+        "101वाँ संविधान संशोधन अधिनियम",
+        "100वाँ संशोधन",
+        "102वाँ संशोधन",
+        "103वाँ संशोधन"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "The Goods and Services Tax (GST) was enacted via the 101st Constitutional Amendment Act, 2016, and rolled out on midnight of 1 July 2017, subsuming numerous Central and State indirect taxes.",
+      "explanation": "The Goods and Services Tax (GST) was enacted via the 101st Constitutional Amendment Act, 2016, and rolled out on midnight of 1 July 2017, subsuming numerous Central and State indirect taxes.",
+      "expHi": "जीएसटी (GST) को 101वें संविधान संशोधन अधिनियम, 2016 द्वारा पारित किया गया और 1 जुलाई 2017 को देशभर में लागू किया गया, जिसने कई केंद्रीय व राज्य अप्रत्यक्ष करों का स्थान लिया।",
+      "explanationHi": "जीएसटी (GST) को 101वें संविधान संशोधन अधिनियम, 2016 द्वारा पारित किया गया और 1 जुलाई 2017 को देशभर में लागू किया गया, जिसने कई केंद्रीय व राज्य अप्रत्यक्ष करों का स्थान लिया।",
+      "hint": "Enacted as the 101st Amendment Act, creating Article 279A for the GST Council.",
+      "hintHi": "101वाँ संशोधन अधिनियम जिसके तहत जीएसटी परिषद (अनुच्छेद 279A) का गठन हुआ।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "Banking",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_indian_economy_exp_15",
+      "q": "NITI Aayog (National Institution for Transforming India) was established on 1 January 2015 to replace which 65-year-old body?",
+      "questionText": "NITI Aayog (National Institution for Transforming India) was established on 1 January 2015 to replace which 65-year-old body?",
+      "qHi": "1 जनवरी 2015 को किस 65 वर्ष पुरानी संस्था के स्थान पर 'नीति आयोग' (NITI Aayog) का गठन किया गया?",
+      "questionTextHi": "1 जनवरी 2015 को किस 65 वर्ष पुरानी संस्था के स्थान पर 'नीति आयोग' (NITI Aayog) का गठन किया गया?",
+      "o": [
+        "Planning Commission of India (योजना आयोग)",
+        "National Development Council",
+        "Finance Commission",
+        "Disinvestment Commission"
+      ],
+      "options": [
+        "Planning Commission of India (योजना आयोग)",
+        "National Development Council",
+        "Finance Commission",
+        "Disinvestment Commission"
+      ],
+      "oHi": [
+        "योजना आयोग (Planning Commission)",
+        "राष्ट्रीय विकास परिषद",
+        "वित्त आयोग",
+        "विनिवेश आयोग"
+      ],
+      "optionsHi": [
+        "योजना आयोग (Planning Commission)",
+        "राष्ट्रीय विकास परिषद",
+        "वित्त आयोग",
+        "विनिवेश आयोग"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "NITI Aayog replaced the Planning Commission (which had been established on 15 March 1950) on 1 January 2015 as a premier policy think tank to foster cooperative federalism. Prime Minister is its ex-officio Chairperson.",
+      "explanation": "NITI Aayog replaced the Planning Commission (which had been established on 15 March 1950) on 1 January 2015 as a premier policy think tank to foster cooperative federalism. Prime Minister is its ex-officio Chairperson.",
+      "expHi": "15 मार्च 1950 को गठित योजना आयोग को समाप्त कर 1 जनवरी 2015 को नीति आयोग (राष्ट्रीय भारत परिवर्तन संस्थान) का गठन किया गया, जिसके पदेन अध्यक्ष भारत के प्रधानमंत्री होते हैं।",
+      "explanationHi": "15 मार्च 1950 को गठित योजना आयोग को समाप्त कर 1 जनवरी 2015 को नीति आयोग (राष्ट्रीय भारत परिवर्तन संस्थान) का गठन किया गया, जिसके पदेन अध्यक्ष भारत के प्रधानमंत्री होते हैं।",
+      "hint": "The body set up in 1950 that formulated 12 Five-Year Plans.",
+      "hintHi": "1950 में स्थापित वह निकाय जिसने 12 पंचवर्षीय योजनाएँ बनाई थीं।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "Banking",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_indian_economy_exp_16",
+      "q": "Who is globally acclaimed as the 'Father of the Green Revolution in India', conferred the Bharat Ratna in 2024?",
+      "questionText": "Who is globally acclaimed as the 'Father of the Green Revolution in India', conferred the Bharat Ratna in 2024?",
+      "qHi": "उच्च उत्पादकता वाले गेहूँ और चावल के बीजों द्वारा भारत को खाद्यान्न में आत्मनिर्भर बनाने वाले 'भारत में हरित क्रांति के जनक' कौन थे, जिन्हें 2024 में भारत रत्न से सम्मानित किया गया?",
+      "questionTextHi": "उच्च उत्पादकता वाले गेहूँ और चावल के बीजों द्वारा भारत को खाद्यान्न में आत्मनिर्भर बनाने वाले 'भारत में हरित क्रांति के जनक' कौन थे, जिन्हें 2024 में भारत रत्न से सम्मानित किया गया?",
+      "o": [
+        "Dr. M. S. Swaminathan (डॉ. एम.एस. स्वामीनाथन)",
+        "Dr. Verghese Kurien",
+        "Dr. Norman Borlaug",
+        "Prof. C. N. R. Rao"
+      ],
+      "options": [
+        "Dr. M. S. Swaminathan (डॉ. एम.एस. स्वामीनाथन)",
+        "Dr. Verghese Kurien",
+        "Dr. Norman Borlaug",
+        "Prof. C. N. R. Rao"
+      ],
+      "oHi": [
+        "डॉ. एम.एस. स्वामीनाथन",
+        "डॉ. वर्गीज कुरियन",
+        "डॉ. नॉर्मन बोरलॉग",
+        "प्रो. सी.एन.आर. राव"
+      ],
+      "optionsHi": [
+        "डॉ. एम.एस. स्वामीनाथन",
+        "डॉ. वर्गीज कुरियन",
+        "डॉ. नॉर्मन बोरलॉग",
+        "प्रो. सी.एन.आर. राव"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Dr. Mankombu Sambasivan Swaminathan led the introduction of semi-dwarf high-yielding wheat varieties in India during the 1960s with Norman Borlaug. He was posthumously awarded the Bharat Ratna in 2024.",
+      "explanation": "Dr. Mankombu Sambasivan Swaminathan led the introduction of semi-dwarf high-yielding wheat varieties in India during the 1960s with Norman Borlaug. He was posthumously awarded the Bharat Ratna in 2024.",
+      "expHi": "कृषि वैज्ञानिक डॉ. एम.एस. स्वामीनाथन ने 1960 के दशक में नॉर्मन बोरलॉग के सहयोग से भारत में उच्च उपज वाले गेहूँ की किस्मों को विकसित कर हरित क्रांति का नेतृत्व किया। इन्हें 2024 में मरणोपरांत भारत रत्न दिया गया।",
+      "explanationHi": "कृषि वैज्ञानिक डॉ. एम.एस. स्वामीनाथन ने 1960 के दशक में नॉर्मन बोरलॉग के सहयोग से भारत में उच्च उपज वाले गेहूँ की किस्मों को विकसित कर हरित क्रांति का नेतृत्व किया। इन्हें 2024 में मरणोपरांत भारत रत्न दिया गया।",
+      "hint": "Renowned agricultural scientist; led the introduction of high-yielding semi-dwarf wheat.",
+      "hintHi": "महान कृषि वैज्ञानिक जिन्होंने भारत में हरित क्रांति का नेतृत्व किया।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "Banking",
+        "RRB"
+      ]
     }
-  ]
+  ],
+  "questionCount": 5
 }

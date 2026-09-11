@@ -30,26 +30,98 @@
   "schemes": "Mukhyamantri Maiyan Samman Yojana, Abua Awas Yojana, Sarbojan Pension Yojana",
   "mcqs": [
     {
+      "id": "gk_state_jharkhand_q1",
       "q": "Jharia coalfield, renowned for producing prime coking coal in India, is located in which district of Jharkhand?",
+      "questionText": "Jharia coalfield, renowned for producing prime coking coal in India, is located in which district of Jharkhand?",
+      "qHi": "झारखंड में प्राइम कोकिंग कोल उत्पादन के लिए प्रसिद्ध 'झरिया' कोयला क्षेत्र किस जिले में स्थित है?",
+      "questionTextHi": "झारखंड में प्राइम कोकिंग कोल उत्पादन के लिए प्रसिद्ध 'झरिया' कोयला क्षेत्र किस जिले में स्थित है?",
       "o": [
         "Dhanbad",
         "Ranchi",
         "Bokaro",
         "Singhbhum"
       ],
+      "options": [
+        "Dhanbad",
+        "Ranchi",
+        "Bokaro",
+        "Singhbhum"
+      ],
+      "oHi": [
+        "धनबाद",
+        "रांची",
+        "बोकारो",
+        "हजारीबाग"
+      ],
+      "optionsHi": [
+        "धनबाद",
+        "रांची",
+        "बोकारो",
+        "हजारीबाग"
+      ],
       "a": 0,
-      "exp": "Jharia in Dhanbad district is India's most significant storehouse of metallurgical coking coal."
+      "correctIndex": 0,
+      "exp": "Jharia in Dhanbad district is India's most significant storehouse of metallurgical coking coal.",
+      "explanation": "Jharia in Dhanbad district is India's most significant storehouse of metallurgical coking coal.",
+      "expHi": "धनबाद जिला, जिसे 'भारत की कोयला राजधानी' कहा जाता है, झरिया कोयला क्षेत्र का मुख्य केंद्र है जहाँ देश का सबसे बड़ा कोकिंग कोल भंडार है।",
+      "explanationHi": "धनबाद जिला, जिसे 'भारत की कोयला राजधानी' कहा जाता है, झरिया कोयला क्षेत्र का मुख्य केंद्र है जहाँ देश का सबसे बड़ा कोकिंग कोल भंडार है।",
+      "hint": "Reflect upon the geographic, political, and cultural heritage of Jharkhand.",
+      "hintHi": "इसे 'भारत की कोयला राजधानी' कहा जाता है।",
+      "difficulty": "medium",
+      "lastVerified": "2026-01-01",
+      "examTags": [
+        "ssc_cgl",
+        "state_psc",
+        "railway",
+        "police"
+      ]
     },
     {
+      "id": "gk_state_jharkhand_q2",
       "q": "India's first and oldest uranium mine is located at which place in Jharkhand?",
+      "questionText": "India's first and oldest uranium mine is located at which place in Jharkhand?",
+      "qHi": "पूर्वी सिंहभूम जिले में स्थित भारत की पहली और सबसे पुरानी यूरेनियम खदान कौन सी है?",
+      "questionTextHi": "पूर्वी सिंहभूम जिले में स्थित भारत की पहली और सबसे पुरानी यूरेनियम खदान कौन सी है?",
       "o": [
         "Jaduguda",
         "Ghatsila",
         "Koderma",
         "Noamundi"
       ],
+      "options": [
+        "Jaduguda",
+        "Ghatsila",
+        "Koderma",
+        "Noamundi"
+      ],
+      "oHi": [
+        "जादूगोड़ा",
+        "तुरामडीह",
+        "नरवापहाड़",
+        "बागुजाता"
+      ],
+      "optionsHi": [
+        "जादूगोड़ा",
+        "तुरामडीह",
+        "नरवापहाड़",
+        "बागुजाता"
+      ],
       "a": 0,
-      "exp": "Jaduguda mine in East Singhbhum began operations in 1967 and was India's first uranium mine."
+      "correctIndex": 0,
+      "exp": "Jaduguda mine in East Singhbhum began operations in 1967 and was India's first uranium mine.",
+      "explanation": "Jaduguda mine in East Singhbhum began operations in 1967 and was India's first uranium mine.",
+      "expHi": "जादूगोड़ा खदान का संचालन यूरेनियम कॉर्पोरेशन ऑफ इंडिया (UCIL) द्वारा 1967 से किया जा रहा है और यह भारत की पहली वाणिज्यिक यूरेनियम खदान है।",
+      "explanationHi": "जादूगोड़ा खदान का संचालन यूरेनियम कॉर्पोरेशन ऑफ इंडिया (UCIL) द्वारा 1967 से किया जा रहा है और यह भारत की पहली वाणिज्यिक यूरेनियम खदान है।",
+      "hint": "Reflect upon the geographic, political, and cultural heritage of Jharkhand.",
+      "hintHi": "यह यूसीआईएल (UCIL) द्वारा संचालित ऐतिहासिक खदान है।",
+      "difficulty": "medium",
+      "lastVerified": "2026-01-01",
+      "examTags": [
+        "ssc_cgl",
+        "state_psc",
+        "railway",
+        "police"
+      ]
     }
   ],
   "subtopics": [
@@ -272,5 +344,6 @@
         }
       ]
     }
-  ]
+  ],
+  "mcqCount": 2
 }

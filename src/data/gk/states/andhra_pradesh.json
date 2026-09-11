@@ -30,48 +30,192 @@
   "schemes": "Thalliki Vandanam, Annadata Sukhibhava, Deepam Scheme",
   "mcqs": [
     {
+      "id": "gk_state_andhra_pradesh_q1",
       "q": "Which classical dance form originated in Andhra Pradesh?",
+      "questionText": "Which classical dance form originated in Andhra Pradesh?",
+      "qHi": "किस शास्त्रीय नृत्य शैली की उत्पत्ति आंध्र प्रदेश में हुई थी?",
+      "questionTextHi": "किस शास्त्रीय नृत्य शैली की उत्पत्ति आंध्र प्रदेश में हुई थी?",
       "o": [
         "Kuchipudi",
         "Bharatanatyam",
         "Kathakali",
         "Odissi"
       ],
+      "options": [
+        "Kuchipudi",
+        "Bharatanatyam",
+        "Kathakali",
+        "Odissi"
+      ],
+      "oHi": [
+        "कुचिपुड़ी",
+        "भरतनाट्यम",
+        "कथकली",
+        "ओडिसी"
+      ],
+      "optionsHi": [
+        "कुचिपुड़ी",
+        "भरतनाट्यम",
+        "कथकली",
+        "ओडिसी"
+      ],
       "a": 0,
-      "exp": "Kuchipudi originated in the Kuchipudi village of Krishna district, Andhra Pradesh."
+      "correctIndex": 0,
+      "exp": "Kuchipudi originated in the Kuchipudi village of Krishna district, Andhra Pradesh.",
+      "explanation": "Kuchipudi originated in the Kuchipudi village of Krishna district, Andhra Pradesh.",
+      "expHi": "कुचिपुड़ी की उत्पत्ति आंध्र प्रदेश के कृष्णा जिले के कुचिपुड़ी गांव में हुई थी। सिद्धेंद्र योगी इसके प्रमुख उन्नायक थे।",
+      "explanationHi": "कुचिपुड़ी की उत्पत्ति आंध्र प्रदेश के कृष्णा जिले के कुचिपुड़ी गांव में हुई थी। सिद्धेंद्र योगी इसके प्रमुख उन्नायक थे।",
+      "hint": "Reflect upon the geographic, political, and cultural heritage of Andhra Pradesh.",
+      "hintHi": "यह आंध्र प्रदेश के कृष्णा जिले के एक गांव के नाम पर आधारित शास्त्रीय नृत्य है।",
+      "difficulty": "medium",
+      "lastVerified": "2026-01-01",
+      "examTags": [
+        "ssc_cgl",
+        "state_psc",
+        "railway",
+        "police"
+      ]
     },
     {
+      "id": "gk_state_andhra_pradesh_q2",
       "q": "Where is the Satish Dhawan Space Centre (SHAR) located?",
+      "questionText": "Where is the Satish Dhawan Space Centre (SHAR) located?",
+      "qHi": "सतीश धवन अंतरिक्ष केंद्र (SHAR) कहाँ स्थित है?",
+      "questionTextHi": "सतीश धवन अंतरिक्ष केंद्र (SHAR) कहाँ स्थित है?",
       "o": [
         "Sriharikota",
         "Visakhapatnam",
         "Tirupati",
         "Vijayawada"
       ],
+      "options": [
+        "Sriharikota",
+        "Visakhapatnam",
+        "Tirupati",
+        "Vijayawada"
+      ],
+      "oHi": [
+        "श्रीहरिकोटा",
+        "विशाखापत्तनम",
+        "तिरुपति",
+        "विजयवाड़ा"
+      ],
+      "optionsHi": [
+        "श्रीहरिकोटा",
+        "विशाखापत्तनम",
+        "तिरुपति",
+        "विजयवाड़ा"
+      ],
       "a": 0,
-      "exp": "Satish Dhawan Space Centre is ISRO's primary spaceport located in Sriharikota, Tirupati district, AP."
+      "correctIndex": 0,
+      "exp": "Satish Dhawan Space Centre is ISRO's primary spaceport located in Sriharikota, Tirupati district, AP.",
+      "explanation": "Satish Dhawan Space Centre is ISRO's primary spaceport located in Sriharikota, Tirupati district, AP.",
+      "expHi": "सतीश धवन अंतरिक्ष केंद्र (SHAR) इसरो का प्रमुख अंतरिक्ष प्रक्षेपण केंद्र है, जो आंध्र प्रदेश के तिरुपति जिले के श्रीहरिकोटा में स्थित है।",
+      "explanationHi": "सतीश धवन अंतरिक्ष केंद्र (SHAR) इसरो का प्रमुख अंतरिक्ष प्रक्षेपण केंद्र है, जो आंध्र प्रदेश के तिरुपति जिले के श्रीहरिकोटा में स्थित है।",
+      "hint": "Reflect upon the geographic, political, and cultural heritage of Andhra Pradesh.",
+      "hintHi": "यह बंगाल की खाड़ी के तट पर स्थित इसरो का प्राथमिक प्रक्षेपण द्वीप है।",
+      "difficulty": "medium",
+      "lastVerified": "2026-01-01",
+      "examTags": [
+        "ssc_cgl",
+        "state_psc",
+        "railway",
+        "police"
+      ]
     },
     {
+      "id": "gk_state_andhra_pradesh_q3",
       "q": "What is the state animal of Andhra Pradesh?",
+      "questionText": "What is the state animal of Andhra Pradesh?",
+      "qHi": "आंध्र प्रदेश का राज्य पशु कौन सा है?",
+      "questionTextHi": "आंध्र प्रदेश का राज्य पशु कौन सा है?",
       "o": [
         "Blackbuck",
         "Chital",
         "Gaur",
         "Elephant"
       ],
+      "options": [
+        "Blackbuck",
+        "Chital",
+        "Gaur",
+        "Elephant"
+      ],
+      "oHi": [
+        "काला हिरण (कृष्णमृग)",
+        "चीital",
+        "गौर",
+        "हाथी"
+      ],
+      "optionsHi": [
+        "काला हिरण (कृष्णमृग)",
+        "चीital",
+        "गौर",
+        "हाथी"
+      ],
       "a": 0,
-      "exp": "The Blackbuck (Krishna Jinka) is the official state animal of Andhra Pradesh."
+      "correctIndex": 0,
+      "exp": "The Blackbuck (Krishna Jinka) is the official state animal of Andhra Pradesh.",
+      "explanation": "The Blackbuck (Krishna Jinka) is the official state animal of Andhra Pradesh.",
+      "expHi": "काला हिरण (कृष्णमृग / Blackbuck) आंध्र प्रदेश का आधिकारिक राज्य पशु है।",
+      "explanationHi": "काला हिरण (कृष्णमृग / Blackbuck) आंध्र प्रदेश का आधिकारिक राज्य पशु है।",
+      "hint": "Reflect upon the geographic, political, and cultural heritage of Andhra Pradesh.",
+      "hintHi": "इसे तेलुगु में 'कृष्ण जिंका' कहा जाता है।",
+      "difficulty": "medium",
+      "lastVerified": "2026-01-01",
+      "examTags": [
+        "ssc_cgl",
+        "state_psc",
+        "railway",
+        "police"
+      ]
     },
     {
+      "id": "gk_state_andhra_pradesh_q4",
       "q": "Which major river forms a massive delta at Rajahmundry before entering the Bay of Bengal?",
+      "questionText": "Which major river forms a massive delta at Rajahmundry before entering the Bay of Bengal?",
+      "qHi": "बंगाल की खाड़ी में गिरने से पहले कौन सी प्रमुख नदी राजमुंदरी में विशाल डेल्टा बनाती है?",
+      "questionTextHi": "बंगाल की खाड़ी में गिरने से पहले कौन सी प्रमुख नदी राजमुंदरी में विशाल डेल्टा बनाती है?",
       "o": [
         "Godavari",
         "Krishna",
         "Penna",
         "Kaveri"
       ],
+      "options": [
+        "Godavari",
+        "Krishna",
+        "Penna",
+        "Kaveri"
+      ],
+      "oHi": [
+        "गोदावरी",
+        "कृष्णा",
+        "पेन्ना",
+        "कावेरी"
+      ],
+      "optionsHi": [
+        "गोदावरी",
+        "कृष्णा",
+        "पेन्ना",
+        "कावेरी"
+      ],
       "a": 0,
-      "exp": "The Godavari River flows through Rajahmundry (Rajamahendravaram) and forms its fertile delta region."
+      "correctIndex": 0,
+      "exp": "The Godavari River flows through Rajahmundry (Rajamahendravaram) and forms its fertile delta region.",
+      "explanation": "The Godavari River flows through Rajahmundry (Rajamahendravaram) and forms its fertile delta region.",
+      "expHi": "गोदावरी नदी राजमुंदरी (राजमहेंद्रवरम) से होकर बहती है और उपजाऊ डेल्टा बनाती है, जिसे आंध्र का 'चावल का कटोरा' कहा जाता है।",
+      "explanationHi": "गोदावरी नदी राजमुंदरी (राजमहेंद्रवरम) से होकर बहती है और उपजाऊ डेल्टा बनाती है, जिसे आंध्र का 'चावल का कटोरा' कहा जाता है।",
+      "hint": "Reflect upon the geographic, political, and cultural heritage of Andhra Pradesh.",
+      "hintHi": "इसे 'दक्षिण गंगा' या 'वृद्ध गंगा' भी कहा जाता है।",
+      "difficulty": "medium",
+      "lastVerified": "2026-01-01",
+      "examTags": [
+        "ssc_cgl",
+        "state_psc",
+        "railway",
+        "police"
+      ]
     }
   ],
   "subtopics": [
@@ -294,5 +438,6 @@
         }
       ]
     }
-  ]
+  ],
+  "mcqCount": 4
 }

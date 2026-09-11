@@ -31,26 +31,98 @@
   "schemes": "One District One Product (ODOP), Mission Shakti, Kanya Sumangala Yojana",
   "mcqs": [
     {
+      "id": "gk_state_uttar_pradesh_q1",
       "q": "Which classical dance form of India originated and flourished in the royal courts (Darbar) of Lucknow, Uttar Pradesh?",
+      "questionText": "Which classical dance form of India originated and flourished in the royal courts (Darbar) of Lucknow, Uttar Pradesh?",
+      "qHi": "उत्तर भारत की कौन सी शास्त्रीय नृत्य शैली अवध के नवाब वाजिद अली शाह के दरबार में अपने चरम पर पहुंची?",
+      "questionTextHi": "उत्तर भारत की कौन सी शास्त्रीय नृत्य शैली अवध के नवाब वाजिद अली शाह के दरबार में अपने चरम पर पहुंची?",
       "o": [
         "Kathak",
         "Bharatanatyam",
         "Kathakali",
         "Manipuri"
       ],
+      "options": [
+        "Kathak",
+        "Bharatanatyam",
+        "Kathakali",
+        "Manipuri"
+      ],
+      "oHi": [
+        "कथक",
+        "भरतनाट्यम",
+        "ओडिसी",
+        "मणिपुरी"
+      ],
+      "optionsHi": [
+        "कथक",
+        "भरतनाट्यम",
+        "ओडिसी",
+        "मणिपुरी"
+      ],
       "a": 0,
-      "exp": "Kathak derives from the Sanskrit word 'Katha' (storytelling) and was patronized by Nawab Wajid Ali Shah of Awadh."
+      "correctIndex": 0,
+      "exp": "Kathak derives from the Sanskrit word 'Katha' (storytelling) and was patronized by Nawab Wajid Ali Shah of Awadh.",
+      "explanation": "Kathak derives from the Sanskrit word 'Katha' (storytelling) and was patronized by Nawab Wajid Ali Shah of Awadh.",
+      "expHi": "कथक की उत्पत्ति प्राचीन उत्तर भारत के कथावाचकों से हुई और यह लखनऊ तथा जयपुर घरानों के माध्यम से शास्त्रीय रूप में विकसित हुआ।",
+      "explanationHi": "कथक की उत्पत्ति प्राचीन उत्तर भारत के कथावाचकों से हुई और यह लखनऊ तथा जयपुर घरानों के माध्यम से शास्त्रीय रूप में विकसित हुआ।",
+      "hint": "Reflect upon the geographic, political, and cultural heritage of Uttar Pradesh.",
+      "hintHi": "'कथा कहे सो कथक कहावे' कहावत इसी नृत्य से जुड़ी है।",
+      "difficulty": "medium",
+      "lastVerified": "2026-01-01",
+      "examTags": [
+        "ssc_cgl",
+        "state_psc",
+        "railway",
+        "police"
+      ]
     },
     {
+      "id": "gk_state_uttar_pradesh_q2",
       "q": "Where did Lord Buddha preach his very first sermon (Dhammacakkappavattana Sutta) after attaining enlightenment?",
+      "questionText": "Where did Lord Buddha preach his very first sermon (Dhammacakkappavattana Sutta) after attaining enlightenment?",
+      "qHi": "भगवान बुद्ध ने ज्ञान प्राप्ति के बाद अपना पहला उपदेश (धर्मचक्रप्रवर्तन) वाराणसी के निकट किस पवित्र स्थल पर दिया था?",
+      "questionTextHi": "भगवान बुद्ध ने ज्ञान प्राप्ति के बाद अपना पहला उपदेश (धर्मचक्रप्रवर्तन) वाराणसी के निकट किस पवित्र स्थल पर दिया था?",
       "o": [
         "Sarnath",
         "Bodh Gaya",
         "Kushinagar",
         "Sravasti"
       ],
+      "options": [
+        "Sarnath",
+        "Bodh Gaya",
+        "Kushinagar",
+        "Sravasti"
+      ],
+      "oHi": [
+        "सारनाथ",
+        "कुशीनगर",
+        "श्रावस्ती",
+        "कौशाम्बी"
+      ],
+      "optionsHi": [
+        "सारनाथ",
+        "कुशीनगर",
+        "श्रावस्ती",
+        "कौशाम्बी"
+      ],
       "a": 0,
-      "exp": "Lord Buddha delivered his first sermon at the Deer Park in Sarnath near Varanasi."
+      "correctIndex": 0,
+      "exp": "Lord Buddha delivered his first sermon at the Deer Park in Sarnath near Varanasi.",
+      "explanation": "Lord Buddha delivered his first sermon at the Deer Park in Sarnath near Varanasi.",
+      "expHi": "सारनाथ के हिरण पार्क (ऋषिपत्तन) में भगवान बुद्ध ने अपने पांच शिष्यों को पहला उपदेश दिया, जहाँ सम्राट अशोक ने प्रसिद्ध सिंह चतुर्मुख स्तंभ बनवाया।",
+      "explanationHi": "सारनाथ के हिरण पार्क (ऋषिपत्तन) में भगवान बुद्ध ने अपने पांच शिष्यों को पहला उपदेश दिया, जहाँ सम्राट अशोक ने प्रसिद्ध सिंह चतुर्मुख स्तंभ बनवाया।",
+      "hint": "Reflect upon the geographic, political, and cultural heritage of Uttar Pradesh.",
+      "hintHi": "भारत का राष्ट्रीय प्रतीक इसी स्थान के अशोक स्तंभ से लिया गया है।",
+      "difficulty": "medium",
+      "lastVerified": "2026-01-01",
+      "examTags": [
+        "ssc_cgl",
+        "state_psc",
+        "railway",
+        "police"
+      ]
     }
   ],
   "subtopics": [
@@ -273,5 +345,6 @@
         }
       ]
     }
-  ]
+  ],
+  "mcqCount": 2
 }

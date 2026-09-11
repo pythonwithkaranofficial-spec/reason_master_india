@@ -31,26 +31,98 @@
   "schemes": "Lakshadweep Tourism Development Initiatives, Desalination Water Mission",
   "mcqs": [
     {
+      "id": "gk_state_lakshadweep_q1",
       "q": "Minicoy Island in Lakshadweep is separated from the main northern Lakshadweep archipelago by which maritime channel?",
+      "questionText": "Minicoy Island in Lakshadweep is separated from the main northern Lakshadweep archipelago by which maritime channel?",
+      "qHi": "लक्षद्वीप का सबसे दक्षिणी मिनिकॉय द्वीप मुख्य लक्षद्वीप द्वीपसमूह से किस जलडमरूमध्य द्वारा अलग होता है?",
+      "questionTextHi": "लक्षद्वीप का सबसे दक्षिणी मिनिकॉय द्वीप मुख्य लक्षद्वीप द्वीपसमूह से किस जलडमरूमध्य द्वारा अलग होता है?",
       "o": [
         "9 Degree Channel",
         "10 Degree Channel",
         "8 Degree Channel",
         "Palk Strait"
       ],
+      "options": [
+        "9 Degree Channel",
+        "10 Degree Channel",
+        "8 Degree Channel",
+        "Palk Strait"
+      ],
+      "oHi": [
+        "9 डिग्री चैनल",
+        "8 डिग्री चैनल",
+        "10 डिग्री चैनल",
+        "पाक जलडमरूमध्य"
+      ],
+      "optionsHi": [
+        "9 डिग्री चैनल",
+        "8 डिग्री चैनल",
+        "10 डिग्री चैनल",
+        "पाक जलडमरूमध्य"
+      ],
       "a": 0,
-      "exp": "The 9 Degree Channel separates Minicoy Island from the northern Amindivi and Laccadive groups of islands (8 Degree Channel separates Minicoy from Maldives)."
+      "correctIndex": 0,
+      "exp": "The 9 Degree Channel separates Minicoy Island from the northern Amindivi and Laccadive groups of islands (8 Degree Channel separates Minicoy from Maldives).",
+      "explanation": "The 9 Degree Channel separates Minicoy Island from the northern Amindivi and Laccadive groups of islands (8 Degree Channel separates Minicoy from Maldives).",
+      "expHi": "9 डिग्री चैनल मिनिकॉय द्वीप को कल्पेनी और सुहेली पार से अलग करता है, जबकि 8 डिग्री चैनल मिनिकॉय को मालदीव से अलग करता है।",
+      "explanationHi": "9 डिग्री चैनल मिनिकॉय द्वीप को कल्पेनी और सुहेली पार से अलग करता है, जबकि 8 डिग्री चैनल मिनिकॉय को मालदीव से अलग करता है।",
+      "hint": "Reflect upon the geographic, political, and cultural heritage of Lakshadweep.",
+      "hintHi": "8 डिग्री चैनल इसे मालदीव से अलग करता है और यह चैनल लक्षद्वीप के मुख्य समूह से।",
+      "difficulty": "medium",
+      "lastVerified": "2026-01-01",
+      "examTags": [
+        "ssc_cgl",
+        "state_psc",
+        "railway",
+        "police"
+      ]
     },
     {
+      "id": "gk_state_lakshadweep_q2",
       "q": "Which unique language, closely related to Dhivehi spoken in the Maldives, is exclusively spoken on Minicoy Island?",
+      "questionText": "Which unique language, closely related to Dhivehi spoken in the Maldives, is exclusively spoken on Minicoy Island?",
+      "qHi": "लक्षद्वीप के मिनिकॉय द्वीप पर मालदीव की दिवेही भाषा से मिलती-जुलती कौन सी अनूठी भाषा बोली जाती है?",
+      "questionTextHi": "लक्षद्वीप के मिनिकॉय द्वीप पर मालदीव की दिवेही भाषा से मिलती-जुलती कौन सी अनूठी भाषा बोली जाती है?",
       "o": [
         "Mahl",
         "Malayalam",
         "Dakhini",
         "Konkani"
       ],
+      "options": [
+        "Mahl",
+        "Malayalam",
+        "Dakhini",
+        "Konkani"
+      ],
+      "oHi": [
+        "महल (Mahl)",
+        "मलयालम",
+        "तमिल",
+        "कन्नड़"
+      ],
+      "optionsHi": [
+        "महल (Mahl)",
+        "मलयालम",
+        "तमिल",
+        "कन्नड़"
+      ],
       "a": 0,
-      "exp": "Mahl is the maternal dialect of Minicoy inhabitants, written in the Eveyla Akuru / Thaana script."
+      "correctIndex": 0,
+      "exp": "Mahl is the maternal dialect of Minicoy inhabitants, written in the Eveyla Akuru / Thaana script.",
+      "explanation": "Mahl is the maternal dialect of Minicoy inhabitants, written in the Eveyla Akuru / Thaana script.",
+      "expHi": "मिनिकॉय द्वीप के निवासी महल भाषा बोलते हैं, जो थान लिपि में लिखी जाती है और मालदीव की राष्ट्रीय भाषा दिवेही की एक बोली है।",
+      "explanationHi": "मिनिकॉय द्वीप के निवासी महल भाषा बोलते हैं, जो थान लिपि में लिखी जाती है और मालदीव की राष्ट्रीय भाषा दिवेही की एक बोली है।",
+      "hint": "Reflect upon the geographic, political, and cultural heritage of Lakshadweep.",
+      "hintHi": "यह भाषा थान लिपि (Thaana script) में लिखी जाती है।",
+      "difficulty": "medium",
+      "lastVerified": "2026-01-01",
+      "examTags": [
+        "ssc_cgl",
+        "state_psc",
+        "railway",
+        "police"
+      ]
     }
   ],
   "subtopics": [
@@ -261,5 +333,6 @@
         }
       ]
     }
-  ]
+  ],
+  "mcqCount": 2
 }

@@ -31,26 +31,285 @@
   ],
   "mcqs": [
     {
+      "id": "gk_nat_sports_games_q1",
       "q": "National Sports Day in India is celebrated every year on August 29 in commemoration of the birth anniversary of which legend?",
+      "questionText": "National Sports Day in India is celebrated every year on August 29 in commemoration of the birth anniversary of which legend?",
+      "qHi": "भारत में प्रतिवर्ष 29 अगस्त को 'राष्ट्रीय खेल दिवस' किस महान हॉकी खिलाड़ी की जयंती पर मनाया जाता है?",
+      "questionTextHi": "भारत में प्रतिवर्ष 29 अगस्त को 'राष्ट्रीय खेल दिवस' किस महान हॉकी खिलाड़ी की जयंती पर मनाया जाता है?",
       "o": [
         "Major Dhyan Chand",
         "Milkha Singh",
         "K. D. Jadhav",
         "Balbir Singh Sr."
       ],
+      "options": [
+        "Major Dhyan Chand",
+        "Milkha Singh",
+        "K. D. Jadhav",
+        "Balbir Singh Sr."
+      ],
+      "oHi": [
+        "मेजर ध्यानचंद",
+        "के.डी. सिंह बाबू",
+        "बलबीर सिंह सीनियर",
+        "मिल्खा सिंह"
+      ],
+      "optionsHi": [
+        "मेजर ध्यानचंद",
+        "के.डी. सिंह बाबू",
+        "बलबीर सिंह सीनियर",
+        "मिल्खा सिंह"
+      ],
       "a": 0,
-      "exp": "Major Dhyan Chand, the 'Wizard of Hockey', led India to Olympic gold medals in 1928, 1932, and 1936."
+      "correctIndex": 0,
+      "exp": "Major Dhyan Chand, the 'Wizard of Hockey', led India to Olympic gold medals in 1928, 1932, and 1936.",
+      "explanation": "Major Dhyan Chand, the 'Wizard of Hockey', led India to Olympic gold medals in 1928, 1932, and 1936.",
+      "expHi": "मेजर ध्यानचंद ('हॉकी के जादूगर') ने भारत को 1928, 1932 और 1936 के ओलंपिक में लगातार स्वर्ण पदक दिलाए। 29 अगस्त को उनकी जयंती खेल दिवस के रूप में मनाई जाती है।",
+      "explanationHi": "मेजर ध्यानचंद ('हॉकी के जादूगर') ने भारत को 1928, 1932 और 1936 के ओलंपिक में लगातार स्वर्ण पदक दिलाए। 29 अगस्त को उनकी जयंती खेल दिवस के रूप में मनाई जाती है।",
+      "hint": "Consider the established historical and constitutional facts of Sports & Games.",
+      "hintHi": "उन्हें दुनिया भर में 'हॉकी का जादूगर' (The Wizard) कहा जाता था।",
+      "difficulty": "medium",
+      "examTags": [
+        "ssc_cgl",
+        "upsc_csat",
+        "railway",
+        "banking_ga"
+      ]
     },
     {
+      "id": "gk_nat_sports_games_q2",
       "q": "Who was the first Indian woman to win an Olympic medal?",
+      "questionText": "Who was the first Indian woman to win an Olympic medal?",
+      "qHi": "2000 के सिडनी ओलंपिक खेलों में भारोत्तोलन (वेटलिफ्टिंग) में कांस्य पदक जीतकर ओलंपिक पदक जीतने वाली पहली भारतीय महिला कौन बनीं?",
+      "questionTextHi": "2000 के सिडनी ओलंपिक खेलों में भारोत्तोलन (वेटलिफ्टिंग) में कांस्य पदक जीतकर ओलंपिक पदक जीतने वाली पहली भारतीय महिला कौन बनीं?",
       "o": [
         "Karnam Malleswari",
         "Mary Kom",
         "Saina Nehwal",
         "P. V. Sindhu"
       ],
+      "options": [
+        "Karnam Malleswari",
+        "Mary Kom",
+        "Saina Nehwal",
+        "P. V. Sindhu"
+      ],
+      "oHi": [
+        "कर्णम मल्लेश्वरी",
+        "मैरी कॉम",
+        "साइना नेहवाल",
+        "पी.वी. सिंधु"
+      ],
+      "optionsHi": [
+        "कर्णम मल्लेश्वरी",
+        "मैरी कॉम",
+        "साइना नेहवाल",
+        "पी.वी. सिंधु"
+      ],
       "a": 0,
-      "exp": "Weightlifter Karnam Malleswari won bronze in the 69 kg weightlifting category at the Sydney 2000 Olympics."
+      "correctIndex": 0,
+      "exp": "Weightlifter Karnam Malleswari won bronze in the 69 kg weightlifting category at the Sydney 2000 Olympics.",
+      "explanation": "Weightlifter Karnam Malleswari won bronze in the 69 kg weightlifting category at the Sydney 2000 Olympics.",
+      "expHi": "कर्णम मल्लेश्वरी ने 19 सितंबर 2000 को 69 किग्रा वर्ग में कुल 240 किग्रा वजन उठाकर कांस्य पदक जीता और ओलंपिक पदक जीतने वाली पहली भारतीय महिला एथलीट बनीं।",
+      "explanationHi": "कर्णम मल्लेश्वरी ने 19 सितंबर 2000 को 69 किग्रा वर्ग में कुल 240 किग्रा वजन उठाकर कांस्य पदक जीता और ओलंपिक पदक जीतने वाली पहली भारतीय महिला एथलीट बनीं।",
+      "hint": "Consider the established historical and constitutional facts of Sports & Games.",
+      "hintHi": "वे आंध्र प्रदेश की विख्यात भारोत्तोलक (वेटलिफ्टर) हैं।",
+      "difficulty": "medium",
+      "examTags": [
+        "ssc_cgl",
+        "upsc_csat",
+        "railway",
+        "banking_ga"
+      ]
+    },
+    {
+      "id": "gk_nat_sports_games_exp_5",
+      "q": "What is the highest sporting honor of the Republic of India, renamed in August 2021 after the hockey legend?",
+      "questionText": "What is the highest sporting honor of the Republic of India, renamed in August 2021 after the hockey legend?",
+      "qHi": "भारत का सर्वोच्च खेल सम्मान कौन सा है, जिसका नाम अगस्त 2021 में हॉकी के जादूगर के नाम पर रखा गया?",
+      "questionTextHi": "भारत का सर्वोच्च खेल सम्मान कौन सा है, जिसका नाम अगस्त 2021 में हॉकी के जादूगर के नाम पर रखा गया?",
+      "o": [
+        "Major Dhyan Chand Khel Ratna Award",
+        "Arjuna Award",
+        "Dronacharya Award",
+        "Rashtriya Khel Protsahan Puraskar"
+      ],
+      "options": [
+        "Major Dhyan Chand Khel Ratna Award",
+        "Arjuna Award",
+        "Dronacharya Award",
+        "Rashtriya Khel Protsahan Puraskar"
+      ],
+      "oHi": [
+        "मेजर ध्यानचंद खेल रत्न पुरस्कार",
+        "अर्जुन पुरस्कार",
+        "द्रोणाचार्य पुरस्कार",
+        "राष्ट्रीय खेल प्रोत्साहन पुरस्कार"
+      ],
+      "optionsHi": [
+        "मेजर ध्यानचंद खेल रत्न पुरस्कार",
+        "अर्जुन पुरस्कार",
+        "द्रोणाचार्य पुरस्कार",
+        "राष्ट्रीय खेल प्रोत्साहन पुरस्कार"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Instituted in 1991-92 (formerly Rajiv Gandhi Khel Ratna), it was renamed the Major Dhyan Chand Khel Ratna Award in August 2021. Grandmaster Viswanathan Anand was its first recipient.",
+      "explanation": "Instituted in 1991-92 (formerly Rajiv Gandhi Khel Ratna), it was renamed the Major Dhyan Chand Khel Ratna Award in August 2021. Grandmaster Viswanathan Anand was its first recipient.",
+      "expHi": "1991-92 में शुरू किए गए खेल रत्न पुरस्कार का नाम अगस्त 2021 में बदलकर 'मेजर ध्यानचंद खेल रत्न पुरस्कार' किया गया। इसके प्रथम विजेता ग्रैंडमास्टर विश्वनाथन आनंद थे। इसमें 25 लाख रुपये की पुरस्कार राशि दी जाती है।",
+      "explanationHi": "1991-92 में शुरू किए गए खेल रत्न पुरस्कार का नाम अगस्त 2021 में बदलकर 'मेजर ध्यानचंद खेल रत्न पुरस्कार' किया गया। इसके प्रथम विजेता ग्रैंडमास्टर विश्वनाथन आनंद थे। इसमें 25 लाख रुपये की पुरस्कार राशि दी जाती है।",
+      "hint": "Carries a cash prize of Rs. 25 lakh; first awarded to chess wizard Viswanathan Anand.",
+      "hintHi": "प्रथम प्राप्तकर्ता ग्रैंडमास्टर विश्वनाथन आनंद थे।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "Banking",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_sports_games_exp_6",
+      "q": "Who was the first Indian athlete in independent India to win an individual Olympic Gold Medal?",
+      "questionText": "Who was the first Indian athlete in independent India to win an individual Olympic Gold Medal?",
+      "qHi": "स्वतंत्र भारत के इतिहास में व्यक्तिगत स्पर्धा में पहला ओलंपिक स्वर्ण पदक जीतने वाले भारतीय एथलीट कौन थे?",
+      "questionTextHi": "स्वतंत्र भारत के इतिहास में व्यक्तिगत स्पर्धा में पहला ओलंपिक स्वर्ण पदक जीतने वाले भारतीय एथलीट कौन थे?",
+      "o": [
+        "Abhinav Bindra (2008 Beijing)",
+        "Neeraj Chopra (2020 Tokyo)",
+        "K. D. Jadhav",
+        "Leander Paes"
+      ],
+      "options": [
+        "Abhinav Bindra (2008 Beijing)",
+        "Neeraj Chopra (2020 Tokyo)",
+        "K. D. Jadhav",
+        "Leander Paes"
+      ],
+      "oHi": [
+        "अभिनव बिंद्रा (2008 बीजिंग ओलंपिक)",
+        "नीरज चोपड़ा (2020 टोक्यो ओलंपिक)",
+        "के.डी. जाधव",
+        "लिएंडर पेस"
+      ],
+      "optionsHi": [
+        "अभिनव बिंद्रा (2008 बीजिंग ओलंपिक)",
+        "नीरज चोपड़ा (2020 टोक्यो ओलंपिक)",
+        "के.डी. जाधव",
+        "लिएंडर पेस"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Abhinav Bindra won India's historic first individual Olympic gold medal in the Men's 10m Air Rifle event at the 2008 Beijing Olympics. (Neeraj Chopra won India's second individual gold in javelin at Tokyo 2020).",
+      "explanation": "Abhinav Bindra won India's historic first individual Olympic gold medal in the Men's 10m Air Rifle event at the 2008 Beijing Olympics. (Neeraj Chopra won India's second individual gold in javelin at Tokyo 2020).",
+      "expHi": "अभिनव बिंद्रा ने 2008 के बीजिंग ओलंपिक में 10 मीटर एयर राइफल निशानेबाजी में स्वर्ण पदक जीतकर व्यक्तिगत स्पर्धा में भारत का पहला ओलंपिक गोल्ड मेडल हासिल किया था।",
+      "explanationHi": "अभिनव बिंद्रा ने 2008 के बीजिंग ओलंपिक में 10 मीटर एयर राइफल निशानेबाजी में स्वर्ण पदक जीतकर व्यक्तिगत स्पर्धा में भारत का पहला ओलंपिक गोल्ड मेडल हासिल किया था।",
+      "hint": "Won gold in 10m Air Rifle shooting at the 2008 Beijing Games.",
+      "hintHi": "2008 के बीजिंग ओलंपिक में 10 मीटर एयर राइफल में स्वर्ण पदक जीता।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "Banking",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_sports_games_exp_7",
+      "q": "Which is the oldest football tournament in Asia and the third oldest surviving football competition in the world, founded in Shimla in 1888?",
+      "questionText": "Which is the oldest football tournament in Asia and the third oldest surviving football competition in the world, founded in Shimla in 1888?",
+      "qHi": "1888 में शिमला में स्थापित एशिया का सबसे प्राचीन तथा विश्व का तीसरा सबसे पुराना फुटबॉल टूर्नामेंट कौन सा है?",
+      "questionTextHi": "1888 में शिमला में स्थापित एशिया का सबसे प्राचीन तथा विश्व का तीसरा सबसे पुराना फुटबॉल टूर्नामेंट कौन सा है?",
+      "o": [
+        "Durand Cup (डूरंड कप)",
+        "Santosh Trophy",
+        "IFA Shield",
+        "Federation Cup"
+      ],
+      "options": [
+        "Durand Cup (डूरंड कप)",
+        "Santosh Trophy",
+        "IFA Shield",
+        "Federation Cup"
+      ],
+      "oHi": [
+        "डूरंड कप (Durand Cup)",
+        "संतोष ट्रॉफी",
+        "आईएफए शील्ड",
+        "फेडरेशन कप"
+      ],
+      "optionsHi": [
+        "डूरंड कप (Durand Cup)",
+        "संतोष ट्रॉफी",
+        "आईएफए शील्ड",
+        "फेडरेशन कप"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "The Durand Football Tournament was founded in 1888 in Shimla by Sir Henry Mortimer Durand, India's Foreign Secretary. It is Asia's oldest football competition.",
+      "explanation": "The Durand Football Tournament was founded in 1888 in Shimla by Sir Henry Mortimer Durand, India's Foreign Secretary. It is Asia's oldest football competition.",
+      "expHi": "डूरंड कप एशिया का सबसे पुराना और विश्व का तीसरा सबसे पुराना फुटबॉल टूर्नामेंट है, जिसकी शुरुआत 1888 में शिमला में सर हेनरी मोर्टिमर डूरंड द्वारा की गई थी।",
+      "explanationHi": "डूरंड कप एशिया का सबसे पुराना और विश्व का तीसरा सबसे पुराना फुटबॉल टूर्नामेंट है, जिसकी शुरुआत 1888 में शिमला में सर हेनरी मोर्टिमर डूरंड द्वारा की गई थी।",
+      "hint": "Founded in 1888 by Sir Mortimer Durand in Himachal Pradesh.",
+      "hintHi": "1888 में सर हेनरी मोर्टिमर डूरंड द्वारा स्थापित।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "Banking",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_sports_games_exp_8",
+      "q": "Who became India's very first Chess Grandmaster in 1988 and went on to win the World Chess Championship five times?",
+      "questionText": "Who became India's very first Chess Grandmaster in 1988 and went on to win the World Chess Championship five times?",
+      "qHi": "1988 में भारत के पहले शतरंज ग्रैंडमास्टर (Grandmaster) बनने वाले तथा 5 बार विश्व शतरंज चैम्पियनशिप जीतने वाले दिग्गज खिलाड़ी कौन हैं?",
+      "questionTextHi": "1988 में भारत के पहले शतरंज ग्रैंडमास्टर (Grandmaster) बनने वाले तथा 5 बार विश्व शतरंज चैम्पियनशिप जीतने वाले दिग्गज खिलाड़ी कौन हैं?",
+      "o": [
+        "Viswanathan Anand",
+        "Pentala Harikrishna",
+        "Vidit Gujrathi",
+        "D. Gukesh"
+      ],
+      "options": [
+        "Viswanathan Anand",
+        "Pentala Harikrishna",
+        "Vidit Gujrathi",
+        "D. Gukesh"
+      ],
+      "oHi": [
+        "विश्वनाथन आनंद",
+        "पेंटाला हरिकृष्णा",
+        "विदित गुजराती",
+        "डी. गुकेश"
+      ],
+      "optionsHi": [
+        "विश्वनाथन आनंद",
+        "पेंटाला हरिकृष्णा",
+        "विदित गुजराती",
+        "डी. गुकेश"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Viswanathan Anand of Tamil Nadu became India's first Grandmaster in 1988. He won the undisputed World Chess Championship title in 2000, 2007, 2008, 2010, and 2012, sparking the Indian chess revolution.",
+      "explanation": "Viswanathan Anand of Tamil Nadu became India's first Grandmaster in 1988. He won the undisputed World Chess Championship title in 2000, 2007, 2008, 2010, and 2012, sparking the Indian chess revolution.",
+      "expHi": "तमिलनाडु के विश्वनाथन आनंद 1988 में भारत के पहले ग्रैंडमास्टर बने। इन्होंने 2000, 2007, 2008, 2010 और 2012 में विश्व शतरंज चैंपियनशिप जीतकर भारत का मान बढ़ाया।",
+      "explanationHi": "तमिलनाडु के विश्वनाथन आनंद 1988 में भारत के पहले ग्रैंडमास्टर बने। इन्होंने 2000, 2007, 2008, 2010 और 2012 में विश्व शतरंज चैंपियनशिप जीतकर भारत का मान बढ़ाया।",
+      "hint": "Nicknamed the 'Tiger of Madras' and author of 'Mind Master'.",
+      "hintHi": "'टाइगर ऑफ मद्रास' कहलाने वाले शतरंज के महानायक।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "Banking",
+        "RRB"
+      ]
     }
-  ]
+  ],
+  "questionCount": 2
 }

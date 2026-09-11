@@ -32,26 +32,953 @@
   ],
   "mcqs": [
     {
+      "id": "gk_nat_science_technology_q1",
       "q": "On which date is National Space Day celebrated annually in India to commemorate the Chandrayaan-3 lunar landing?",
+      "questionText": "On which date is National Space Day celebrated annually in India to commemorate the Chandrayaan-3 lunar landing?",
+      "qHi": "चंद्रयान-3 के विक्रम लैंडर के चंद्रमा के दक्षिणी ध्रुव पर सफल सॉफ्ट लैंडिंग के उपलक्ष्य में प्रतिवर्ष किस तारीख को 'राष्ट्रीय अंतरिक्ष दिवस' मनाया जाता है?",
+      "questionTextHi": "चंद्रयान-3 के विक्रम लैंडर के चंद्रमा के दक्षिणी ध्रुव पर सफल सॉफ्ट लैंडिंग के उपलक्ष्य में प्रतिवर्ष किस तारीख को 'राष्ट्रीय अंतरिक्ष दिवस' मनाया जाता है?",
       "o": [
         "23 August",
         "15 August",
         "28 February",
         "4 October"
       ],
+      "options": [
+        "23 August",
+        "15 August",
+        "28 February",
+        "4 October"
+      ],
+      "oHi": [
+        "23 अगस्त",
+        "15 जुलाई",
+        "28 फरवरी",
+        "14 अक्टूबर"
+      ],
+      "optionsHi": [
+        "23 अगस्त",
+        "15 जुलाई",
+        "28 फरवरी",
+        "14 अक्टूबर"
+      ],
       "a": 0,
-      "exp": "Prime Minister Narendra Modi announced 23 August as National Space Day following the historic touchdown of Vikram lander near the Moon's south pole."
+      "correctIndex": 0,
+      "exp": "Prime Minister Narendra Modi announced 23 August as National Space Day following the historic touchdown of Vikram lander near the Moon's south pole.",
+      "explanation": "Prime Minister Narendra Modi announced 23 August as National Space Day following the historic touchdown of Vikram lander near the Moon's south pole.",
+      "expHi": "23 अगस्त 2023 को भारत चंद्रमा के अज्ञात दक्षिणी ध्रुव पर उतरने वाला दुनिया का पहला देश बना। इस दिन को राष्ट्रीय अंतरिक्ष दिवस घोषित किया गया।",
+      "explanationHi": "23 अगस्त 2023 को भारत चंद्रमा के अज्ञात दक्षिणी ध्रुव पर उतरने वाला दुनिया का पहला देश बना। इस दिन को राष्ट्रीय अंतरिक्ष दिवस घोषित किया गया।",
+      "hint": "Consider the established historical and constitutional facts of Science & Technology.",
+      "hintHi": "इस लैंडिंग स्थल को 'शिव शक्ति पॉइंट' नाम दिया गया है।",
+      "difficulty": "medium",
+      "examTags": [
+        "ssc_cgl",
+        "upsc_csat",
+        "railway",
+        "banking_ga"
+      ]
     },
     {
+      "id": "gk_nat_science_technology_q2",
       "q": "Where is the headquarters of the Indian Space Research Organisation (ISRO) located?",
+      "questionText": "Where is the headquarters of the Indian Space Research Organisation (ISRO) located?",
+      "qHi": "15 अगस्त 1969 को स्थापित भारतीय अंतरिक्ष अनुसंधान संगठन (इसरो - ISRO) का मुख्यालय किस शहर में है?",
+      "questionTextHi": "15 अगस्त 1969 को स्थापित भारतीय अंतरिक्ष अनुसंधान संगठन (इसरो - ISRO) का मुख्यालय किस शहर में है?",
       "o": [
         "Bengaluru",
         "Hyderabad",
         "Thiruvananthapuram",
         "Ahmedabad"
       ],
+      "options": [
+        "Bengaluru",
+        "Hyderabad",
+        "Thiruvananthapuram",
+        "Ahmedabad"
+      ],
+      "oHi": [
+        "बेंगलुरु",
+        "तिरुवनंतपुरम",
+        "हैदराबाद",
+        "अहमदाबाद"
+      ],
+      "optionsHi": [
+        "बेंगलुरु",
+        "तिरुवनंतपुरम",
+        "हैदराबाद",
+        "अहमदाबाद"
+      ],
       "a": 0,
-      "exp": "ISRO headquarters (Antariksh Bhavan) is located in Bengaluru, Karnataka."
+      "correctIndex": 0,
+      "exp": "ISRO headquarters (Antariksh Bhavan) is located in Bengaluru, Karnataka.",
+      "explanation": "ISRO headquarters (Antariksh Bhavan) is located in Bengaluru, Karnataka.",
+      "expHi": "इसरो का मुख्यालय 'अंतरिक्ष भवन' बेंगलुरु (कर्नाटक) में स्थित है। इसके संस्थापक अध्यक्ष डॉ. विक्रम साराभाई थे।",
+      "explanationHi": "इसरो का मुख्यालय 'अंतरिक्ष भवन' बेंगलुरु (कर्नाटक) में स्थित है। इसके संस्थापक अध्यक्ष डॉ. विक्रम साराभाई थे।",
+      "hint": "Consider the established historical and constitutional facts of Science & Technology.",
+      "hintHi": "इसे भारत की सिलिकॉन वैली और स्पेस सिटी कहा जाता है।",
+      "difficulty": "medium",
+      "examTags": [
+        "ssc_cgl",
+        "upsc_csat",
+        "railway",
+        "banking_ga"
+      ]
+    },
+    {
+      "id": "gk_nat_sci_001",
+      "q": "In which year was the Indian Space Research Organisation (ISRO) founded?",
+      "questionText": "In which year was the Indian Space Research Organisation (ISRO) founded?",
+      "qHi": "भारतीय अंतरिक्ष अनुसंधान संगठन (ISRO) की स्थापना किस वर्ष हुई थी?",
+      "questionTextHi": "भारतीय अंतरिक्ष अनुसंधान संगठन (ISRO) की स्थापना किस वर्ष हुई थी?",
+      "o": [
+        "1962",
+        "1969",
+        "1972",
+        "1975"
+      ],
+      "options": [
+        "1962",
+        "1969",
+        "1972",
+        "1975"
+      ],
+      "oHi": [
+        "1962",
+        "1969",
+        "1972",
+        "1975"
+      ],
+      "optionsHi": [
+        "1962",
+        "1969",
+        "1972",
+        "1975"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "ISRO was founded on 15 August 1969 by Dr. Vikram Sarabhai, succeeding INCOSPAR.",
+      "explanation": "ISRO was founded on 15 August 1969 by Dr. Vikram Sarabhai, succeeding INCOSPAR.",
+      "expHi": "डॉ. विक्रम साराभाई के प्रयासों से 15 अगस्त 1969 को इसरो की स्थापना की गई थी।",
+      "explanationHi": "डॉ. विक्रम साराभाई के प्रयासों से 15 अगस्त 1969 को इसरो की स्थापना की गई थी।",
+      "hint": "Key concept under Science Technology.",
+      "hintHi": "Science Technology का महत्वपूर्ण तथ्य।",
+      "difficulty": "medium",
+      "examTags": [
+        "ssc_cgl",
+        "defence"
+      ]
+    },
+    {
+      "id": "gk_nat_sci_002",
+      "q": "Which cellular organelle is universally referred to as the 'Powerhouse of the Cell'?",
+      "questionText": "Which cellular organelle is universally referred to as the 'Powerhouse of the Cell'?",
+      "qHi": "किस कोशिकांग को 'कोशिका का पावरहाउस' (Powerhouse of the Cell) कहा जाता है?",
+      "questionTextHi": "किस कोशिकांग को 'कोशिका का पावरहाउस' (Powerhouse of the Cell) कहा जाता है?",
+      "o": [
+        "Ribosome",
+        "Mitochondria",
+        "Lysosome",
+        "Golgi Apparatus"
+      ],
+      "options": [
+        "Ribosome",
+        "Mitochondria",
+        "Lysosome",
+        "Golgi Apparatus"
+      ],
+      "oHi": [
+        "राइबोसोम",
+        "माइटोकॉन्ड्रिया",
+        "लाइसोसोम",
+        "गॉल्जी काय"
+      ],
+      "optionsHi": [
+        "राइबोसोम",
+        "माइटोकॉन्ड्रिया",
+        "लाइसोसोम",
+        "गॉल्जी काय"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Mitochondria produce cellular energy in the form of ATP through aerobic respiration.",
+      "explanation": "Mitochondria produce cellular energy in the form of ATP through aerobic respiration.",
+      "expHi": "माइटोकॉन्ड्रिया एटीपी (ATP) के रूप में कोशिकीय ऊर्जा उत्पन्न करता है, इसलिए इसे कोशिका का ऊर्जाघर कहते हैं।",
+      "explanationHi": "माइटोकॉन्ड्रिया एटीपी (ATP) के रूप में कोशिकीय ऊर्जा उत्पन्न करता है, इसलिए इसे कोशिका का ऊर्जाघर कहते हैं।",
+      "hint": "Key concept under Science Technology.",
+      "hintHi": "Science Technology का महत्वपूर्ण तथ्य।",
+      "difficulty": "easy",
+      "examTags": [
+        "ssc_cgl",
+        "railway"
+      ]
+    },
+    {
+      "id": "gk_nat_science_technology_q61",
+      "q": "Question 61 on Science & Current Affairs (61-80): मानव शरीर में रक्त का रंग किस कारण लाल होता है?",
+      "questionText": "Question 61 on Science & Current Affairs (61-80): मानव शरीर में रक्त का रंग किस कारण लाल होता है?",
+      "qHi": "मानव शरीर में रक्त का रंग किस कारण लाल होता है?",
+      "questionTextHi": "मानव शरीर में रक्त का रंग किस कारण लाल होता है?",
+      "o": [
+        "ऑक्सीजन",
+        "हीमोग्लोबिन",
+        "कार्बन",
+        "नाइट्रोजन"
+      ],
+      "options": [
+        "ऑक्सीजन",
+        "हीमोग्लोबिन",
+        "कार्बन",
+        "नाइट्रोजन"
+      ],
+      "oHi": [
+        "ऑक्सीजन",
+        "हीमोग्लोबिन",
+        "कार्बन",
+        "नाइट्रोजन"
+      ],
+      "optionsHi": [
+        "ऑक्सीजन",
+        "हीमोग्लोबिन",
+        "कार्बन",
+        "नाइट्रोजन"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is हीमोग्लोबिन.",
+      "explanation": "Correct verified answer is हीमोग्लोबिन.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'हीमोग्लोबिन' है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'हीमोग्लोबिन' है।",
+      "hint": "Important high-yield topic in Science & Current Affairs (61-80).",
+      "hintHi": "Science & Current Affairs (61-80) से संबंधित महत्वपूर्ण परीक्षा उपयोगी तथ्य।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_science_technology_q62",
+      "q": "Question 62 on Science & Current Affairs (61-80): सूर्य एक क्या है?",
+      "questionText": "Question 62 on Science & Current Affairs (61-80): सूर्य एक क्या है?",
+      "qHi": "सूर्य एक क्या है?",
+      "questionTextHi": "सूर्य एक क्या है?",
+      "o": [
+        "ग्रह",
+        "उपग्रह",
+        "तारा",
+        "धूमकेतु"
+      ],
+      "options": [
+        "ग्रह",
+        "उपग्रह",
+        "तारा",
+        "धूमकेतु"
+      ],
+      "oHi": [
+        "ग्रह",
+        "उपग्रह",
+        "तारा",
+        "धूमकेतु"
+      ],
+      "optionsHi": [
+        "ग्रह",
+        "उपग्रह",
+        "तारा",
+        "धूमकेतु"
+      ],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is तारा.",
+      "explanation": "Correct verified answer is तारा.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'तारा' है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'तारा' है।",
+      "hint": "Important high-yield topic in Science & Current Affairs (61-80).",
+      "hintHi": "Science & Current Affairs (61-80) से संबंधित महत्वपूर्ण परीक्षा उपयोगी तथ्य।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_science_technology_q63",
+      "q": "Question 63 on Science & Current Affairs (61-80): पानी का रासायनिक सूत्र क्या है?",
+      "questionText": "Question 63 on Science & Current Affairs (61-80): पानी का रासायनिक सूत्र क्या है?",
+      "qHi": "पानी का रासायनिक सूत्र क्या है?",
+      "questionTextHi": "पानी का रासायनिक सूत्र क्या है?",
+      "o": [
+        "CO2",
+        "H2O",
+        "O2",
+        "H2SO4"
+      ],
+      "options": [
+        "CO2",
+        "H2O",
+        "O2",
+        "H2SO4"
+      ],
+      "oHi": [
+        "CO2",
+        "H2O",
+        "O2",
+        "H2SO4"
+      ],
+      "optionsHi": [
+        "CO2",
+        "H2O",
+        "O2",
+        "H2SO4"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is H2O.",
+      "explanation": "Correct verified answer is H2O.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'H2O' है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'H2O' है।",
+      "hint": "Important high-yield topic in Science & Current Affairs (61-80).",
+      "hintHi": "Science & Current Affairs (61-80) से संबंधित महत्वपूर्ण परीक्षा उपयोगी तथ्य।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_science_technology_q64",
+      "q": "Question 64 on Science & Current Affairs (61-80): ISRO का मुख्यालय कहाँ है?",
+      "questionText": "Question 64 on Science & Current Affairs (61-80): ISRO का मुख्यालय कहाँ है?",
+      "qHi": "ISRO का मुख्यालय कहाँ है?",
+      "questionTextHi": "ISRO का मुख्यालय कहाँ है?",
+      "o": [
+        "मुंबई",
+        "बेंगलुरु",
+        "दिल्ली",
+        "चेन्नई"
+      ],
+      "options": [
+        "मुंबई",
+        "बेंगलुरु",
+        "दिल्ली",
+        "चेन्नई"
+      ],
+      "oHi": [
+        "मुंबई",
+        "बेंगलुरु",
+        "दिल्ली",
+        "चेन्नई"
+      ],
+      "optionsHi": [
+        "मुंबई",
+        "बेंगलुरु",
+        "दिल्ली",
+        "चेन्नई"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is बेंगलुरु.",
+      "explanation": "Correct verified answer is बेंगलुरु.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'बेंगलुरु' है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'बेंगलुरु' है।",
+      "hint": "Important high-yield topic in Science & Current Affairs (61-80).",
+      "hintHi": "Science & Current Affairs (61-80) से संबंधित महत्वपूर्ण परीक्षा उपयोगी तथ्य।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_science_technology_q65",
+      "q": "Question 65 on Science & Current Affairs (61-80): पृथ्वी का सबसे कठोर प्राकृतिक पदार्थ कौन सा है?",
+      "questionText": "Question 65 on Science & Current Affairs (61-80): पृथ्वी का सबसे कठोर प्राकृतिक पदार्थ कौन सा है?",
+      "qHi": "पृथ्वी का सबसे कठोर प्राकृतिक पदार्थ कौन सा है?",
+      "questionTextHi": "पृथ्वी का सबसे कठोर प्राकृतिक पदार्थ कौन सा है?",
+      "o": [
+        "सोना",
+        "लोहा",
+        "हीरा",
+        "चांदी"
+      ],
+      "options": [
+        "सोना",
+        "लोहा",
+        "हीरा",
+        "चांदी"
+      ],
+      "oHi": [
+        "सोना",
+        "लोहा",
+        "हीरा",
+        "चांदी"
+      ],
+      "optionsHi": [
+        "सोना",
+        "लोहा",
+        "हीरा",
+        "चांदी"
+      ],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is हीरा.",
+      "explanation": "Correct verified answer is हीरा.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'हीरा' है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'हीरा' है।",
+      "hint": "Important high-yield topic in Science & Current Affairs (61-80).",
+      "hintHi": "Science & Current Affairs (61-80) से संबंधित महत्वपूर्ण परीक्षा उपयोगी तथ्य।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_science_technology_q66",
+      "q": "Question 66 on Science & Current Affairs (61-80): मानव शरीर में कितनी हड्डियाँ होती हैं?",
+      "questionText": "Question 66 on Science & Current Affairs (61-80): मानव शरीर में कितनी हड्डियाँ होती हैं?",
+      "qHi": "मानव शरीर में कितनी हड्डियाँ होती हैं?",
+      "questionTextHi": "मानव शरीर में कितनी हड्डियाँ होती हैं?",
+      "o": [
+        "200",
+        "206",
+        "210",
+        "215"
+      ],
+      "options": [
+        "200",
+        "206",
+        "210",
+        "215"
+      ],
+      "oHi": [
+        "200",
+        "206",
+        "210",
+        "215"
+      ],
+      "optionsHi": [
+        "200",
+        "206",
+        "210",
+        "215"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 206.",
+      "explanation": "Correct verified answer is 206.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '206' है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '206' है।",
+      "hint": "Important high-yield topic in Science & Current Affairs (61-80).",
+      "hintHi": "Science & Current Affairs (61-80) से संबंधित महत्वपूर्ण परीक्षा उपयोगी तथ्य।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_science_technology_q67",
+      "q": "Question 67 on Science & Current Affairs (61-80): विटामिन C की कमी से कौन सा रोग होता है?",
+      "questionText": "Question 67 on Science & Current Affairs (61-80): विटामिन C की कमी से कौन सा रोग होता है?",
+      "qHi": "विटामिन C की कमी से कौन सा रोग होता है?",
+      "questionTextHi": "विटामिन C की कमी से कौन सा रोग होता है?",
+      "o": [
+        "रतौंधी",
+        "स्कर्वी",
+        "पोलियो",
+        "मलेरिया"
+      ],
+      "options": [
+        "रतौंधी",
+        "स्कर्वी",
+        "पोलियो",
+        "मलेरिया"
+      ],
+      "oHi": [
+        "रतौंधी",
+        "स्कर्वी",
+        "पोलियो",
+        "मलेरिया"
+      ],
+      "optionsHi": [
+        "रतौंधी",
+        "स्कर्वी",
+        "पोलियो",
+        "मलेरिया"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is स्कर्वी.",
+      "explanation": "Correct verified answer is स्कर्वी.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'स्कर्वी' है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'स्कर्वी' है।",
+      "hint": "Important high-yield topic in Science & Current Affairs (61-80).",
+      "hintHi": "Science & Current Affairs (61-80) से संबंधित महत्वपूर्ण परीक्षा उपयोगी तथ्य।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_science_technology_q68",
+      "q": "Question 68 on Science & Current Affairs (61-80): बल की SI इकाई क्या है?",
+      "questionText": "Question 68 on Science & Current Affairs (61-80): बल की SI इकाई क्या है?",
+      "qHi": "बल की SI इकाई क्या है?",
+      "questionTextHi": "बल की SI इकाई क्या है?",
+      "o": [
+        "जूल",
+        "वाट",
+        "न्यूटन",
+        "पास्कल"
+      ],
+      "options": [
+        "जूल",
+        "वाट",
+        "न्यूटन",
+        "पास्कल"
+      ],
+      "oHi": [
+        "जूल",
+        "वाट",
+        "न्यूटन",
+        "पास्कल"
+      ],
+      "optionsHi": [
+        "जूल",
+        "वाट",
+        "न्यूटन",
+        "पास्कल"
+      ],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is न्यूटन.",
+      "explanation": "Correct verified answer is न्यूटन.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'न्यूटन' है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'न्यूटन' है।",
+      "hint": "Important high-yield topic in Science & Current Affairs (61-80).",
+      "hintHi": "Science & Current Affairs (61-80) से संबंधित महत्वपूर्ण परीक्षा उपयोगी तथ्य।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_science_technology_q69",
+      "q": "Question 69 on Science & Current Affairs (61-80): मानव हृदय में कितने कक्ष होते हैं?",
+      "questionText": "Question 69 on Science & Current Affairs (61-80): मानव हृदय में कितने कक्ष होते हैं?",
+      "qHi": "मानव हृदय में कितने कक्ष होते हैं?",
+      "questionTextHi": "मानव हृदय में कितने कक्ष होते हैं?",
+      "o": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "oHi": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "optionsHi": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 4.",
+      "explanation": "Correct verified answer is 4.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '4' है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '4' है।",
+      "hint": "Important high-yield topic in Science & Current Affairs (61-80).",
+      "hintHi": "Science & Current Affairs (61-80) से संबंधित महत्वपूर्ण परीक्षा उपयोगी तथ्य।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_science_technology_q70",
+      "q": "Question 70 on Science & Current Affairs (61-80): प्रकाश की गति कितनी है?",
+      "questionText": "Question 70 on Science & Current Affairs (61-80): प्रकाश की गति कितनी है?",
+      "qHi": "प्रकाश की गति कितनी है?",
+      "questionTextHi": "प्रकाश की गति कितनी है?",
+      "o": [
+        "3 × 10⁸ m/s",
+        "3 × 10⁶ m/s",
+        "3 × 10⁵ km/s",
+        "1 × 10⁸ m/s"
+      ],
+      "options": [
+        "3 × 10⁸ m/s",
+        "3 × 10⁶ m/s",
+        "3 × 10⁵ km/s",
+        "1 × 10⁸ m/s"
+      ],
+      "oHi": [
+        "3 × 10⁸ m/s",
+        "3 × 10⁶ m/s",
+        "3 × 10⁵ km/s",
+        "1 × 10⁸ m/s"
+      ],
+      "optionsHi": [
+        "3 × 10⁸ m/s",
+        "3 × 10⁶ m/s",
+        "3 × 10⁵ km/s",
+        "1 × 10⁸ m/s"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 3 × 10⁸ m/s.",
+      "explanation": "Correct verified answer is 3 × 10⁸ m/s.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '3 × 10⁸ m/s' है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '3 × 10⁸ m/s' है।",
+      "hint": "Important high-yield topic in Science & Current Affairs (61-80).",
+      "hintHi": "Science & Current Affairs (61-80) से संबंधित महत्वपूर्ण परीक्षा उपयोगी तथ्य।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_science_technology_q71",
+      "q": "Question 71 on Science & Current Affairs (61-80): चंद्रमा पर पहला कदम किसने रखा?",
+      "questionText": "Question 71 on Science & Current Affairs (61-80): चंद्रमा पर पहला कदम किसने रखा?",
+      "qHi": "चंद्रमा पर पहला कदम किसने रखा?",
+      "questionTextHi": "चंद्रमा पर पहला कदम किसने रखा?",
+      "o": [
+        "यूरी गागरिन",
+        "नील आर्मस्ट्रांग",
+        "कल्पना चावला",
+        "राकेश शर्मा"
+      ],
+      "options": [
+        "यूरी गागरिन",
+        "नील आर्मस्ट्रांग",
+        "कल्पना चावला",
+        "राकेश शर्मा"
+      ],
+      "oHi": [
+        "यूरी गागरिन",
+        "नील आर्मस्ट्रांग",
+        "कल्पना चावला",
+        "राकेश शर्मा"
+      ],
+      "optionsHi": [
+        "यूरी गागरिन",
+        "नील आर्मस्ट्रांग",
+        "कल्पना चावला",
+        "राकेश शर्मा"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is नील आर्मस्ट्रांग.",
+      "explanation": "Correct verified answer is नील आर्मस्ट्रांग.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'नील आर्मस्ट्रांग' है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'नील आर्मस्ट्रांग' है।",
+      "hint": "Important high-yield topic in Science & Current Affairs (61-80).",
+      "hintHi": "Science & Current Affairs (61-80) से संबंधित महत्वपूर्ण परीक्षा उपयोगी तथ्य।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_science_technology_q72",
+      "q": "Question 72 on Science & Current Affairs (61-80): मानव शरीर का सबसे बड़ा अंग कौन सा है?",
+      "questionText": "Question 72 on Science & Current Affairs (61-80): मानव शरीर का सबसे बड़ा अंग कौन सा है?",
+      "qHi": "मानव शरीर का सबसे बड़ा अंग कौन सा है?",
+      "questionTextHi": "मानव शरीर का सबसे बड़ा अंग कौन सा है?",
+      "o": [
+        "हृदय",
+        "मस्तिष्क",
+        "त्वचा",
+        "यकृत"
+      ],
+      "options": [
+        "हृदय",
+        "मस्तिष्क",
+        "त्वचा",
+        "यकृत"
+      ],
+      "oHi": [
+        "हृदय",
+        "मस्तिष्क",
+        "त्वचा",
+        "यकृत"
+      ],
+      "optionsHi": [
+        "हृदय",
+        "मस्तिष्क",
+        "त्वचा",
+        "यकृत"
+      ],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is त्वचा.",
+      "explanation": "Correct verified answer is त्वचा.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'त्वचा' है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'त्वचा' है।",
+      "hint": "Important high-yield topic in Science & Current Affairs (61-80).",
+      "hintHi": "Science & Current Affairs (61-80) से संबंधित महत्वपूर्ण परीक्षा उपयोगी तथ्य।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_science_technology_q73",
+      "q": "Question 73 on Science & Current Affairs (61-80): ओजोन परत किस गैस से बनी है?",
+      "questionText": "Question 73 on Science & Current Affairs (61-80): ओजोन परत किस गैस से बनी है?",
+      "qHi": "ओजोन परत किस गैस से बनी है?",
+      "questionTextHi": "ओजोन परत किस गैस से बनी है?",
+      "o": [
+        "O₂",
+        "CO₂",
+        "O₃",
+        "N₂"
+      ],
+      "options": [
+        "O₂",
+        "CO₂",
+        "O₃",
+        "N₂"
+      ],
+      "oHi": [
+        "O₂",
+        "CO₂",
+        "O₃",
+        "N₂"
+      ],
+      "optionsHi": [
+        "O₂",
+        "CO₂",
+        "O₃",
+        "N₂"
+      ],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is O₃.",
+      "explanation": "Correct verified answer is O₃.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'O₃' है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'O₃' है।",
+      "hint": "Important high-yield topic in Science & Current Affairs (61-80).",
+      "hintHi": "Science & Current Affairs (61-80) से संबंधित महत्वपूर्ण परीक्षा उपयोगी तथ्य।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_science_technology_q74",
+      "q": "Question 74 on Science & Current Affairs (61-80): विद्युत धारा की SI इकाई क्या है?",
+      "questionText": "Question 74 on Science & Current Affairs (61-80): विद्युत धारा की SI इकाई क्या है?",
+      "qHi": "विद्युत धारा की SI इकाई क्या है?",
+      "questionTextHi": "विद्युत धारा की SI इकाई क्या है?",
+      "o": [
+        "वोल्ट",
+        "एम्पियर",
+        "ओम",
+        "वाट"
+      ],
+      "options": [
+        "वोल्ट",
+        "एम्पियर",
+        "ओम",
+        "वाट"
+      ],
+      "oHi": [
+        "वोल्ट",
+        "एम्पियर",
+        "ओम",
+        "वाट"
+      ],
+      "optionsHi": [
+        "वोल्ट",
+        "एम्पियर",
+        "ओम",
+        "वाट"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is एम्पियर.",
+      "explanation": "Correct verified answer is एम्पियर.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'एम्पियर' है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'एम्पियर' है।",
+      "hint": "Important high-yield topic in Science & Current Affairs (61-80).",
+      "hintHi": "Science & Current Affairs (61-80) से संबंधित महत्वपूर्ण परीक्षा उपयोगी तथ्य।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_science_technology_q75",
+      "q": "Question 75 on Science & Current Affairs (61-80): भारत का पहला उपग्रह कौन सा था?",
+      "questionText": "Question 75 on Science & Current Affairs (61-80): भारत का पहला उपग्रह कौन सा था?",
+      "qHi": "भारत का पहला उपग्रह कौन सा था?",
+      "questionTextHi": "भारत का पहला उपग्रह कौन सा था?",
+      "o": [
+        "भास्कर",
+        "रोहिणी",
+        "आर्यभट्ट",
+        "INSAT"
+      ],
+      "options": [
+        "भास्कर",
+        "रोहिणी",
+        "आर्यभट्ट",
+        "INSAT"
+      ],
+      "oHi": [
+        "भास्कर",
+        "रोहिणी",
+        "आर्यभट्ट",
+        "INSAT"
+      ],
+      "optionsHi": [
+        "भास्कर",
+        "रोहिणी",
+        "आर्यभट्ट",
+        "INSAT"
+      ],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is आर्यभट्ट.",
+      "explanation": "Correct verified answer is आर्यभट्ट.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'आर्यभट्ट' है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'आर्यभट्ट' है।",
+      "hint": "Important high-yield topic in Science & Current Affairs (61-80).",
+      "hintHi": "Science & Current Affairs (61-80) से संबंधित महत्वपूर्ण परीक्षा उपयोगी तथ्य।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_science_technology_add_9",
+      "q": "On which historic date did ISRO's Chandrayaan-3 lander Vikram make a successful soft landing near the Moon's South Pole, making India the first country to do so?",
+      "questionText": "On which historic date did ISRO's Chandrayaan-3 lander Vikram make a successful soft landing near the Moon's South Pole, making India the first country to do so?",
+      "qHi": "इसरो के चंद्रयान-3 के लैंडर विक्रम ने चंद्रमा के दक्षिणी ध्रुव के पास किस ऐतिहासिक तारीख को सफल सॉफ्ट लैंडिंग कर भारत को विश्व का प्रथम देश बनाया था?",
+      "questionTextHi": "इसरो के चंद्रयान-3 के लैंडर विक्रम ने चंद्रमा के दक्षिणी ध्रुव के पास किस ऐतिहासिक तारीख को सफल सॉफ्ट लैंडिंग कर भारत को विश्व का प्रथम देश बनाया था?",
+      "o": [
+        "23 August 2023 (National Space Day)",
+        "14 July 2023",
+        "2 September 2023",
+        "22 July 2019"
+      ],
+      "options": [
+        "23 August 2023 (National Space Day)",
+        "14 July 2023",
+        "2 September 2023",
+        "22 July 2019"
+      ],
+      "oHi": [
+        "23 अगस्त 2023 (राष्ट्रीय अंतरिक्ष दिवस)",
+        "14 जुलाई 2023",
+        "2 सितंबर 2023",
+        "22 जुलाई 2019"
+      ],
+      "optionsHi": [
+        "23 अगस्त 2023 (राष्ट्रीय अंतरिक्ष दिवस)",
+        "14 जुलाई 2023",
+        "2 सितंबर 2023",
+        "22 जुलाई 2019"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "On 23 August 2023 at 18:04 IST, Chandrayaan-3's Vikram lander successfully touched down near the lunar South Pole. The landing site was named 'Shiv Shakti Point', and 23 August was declared 'National Space Day'.",
+      "explanation": "On 23 August 2023 at 18:04 IST, Chandrayaan-3's Vikram lander successfully touched down near the lunar South Pole. The landing site was named 'Shiv Shakti Point', and 23 August was declared 'National Space Day'.",
+      "expHi": "23 अगस्त 2023 को चंद्रयान-3 ने चंद्रमा के दक्षिणी ध्रुव पर ऐतिहासिक लैंडिंग की। इस लैंडिंग स्थल को 'शिव शक्ति पॉइंट' नाम दिया गया और भारत सरकार ने प्रतिवर्ष 23 अगस्त को 'राष्ट्रीय अंतरिक्ष दिवस' घोषित किया।",
+      "explanationHi": "23 अगस्त 2023 को चंद्रयान-3 ने चंद्रमा के दक्षिणी ध्रुव पर ऐतिहासिक लैंडिंग की। इस लैंडिंग स्थल को 'शिव शक्ति पॉइंट' नाम दिया गया और भारत सरकार ने प्रतिवर्ष 23 अगस्त को 'राष्ट्रीय अंतरिक्ष दिवस' घोषित किया।",
+      "hint": "Now celebrated annually in India as National Space Day; landing point named Shiv Shakti.",
+      "hintHi": "अब प्रतिवर्ष राष्ट्रीय अंतरिक्ष दिवस के रूप में मनाया जाता है; स्थल का नाम शिव शक्ति पॉइंट है।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
     }
-  ]
+  ],
+  "questionCount": 4
 }

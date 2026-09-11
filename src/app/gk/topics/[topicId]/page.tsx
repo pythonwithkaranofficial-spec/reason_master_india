@@ -83,92 +83,99 @@ export default async function GKTopicDetailPage({ params }: GKTopicDetailPagePro
     })),
   }));
 
-  // Practice MCQs
+  // Practice MCQs with complete bilingual fields
   const practiceQuestions: GKPracticeQuestion[] = ((topic as any).mcqs || []).map(
     (m: any, idx: number) => ({
-      id: `gk_${topic.id}_q${idx + 1}`,
-      questionText: m.q,
-      options: m.o,
-      correctIndex: m.a,
-      explanation: m.exp,
-      difficulty: "medium",
+      id: m.id || `gk_${topic.id}_q${idx + 1}`,
+      questionText: m.questionText || m.q,
+      questionTextHi: m.questionTextHi || m.qHi,
+      options: m.options || m.o,
+      optionsHi: m.optionsHi || m.oHi,
+      correctIndex: m.correctIndex ?? m.a ?? 0,
+      explanation: m.explanation || m.exp || "",
+      explanationHi: m.explanationHi || m.expHi || "",
+      hint: m.hint || "",
+      hintHi: m.hintHi || "",
+      difficulty: m.difficulty || "medium",
+      lastVerified: m.lastVerified,
     })
   );
 
   return (
-    <div style={{ paddingBottom: "var(--space-12)" }}>
-      {/* Header Banner */}
-      <section
+    <div className="container" style={{ paddingTop: "var(--space-6)", paddingBottom: "var(--space-16)" }}>
+      {/* Breadcrumb Navigation */}
+      <Breadcrumb
+        items={[
+          { label: "GK Hub", href: "/gk" },
+          { label: categoryLabel, href: categoryHubHref },
+          { label: topic.name },
+        ]}
+      />
+
+      {/* 1. Hero Card - Consistent with Reasoning Topic Layout */}
+      <div
+        className="rm-card"
         style={{
-          padding: "var(--space-6) 0 var(--space-6)",
-          borderBottom: "1px solid var(--border-color)",
+          padding: "clamp(var(--space-6), 4vw, var(--space-8))",
+          marginTop: "var(--space-4)",
+          marginBottom: "var(--space-8)",
           backgroundColor: "var(--bg-surface)",
         }}
       >
-        <div className="container" style={{ maxWidth: "1200px", margin: "0 auto", padding: "0 var(--space-4)" }}>
-          <Breadcrumb
-            items={[
-              { label: "GK Hub", href: "/gk" },
-              { label: categoryLabel, href: categoryHubHref },
-              { label: topic.name },
-            ]}
-          />
+        <div style={{ maxWidth: "900px" }}>
+          {/* Category Tag */}
+          <div
+            style={{
+              display: "inline-flex",
+              alignItems: "center",
+              gap: "6px",
+              fontSize: "0.8rem",
+              fontWeight: 600,
+              color: isNational ? "#059669" : "#4f46e5",
+              backgroundColor: isNational ? "rgba(16, 185, 129, 0.1)" : "rgba(99, 102, 241, 0.1)",
+              padding: "3px 10px",
+              borderRadius: "9999px",
+              marginBottom: "var(--space-2)",
+              border: isNational ? "1px solid rgba(16, 185, 129, 0.25)" : "1px solid rgba(99, 102, 241, 0.25)",
+            }}
+          >
+            {isNational ? <Landmark size={13} /> : <Globe size={13} />}
+            <span>{categoryLabel}</span>
+          </div>
 
-          <div style={{ marginTop: "var(--space-4)", maxWidth: "900px" }}>
-            {/* Category Tag */}
-            <div
-              style={{
-                display: "inline-flex",
-                alignItems: "center",
-                gap: "6px",
-                fontSize: "0.8rem",
-                fontWeight: 600,
-                color: isNational ? "#059669" : "#4f46e5",
-                backgroundColor: isNational ? "rgba(16, 185, 129, 0.1)" : "rgba(99, 102, 241, 0.1)",
-                padding: "3px 10px",
-                borderRadius: "9999px",
-                marginBottom: "var(--space-2)",
-                border: isNational ? "1px solid rgba(16, 185, 129, 0.25)" : "1px solid rgba(99, 102, 241, 0.25)",
-              }}
-            >
-              {isNational ? <Landmark size={13} /> : <Globe size={13} />}
-              <span>{categoryLabel}</span>
-            </div>
+          <h1
+            style={{
+              fontSize: "clamp(1.8rem, 3.5vw, 2.5rem)",
+              fontWeight: 800,
+              color: "var(--text-primary)",
+              letterSpacing: "-0.02em",
+              lineHeight: 1.2,
+              marginBottom: "var(--space-3)",
+            }}
+          >
+            {topic.name}
+          </h1>
 
-            <h1
-              style={{
-                fontSize: "clamp(2rem, 4vw, 2.6rem)",
-                fontWeight: 800,
-                color: "var(--text-primary)",
-                letterSpacing: "-0.02em",
-                lineHeight: 1.2,
-                marginBottom: "var(--space-3)",
-              }}
-            >
-              {topic.name}
-            </h1>
+          <p style={{ fontSize: "1.05rem", color: "var(--text-secondary)", lineHeight: 1.6, marginBottom: "var(--space-5)" }}>
+            {topic.summary}
+          </p>
 
-            <p style={{ fontSize: "1.1rem", color: "var(--text-secondary)", lineHeight: 1.5, marginBottom: "var(--space-5)" }}>
-              {topic.summary}
-            </p>
-
-            {/* Quick Metrics */}
-            <div style={{ display: "flex", flexWrap: "wrap", gap: "var(--space-4)", fontSize: "0.85rem", color: "var(--text-secondary)" }}>
-              <span style={{ display: "inline-flex", alignItems: "center", gap: "6px" }}>
-                <Layers size={15} style={{ color: "var(--color-primary)" }} />
-                <strong>{subtopicsWithIds.length}</strong> Subtopics
-              </span>
-              <span style={{ display: "inline-flex", alignItems: "center", gap: "6px" }}>
-                <HelpCircle size={15} style={{ color: "#f59e0b" }} />
-                <strong>{practiceQuestions.length}</strong> Practice MCQs
-              </span>
-            </div>
+          {/* Quick Metrics */}
+          <div style={{ display: "flex", flexWrap: "wrap", gap: "var(--space-4)", fontSize: "0.85rem", color: "var(--text-secondary)" }}>
+            <span style={{ display: "inline-flex", alignItems: "center", gap: "6px" }}>
+              <Layers size={15} style={{ color: "var(--color-primary)" }} />
+              <strong>{subtopicsWithIds.length}</strong> Subtopics
+            </span>
+            <span style={{ display: "inline-flex", alignItems: "center", gap: "6px" }}>
+              <HelpCircle size={15} style={{ color: "#f59e0b" }} />
+              <strong>{practiceQuestions.length}</strong> Practice MCQs
+            </span>
           </div>
         </div>
-      </section>
+      </div>
 
-      {/* Main Content Area */}
-      <div className="container" style={{ maxWidth: "1200px", margin: "0 auto", padding: "var(--space-8) var(--space-4) 0" }}>
+      {/* 2. Main Content Sections */}
+      <div style={{ display: "flex", flexDirection: "column", gap: "var(--space-8)" }}>
         {/* Section A: Concept & Significance */}
         {(topic as any).concept && (
           <section

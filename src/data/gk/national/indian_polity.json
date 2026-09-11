@@ -54,26 +54,1361 @@
   ],
   "mcqs": [
     {
+      "id": "gk_nat_indian_polity_q1",
       "q": "Under which Article of the Indian Constitution can a citizen directly move the Supreme Court for enforcement of Fundamental Rights?",
+      "questionText": "Under which Article of the Indian Constitution can a citizen directly move the Supreme Court for enforcement of Fundamental Rights?",
+      "qHi": "भारतीय संविधान के किस अनुच्छेद के तहत कोई नागरिक अपने मौलिक अधिकारों के प्रवर्तन के लिए सीधे सर्वोच्च न्यायालय जा सकता है?",
+      "questionTextHi": "भारतीय संविधान के किस अनुच्छेद के तहत कोई नागरिक अपने मौलिक अधिकारों के प्रवर्तन के लिए सीधे सर्वोच्च न्यायालय जा सकता है?",
       "o": [
         "Article 32",
         "Article 226",
         "Article 14",
         "Article 21"
       ],
+      "options": [
+        "Article 32",
+        "Article 226",
+        "Article 14",
+        "Article 21"
+      ],
+      "oHi": [
+        "अनुच्छेद 32",
+        "अनुच्छेद 226",
+        "अनुच्छेद 21",
+        "अनुच्छेद 14"
+      ],
+      "optionsHi": [
+        "अनुच्छेद 32",
+        "अनुच्छेद 226",
+        "अनुच्छेद 21",
+        "अनुच्छेद 14"
+      ],
       "a": 0,
-      "exp": "Article 32 guarantees the right to constitutional remedies through writs."
+      "correctIndex": 0,
+      "exp": "Article 32 guarantees the right to constitutional remedies through writs.",
+      "explanation": "Article 32 guarantees the right to constitutional remedies through writs.",
+      "expHi": "अनुच्छेद 32 (संवैधानिक उपचारों का अधिकार) को डॉ. बी.आर. अंबेडकर ने 'संविधान का हृदय और आत्मा' कहा था। इसके तहत सुप्रीम कोर्ट 5 प्रकार की रिट जारी करता है।",
+      "explanationHi": "अनुच्छेद 32 (संवैधानिक उपचारों का अधिकार) को डॉ. बी.आर. अंबेडकर ने 'संविधान का हृदय और आत्मा' कहा था। इसके तहत सुप्रीम कोर्ट 5 प्रकार की रिट जारी करता है।",
+      "hint": "Consider the established historical and constitutional facts of Polity & Constitution.",
+      "hintHi": "डॉ. अंबेडकर ने इसे 'संविधान की आत्मा और हृदय' कहा था।",
+      "difficulty": "medium",
+      "examTags": [
+        "ssc_cgl",
+        "upsc_csat",
+        "railway",
+        "banking_ga"
+      ]
     },
     {
+      "id": "gk_nat_indian_polity_q2",
       "q": "Which constitutional amendment reduced the voting age in India from 21 years to 18 years for Lok Sabha and Assembly elections?",
+      "questionText": "Which constitutional amendment reduced the voting age in India from 21 years to 18 years for Lok Sabha and Assembly elections?",
+      "qHi": "किस संविधान संशोधन अधिनियम द्वारा लोकसभा और विधानसभा चुनावों में मतदान की आयु 21 वर्ष से घटाकर 18 वर्ष की गई थी?",
+      "questionTextHi": "किस संविधान संशोधन अधिनियम द्वारा लोकसभा और विधानसभा चुनावों में मतदान की आयु 21 वर्ष से घटाकर 18 वर्ष की गई थी?",
       "o": [
         "61st Amendment Act, 1988",
         "42nd Amendment Act, 1976",
         "44th Amendment Act, 1978",
         "73rd Amendment Act, 1992"
       ],
+      "options": [
+        "61st Amendment Act, 1988",
+        "42nd Amendment Act, 1976",
+        "44th Amendment Act, 1978",
+        "73rd Amendment Act, 1992"
+      ],
+      "oHi": [
+        "61वां संविधान संशोधन अधिनियम, 1988",
+        "42वां संविधान संशोधन अधिनियम, 1976",
+        "44वां संविधान संशोधन अधिनियम, 1978",
+        "73वां संविधान संशोधन अधिनियम, 1992"
+      ],
+      "optionsHi": [
+        "61वां संविधान संशोधन अधिनियम, 1988",
+        "42वां संविधान संशोधन अधिनियम, 1976",
+        "44वां संविधान संशोधन अधिनियम, 1978",
+        "73वां संविधान संशोधन अधिनियम, 1992"
+      ],
       "a": 0,
-      "exp": "The 61st Constitutional Amendment Act amended Article 326, reducing voting age from 21 to 18 years."
+      "correctIndex": 0,
+      "exp": "The 61st Constitutional Amendment Act amended Article 326, reducing voting age from 21 to 18 years.",
+      "explanation": "The 61st Constitutional Amendment Act amended Article 326, reducing voting age from 21 to 18 years.",
+      "expHi": "राजीव गांधी सरकार के समय 61वें संशोधन अधिनियम 1988 (28 मार्च 1989 से लागू) ने अनुच्छेद 326 में संशोधन कर मताधिकार की आयु घटाकर 18 वर्ष की।",
+      "explanationHi": "राजीव गांधी सरकार के समय 61वें संशोधन अधिनियम 1988 (28 मार्च 1989 से लागू) ने अनुच्छेद 326 में संशोधन कर मताधिकार की आयु घटाकर 18 वर्ष की।",
+      "hint": "Consider the established historical and constitutional facts of Polity & Constitution.",
+      "hintHi": "इसने संविधान के अनुच्छेद 326 में संशोधन किया।",
+      "difficulty": "medium",
+      "examTags": [
+        "ssc_cgl",
+        "upsc_csat",
+        "railway",
+        "banking_ga"
+      ]
+    },
+    {
+      "id": "gk_nat_pdf_indian_polity_001",
+      "q": "When did the Constitution of India come into force?",
+      "questionText": "When did the Constitution of India come into force?",
+      "qHi": "भारत का संविधान कब लागू हुआ?",
+      "questionTextHi": "भारत का संविधान कब लागू हुआ?",
+      "o": [
+        "15 August 1947",
+        "26 January 1950",
+        "2 October 1948",
+        "30 January 1949"
+      ],
+      "options": [
+        "15 August 1947",
+        "26 January 1950",
+        "2 October 1948",
+        "30 January 1949"
+      ],
+      "oHi": [
+        "15 अगस्त 1947",
+        "26 जनवरी 1950",
+        "2 अक्टूबर 1948",
+        "30 जनवरी 1949"
+      ],
+      "optionsHi": [
+        "15 अगस्त 1947",
+        "26 जनवरी 1950",
+        "2 अक्टूबर 1948",
+        "30 जनवरी 1949"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "The Constitution of India came into effect on 26 January 1950, celebrated nationwide as Republic Day.",
+      "explanation": "The Constitution of India came into effect on 26 January 1950, celebrated nationwide as Republic Day.",
+      "expHi": "भारतीय संविधान 26 जनवरी 1950 को लागू हुआ, जिसे पूरे देश में गणतंत्र दिवस के रूप में मनाया जाता है।",
+      "explanationHi": "भारतीय संविधान 26 जनवरी 1950 को लागू हुआ, जिसे पूरे देश में गणतंत्र दिवस के रूप में मनाया जाता है।",
+      "hint": "Key concept under Indian Polity.",
+      "hintHi": "Indian Polity का प्रमुख तथ्य।",
+      "difficulty": "medium",
+      "examTags": [
+        "ssc_cgl",
+        "upsc_prelims",
+        "railway_ntpc",
+        "state_psc"
+      ]
+    },
+    {
+      "id": "gk_nat_pdf_indian_polity_002",
+      "q": "Who is recognized as the chief architect and father of the Indian Constitution?",
+      "questionText": "Who is recognized as the chief architect and father of the Indian Constitution?",
+      "qHi": "भारतीय संविधान के निर्माता किसे कहा जाता है?",
+      "questionTextHi": "भारतीय संविधान के निर्माता किसे कहा जाता है?",
+      "o": [
+        "Mahatma Gandhi",
+        "Dr. B.R. Ambedkar",
+        "Jawaharlal Nehru",
+        "Sardar Vallabhbhai Patel"
+      ],
+      "options": [
+        "Mahatma Gandhi",
+        "Dr. B.R. Ambedkar",
+        "Jawaharlal Nehru",
+        "Sardar Vallabhbhai Patel"
+      ],
+      "oHi": [
+        "महात्मा गांधी",
+        "डॉ. बी.आर. आंबेडकर",
+        "नेहरू",
+        "पटेल"
+      ],
+      "optionsHi": [
+        "महात्मा गांधी",
+        "डॉ. बी.आर. आंबेडकर",
+        "नेहरू",
+        "पटेल"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Dr. B.R. Ambedkar was the Chairman of the Drafting Committee of the Constituent Assembly.",
+      "explanation": "Dr. B.R. Ambedkar was the Chairman of the Drafting Committee of the Constituent Assembly.",
+      "expHi": "डॉ. बी.आर. आंबेडकर संविधान सभा की प्रारूप समिति के अध्यक्ष थे।",
+      "explanationHi": "डॉ. बी.आर. आंबेडकर संविधान सभा की प्रारूप समिति के अध्यक्ष थे।",
+      "hint": "Key concept under Indian Polity.",
+      "hintHi": "Indian Polity का प्रमुख तथ्य।",
+      "difficulty": "medium",
+      "examTags": [
+        "ssc_cgl",
+        "upsc_prelims",
+        "railway_ntpc",
+        "state_psc"
+      ]
+    },
+    {
+      "id": "gk_nat_pdf_indian_polity_003",
+      "q": "Where is the Supreme Court of India located?",
+      "questionText": "Where is the Supreme Court of India located?",
+      "qHi": "भारत में सर्वोच्च न्यायालय कहाँ स्थित है?",
+      "questionTextHi": "भारत में सर्वोच्च न्यायालय कहाँ स्थित है?",
+      "o": [
+        "Mumbai",
+        "Kolkata",
+        "New Delhi",
+        "Chennai"
+      ],
+      "options": [
+        "Mumbai",
+        "Kolkata",
+        "New Delhi",
+        "Chennai"
+      ],
+      "oHi": [
+        "मुंबई",
+        "कोलकाता",
+        "नई दिल्ली",
+        "चेन्नई"
+      ],
+      "optionsHi": [
+        "मुंबई",
+        "कोलकाता",
+        "नई दिल्ली",
+        "चेन्नई"
+      ],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "The Supreme Court of India was established in New Delhi on 28 January 1950.",
+      "explanation": "The Supreme Court of India was established in New Delhi on 28 January 1950.",
+      "expHi": "भारत का सर्वोच्च न्यायालय 28 जनवरी 1950 को नई दिल्ली में स्थापित किया गया था।",
+      "explanationHi": "भारत का सर्वोच्च न्यायालय 28 जनवरी 1950 को नई दिल्ली में स्थापित किया गया था।",
+      "hint": "Key concept under Indian Polity.",
+      "hintHi": "Indian Polity का प्रमुख तथ्य।",
+      "difficulty": "medium",
+      "examTags": [
+        "ssc_cgl",
+        "upsc_prelims",
+        "railway_ntpc",
+        "state_psc"
+      ]
+    },
+    {
+      "id": "gk_nat_pdf_indian_polity_004",
+      "q": "What is the official tenure of the President of India?",
+      "questionText": "What is the official tenure of the President of India?",
+      "qHi": "भारत के राष्ट्रपति का कार्यकाल कितने वर्ष का होता है?",
+      "questionTextHi": "भारत के राष्ट्रपति का कार्यकाल कितने वर्ष का होता है?",
+      "o": [
+        "4 Years",
+        "5 Years",
+        "6 Years",
+        "7 Years"
+      ],
+      "options": [
+        "4 Years",
+        "5 Years",
+        "6 Years",
+        "7 Years"
+      ],
+      "oHi": [
+        "4 वर्ष",
+        "5 वर्ष",
+        "6 वर्ष",
+        "7 वर्ष"
+      ],
+      "optionsHi": [
+        "4 वर्ष",
+        "5 वर्ष",
+        "6 वर्ष",
+        "7 वर्ष"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Under Article 56 of the Constitution, the President holds office for a term of 5 years.",
+      "explanation": "Under Article 56 of the Constitution, the President holds office for a term of 5 years.",
+      "expHi": "संविधान के अनुच्छेद 56 के अनुसार, राष्ट्रपति का कार्यकाल 5 वर्ष का होता है।",
+      "explanationHi": "संविधान के अनुच्छेद 56 के अनुसार, राष्ट्रपति का कार्यकाल 5 वर्ष का होता है।",
+      "hint": "Key concept under Indian Polity.",
+      "hintHi": "Indian Polity का प्रमुख तथ्य।",
+      "difficulty": "medium",
+      "examTags": [
+        "ssc_cgl",
+        "upsc_prelims",
+        "railway_ntpc",
+        "state_psc"
+      ]
+    },
+    {
+      "id": "gk_nat_pdf_indian_polity_005",
+      "q": "How many houses constitute the Parliament of India?",
+      "questionText": "How many houses constitute the Parliament of India?",
+      "qHi": "भारतीय संसद के कितने सदन हैं?",
+      "questionTextHi": "भारतीय संसद के कितने सदन हैं?",
+      "o": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "oHi": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "optionsHi": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "The Indian Parliament is bicameral, consisting of the Lok Sabha (House of the People) and Rajya Sabha (Council of States).",
+      "explanation": "The Indian Parliament is bicameral, consisting of the Lok Sabha (House of the People) and Rajya Sabha (Council of States).",
+      "expHi": "भारतीय संसद द्विसदनीय है, जिसमें लोकसभा और राज्यसभा शामिल हैं।",
+      "explanationHi": "भारतीय संसद द्विसदनीय है, जिसमें लोकसभा और राज्यसभा शामिल हैं।",
+      "hint": "Key concept under Indian Polity.",
+      "hintHi": "Indian Polity का प्रमुख तथ्य।",
+      "difficulty": "medium",
+      "examTags": [
+        "ssc_cgl",
+        "upsc_prelims",
+        "railway_ntpc",
+        "state_psc"
+      ]
+    },
+    {
+      "id": "gk_nat_pdf_indian_polity_006",
+      "q": "Why is the Rajya Sabha termed a permanent chamber of Parliament?",
+      "questionText": "Why is the Rajya Sabha termed a permanent chamber of Parliament?",
+      "qHi": "राज्यसभा को स्थायी सदन क्यों कहा जाता है?",
+      "questionTextHi": "राज्यसभा को स्थायी सदन क्यों कहा जाता है?",
+      "o": [
+        "It has no elections",
+        "It cannot be dissolved",
+        "Its tenure is 10 years",
+        "It is controlled by the President"
+      ],
+      "options": [
+        "It has no elections",
+        "It cannot be dissolved",
+        "Its tenure is 10 years",
+        "It is controlled by the President"
+      ],
+      "oHi": [
+        "इसका चुनाव नहीं होता",
+        "इसे भंग नहीं किया जा सकता",
+        "इसका कार्यकाल 10 वर्ष है",
+        "यह राष्ट्रपति के अधीन है"
+      ],
+      "optionsHi": [
+        "इसका चुनाव नहीं होता",
+        "इसे भंग नहीं किया जा सकता",
+        "इसका कार्यकाल 10 वर्ष है",
+        "यह राष्ट्रपति के अधीन है"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "The Rajya Sabha is a permanent body not subject to dissolution; one-third of its members retire every two years.",
+      "explanation": "The Rajya Sabha is a permanent body not subject to dissolution; one-third of its members retire every two years.",
+      "expHi": "राज्यसभा एक स्थायी सदन है जिसे कभी भंग नहीं किया जा सकता; इसके एक-तिहाई सदस्य हर दो साल में सेवानिवृत्त होते हैं।",
+      "explanationHi": "राज्यसभा एक स्थायी सदन है जिसे कभी भंग नहीं किया जा सकता; इसके एक-तिहाई सदस्य हर दो साल में सेवानिवृत्त होते हैं।",
+      "hint": "Key concept under Indian Polity.",
+      "hintHi": "Indian Polity का प्रमुख तथ्य।",
+      "difficulty": "medium",
+      "examTags": [
+        "ssc_cgl",
+        "upsc_prelims",
+        "railway_ntpc",
+        "state_psc"
+      ]
+    },
+    {
+      "id": "gk_nat_pdf_indian_polity_007",
+      "q": "In which Part of the Indian Constitution are Fundamental Rights enshrined?",
+      "questionText": "In which Part of the Indian Constitution are Fundamental Rights enshrined?",
+      "qHi": "मौलिक अधिकार संविधान के किस भाग में हैं?",
+      "questionTextHi": "मौलिक अधिकार संविधान के किस भाग में हैं?",
+      "o": [
+        "Part II",
+        "Part III",
+        "Part IV",
+        "Part V"
+      ],
+      "options": [
+        "Part II",
+        "Part III",
+        "Part IV",
+        "Part V"
+      ],
+      "oHi": [
+        "भाग II",
+        "भाग III",
+        "भाग IV",
+        "भाग V"
+      ],
+      "optionsHi": [
+        "भाग II",
+        "भाग III",
+        "भाग IV",
+        "भाग V"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Articles 12 to 35 in Part III of the Constitution guarantee Fundamental Rights to citizens.",
+      "explanation": "Articles 12 to 35 in Part III of the Constitution guarantee Fundamental Rights to citizens.",
+      "expHi": "संविधान के भाग III में अनुच्छेद 12 से 35 तक नागरिकों को मौलिक अधिकार प्रदान किए गए हैं।",
+      "explanationHi": "संविधान के भाग III में अनुच्छेद 12 से 35 तक नागरिकों को मौलिक अधिकार प्रदान किए गए हैं।",
+      "hint": "Key concept under Indian Polity.",
+      "hintHi": "Indian Polity का प्रमुख तथ्य।",
+      "difficulty": "medium",
+      "examTags": [
+        "ssc_cgl",
+        "upsc_prelims",
+        "railway_ntpc",
+        "state_psc"
+      ]
+    },
+    {
+      "id": "gk_nat_pol_001",
+      "q": "When did the Constitution of India formally come into force?",
+      "questionText": "When did the Constitution of India formally come into force?",
+      "qHi": "भारतीय संविधान औपचारिक रूप से कब लागू हुआ था?",
+      "questionTextHi": "भारतीय संविधान औपचारिक रूप से कब लागू हुआ था?",
+      "o": [
+        "15 August 1947",
+        "26 January 1950",
+        "26 November 1949",
+        "30 January 1948"
+      ],
+      "options": [
+        "15 August 1947",
+        "26 January 1950",
+        "26 November 1949",
+        "30 January 1948"
+      ],
+      "oHi": [
+        "15 अगस्त 1947",
+        "26 जनवरी 1950",
+        "26 नवंबर 1949",
+        "30 जनवरी 1948"
+      ],
+      "optionsHi": [
+        "15 अगस्त 1947",
+        "26 जनवरी 1950",
+        "26 नवंबर 1949",
+        "30 जनवरी 1948"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "The Constitution was adopted on 26 November 1949 and came into effect on 26 January 1950, celebrated as Republic Day.",
+      "explanation": "The Constitution was adopted on 26 November 1949 and came into effect on 26 January 1950, celebrated as Republic Day.",
+      "expHi": "संविधान 26 नवंबर 1949 को अपनाया गया था और 26 जनवरी 1950 को प्रभावी हुआ, जिसे गणतंत्र दिवस के रूप में मनाया जाता है।",
+      "explanationHi": "संविधान 26 नवंबर 1949 को अपनाया गया था और 26 जनवरी 1950 को प्रभावी हुआ, जिसे गणतंत्र दिवस के रूप में मनाया जाता है।",
+      "hint": "Key concept under Indian Polity.",
+      "hintHi": "Indian Polity का महत्वपूर्ण तथ्य।",
+      "difficulty": "easy",
+      "examTags": [
+        "ssc_cgl",
+        "upsc_prelims",
+        "railway"
+      ]
+    },
+    {
+      "id": "gk_nat_pol_002",
+      "q": "Who was the Chairman of the Drafting Committee of the Constituent Assembly?",
+      "questionText": "Who was the Chairman of the Drafting Committee of the Constituent Assembly?",
+      "qHi": "संविधान सभा की प्रारूप समिति (Drafting Committee) के अध्यक्ष कौन थे?",
+      "questionTextHi": "संविधान सभा की प्रारूप समिति (Drafting Committee) के अध्यक्ष कौन थे?",
+      "o": [
+        "Dr. Rajendra Prasad",
+        "Dr. B.R. Ambedkar",
+        "Jawaharlal Nehru",
+        "Sardar Vallabhbhai Patel"
+      ],
+      "options": [
+        "Dr. Rajendra Prasad",
+        "Dr. B.R. Ambedkar",
+        "Jawaharlal Nehru",
+        "Sardar Vallabhbhai Patel"
+      ],
+      "oHi": [
+        "डॉ. राजेंद्र प्रसाद",
+        "डॉ. बी.आर. आंबेडकर",
+        "जवाहरलाल नेहरू",
+        "सरदार वल्लभभाई पटेल"
+      ],
+      "optionsHi": [
+        "डॉ. राजेंद्र प्रसाद",
+        "डॉ. बी.आर. आंबेडकर",
+        "जवाहरलाल नेहरू",
+        "सरदार वल्लभभाई पटेल"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Dr. Bhimrao Ramji Ambedkar headed the Drafting Committee tasked with framing India's written constitution.",
+      "explanation": "Dr. Bhimrao Ramji Ambedkar headed the Drafting Committee tasked with framing India's written constitution.",
+      "expHi": "डॉ. भीमराव रामजी आंबेडकर ने प्रारूप समिति की अध्यक्षता की, जिसने भारत के संविधान का मसौदा तैयार किया।",
+      "explanationHi": "डॉ. भीमराव रामजी आंबेडकर ने प्रारूप समिति की अध्यक्षता की, जिसने भारत के संविधान का मसौदा तैयार किया।",
+      "hint": "Key concept under Indian Polity.",
+      "hintHi": "Indian Polity का महत्वपूर्ण तथ्य।",
+      "difficulty": "easy",
+      "examTags": [
+        "ssc_cgl",
+        "state_psc"
+      ]
+    },
+    {
+      "id": "gk_nat_pol_003",
+      "q": "Under which Article of the Constitution can a citizen move the Supreme Court for enforcement of Fundamental Rights?",
+      "questionText": "Under which Article of the Constitution can a citizen move the Supreme Court for enforcement of Fundamental Rights?",
+      "qHi": "संविधान के किस अनुच्छेद के तहत कोई नागरिक मौलिक अधिकारों के प्रवर्तन के लिए सर्वोच्च न्यायालय जा सकता है?",
+      "questionTextHi": "संविधान के किस अनुच्छेद के तहत कोई नागरिक मौलिक अधिकारों के प्रवर्तन के लिए सर्वोच्च न्यायालय जा सकता है?",
+      "o": [
+        "Article 21",
+        "Article 32",
+        "Article 44",
+        "Article 356"
+      ],
+      "options": [
+        "Article 21",
+        "Article 32",
+        "Article 44",
+        "Article 356"
+      ],
+      "oHi": [
+        "अनुच्छेद 21",
+        "अनुच्छेद 32",
+        "अनुच्छेद 44",
+        "अनुच्छेद 356"
+      ],
+      "optionsHi": [
+        "अनुच्छेद 21",
+        "अनुच्छेद 32",
+        "अनुच्छेद 44",
+        "अनुच्छेद 356"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Article 32 provides the Right to Constitutional Remedies, famously called the 'Heart and Soul' of the Constitution by Dr. Ambedkar.",
+      "explanation": "Article 32 provides the Right to Constitutional Remedies, famously called the 'Heart and Soul' of the Constitution by Dr. Ambedkar.",
+      "expHi": "अनुच्छेद 32 संवैधानिक उपचारों का अधिकार प्रदान करता है, जिसे डॉ. आंबेडकर ने संविधान का 'हृदय और आत्मा' कहा था।",
+      "explanationHi": "अनुच्छेद 32 संवैधानिक उपचारों का अधिकार प्रदान करता है, जिसे डॉ. आंबेडकर ने संविधान का 'हृदय और आत्मा' कहा था।",
+      "hint": "Key concept under Indian Polity.",
+      "hintHi": "Indian Polity का महत्वपूर्ण तथ्य।",
+      "difficulty": "medium",
+      "examTags": [
+        "upsc_prelims",
+        "ssc_cgl",
+        "judiciary"
+      ]
+    },
+    {
+      "id": "gk_nat_pol_004",
+      "q": "Fundamental Rights in the Indian Constitution are enshrined in which Part?",
+      "questionText": "Fundamental Rights in the Indian Constitution are enshrined in which Part?",
+      "qHi": "भारतीय संविधान में मौलिक अधिकार किस भाग में वर्णित हैं?",
+      "questionTextHi": "भारतीय संविधान में मौलिक अधिकार किस भाग में वर्णित हैं?",
+      "o": [
+        "Part II",
+        "Part III",
+        "Part IV",
+        "Part IVA"
+      ],
+      "options": [
+        "Part II",
+        "Part III",
+        "Part IV",
+        "Part IVA"
+      ],
+      "oHi": [
+        "भाग II",
+        "भाग III",
+        "भाग IV",
+        "भाग IVA"
+      ],
+      "optionsHi": [
+        "भाग II",
+        "भाग III",
+        "भाग IV",
+        "भाग IVA"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Articles 12 to 35 in Part III of the Constitution guarantee Fundamental Rights to Indian citizens.",
+      "explanation": "Articles 12 to 35 in Part III of the Constitution guarantee Fundamental Rights to Indian citizens.",
+      "expHi": "संविधान के भाग III में अनुच्छेद 12 से 35 तक भारतीय नागरिकों को मौलिक अधिकार प्रदान किए गए हैं।",
+      "explanationHi": "संविधान के भाग III में अनुच्छेद 12 से 35 तक भारतीय नागरिकों को मौलिक अधिकार प्रदान किए गए हैं।",
+      "hint": "Key concept under Indian Polity.",
+      "hintHi": "Indian Polity का महत्वपूर्ण तथ्य।",
+      "difficulty": "easy",
+      "examTags": [
+        "ssc_cgl",
+        "railway"
+      ]
+    },
+    {
+      "id": "gk_nat_pol_005",
+      "q": "Who was the permanent President of the Constituent Assembly?",
+      "questionText": "Who was the permanent President of the Constituent Assembly?",
+      "qHi": "संविधान सभा के स्थायी अध्यक्ष कौन थे?",
+      "questionTextHi": "संविधान सभा के स्थायी अध्यक्ष कौन थे?",
+      "o": [
+        "Dr. Sachchidananda Sinha",
+        "Dr. Rajendra Prasad",
+        "Dr. B.R. Ambedkar",
+        "H.C. Mukherjee"
+      ],
+      "options": [
+        "Dr. Sachchidananda Sinha",
+        "Dr. Rajendra Prasad",
+        "Dr. B.R. Ambedkar",
+        "H.C. Mukherjee"
+      ],
+      "oHi": [
+        "डॉ. सच्चिदानंद सदन्हा",
+        "डॉ. राजेंद्र प्रसाद",
+        "डॉ. बी.आर. आंबेडकर",
+        "एच.सी. मुखर्जी"
+      ],
+      "optionsHi": [
+        "डॉ. सच्चिदानंद सदन्हा",
+        "डॉ. राजेंद्र प्रसाद",
+        "डॉ. बी.आर. आंबेडकर",
+        "एच.सी. मुखर्जी"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Dr. Rajendra Prasad was elected permanent President on 11 December 1946 (Dr. Sinha was interim).",
+      "explanation": "Dr. Rajendra Prasad was elected permanent President on 11 December 1946 (Dr. Sinha was interim).",
+      "expHi": "11 दिसंबर 1946 को डॉ. राजेंद्र प्रसाद को संविधान सभा का स्थायी अध्यक्ष चुना गया था।",
+      "explanationHi": "11 दिसंबर 1946 को डॉ. राजेंद्र प्रसाद को संविधान सभा का स्थायी अध्यक्ष चुना गया था।",
+      "hint": "Key concept under Indian Polity.",
+      "hintHi": "Indian Polity का महत्वपूर्ण तथ्य।",
+      "difficulty": "medium",
+      "examTags": [
+        "ssc_cgl",
+        "state_psc"
+      ]
+    },
+    {
+      "id": "gk_nat_indian_polity_q5",
+      "q": "What is the standard tenure of the members of the Lok Sabha?",
+      "questionText": "What is the standard tenure of the members of the Lok Sabha?",
+      "qHi": "लोकसभा के सदस्यों का कार्यकाल कितने वर्ष का होता है?",
+      "questionTextHi": "लोकसभा के सदस्यों का कार्यकाल कितने वर्ष का होता है?",
+      "o": [
+        "4 Years",
+        "5 Years",
+        "6 Years",
+        "7 Years"
+      ],
+      "options": [
+        "4 Years",
+        "5 Years",
+        "6 Years",
+        "7 Years"
+      ],
+      "oHi": [
+        "4 वर्ष",
+        "5 वर्ष",
+        "6 वर्ष",
+        "7 वर्ष"
+      ],
+      "optionsHi": [
+        "4 वर्ष",
+        "5 वर्ष",
+        "6 वर्ष",
+        "7 वर्ष"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Under Article 83(2) of the Constitution, the Lok Sabha (House of the People) has a normal duration of 5 years unless dissolved sooner.",
+      "explanation": "Under Article 83(2) of the Constitution, the Lok Sabha (House of the People) has a normal duration of 5 years unless dissolved sooner.",
+      "expHi": "संविधान के अनुच्छेद 83(2) के अनुसार लोकसभा के सदस्यों का सामान्य कार्यकाल 5 वर्ष होता है, बशर्ते इसे समय से पूर्व भंग न किया जाए।",
+      "explanationHi": "संविधान के अनुच्छेद 83(2) के अनुसार लोकसभा के सदस्यों का सामान्य कार्यकाल 5 वर्ष होता है, बशर्ते इसे समय से पूर्व भंग न किया जाए।",
+      "hint": "Normal legislative term unless dissolved earlier by the President.",
+      "hintHi": "राष्ट्रपति द्वारा पहले भंग न किए जाने की स्थिति में सामान्य कार्यकाल।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_indian_polity_q6",
+      "q": "How many Houses make up the Parliament of India?",
+      "questionText": "How many Houses make up the Parliament of India?",
+      "qHi": "भारतीय संसद के कितने सदन हैं?",
+      "questionTextHi": "भारतीय संसद के कितने सदन हैं?",
+      "o": [
+        "1 (Unicameral)",
+        "2 (Bicameral)",
+        "3",
+        "4"
+      ],
+      "options": [
+        "1 (Unicameral)",
+        "2 (Bicameral)",
+        "3",
+        "4"
+      ],
+      "oHi": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "optionsHi": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "The Parliament of India is bicameral (Article 79), consisting of the President and two Houses: the Rajya Sabha (Council of States) and the Lok Sabha (House of the People).",
+      "explanation": "The Parliament of India is bicameral (Article 79), consisting of the President and two Houses: the Rajya Sabha (Council of States) and the Lok Sabha (House of the People).",
+      "expHi": "भारतीय संसद द्विसदनीय है (अनुच्छेद 79), जिसमें राष्ट्रपति तथा दो सदन—राज्यसभा (उच्च सदन) और लोकसभा (निम्न सदन) शामिल हैं।",
+      "explanationHi": "भारतीय संसद द्विसदनीय है (अनुच्छेद 79), जिसमें राष्ट्रपति तथा दो सदन—राज्यसभा (उच्च सदन) और लोकसभा (निम्न सदन) शामिल हैं।",
+      "hint": "Comprises the Lok Sabha and the Rajya Sabha.",
+      "hintHi": "लोकसभा और राज्यसभा दो सदन होते हैं।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_indian_polity_q7",
+      "q": "Why is the Rajya Sabha termed a 'Permanent House' of Parliament?",
+      "questionText": "Why is the Rajya Sabha termed a 'Permanent House' of Parliament?",
+      "qHi": "राज्यसभा को स्थायी सदन क्यों कहा जाता है?",
+      "questionTextHi": "राज्यसभा को स्थायी सदन क्यों कहा जाता है?",
+      "o": [
+        "Members are elected for life",
+        "It cannot be dissolved",
+        "It has more financial power",
+        "It sits every day"
+      ],
+      "options": [
+        "Members are elected for life",
+        "It cannot be dissolved",
+        "It has more financial power",
+        "It sits every day"
+      ],
+      "oHi": [
+        "इसका चुनाव नहीं होता",
+        "इसे भंग नहीं किया जा सकता",
+        "इसका कार्यकाल 10 वर्ष है",
+        "यह राष्ट्रपति के अधीन है"
+      ],
+      "optionsHi": [
+        "इसका चुनाव नहीं होता",
+        "इसे भंग नहीं किया जा सकता",
+        "इसका कार्यकाल 10 वर्ष है",
+        "यह राष्ट्रपति के अधीन है"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Under Article 83(1), the Rajya Sabha is a permanent body not subject to dissolution; one-third of its members retire every second year after completing a 6-year term.",
+      "explanation": "Under Article 83(1), the Rajya Sabha is a permanent body not subject to dissolution; one-third of its members retire every second year after completing a 6-year term.",
+      "expHi": "अनुच्छेद 83(1) के तहत राज्यसभा एक स्थायी सदन है जिसे कभी भंग नहीं किया जा सकता; इसके एक-तिहाई सदस्य प्रत्येक दो वर्ष बाद 6 वर्ष का कार्यकाल पूरा कर सेवानिवृत्त होते हैं।",
+      "explanationHi": "अनुच्छेद 83(1) के तहत राज्यसभा एक स्थायी सदन है जिसे कभी भंग नहीं किया जा सकता; इसके एक-तिहाई सदस्य प्रत्येक दो वर्ष बाद 6 वर्ष का कार्यकाल पूरा कर सेवानिवृत्त होते हैं।",
+      "hint": "Unlike the Lok Sabha, it is never subject to total dissolution.",
+      "hintHi": "लोकसभा के विपरीत इसे कभी भंग नहीं किया जा सकता।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_indian_polity_q8",
+      "q": "Fundamental Rights are enshrined in which Part of the Indian Constitution?",
+      "questionText": "Fundamental Rights are enshrined in which Part of the Indian Constitution?",
+      "qHi": "मौलिक अधिकार संविधान के किस भाग में हैं?",
+      "questionTextHi": "मौलिक अधिकार संविधान के किस भाग में हैं?",
+      "o": [
+        "Part II",
+        "Part III (Articles 12-35)",
+        "Part IV",
+        "Part V"
+      ],
+      "options": [
+        "Part II",
+        "Part III (Articles 12-35)",
+        "Part IV",
+        "Part V"
+      ],
+      "oHi": [
+        "भाग II",
+        "भाग III",
+        "भाग IV",
+        "भाग V"
+      ],
+      "optionsHi": [
+        "भाग II",
+        "भाग III",
+        "भाग IV",
+        "भाग V"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Fundamental Rights are contained in Part III of the Constitution (Articles 12 to 35), often called the 'Magna Carta of India'.",
+      "explanation": "Fundamental Rights are contained in Part III of the Constitution (Articles 12 to 35), often called the 'Magna Carta of India'.",
+      "expHi": "मौलिक अधिकार भारतीय संविधान के भाग III (अनुच्छेद 12 से 35) में समाहित हैं, जिसे 'भारत का मैग्ना कार्टा' कहा जाता है।",
+      "explanationHi": "मौलिक अधिकार भारतीय संविधान के भाग III (अनुच्छेद 12 से 35) में समाहित हैं, जिसे 'भारत का मैग्ना कार्टा' कहा जाता है।",
+      "hint": "Articles 12 to 35, often described as India's Magna Carta.",
+      "hintHi": "अनुच्छेद 12 से 35, जिसे भारत का मैग्ना कार्टा कहा जाता है।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_indian_polity_q10",
+      "q": "What is the supreme law of the land in the Republic of India?",
+      "questionText": "What is the supreme law of the land in the Republic of India?",
+      "qHi": "भारत का सर्वोच्च कानून क्या है?",
+      "questionTextHi": "भारत का सर्वोच्च कानून क्या है?",
+      "o": [
+        "Supreme Court Judgments",
+        "Constitution of India",
+        "Parliamentary Acts",
+        "Presidential Ordinances"
+      ],
+      "options": [
+        "Supreme Court Judgments",
+        "Constitution of India",
+        "Parliamentary Acts",
+        "Presidential Ordinances"
+      ],
+      "oHi": [
+        "संसद",
+        "संविधान",
+        "राष्ट्रपति",
+        "न्यायपालिका"
+      ],
+      "optionsHi": [
+        "संसद",
+        "संविधान",
+        "राष्ट्रपति",
+        "न्यायपालिका"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "The Constitution of India is the supreme lex (supreme law) of the country. All organs of the state (legislature, executive, and judiciary) derive their authority from it.",
+      "explanation": "The Constitution of India is the supreme lex (supreme law) of the country. All organs of the state (legislature, executive, and judiciary) derive their authority from it.",
+      "expHi": "भारतीय संविधान देश का सर्वोच्च कानून (Supreme Law of the Land) है। कार्यपालिका, विधायिका और न्यायपालिका सभी अपनी शक्तियाँ इसी से प्राप्त करते हैं।",
+      "explanationHi": "भारतीय संविधान देश का सर्वोच्च कानून (Supreme Law of the Land) है। कार्यपालिका, विधायिका और न्यायपालिका सभी अपनी शक्तियाँ इसी से प्राप्त करते हैं।",
+      "hint": "The foundational document from which all government organs derive power.",
+      "hintHi": "वह आधारभूत दस्तावेज जिससे सभी अंग अधिकार प्राप्त करते हैं।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_indian_polity_q11",
+      "q": "How many Schedules are currently present in the Constitution of India?",
+      "questionText": "How many Schedules are currently present in the Constitution of India?",
+      "qHi": "भारतीय संविधान में कुल कितने अनुसूचियाँ हैं?",
+      "questionTextHi": "भारतीय संविधान में कुल कितने अनुसूचियाँ हैं?",
+      "o": [
+        "8 Schedules",
+        "10 Schedules",
+        "12 Schedules",
+        "14 Schedules"
+      ],
+      "options": [
+        "8 Schedules",
+        "10 Schedules",
+        "12 Schedules",
+        "14 Schedules"
+      ],
+      "oHi": [
+        "10",
+        "11",
+        "12",
+        "14"
+      ],
+      "optionsHi": [
+        "10",
+        "11",
+        "12",
+        "14"
+      ],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Originally, the Constitution had 8 Schedules in 1950. Through constitutional amendments, 4 more were added, bringing the current total to 12 Schedules.",
+      "explanation": "Originally, the Constitution had 8 Schedules in 1950. Through constitutional amendments, 4 more were added, bringing the current total to 12 Schedules.",
+      "expHi": "मूल संविधान में 8 अनुसूचियाँ थीं। विभिन्न संशोधनों के उपरांत वर्तमान में भारतीय संविधान में कुल 12 अनुसूचियाँ हैं।",
+      "explanationHi": "मूल संविधान में 8 अनुसूचियाँ थीं। विभिन्न संशोधनों के उपरांत वर्तमान में भारतीय संविधान में कुल 12 अनुसूचियाँ हैं।",
+      "hint": "Originally 8 in 1950, now expanded by 4 amendments.",
+      "hintHi": "1950 में मूल रूप से 8 थीं, वर्तमान में 12 हैं।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_indian_polity_q12",
+      "q": "Who was the first President of the Republic of India?",
+      "questionText": "Who was the first President of the Republic of India?",
+      "qHi": "भारत के प्रथम राष्ट्रपति कौन थे?",
+      "questionTextHi": "भारत के प्रथम राष्ट्रपति कौन थे?",
+      "o": [
+        "Dr. Rajendra Prasad",
+        "Dr. S. Radhakrishnan",
+        "Zakir Husain",
+        "V. V. Giri"
+      ],
+      "options": [
+        "Dr. Rajendra Prasad",
+        "Dr. S. Radhakrishnan",
+        "Zakir Husain",
+        "V. V. Giri"
+      ],
+      "oHi": [
+        "डॉ. राजेंद्र प्रसाद",
+        "डॉ. राधाकृष्णन",
+        "जवाहरलाल नेहरू",
+        "बी.आर. आंबेडकर"
+      ],
+      "optionsHi": [
+        "डॉ. राजेंद्र प्रसाद",
+        "डॉ. राधाकृष्णन",
+        "जवाहरलाल नेहरू",
+        "बी.आर. आंबेडकर"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Dr. Rajendra Prasad served as the first President of India from 26 January 1950 to 13 May 1962, holding the longest presidency in Indian history.",
+      "explanation": "Dr. Rajendra Prasad served as the first President of India from 26 January 1950 to 13 May 1962, holding the longest presidency in Indian history.",
+      "expHi": "डॉ. राजेंद्र प्रसाद 26 जनवरी 1950 से 13 मई 1962 तक भारत के प्रथम राष्ट्रपति रहे। वे अब तक सर्वाधिक समय तक राष्ट्रपति पद पर रहने वाले व्यक्ति हैं।",
+      "explanationHi": "डॉ. राजेंद्र प्रसाद 26 जनवरी 1950 से 13 मई 1962 तक भारत के प्रथम राष्ट्रपति रहे। वे अब तक सर्वाधिक समय तक राष्ट्रपति पद पर रहने वाले व्यक्ति हैं।",
+      "hint": "Held the office from 1950 to 1962, the longest in Indian history.",
+      "hintHi": "1950 से 1962 तक सबसे लंबे समय तक राष्ट्रपति पद संभाला।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_indian_polity_q13",
+      "q": "Under Article 75 of the Constitution, who appoints the Prime Minister of India?",
+      "questionText": "Under Article 75 of the Constitution, who appoints the Prime Minister of India?",
+      "qHi": "प्रधानमंत्री की नियुक्ति कौन करता है?",
+      "questionTextHi": "प्रधानमंत्री की नियुक्ति कौन करता है?",
+      "o": [
+        "Chief Justice of India",
+        "President of India",
+        "Speaker of Lok Sabha",
+        "Vice President"
+      ],
+      "options": [
+        "Chief Justice of India",
+        "President of India",
+        "Speaker of Lok Sabha",
+        "Vice President"
+      ],
+      "oHi": [
+        "लोकसभा",
+        "राष्ट्रपति",
+        "राज्यसभा",
+        "सुप्रीम कोर्ट"
+      ],
+      "optionsHi": [
+        "लोकसभा",
+        "राष्ट्रपति",
+        "राज्यसभा",
+        "सुप्रीम कोर्ट"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Under Article 75(1), the Prime Minister is appointed by the President of India, who invites the leader of the party/coalition commanding a majority in the Lok Sabha.",
+      "explanation": "Under Article 75(1), the Prime Minister is appointed by the President of India, who invites the leader of the party/coalition commanding a majority in the Lok Sabha.",
+      "expHi": "अनुच्छेद 75(1) के अनुसार प्रधानमंत्री की नियुक्ति राष्ट्रपति द्वारा की जाती है, जो लोकसभा में बहुमत प्राप्त दल के नेता को आमंत्रित करते हैं।",
+      "explanationHi": "अनुच्छेद 75(1) के अनुसार प्रधानमंत्री की नियुक्ति राष्ट्रपति द्वारा की जाती है, जो लोकसभा में बहुमत प्राप्त दल के नेता को आमंत्रित करते हैं।",
+      "hint": "The constitutional Head of State invites the majority leader.",
+      "hintHi": "देश के संवैधानिक राष्ट्रप्रमुख द्वारा नियुक्त किए जाते हैं।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_indian_polity_q14",
+      "q": "Under which Article can the President declare a National Emergency on grounds of war, external aggression, or armed rebellion?",
+      "questionText": "Under which Article can the President declare a National Emergency on grounds of war, external aggression, or armed rebellion?",
+      "qHi": "भारत में आपातकाल किस अनुच्छेद के तहत घोषित होता है?",
+      "questionTextHi": "भारत में आपातकाल किस अनुच्छेद के तहत घोषित होता है?",
+      "o": [
+        "Article 352",
+        "Article 356",
+        "Article 360",
+        "Article 370"
+      ],
+      "options": [
+        "Article 352",
+        "Article 356",
+        "Article 360",
+        "Article 370"
+      ],
+      "oHi": [
+        "अनुच्छेद 352",
+        "अनुच्छेद 356",
+        "अनुच्छेद 360",
+        "अनुच्छेद 370"
+      ],
+      "optionsHi": [
+        "अनुच्छेद 352",
+        "अनुच्छेद 356",
+        "अनुच्छेद 360",
+        "अनुच्छेद 370"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Article 352 empowers the President to proclaim a National Emergency. Article 356 pertains to President's Rule in states, and Article 360 covers Financial Emergency.",
+      "explanation": "Article 352 empowers the President to proclaim a National Emergency. Article 356 pertains to President's Rule in states, and Article 360 covers Financial Emergency.",
+      "expHi": "अनुच्छेद 352 के तहत युद्ध, बाह्य आक्रमण या सशस्त्र विद्रोह के आधार पर राष्ट्रीय आपातकाल घोषित होता है (अनुच्छेद 356 राज्यों में राष्ट्रपति शासन तथा अनुच्छेद 360 वित्तीय आपातकाल से संबंधित है)।",
+      "explanationHi": "अनुच्छेद 352 के तहत युद्ध, बाह्य आक्रमण या सशस्त्र विद्रोह के आधार पर राष्ट्रीय आपातकाल घोषित होता है (अनुच्छेद 356 राज्यों में राष्ट्रपति शासन तथा अनुच्छेद 360 वित्तीय आपातकाल से संबंधित है)।",
+      "hint": "Article 352 for National, Article 356 for State, Article 360 for Financial.",
+      "hintHi": "अनुच्छेद 352 राष्ट्रीय, 356 राज्यीय और 360 वित्तीय आपातकाल के लिए है।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_indian_polity_q15",
+      "q": "Who appoints the Governor of an Indian State under Article 155?",
+      "questionText": "Who appoints the Governor of an Indian State under Article 155?",
+      "qHi": "राज्यपाल की नियुक्ति कौन करता है?",
+      "questionTextHi": "राज्यपाल की नियुक्ति कौन करता है?",
+      "o": [
+        "Chief Minister",
+        "President of India",
+        "Prime Minister",
+        "Chief Justice of High Court"
+      ],
+      "options": [
+        "Chief Minister",
+        "President of India",
+        "Prime Minister",
+        "Chief Justice of High Court"
+      ],
+      "oHi": [
+        "मुख्यमंत्री",
+        "राष्ट्रपति",
+        "प्रधानमंत्री",
+        "संसद"
+      ],
+      "optionsHi": [
+        "मुख्यमंत्री",
+        "राष्ट्रपति",
+        "प्रधानमंत्री",
+        "संसद"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Under Article 155, the Governor of a State is appointed by the President of India by warrant under hand and seal, and holds office during the pleasure of the President.",
+      "explanation": "Under Article 155, the Governor of a State is appointed by the President of India by warrant under hand and seal, and holds office during the pleasure of the President.",
+      "expHi": "संविधान के अनुच्छेद 155 के अनुसार किसी राज्य के राज्यपाल की नियुक्ति भारत के राष्ट्रपति द्वारा की जाती है और वे राष्ट्रपति के प्रसादपर्यंत पद धारण करते हैं।",
+      "explanationHi": "संविधान के अनुच्छेद 155 के अनुसार किसी राज्य के राज्यपाल की नियुक्ति भारत के राष्ट्रपति द्वारा की जाती है और वे राष्ट्रपति के प्रसादपर्यंत पद धारण करते हैं।",
+      "hint": "Appointed under royal warrant by the President and holds office during their pleasure.",
+      "hintHi": "राष्ट्रपति के प्रसादपर्यंत पद पर रहते हैं।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_indian_polity_q16",
+      "q": "Directive Principles of State Policy (DPSP) are contained in which Part of the Constitution?",
+      "questionText": "Directive Principles of State Policy (DPSP) are contained in which Part of the Constitution?",
+      "qHi": "संविधान का कौन सा भाग राज्य के नीति निदेशक तत्वों से संबंधित है?",
+      "questionTextHi": "संविधान का कौन सा भाग राज्य के नीति निदेशक तत्वों से संबंधित है?",
+      "o": [
+        "Part II",
+        "Part III",
+        "Part IV (Articles 36-51)",
+        "Part IV-A"
+      ],
+      "options": [
+        "Part II",
+        "Part III",
+        "Part IV (Articles 36-51)",
+        "Part IV-A"
+      ],
+      "oHi": [
+        "भाग II",
+        "भाग III",
+        "भाग IV",
+        "भाग V"
+      ],
+      "optionsHi": [
+        "भाग II",
+        "भाग III",
+        "भाग IV",
+        "भाग V"
+      ],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Part IV (Articles 36 to 51) contains the Directive Principles of State Policy, inspired by the Irish Constitution, establishing the goal of a welfare state.",
+      "explanation": "Part IV (Articles 36 to 51) contains the Directive Principles of State Policy, inspired by the Irish Constitution, establishing the goal of a welfare state.",
+      "expHi": "राज्य के नीति निदेशक तत्व (DPSP) संविधान के भाग IV (अनुच्छेद 36 से 51) में हैं, जो आयरलैंड के संविधान से प्रेरित होकर कल्याणकारी राज्य की स्थापना का लक्ष्य रखते हैं।",
+      "explanationHi": "राज्य के नीति निदेशक तत्व (DPSP) संविधान के भाग IV (अनुच्छेद 36 से 51) में हैं, जो आयरलैंड के संविधान से प्रेरित होकर कल्याणकारी राज्य की स्थापना का लक्ष्य रखते हैं।",
+      "hint": "Inspired by the Constitution of Ireland; Articles 36 to 51.",
+      "hintHi": "आयरलैंड के संविधान से प्रेरित; अनुच्छेद 36 से 51।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_indian_polity_q17",
+      "q": "Which Constitutional Amendment lowered the voting age in India from 21 years to 18 years?",
+      "questionText": "Which Constitutional Amendment lowered the voting age in India from 21 years to 18 years?",
+      "qHi": "भारत में मतदान की आयु कितनी है?",
+      "questionTextHi": "भारत में मतदान की आयु कितनी है?",
+      "o": [
+        "42nd Amendment",
+        "61st Amendment (1988)",
+        "44th Amendment",
+        "73rd Amendment"
+      ],
+      "options": [
+        "42nd Amendment",
+        "61st Amendment (1988)",
+        "44th Amendment",
+        "73rd Amendment"
+      ],
+      "oHi": [
+        "16 वर्ष",
+        "18 वर्ष",
+        "21 वर्ष",
+        "25 वर्ष"
+      ],
+      "optionsHi": [
+        "16 वर्ष",
+        "18 वर्ष",
+        "21 वर्ष",
+        "25 वर्ष"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "The 61st Constitutional Amendment Act of 1988 (in force March 1989) amended Article 326 to reduce the universal adult suffrage voting age from 21 to 18 years.",
+      "explanation": "The 61st Constitutional Amendment Act of 1988 (in force March 1989) amended Article 326 to reduce the universal adult suffrage voting age from 21 to 18 years.",
+      "expHi": "61वें संविधान संशोधन अधिनियम, 1988 द्वारा अनुच्छेद 326 में संशोधन कर मतदान की न्यूनतम आयु 21 वर्ष से घटाकर 18 वर्ष की गई थी।",
+      "explanationHi": "61वें संविधान संशोधन अधिनियम, 1988 द्वारा अनुच्छेद 326 में संशोधन कर मतदान की न्यूनतम आयु 21 वर्ष से घटाकर 18 वर्ष की गई थी।",
+      "hint": "Enacted in 1988 under Prime Minister Rajiv Gandhi's tenure.",
+      "hintHi": "1988 में राजीव गांधी सरकार के समय पारित 61वाँ संशोधन।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_indian_polity_q18",
+      "q": "What was the maximum sanctioned constitutional strength of the Lok Sabha?",
+      "questionText": "What was the maximum sanctioned constitutional strength of the Lok Sabha?",
+      "qHi": "लोकसभा के सदस्यों की अधिकतम संख्या कितनी है?",
+      "questionTextHi": "लोकसभा के सदस्यों की अधिकतम संख्या कितनी है?",
+      "o": [
+        "545 Members",
+        "552 Members",
+        "500 Members",
+        "530 Members"
+      ],
+      "options": [
+        "545 Members",
+        "552 Members",
+        "500 Members",
+        "530 Members"
+      ],
+      "oHi": [
+        "545",
+        "552",
+        "500",
+        "530"
+      ],
+      "optionsHi": [
+        "545",
+        "552",
+        "500",
+        "530"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "The Constitution originally provided for up to 552 members in the Lok Sabha (530 from States, 20 from UTs, and 2 Anglo-Indian nominees). In 2019, the 104th Amendment discontinued Anglo-Indian nominations, making it 550.",
+      "explanation": "The Constitution originally provided for up to 552 members in the Lok Sabha (530 from States, 20 from UTs, and 2 Anglo-Indian nominees). In 2019, the 104th Amendment discontinued Anglo-Indian nominations, making it 550.",
+      "expHi": "संविधान में लोकसभा की अधिकतम संख्या 552 (530 राज्यों से, 20 संघ राज्य क्षेत्रों से तथा 2 आंग्ल-भारतीय) निर्धारित थी। 104वें संशोधन द्वारा आंग्ल-भारतीय मनोनयन समाप्त कर दिया गया।",
+      "explanationHi": "संविधान में लोकसभा की अधिकतम संख्या 552 (530 राज्यों से, 20 संघ राज्य क्षेत्रों से तथा 2 आंग्ल-भारतीय) निर्धारित थी। 104वें संशोधन द्वारा आंग्ल-भारतीय मनोनयन समाप्त कर दिया गया।",
+      "hint": "530 from States, 20 from UTs, and formerly 2 Anglo-Indians.",
+      "hintHi": "530 राज्यों से, 20 केंद्रशासित प्रदेशों से और पूर्व में 2 मनोनीत।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_indian_polity_q19",
+      "q": "The Parliamentary system and Rule of Law in the Indian Constitution are primarily modeled on which country's system?",
+      "questionText": "The Parliamentary system and Rule of Law in the Indian Constitution are primarily modeled on which country's system?",
+      "qHi": "भारत का संविधान किस देश से सबसे अधिक प्रभावित है?",
+      "questionTextHi": "भारत का संविधान किस देश से सबसे अधिक प्रभावित है?",
+      "o": [
+        "United States",
+        "United Kingdom (Britain)",
+        "France",
+        "Canada"
+      ],
+      "options": [
+        "United States",
+        "United Kingdom (Britain)",
+        "France",
+        "Canada"
+      ],
+      "oHi": [
+        "अमेरिका",
+        "ब्रिटेन",
+        "फ्रांस",
+        "कनाडा"
+      ],
+      "optionsHi": [
+        "अमेरिका",
+        "ब्रिटेन",
+        "फ्रांस",
+        "कनाडा"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "India adopted the Westminster model of Parliamentary democracy, Cabinet system, Bicameralism, and Rule of Law from the United Kingdom (Britain).",
+      "explanation": "India adopted the Westminster model of Parliamentary democracy, Cabinet system, Bicameralism, and Rule of Law from the United Kingdom (Britain).",
+      "expHi": "भारत ने संसदीय शासन प्रणाली, विधि का शासन, एकल नागरिकता और मंत्रिमंडलीय व्यवस्था मुख्य रूप से ब्रिटेन (यूनाइटेड किंगडम) के वेस्टमिंस्टर मॉडल से ग्रहण की है।",
+      "explanationHi": "भारत ने संसदीय शासन प्रणाली, विधि का शासन, एकल नागरिकता और मंत्रिमंडलीय व्यवस्था मुख्य रूप से ब्रिटेन (यूनाइटेड किंगडम) के वेस्टमिंस्टर मॉडल से ग्रहण की है।",
+      "hint": "The Westminster parliamentary model and cabinet governance.",
+      "hintHi": "वेस्टमिंस्टर संसदीय प्रणाली और विधि का शासन।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_indian_polity_q20",
+      "q": "Under Article 61 of the Constitution, what is the procedure to remove the President of India called?",
+      "questionText": "Under Article 61 of the Constitution, what is the procedure to remove the President of India called?",
+      "qHi": "राष्ट्रपति को हटाने की प्रक्रिया क्या कहलाती है?",
+      "questionTextHi": "राष्ट्रपति को हटाने की प्रक्रिया क्या कहलाती है?",
+      "o": [
+        "Impeachment (महाभियोग)",
+        "No-Confidence Motion",
+        "Emergency Declaration",
+        "Dissolution"
+      ],
+      "options": [
+        "Impeachment (महाभियोग)",
+        "No-Confidence Motion",
+        "Emergency Declaration",
+        "Dissolution"
+      ],
+      "oHi": [
+        "महाभियोग",
+        "अविश्वास प्रस्ताव",
+        "आपातकाल",
+        "विघटन"
+      ],
+      "optionsHi": [
+        "महाभियोग",
+        "अविश्वास प्रस्ताव",
+        "आपातकाल",
+        "विघटन"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Under Article 61, the President can be removed from office before term expiration only through the quasi-judicial process of 'Impeachment' for 'violation of the Constitution'.",
+      "explanation": "Under Article 61, the President can be removed from office before term expiration only through the quasi-judicial process of 'Impeachment' for 'violation of the Constitution'.",
+      "expHi": "संविधान के अनुच्छेद 61 के तहत संविधान के उल्लंघन के आधार पर राष्ट्रपति पर 'महाभियोग' (Impeachment) प्रक्रिया चलाकर उन्हें पद से हटाया जा सकता है।",
+      "explanationHi": "संविधान के अनुच्छेद 61 के तहत संविधान के उल्लंघन के आधार पर राष्ट्रपति पर 'महाभियोग' (Impeachment) प्रक्रिया चलाकर उन्हें पद से हटाया जा सकता है।",
+      "hint": "Carried out by both Houses of Parliament with a two-thirds majority.",
+      "hintHi": "संसद के दोनों सदनों द्वारा विशेष दो-तिहाई बहुमत से पारित प्रक्रिया।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA",
+        "RRB"
+      ]
     }
-  ]
+  ],
+  "questionCount": 14
 }

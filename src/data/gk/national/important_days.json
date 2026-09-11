@@ -31,26 +31,285 @@
   ],
   "mcqs": [
     {
+      "id": "gk_nat_important_days_q1",
       "q": "National Youth Day is celebrated on 12 January every year across India in honor of the birth anniversary of which icon?",
+      "questionText": "National Youth Day is celebrated on 12 January every year across India in honor of the birth anniversary of which icon?",
+      "qHi": "प्रतिवर्ष 12 जनवरी को 'राष्ट्रीय युवा दिवस' किस महान भारतीय दार्शनिक और संन्यासी की जयंती पर मनाया जाता है?",
+      "questionTextHi": "प्रतिवर्ष 12 जनवरी को 'राष्ट्रीय युवा दिवस' किस महान भारतीय दार्शनिक और संन्यासी की जयंती पर मनाया जाता है?",
       "o": [
         "Swami Vivekananda",
         "Bhagat Singh",
         "Subhas Chandra Bose",
         "Rabindranath Tagore"
       ],
+      "options": [
+        "Swami Vivekananda",
+        "Bhagat Singh",
+        "Subhas Chandra Bose",
+        "Rabindranath Tagore"
+      ],
+      "oHi": [
+        "स्वामी विवेकानंद",
+        "रामकृष्ण परमहंस",
+        "श्री अरबिंदो",
+        "भगत सिंह"
+      ],
+      "optionsHi": [
+        "स्वामी विवेकानंद",
+        "रामकृष्ण परमहंस",
+        "श्री अरबिंदो",
+        "भगत सिंह"
+      ],
       "a": 0,
-      "exp": "Government of India declared Swami Vivekananda's birth date (12 January) as National Youth Day in 1984."
+      "correctIndex": 0,
+      "exp": "Government of India declared Swami Vivekananda's birth date (12 January) as National Youth Day in 1984.",
+      "explanation": "Government of India declared Swami Vivekananda's birth date (12 January) as National Youth Day in 1984.",
+      "expHi": "भारत सरकार ने 1984 में स्वामी विवेकानंद के जन्मदिन 12 जनवरी को युवाओं के लिए प्रेरणास्रोत के रूप में राष्ट्रीय युवा दिवस घोषित किया।",
+      "explanationHi": "भारत सरकार ने 1984 में स्वामी विवेकानंद के जन्मदिन 12 जनवरी को युवाओं के लिए प्रेरणास्रोत के रूप में राष्ट्रीय युवा दिवस घोषित किया।",
+      "hint": "Consider the established historical and constitutional facts of Important National Days.",
+      "hintHi": "उन्होंने 1893 में शिकागो की विश्व धर्म संसद में ऐतिहासिक भाषण दिया था।",
+      "difficulty": "medium",
+      "examTags": [
+        "ssc_cgl",
+        "upsc_csat",
+        "railway",
+        "banking_ga"
+      ]
     },
     {
+      "id": "gk_nat_important_days_q2",
       "q": "National Unity Day (Rashtriya Ekta Diwas) on October 31 marks the birth anniversary of which architect of Indian national integration?",
+      "questionText": "National Unity Day (Rashtriya Ekta Diwas) on October 31 marks the birth anniversary of which architect of Indian national integration?",
+      "qHi": "31 अक्टूबर को 'राष्ट्रीय एकता दिवस' (National Unity Day) 565 से अधिक रियासतों का भारत संघ में एकीकरण करने वाले किस लौह पुरुष की स्मृति में मनाया जाता है?",
+      "questionTextHi": "31 अक्टूबर को 'राष्ट्रीय एकता दिवस' (National Unity Day) 565 से अधिक रियासतों का भारत संघ में एकीकरण करने वाले किस लौह पुरुष की स्मृति में मनाया जाता है?",
       "o": [
         "Sardar Vallabhbhai Patel",
         "B. R. Ambedkar",
         "Jawaharlal Nehru",
         "Lal Bahadur Shastri"
       ],
+      "options": [
+        "Sardar Vallabhbhai Patel",
+        "B. R. Ambedkar",
+        "Jawaharlal Nehru",
+        "Lal Bahadur Shastri"
+      ],
+      "oHi": [
+        "सरदार वल्लभभाई पटेल",
+        "सुभाष चंद्र बोस",
+        "डॉ. बी.आर. अंबेडकर",
+        "लाला लाजपत राय"
+      ],
+      "optionsHi": [
+        "सरदार वल्लभभाई पटेल",
+        "सुभाष चंद्र बोस",
+        "डॉ. बी.आर. अंबेडकर",
+        "लाला लाजपत राय"
+      ],
       "a": 0,
-      "exp": "National Unity Day honors the Iron Man of India, Sardar Patel, who unified over 560 princely states into the Indian Union."
+      "correctIndex": 0,
+      "exp": "National Unity Day honors the Iron Man of India, Sardar Patel, who unified over 560 princely states into the Indian Union.",
+      "explanation": "National Unity Day honors the Iron Man of India, Sardar Patel, who unified over 560 princely states into the Indian Union.",
+      "expHi": "भारत के पहले उप-प्रधानमंत्री और गृह मंत्री सरदार वल्लभभाई पटेल ('लौह पुरुष') की जयंती 31 अक्टूबर को 2014 से राष्ट्रीय एकता दिवस के रूप में मनाई जाती है।",
+      "explanationHi": "भारत के पहले उप-प्रधानमंत्री और गृह मंत्री सरदार वल्लभभाई पटेल ('लौह पुरुष') की जयंती 31 अक्टूबर को 2014 से राष्ट्रीय एकता दिवस के रूप में मनाई जाती है।",
+      "hint": "Consider the established historical and constitutional facts of Important National Days.",
+      "hintHi": "इन्हें 'भारत का बिस्मार्क' और 'लौह पुरुष' कहा जाता है।",
+      "difficulty": "medium",
+      "examTags": [
+        "ssc_cgl",
+        "upsc_csat",
+        "railway",
+        "banking_ga"
+      ]
+    },
+    {
+      "id": "gk_nat_important_days_exp_9",
+      "q": "National Science Day (राष्ट्रीय विज्ञान दिवस) is celebrated every year on 28 February in India to commemorate what event?",
+      "questionText": "National Science Day (राष्ट्रीय विज्ञान दिवस) is celebrated every year on 28 February in India to commemorate what event?",
+      "qHi": "भारत में प्रतिवर्ष 28 फरवरी को 'राष्ट्रीय विज्ञान दिवस' किस ऐतिहासिक वैज्ञानिक उपलब्धि की स्मृति में मनाया जाता है?",
+      "questionTextHi": "भारत में प्रतिवर्ष 28 फरवरी को 'राष्ट्रीय विज्ञान दिवस' किस ऐतिहासिक वैज्ञानिक उपलब्धि की स्मृति में मनाया जाता है?",
+      "o": [
+        "Discovery of the Raman Effect by Sir C. V. Raman (1928)",
+        "Birth anniversary of APJ Abdul Kalam",
+        "Launch of Aryabhata satellite",
+        "Founding of ISRO"
+      ],
+      "options": [
+        "Discovery of the Raman Effect by Sir C. V. Raman (1928)",
+        "Birth anniversary of APJ Abdul Kalam",
+        "Launch of Aryabhata satellite",
+        "Founding of ISRO"
+      ],
+      "oHi": [
+        "सर सी.वी. रमन द्वारा 'रमन प्रभाव' की खोज (1928)",
+        "डॉ. कलाम का जन्मदिवस",
+        "आर्यभट्ट उपग्रह का प्रक्षेपण",
+        "इसरो की स्थापना"
+      ],
+      "optionsHi": [
+        "सर सी.वी. रमन द्वारा 'रमन प्रभाव' की खोज (1928)",
+        "डॉ. कलाम का जन्मदिवस",
+        "आर्यभट्ट उपग्रह का प्रक्षेपण",
+        "इसरो की स्थापना"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "National Science Day is celebrated on 28 February to mark the discovery of the 'Raman Effect' by Sir C.V. Raman in 1928, for which he was awarded the Nobel Prize in Physics in 1930.",
+      "explanation": "National Science Day is celebrated on 28 February to mark the discovery of the 'Raman Effect' by Sir C.V. Raman in 1928, for which he was awarded the Nobel Prize in Physics in 1930.",
+      "expHi": "सर सी.वी. रमन ने 28 फरवरी 1928 को 'रमन प्रभाव' की खोज की थी, जिसके लिए उन्हें 1930 में भौतिकी का नोबेल पुरस्कार मिला। भारत सरकार ने 1986 में 28 फरवरी को राष्ट्रीय विज्ञान दिवस घोषित किया।",
+      "explanationHi": "सर सी.वी. रमन ने 28 फरवरी 1928 को 'रमन प्रभाव' की खोज की थी, जिसके लिए उन्हें 1930 में भौतिकी का नोबेल पुरस्कार मिला। भारत सरकार ने 1986 में 28 फरवरी को राष्ट्रीय विज्ञान दिवस घोषित किया।",
+      "hint": "Commemorates the discovery for which Raman received the 1930 Nobel Prize.",
+      "hintHi": "रमन प्रभाव की खोज 28 फरवरी 1928 को की गई थी।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "Banking",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_important_days_exp_10",
+      "q": "National Voters' Day is celebrated across India on which date, commemorating the foundation of the Election Commission of India (ECI)?",
+      "questionText": "National Voters' Day is celebrated across India on which date, commemorating the foundation of the Election Commission of India (ECI)?",
+      "qHi": "भारत निर्वाचन आयोग (ECI) की स्थापना की स्मृति में प्रतिवर्ष 25 जनवरी को कौन सा राष्ट्रीय दिवस मनाया जाता है?",
+      "questionTextHi": "भारत निर्वाचन आयोग (ECI) की स्थापना की स्मृति में प्रतिवर्ष 25 जनवरी को कौन सा राष्ट्रीय दिवस मनाया जाता है?",
+      "o": [
+        "25 January (National Voters' Day)",
+        "26 November",
+        "24 January",
+        "28 February"
+      ],
+      "options": [
+        "25 January (National Voters' Day)",
+        "26 November",
+        "24 January",
+        "28 February"
+      ],
+      "oHi": [
+        "25 जनवरी (राष्ट्रीय मतदाता दिवस)",
+        "26 नवंबर",
+        "24 जनवरी",
+        "28 फरवरी"
+      ],
+      "optionsHi": [
+        "25 जनवरी (राष्ट्रीय मतदाता दिवस)",
+        "26 नवंबर",
+        "24 जनवरी",
+        "28 फरवरी"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "National Voters' Day has been observed annually on 25 January since 2011 to mark the founding anniversary of the Election Commission of India on 25 January 1950 and encourage democratic electoral participation.",
+      "explanation": "National Voters' Day has been observed annually on 25 January since 2011 to mark the founding anniversary of the Election Commission of India on 25 January 1950 and encourage democratic electoral participation.",
+      "expHi": "25 जनवरी 1950 को भारत निर्वाचन आयोग (ECI) की स्थापना हुई थी। युवाओं को मतदान के प्रति जागरूक करने के लिए 2011 से प्रतिवर्ष 25 जनवरी को 'राष्ट्रीय मतदाता दिवस' मनाया जाता है।",
+      "explanationHi": "25 जनवरी 1950 को भारत निर्वाचन आयोग (ECI) की स्थापना हुई थी। युवाओं को मतदान के प्रति जागरूक करने के लिए 2011 से प्रतिवर्ष 25 जनवरी को 'राष्ट्रीय मतदाता दिवस' मनाया जाता है।",
+      "hint": "Marked since 2011, one day before Republic Day.",
+      "hintHi": "गणतंत्र दिवस से ठीक एक दिन पहले 25 जनवरी को मनाया जाता है।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "Banking",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_important_days_exp_11",
+      "q": "National Youth Day (राष्ट्रीय युवा दिवस) is observed across India on 12 January to honor the birth anniversary of which spiritual leader?",
+      "questionText": "National Youth Day (राष्ट्रीय युवा दिवस) is observed across India on 12 January to honor the birth anniversary of which spiritual leader?",
+      "qHi": "प्रतिवर्ष 12 जनवरी को 'राष्ट्रीय युवा दिवस' किस महान दार्शनिक और आध्यात्मिक युगपुरुष के जन्मदिवस पर मनाया जाता है?",
+      "questionTextHi": "प्रतिवर्ष 12 जनवरी को 'राष्ट्रीय युवा दिवस' किस महान दार्शनिक और आध्यात्मिक युगपुरुष के जन्मदिवस पर मनाया जाता है?",
+      "o": [
+        "Swami Vivekananda",
+        "Swami Dayananda Saraswati",
+        "Ramakrishna Paramahamsa",
+        "Sri Aurobindo"
+      ],
+      "options": [
+        "Swami Vivekananda",
+        "Swami Dayananda Saraswati",
+        "Ramakrishna Paramahamsa",
+        "Sri Aurobindo"
+      ],
+      "oHi": [
+        "स्वामी विवेकानंद",
+        "स्वामी दयानंद सरस्वती",
+        "रामकृष्ण परमहंस",
+        "श्री अरविंदो"
+      ],
+      "optionsHi": [
+        "स्वामी विवेकानंद",
+        "स्वामी दयानंद सरस्वती",
+        "रामकृष्ण परमहंस",
+        "श्री अरविंदो"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "National Youth Day is observed on 12 January, the birth anniversary of Swami Vivekananda (born 12 January 1863), who galvanized youth worldwide at the 1893 Parliament of Religions in Chicago.",
+      "explanation": "National Youth Day is observed on 12 January, the birth anniversary of Swami Vivekananda (born 12 January 1863), who galvanized youth worldwide at the 1893 Parliament of Religions in Chicago.",
+      "expHi": "1893 के शिकागो विश्व धर्म सम्मेलन में भारतीय संस्कृति का डंका बजाने वाले स्वामी विवेकानंद (जन्म 12 जनवरी 1863) के जन्मदिवस को 1985 से प्रतिवर्ष 'राष्ट्रीय युवा दिवस' के रूप में मनाया जाता है।",
+      "explanationHi": "1893 के शिकागो विश्व धर्म सम्मेलन में भारतीय संस्कृति का डंका बजाने वाले स्वामी विवेकानंद (जन्म 12 जनवरी 1863) के जन्मदिवस को 1985 से प्रतिवर्ष 'राष्ट्रीय युवा दिवस' के रूप में मनाया जाता है।",
+      "hint": "Famous for his historic 1893 Chicago Parliament of Religions address.",
+      "hintHi": "1893 के शिकागो धर्म सम्मेलन में 'भाइयों और बहनों' से संबोधन शुरू करने वाले महापुरुष।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "Banking",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_important_days_exp_12",
+      "q": "Samvidhan Diwas (Constitution Day) is celebrated annually on which date to mark the adoption of the Constitution by the Constituent Assembly?",
+      "questionText": "Samvidhan Diwas (Constitution Day) is celebrated annually on which date to mark the adoption of the Constitution by the Constituent Assembly?",
+      "qHi": "संविधान सभा द्वारा संविधान को अंगीकृत किए जाने के उपलक्ष्य में प्रतिवर्ष 'संविधान दिवस' किस तिथि को मनाया जाता है?",
+      "questionTextHi": "संविधान सभा द्वारा संविधान को अंगीकृत किए जाने के उपलक्ष्य में प्रतिवर्ष 'संविधान दिवस' किस तिथि को मनाया जाता है?",
+      "o": [
+        "26 November (26 नवंबर)",
+        "26 January",
+        "15 August",
+        "2 October"
+      ],
+      "options": [
+        "26 November (26 नवंबर)",
+        "26 January",
+        "15 August",
+        "2 October"
+      ],
+      "oHi": [
+        "26 नवंबर",
+        "26 जनवरी",
+        "15 अगस्त",
+        "2 अक्टूबर"
+      ],
+      "optionsHi": [
+        "26 नवंबर",
+        "26 जनवरी",
+        "15 अगस्त",
+        "2 अक्टूबर"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "On 26 November 1949, the Constituent Assembly of India adopted the Constitution of India. In 2015 (Dr. B.R. Ambedkar's 125th birth anniversary year), the Government of India declared 26 November as Constitution Day.",
+      "explanation": "On 26 November 1949, the Constituent Assembly of India adopted the Constitution of India. In 2015 (Dr. B.R. Ambedkar's 125th birth anniversary year), the Government of India declared 26 November as Constitution Day.",
+      "expHi": "26 नवंबर 1949 को संविधान सभा ने भारतीय संविधान को अंगीकृत, अधिनियमित और आत्मार्पित किया था। 2015 से प्रतिवर्ष 26 नवंबर को 'संविधान दिवस' मनाया जाता है।",
+      "explanationHi": "26 नवंबर 1949 को संविधान सभा ने भारतीय संविधान को अंगीकृत, अधिनियमित और आत्मार्पित किया था। 2015 से प्रतिवर्ष 26 नवंबर को 'संविधान दिवस' मनाया जाता है।",
+      "hint": "Not Republic Day (26 Jan), but the date of its formal adoption in 1949.",
+      "hintHi": "26 नवंबर 1949 को संविधान अंगीकृत किया गया था।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "Banking",
+        "RRB"
+      ]
     }
-  ]
+  ],
+  "questionCount": 2
 }

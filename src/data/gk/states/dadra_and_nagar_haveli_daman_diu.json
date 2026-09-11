@@ -31,26 +31,98 @@
   "schemes": "PM Awas Yojana (Urban & Rural), Integrated Island Development",
   "mcqs": [
     {
+      "id": "gk_state_dadra_and_nagar_haveli_daman_diu_q1",
       "q": "Which historic sea-facing Portuguese fort in this Union Territory was besieged during the Battle of Diu in 1509 and 1538?",
+      "questionText": "Which historic sea-facing Portuguese fort in this Union Territory was besieged during the Battle of Diu in 1509 and 1538?",
+      "qHi": "1535 में अरब सागर के तट पर पुर्तगालियों द्वारा निर्मित कौन सा ऐतिहासिक समुद्री किला इस केंद्र शासित प्रदेश में स्थित है?",
+      "questionTextHi": "1535 में अरब सागर के तट पर पुर्तगालियों द्वारा निर्मित कौन सा ऐतिहासिक समुद्री किला इस केंद्र शासित प्रदेश में स्थित है?",
       "o": [
         "Diu Fort",
         "Aguada Fort",
         "Chaul Fort",
         "Bassein Fort"
       ],
+      "options": [
+        "Diu Fort",
+        "Aguada Fort",
+        "Chaul Fort",
+        "Bassein Fort"
+      ],
+      "oHi": [
+        "दीव का किला",
+        "अगुआड़ा किला",
+        "जंजीरा किला",
+        "बेकल किला"
+      ],
+      "optionsHi": [
+        "दीव का किला",
+        "अगुआड़ा किला",
+        "जंजीरा किला",
+        "बेकल किला"
+      ],
       "a": 0,
-      "exp": "Diu Fort is an imposing 16th-century fortress situated on the western coast commanding the Gulf of Khambhat."
+      "correctIndex": 0,
+      "exp": "Diu Fort is an imposing 16th-century fortress situated on the western coast commanding the Gulf of Khambhat.",
+      "explanation": "Diu Fort is an imposing 16th-century fortress situated on the western coast commanding the Gulf of Khambhat.",
+      "expHi": "दीव का किला 1535 में गुजरात के सुल्तान बहादुर शाह के साथ संधि के बाद पुर्तगालियों द्वारा निर्मित एक विशाल बलुआ पत्थर का तटीय किला है।",
+      "explanationHi": "दीव का किला 1535 में गुजरात के सुल्तान बहादुर शाह के साथ संधि के बाद पुर्तगालियों द्वारा निर्मित एक विशाल बलुआ पत्थर का तटीय किला है।",
+      "hint": "Reflect upon the geographic, political, and cultural heritage of Dadra and Nagar Haveli and Daman and Diu.",
+      "hintHi": "यह दीव द्वीप के पूर्वी सिरे पर स्थित है।",
+      "difficulty": "medium",
+      "lastVerified": "2026-01-01",
+      "examTags": [
+        "ssc_cgl",
+        "state_psc",
+        "railway",
+        "police"
+      ]
     },
     {
+      "id": "gk_state_dadra_and_nagar_haveli_daman_diu_q2",
       "q": "Tarpa dance, played with a wind instrument made from dried bottle gourd and bamboo, is celebrated by which indigenous tribe of Dadra and Nagar Haveli?",
+      "questionText": "Tarpa dance, played with a wind instrument made from dried bottle gourd and bamboo, is celebrated by which indigenous tribe of Dadra and Nagar Haveli?",
+      "qHi": "दादरा और नगर हवेली में सूखे कद्दू और बांस से बने वाद्य यंत्र 'तारपा' पर कौन सी स्थानीय जनजाति नृत्य करती है?",
+      "questionTextHi": "दादरा और नगर हवेली में सूखे कद्दू और बांस से बने वाद्य यंत्र 'तारपा' पर कौन सी स्थानीय जनजाति नृत्य करती है?",
       "o": [
         "Warli",
         "Gond",
         "Bhil",
         "Santhal"
       ],
+      "options": [
+        "Warli",
+        "Gond",
+        "Bhil",
+        "Santhal"
+      ],
+      "oHi": [
+        "वारली (Warli)",
+        "भील",
+        "गोंड",
+        "संथाल"
+      ],
+      "optionsHi": [
+        "वारली (Warli)",
+        "भील",
+        "गोंड",
+        "संथाल"
+      ],
       "a": 0,
-      "exp": "The Warli and Kokna tribes perform the Tarpa dance in a circular chain holding each other around the musician."
+      "correctIndex": 0,
+      "exp": "The Warli and Kokna tribes perform the Tarpa dance in a circular chain holding each other around the musician.",
+      "explanation": "The Warli and Kokna tribes perform the Tarpa dance in a circular chain holding each other around the musician.",
+      "expHi": "वारली, कोंकणा और धोडिया जनजातियां तारपा वाद्ययंत्र की धुन पर हाथ पकड़कर सर्पिलाकार घेरे में तारपा नृत्य करती हैं।",
+      "explanationHi": "वारली, कोंकणा और धोडिया जनजातियां तारपा वाद्ययंत्र की धुन पर हाथ पकड़कर सर्पिलाकार घेरे में तारपा नृत्य करती हैं।",
+      "hint": "Reflect upon the geographic, political, and cultural heritage of Dadra and Nagar Haveli and Daman and Diu.",
+      "hintHi": "यह अपनी प्रसिद्ध ज्यामितीय आदिवासी चित्रकला के लिए भी जानी जाती है।",
+      "difficulty": "medium",
+      "lastVerified": "2026-01-01",
+      "examTags": [
+        "ssc_cgl",
+        "state_psc",
+        "railway",
+        "police"
+      ]
     }
   ],
   "subtopics": [
@@ -261,5 +333,6 @@
         }
       ]
     }
-  ]
+  ],
+  "mcqCount": 2
 }

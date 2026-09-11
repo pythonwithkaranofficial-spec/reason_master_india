@@ -31,65 +31,64 @@ export default function StateGKHubPage() {
   const utCount = ALL_STATES_SUMMARY.filter((s) => s.type === "ut").length;
 
   return (
-    <div style={{ paddingBottom: "var(--space-12)" }}>
+    <div className="container" style={{ paddingTop: "var(--space-6)", paddingBottom: "var(--space-16)" }}>
       {/* Breadcrumb & Header Banner */}
-      <section
+      <div
+        className="rm-card"
         style={{
-          padding: "var(--space-6) 0 var(--space-6)",
-          borderBottom: "1px solid var(--border-color)",
+          padding: "var(--space-8)",
+          marginBottom: "var(--space-8)",
           backgroundColor: "var(--bg-surface)",
         }}
       >
-        <div className="container" style={{ maxWidth: "1200px", margin: "0 auto", padding: "0 var(--space-4)" }}>
-          <Breadcrumb
-            items={[
-              { label: "GK Hub", href: "/gk" },
-              { label: "States & UTs" },
-            ]}
-          />
+        <Breadcrumb
+          items={[
+            { label: "GK Hub", href: "/gk" },
+            { label: "States & UTs" },
+          ]}
+        />
 
-          <div style={{ marginTop: "var(--space-4)", maxWidth: "800px" }}>
-            <div
-              style={{
-                display: "inline-flex",
-                alignItems: "center",
-                gap: "6px",
-                fontSize: "0.8rem",
-                fontWeight: 600,
-                color: "var(--color-primary)",
-                backgroundColor: "var(--color-primary-subtle)",
-                padding: "3px 10px",
-                borderRadius: "9999px",
-                marginBottom: "var(--space-2)",
-                border: "1px solid var(--border-color)",
-              }}
-            >
-              <MapPin size={13} />
-              <span>36 Administrative Units</span>
-            </div>
-
-            <h1
-              style={{
-                fontSize: "clamp(1.8rem, 3.5vw, 2.4rem)",
-                fontWeight: 800,
-                color: "var(--text-primary)",
-                letterSpacing: "-0.02em",
-                lineHeight: 1.2,
-                marginBottom: "var(--space-2)",
-              }}
-            >
-              India&apos;s States &amp; Union Territories
-            </h1>
-
-            <p style={{ fontSize: "1.05rem", color: "var(--text-secondary)", lineHeight: 1.5 }}>
-              Comprehensive, authentic repository for all 28 States and 8 Union Territories. Each state profile includes 6 standardized subtopics with verified officeholders and exam practice MCQs.
-            </p>
+        <div style={{ marginTop: "var(--space-4)", maxWidth: "800px" }}>
+          <div
+            style={{
+              display: "inline-flex",
+              alignItems: "center",
+              gap: "6px",
+              fontSize: "0.8rem",
+              fontWeight: 600,
+              color: "var(--color-primary)",
+              backgroundColor: "var(--color-primary-subtle)",
+              padding: "3px 10px",
+              borderRadius: "9999px",
+              marginBottom: "var(--space-2)",
+              border: "1px solid var(--border-color)",
+            }}
+          >
+            <MapPin size={13} />
+            <span>36 Administrative Units</span>
           </div>
+
+          <h1
+            style={{
+              fontSize: "clamp(1.8rem, 3.5vw, 2.4rem)",
+              fontWeight: 800,
+              color: "var(--text-primary)",
+              letterSpacing: "-0.02em",
+              lineHeight: 1.2,
+              marginBottom: "var(--space-2)",
+            }}
+          >
+            India&apos;s States &amp; Union Territories
+          </h1>
+
+          <p style={{ fontSize: "1.05rem", color: "var(--text-secondary)", lineHeight: 1.5 }}>
+            Comprehensive, authentic repository for all 28 States and 8 Union Territories. Each state profile includes 6 standardized subtopics with verified officeholders and exam practice MCQs.
+          </p>
         </div>
-      </section>
+      </div>
 
       {/* Main Content Area */}
-      <div className="container" style={{ maxWidth: "1200px", margin: "0 auto", padding: "var(--space-6) var(--space-4) 0" }}>
+      <div>
         {/* Controls Bar: Search & Type Filter Tabs */}
         <div
           style={{

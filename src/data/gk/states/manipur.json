@@ -30,26 +30,98 @@
   "schemes": "Chief Minister-gi Hakshelgi Tengbang (CMHT), Go to Hills Mission",
   "mcqs": [
     {
+      "id": "gk_state_manipur_q1",
       "q": "Which is the only floating national park in the world, located on Loktak Lake in Manipur?",
+      "questionText": "Which is the only floating national park in the world, located on Loktak Lake in Manipur?",
+      "qHi": "लोकटक झील पर तैरते फुमडियों पर स्थित दुनिया का एकमात्र तैरता हुआ राष्ट्रीय उद्यान कौन सा है?",
+      "questionTextHi": "लोकटक झील पर तैरते फुमडियों पर स्थित दुनिया का एकमात्र तैरता हुआ राष्ट्रीय उद्यान कौन सा है?",
       "o": [
         "Keibul Lamjao National Park",
         "Nokrek National Park",
         "Balphakram National Park",
         "Phawngpui National Park"
       ],
+      "options": [
+        "Keibul Lamjao National Park",
+        "Nokrek National Park",
+        "Balphakram National Park",
+        "Phawngpui National Park"
+      ],
+      "oHi": [
+        "केइबुल लामजाओ राष्ट्रीय उद्यान",
+        "सिरोही राष्ट्रीय उद्यान",
+        "नोकरेक राष्ट्रीय उद्यान",
+        "बालपक्रम राष्ट्रीय उद्यान"
+      ],
+      "optionsHi": [
+        "केइबुल लामजाओ राष्ट्रीय उद्यान",
+        "सिरोही राष्ट्रीय उद्यान",
+        "नोकरेक राष्ट्रीय उद्यान",
+        "बालपक्रम राष्ट्रीय उद्यान"
+      ],
       "a": 0,
-      "exp": "Keibul Lamjao National Park is composed of floating biomass islands called phumdis and is the last sanctuary of the dancing Sangai deer."
+      "correctIndex": 0,
+      "exp": "Keibul Lamjao National Park is composed of floating biomass islands called phumdis and is the last sanctuary of the dancing Sangai deer.",
+      "explanation": "Keibul Lamjao National Park is composed of floating biomass islands called phumdis and is the last sanctuary of the dancing Sangai deer.",
+      "expHi": "केइबुल लामजाओ दुनिया का एकमात्र तैरता हुआ राष्ट्रीय उद्यान है और मणिपुर के राज्य पशु संगाई (ब्रो-एंटलर्ड डियर) का एकमात्र प्राकृतिक आवास है।",
+      "explanationHi": "केइबुल लामजाओ दुनिया का एकमात्र तैरता हुआ राष्ट्रीय उद्यान है और मणिपुर के राज्य पशु संगाई (ब्रो-एंटलर्ड डियर) का एकमात्र प्राकृतिक आवास है।",
+      "hint": "Reflect upon the geographic, political, and cultural heritage of Manipur.",
+      "hintHi": "यह संगाई हिरण का एकमात्र प्राकृतिक घर है।",
+      "difficulty": "medium",
+      "lastVerified": "2026-01-01",
+      "examTags": [
+        "ssc_cgl",
+        "state_psc",
+        "railway",
+        "police"
+      ]
     },
     {
+      "id": "gk_state_manipur_q2",
       "q": "At which town in Manipur did Netaji Subhas Chandra Bose's Indian National Army (INA) first hoist the tricolor on Indian mainland soil on 14 April 1944?",
+      "questionText": "At which town in Manipur did Netaji Subhas Chandra Bose's Indian National Army (INA) first hoist the tricolor on Indian mainland soil on 14 April 1944?",
+      "qHi": "नेताजी सुभाष चंद्र बोस की आजाद हिंद फौज (INA) ने 14 अप्रैल 1944 को भारतीय मुख्य भूमि पर पहली बार तिरंगा कहाँ फहराया था?",
+      "questionTextHi": "नेताजी सुभाष चंद्र बोस की आजाद हिंद फौज (INA) ने 14 अप्रैल 1944 को भारतीय मुख्य भूमि पर पहली बार तिरंगा कहाँ फहराया था?",
       "o": [
         "Moirang",
         "Imphal",
         "Churachandpur",
         "Ukhrul"
       ],
+      "options": [
+        "Moirang",
+        "Imphal",
+        "Churachandpur",
+        "Ukhrul"
+      ],
+      "oHi": [
+        "मोइरांग",
+        "इम्फाल",
+        "चुराचांदपुर",
+        "उखरूल"
+      ],
+      "optionsHi": [
+        "मोइरांग",
+        "इम्फाल",
+        "चुराचांदपुर",
+        "उखरूल"
+      ],
       "a": 0,
-      "exp": "Colonel Shaukat Malik of the INA hoisted the Indian National Flag at Moirang on 14 April 1944."
+      "correctIndex": 0,
+      "exp": "Colonel Shaukat Malik of the INA hoisted the Indian National Flag at Moirang on 14 April 1944.",
+      "explanation": "Colonel Shaukat Malik of the INA hoisted the Indian National Flag at Moirang on 14 April 1944.",
+      "expHi": "कर्नल शौकत मलिक के नेतृत्व में आईएनए (INA) के सैनिकों ने 14 अप्रैल 1944 को मणिपुर के मोइरांग में पहली बार भारतीय तिरंगा फहराया था।",
+      "explanationHi": "कर्नल शौकत मलिक के नेतृत्व में आईएनए (INA) के सैनिकों ने 14 अप्रैल 1944 को मणिपुर के मोइरांग में पहली बार भारतीय तिरंगा फहराया था।",
+      "hint": "Reflect upon the geographic, political, and cultural heritage of Manipur.",
+      "hintHi": "यहाँ आईएनए का प्रसिद्ध युद्ध स्मारक और संग्रहालय स्थित है।",
+      "difficulty": "medium",
+      "lastVerified": "2026-01-01",
+      "examTags": [
+        "ssc_cgl",
+        "state_psc",
+        "railway",
+        "police"
+      ]
     }
   ],
   "subtopics": [
@@ -272,5 +344,6 @@
         }
       ]
     }
-  ]
+  ],
+  "mcqCount": 2
 }

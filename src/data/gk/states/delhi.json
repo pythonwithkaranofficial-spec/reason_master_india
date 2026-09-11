@@ -33,26 +33,98 @@
   "schemes": "Mukhyamantri Mahila Samman Yojana, Free Bus Travel for Women, Delhi Solar Policy",
   "mcqs": [
     {
+      "id": "gk_state_delhi_q1",
       "q": "Which monument in Delhi was the first garden-tomb on the Indian subcontinent and inspired the architecture of the Taj Mahal?",
+      "questionText": "Which monument in Delhi was the first garden-tomb on the Indian subcontinent and inspired the architecture of the Taj Mahal?",
+      "qHi": "दिल्ली का कौन सा स्मारक भारतीय उपमहाद्वीप में निर्मित पहला चारबाग शैली का 'उद्यान-मकबरा' था?",
+      "questionTextHi": "दिल्ली का कौन सा स्मारक भारतीय उपमहाद्वीप में निर्मित पहला चारबाग शैली का 'उद्यान-मकबरा' था?",
       "o": [
         "Humayun's Tomb",
         "Safdarjung Tomb",
         "Qutub Minar",
         "Tomb of Iltutmish"
       ],
+      "options": [
+        "Humayun's Tomb",
+        "Safdarjung Tomb",
+        "Qutub Minar",
+        "Tomb of Iltutmish"
+      ],
+      "oHi": [
+        "हुमायूँ का मकबरा",
+        "सफदरजंग का मकबरा",
+        "कुतुब मीनार",
+        "लाल किला"
+      ],
+      "optionsHi": [
+        "हुमायूँ का मकबरा",
+        "सफदरजंग का मकबरा",
+        "कुतुब मीनार",
+        "लाल किला"
+      ],
       "a": 0,
-      "exp": "Humayun's Tomb, built in 1569-70 by his widow Bega Begum (Haji Begum), is a designated UNESCO World Heritage Site."
+      "correctIndex": 0,
+      "exp": "Humayun's Tomb, built in 1569-70 by his widow Bega Begum (Haji Begum), is a designated UNESCO World Heritage Site.",
+      "explanation": "Humayun's Tomb, built in 1569-70 by his widow Bega Begum (Haji Begum), is a designated UNESCO World Heritage Site.",
+      "expHi": "मिराक मिर्जा गियाथ द्वारा डिजाइन किया गया हुमायूँ का मकबरा (1570) भारत का पहला चारबाग शैली का मकबरा था और बाद में ताजमहल के निर्माण की प्रेरणा बना।",
+      "explanationHi": "मिराक मिर्जा गियाथ द्वारा डिजाइन किया गया हुमायूँ का मकबरा (1570) भारत का पहला चारबाग शैली का मकबरा था और बाद में ताजमहल के निर्माण की प्रेरणा बना।",
+      "hint": "Reflect upon the geographic, political, and cultural heritage of Delhi (NCT).",
+      "hintHi": "यह बाद में आगरा के ताजमहल के स्थापत्य का अग्रदूत बना।",
+      "difficulty": "medium",
+      "lastVerified": "2026-01-01",
+      "examTags": [
+        "ssc_cgl",
+        "state_psc",
+        "railway",
+        "police"
+      ]
     },
     {
+      "id": "gk_state_delhi_q2",
       "q": "Through which Constitutional Amendment Act was Delhi designated as the 'National Capital Territory of Delhi' (NCT) with a Legislative Assembly in 1991?",
+      "questionText": "Through which Constitutional Amendment Act was Delhi designated as the 'National Capital Territory of Delhi' (NCT) with a Legislative Assembly in 1991?",
+      "qHi": "किस संविधान संशोधन अधिनियम द्वारा केंद्र शासित प्रदेश दिल्ली को 'राष्ट्रीय राजधानी क्षेत्र' (NCT) के रूप में पुनर्गठित किया गया?",
+      "questionTextHi": "किस संविधान संशोधन अधिनियम द्वारा केंद्र शासित प्रदेश दिल्ली को 'राष्ट्रीय राजधानी क्षेत्र' (NCT) के रूप में पुनर्गठित किया गया?",
       "o": [
         "69th Amendment Act",
         "61st Amendment Act",
         "73rd Amendment Act",
         "86th Amendment Act"
       ],
+      "options": [
+        "69th Amendment Act",
+        "61st Amendment Act",
+        "73rd Amendment Act",
+        "86th Amendment Act"
+      ],
+      "oHi": [
+        "69वां संविधान संशोधन अधिनियम, 1991",
+        "61वां संविधान संशोधन अधिनियम",
+        "42वां संविधान संशोधन अधिनियम",
+        "73वां संविधान संशोधन अधिनियम"
+      ],
+      "optionsHi": [
+        "69वां संविधान संशोधन अधिनियम, 1991",
+        "61वां संविधान संशोधन अधिनियम",
+        "42वां संविधान संशोधन अधिनियम",
+        "73वां संविधान संशोधन अधिनियम"
+      ],
       "a": 0,
-      "exp": "The 69th Constitutional Amendment Act, 1991 inserted Articles 239AA and 239AB into the Indian Constitution, creating the NCT of Delhi."
+      "correctIndex": 0,
+      "exp": "The 69th Constitutional Amendment Act, 1991 inserted Articles 239AA and 239AB into the Indian Constitution, creating the NCT of Delhi.",
+      "explanation": "The 69th Constitutional Amendment Act, 1991 inserted Articles 239AA and 239AB into the Indian Constitution, creating the NCT of Delhi.",
+      "expHi": "69वें संविधान संशोधन अधिनियम 1991 ने संविधान में अनुच्छेद 239AA जोड़कर दिल्ली को 70 सदस्यीय विधानसभा के साथ राष्ट्रीय राजधानी क्षेत्र का दर्जा दिया।",
+      "explanationHi": "69वें संविधान संशोधन अधिनियम 1991 ने संविधान में अनुच्छेद 239AA जोड़कर दिल्ली को 70 सदस्यीय विधानसभा के साथ राष्ट्रीय राजधानी क्षेत्र का दर्जा दिया।",
+      "hint": "Reflect upon the geographic, political, and cultural heritage of Delhi (NCT).",
+      "hintHi": "इसने संविधान में अनुच्छेद 239AA को शामिल किया।",
+      "difficulty": "medium",
+      "lastVerified": "2026-01-01",
+      "examTags": [
+        "ssc_cgl",
+        "state_psc",
+        "railway",
+        "police"
+      ]
     }
   ],
   "subtopics": [
@@ -275,5 +347,6 @@
         }
       ]
     }
-  ]
+  ],
+  "mcqCount": 2
 }

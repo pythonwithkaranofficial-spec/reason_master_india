@@ -34,26 +34,98 @@
   "schemes": "Ayushman Bharat PM-JAY SEHAT, Mission Youth, Mumkin Scheme",
   "mcqs": [
     {
+      "id": "gk_state_jammu_and_kashmir_q1",
       "q": "Dachigam National Park near Srinagar is the primary and last surviving sanctuary for which critically endangered deer subspecies?",
+      "questionText": "Dachigam National Park near Srinagar is the primary and last surviving sanctuary for which critically endangered deer subspecies?",
+      "qHi": "श्रीनगर के पास स्थित दाचीगाम राष्ट्रीय उद्यान किस लुप्तप्राय कश्मीरी हिरण का एकमात्र प्राकृतिक आवास है?",
+      "questionTextHi": "श्रीनगर के पास स्थित दाचीगाम राष्ट्रीय उद्यान किस लुप्तप्राय कश्मीरी हिरण का एकमात्र प्राकृतिक आवास है?",
       "o": [
         "Kashmir Stag (Hangul)",
         "Musk Deer",
         "Sangai",
         "Barasingha"
       ],
+      "options": [
+        "Kashmir Stag (Hangul)",
+        "Musk Deer",
+        "Sangai",
+        "Barasingha"
+      ],
+      "oHi": [
+        "कश्मीरी हिरण (हांगुल)",
+        "कस्तूरी मृग",
+        "तिब्बती मृग (चीरू)",
+        "चिंकारा"
+      ],
+      "optionsHi": [
+        "कश्मीरी हिरण (हांगुल)",
+        "कस्तूरी मृग",
+        "तिब्बती मृग (चीरू)",
+        "चिंकारा"
+      ],
       "a": 0,
-      "exp": "Hangul (Cervus hanglu hanglu) is the state animal of J&K and strictly protected in Dachigam."
+      "correctIndex": 0,
+      "exp": "Hangul (Cervus hanglu hanglu) is the state animal of J&K and strictly protected in Dachigam.",
+      "explanation": "Hangul (Cervus hanglu hanglu) is the state animal of J&K and strictly protected in Dachigam.",
+      "expHi": "दाचीगाम राष्ट्रीय उद्यान हांगुल (सर्वस हैंगलू हैंगलू) का एकमात्र निवास स्थान है, जो लाल हिरण की एक अत्यंत दुर्लभ और संकटग्रस्त उप-प्रजाति है।",
+      "explanationHi": "दाचीगाम राष्ट्रीय उद्यान हांगुल (सर्वस हैंगलू हैंगलू) का एकमात्र निवास स्थान है, जो लाल हिरण की एक अत्यंत दुर्लभ और संकटग्रस्त उप-प्रजाति है।",
+      "hint": "Reflect upon the geographic, political, and cultural heritage of Jammu and Kashmir.",
+      "hintHi": "यह जम्मू और कश्मीर का राज्य पशु भी है।",
+      "difficulty": "medium",
+      "lastVerified": "2026-01-01",
+      "examTags": [
+        "ssc_cgl",
+        "state_psc",
+        "railway",
+        "police"
+      ]
     },
     {
+      "id": "gk_state_jammu_and_kashmir_q2",
       "q": "The world's highest railway arch bridge (359 meters above the river bed) was constructed by Indian Railways across which river in J&K?",
+      "questionText": "The world's highest railway arch bridge (359 meters above the river bed) was constructed by Indian Railways across which river in J&K?",
+      "qHi": "रियासी जिले में एफिल टॉवर से 35 मीटर ऊंचा दुनिया का सबसे ऊंचा रेलवे आर्च ब्रिज (359 मीटर) किस नदी पर बना है?",
+      "questionTextHi": "रियासी जिले में एफिल टॉवर से 35 मीटर ऊंचा दुनिया का सबसे ऊंचा रेलवे आर्च ब्रिज (359 मीटर) किस नदी पर बना है?",
       "o": [
         "Chenab River",
         "Jhelum River",
         "Ravi River",
         "Indus River"
       ],
+      "options": [
+        "Chenab River",
+        "Jhelum River",
+        "Ravi River",
+        "Indus River"
+      ],
+      "oHi": [
+        "चिनाब नदी",
+        "झेलम नदी",
+        "सिंधु नदी",
+        "रावी नदी"
+      ],
+      "optionsHi": [
+        "चिनाब नदी",
+        "झेलम नदी",
+        "सिंधु नदी",
+        "रावी नदी"
+      ],
       "a": 0,
-      "exp": "The Chenab Rail Bridge in Reasi district stands 359 meters above the river surface, 35 meters higher than the Eiffel Tower."
+      "correctIndex": 0,
+      "exp": "The Chenab Rail Bridge in Reasi district stands 359 meters above the river surface, 35 meters higher than the Eiffel Tower.",
+      "explanation": "The Chenab Rail Bridge in Reasi district stands 359 meters above the river surface, 35 meters higher than the Eiffel Tower.",
+      "expHi": "उधमपुर-श्रीनगर-बारामूला रेल लिंक (USBRL) परियोजना के तहत चिनाब नदी के तल से 359 मीटर ऊपर स्टील आर्च ब्रिज का निर्माण किया गया है।",
+      "explanationHi": "उधमपुर-श्रीनगर-बारामूला रेल लिंक (USBRL) परियोजना के तहत चिनाब नदी के तल से 359 मीटर ऊपर स्टील आर्च ब्रिज का निर्माण किया गया है।",
+      "hint": "Reflect upon the geographic, political, and cultural heritage of Jammu and Kashmir.",
+      "hintHi": "यह चंद्र और भागा नदियों के संगम से बनती है।",
+      "difficulty": "medium",
+      "lastVerified": "2026-01-01",
+      "examTags": [
+        "ssc_cgl",
+        "state_psc",
+        "railway",
+        "police"
+      ]
     }
   ],
   "subtopics": [
@@ -276,5 +348,6 @@
         }
       ]
     }
-  ]
+  ],
+  "mcqCount": 2
 }

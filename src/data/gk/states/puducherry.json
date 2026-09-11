@@ -34,26 +34,98 @@
   "schemes": "Free Rice Scheme, Laptop distribution for higher education",
   "mcqs": [
     {
+      "id": "gk_state_puducherry_q1",
       "q": "Auroville, the experimental international universal township designed by French architect Roger Anger, is located near which Union Territory?",
+      "questionText": "Auroville, the experimental international universal township designed by French architect Roger Anger, is located near which Union Territory?",
+      "qHi": "मीरा अल्फासा ('द मदर') और श्री अरबिंदो के दृष्टिकोण पर आधारित अंतरराष्ट्रीय सार्वभौमिक नगर 'ऑरोविले' कहाँ स्थित है?",
+      "questionTextHi": "मीरा अल्फासा ('द मदर') और श्री अरबिंदो के दृष्टिकोण पर आधारित अंतरराष्ट्रीय सार्वभौमिक नगर 'ऑरोविले' कहाँ स्थित है?",
       "o": [
         "Puducherry",
         "Chandigarh",
         "Daman",
         "Goa"
       ],
+      "options": [
+        "Puducherry",
+        "Chandigarh",
+        "Daman",
+        "Goa"
+      ],
+      "oHi": [
+        "पुडुचेरी",
+        "कराईकल",
+        "माहे",
+        "यनम"
+      ],
+      "optionsHi": [
+        "पुडुचेरी",
+        "कराईकल",
+        "माहे",
+        "यनम"
+      ],
       "a": 0,
-      "exp": "Auroville was founded in 1968 by Mirra Alfassa ('The Mother') of Sri Aurobindo Ashram and endorsed by UNESCO."
+      "correctIndex": 0,
+      "exp": "Auroville was founded in 1968 by Mirra Alfassa ('The Mother') of Sri Aurobindo Ashram and endorsed by UNESCO.",
+      "explanation": "Auroville was founded in 1968 by Mirra Alfassa ('The Mother') of Sri Aurobindo Ashram and endorsed by UNESCO.",
+      "expHi": "ऑरोविले ('भोर का शहर') की स्थापना 1968 में हुई थी। यह यूनेस्को समर्थित एक अंतरराष्ट्रीय नगर है जिसके केंद्र में प्रसिद्ध मातृमंदिर स्थित है।",
+      "explanationHi": "ऑरोविले ('भोर का शहर') की स्थापना 1968 में हुई थी। यह यूनेस्को समर्थित एक अंतरराष्ट्रीय नगर है जिसके केंद्र में प्रसिद्ध मातृमंदिर स्थित है।",
+      "hint": "Reflect upon the geographic, political, and cultural heritage of Puducherry.",
+      "hintHi": "इसके केंद्र में सोने की पत्तियों से सजा 'मातृमंदिर' स्थित है।",
+      "difficulty": "medium",
+      "lastVerified": "2026-01-01",
+      "examTags": [
+        "ssc_cgl",
+        "state_psc",
+        "railway",
+        "police"
+      ]
     },
     {
+      "id": "gk_state_puducherry_q2",
       "q": "Which enclave of Puducherry, situated on the Malabar Coast of Kerala, is India's smallest district by geographic area (approx 9 sq km)?",
+      "questionText": "Which enclave of Puducherry, situated on the Malabar Coast of Kerala, is India's smallest district by geographic area (approx 9 sq km)?",
+      "qHi": "केरल के कन्नूर जिले से घिरा पुडुचेरी का कौन सा एन्क्लेव मात्र 9 वर्ग किमी क्षेत्रफल के साथ भारत का सबसे छोटा जिला है?",
+      "questionTextHi": "केरल के कन्नूर जिले से घिरा पुडुचेरी का कौन सा एन्क्लेव मात्र 9 वर्ग किमी क्षेत्रफल के साथ भारत का सबसे छोटा जिला है?",
       "o": [
         "Mahe",
         "Yanam",
         "Karaikal",
         "Puducherry"
       ],
+      "options": [
+        "Mahe",
+        "Yanam",
+        "Karaikal",
+        "Puducherry"
+      ],
+      "oHi": [
+        "माहे",
+        "यनम",
+        "कराईकल",
+        "पुडुचेरी"
+      ],
+      "optionsHi": [
+        "माहे",
+        "यनम",
+        "कराईकल",
+        "पुडुचेरी"
+      ],
       "a": 0,
-      "exp": "Mahe in Kerala is the smallest district in India, spanning just 9 sq km."
+      "correctIndex": 0,
+      "exp": "Mahe in Kerala is the smallest district in India, spanning just 9 sq km.",
+      "explanation": "Mahe in Kerala is the smallest district in India, spanning just 9 sq km.",
+      "expHi": "माहे (मय्यझी) मालाबार तट पर स्थित पुडुचेरी का एक छोटा प्रशासनिक एन्क्लेव है और आधिकारिक रूप से भारत का सबसे छोटा जिला है।",
+      "explanationHi": "माहे (मय्यझी) मालाबार तट पर स्थित पुडुचेरी का एक छोटा प्रशासनिक एन्क्लेव है और आधिकारिक रूप से भारत का सबसे छोटा जिला है।",
+      "hint": "Reflect upon the geographic, political, and cultural heritage of Puducherry.",
+      "hintHi": "यह अरब सागर के तट पर केरल राज्य के भीतर स्थित है।",
+      "difficulty": "medium",
+      "lastVerified": "2026-01-01",
+      "examTags": [
+        "ssc_cgl",
+        "state_psc",
+        "railway",
+        "police"
+      ]
     }
   ],
   "subtopics": [
@@ -276,5 +348,6 @@
         }
       ]
     }
-  ]
+  ],
+  "mcqCount": 2
 }

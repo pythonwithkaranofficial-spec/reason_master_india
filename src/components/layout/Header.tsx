@@ -310,6 +310,18 @@ export function Header() {
           }
         }
 
+        /* Compact nav padding on narrower desktop/laptop viewports (1140px - 1280px) */
+        @media (min-width: 1140px) and (max-width: 1280px) {
+          .desktop-primary-nav {
+            gap: 0.2rem !important;
+          }
+          .nav-tab {
+            padding: 0.4rem 0.55rem !important;
+            font-size: 0.85rem !important;
+            gap: 6px !important;
+          }
+        }
+
         /* Tablet & Mobile show the Drawer button */
         @media (max-width: 1139px) {
           .desktop-primary-nav {

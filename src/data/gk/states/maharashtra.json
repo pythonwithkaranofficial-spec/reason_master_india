@@ -30,26 +30,98 @@
   "schemes": "Mukhyamantri Majhi Ladki Bahin Yojana, Lek Ladki Yojana, Jalyukt Shivar Abhiyan",
   "mcqs": [
     {
+      "id": "gk_state_maharashtra_q1",
       "q": "The monolithic rock-cut Kailash Temple (Cave 16), carved from a single basalt cliff face top-down, is at which UNESCO site in Maharashtra?",
+      "questionText": "The monolithic rock-cut Kailash Temple (Cave 16), carved from a single basalt cliff face top-down, is at which UNESCO site in Maharashtra?",
+      "qHi": "एक ही विशाल चट्टान को ऊपर से नीचे तराशकर बनाया गया अखंड कैलास मंदिर (गुफा 16) किस गुफा परिसर में स्थित है?",
+      "questionTextHi": "एक ही विशाल चट्टान को ऊपर से नीचे तराशकर बनाया गया अखंड कैलास मंदिर (गुफा 16) किस गुफा परिसर में स्थित है?",
       "o": [
         "Ellora Caves",
         "Ajanta Caves",
         "Elephanta Caves",
         "Kanheri Caves"
       ],
+      "options": [
+        "Ellora Caves",
+        "Ajanta Caves",
+        "Elephanta Caves",
+        "Kanheri Caves"
+      ],
+      "oHi": [
+        "एलोरा की गुफाएं",
+        "अजंता की गुफाएं",
+        "एलीफेंटा की गुफाएं",
+        "कार्ला की गुफाएं"
+      ],
+      "optionsHi": [
+        "एलोरा की गुफाएं",
+        "अजंता की गुफाएं",
+        "एलीफेंटा की गुफाएं",
+        "कार्ला की गुफाएं"
+      ],
       "a": 0,
-      "exp": "Cave 16 (Kailash Temple) at Ellora was built in the 8th century by Rashtrakuta King Krishna I."
+      "correctIndex": 0,
+      "exp": "Cave 16 (Kailash Temple) at Ellora was built in the 8th century by Rashtrakuta King Krishna I.",
+      "explanation": "Cave 16 (Kailash Temple) at Ellora was built in the 8th century by Rashtrakuta King Krishna I.",
+      "expHi": "एलोरा की गुफा 16 में स्थित कैलास मंदिर का निर्माण 8वीं शताब्दी में राष्ट्रकूट राजा कृष्ण प्रथम ने करवाया था। यह दुनिया का सबसे बड़ा अखंड शैलकृत स्मारक है।",
+      "explanationHi": "एलोरा की गुफा 16 में स्थित कैलास मंदिर का निर्माण 8वीं शताब्दी में राष्ट्रकूट राजा कृष्ण प्रथम ने करवाया था। यह दुनिया का सबसे बड़ा अखंड शैलकृत स्मारक है।",
+      "hint": "Reflect upon the geographic, political, and cultural heritage of Maharashtra.",
+      "hintHi": "यह छत्रपति संभाजीनगर (औरंगाबाद) जिले में स्थित यूनेस्को स्थल है।",
+      "difficulty": "medium",
+      "lastVerified": "2026-01-01",
+      "examTags": [
+        "ssc_cgl",
+        "state_psc",
+        "railway",
+        "police"
+      ]
     },
     {
+      "id": "gk_state_maharashtra_q2",
       "q": "Which unique natural hyper-velocity meteorite impact crater lake in basaltic rock is located in Maharashtra?",
+      "questionText": "Which unique natural hyper-velocity meteorite impact crater lake in basaltic rock is located in Maharashtra?",
+      "qHi": "महाराष्ट्र के बुलढाणा जिले में स्थित कौन सी अनूठी झील खारे पानी की उल्कापिंड प्रभाव (इम्पैक्ट क्रेटर) झील है?",
+      "questionTextHi": "महाराष्ट्र के बुलढाणा जिले में स्थित कौन सी अनूठी झील खारे पानी की उल्कापिंड प्रभाव (इम्पैक्ट क्रेटर) झील है?",
       "o": [
         "Lonar Lake",
         "Venna Lake",
         "Pashan Lake",
         "Rankala Lake"
       ],
+      "options": [
+        "Lonar Lake",
+        "Venna Lake",
+        "Pashan Lake",
+        "Rankala Lake"
+      ],
+      "oHi": [
+        "लोनार झील",
+        "वेन्ना झील",
+        "शिवसागर झील",
+        "पावना झील"
+      ],
+      "optionsHi": [
+        "लोनार झील",
+        "वेन्ना झील",
+        "शिवसागर झील",
+        "पावना झील"
+      ],
       "a": 0,
-      "exp": "Lonar Lake in Buldhana district was created by an astronomical meteorite collision during the Pleistocene Epoch."
+      "correctIndex": 0,
+      "exp": "Lonar Lake in Buldhana district was created by an astronomical meteorite collision during the Pleistocene Epoch.",
+      "explanation": "Lonar Lake in Buldhana district was created by an astronomical meteorite collision during the Pleistocene Epoch.",
+      "expHi": "लोनार झील लगभग 52,000 वर्ष पूर्व उल्कापिंड के पृथ्वी से टकराने से बनी थी। यह एक रामसर आर्द्रभूमि स्थल है।",
+      "explanationHi": "लोनार झील लगभग 52,000 वर्ष पूर्व उल्कापिंड के पृथ्वी से टकराने से बनी थी। यह एक रामसर आर्द्रभूमि स्थल है।",
+      "hint": "Reflect upon the geographic, political, and cultural heritage of Maharashtra.",
+      "hintHi": "यह बेसाल्टिक चट्टान में उल्कापिंड के टकराने से बनी एशिया की प्रसिद्ध झील है।",
+      "difficulty": "medium",
+      "lastVerified": "2026-01-01",
+      "examTags": [
+        "ssc_cgl",
+        "state_psc",
+        "railway",
+        "police"
+      ]
     }
   ],
   "subtopics": [
@@ -272,5 +344,6 @@
         }
       ]
     }
-  ]
+  ],
+  "mcqCount": 2
 }

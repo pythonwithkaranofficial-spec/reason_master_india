@@ -31,26 +31,98 @@
   "schemes": "Rythu Bharosa, Mahalakshmi Scheme, Gruha Jyothi, Indiramma Indlu",
   "mcqs": [
     {
+      "id": "gk_state_telangana_q1",
       "q": "Which 13th-century temple in Mulugu district of Telangana was inscribed as a UNESCO World Heritage Site in 2021 for its floating lightweight brick architecture?",
+      "questionText": "Which 13th-century temple in Mulugu district of Telangana was inscribed as a UNESCO World Heritage Site in 2021 for its floating lightweight brick architecture?",
+      "qHi": "काकतीय राजवंश द्वारा निर्मित मुलुगु जिले का कौन सा 13वीं शताब्दी का मंदिर तैरती ईंटों के उपयोग के लिए यूनेस्को विश्व धरोहर घोषित हुआ?",
+      "questionTextHi": "काकतीय राजवंश द्वारा निर्मित मुलुगु जिले का कौन सा 13वीं शताब्दी का मंदिर तैरती ईंटों के उपयोग के लिए यूनेस्को विश्व धरोहर घोषित हुआ?",
       "o": [
         "Kakatiya Rudreshwara (Ramappa) Temple",
         "Thousand Pillar Temple",
         "Bhadrakali Temple",
         "Alampur Navabrahma Temples"
       ],
+      "options": [
+        "Kakatiya Rudreshwara (Ramappa) Temple",
+        "Thousand Pillar Temple",
+        "Bhadrakali Temple",
+        "Alampur Navabrahma Temples"
+      ],
+      "oHi": [
+        "काकतीय रुद्रेश्वर (रामप्पा) मंदिर",
+        "हजार स्तंभों वाला मंदिर",
+        "अलमपुर जोगुलम्बा मंदिर",
+        "भद्राचलम मंदिर"
+      ],
+      "optionsHi": [
+        "काकतीय रुद्रेश्वर (रामप्पा) मंदिर",
+        "हजार स्तंभों वाला मंदिर",
+        "अलमपुर जोगुलम्बा मंदिर",
+        "भद्राचलम मंदिर"
+      ],
       "a": 0,
-      "exp": "Ramappa Temple was built by General Recharla Rudra in 1213 AD during the Kakatiya period and uses sandbox foundation and floating bricks."
+      "correctIndex": 0,
+      "exp": "Ramappa Temple was built by General Recharla Rudra in 1213 AD during the Kakatiya period and uses sandbox foundation and floating bricks.",
+      "explanation": "Ramappa Temple was built by General Recharla Rudra in 1213 AD during the Kakatiya period and uses sandbox foundation and floating bricks.",
+      "expHi": "1213 ईस्वी में काकतीय राजा गणपति देव के सेनापति रेचारला रुद्र द्वारा निर्मित रामप्पा मंदिर को 2021 में यूनेस्को विश्व धरोहर स्थल घोषित किया गया।",
+      "explanationHi": "1213 ईस्वी में काकतीय राजा गणपति देव के सेनापति रेचारला रुद्र द्वारा निर्मित रामप्पा मंदिर को 2021 में यूनेस्को विश्व धरोहर स्थल घोषित किया गया।",
+      "hint": "Reflect upon the geographic, political, and cultural heritage of Telangana.",
+      "hintHi": "यह मंदिर अपने मुख्य मूर्तिकार रामप्पा के नाम पर प्रसिद्ध है।",
+      "difficulty": "medium",
+      "lastVerified": "2026-01-01",
+      "examTags": [
+        "ssc_cgl",
+        "state_psc",
+        "railway",
+        "police"
+      ]
     },
     {
+      "id": "gk_state_telangana_q2",
       "q": "What is the name of the grand floral festival celebrated by women across Telangana during Navratri?",
+      "questionText": "What is the name of the grand floral festival celebrated by women across Telangana during Navratri?",
+      "qHi": "तेलंगाना में महिलाओं द्वारा नवरात्रि के दौरान मौसमी जंगली फूलों से गौरी माता की पूजा करने वाला भव्य लोक उत्सव कौन सा है?",
+      "questionTextHi": "तेलंगाना में महिलाओं द्वारा नवरात्रि के दौरान मौसमी जंगली फूलों से गौरी माता की पूजा करने वाला भव्य लोक उत्सव कौन सा है?",
       "o": [
         "Bathukamma",
         "Bonalu",
         "Ugadi",
         "Medaram Jatara"
       ],
+      "options": [
+        "Bathukamma",
+        "Bonalu",
+        "Ugadi",
+        "Medaram Jatara"
+      ],
+      "oHi": [
+        "बथुकम्मा",
+        "बोनालु",
+        "मेदाराम जतारा",
+        "उगादी"
+      ],
+      "optionsHi": [
+        "बथुकम्मा",
+        "बोनालु",
+        "मेदाराम जतारा",
+        "उगादी"
+      ],
       "a": 0,
-      "exp": "Bathukamma represents cultural spirit with vibrant seasonal flowers arranged in conical layers honoring Goddess Gauri."
+      "correctIndex": 0,
+      "exp": "Bathukamma represents cultural spirit with vibrant seasonal flowers arranged in conical layers honoring Goddess Gauri.",
+      "explanation": "Bathukamma represents cultural spirit with vibrant seasonal flowers arranged in conical layers honoring Goddess Gauri.",
+      "expHi": "बथुकम्मा तेलंगाना का प्रसिद्ध राज्य पुष्प उत्सव है, जिसमें महिलाएं शंक्वाकार आकृतियों में फूल सजाकर प्रकृति और जीवन का उत्सव मनाती हैं।",
+      "explanationHi": "बथुकम्मा तेलंगाना का प्रसिद्ध राज्य पुष्प उत्सव है, जिसमें महिलाएं शंक्वाकार आकृतियों में फूल सजाकर प्रकृति और जीवन का उत्सव मनाती हैं।",
+      "hint": "Reflect upon the geographic, political, and cultural heritage of Telangana.",
+      "hintHi": "तेलुगु में इसका अर्थ है 'माँ देवी, जीवित हो उठो'।",
+      "difficulty": "medium",
+      "lastVerified": "2026-01-01",
+      "examTags": [
+        "ssc_cgl",
+        "state_psc",
+        "railway",
+        "police"
+      ]
     }
   ],
   "subtopics": [
@@ -273,5 +345,6 @@
         }
       ]
     }
-  ]
+  ],
+  "mcqCount": 2
 }

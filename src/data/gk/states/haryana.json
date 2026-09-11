@@ -30,26 +30,98 @@
   "schemes": "Parivar Pehchan Patra, Mukhya Mantri Antyodaya Parivar Utthan Yojana, Chirayu Haryana",
   "mcqs": [
     {
+      "id": "gk_state_haryana_q1",
       "q": "On the battlefield of which holy city in Haryana was the Bhagavad Gita spoken by Lord Krishna to Arjuna?",
+      "questionText": "On the battlefield of which holy city in Haryana was the Bhagavad Gita spoken by Lord Krishna to Arjuna?",
+      "qHi": "हरियाणा के किस पवित्र शहर की युद्धभूमि पर भगवान कृष्ण ने अर्जुन को श्रीमद्भगवद्गीता का उपदेश दिया था?",
+      "questionTextHi": "हरियाणा के किस पवित्र शहर की युद्धभूमि पर भगवान कृष्ण ने अर्जुन को श्रीमद्भगवद्गीता का उपदेश दिया था?",
       "o": [
         "Kurukshetra",
         "Panipat",
         "Thanesar",
         "Karnal"
       ],
+      "options": [
+        "Kurukshetra",
+        "Panipat",
+        "Thanesar",
+        "Karnal"
+      ],
+      "oHi": [
+        "कुरुक्षेत्र",
+        "पानीपत",
+        "करनाल",
+        "सोनीपत"
+      ],
+      "optionsHi": [
+        "कुरुक्षेत्र",
+        "पानीपत",
+        "करनाल",
+        "सोनीपत"
+      ],
       "a": 0,
-      "exp": "The sacred scripture Bhagavad Gita was delivered at Jyotisar in Kurukshetra during the Mahabharata war."
+      "correctIndex": 0,
+      "exp": "The sacred scripture Bhagavad Gita was delivered at Jyotisar in Kurukshetra during the Mahabharata war.",
+      "explanation": "The sacred scripture Bhagavad Gita was delivered at Jyotisar in Kurukshetra during the Mahabharata war.",
+      "expHi": "कुरुक्षेत्र के ज्योतिसर में महाभारत युद्ध के आरंभ से पहले भगवान कृष्ण ने अर्जुन को गीता का शाश्वत संदेश दिया था।",
+      "explanationHi": "कुरुक्षेत्र के ज्योतिसर में महाभारत युद्ध के आरंभ से पहले भगवान कृष्ण ने अर्जुन को गीता का शाश्वत संदेश दिया था।",
+      "hint": "Reflect upon the geographic, political, and cultural heritage of Haryana.",
+      "hintHi": "यह महाभारत के ऐतिहासिक धर्मयुद्ध का स्थल है।",
+      "difficulty": "medium",
+      "lastVerified": "2026-01-01",
+      "examTags": [
+        "ssc_cgl",
+        "state_psc",
+        "railway",
+        "police"
+      ]
     },
     {
+      "id": "gk_state_haryana_q2",
       "q": "Which international crafts fair is held annually in Faridabad, Haryana during February?",
+      "questionText": "Which international crafts fair is held annually in Faridabad, Haryana during February?",
+      "qHi": "हरियाणा के फरीदाबाद में प्रतिवर्ष फरवरी माह में कौन सा अंतरराष्ट्रीय शिल्प मेला आयोजित किया जाता है?",
+      "questionTextHi": "हरियाणा के फरीदाबाद में प्रतिवर्ष फरवरी माह में कौन सा अंतरराष्ट्रीय शिल्प मेला आयोजित किया जाता है?",
       "o": [
         "Surajkund International Crafts Mela",
         "Pushkar Mela",
         "Kala Ghoda Festival",
         "Hornbill Festival"
       ],
+      "options": [
+        "Surajkund International Crafts Mela",
+        "Pushkar Mela",
+        "Kala Ghoda Festival",
+        "Hornbill Festival"
+      ],
+      "oHi": [
+        "सूरजकुंड अंतरराष्ट्रीय शिल्प मेला",
+        "पिंजौर विरासत उत्सव",
+        "गीता जयंती मेला",
+        "पुष्कर मेला"
+      ],
+      "optionsHi": [
+        "सूरजकुंड अंतरराष्ट्रीय शिल्प मेला",
+        "पिंजौर विरासत उत्सव",
+        "गीता जयंती मेला",
+        "पुष्कर मेला"
+      ],
       "a": 0,
-      "exp": "Surajkund Crafts Mela showcases the finest regional and international handicrafts, handlooms, and cultural folklore."
+      "correctIndex": 0,
+      "exp": "Surajkund Crafts Mela showcases the finest regional and international handicrafts, handlooms, and cultural folklore.",
+      "explanation": "Surajkund Crafts Mela showcases the finest regional and international handicrafts, handlooms, and cultural folklore.",
+      "expHi": "सूरजकुंड अंतरराष्ट्रीय शिल्प मेला दुनिया का सबसे बड़ा हस्तशिल्प मेला है, जो भारतीय लोक कलाओं और पारंपरिक शिल्पों का प्रदर्शन करता है।",
+      "explanationHi": "सूरजकुंड अंतरराष्ट्रीय शिल्प मेला दुनिया का सबसे बड़ा हस्तशिल्प मेला है, जो भारतीय लोक कलाओं और पारंपरिक शिल्पों का प्रदर्शन करता है।",
+      "hint": "Reflect upon the geographic, political, and cultural heritage of Haryana.",
+      "hintHi": "यह तोमर राजा सूरजमल द्वारा निर्मित प्राचीन जलाशय के पास आयोजित होता है।",
+      "difficulty": "medium",
+      "lastVerified": "2026-01-01",
+      "examTags": [
+        "ssc_cgl",
+        "state_psc",
+        "railway",
+        "police"
+      ]
     }
   ],
   "subtopics": [
@@ -272,5 +344,6 @@
         }
       ]
     }
-  ]
+  ],
+  "mcqCount": 2
 }

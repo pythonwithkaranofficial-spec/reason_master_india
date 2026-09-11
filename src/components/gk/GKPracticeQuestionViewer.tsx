@@ -90,10 +90,13 @@ export function GKPracticeQuestionViewer({
         gkCategory: category,
         stateId: category === "state" ? topicId : undefined,
         questionText: q.questionText,
+        questionTextHi: q.questionTextHi || (q as any).qHi,
         options: q.options,
+        optionsHi: q.optionsHi || (q as any).oHi,
         correctIndex: q.correctIndex,
         difficulty: q.difficulty,
         explanation: q.explanation,
+        explanationHi: q.explanationHi || (q as any).expHi,
         hint: q.hint,
         lastVerified: q.lastVerified,
         savedAt: Date.now(),
@@ -205,11 +208,22 @@ export function GKPracticeQuestionViewer({
         const isBookmarked = bookmarkedIds.has(q.id);
         const isHintOpen = !!showHints[q.id];
 
-        const currentQText = lang === "hi" && q.questionTextHi ? q.questionTextHi : q.questionText;
-        const currentOptions =
-          lang === "hi" && q.optionsHi && q.optionsHi.length === 4 ? q.optionsHi : q.options;
-        const currentExp = lang === "hi" && q.explanationHi ? q.explanationHi : q.explanation;
-        const currentHint = lang === "hi" && q.hintHi ? q.hintHi : q.hint;
+        const currentQText =
+          lang === "hi"
+            ? (q.questionTextHi || (q as any).qHi || (q as any).question_hi || q.questionText)
+            : q.questionText;
+        const currentOptions: string[] =
+          lang === "hi" && (((q.optionsHi && q.optionsHi.length === 4) || ((q as any).oHi && (q as any).oHi.length === 4)))
+            ? ((q.optionsHi || (q as any).oHi) as string[])
+            : q.options;
+        const currentExp =
+          lang === "hi"
+            ? (q.explanationHi || (q as any).expHi || (q as any).explanation_hi || q.explanation)
+            : q.explanation;
+        const currentHint =
+          lang === "hi"
+            ? (q.hintHi || (q as any).hint_hi || q.hint)
+            : q.hint;
 
         return (
           <div
@@ -219,7 +233,12 @@ export function GKPracticeQuestionViewer({
               padding: "var(--space-5)",
               borderRadius: "var(--radius-lg)",
               backgroundColor: "var(--bg-surface)",
-              border: "1px solid var(--border-color)",
+              border: isAnswered
+                ? selectedIdx === q.correctIndex
+                  ? "1.5px solid var(--color-success-border, #10b981)"
+                  : "1.5px solid var(--color-error-border, #ef4444)"
+                : "1px solid var(--border-color)",
+              transition: "border-color var(--transition-fast)",
             }}
           >
             {/* Question Header: Number, Difficulty, Verification, Bookmark */}

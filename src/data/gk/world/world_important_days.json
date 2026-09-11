@@ -31,26 +31,238 @@
   ],
   "mcqs": [
     {
+      "id": "gk_world_world_important_days_q1",
       "q": "On which date is World Environment Day celebrated globally under the leadership of UNEP?",
+      "questionText": "On which date is World Environment Day celebrated globally under the leadership of UNEP?",
+      "qHi": "संयुक्त राष्ट्र पर्यावरण कार्यक्रम (UNEP) के नेतृत्व में प्रतिवर्ष किस तारीख को 'विश्व पर्यावरण दिवस' मनाया जाता है?",
+      "questionTextHi": "संयुक्त राष्ट्र पर्यावरण कार्यक्रम (UNEP) के नेतृत्व में प्रतिवर्ष किस तारीख को 'विश्व पर्यावरण दिवस' मनाया जाता है?",
       "o": [
         "5 June",
         "22 April",
         "21 March",
         "16 September"
       ],
+      "options": [
+        "5 June",
+        "22 April",
+        "21 March",
+        "16 September"
+      ],
+      "oHi": [
+        "5 जून",
+        "22 अप्रैल",
+        "16 सितंबर",
+        "21 मार्च"
+      ],
+      "optionsHi": [
+        "5 जून",
+        "22 अप्रैल",
+        "16 सितंबर",
+        "21 मार्च"
+      ],
       "a": 0,
-      "exp": "World Environment Day has been celebrated annually on 5 June since 1973."
+      "correctIndex": 0,
+      "exp": "World Environment Day has been celebrated annually on 5 June since 1973.",
+      "explanation": "World Environment Day has been celebrated annually on 5 June since 1973.",
+      "expHi": "1972 के स्टॉकहोम सम्मेलन की शुरुआत की स्मृति में 1973 से प्रतिवर्ष 5 जून को विश्व पर्यावरण दिवस वैश्विक स्तर पर मनाया जाता है।",
+      "explanationHi": "1972 के स्टॉकहोम सम्मेलन की शुरुआत की स्मृति में 1973 से प्रतिवर्ष 5 जून को विश्व पर्यावरण दिवस वैश्विक स्तर पर मनाया जाता है।",
+      "hint": "Recall standard international treaties, geography, and global organizations for Important World Days.",
+      "hintHi": "यह 1972 के ऐतिहासिक स्टॉकहोम सम्मेलन की शुरुआत का दिन है।",
+      "difficulty": "medium",
+      "examTags": [
+        "ssc_cgl",
+        "railway",
+        "defence",
+        "banking_ga"
+      ]
     },
     {
+      "id": "gk_world_world_important_days_q2",
       "q": "Human Rights Day is observed across the world every year on 10 December in commemoration of what event in 1948?",
+      "questionText": "Human Rights Day is observed across the world every year on 10 December in commemoration of what event in 1948?",
+      "qHi": "प्रतिवर्ष 10 दिसंबर को 'मानवाधिकार दिवस' किस ऐतिहासिक दस्तावेज को स्वीकार करने की स्मृति में मनाया जाता है?",
+      "questionTextHi": "प्रतिवर्ष 10 दिसंबर को 'मानवाधिकार दिवस' किस ऐतिहासिक दस्तावेज को स्वीकार करने की स्मृति में मनाया जाता है?",
       "o": [
         "Adoption of the Universal Declaration of Human Rights (UDHR)",
         "Foundation of the Red Cross",
         "Establishment of the League of Nations",
         "Signing of Geneva Convention"
       ],
+      "options": [
+        "Adoption of the Universal Declaration of Human Rights (UDHR)",
+        "Foundation of the Red Cross",
+        "Establishment of the League of Nations",
+        "Signing of Geneva Convention"
+      ],
+      "oHi": [
+        "मानवाधिकारों की सार्वभौम घोषणा (UDHR, 1948)",
+        "जिनेवा कन्वेंशन",
+        "मैग्ना कार्टा",
+        "संयुक्त राष्ट्र चार्टर"
+      ],
+      "optionsHi": [
+        "मानवाधिकारों की सार्वभौम घोषणा (UDHR, 1948)",
+        "जिनेवा कन्वेंशन",
+        "मैग्ना कार्टा",
+        "संयुक्त राष्ट्र चार्टर"
+      ],
       "a": 0,
-      "exp": "On 10 December 1948, the UN General Assembly adopted the Universal Declaration of Human Rights in Paris."
+      "correctIndex": 0,
+      "exp": "On 10 December 1948, the UN General Assembly adopted the Universal Declaration of Human Rights in Paris.",
+      "explanation": "On 10 December 1948, the UN General Assembly adopted the Universal Declaration of Human Rights in Paris.",
+      "expHi": "10 दिसंबर 1948 को पेरिस में संयुक्त राष्ट्र महासभा ने मानवाधिकारों की सार्वभौम घोषणा (UDHR) को अंगीकार किया था।",
+      "explanationHi": "10 दिसंबर 1948 को पेरिस में संयुक्त राष्ट्र महासभा ने मानवाधिकारों की सार्वभौम घोषणा (UDHR) को अंगीकार किया था।",
+      "hint": "Recall standard international treaties, geography, and global organizations for Important World Days.",
+      "hintHi": "यह 1948 में पेरिस में संयुक्त राष्ट्र द्वारा अंगीकार किया गया ऐतिहासिक दस्तावेज है।",
+      "difficulty": "medium",
+      "examTags": [
+        "ssc_cgl",
+        "railway",
+        "defence",
+        "banking_ga"
+      ]
+    },
+    {
+      "id": "gk_world_world_important_days_curated_10",
+      "q": "On which date is World Environment Day commemorated annually across the globe?",
+      "questionText": "On which date is World Environment Day commemorated annually across the globe?",
+      "qHi": "पर्यावरण संरक्षण और संवर्धन के प्रति वैश्विक जागरूकता बढ़ाने के लिए 'विश्व पर्यावरण दिवस' प्रतिवर्ष किस तिथि को मनाया जाता है?",
+      "questionTextHi": "पर्यावरण संरक्षण और संवर्धन के प्रति वैश्विक जागरूकता बढ़ाने के लिए 'विश्व पर्यावरण दिवस' प्रतिवर्ष किस तिथि को मनाया जाता है?",
+      "o": [
+        "5 June",
+        "22 April",
+        "16 September",
+        "21 March"
+      ],
+      "options": [
+        "5 June",
+        "22 April",
+        "16 September",
+        "21 March"
+      ],
+      "oHi": [
+        "5 जून",
+        "22 अप्रैल",
+        "16 सितंबर",
+        "21 मार्च"
+      ],
+      "optionsHi": [
+        "5 जून",
+        "22 अप्रैल",
+        "16 सितंबर",
+        "21 मार्च"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "World Environment Day was established by the UN General Assembly at the 1972 Stockholm Conference on the Human Environment and has been commemorated globally on 5 June every year since 1973.",
+      "explanation": "World Environment Day was established by the UN General Assembly at the 1972 Stockholm Conference on the Human Environment and has been commemorated globally on 5 June every year since 1973.",
+      "expHi": "1972 के स्टॉकहोम मानव पर्यावरण सम्मेलन की स्मृति में संयुक्त राष्ट्र द्वारा प्रतिवर्ष 5 जून को विश्व पर्यावरण दिवस मनाया जाता है। (22 अप्रैल पृथ्वी दिवस है और 16 सितंबर ओजोन दिवस)।",
+      "explanationHi": "1972 के स्टॉकहोम मानव पर्यावरण सम्मेलन की स्मृति में संयुक्त राष्ट्र द्वारा प्रतिवर्ष 5 जून को विश्व पर्यावरण दिवस मनाया जाता है। (22 अप्रैल पृथ्वी दिवस है और 16 सितंबर ओजोन दिवस)।",
+      "hint": "Established at the 1972 Stockholm Conference; celebrated annually on 5 June.",
+      "hintHi": "1972 के स्टॉकहोम सम्मेलन में स्थापित; 5 जून को मनाया जाता है।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "Banking",
+        "Railways"
+      ]
+    },
+    {
+      "id": "gk_world_world_important_days_quiz_18",
+      "q": "When is International Women's Day celebrated worldwide to champion women's rights and equality?",
+      "questionText": "When is International Women's Day celebrated worldwide to champion women's rights and equality?",
+      "qHi": "महिलाओं के अधिकारों और सामाजिक-आर्थिक उपलब्धियों के सम्मान में 'अंतरराष्ट्रीय महिला दिवस' प्रतिवर्ष कब मनाया जाता है?",
+      "questionTextHi": "महिलाओं के अधिकारों और सामाजिक-आर्थिक उपलब्धियों के सम्मान में 'अंतरराष्ट्रीय महिला दिवस' प्रतिवर्ष कब मनाया जाता है?",
+      "o": [
+        "8 March",
+        "13 February",
+        "24 January",
+        "1 December"
+      ],
+      "options": [
+        "8 March",
+        "13 February",
+        "24 January",
+        "1 December"
+      ],
+      "oHi": [
+        "8 मार्च",
+        "13 फरवरी",
+        "24 जनवरी",
+        "1 दिसंबर"
+      ],
+      "optionsHi": [
+        "8 मार्च",
+        "13 फरवरी",
+        "24 जनवरी",
+        "1 दिसंबर"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "International Women's Day is celebrated on 8 March across the world to advocate for gender parity and recognize women's socio-economic and cultural contributions.",
+      "explanation": "International Women's Day is celebrated on 8 March across the world to advocate for gender parity and recognize women's socio-economic and cultural contributions.",
+      "expHi": "प्रतिवर्ष 8 मार्च को अंतरराष्ट्रीय महिला दिवस मनाया जाता है (13 फरवरी भारत में राष्ट्रीय महिला दिवस है जो सरोजिनी नायडू के जन्मदिवस पर मनाया जाता है)।",
+      "explanationHi": "प्रतिवर्ष 8 मार्च को अंतरराष्ट्रीय महिला दिवस मनाया जाता है (13 फरवरी भारत में राष्ट्रीय महिला दिवस है जो सरोजिनी नायडू के जन्मदिवस पर मनाया जाता है)।",
+      "hint": "Observed globally on the 8th of March.",
+      "hintHi": "मार्च माह की 8 तारीख को वैश्विक रूप से मनाया जाता है।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "Banking",
+        "Railways"
+      ]
+    },
+    {
+      "id": "gk_world_world_important_days_quiz_19",
+      "q": "United Nations Day is commemorated every year on which date, marking the entry into force of the UN Charter in 1945?",
+      "questionText": "United Nations Day is commemorated every year on which date, marking the entry into force of the UN Charter in 1945?",
+      "qHi": "1945 में संयुक्त राष्ट्र चार्टर के प्रभावी होने की स्मृति में प्रतिवर्ष 'संयुक्त राष्ट्र दिवस' (UN Day) किस तिथि को मनाया जाता है?",
+      "questionTextHi": "1945 में संयुक्त राष्ट्र चार्टर के प्रभावी होने की स्मृति में प्रतिवर्ष 'संयुक्त राष्ट्र दिवस' (UN Day) किस तिथि को मनाया जाता है?",
+      "o": [
+        "24 October",
+        "10 December",
+        "15 September",
+        "5 June"
+      ],
+      "options": [
+        "24 October",
+        "10 December",
+        "15 September",
+        "5 June"
+      ],
+      "oHi": [
+        "24 अक्टूबर",
+        "10 दिसंबर",
+        "15 सितंबर",
+        "5 जून"
+      ],
+      "optionsHi": [
+        "24 अक्टूबर",
+        "10 दिसंबर",
+        "15 सितंबर",
+        "5 जून"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "United Nations Day has been celebrated on 24 October since 1948, marking the anniversary of the entry into force of the UN Charter on 24 October 1945.",
+      "explanation": "United Nations Day has been celebrated on 24 October since 1948, marking the anniversary of the entry into force of the UN Charter on 24 October 1945.",
+      "expHi": "24 अक्टूबर 1945 को संयुक्त राष्ट्र संघ (UNO) का चार्टर लागू हुआ था, इसलिए प्रतिवर्ष 24 अक्टूबर को संयुक्त राष्ट्र दिवस मनाया जाता है। (10 दिसंबर मानवाधिकार दिवस है)।",
+      "explanationHi": "24 अक्टूबर 1945 को संयुक्त राष्ट्र संघ (UNO) का चार्टर लागू हुआ था, इसलिए प्रतिवर्ष 24 अक्टूबर को संयुक्त राष्ट्र दिवस मनाया जाता है। (10 दिसंबर मानवाधिकार दिवस है)।",
+      "hint": "Commemorates the founding of the UN on 24 October 1945.",
+      "hintHi": "24 अक्टूबर 1945 को यूएन चार्टर लागू हुआ था।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "Banking",
+        "Railways"
+      ]
     }
-  ]
+  ],
+  "questionCount": 2
 }

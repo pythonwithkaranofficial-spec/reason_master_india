@@ -30,6 +30,7 @@ function GKPracticeResultContent() {
   const [session, setSession] = useState<GKSessionResult | null>(null);
   const [questions, setQuestions] = useState<GKMCQQuestion[]>([]);
   const [loading, setLoading] = useState(true);
+  const [lang, setLang] = useState<"en" | "hi">("en");
   const [reviewFilter, setReviewFilter] = useState<"all" | "correct" | "incorrect" | "unanswered">("all");
   const [bookmarkedIds, setBookmarkedIds] = useState<Set<string>>(new Set());
 
@@ -111,10 +112,13 @@ function GKPracticeResultContent() {
         gkCategory: q.gkCategory,
         stateId: q.stateId,
         questionText: q.questionText,
+        questionTextHi: q.questionTextHi || (q as any).qHi,
         options: q.options,
+        optionsHi: q.optionsHi || (q as any).oHi,
         correctIndex: q.correctIndex,
         difficulty: q.difficulty,
         explanation: q.explanation,
+        explanationHi: q.explanationHi || (q as any).expHi,
         hint: q.hint,
         lastVerified: q.lastVerified,
         savedAt: Date.now(),
@@ -217,46 +221,45 @@ function GKPracticeResultContent() {
   }
 
   return (
-    <div style={{ paddingBottom: "var(--space-12)" }}>
+    <div className="container" style={{ paddingTop: "var(--space-6)", paddingBottom: "var(--space-16)" }}>
       {/* Header Banner */}
-      <section
+      <div
+        className="rm-card"
         style={{
-          padding: "var(--space-6) 0 var(--space-6)",
-          borderBottom: "1px solid var(--border-color)",
+          padding: "var(--space-8)",
+          marginBottom: "var(--space-8)",
           backgroundColor: "var(--bg-surface)",
         }}
       >
-        <div className="container" style={{ maxWidth: "1000px", margin: "0 auto", padding: "0 var(--space-4)" }}>
-          <Breadcrumb
-            items={[
-              { label: "GK Hub", href: "/gk" },
-              { label: "Practice Arena", href: "/gk/practice" },
-              { label: "Test Result" },
-            ]}
-          />
+        <Breadcrumb
+          items={[
+            { label: "GK Hub", href: "/gk" },
+            { label: "Practice Arena", href: "/gk/practice" },
+            { label: "Test Result" },
+          ]}
+        />
 
-          <div style={{ marginTop: "var(--space-4)" }}>
-            <h1
-              style={{
-                fontSize: "clamp(1.8rem, 3.5vw, 2.4rem)",
-                fontWeight: 800,
-                color: "var(--text-primary)",
-                letterSpacing: "-0.02em",
-                lineHeight: 1.2,
-                marginBottom: "var(--space-2)",
-              }}
-            >
-              Practice Test Scorecard
-            </h1>
-            <p style={{ fontSize: "1rem", color: "var(--text-secondary)" }}>
-              Detailed performance metrics, answer key breakdown, and explanations.
-            </p>
-          </div>
+        <div style={{ marginTop: "var(--space-4)" }}>
+          <h1
+            style={{
+              fontSize: "clamp(1.8rem, 3.5vw, 2.4rem)",
+              fontWeight: 800,
+              color: "var(--text-primary)",
+              letterSpacing: "-0.02em",
+              lineHeight: 1.2,
+              marginBottom: "var(--space-2)",
+            }}
+          >
+            Practice Test Scorecard
+          </h1>
+          <p style={{ fontSize: "1rem", color: "var(--text-secondary)" }}>
+            Detailed performance metrics, answer key breakdown, and explanations.
+          </p>
         </div>
-      </section>
+      </div>
 
       {/* Main Content */}
-      <div className="container" style={{ maxWidth: "1000px", margin: "0 auto", padding: "var(--space-8) var(--space-4) 0" }}>
+      <div style={{ maxWidth: "1000px", margin: "0 auto" }}>
         {/* Scorecard Hero Box */}
         <div
           style={{
@@ -373,8 +376,56 @@ function GKPracticeResultContent() {
               </p>
             </div>
 
-            {/* Filter Pills */}
-            <div style={{ display: "flex", gap: "var(--space-2)", flexWrap: "wrap" }}>
+            {/* Filter Pills & Language Switcher */}
+            <div style={{ display: "flex", gap: "var(--space-2)", flexWrap: "wrap", alignItems: "center" }}>
+              {/* Language Switcher */}
+              <div
+                style={{
+                  display: "inline-flex",
+                  alignItems: "center",
+                  padding: "2px",
+                  backgroundColor: "var(--bg-surface-elevated, #f1f5f9)",
+                  borderRadius: "9999px",
+                  border: "1px solid var(--border-color)",
+                  marginRight: "var(--space-2)",
+                }}
+              >
+                <button
+                  type="button"
+                  onClick={() => setLang("en")}
+                  style={{
+                    padding: "3px 10px",
+                    fontSize: "0.78rem",
+                    fontWeight: lang === "en" ? 700 : 500,
+                    borderRadius: "9999px",
+                    backgroundColor: lang === "en" ? "var(--color-primary)" : "transparent",
+                    color: lang === "en" ? "#ffffff" : "var(--text-secondary)",
+                    border: "none",
+                    cursor: "pointer",
+                    transition: "all var(--transition-fast)",
+                  }}
+                >
+                  English
+                </button>
+                <button
+                  type="button"
+                  onClick={() => setLang("hi")}
+                  style={{
+                    padding: "3px 10px",
+                    fontSize: "0.78rem",
+                    fontWeight: lang === "hi" ? 700 : 500,
+                    borderRadius: "9999px",
+                    backgroundColor: lang === "hi" ? "var(--color-primary)" : "transparent",
+                    color: lang === "hi" ? "#ffffff" : "var(--text-secondary)",
+                    border: "none",
+                    cursor: "pointer",
+                    transition: "all var(--transition-fast)",
+                  }}
+                >
+                  हिन्दी
+                </button>
+              </div>
+
               <button
                 type="button"
                 onClick={() => setReviewFilter("all")}
@@ -432,6 +483,15 @@ function GKPracticeResultContent() {
           <div style={{ display: "flex", flexDirection: "column", gap: "var(--space-4)" }}>
             {filteredReviewItems.map(({ q, idx, selectedIdx, isAnswered, isCorrect }) => {
               const isBookmarked = bookmarkedIds.has(q.id);
+
+              const qTextHi = (q as any)?.questionTextHi || (q as any)?.qHi || (q as any)?.question_hi;
+              const qText = lang === "hi" && qTextHi ? qTextHi : q.questionText;
+
+              const optsHi = (q as any)?.optionsHi || (q as any)?.oHi || (q as any)?.options_hi;
+              const opts = (lang === "hi" && Array.isArray(optsHi) && optsHi.length === 4) ? optsHi : q.options;
+
+              const expHi = (q as any)?.explanationHi || (q as any)?.expHi;
+              const exp = lang === "hi" && expHi ? expHi : q.explanation;
 
               return (
                 <div
@@ -534,12 +594,12 @@ function GKPracticeResultContent() {
                       marginBottom: "var(--space-3)",
                     }}
                   >
-                    {q.questionText}
+                    {qText}
                   </h3>
 
                   {/* Options Comparison */}
                   <div style={{ display: "flex", flexDirection: "column", gap: "6px", marginBottom: "var(--space-3)" }}>
-                    {q.options.map((opt, optIdx) => {
+                    {opts.map((opt, optIdx) => {
                       const isOptionSelected = selectedIdx === optIdx;
                       const isOptionCorrect = optIdx === q.correctIndex;
 
@@ -605,7 +665,7 @@ function GKPracticeResultContent() {
                       border: "1px solid var(--border-color)",
                     }}
                   >
-                    <strong>Explanation:</strong> {q.explanation}
+                    <strong>{lang === "hi" ? "व्याख्या:" : "Explanation:"}</strong> {exp}
                   </div>
                 </div>
               );

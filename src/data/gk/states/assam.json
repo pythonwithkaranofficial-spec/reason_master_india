@@ -32,37 +32,145 @@
   "schemes": "Orunodoi 3.0, Pragyan Bharati, Nijut Moina Scheme",
   "mcqs": [
     {
+      "id": "gk_state_assam_q1",
       "q": "Which dance form of Assam is recognized as one of India's 8 classical dance forms?",
+      "questionText": "Which dance form of Assam is recognized as one of India's 8 classical dance forms?",
+      "qHi": "असम का कौन सा नृत्य भारत के 8 शास्त्रीय नृत्यों में से एक के रूप में मान्यता प्राप्त है?",
+      "questionTextHi": "असम का कौन सा नृत्य भारत के 8 शास्त्रीय नृत्यों में से एक के रूप में मान्यता प्राप्त है?",
       "o": [
         "Sattriya",
         "Bihu",
         "Bagurumba",
         "Bhor Tal"
       ],
+      "options": [
+        "Sattriya",
+        "Bihu",
+        "Bagurumba",
+        "Bhor Tal"
+      ],
+      "oHi": [
+        "सत्रिया",
+        "बिहू",
+        "बागुरुम्बा",
+        "भोरताल"
+      ],
+      "optionsHi": [
+        "सत्रिया",
+        "बिहू",
+        "बागुरुम्बा",
+        "भोरताल"
+      ],
       "a": 0,
-      "exp": "Sattriya was introduced by 15th-century Vaishnavite saint Srimanta Sankardev and recognized as a classical dance in 2000."
+      "correctIndex": 0,
+      "exp": "Sattriya was introduced by 15th-century Vaishnavite saint Srimanta Sankardev and recognized as a classical dance in 2000.",
+      "explanation": "Sattriya was introduced by 15th-century Vaishnavite saint Srimanta Sankardev and recognized as a classical dance in 2000.",
+      "expHi": "सत्रिया नृत्य की शुरुआत 15वीं शताब्दी के वैष्णव संत श्रीमंत शंकरदेव ने की थी। इसे 2000 में संगीत नाटक अकादमी द्वारा शास्त्रीय नृत्य घोषित किया गया था।",
+      "explanationHi": "सत्रिया नृत्य की शुरुआत 15वीं शताब्दी के वैष्णव संत श्रीमंत शंकरदेव ने की थी। इसे 2000 में संगीत नाटक अकादमी द्वारा शास्त्रीय नृत्य घोषित किया गया था।",
+      "hint": "Reflect upon the geographic, political, and cultural heritage of Assam.",
+      "hintHi": "इसकी उत्पत्ति असम के वैष्णव सत्रों (मठों) में हुई थी।",
+      "difficulty": "medium",
+      "lastVerified": "2026-01-01",
+      "examTags": [
+        "ssc_cgl",
+        "state_psc",
+        "railway",
+        "police"
+      ]
     },
     {
+      "id": "gk_state_assam_q2",
       "q": "Asia's oldest operating oil refinery is located in which town of Assam?",
+      "questionText": "Asia's oldest operating oil refinery is located in which town of Assam?",
+      "qHi": "एशिया की सबसे पुरानी कार्यरत तेल रिफाइनरी असम के किस शहर में स्थित है?",
+      "questionTextHi": "एशिया की सबसे पुरानी कार्यरत तेल रिफाइनरी असम के किस शहर में स्थित है?",
       "o": [
         "Digboi",
         "Guwahati",
         "Numaligarh",
         "Bongaigaon"
       ],
+      "options": [
+        "Digboi",
+        "Guwahati",
+        "Numaligarh",
+        "Bongaigaon"
+      ],
+      "oHi": [
+        "डिगबोई",
+        "गुवाहाटी",
+        "नुमालीगढ़",
+        "बोंगाईगांव"
+      ],
+      "optionsHi": [
+        "डिगबोई",
+        "गुवाहाटी",
+        "नुमालीगढ़",
+        "बोंगाईगांव"
+      ],
       "a": 0,
-      "exp": "The Digboi refinery was commissioned on December 11, 1901, and is the world's oldest continuously operating oil refinery."
+      "correctIndex": 0,
+      "exp": "The Digboi refinery was commissioned on December 11, 1901, and is the world's oldest continuously operating oil refinery.",
+      "explanation": "The Digboi refinery was commissioned on December 11, 1901, and is the world's oldest continuously operating oil refinery.",
+      "expHi": "डिगबोई रिफाइनरी की स्थापना 11 दिसंबर 1901 को हुई थी। यह एशिया की सबसे पुरानी तथा निरंतर संचालित होने वाली तेल रिफाइनरी है।",
+      "explanationHi": "डिगबोई रिफाइनरी की स्थापना 11 दिसंबर 1901 को हुई थी। यह एशिया की सबसे पुरानी तथा निरंतर संचालित होने वाली तेल रिफाइनरी है।",
+      "hint": "Reflect upon the geographic, political, and cultural heritage of Assam.",
+      "hintHi": "इसे 'असम की तेल नगरी' कहा जाता है।",
+      "difficulty": "medium",
+      "lastVerified": "2026-01-01",
+      "examTags": [
+        "ssc_cgl",
+        "state_psc",
+        "railway",
+        "police"
+      ]
     },
     {
+      "id": "gk_state_assam_q3",
       "q": "Which national park in Assam holds the highest density of the Greater One-Horned Rhinoceros in the world?",
+      "questionText": "Which national park in Assam holds the highest density of the Greater One-Horned Rhinoceros in the world?",
+      "qHi": "असम का कौन सा राष्ट्रीय उद्यान दुनिया में एक सींग वाले गैंडों की सबसे बड़ी आबादी के लिए प्रसिद्ध है?",
+      "questionTextHi": "असम का कौन सा राष्ट्रीय उद्यान दुनिया में एक सींग वाले गैंडों की सबसे बड़ी आबादी के लिए प्रसिद्ध है?",
       "o": [
         "Kaziranga National Park",
         "Pobitora Wildlife Sanctuary",
         "Manas National Park",
         "Orang National Park"
       ],
+      "options": [
+        "Kaziranga National Park",
+        "Pobitora Wildlife Sanctuary",
+        "Manas National Park",
+        "Orang National Park"
+      ],
+      "oHi": [
+        "काजीरंगा राष्ट्रीय उद्यान",
+        "पोबितोरा वन्यजीव अभयारण्य",
+        "मानस राष्ट्रीय उद्यान",
+        "ओरांग राष्ट्रीय उद्यान"
+      ],
+      "optionsHi": [
+        "काजीरंगा राष्ट्रीय उद्यान",
+        "पोबितोरा वन्यजीव अभयारण्य",
+        "मानस राष्ट्रीय उद्यान",
+        "ओरांग राष्ट्रीय उद्यान"
+      ],
       "a": 0,
-      "exp": "Kaziranga National Park holds over two-thirds of the world's great one-horned rhinoceros population."
+      "correctIndex": 0,
+      "exp": "Kaziranga National Park holds over two-thirds of the world's great one-horned rhinoceros population.",
+      "explanation": "Kaziranga National Park holds over two-thirds of the world's great one-horned rhinoceros population.",
+      "expHi": "काजीरंगा राष्ट्रीय उद्यान दुनिया के दो-तिहाई से अधिक महान एक सींग वाले गैंडों का प्राकृतिक आवास है और एक यूनेस्को विश्व धरोहर स्थल है।",
+      "explanationHi": "काजीरंगा राष्ट्रीय उद्यान दुनिया के दो-तिहाई से अधिक महान एक सींग वाले गैंडों का प्राकृतिक आवास है और एक यूनेस्को विश्व धरोहर स्थल है।",
+      "hint": "Reflect upon the geographic, political, and cultural heritage of Assam.",
+      "hintHi": "यह ब्रह्मपुत्र नदी के बाढ़ के मैदानों में स्थित विश्व प्रसिद्ध यूनेस्को स्थल है।",
+      "difficulty": "medium",
+      "lastVerified": "2026-01-01",
+      "examTags": [
+        "ssc_cgl",
+        "state_psc",
+        "railway",
+        "police"
+      ]
     }
   ],
   "subtopics": [
@@ -285,5 +393,6 @@
         }
       ]
     }
-  ]
+  ],
+  "mcqCount": 3
 }

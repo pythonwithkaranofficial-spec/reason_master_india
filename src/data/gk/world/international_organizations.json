@@ -31,26 +31,379 @@
   ],
   "mcqs": [
     {
+      "id": "gk_world_international_organizations_q1",
       "q": "Where is the permanent headquarters of the World Health Organization (WHO) situated?",
+      "questionText": "Where is the permanent headquarters of the World Health Organization (WHO) situated?",
+      "qHi": "7 अप्रैल 1948 को स्थापित संयुक्त राष्ट्र की विशेष स्वास्थ्य एजेंसी 'विश्व स्वास्थ्य संगठन' (WHO) का मुख्यालय कहाँ है?",
+      "questionTextHi": "7 अप्रैल 1948 को स्थापित संयुक्त राष्ट्र की विशेष स्वास्थ्य एजेंसी 'विश्व स्वास्थ्य संगठन' (WHO) का मुख्यालय कहाँ है?",
       "o": [
         "Geneva, Switzerland",
         "Paris, France",
         "New York, USA",
         "Vienna, Austria"
       ],
+      "options": [
+        "Geneva, Switzerland",
+        "Paris, France",
+        "New York, USA",
+        "Vienna, Austria"
+      ],
+      "oHi": [
+        "जिनेवा, स्विट्जरलैंड",
+        "न्यूयॉर्क, यूएसए",
+        "पेरिस, फ्रांस",
+        "वियना, ऑस्ट्रिया"
+      ],
+      "optionsHi": [
+        "जिनेवा, स्विट्जरलैंड",
+        "न्यूयॉर्क, यूएसए",
+        "पेरिस, फ्रांस",
+        "वियना, ऑस्ट्रिया"
+      ],
       "a": 0,
-      "exp": "The WHO was established on 7 April 1948 and is headquartered in Geneva, Switzerland."
+      "correctIndex": 0,
+      "exp": "The WHO was established on 7 April 1948 and is headquartered in Geneva, Switzerland.",
+      "explanation": "The WHO was established on 7 April 1948 and is headquartered in Geneva, Switzerland.",
+      "expHi": "विश्व स्वास्थ्य संगठन (WHO) का स्थायी मुख्यालय जिनेवा, स्विट्जरलैंड में स्थित है। 7 अप्रैल को प्रतिवर्ष विश्व स्वास्थ्य दिवस मनाया जाता है।",
+      "explanationHi": "विश्व स्वास्थ्य संगठन (WHO) का स्थायी मुख्यालय जिनेवा, स्विट्जरलैंड में स्थित है। 7 अप्रैल को प्रतिवर्ष विश्व स्वास्थ्य दिवस मनाया जाता है।",
+      "hint": "Recall standard international treaties, geography, and global organizations for International Organizations.",
+      "hintHi": "यह स्विस शहर कई प्रमुख संयुक्त राष्ट्र एजेंसियों का वैश्विक केंद्र है।",
+      "difficulty": "medium",
+      "examTags": [
+        "ssc_cgl",
+        "railway",
+        "defence",
+        "banking_ga"
+      ]
     },
     {
+      "id": "gk_world_international_organizations_q2",
       "q": "Where is the secretariat of the South Asian Association for Regional Cooperation (SAARC) permanently based?",
+      "questionText": "Where is the secretariat of the South Asian Association for Regional Cooperation (SAARC) permanently based?",
+      "qHi": "दक्षिण एशियाई क्षेत्रीय सहयोग संगठन (दक्षेश - SAARC) का स्थायी सचिवालय किस शहर में स्थित है?",
+      "questionTextHi": "दक्षिण एशियाई क्षेत्रीय सहयोग संगठन (दक्षेश - SAARC) का स्थायी सचिवालय किस शहर में स्थित है?",
       "o": [
         "Kathmandu, Nepal",
         "New Delhi, India",
         "Dhaka, Bangladesh",
         "Colombo, Sri Lanka"
       ],
+      "options": [
+        "Kathmandu, Nepal",
+        "New Delhi, India",
+        "Dhaka, Bangladesh",
+        "Colombo, Sri Lanka"
+      ],
+      "oHi": [
+        "काठमांडू, नेपाल",
+        "नई दिल्ली, भारत",
+        "ढाका, बांग्लादेश",
+        "कोलंबो, श्रीलंका"
+      ],
+      "optionsHi": [
+        "काठमांडू, नेपाल",
+        "नई दिल्ली, भारत",
+        "ढाका, बांग्लादेश",
+        "कोलंबो, श्रीलंका"
+      ],
       "a": 0,
-      "exp": "The SAARC Secretariat was inaugurated in Kathmandu on 16 January 1987 by King Birendra Bir Bikram Shah Dev."
+      "correctIndex": 0,
+      "exp": "The SAARC Secretariat was inaugurated in Kathmandu on 16 January 1987 by King Birendra Bir Bikram Shah Dev.",
+      "explanation": "The SAARC Secretariat was inaugurated in Kathmandu on 16 January 1987 by King Birendra Bir Bikram Shah Dev.",
+      "expHi": "सार्क की स्थापना 8 दिसंबर 1985 को ढाका में हुई थी, जबकि इसका स्थायी सचिवालय 16 जनवरी 1987 को काठमांडू (नेपाल) में स्थापित किया गया।",
+      "explanationHi": "सार्क की स्थापना 8 दिसंबर 1985 को ढाका में हुई थी, जबकि इसका स्थायी सचिवालय 16 जनवरी 1987 को काठमांडू (नेपाल) में स्थापित किया गया।",
+      "hint": "Recall standard international treaties, geography, and global organizations for International Organizations.",
+      "hintHi": "यह हिमालयी देश नेपाल की राजधानी है।",
+      "difficulty": "medium",
+      "examTags": [
+        "ssc_cgl",
+        "railway",
+        "defence",
+        "banking_ga"
+      ]
+    },
+    {
+      "id": "gk_world_international_organizations_curated_5",
+      "q": "Where is the global headquarters of UNESCO (United Nations Educational, Scientific and Cultural Organization) located?",
+      "questionText": "Where is the global headquarters of UNESCO (United Nations Educational, Scientific and Cultural Organization) located?",
+      "qHi": "यूनेस्को (UNESCO - संयुक्त राष्ट्र शैक्षिक, वैज्ञानिक एवं सांस्कृतिक संगठन) का वैश्विक मुख्यालय कहाँ स्थित है?",
+      "questionTextHi": "यूनेस्को (UNESCO - संयुक्त राष्ट्र शैक्षिक, वैज्ञानिक एवं सांस्कृतिक संगठन) का वैश्विक मुख्यालय कहाँ स्थित है?",
+      "o": [
+        "Paris, France",
+        "Geneva, Switzerland",
+        "New York, USA",
+        "Vienna, Austria"
+      ],
+      "options": [
+        "Paris, France",
+        "Geneva, Switzerland",
+        "New York, USA",
+        "Vienna, Austria"
+      ],
+      "oHi": [
+        "पेरिस, फ्रांस",
+        "जिनेवा, स्विट्जरलैंड",
+        "न्यू यॉर्क, अमेरिका",
+        "वियना, ऑस्ट्रिया"
+      ],
+      "optionsHi": [
+        "पेरिस, फ्रांस",
+        "जिनेवा, स्विट्जरलैंड",
+        "न्यू यॉर्क, अमेरिका",
+        "वियना, ऑस्ट्रिया"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "UNESCO was established on 16 November 1945 and is headquartered on Place de Fontenoy in Paris, France, dedicated to international collaboration in education, science, culture, and heritage.",
+      "explanation": "UNESCO was established on 16 November 1945 and is headquartered on Place de Fontenoy in Paris, France, dedicated to international collaboration in education, science, culture, and heritage.",
+      "expHi": "यूनेस्को की स्थापना 16 नवंबर 1945 को हुई थी तथा इसका स्थायी मुख्यालय फ्रांस की राजधानी पेरिस में स्थित है।",
+      "explanationHi": "यूनेस्को की स्थापना 16 नवंबर 1945 को हुई थी तथा इसका स्थायी मुख्यालय फ्रांस की राजधानी पेरिस में स्थित है।",
+      "hint": "Situated in the French capital on Place de Fontenoy.",
+      "hintHi": "फ्रांस की राजधानी पेरिस में स्थित है।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "Banking",
+        "Railways"
+      ]
+    },
+    {
+      "id": "gk_world_international_organizations_curated_6",
+      "q": "The International Court of Justice (ICJ), the principal judicial organ of the UN, is seated in which city?",
+      "questionText": "The International Court of Justice (ICJ), the principal judicial organ of the UN, is seated in which city?",
+      "qHi": "संयुक्त राष्ट्र का प्रधान न्यायिक अंग 'अंतरराष्ट्रीय न्यायालय' (ICJ - International Court of Justice) किस शहर में स्थित है?",
+      "questionTextHi": "संयुक्त राष्ट्र का प्रधान न्यायिक अंग 'अंतरराष्ट्रीय न्यायालय' (ICJ - International Court of Justice) किस शहर में स्थित है?",
+      "o": [
+        "The Hague, Netherlands",
+        "Geneva, Switzerland",
+        "New York, USA",
+        "Brussels, Belgium"
+      ],
+      "options": [
+        "The Hague, Netherlands",
+        "Geneva, Switzerland",
+        "New York, USA",
+        "Brussels, Belgium"
+      ],
+      "oHi": [
+        "द हेग, नीदरलैंड्स",
+        "जिनेवा, स्विट्जरलैंड",
+        "न्यू यॉर्क, अमेरिका",
+        "ब्रुसेल्स, बेल्जियम"
+      ],
+      "optionsHi": [
+        "द हेग, नीदरलैंड्स",
+        "जिनेवा, स्विट्जरलैंड",
+        "न्यू यॉर्क, अमेरिका",
+        "ब्रुसेल्स, बेल्जियम"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "The International Court of Justice (ICJ) is the only one of the six principal organs of the United Nations not located in New York; it is seated at the Peace Palace in The Hague, Netherlands.",
+      "explanation": "The International Court of Justice (ICJ) is the only one of the six principal organs of the United Nations not located in New York; it is seated at the Peace Palace in The Hague, Netherlands.",
+      "expHi": "अंतरराष्ट्रीय न्यायालय संयुक्त राष्ट्र के 6 प्रमुख अंगों में एकमात्र ऐसा अंग है जो न्यूयॉर्क में स्थित नहीं है; यह नीदरलैंड्स के 'द हेग' के पीस पैलेस में स्थित है। इसमें 15 न्यायाधीश 9 वर्ष के लिए चुने जाते हैं।",
+      "explanationHi": "अंतरराष्ट्रीय न्यायालय संयुक्त राष्ट्र के 6 प्रमुख अंगों में एकमात्र ऐसा अंग है जो न्यूयॉर्क में स्थित नहीं है; यह नीदरलैंड्स के 'द हेग' के पीस पैलेस में स्थित है। इसमें 15 न्यायाधीश 9 वर्ष के लिए चुने जाते हैं।",
+      "hint": "Located at the historic Peace Palace in the Netherlands.",
+      "hintHi": "नीदरलैंड्स के ऐतिहासिक पीस पैलेस में स्थित।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "Banking",
+        "Railways"
+      ]
+    },
+    {
+      "id": "gk_world_international_organizations_quiz_6",
+      "q": "Where is the global headquarters of the World Health Organization (WHO) located?",
+      "questionText": "Where is the global headquarters of the World Health Organization (WHO) located?",
+      "qHi": "विश्व स्वास्थ्य संगठन (WHO - World Health Organization) का वैश्विक मुख्यालय कहाँ स्थित है?",
+      "questionTextHi": "विश्व स्वास्थ्य संगठन (WHO - World Health Organization) का वैश्विक मुख्यालय कहाँ स्थित है?",
+      "o": [
+        "Geneva, Switzerland",
+        "New York, USA",
+        "Paris, France",
+        "Rome, Italy"
+      ],
+      "options": [
+        "Geneva, Switzerland",
+        "New York, USA",
+        "Paris, France",
+        "Rome, Italy"
+      ],
+      "oHi": [
+        "जिनेवा, स्विट्जरलैंड",
+        "न्यू यॉर्क, अमेरिका",
+        "पेरिस, फ्रांस",
+        "रोम, इटली"
+      ],
+      "optionsHi": [
+        "जिनेवा, स्विट्जरलैंड",
+        "न्यू यॉर्क, अमेरिका",
+        "पेरिस, फ्रांस",
+        "रोम, इटली"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "The World Health Organization (WHO), established on 7 April 1948 (World Health Day), is headquartered in Geneva, Switzerland.",
+      "explanation": "The World Health Organization (WHO), established on 7 April 1948 (World Health Day), is headquartered in Geneva, Switzerland.",
+      "expHi": "विश्व स्वास्थ्य संगठन (WHO) की स्थापना 7 अप्रैल 1948 (विश्व स्वास्थ्य दिवस) को हुई थी और इसका मुख्यालय जिनेवा, स्विट्जरलैंड में स्थित है।",
+      "explanationHi": "विश्व स्वास्थ्य संगठन (WHO) की स्थापना 7 अप्रैल 1948 (विश्व स्वास्थ्य दिवस) को हुई थी और इसका मुख्यालय जिनेवा, स्विट्जरलैंड में स्थित है।",
+      "hint": "Founded on 7 April 1948; situated along Lake Geneva.",
+      "hintHi": "7 अप्रैल 1948 को स्थापित; जिनेवा झील के किनारे स्थित।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "Banking",
+        "Railways"
+      ]
+    },
+    {
+      "id": "gk_world_international_organizations_quiz_7",
+      "q": "Where are the international headquarters of the International Monetary Fund (IMF) and the World Bank located?",
+      "questionText": "Where are the international headquarters of the International Monetary Fund (IMF) and the World Bank located?",
+      "qHi": "अंतरराष्ट्रीय मुद्रा कोष (IMF) और विश्व बैंक (World Bank) का वैश्विक मुख्यालय किस शहर में स्थित है?",
+      "questionTextHi": "अंतरराष्ट्रीय मुद्रा कोष (IMF) और विश्व बैंक (World Bank) का वैश्विक मुख्यालय किस शहर में स्थित है?",
+      "o": [
+        "Washington, D.C., USA",
+        "Geneva, Switzerland",
+        "London, UK",
+        "New York, USA"
+      ],
+      "options": [
+        "Washington, D.C., USA",
+        "Geneva, Switzerland",
+        "London, UK",
+        "New York, USA"
+      ],
+      "oHi": [
+        "वॉशिंगटन डी.सी., अमेरिका",
+        "जिनेवा, स्विट्जरलैंड",
+        "लंदन, ब्रिटेन",
+        "न्यू यॉर्क, अमेरिका"
+      ],
+      "optionsHi": [
+        "वॉशिंगटन डी.सी., अमेरिका",
+        "जिनेवा, स्विट्जरलैंड",
+        "लंदन, ब्रिटेन",
+        "न्यू यॉर्क, अमेरिका"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Both the IMF and the World Bank were created at the Bretton Woods Conference in July 1944 and are headquartered in Washington, D.C.",
+      "explanation": "Both the IMF and the World Bank were created at the Bretton Woods Conference in July 1944 and are headquartered in Washington, D.C.",
+      "expHi": "1944 के ब्रेटन वुड्स सम्मेलन में स्थापित 'ब्रेटन वुड्स जुड़वाँ'—अंतरराष्ट्रीय मुद्रा कोष (IMF) और विश्व बैंक दोनों का मुख्यालय वॉशिंगटन डी.सी. में स्थित है।",
+      "explanationHi": "1944 के ब्रेटन वुड्स सम्मेलन में स्थापित 'ब्रेटन वुड्स जुड़वाँ'—अंतरराष्ट्रीय मुद्रा कोष (IMF) और विश्व बैंक दोनों का मुख्यालय वॉशिंगटन डी.सी. में स्थित है।",
+      "hint": "Known as the Bretton Woods twins, seated in the US capital.",
+      "hintHi": "ब्रेटन वुड्स संस्थान; अमेरिकी राजधानी में स्थित।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "Banking",
+        "Railways"
+      ]
+    },
+    {
+      "id": "gk_world_international_organizations_quiz_8",
+      "q": "Where is the permanent headquarters of INTERPOL (International Criminal Police Organization) located?",
+      "questionText": "Where is the permanent headquarters of INTERPOL (International Criminal Police Organization) located?",
+      "qHi": "इंटरपोल (INTERPOL - अंतरराष्ट्रीय आपराधिक पुलिस संगठन) का स्थायी मुख्यालय कहाँ स्थित है?",
+      "questionTextHi": "इंटरपोल (INTERPOL - अंतरराष्ट्रीय आपराधिक पुलिस संगठन) का स्थायी मुख्यालय कहाँ स्थित है?",
+      "o": [
+        "Lyon, France",
+        "Brussels, Belgium",
+        "The Hague, Netherlands",
+        "Vienna, Austria"
+      ],
+      "options": [
+        "Lyon, France",
+        "Brussels, Belgium",
+        "The Hague, Netherlands",
+        "Vienna, Austria"
+      ],
+      "oHi": [
+        "लियोन, फ्रांस",
+        "ब्रुसेल्स, बेल्जियम",
+        "द हेग, नीदरलैंड्स",
+        "वियना, ऑस्ट्रिया"
+      ],
+      "optionsHi": [
+        "लियोन, फ्रांस",
+        "ब्रुसेल्स, बेल्जियम",
+        "द हेग, नीदरलैंड्स",
+        "वियना, ऑस्ट्रिया"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "INTERPOL (founded in 1923 as the International Criminal Police Commission) is headquartered in Lyon, France, facilitating worldwide police cooperation.",
+      "explanation": "INTERPOL (founded in 1923 as the International Criminal Police Commission) is headquartered in Lyon, France, facilitating worldwide police cooperation.",
+      "expHi": "इंटरपोल (अंतरराष्ट्रीय पुलिस संगठन) की स्थापना 1923 में हुई थी और इसका मुख्यालय लियोन (फ्रांस) में स्थित है।",
+      "explanationHi": "इंटरपोल (अंतरराष्ट्रीय पुलिस संगठन) की स्थापना 1923 में हुई थी और इसका मुख्यालय लियोन (फ्रांस) में स्थित है।",
+      "hint": "Located in France's third-largest city on the Rhône river.",
+      "hintHi": "फ्रांस के लियोन शहर में स्थित है।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "Banking",
+        "Railways"
+      ]
+    },
+    {
+      "id": "gk_world_international_organizations_quiz_9",
+      "q": "Where is the permanent secretariat and headquarters of the South Asian Association for Regional Cooperation (SAARC) located?",
+      "questionText": "Where is the permanent secretariat and headquarters of the South Asian Association for Regional Cooperation (SAARC) located?",
+      "qHi": "दक्षिण एशियाई क्षेत्रीय सहयोग संगठन (सार्क - SAARC) का स्थायी सचिवालय एवं मुख्यालय कहाँ स्थित है?",
+      "questionTextHi": "दक्षिण एशियाई क्षेत्रीय सहयोग संगठन (सार्क - SAARC) का स्थायी सचिवालय एवं मुख्यालय कहाँ स्थित है?",
+      "o": [
+        "Kathmandu, Nepal",
+        "New Delhi, India",
+        "Dhaka, Bangladesh",
+        "Colombo, Sri Lanka"
+      ],
+      "options": [
+        "Kathmandu, Nepal",
+        "New Delhi, India",
+        "Dhaka, Bangladesh",
+        "Colombo, Sri Lanka"
+      ],
+      "oHi": [
+        "काठमांडू, नेपाल",
+        "नई दिल्ली, भारत",
+        "ढाका, बांग्लादेश",
+        "कोलंबो, श्रीलंका"
+      ],
+      "optionsHi": [
+        "काठमांडू, नेपाल",
+        "नई दिल्ली, भारत",
+        "ढाका, बांग्लादेश",
+        "कोलंबो, श्रीलंका"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "SAARC was founded in Dhaka on 8 December 1985. Its permanent Secretariat was established in Kathmandu, Nepal, on 16 January 1987.",
+      "explanation": "SAARC was founded in Dhaka on 8 December 1985. Its permanent Secretariat was established in Kathmandu, Nepal, on 16 January 1987.",
+      "expHi": "सार्क (SAARC) की स्थापना 8 दिसंबर 1985 को ढाका में हुई थी, जबकि इसका स्थायी सचिवालय 16 जनवरी 1987 को काठमांडू (नेपाल) में स्थापित किया गया।",
+      "explanationHi": "सार्क (SAARC) की स्थापना 8 दिसंबर 1985 को ढाका में हुई थी, जबकि इसका स्थायी सचिवालय 16 जनवरी 1987 को काठमांडू (नेपाल) में स्थापित किया गया।",
+      "hint": "Capital city of the Himalayan nation Nepal.",
+      "hintHi": "हिमालयी राष्ट्र नेपाल की राजधानी में स्थित।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "Banking",
+        "Railways"
+      ]
     }
-  ]
+  ],
+  "questionCount": 2
 }

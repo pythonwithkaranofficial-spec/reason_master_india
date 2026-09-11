@@ -31,26 +31,602 @@
   ],
   "mcqs": [
     {
+      "id": "gk_nat_awards_honours_q1",
       "q": "What is the highest wartime military gallantry decoration awarded in the Republic of India?",
+      "questionText": "What is the highest wartime military gallantry decoration awarded in the Republic of India?",
+      "qHi": "युद्धकाल में दुश्मन के सामने असाधारण बहादुरी और आत्म-बलिदान के लिए दिया जाने वाला भारत का सर्वोच्च सैन्य वीरता पुरस्कार कौन सा है?",
+      "questionTextHi": "युद्धकाल में दुश्मन के सामने असाधारण बहादुरी और आत्म-बलिदान के लिए दिया जाने वाला भारत का सर्वोच्च सैन्य वीरता पुरस्कार कौन सा है?",
       "o": [
         "Param Vir Chakra",
         "Maha Vir Chakra",
         "Ashoka Chakra",
         "Kirti Chakra"
       ],
+      "options": [
+        "Param Vir Chakra",
+        "Maha Vir Chakra",
+        "Ashoka Chakra",
+        "Kirti Chakra"
+      ],
+      "oHi": [
+        "परमवीर चक्र",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ],
+      "optionsHi": [
+        "परमवीर चक्र",
+        "महावीर चक्र",
+        "वीर चक्र",
+        "अशोक चक्र"
+      ],
       "a": 0,
-      "exp": "The Param Vir Chakra (PVC) is India's highest military decoration for most conspicuous bravery in the presence of the enemy. Major Somnath Sharma was its first recipient."
+      "correctIndex": 0,
+      "exp": "The Param Vir Chakra (PVC) is India's highest military decoration for most conspicuous bravery in the presence of the enemy. Major Somnath Sharma was its first recipient.",
+      "explanation": "The Param Vir Chakra (PVC) is India's highest military decoration for most conspicuous bravery in the presence of the enemy. Major Somnath Sharma was its first recipient.",
+      "expHi": "26 जनवरी 1950 को स्थापित परमवीर चक्र भारत का सर्वोच्च वीरता पदक है। मेजर सोमनाथ शर्मा 1947 में इसके पहले मरणोपरांत प्राप्तकर्ता थे।",
+      "explanationHi": "26 जनवरी 1950 को स्थापित परमवीर चक्र भारत का सर्वोच्च वीरता पदक है। मेजर सोमनाथ शर्मा 1947 में इसके पहले मरणोपरांत प्राप्तकर्ता थे।",
+      "hint": "Consider the established historical and constitutional facts of Awards & Honours.",
+      "hintHi": "मेजर सोमनाथ शर्मा इस सर्वोच्च चक्र के पहले प्राप्तकर्ता थे।",
+      "difficulty": "medium",
+      "examTags": [
+        "ssc_cgl",
+        "upsc_csat",
+        "railway",
+        "banking_ga"
+      ]
     },
     {
+      "id": "gk_nat_awards_honours_q2",
       "q": "Who was the first recipient of the prestigious Dadasaheb Phalke Award, India's highest cinema honor, in 1969?",
+      "questionText": "Who was the first recipient of the prestigious Dadasaheb Phalke Award, India's highest cinema honor, in 1969?",
+      "qHi": "1969 में स्थापित भारतीय सिनेमा के सर्वोच्च सम्मान 'दादासाहेब फाल्के पुरस्कार' की प्रथम प्राप्तकर्ता कौन थीं?",
+      "questionTextHi": "1969 में स्थापित भारतीय सिनेमा के सर्वोच्च सम्मान 'दादासाहेब फाल्के पुरस्कार' की प्रथम प्राप्तकर्ता कौन थीं?",
       "o": [
         "Devika Rani",
         "Prithviraj Kapoor",
         "Satyajit Ray",
         "Lata Mangeshkar"
       ],
+      "options": [
+        "Devika Rani",
+        "Prithviraj Kapoor",
+        "Satyajit Ray",
+        "Lata Mangeshkar"
+      ],
+      "oHi": [
+        "देविका रानी",
+        "सुलोचना",
+        "कानन देवी",
+        "लता मंगेशकर"
+      ],
+      "optionsHi": [
+        "देविका रानी",
+        "सुलोचना",
+        "कानन देवी",
+        "लता मंगेशकर"
+      ],
       "a": 0,
-      "exp": "Actress Devika Rani, widely regarded as the 'First Lady of Indian Cinema', received the inaugural award in 1969."
+      "correctIndex": 0,
+      "exp": "Actress Devika Rani, widely regarded as the 'First Lady of Indian Cinema', received the inaugural award in 1969.",
+      "explanation": "Actress Devika Rani, widely regarded as the 'First Lady of Indian Cinema', received the inaugural award in 1969.",
+      "expHi": "'भारतीय सिनेमा की प्रथम महिला' मानी जाने वाली अभिनेत्री और बॉम्बे टॉकीज की सह-संस्थापक देविका रानी चौधरी को 1969 में पहला दादासाहेब फाल्के पुरस्कार दिया गया था।",
+      "explanationHi": "'भारतीय सिनेमा की प्रथम महिला' मानी जाने वाली अभिनेत्री और बॉम्बे टॉकीज की सह-संस्थापक देविका रानी चौधरी को 1969 में पहला दादासाहेब फाल्के पुरस्कार दिया गया था।",
+      "hint": "Consider the established historical and constitutional facts of Awards & Honours.",
+      "hintHi": "उन्हें 'भारतीय सिनेमा की प्रथम महिला' कहा जाता है।",
+      "difficulty": "medium",
+      "examTags": [
+        "ssc_cgl",
+        "upsc_csat",
+        "railway",
+        "banking_ga"
+      ]
+    },
+    {
+      "id": "gk_nat_nobel_001",
+      "q": "In which year did Rabindranath Tagore receive the Nobel Prize for Literature?",
+      "questionText": "In which year did Rabindranath Tagore receive the Nobel Prize for Literature?",
+      "qHi": "रवींद्रनाथ टैगोर को साहित्य के क्षेत्र में किस वर्ष नोबेल पुरस्कार प्रदान किया गया था?",
+      "questionTextHi": "रवींद्रनाथ टैगोर को साहित्य के क्षेत्र में किस वर्ष नोबेल पुरस्कार प्रदान किया गया था?",
+      "o": [
+        "1913",
+        "1930",
+        "1968",
+        "1979"
+      ],
+      "options": [
+        "1913",
+        "1930",
+        "1968",
+        "1979"
+      ],
+      "oHi": [
+        "1913",
+        "1930",
+        "1968",
+        "1979"
+      ],
+      "optionsHi": [
+        "1913",
+        "1930",
+        "1968",
+        "1979"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Rabindranath Tagore won the Nobel Prize in Literature in 1913 for 'Geetanjali', becoming the first Asian Nobel laureate.",
+      "explanation": "Rabindranath Tagore won the Nobel Prize in Literature in 1913 for 'Geetanjali', becoming the first Asian Nobel laureate.",
+      "expHi": "रवींद्रनाथ टैगोर को 1913 में 'गीतांजलि' के लिए साहित्य का नोबेल पुरस्कार मिला, और वे नोबेल जीतने वाले प्रथम एशियाई बने।",
+      "explanationHi": "रवींद्रनाथ टैगोर को 1913 में 'गीतांजलि' के लिए साहित्य का नोबेल पुरस्कार मिला, और वे नोबेल जीतने वाले प्रथम एशियाई बने।",
+      "hint": "Awarded in 1913 for Literature.",
+      "hintHi": "1913 में साहित्य के क्षेत्र में प्रदान किया गया।",
+      "difficulty": "medium",
+      "examTags": [
+        "ssc_cgl",
+        "upsc_prelims",
+        "state_psc",
+        "banking"
+      ]
+    },
+    {
+      "id": "gk_nat_nobel_002",
+      "q": "In which category did Sir C.V. Raman receive the Nobel Prize in 1930?",
+      "questionText": "In which category did Sir C.V. Raman receive the Nobel Prize in 1930?",
+      "qHi": "सर सी.वी. रमन को किस श्रेणी में नोबेल पुरस्कार प्रदान किया गया था?",
+      "questionTextHi": "सर सी.वी. रमन को किस श्रेणी में नोबेल पुरस्कार प्रदान किया गया था?",
+      "o": [
+        "Chemistry",
+        "Physics",
+        "Medicine",
+        "Peace"
+      ],
+      "options": [
+        "Chemistry",
+        "Physics",
+        "Medicine",
+        "Peace"
+      ],
+      "oHi": [
+        "रसायन",
+        "भौतिकी",
+        "चिकित्सा",
+        "शांति"
+      ],
+      "optionsHi": [
+        "रसायन",
+        "भौतिकी",
+        "चिकित्सा",
+        "शांति"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Sir C.V. Raman was awarded the Nobel Prize in Physics in 1930 for the discovery of the Raman Effect.",
+      "explanation": "Sir C.V. Raman was awarded the Nobel Prize in Physics in 1930 for the discovery of the Raman Effect.",
+      "expHi": "सर सी.वी. रमन को 1930 में 'रमन प्रभाव' की खोज के लिए भौतिकी का नोबेल पुरस्कार प्रदान किया गया था।",
+      "explanationHi": "सर सी.वी. रमन को 1930 में 'रमन प्रभाव' की खोज के लिए भौतिकी का नोबेल पुरस्कार प्रदान किया गया था।",
+      "hint": "Awarded in 1930 for Physics.",
+      "hintHi": "1930 में भौतिकी के क्षेत्र में प्रदान किया गया।",
+      "difficulty": "medium",
+      "examTags": [
+        "ssc_cgl",
+        "upsc_prelims",
+        "state_psc",
+        "banking"
+      ]
+    },
+    {
+      "id": "gk_nat_nobel_003",
+      "q": "In which category did Dr. Har Gobind Khorana receive the Nobel Prize in 1968?",
+      "questionText": "In which category did Dr. Har Gobind Khorana receive the Nobel Prize in 1968?",
+      "qHi": "डॉ. हरगोविंद खुराना को किस श्रेणी में नोबेल पुरस्कार प्रदान किया गया था?",
+      "questionTextHi": "डॉ. हरगोविंद खुराना को किस श्रेणी में नोबेल पुरस्कार प्रदान किया गया था?",
+      "o": [
+        "Physics",
+        "Economics",
+        "Physiology or Medicine",
+        "Literature"
+      ],
+      "options": [
+        "Physics",
+        "Economics",
+        "Physiology or Medicine",
+        "Literature"
+      ],
+      "oHi": [
+        "भौतिकी",
+        "अर्थशास्त्र",
+        "चिकित्सा",
+        "साहित्य"
+      ],
+      "optionsHi": [
+        "भौतिकी",
+        "अर्थशास्त्र",
+        "चिकित्सा",
+        "साहित्य"
+      ],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Dr. Har Gobind Khorana shared the 1968 Nobel Prize in Medicine for deciphering the genetic code.",
+      "explanation": "Dr. Har Gobind Khorana shared the 1968 Nobel Prize in Medicine for deciphering the genetic code.",
+      "expHi": "डॉ. हरगोविंद खुराना को आनुवंशिक कोड की व्याख्या के लिए 1968 में चिकित्सा का नोबेल पुरस्कार मिला।",
+      "explanationHi": "डॉ. हरगोविंद खुराना को आनुवंशिक कोड की व्याख्या के लिए 1968 में चिकित्सा का नोबेल पुरस्कार मिला।",
+      "hint": "Awarded in 1968 for Physiology or Medicine.",
+      "hintHi": "1968 में चिकित्सा के क्षेत्र में प्रदान किया गया।",
+      "difficulty": "medium",
+      "examTags": [
+        "ssc_cgl",
+        "upsc_prelims",
+        "state_psc",
+        "banking"
+      ]
+    },
+    {
+      "id": "gk_nat_nobel_004",
+      "q": "In which category did Mother Teresa receive the Nobel Prize in 1979?",
+      "questionText": "In which category did Mother Teresa receive the Nobel Prize in 1979?",
+      "qHi": "मदर टेरेसा को किस श्रेणी में नोबेल पुरस्कार प्रदान किया गया था?",
+      "questionTextHi": "मदर टेरेसा को किस श्रेणी में नोबेल पुरस्कार प्रदान किया गया था?",
+      "o": [
+        "Literature",
+        "Physics",
+        "Peace",
+        "Economics"
+      ],
+      "options": [
+        "Literature",
+        "Physics",
+        "Peace",
+        "Economics"
+      ],
+      "oHi": [
+        "साहित्य",
+        "भौतिकी",
+        "शांति",
+        "अर्थशास्त्र"
+      ],
+      "optionsHi": [
+        "साहित्य",
+        "भौतिकी",
+        "शांति",
+        "अर्थशास्त्र"
+      ],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Mother Teresa received the Nobel Peace Prize in 1979 for her humanitarian service to the poor in Kolkata.",
+      "explanation": "Mother Teresa received the Nobel Peace Prize in 1979 for her humanitarian service to the poor in Kolkata.",
+      "expHi": "मदर टेरेसा को कोलकाता में गरीबों और पीड़ितों की सेवा के लिए 1979 में शांति का नोबेल पुरस्कार दिया गया था।",
+      "explanationHi": "मदर टेरेसा को कोलकाता में गरीबों और पीड़ितों की सेवा के लिए 1979 में शांति का नोबेल पुरस्कार दिया गया था।",
+      "hint": "Awarded in 1979 for Peace.",
+      "hintHi": "1979 में शांति के क्षेत्र में प्रदान किया गया।",
+      "difficulty": "medium",
+      "examTags": [
+        "ssc_cgl",
+        "upsc_prelims",
+        "state_psc",
+        "banking"
+      ]
+    },
+    {
+      "id": "gk_nat_nobel_005",
+      "q": "In which category did Dr. Amartya Sen receive the Nobel Prize in 1998?",
+      "questionText": "In which category did Dr. Amartya Sen receive the Nobel Prize in 1998?",
+      "qHi": "डॉ. अमर्त्य सेन को किस श्रेणी में नोबेल पुरस्कार प्रदान किया गया था?",
+      "questionTextHi": "डॉ. अमर्त्य सेन को किस श्रेणी में नोबेल पुरस्कार प्रदान किया गया था?",
+      "o": [
+        "Economic Sciences",
+        "Literature",
+        "Peace",
+        "Physics"
+      ],
+      "options": [
+        "Economic Sciences",
+        "Literature",
+        "Peace",
+        "Physics"
+      ],
+      "oHi": [
+        "अर्थशास्त्र",
+        "साहित्य",
+        "शांति",
+        "भौतिकी"
+      ],
+      "optionsHi": [
+        "अर्थशास्त्र",
+        "साहित्य",
+        "शांति",
+        "भौतिकी"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Dr. Amartya Sen won the 1998 Nobel Memorial Prize in Economic Sciences for his work in welfare economics and poverty analysis.",
+      "explanation": "Dr. Amartya Sen won the 1998 Nobel Memorial Prize in Economic Sciences for his work in welfare economics and poverty analysis.",
+      "expHi": "डॉ. अमर्त्य सेन को कल्याणकारी अर्थशास्त्र और गरीबी विश्लेषण में योगदान के लिए 1998 में अर्थशास्त्र का नोबेल पुरस्कार मिला।",
+      "explanationHi": "डॉ. अमर्त्य सेन को कल्याणकारी अर्थशास्त्र और गरीबी विश्लेषण में योगदान के लिए 1998 में अर्थशास्त्र का नोबेल पुरस्कार मिला।",
+      "hint": "Awarded in 1998 for Economic Sciences.",
+      "hintHi": "1998 में अर्थशास्त्र के क्षेत्र में प्रदान किया गया।",
+      "difficulty": "medium",
+      "examTags": [
+        "ssc_cgl",
+        "upsc_prelims",
+        "state_psc",
+        "banking"
+      ]
+    },
+    {
+      "id": "gk_nat_nobel_006",
+      "q": "In which year did Kailash Satyarthi receive the Nobel Prize for Peace?",
+      "questionText": "In which year did Kailash Satyarthi receive the Nobel Prize for Peace?",
+      "qHi": "कैलाश सत्यार्थी को शांति के क्षेत्र में किस वर्ष नोबेल पुरस्कार प्रदान किया गया था?",
+      "questionTextHi": "कैलाश सत्यार्थी को शांति के क्षेत्र में किस वर्ष नोबेल पुरस्कार प्रदान किया गया था?",
+      "o": [
+        "2010",
+        "2012",
+        "2014",
+        "2019"
+      ],
+      "options": [
+        "2010",
+        "2012",
+        "2014",
+        "2019"
+      ],
+      "oHi": [
+        "2010",
+        "2012",
+        "2014",
+        "2019"
+      ],
+      "optionsHi": [
+        "2010",
+        "2012",
+        "2014",
+        "2019"
+      ],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Kailash Satyarthi was awarded the Nobel Peace Prize in 2014 along with Malala Yousafzai for championing child rights.",
+      "explanation": "Kailash Satyarthi was awarded the Nobel Peace Prize in 2014 along with Malala Yousafzai for championing child rights.",
+      "expHi": "कैलाश सत्यार्थी को 'बचपन बचाओ आंदोलन' और बाल अधिकारों की रक्षा के लिए 2014 में शांति का नोबेल पुरस्कार दिया गया था।",
+      "explanationHi": "कैलाश सत्यार्थी को 'बचपन बचाओ आंदोलन' और बाल अधिकारों की रक्षा के लिए 2014 में शांति का नोबेल पुरस्कार दिया गया था।",
+      "hint": "Awarded in 2014 for Peace.",
+      "hintHi": "2014 में शांति के क्षेत्र में प्रदान किया गया।",
+      "difficulty": "medium",
+      "examTags": [
+        "ssc_cgl",
+        "upsc_prelims",
+        "state_psc",
+        "banking"
+      ]
+    },
+    {
+      "id": "gk_nat_awd_001",
+      "q": "Who was the first Asian to win the Nobel Prize in Literature in 1913?",
+      "questionText": "Who was the first Asian to win the Nobel Prize in Literature in 1913?",
+      "qHi": "1913 में साहित्य का नोबेल पुरस्कार जीतने वाले प्रथम एशियाई कौन थे?",
+      "questionTextHi": "1913 में साहित्य का नोबेल पुरस्कार जीतने वाले प्रथम एशियाई कौन थे?",
+      "o": [
+        "Rabindranath Tagore",
+        "Sir C.V. Raman",
+        "Sarojini Naidu",
+        "Sri Aurobindo"
+      ],
+      "options": [
+        "Rabindranath Tagore",
+        "Sir C.V. Raman",
+        "Sarojini Naidu",
+        "Sri Aurobindo"
+      ],
+      "oHi": [
+        "रवींद्रनाथ टैगोर",
+        "सर सी.वी. रमन",
+        "सरोजिनी नायडू",
+        "श्री अरबिंदो"
+      ],
+      "optionsHi": [
+        "रवींद्रनाथ टैगोर",
+        "सर सी.वी. रमन",
+        "सरोजिनी नायडू",
+        "श्री अरबिंदो"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Rabindranath Tagore was awarded the Nobel Prize in Literature in 1913 for 'Gitanjali'.",
+      "explanation": "Rabindranath Tagore was awarded the Nobel Prize in Literature in 1913 for 'Gitanjali'.",
+      "expHi": "रवींद्रनाथ टैगोर को उनकी कविता संग्रह 'गीतांजलि' के लिए 1913 में साहित्य का नोबेल पुरस्कार दिया गया था।",
+      "explanationHi": "रवींद्रनाथ टैगोर को उनकी कविता संग्रह 'गीतांजलि' के लिए 1913 में साहित्य का नोबेल पुरस्कार दिया गया था।",
+      "hint": "Key concept under Awards Honours.",
+      "hintHi": "Awards Honours का महत्वपूर्ण तथ्य।",
+      "difficulty": "easy",
+      "examTags": [
+        "ssc_cgl",
+        "upsc_prelims"
+      ]
+    },
+    {
+      "id": "gk_nat_awd_002",
+      "q": "Sir C.V. Raman won the Nobel Prize in Physics in 1930 for the discovery of which phenomenon?",
+      "questionText": "Sir C.V. Raman won the Nobel Prize in Physics in 1930 for the discovery of which phenomenon?",
+      "qHi": "सर सी.वी. रमन को 1930 में किस परिघटना की खोज के लिए भौतिकी का नोबेल पुरस्कार मिला था?",
+      "questionTextHi": "सर सी.वी. रमन को 1930 में किस परिघटना की खोज के लिए भौतिकी का नोबेल पुरस्कार मिला था?",
+      "o": [
+        "Photoelectric Effect",
+        "Raman Effect (Scattering of Light)",
+        "Nuclear Fission",
+        "Cosmic Rays"
+      ],
+      "options": [
+        "Photoelectric Effect",
+        "Raman Effect (Scattering of Light)",
+        "Nuclear Fission",
+        "Cosmic Rays"
+      ],
+      "oHi": [
+        "प्रकाश विद्युत प्रभाव",
+        "रमन प्रभाव (प्रकाश का प्रकीर्णन)",
+        "नाभिकीय विखंडन",
+        "कॉस्मिक किरणें"
+      ],
+      "optionsHi": [
+        "प्रकाश विद्युत प्रभाव",
+        "रमन प्रभाव (प्रकाश का प्रकीर्णन)",
+        "नाभिकीय विखंडन",
+        "कॉस्मिक किरणें"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "The Raman Effect explains the inelastic scattering of light photons when passing through matter.",
+      "explanation": "The Raman Effect explains the inelastic scattering of light photons when passing through matter.",
+      "expHi": "रमन प्रभाव प्रकाश के प्रकीर्णन की व्याख्या करता है, जिसकी याद में 28 फरवरी को राष्ट्रीय विज्ञान दिवस मनाया जाता है।",
+      "explanationHi": "रमन प्रभाव प्रकाश के प्रकीर्णन की व्याख्या करता है, जिसकी याद में 28 फरवरी को राष्ट्रीय विज्ञान दिवस मनाया जाता है।",
+      "hint": "Key concept under Awards Honours.",
+      "hintHi": "Awards Honours का महत्वपूर्ण तथ्य।",
+      "difficulty": "easy",
+      "examTags": [
+        "ssc_cgl",
+        "railway"
+      ]
+    },
+    {
+      "id": "gk_nat_awards_honours_nobel_1",
+      "q": "Who was the first Indian and the first Asian to be conferred the Nobel Prize, winning in Literature in 1913?",
+      "questionText": "Who was the first Indian and the first Asian to be conferred the Nobel Prize, winning in Literature in 1913?",
+      "qHi": "1913 में साहित्य का नोबेल पुरस्कार जीतने वाले प्रथम भारतीय तथा प्रथम एशियाई व्यक्ति कौन थे?",
+      "questionTextHi": "1913 में साहित्य का नोबेल पुरस्कार जीतने वाले प्रथम भारतीय तथा प्रथम एशियाई व्यक्ति कौन थे?",
+      "o": [
+        "Rabindranath Tagore",
+        "Sir C. V. Raman",
+        "Sarojini Naidu",
+        "Swami Vivekananda"
+      ],
+      "options": [
+        "Rabindranath Tagore",
+        "Sir C. V. Raman",
+        "Sarojini Naidu",
+        "Swami Vivekananda"
+      ],
+      "oHi": [
+        "रवींद्रनाथ टैगोर",
+        "सर सी.वी. रमन",
+        "सरोजिनी नायडू",
+        "स्वामी विवेकानंद"
+      ],
+      "optionsHi": [
+        "रवींद्रनाथ टैगोर",
+        "सर सी.वी. रमन",
+        "सरोजिनी नायडू",
+        "स्वामी विवेकानंद"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Rabindranath Tagore was awarded the Nobel Prize in Literature in 1913 for his song offering collection 'Gitanjali' (Song Offerings), becoming the first non-European and first Asian laureate.",
+      "explanation": "Rabindranath Tagore was awarded the Nobel Prize in Literature in 1913 for his song offering collection 'Gitanjali' (Song Offerings), becoming the first non-European and first Asian laureate.",
+      "expHi": "गुरुदेव रवींद्रनाथ टैगोर को 1913 में उनकी काव्य कृति 'गीतांजलि' के लिए साहित्य का नोबेल पुरस्कार दिया गया। वे यह सम्मान पाने वाले प्रथम गैर-यूरोपीय एवं प्रथम एशियाई थे।",
+      "explanationHi": "गुरुदेव रवींद्रनाथ टैगोर को 1913 में उनकी काव्य कृति 'गीतांजलि' के लिए साहित्य का नोबेल पुरस्कार दिया गया। वे यह सम्मान पाने वाले प्रथम गैर-यूरोपीय एवं प्रथम एशियाई थे।",
+      "hint": "Awarded for his spiritual poetry collection 'Gitanjali'.",
+      "hintHi": "इनके कविता संग्रह 'गीतांजलि' के लिए यह सम्मान मिला था।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA"
+      ]
+    },
+    {
+      "id": "gk_nat_awards_honours_nobel_3",
+      "q": "For which field of study did Indian-born economist Amartya Sen win the Nobel Memorial Prize in Economic Sciences in 1998?",
+      "questionText": "For which field of study did Indian-born economist Amartya Sen win the Nobel Memorial Prize in Economic Sciences in 1998?",
+      "qHi": "भारतीय अर्थशास्त्री अमर्त्य सेन को 1998 में अर्थशास्त्र का नोबेल पुरस्कार किस क्षेत्र में उनके युगांतरकारी योगदान के लिए दिया गया था?",
+      "questionTextHi": "भारतीय अर्थशास्त्री अमर्त्य सेन को 1998 में अर्थशास्त्र का नोबेल पुरस्कार किस क्षेत्र में उनके युगांतरकारी योगदान के लिए दिया गया था?",
+      "o": [
+        "Welfare Economics & Social Choice Theory",
+        "Monetary Economics",
+        "Game Theory",
+        "Econometrics"
+      ],
+      "options": [
+        "Welfare Economics & Social Choice Theory",
+        "Monetary Economics",
+        "Game Theory",
+        "Econometrics"
+      ],
+      "oHi": [
+        "कल्याणकारी अर्थशास्त्र एवं सामाजिक चयन सिद्धांत",
+        "मौद्रिक अर्थशास्त्र",
+        "गेम थ्योरी",
+        "इकोनोमेट्रिक्स"
+      ],
+      "optionsHi": [
+        "कल्याणकारी अर्थशास्त्र एवं सामाजिक चयन सिद्धांत",
+        "मौद्रिक अर्थशास्त्र",
+        "गेम थ्योरी",
+        "इकोनोमेट्रिक्स"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Amartya Sen was awarded the 1998 Nobel Prize in Economics for his contributions to welfare economics, poverty indices, famine analysis, and the Human Development Index (HDI).",
+      "explanation": "Amartya Sen was awarded the 1998 Nobel Prize in Economics for his contributions to welfare economics, poverty indices, famine analysis, and the Human Development Index (HDI).",
+      "expHi": "प्रो. अमर्त्य सेन को कल्याणकारी अर्थशास्त्र, अकाल के कारणों के विश्लेषण तथा मानव विकास सूचकांक (HDI) की अवधारणा के विकास के लिए 1998 का अर्थशास्त्र का नोबेल पुरस्कार मिला।",
+      "explanationHi": "प्रो. अमर्त्य सेन को कल्याणकारी अर्थशास्त्र, अकाल के कारणों के विश्लेषण तथा मानव विकास सूचकांक (HDI) की अवधारणा के विकास के लिए 1998 का अर्थशास्त्र का नोबेल पुरस्कार मिला।",
+      "hint": "Renowned for pioneering research on famines, poverty indices, and human capabilities.",
+      "hintHi": "अकाल, गरीबी और मानव क्षमता विकास पर शोध के लिए प्रसिद्ध।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA"
+      ]
+    },
+    {
+      "id": "gk_nat_awards_honours_nobel_4",
+      "q": "Who shared the 2014 Nobel Peace Prize with Malala Yousafzai for spearheading the 'Bachpan Bachao Andolan' against child labor?",
+      "questionText": "Who shared the 2014 Nobel Peace Prize with Malala Yousafzai for spearheading the 'Bachpan Bachao Andolan' against child labor?",
+      "qHi": "बाल श्रम के विरुद्ध 'बचपन बचाओ आंदोलन' का नेतृत्व करने के लिए 2014 में मलाला यूसुफजई के साथ संयुक्त रूप से शांति का नोबेल पुरस्कार किसे दिया गया?",
+      "questionTextHi": "बाल श्रम के विरुद्ध 'बचपन बचाओ आंदोलन' का नेतृत्व करने के लिए 2014 में मलाला यूसुफजई के साथ संयुक्त रूप से शांति का नोबेल पुरस्कार किसे दिया गया?",
+      "o": [
+        "Kailash Satyarthi",
+        "Anna Hazare",
+        "Baba Amte",
+        "Sundarlal Bahuguna"
+      ],
+      "options": [
+        "Kailash Satyarthi",
+        "Anna Hazare",
+        "Baba Amte",
+        "Sundarlal Bahuguna"
+      ],
+      "oHi": [
+        "कैलाश सत्यार्थी",
+        "अन्ना हजारे",
+        "बाबा आमटे",
+        "सुंदरलाल बहुगुणा"
+      ],
+      "optionsHi": [
+        "कैलाश सत्यार्थी",
+        "अन्ना हजारे",
+        "बाबा आमटे",
+        "सुंदरलाल बहुगुणा"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Kailash Satyarthi founded the 'Bachpan Bachao Andolan' (Save the Childhood Movement) in 1980 and has rescued over 100,000 children from trafficking and bonded labor across India.",
+      "explanation": "Kailash Satyarthi founded the 'Bachpan Bachao Andolan' (Save the Childhood Movement) in 1980 and has rescued over 100,000 children from trafficking and bonded labor across India.",
+      "expHi": "कैलाश सत्यार्थी ने 1980 में 'बचपन बचाओ आंदोलन' की स्थापना की और एक लाख से अधिक बच्चों को बाल श्रम, दासता और तस्करी से मुक्त कराया।",
+      "explanationHi": "कैलाश सत्यार्थी ने 1980 में 'बचपन बचाओ आंदोलन' की स्थापना की और एक लाख से अधिक बच्चों को बाल श्रम, दासता और तस्करी से मुक्त कराया।",
+      "hint": "Founder of Bachpan Bachao Andolan in 1980.",
+      "hintHi": "1980 में बचपन बचाओ आंदोलन की शुरुआत की।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "CDS",
+        "NDA"
+      ]
     }
-  ]
+  ],
+  "questionCount": 10
 }

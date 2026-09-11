@@ -32,26 +32,328 @@
   ],
   "mcqs": [
     {
+      "id": "gk_nat_national_parks_wildlife_q1",
       "q": "Which is the largest mangrove tiger habitat and the only mangrove forest in the world inhabited by wild tigers?",
+      "questionText": "Which is the largest mangrove tiger habitat and the only mangrove forest in the world inhabited by wild tigers?",
+      "qHi": "दुनिया का सबसे बड़ा मैंग्रोव वन क्षेत्र और रॉयल बंगाल टाइगर का एकमात्र दलदली प्राकृतिक आवास कौन सा है?",
+      "questionTextHi": "दुनिया का सबसे बड़ा मैंग्रोव वन क्षेत्र और रॉयल बंगाल टाइगर का एकमात्र दलदली प्राकृतिक आवास कौन सा है?",
       "o": [
         "Sundarbans National Park",
         "Bhitarkanika National Park",
         "Pichavaram Mangroves",
         "Coringa Sanctuary"
       ],
+      "options": [
+        "Sundarbans National Park",
+        "Bhitarkanika National Park",
+        "Pichavaram Mangroves",
+        "Coringa Sanctuary"
+      ],
+      "oHi": [
+        "सुंदरबन राष्ट्रीय उद्यान",
+        "भितरकनिका राष्ट्रीय उद्यान",
+        "सिमलीपाल राष्ट्रीय उद्यान",
+        "पेरियार राष्ट्रीय उद्यान"
+      ],
+      "optionsHi": [
+        "सुंदरबन राष्ट्रीय उद्यान",
+        "भितरकनिका राष्ट्रीय उद्यान",
+        "सिमलीपाल राष्ट्रीय उद्यान",
+        "पेरियार राष्ट्रीय उद्यान"
+      ],
       "a": 0,
-      "exp": "The Sundarbans delta in West Bengal is the world's largest contiguous mangrove ecosystem and tiger habitat."
+      "correctIndex": 0,
+      "exp": "The Sundarbans delta in West Bengal is the world's largest contiguous mangrove ecosystem and tiger habitat.",
+      "explanation": "The Sundarbans delta in West Bengal is the world's largest contiguous mangrove ecosystem and tiger habitat.",
+      "expHi": "पश्चिम बंगाल में गंगा डेल्टा पर स्थित सुंदरबन यूनेस्को विश्व धरोहर और रामसर आर्द्रभूमि है, जो 'सुंदरी' (हेरीटिएरा फोम्स) मैंग्रोव वृक्षों के लिए विख्यात है।",
+      "explanationHi": "पश्चिम बंगाल में गंगा डेल्टा पर स्थित सुंदरबन यूनेस्को विश्व धरोहर और रामसर आर्द्रभूमि है, जो 'सुंदरी' (हेरीटिएरा फोम्स) मैंग्रोव वृक्षों के लिए विख्यात है।",
+      "hint": "Consider the established historical and constitutional facts of National Parks & Wildlife.",
+      "hintHi": "यह 'सुंदरी' मैंग्रोव वृक्षों के नाम पर प्रसिद्ध है।",
+      "difficulty": "medium",
+      "examTags": [
+        "ssc_cgl",
+        "upsc_csat",
+        "railway",
+        "banking_ga"
+      ]
     },
     {
+      "id": "gk_nat_national_parks_wildlife_q2",
       "q": "Kaziranga National Park in Assam is globally celebrated for housing two-thirds of the total world population of which animal?",
+      "questionText": "Kaziranga National Park in Assam is globally celebrated for housing two-thirds of the total world population of which animal?",
+      "qHi": "असम का काजीरंगा राष्ट्रीय उद्यान दुनिया में किस संकटग्रस्त वन्यजीव की दो-तिहाई से अधिक वैश्विक आबादी के लिए जाना जाता है?",
+      "questionTextHi": "असम का काजीरंगा राष्ट्रीय उद्यान दुनिया में किस संकटग्रस्त वन्यजीव की दो-तिहाई से अधिक वैश्विक आबादी के लिए जाना जाता है?",
       "o": [
         "Great Indian One-horned Rhinoceros",
         "Wild Asian Water Buffalo",
         "Golden Langur",
         "Clouded Leopard"
       ],
+      "options": [
+        "Great Indian One-horned Rhinoceros",
+        "Wild Asian Water Buffalo",
+        "Golden Langur",
+        "Clouded Leopard"
+      ],
+      "oHi": [
+        "महान भारतीय एक सींग वाला गैंडा",
+        "एशियाई हाथी",
+        "दलदली हिरण (बारहसिंगा)",
+        "जंगली जल भैंसा"
+      ],
+      "optionsHi": [
+        "महान भारतीय एक सींग वाला गैंडा",
+        "एशियाई हाथी",
+        "दलदली हिरण (बारहसिंगा)",
+        "जंगली जल भैंसा"
+      ],
       "a": 0,
-      "exp": "Kaziranga National Park is a UNESCO World Heritage Site with the highest concentration of greater one-horned rhinos in the world."
+      "correctIndex": 0,
+      "exp": "Kaziranga National Park is a UNESCO World Heritage Site with the highest concentration of greater one-horned rhinos in the world.",
+      "explanation": "Kaziranga National Park is a UNESCO World Heritage Site with the highest concentration of greater one-horned rhinos in the world.",
+      "expHi": "काजीरंगा राष्ट्रीय उद्यान राइनोसेरोस यूनिकॉर्निस (एक सींग वाले गैंडे) के सबसे सफल संरक्षण मॉडल के लिए पूरी दुनिया में प्रसिद्ध है।",
+      "explanationHi": "काजीरंगा राष्ट्रीय उद्यान राइनोसेरोस यूनिकॉर्निस (एक सींग वाले गैंडे) के सबसे सफल संरक्षण मॉडल के लिए पूरी दुनिया में प्रसिद्ध है।",
+      "hint": "Consider the established historical and constitutional facts of National Parks & Wildlife.",
+      "hintHi": "यह असम का आधिकारिक राज्य पशु भी है।",
+      "difficulty": "medium",
+      "examTags": [
+        "ssc_cgl",
+        "upsc_csat",
+        "railway",
+        "banking_ga"
+      ]
+    },
+    {
+      "id": "gk_nat_unesco_003",
+      "q": "In which Indian state is the UNESCO World Heritage site 'Kaziranga National Park' located?",
+      "questionText": "In which Indian state is the UNESCO World Heritage site 'Kaziranga National Park' located?",
+      "qHi": "यूनेस्को विश्व धरोहर स्थल 'काजीरंगा राष्ट्रीय उद्यान' भारत के किस राज्य में स्थित है?",
+      "questionTextHi": "यूनेस्को विश्व धरोहर स्थल 'काजीरंगा राष्ट्रीय उद्यान' भारत के किस राज्य में स्थित है?",
+      "o": [
+        "Assam",
+        "West Bengal",
+        "Meghalaya",
+        "Arunachal Pradesh"
+      ],
+      "options": [
+        "Assam",
+        "West Bengal",
+        "Meghalaya",
+        "Arunachal Pradesh"
+      ],
+      "oHi": [
+        "असम",
+        "पश्चिम बंगाल",
+        "मेघालय",
+        "अरुणाचल प्रदेश"
+      ],
+      "optionsHi": [
+        "असम",
+        "पश्चिम बंगाल",
+        "मेघालय",
+        "अरुणाचल प्रदेश"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "The UNESCO World Heritage site 'Kaziranga National Park' is situated in Assam.",
+      "explanation": "The UNESCO World Heritage site 'Kaziranga National Park' is situated in Assam.",
+      "expHi": "'काजीरंगा राष्ट्रीय उद्यान' यूनेस्को का एक प्रमुख विश्व धरोहर स्थल है जो असम में स्थित है।",
+      "explanationHi": "'काजीरंगा राष्ट्रीय उद्यान' यूनेस्को का एक प्रमुख विश्व धरोहर स्थल है जो असम में स्थित है।",
+      "hint": "Located in Assam.",
+      "hintHi": "यह असम में स्थित है।",
+      "difficulty": "medium",
+      "examTags": [
+        "ssc_cgl",
+        "upsc_prelims",
+        "state_psc"
+      ]
+    },
+    {
+      "id": "gk_nat_unesco_005",
+      "q": "In which Indian state is the UNESCO World Heritage site 'Keoladeo National Park' located?",
+      "questionText": "In which Indian state is the UNESCO World Heritage site 'Keoladeo National Park' located?",
+      "qHi": "यूनेस्को विश्व धरोहर स्थल 'केवलादेव राष्ट्रीय उद्यान (भरतपुर)' भारत के किस राज्य में स्थित है?",
+      "questionTextHi": "यूनेस्को विश्व धरोहर स्थल 'केवलादेव राष्ट्रीय उद्यान (भरतपुर)' भारत के किस राज्य में स्थित है?",
+      "o": [
+        "Uttar Pradesh",
+        "Rajasthan",
+        "Madhya Pradesh",
+        "Haryana"
+      ],
+      "options": [
+        "Uttar Pradesh",
+        "Rajasthan",
+        "Madhya Pradesh",
+        "Haryana"
+      ],
+      "oHi": [
+        "उत्तर प्रदेश",
+        "राजस्थान",
+        "मध्य प्रदेश",
+        "हरियाणा"
+      ],
+      "optionsHi": [
+        "उत्तर प्रदेश",
+        "राजस्थान",
+        "मध्य प्रदेश",
+        "हरियाणा"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "The UNESCO World Heritage site 'Keoladeo National Park' is situated in Rajasthan.",
+      "explanation": "The UNESCO World Heritage site 'Keoladeo National Park' is situated in Rajasthan.",
+      "expHi": "'केवलादेव राष्ट्रीय उद्यान (भरतपुर)' यूनेस्को का एक प्रमुख विश्व धरोहर स्थल है जो राजस्थान में स्थित है।",
+      "explanationHi": "'केवलादेव राष्ट्रीय उद्यान (भरतपुर)' यूनेस्को का एक प्रमुख विश्व धरोहर स्थल है जो राजस्थान में स्थित है।",
+      "hint": "Located in Rajasthan.",
+      "hintHi": "यह राजस्थान में स्थित है।",
+      "difficulty": "medium",
+      "examTags": [
+        "ssc_cgl",
+        "upsc_prelims",
+        "state_psc"
+      ]
+    },
+    {
+      "id": "gk_nat_national_parks_wildlife_exp_1",
+      "q": "Which was the first National Park established in India (and in Asia) in 1936, initially named Hailey National Park?",
+      "questionText": "Which was the first National Park established in India (and in Asia) in 1936, initially named Hailey National Park?",
+      "qHi": "1936 में स्थापित भारत (और एशिया) का प्रथम राष्ट्रीय उद्यान कौन सा था, जिसे मूल रूप से 'हैली नेशनल पार्क' नाम दिया गया था?",
+      "questionTextHi": "1936 में स्थापित भारत (और एशिया) का प्रथम राष्ट्रीय उद्यान कौन सा था, जिसे मूल रूप से 'हैली नेशनल पार्क' नाम दिया गया था?",
+      "o": [
+        "Jim Corbett National Park (Uttarakhand)",
+        "Kanha National Park",
+        "Kaziranga National Park",
+        "Gir National Park"
+      ],
+      "options": [
+        "Jim Corbett National Park (Uttarakhand)",
+        "Kanha National Park",
+        "Kaziranga National Park",
+        "Gir National Park"
+      ],
+      "oHi": [
+        "जिम कॉर्बेट राष्ट्रीय उद्यान (उत्तराखंड)",
+        "कान्हा राष्ट्रीय उद्यान",
+        "काजीरंगा राष्ट्रीय उद्यान",
+        "गिर राष्ट्रीय उद्यान"
+      ],
+      "optionsHi": [
+        "जिम कॉर्बेट राष्ट्रीय उद्यान (उत्तराखंड)",
+        "कान्हा राष्ट्रीय उद्यान",
+        "काजीरंगा राष्ट्रीय उद्यान",
+        "गिर राष्ट्रीय उद्यान"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Jim Corbett National Park in Nainital and Pauri Garhwal districts of Uttarakhand was established in 1936 as Hailey National Park. In 1973, it became the birthplace of 'Project Tiger'.",
+      "explanation": "Jim Corbett National Park in Nainital and Pauri Garhwal districts of Uttarakhand was established in 1936 as Hailey National Park. In 1973, it became the birthplace of 'Project Tiger'.",
+      "expHi": "उत्तराखंड के नैनीताल और पौड़ी गढ़वाल में 1936 में स्थापित हैली नेशनल पार्क (वर्तमान जिम कॉर्बेट) भारत का पहला राष्ट्रीय उद्यान है। 1973 में यहीं से 'प्रोजेक्ट टाइगर' की शुरुआत हुई थी।",
+      "explanationHi": "उत्तराखंड के नैनीताल और पौड़ी गढ़वाल में 1936 में स्थापित हैली नेशनल पार्क (वर्तमान जिम कॉर्बेट) भारत का पहला राष्ट्रीय उद्यान है। 1973 में यहीं से 'प्रोजेक्ट टाइगर' की शुरुआत हुई थी।",
+      "hint": "Renamed after hunter-conservationist Jim Corbett; site of the 1973 launch of Project Tiger.",
+      "hintHi": "1973 में प्रोजेक्ट टाइगर का शुभारंभ यहीं से हुआ था।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "Banking",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_national_parks_wildlife_exp_2",
+      "q": "Gir National Park and Wildlife Sanctuary in Gujarat is the world's only natural wild refuge for which magnificent big cat?",
+      "questionText": "Gir National Park and Wildlife Sanctuary in Gujarat is the world's only natural wild refuge for which magnificent big cat?",
+      "qHi": "गुजरात का 'गिर राष्ट्रीय उद्यान एवं वन्यजीव अभयारण्य' विश्व में किस अद्वितीय वन्यजीव का एकमात्र प्राकृतिक निवास स्थान है?",
+      "questionTextHi": "गुजरात का 'गिर राष्ट्रीय उद्यान एवं वन्यजीव अभयारण्य' विश्व में किस अद्वितीय वन्यजीव का एकमात्र प्राकृतिक निवास स्थान है?",
+      "o": [
+        "Asiatic Lion (एशियाई शेर)",
+        "Royal Bengal Tiger",
+        "Snow Leopard",
+        "Clouded Leopard"
+      ],
+      "options": [
+        "Asiatic Lion (एशियाई शेर)",
+        "Royal Bengal Tiger",
+        "Snow Leopard",
+        "Clouded Leopard"
+      ],
+      "oHi": [
+        "एशियाई बब्बर शेर (Asiatic Lion)",
+        "रॉयल बंगाल टाइगर",
+        "हिम तेंदुआ",
+        "क्लाउडेड लेपर्ड"
+      ],
+      "optionsHi": [
+        "एशियाई बब्बर शेर (Asiatic Lion)",
+        "रॉयल बंगाल टाइगर",
+        "हिम तेंदुआ",
+        "क्लाउडेड लेपर्ड"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Gir National Park in Junagadh/Amreli districts of Gujarat is the sole home of the Asiatic Lion (Panthera leo persica) in the wild.",
+      "explanation": "Gir National Park in Junagadh/Amreli districts of Gujarat is the sole home of the Asiatic Lion (Panthera leo persica) in the wild.",
+      "expHi": "गुजरात के जूनागढ़, गिर सोमनाथ और अमरेली जिलों में फैला गिर राष्ट्रीय उद्यान विश्व में एशियाई बब्बर शेर (Panthera leo persica) का एकमात्र प्राकृतिक आवास है।",
+      "explanationHi": "गुजरात के जूनागढ़, गिर सोमनाथ और अमरेली जिलों में फैला गिर राष्ट्रीय उद्यान विश्व में एशियाई बब्बर शेर (Panthera leo persica) का एकमात्र प्राकृतिक आवास है।",
+      "hint": "Panthera leo persica; found in Junagadh and Gir Somnath districts of Gujarat.",
+      "hintHi": "गुजरात के जूनागढ़ में पाया जाने वाला एशियाई बब्बर शेर।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "Banking",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_nat_national_parks_wildlife_exp_3",
+      "q": "Keibul Lamjao National Park, situated on Loktak Lake in Manipur, is celebrated globally as what unique feature?",
+      "questionText": "Keibul Lamjao National Park, situated on Loktak Lake in Manipur, is celebrated globally as what unique feature?",
+      "qHi": "मणिपुर की लोकटक झील पर स्थित 'केइबुल लामजाओ राष्ट्रीय उद्यान' विश्व में किस अनूठी विशेषता के लिए जाना जाता है?",
+      "questionTextHi": "मणिपुर की लोकटक झील पर स्थित 'केइबुल लामजाओ राष्ट्रीय उद्यान' विश्व में किस अनूठी विशेषता के लिए जाना जाता है?",
+      "o": [
+        "Only floating national park in the world (Phumdis)",
+        "Deepest mangrove park",
+        "Highest alpine sanctuary",
+        "Largest coral atoll"
+      ],
+      "options": [
+        "Only floating national park in the world (Phumdis)",
+        "Deepest mangrove park",
+        "Highest alpine sanctuary",
+        "Largest coral atoll"
+      ],
+      "oHi": [
+        "विश्व का एकमात्र तैरता हुआ राष्ट्रीय उद्यान (फुुमडी)",
+        "सबसे गहरा मैंग्रोव पार्क",
+        "सर्वोच्च अल्पाइन अभयारण्य",
+        "सबसे बड़ा प्रवाल द्वीप"
+      ],
+      "optionsHi": [
+        "विश्व का एकमात्र तैरता हुआ राष्ट्रीय उद्यान (फुुमडी)",
+        "सबसे गहरा मैंग्रोव पार्क",
+        "सर्वोच्च अल्पाइन अभयारण्य",
+        "सबसे बड़ा प्रवाल द्वीप"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Keibul Lamjao National Park on Loktak Lake in Bishnupur district, Manipur, is the only floating national park in the world, consisting of floating decomposed biomass called 'phumdis', home to the endangered Sangai brow-antlered deer (dancing deer).",
+      "explanation": "Keibul Lamjao National Park on Loktak Lake in Bishnupur district, Manipur, is the only floating national park in the world, consisting of floating decomposed biomass called 'phumdis', home to the endangered Sangai brow-antlered deer (dancing deer).",
+      "expHi": "मणिपुर की लोकटक झील में स्थित केइबुल लामजाओ विश्व का एकमात्र तैरता हुआ राष्ट्रीय उद्यान है। यह तैरते हुए वनस्पति द्वीपों (फुुमडी) पर स्थित है तथा मणिपुर के राज्य पशु 'संगाई' (नाचने वाला हिरण) का एकमात्र घर है।",
+      "explanationHi": "मणिपुर की लोकटक झील में स्थित केइबुल लामजाओ विश्व का एकमात्र तैरता हुआ राष्ट्रीय उद्यान है। यह तैरते हुए वनस्पति द्वीपों (फुुमडी) पर स्थित है तथा मणिपुर के राज्य पशु 'संगाई' (नाचने वाला हिरण) का एकमात्र घर है।",
+      "hint": "Home to the endangered dancing deer (Sangai) on floating organic matter called phumdis.",
+      "hintHi": "तैरती हुई फुुमडियों पर नाचने वाले हिरण 'संगाई' का प्राकृतिक आवास।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "Banking",
+        "RRB"
+      ]
     }
-  ]
+  ],
+  "questionCount": 4
 }

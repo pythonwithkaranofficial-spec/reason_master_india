@@ -31,26 +31,285 @@
   ],
   "mcqs": [
     {
+      "id": "gk_world_world_sports_q1",
       "q": "Which is the oldest tennis tournament in the world, founded in 1877 and played exclusively on traditional outdoor grass courts?",
+      "questionText": "Which is the oldest tennis tournament in the world, founded in 1877 and played exclusively on traditional outdoor grass courts?",
+      "qHi": "1877 में स्थापित दुनिया का सबसे पुराना और प्रतिष्ठित टेनिस ग्रैंड स्लैम टूर्नामेंट कौन सा है, जो प्राकृतिक घास के कोर्ट पर खेला जाता है?",
+      "questionTextHi": "1877 में स्थापित दुनिया का सबसे पुराना और प्रतिष्ठित टेनिस ग्रैंड स्लैम टूर्नामेंट कौन सा है, जो प्राकृतिक घास के कोर्ट पर खेला जाता है?",
       "o": [
         "Wimbledon Championships",
         "Australian Open",
         "French Open",
         "US Open"
       ],
+      "options": [
+        "Wimbledon Championships",
+        "Australian Open",
+        "French Open",
+        "US Open"
+      ],
+      "oHi": [
+        "विंबलडन चैंपियनशिप (लंदन)",
+        "फ्रेंच ओपन (रोलां गैरो)",
+        "यूएस ओपन",
+        "ऑस्ट्रेलियन ओपन"
+      ],
+      "optionsHi": [
+        "विंबलडन चैंपियनशिप (लंदन)",
+        "फ्रेंच ओपन (रोलां गैरो)",
+        "यूएस ओपन",
+        "ऑस्ट्रेलियन ओपन"
+      ],
       "a": 0,
-      "exp": "The Championships, Wimbledon, was founded at the All England Club in London in 1877."
+      "correctIndex": 0,
+      "exp": "The Championships, Wimbledon, was founded at the All England Club in London in 1877.",
+      "explanation": "The Championships, Wimbledon, was founded at the All England Club in London in 1877.",
+      "expHi": "विंबलडन चैंपियनशिप ऑल इंग्लैंड लॉन टेनिस क्लब (लंदन) में खेली जाती है और यह चार ग्रैंड स्लैम टूर्नामेंटों में एकमात्र ग्रास कोर्ट टूर्नामेंट है।",
+      "explanationHi": "विंबलडन चैंपियनशिप ऑल इंग्लैंड लॉन टेनिस क्लब (लंदन) में खेली जाती है और यह चार ग्रैंड स्लैम टूर्नामेंटों में एकमात्र ग्रास कोर्ट टूर्नामेंट है।",
+      "hint": "Recall standard international treaties, geography, and global organizations for World Sports & Tournaments.",
+      "hintHi": "यह लंदन में पारंपरिक ऑल-व्हाइट ड्रेस कोड में खेला जाता है।",
+      "difficulty": "medium",
+      "examTags": [
+        "ssc_cgl",
+        "railway",
+        "defence",
+        "banking_ga"
+      ]
     },
     {
+      "id": "gk_world_world_sports_q2",
       "q": "Which South American nation hosted and won the inaugural FIFA Football World Cup tournament in 1930?",
+      "questionText": "Which South American nation hosted and won the inaugural FIFA Football World Cup tournament in 1930?",
+      "qHi": "1930 में आयोजित पहले फीफा फुटबॉल विश्व कप की मेजबानी और खिताब किस दक्षिण अमेरिकी देश ने जीता था?",
+      "questionTextHi": "1930 में आयोजित पहले फीफा फुटबॉल विश्व कप की मेजबानी और खिताब किस दक्षिण अमेरिकी देश ने जीता था?",
       "o": [
         "Uruguay",
         "Brazil",
         "Argentina",
         "Chile"
       ],
+      "options": [
+        "Uruguay",
+        "Brazil",
+        "Argentina",
+        "Chile"
+      ],
+      "oHi": [
+        "उरुग्वे",
+        "अर्जेंटीना",
+        "ब्राजील",
+        "चिली"
+      ],
+      "optionsHi": [
+        "उरुग्वे",
+        "अर्जेंटीना",
+        "ब्राजील",
+        "चिली"
+      ],
       "a": 0,
-      "exp": "Uruguay hosted the first FIFA World Cup in Montevideo in 1930 and defeated Argentina 4-2 in the final."
+      "correctIndex": 0,
+      "exp": "Uruguay hosted the first FIFA World Cup in Montevideo in 1930 and defeated Argentina 4-2 in the final.",
+      "explanation": "Uruguay hosted the first FIFA World Cup in Montevideo in 1930 and defeated Argentina 4-2 in the final.",
+      "expHi": "1930 का पहला फीफा विश्व कप मोंटेवीडियो (उरुग्वे) में आयोजित हुआ था, जिसके फाइनल में उरुग्वे ने अर्जेंटीना को 4-2 से हराकर खिताब जीता था।",
+      "explanationHi": "1930 का पहला फीफा विश्व कप मोंटेवीडियो (उरुग्वे) में आयोजित हुआ था, जिसके फाइनल में उरुग्वे ने अर्जेंटीना को 4-2 से हराकर खिताब जीता था।",
+      "hint": "Recall standard international treaties, geography, and global organizations for World Sports & Tournaments.",
+      "hintHi": "इसकी राजधानी मोंटेवीडियो के सेंटेनारियो स्टेडियम में फाइनल मैच खेला गया था।",
+      "difficulty": "medium",
+      "examTags": [
+        "ssc_cgl",
+        "railway",
+        "defence",
+        "banking_ga"
+      ]
+    },
+    {
+      "id": "gk_world_world_sports_curated_8",
+      "q": "Which legendary tennis superstar is celebrated as the 'King of Clay' for winning an unprecedented 14 French Open (Roland Garros) titles?",
+      "questionText": "Which legendary tennis superstar is celebrated as the 'King of Clay' for winning an unprecedented 14 French Open (Roland Garros) titles?",
+      "qHi": "रोलां गैरो (फ्रेंच ओपन) में रिकॉर्ड 14 खिताब जीतने के कारण किस महान टेनिस खिलाड़ी को 'क्ले कोर्ट का राजा' (King of Clay) कहा जाता है?",
+      "questionTextHi": "रोलां गैरो (फ्रेंच ओपन) में रिकॉर्ड 14 खिताब जीतने के कारण किस महान टेनिस खिलाड़ी को 'क्ले कोर्ट का राजा' (King of Clay) कहा जाता है?",
+      "o": [
+        "Rafael Nadal",
+        "Roger Federer",
+        "Novak Djokovic",
+        "Carlos Alcaraz"
+      ],
+      "options": [
+        "Rafael Nadal",
+        "Roger Federer",
+        "Novak Djokovic",
+        "Carlos Alcaraz"
+      ],
+      "oHi": [
+        "राफेल नडाल (Rafael Nadal)",
+        "रोजर फेडरर",
+        "नोवाक जोकोविच",
+        "कार्लोस अल्कराज"
+      ],
+      "optionsHi": [
+        "राफेल नडाल (Rafael Nadal)",
+        "रोजर फेडरर",
+        "नोवाक जोकोविच",
+        "कार्लोस अल्कराज"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Spain's Rafael Nadal has won 14 French Open men's singles titles on the red clay courts of Roland Garros between 2005 and 2022, a record dominance unequaled in tennis history.",
+      "explanation": "Spain's Rafael Nadal has won 14 French Open men's singles titles on the red clay courts of Roland Garros between 2005 and 2022, a record dominance unequaled in tennis history.",
+      "expHi": "स्पेन के राफेल नडाल ने रोलां गैरो (पेरिस) के लाल बजरी (क्ले) कोर्ट पर 14 बार फ्रेंच ओपन पुरुष सिंगल्स का खिताब जीता है, जिस कारण उन्हें 'किंग ऑफ क्ले' कहा जाता है।",
+      "explanationHi": "स्पेन के राफेल नडाल ने रोलां गैरो (पेरिस) के लाल बजरी (क्ले) कोर्ट पर 14 बार फ्रेंच ओपन पुरुष सिंगल्स का खिताब जीता है, जिस कारण उन्हें 'किंग ऑफ क्ले' कहा जाता है।",
+      "hint": "Spanish tennis champion who won 22 Grand Slam men's singles titles.",
+      "hintHi": "स्पेनिश टेनिस दिग्गज जिन्होंने 22 ग्रैंड स्लैम जीते हैं।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "Banking",
+        "Railways"
+      ]
+    },
+    {
+      "id": "gk_world_world_sports_curated_9",
+      "q": "The biennial international badminton world championship for men's national teams is known as which trophy?",
+      "questionText": "The biennial international badminton world championship for men's national teams is known as which trophy?",
+      "qHi": "बैडमिंटन में पुरुषों की विश्व टीम चैम्पियनशिप को किस नाम से जाना जाता है (जिसे भारत ने 2022 में पहली बार जीता था)?",
+      "questionTextHi": "बैडमिंटन में पुरुषों की विश्व टीम चैम्पियनशिप को किस नाम से जाना जाता है (जिसे भारत ने 2022 में पहली बार जीता था)?",
+      "o": [
+        "Thomas Cup (थॉमस कप)",
+        "Uber Cup",
+        "Sudirman Cup",
+        "Davis Cup"
+      ],
+      "options": [
+        "Thomas Cup (थॉमस कप)",
+        "Uber Cup",
+        "Sudirman Cup",
+        "Davis Cup"
+      ],
+      "oHi": [
+        "थॉमस कप",
+        "उबेर कप",
+        "सुदीरमन कप",
+        "डेविस कप"
+      ],
+      "optionsHi": [
+        "थॉमस कप",
+        "उबेर कप",
+        "सुदीरमन कप",
+        "डेविस कप"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "The Thomas Cup is the world men's team badminton championship founded in 1949 by Sir George Thomas. (Uber Cup is the women's team equivalent; Sudirman Cup is mixed). India won its historic first Thomas Cup in 2022 defeating Indonesia 3-0.",
+      "explanation": "The Thomas Cup is the world men's team badminton championship founded in 1949 by Sir George Thomas. (Uber Cup is the women's team equivalent; Sudirman Cup is mixed). India won its historic first Thomas Cup in 2022 defeating Indonesia 3-0.",
+      "expHi": "थॉमस कप बैडमिंटन में पुरुषों की प्रतिष्ठित विश्व टीम चैम्पियनशिप है। 2022 में भारत ने 14 बार के विजेता इंडोनेशिया को 3-0 से हराकर इतिहास में पहली बार थॉमस कप जीता था।",
+      "explanationHi": "थॉमस कप बैडमिंटन में पुरुषों की प्रतिष्ठित विश्व टीम चैम्पियनशिप है। 2022 में भारत ने 14 बार के विजेता इंडोनेशिया को 3-0 से हराकर इतिहास में पहली बार थॉमस कप जीता था।",
+      "hint": "India won its maiden title in 2022 defeating 14-time champion Indonesia.",
+      "hintHi": "2022 में भारत ने इंडोनेशिया को हराकर पहली बार यह खिताब जीता था।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "Banking",
+        "Railways"
+      ]
+    },
+    {
+      "id": "gk_world_world_sports_quiz_16",
+      "q": "Where were the first modern Olympic Games held in the year 1896 under the initiative of Pierre de Coubertin?",
+      "questionText": "Where were the first modern Olympic Games held in the year 1896 under the initiative of Pierre de Coubertin?",
+      "qHi": "पियरे डी कुबर्टिन के प्रयासों से 1896 में प्रथम आधुनिक ओलंपिक खेल किस ऐतिहासिक शहर में आयोजित हुए थे?",
+      "questionTextHi": "पियरे डी कुबर्टिन के प्रयासों से 1896 में प्रथम आधुनिक ओलंपिक खेल किस ऐतिहासिक शहर में आयोजित हुए थे?",
+      "o": [
+        "Athens, Greece",
+        "Paris, France",
+        "London, UK",
+        "Rome, Italy"
+      ],
+      "options": [
+        "Athens, Greece",
+        "Paris, France",
+        "London, UK",
+        "Rome, Italy"
+      ],
+      "oHi": [
+        "एथेंस, ग्रीस (यूनान)",
+        "पेरिस, फ्रांस",
+        "लंदन, ब्रिटेन",
+        "रोम, इटली"
+      ],
+      "optionsHi": [
+        "एथेंस, ग्रीस (यूनान)",
+        "पेरिस, फ्रांस",
+        "लंदन, ब्रिटेन",
+        "रोम, इटली"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "The first modern Olympic Games were organized by the International Olympic Committee (IOC) and held at the Panathenaic Stadium in Athens, Greece, from 6 to 15 April 1896.",
+      "explanation": "The first modern Olympic Games were organized by the International Olympic Committee (IOC) and held at the Panathenaic Stadium in Athens, Greece, from 6 to 15 April 1896.",
+      "expHi": "प्रथम आधुनिक ओलंपिक खेल 6 से 15 अप्रैल 1896 के मध्य यूनान (ग्रीस) की राजधानी एथेंस के पानाथिनाइको स्टेडियम में आयोजित किए गए थे।",
+      "explanationHi": "प्रथम आधुनिक ओलंपिक खेल 6 से 15 अप्रैल 1896 के मध्य यूनान (ग्रीस) की राजधानी एथेंस के पानाथिनाइको स्टेडियम में आयोजित किए गए थे।",
+      "hint": "Held at the Panathenaic Stadium in Greece.",
+      "hintHi": "यूनान के ऐतिहासिक स्टेडियम में आयोजित।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "Banking",
+        "Railways"
+      ]
+    },
+    {
+      "id": "gk_world_world_sports_quiz_17",
+      "q": "Which country has won the men's FIFA World Cup the highest number of times (5 titles)?",
+      "questionText": "Which country has won the men's FIFA World Cup the highest number of times (5 titles)?",
+      "qHi": "पुरुषों का फीफा विश्व कप (FIFA World Cup) सर्वाधिक बार (5 बार) किस देश ने जीता है?",
+      "questionTextHi": "पुरुषों का फीफा विश्व कप (FIFA World Cup) सर्वाधिक बार (5 बार) किस देश ने जीता है?",
+      "o": [
+        "Brazil (1958, 1962, 1970, 1994, 2002)",
+        "Germany",
+        "Italy",
+        "Argentina"
+      ],
+      "options": [
+        "Brazil (1958, 1962, 1970, 1994, 2002)",
+        "Germany",
+        "Italy",
+        "Argentina"
+      ],
+      "oHi": [
+        "ब्राजील (5 बार)",
+        "जर्मनी",
+        "इटली",
+        "अर्जेंटीना"
+      ],
+      "optionsHi": [
+        "ब्राजील (5 बार)",
+        "जर्मनी",
+        "इटली",
+        "अर्जेंटीना"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Brazil (Seleção) has won the FIFA World Cup a record five times: in 1958, 1962, 1970, 1994, and 2002, and is the only country to have played in every tournament.",
+      "explanation": "Brazil (Seleção) has won the FIFA World Cup a record five times: in 1958, 1962, 1970, 1994, and 2002, and is the only country to have played in every tournament.",
+      "expHi": "ब्राजील ने रिकॉर्ड 5 बार (1958, 1962, 1970, 1994 और 2002) फीफा विश्व कप जीता है और वह प्रत्येक विश्व कप में भाग लेने वाला एकमात्र देश है।",
+      "explanationHi": "ब्राजील ने रिकॉर्ड 5 बार (1958, 1962, 1970, 1994 और 2002) फीफा विश्व कप जीता है और वह प्रत्येक विश्व कप में भाग लेने वाला एकमात्र देश है।",
+      "hint": "The Seleção won in 1958, 1962, 1970, 1994, and 2002.",
+      "hintHi": "पेले और रोनाल्डो जैसे दिग्गजों का देश जिन्होंने 5 बार खिताब जीता।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "Banking",
+        "Railways"
+      ]
     }
-  ]
+  ],
+  "questionCount": 2
 }

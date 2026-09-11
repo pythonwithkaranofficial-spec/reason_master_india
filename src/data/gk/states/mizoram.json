@@ -31,26 +31,98 @@
   "schemes": "Handholding Scheme (Bana Kaih), SEDP (Socio-Economic Development Policy)",
   "mcqs": [
     {
+      "id": "gk_state_mizoram_q1",
       "q": "Which famous traditional folk dance of Mizoram involves dancers stepping in and out between pairs of horizontal bamboo staves?",
+      "questionText": "Which famous traditional folk dance of Mizoram involves dancers stepping in and out between pairs of horizontal bamboo staves?",
+      "qHi": "मिजोरम का कौन सा पारंपरिक लोकनृत्य जमीन पर रखी बांस की छड़ों की ताल पर लयबद्ध तरीके से किया जाता है?",
+      "questionTextHi": "मिजोरम का कौन सा पारंपरिक लोकनृत्य जमीन पर रखी बांस की छड़ों की ताल पर लयबद्ध तरीके से किया जाता है?",
       "o": [
         "Cheraw (Bamboo Dance)",
         "Khuallam",
         "Chheihlam",
         "Chai"
       ],
+      "options": [
+        "Cheraw (Bamboo Dance)",
+        "Khuallam",
+        "Chheihlam",
+        "Chai"
+      ],
+      "oHi": [
+        "चेराव (बांस नृत्य)",
+        "खुल्लम",
+        "छैलाम",
+        "सरलामकाई"
+      ],
+      "optionsHi": [
+        "चेराव (बांस नृत्य)",
+        "खुल्लम",
+        "छैलाम",
+        "सरलामकाई"
+      ],
       "a": 0,
-      "exp": "Cheraw is an ancient dance of Mizoram where male performers rhythmically clap bamboo poles while female dancers step skillfully in between."
+      "correctIndex": 0,
+      "exp": "Cheraw is an ancient dance of Mizoram where male performers rhythmically clap bamboo poles while female dancers step skillfully in between.",
+      "explanation": "Cheraw is an ancient dance of Mizoram where male performers rhythmically clap bamboo poles while female dancers step skillfully in between.",
+      "expHi": "चेराव नृत्य मिजोरम का सबसे पुराना और प्रसिद्ध लोकनृत्य है, जिसमें पुरुष बांस की डंडियों को तालबद्ध गति से बजाते हैं और महिलाएं उनके बीच कदम रखती हैं।",
+      "explanationHi": "चेराव नृत्य मिजोरम का सबसे पुराना और प्रसिद्ध लोकनृत्य है, जिसमें पुरुष बांस की डंडियों को तालबद्ध गति से बजाते हैं और महिलाएं उनके बीच कदम रखती हैं।",
+      "hint": "Reflect upon the geographic, political, and cultural heritage of Mizoram.",
+      "hintHi": "इसे लोकप्रिय रूप से 'बैम्बू डांस' (बांस नृत्य) कहा जाता है।",
+      "difficulty": "medium",
+      "lastVerified": "2026-01-01",
+      "examTags": [
+        "ssc_cgl",
+        "state_psc",
+        "railway",
+        "police"
+      ]
     },
     {
+      "id": "gk_state_mizoram_q2",
       "q": "What is the highest mountain peak in Mizoram, affectionately known as the 'Blue Mountain'?",
+      "questionText": "What is the highest mountain peak in Mizoram, affectionately known as the 'Blue Mountain'?",
+      "qHi": "मिजोरम की सबसे ऊंची पर्वत चोटी कौन सी है, जिसे स्थानीय रूप से 'नीला पर्वत' (ब्लू माउंटेन) कहा जाता है?",
+      "questionTextHi": "मिजोरम की सबसे ऊंची पर्वत चोटी कौन सी है, जिसे स्थानीय रूप से 'नीला पर्वत' (ब्लू माउंटेन) कहा जाता है?",
       "o": [
         "Phawngpui",
         "Saramati",
         "Doda Betta",
         "Kangchenjunga"
       ],
+      "options": [
+        "Phawngpui",
+        "Saramati",
+        "Doda Betta",
+        "Kangchenjunga"
+      ],
+      "oHi": [
+        "फावंगपुई",
+        "सरामती",
+        "कंगतो",
+        "जपफू"
+      ],
+      "optionsHi": [
+        "फावंगपुई",
+        "सरामती",
+        "कंगतो",
+        "जपफू"
+      ],
       "a": 0,
-      "exp": "Phawngpui (elevation 2,157 m) is the highest peak in Mizoram, reverentially called the Blue Mountain."
+      "correctIndex": 0,
+      "exp": "Phawngpui (elevation 2,157 m) is the highest peak in Mizoram, reverentially called the Blue Mountain.",
+      "explanation": "Phawngpui (elevation 2,157 m) is the highest peak in Mizoram, reverentially called the Blue Mountain.",
+      "expHi": "फावंगपुई (2,157 मीटर) मिजोरम की सर्वोच्च चोटी है। यह फावंगपुई राष्ट्रीय उद्यान में स्थित है और मिजो मान्यताओं में देवताओं का निवास माना जाता है।",
+      "explanationHi": "फावंगपुई (2,157 मीटर) मिजोरम की सर्वोच्च चोटी है। यह फावंगपुई राष्ट्रीय उद्यान में स्थित है और मिजो मान्यताओं में देवताओं का निवास माना जाता है।",
+      "hint": "Reflect upon the geographic, political, and cultural heritage of Mizoram.",
+      "hintHi": "इसे 'ब्लू माउंटेन' के नाम से भी जाना जाता है।",
+      "difficulty": "medium",
+      "lastVerified": "2026-01-01",
+      "examTags": [
+        "ssc_cgl",
+        "state_psc",
+        "railway",
+        "police"
+      ]
     }
   ],
   "subtopics": [
@@ -273,5 +345,6 @@
         }
       ]
     }
-  ]
+  ],
+  "mcqCount": 2
 }

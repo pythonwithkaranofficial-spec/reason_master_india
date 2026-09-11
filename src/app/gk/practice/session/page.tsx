@@ -119,10 +119,13 @@ function GKPracticeSessionContent() {
         gkCategory: currentQ.gkCategory,
         stateId: currentQ.stateId,
         questionText: currentQ.questionText,
+        questionTextHi: currentQ.questionTextHi || (currentQ as any).qHi,
         options: currentQ.options,
+        optionsHi: currentQ.optionsHi || (currentQ as any).oHi,
         correctIndex: currentQ.correctIndex,
         difficulty: currentQ.difficulty,
         explanation: currentQ.explanation,
+        explanationHi: currentQ.explanationHi || (currentQ as any).expHi,
         hint: currentQ.hint,
         lastVerified: currentQ.lastVerified,
         savedAt: Date.now(),
@@ -276,6 +279,23 @@ function GKPracticeSessionContent() {
   const isBookmarked = currentQ ? bookmarkedIds.has(currentQ.id) : false;
   const isMarkedReview = currentQ ? markedForReview.has(currentQ.id) : false;
 
+  const currentQuestionTextHi =
+    (currentQ as any)?.questionTextHi || (currentQ as any)?.qHi || (currentQ as any)?.question_hi;
+  const currentQuestionText =
+    lang === "hi" && currentQuestionTextHi ? currentQuestionTextHi : currentQ?.questionText;
+
+  const currentOptionsHi =
+    (currentQ as any)?.optionsHi || (currentQ as any)?.oHi || (currentQ as any)?.options_hi;
+  const currentOptions =
+    lang === "hi" && Array.isArray(currentOptionsHi) && currentOptionsHi.length === 4
+      ? currentOptionsHi
+      : currentQ?.options || [];
+
+  const currentExplanationHi =
+    (currentQ as any)?.explanationHi || (currentQ as any)?.expHi;
+  const currentExplanation =
+    lang === "hi" && currentExplanationHi ? currentExplanationHi : currentQ?.explanation;
+
   return (
     <div style={{ paddingBottom: "var(--space-12)" }}>
       {/* 1. Top Control Bar */}
@@ -292,9 +312,6 @@ function GKPracticeSessionContent() {
         <div
           className="container"
           style={{
-            maxWidth: "1200px",
-            margin: "0 auto",
-            padding: "0 var(--space-4)",
             display: "flex",
             alignItems: "center",
             justifyContent: "space-between",
@@ -406,16 +423,23 @@ function GKPracticeSessionContent() {
       </section>
 
       {/* 2. Main Question Area */}
+      <style>{`
+        .gk-session-layout {
+          display: grid;
+          grid-template-columns: 1fr;
+          gap: var(--space-6);
+          align-items: start;
+        }
+        @media (min-width: 960px) {
+          .gk-session-layout {
+            grid-template-columns: 1fr minmax(260px, 320px);
+          }
+        }
+      `}</style>
       <div
-        className="container"
+        className="container gk-session-layout"
         style={{
-          maxWidth: "1200px",
-          margin: "0 auto",
-          padding: "var(--space-6) var(--space-4) 0",
-          display: "grid",
-          gridTemplateColumns: "1fr minmax(260px, 320px)",
-          gap: "var(--space-6)",
-          alignItems: "start",
+          paddingTop: "var(--space-6)",
         }}
       >
         {/* Left Column: Question Card */}
@@ -513,17 +537,12 @@ function GKPracticeSessionContent() {
                 marginBottom: "var(--space-6)",
               }}
             >
-              {lang === "hi" && currentQ.questionTextHi
-                ? currentQ.questionTextHi
-                : currentQ.questionText}
+              {currentQuestionText}
             </h3>
 
             {/* Options List */}
             <div style={{ display: "flex", flexDirection: "column", gap: "var(--space-3)" }}>
-              {(lang === "hi" && currentQ.optionsHi && currentQ.optionsHi.length === 4
-                ? currentQ.optionsHi
-                : currentQ.options
-              ).map((option, optIdx) => {
+              {currentOptions.map((option, optIdx) => {
                 const isSelected = selectedIdx === optIdx;
                 const isCorrect = optIdx === currentQ.correctIndex;
 
@@ -639,9 +658,7 @@ function GKPracticeSessionContent() {
                 </div>
                 <p style={{ fontSize: "0.9rem", color: "var(--text-primary)", lineHeight: 1.55 }}>
                   <strong>{lang === "hi" ? "व्याख्या:" : "Explanation:"}</strong>{" "}
-                  {lang === "hi" && currentQ.explanationHi
-                    ? currentQ.explanationHi
-                    : currentQ.explanation}
+                  {currentExplanation}
                 </p>
               </div>
             )}

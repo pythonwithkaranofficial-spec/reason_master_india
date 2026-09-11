@@ -30,26 +30,98 @@
   "schemes": "Mukhyamantri Mahila Utkarsh Yojana, Kisan Suryodaya Yojana, Namo Lakshmi Scheme",
   "mcqs": [
     {
+      "id": "gk_state_gujarat_q1",
       "q": "Where is the Statue of Unity, the world's tallest statue (182 meters), located?",
+      "questionText": "Where is the Statue of Unity, the world's tallest statue (182 meters), located?",
+      "qHi": "सरदार वल्लभभाई पटेल को समर्पित दुनिया की सबसे ऊंची प्रतिमा 'स्टैच्यू ऑफ यूनिटी' गुजरात में कहाँ स्थित है?",
+      "questionTextHi": "सरदार वल्लभभाई पटेल को समर्पित दुनिया की सबसे ऊंची प्रतिमा 'स्टैच्यू ऑफ यूनिटी' गुजरात में कहाँ स्थित है?",
       "o": [
         "Kevadia (Ekta Nagar)",
         "Gandhinagar",
         "Ahmedabad",
         "Surat"
       ],
+      "options": [
+        "Kevadia (Ekta Nagar)",
+        "Gandhinagar",
+        "Ahmedabad",
+        "Surat"
+      ],
+      "oHi": [
+        "केवड़िया (एकता नगर)",
+        "गांधीनगर",
+        "सूरत",
+        "भावनगर"
+      ],
+      "optionsHi": [
+        "केवड़िया (एकता नगर)",
+        "गांधीनगर",
+        "सूरत",
+        "भावनगर"
+      ],
       "a": 0,
-      "exp": "The Statue of Unity honoring Sardar Vallabhbhai Patel is situated on Sadhu Bet island facing the Sardar Sarovar Dam."
+      "correctIndex": 0,
+      "exp": "The Statue of Unity honoring Sardar Vallabhbhai Patel is situated on Sadhu Bet island facing the Sardar Sarovar Dam.",
+      "explanation": "The Statue of Unity honoring Sardar Vallabhbhai Patel is situated on Sadhu Bet island facing the Sardar Sarovar Dam.",
+      "expHi": "182 मीटर ऊंची स्टैच्यू ऑफ यूनिटी नर्मदा नदी पर सरदार सरोवर बांध के सामने केवड़िया (एकता नगर) में स्थित है।",
+      "explanationHi": "182 मीटर ऊंची स्टैच्यू ऑफ यूनिटी नर्मदा नदी पर सरदार सरोवर बांध के सामने केवड़िया (एकता नगर) में स्थित है।",
+      "hint": "Reflect upon the geographic, political, and cultural heritage of Gujarat.",
+      "hintHi": "यह नर्मदा नदी के साधु बेट द्वीप पर स्थित है।",
+      "difficulty": "medium",
+      "lastVerified": "2026-01-01",
+      "examTags": [
+        "ssc_cgl",
+        "state_psc",
+        "railway",
+        "police"
+      ]
     },
     {
+      "id": "gk_state_gujarat_q2",
       "q": "Which UNESCO World Heritage site in Gujarat is a monumental stepwell built during the Chaulukya dynasty?",
+      "questionText": "Which UNESCO World Heritage site in Gujarat is a monumental stepwell built during the Chaulukya dynasty?",
+      "qHi": "गुजरात में कौन सा यूनेस्को विश्व धरोहर स्थल 11वीं शताब्दी की मारू-गुर्जर शैली में निर्मित भव्य बावड़ी है?",
+      "questionTextHi": "गुजरात में कौन सा यूनेस्को विश्व धरोहर स्थल 11वीं शताब्दी की मारू-गुर्जर शैली में निर्मित भव्य बावड़ी है?",
       "o": [
         "Rani ki Vav (Patan)",
         "Adalaj Stepwell",
         "Dada Harir Stepwell",
         "Chand Baori"
       ],
+      "options": [
+        "Rani ki Vav (Patan)",
+        "Adalaj Stepwell",
+        "Dada Harir Stepwell",
+        "Chand Baori"
+      ],
+      "oHi": [
+        "रानी की वाव (पाटन)",
+        "अडालज की वाव",
+        "चांपानेर-पावागढ़",
+        "मोढेरा सूर्य मंदिर"
+      ],
+      "optionsHi": [
+        "रानी की वाव (पाटन)",
+        "अडालज की वाव",
+        "चांपानेर-पावागढ़",
+        "मोढेरा सूर्य मंदिर"
+      ],
       "a": 0,
-      "exp": "Rani ki Vav in Patan was built by Queen Udayamati in memory of King Bhima I and is featured on the ₹100 note."
+      "correctIndex": 0,
+      "exp": "Rani ki Vav in Patan was built by Queen Udayamati in memory of King Bhima I and is featured on the ₹100 note.",
+      "explanation": "Rani ki Vav in Patan was built by Queen Udayamati in memory of King Bhima I and is featured on the ₹100 note.",
+      "expHi": "सरस्वती नदी के तट पर स्थित रानी की वाव का निर्माण सोलंकी राजवंश की रानी उदयमती ने अपने पति राजा भीमदेव प्रथम की स्मृति में करवाया था।",
+      "explanationHi": "सरस्वती नदी के तट पर स्थित रानी की वाव का निर्माण सोलंकी राजवंश की रानी उदयमती ने अपने पति राजा भीमदेव प्रथम की स्मृति में करवाया था।",
+      "hint": "Reflect upon the geographic, political, and cultural heritage of Gujarat.",
+      "hintHi": "यह चित्र ₹100 के नए भारतीय करेंसी नोट पर अंकित है।",
+      "difficulty": "medium",
+      "lastVerified": "2026-01-01",
+      "examTags": [
+        "ssc_cgl",
+        "state_psc",
+        "railway",
+        "police"
+      ]
     }
   ],
   "subtopics": [
@@ -272,5 +344,6 @@
         }
       ]
     }
-  ]
+  ],
+  "mcqCount": 2
 }
