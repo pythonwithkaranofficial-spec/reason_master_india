@@ -14,7 +14,7 @@ export const ALL_WORLD_TOPICS_SUMMARY: GKTopicSummary[] = [
     "summary": "Continents, oceans, deepest trenches, major mountain ranges, straits, canals, and deserts.",
     "subtopicCount": 1,
     "factCount": 2,
-    "questionCount": 2,
+    "questionCount": 126,
     "subtopics": [
       {
         "id": "oceans_straits_canals",
@@ -33,7 +33,7 @@ export const ALL_WORLD_TOPICS_SUMMARY: GKTopicSummary[] = [
     "summary": "Global nations, their administrative capitals, national currencies, and regional blocs.",
     "subtopicCount": 1,
     "factCount": 2,
-    "questionCount": 2,
+    "questionCount": 7,
     "subtopics": [
       {
         "id": "major_world_capitals",
@@ -52,7 +52,7 @@ export const ALL_WORLD_TOPICS_SUMMARY: GKTopicSummary[] = [
     "summary": "United Nations and agencies, Bretton Woods institutions (IMF, World Bank), WTO, G20, BRICS, and ASEAN.",
     "subtopicCount": 1,
     "factCount": 2,
-    "questionCount": 2,
+    "questionCount": 18,
     "subtopics": [
       {
         "id": "united_nations_system",
@@ -71,7 +71,7 @@ export const ALL_WORLD_TOPICS_SUMMARY: GKTopicSummary[] = [
     "summary": "Ancient civilizations, Renaissance, French Revolution, Industrial Revolution, World Wars, and Cold War.",
     "subtopicCount": 1,
     "factCount": 2,
-    "questionCount": 2,
+    "questionCount": 7,
     "subtopics": [
       {
         "id": "major_revolutions_wars",
@@ -90,7 +90,7 @@ export const ALL_WORLD_TOPICS_SUMMARY: GKTopicSummary[] = [
     "summary": "United Nations international days, global environmental dates, and human rights anniversaries.",
     "subtopicCount": 1,
     "factCount": 2,
-    "questionCount": 2,
+    "questionCount": 8,
     "subtopics": [
       {
         "id": "un_international_days",
@@ -109,7 +109,7 @@ export const ALL_WORLD_TOPICS_SUMMARY: GKTopicSummary[] = [
     "summary": "Olympic Games history, FIFA World Cup, ICC Cricket World Cup, Grand Slam Tennis, and world championship records.",
     "subtopicCount": 1,
     "factCount": 2,
-    "questionCount": 2,
+    "questionCount": 17,
     "subtopics": [
       {
         "id": "major_tournaments",

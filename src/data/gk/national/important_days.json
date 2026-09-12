@@ -309,7 +309,319 @@
         "Banking",
         "RRB"
       ]
+    },
+    {
+      "id": "gk_ext_important_days_476",
+      "q": "संविधान दिवस कब मनाया जाता है?",
+      "questionText": "संविधान दिवस कब मनाया जाता है?",
+      "qHi": "संविधान दिवस कब मनाया जाता है?",
+      "questionTextHi": "संविधान दिवस कब मनाया जाता है?",
+      "o": [
+        "15 अगस्त",
+        "26 जनवरी",
+        "2 अक्टूबर",
+        "26 नवंबर"
+      ],
+      "options": [
+        "15 अगस्त",
+        "26 जनवरी",
+        "2 अक्टूबर",
+        "26 नवंबर"
+      ],
+      "oHi": [
+        "15 अगस्त",
+        "26 जनवरी",
+        "2 अक्टूबर",
+        "26 नवंबर"
+      ],
+      "optionsHi": [
+        "15 अगस्त",
+        "26 जनवरी",
+        "2 अक्टूबर",
+        "26 नवंबर"
+      ],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is '26 नवंबर'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is '26 नवंबर'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '26 नवंबर' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '26 नवंबर' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Important Days.",
+      "hintHi": "Important Days से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_important_days_907",
+      "q": "Which Gujarati Folk Dance is celebrated on Navratri?",
+      "questionText": "Which Gujarati Folk Dance is celebrated on Navratri?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "1962",
+        "1971",
+        "Hyderabad",
+        "Garba"
+      ],
+      "options": [
+        "1962",
+        "1971",
+        "Hyderabad",
+        "Garba"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is 'Garba'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Garba'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Garba' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Garba' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Important Days.",
+      "hintHi": "Important Days से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_important_days_1019",
+      "q": "संविधान दिवस कब मनाया जाता है?",
+      "questionText": "संविधान दिवस कब मनाया जाता है?",
+      "qHi": "संविधान दिवस कब मनाया जाता है?",
+      "questionTextHi": "संविधान दिवस कब मनाया जाता है?",
+      "o": [
+        "15 अगस्त",
+        "26 जनवरी",
+        "2 अक्टूबर",
+        "26 नवंबर"
+      ],
+      "options": [
+        "15 अगस्त",
+        "26 जनवरी",
+        "2 अक्टूबर",
+        "26 नवंबर"
+      ],
+      "oHi": [
+        "15 अगस्त",
+        "26 जनवरी",
+        "2 अक्टूबर",
+        "26 नवंबर"
+      ],
+      "optionsHi": [
+        "15 अगस्त",
+        "26 जनवरी",
+        "2 अक्टूबर",
+        "26 नवंबर"
+      ],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is '26 नवंबर'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is '26 नवंबर'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '26 नवंबर' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '26 नवंबर' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Important Days.",
+      "hintHi": "Important Days से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_important_days_1196",
+      "q": "अंतरराष्ट्रीय योग दिवस कब मनाया जाता है",
+      "questionText": "अंतरराष्ट्रीय योग दिवस कब मनाया जाता है",
+      "qHi": "अंतरराष्ट्रीय योग दिवस कब मनाया जाता है",
+      "questionTextHi": "अंतरराष्ट्रीय योग दिवस कब मनाया जाता है",
+      "o": [
+        "सदभावना दिवस",
+        "21 जून",
+        "फ्रांस",
+        "बराक ओबामा, अमेरिका के राष्ट्रपति"
+      ],
+      "options": [
+        "सदभावना दिवस",
+        "21 जून",
+        "फ्रांस",
+        "बराक ओबामा, अमेरिका के राष्ट्रपति"
+      ],
+      "oHi": [
+        "सदभावना दिवस",
+        "21 जून",
+        "फ्रांस",
+        "बराक ओबामा, अमेरिका के राष्ट्रपति"
+      ],
+      "optionsHi": [
+        "सदभावना दिवस",
+        "21 जून",
+        "फ्रांस",
+        "बराक ओबामा, अमेरिका के राष्ट्रपति"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is '21 जून'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is '21 जून'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '21 जून' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '21 जून' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Important Days.",
+      "hintHi": "Important Days से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_important_days_1316",
+      "q": "भारतीय गणतन्त्र दिवस के अवसर पर 26 जनवरी, 2016 को किस देश के राष्ट्रपति मुख्य अतिथि के रूप में आए थे",
+      "questionText": "भारतीय गणतन्त्र दिवस के अवसर पर 26 जनवरी, 2016 को किस देश के राष्ट्रपति मुख्य अतिथि के रूप में आए थे",
+      "qHi": "भारतीय गणतन्त्र दिवस के अवसर पर 26 जनवरी, 2016 को किस देश के राष्ट्रपति मुख्य अतिथि के रूप में आए थे",
+      "questionTextHi": "भारतीय गणतन्त्र दिवस के अवसर पर 26 जनवरी, 2016 को किस देश के राष्ट्रपति मुख्य अतिथि के रूप में आए थे",
+      "o": [
+        "फ्रांस",
+        "बराक ओबामा, अमेरिका के राष्ट्रपति",
+        "26 नवंबर",
+        "21 जून"
+      ],
+      "options": [
+        "फ्रांस",
+        "बराक ओबामा, अमेरिका के राष्ट्रपति",
+        "26 नवंबर",
+        "21 जून"
+      ],
+      "oHi": [
+        "फ्रांस",
+        "बराक ओबामा, अमेरिका के राष्ट्रपति",
+        "26 नवंबर",
+        "21 जून"
+      ],
+      "optionsHi": [
+        "फ्रांस",
+        "बराक ओबामा, अमेरिका के राष्ट्रपति",
+        "26 नवंबर",
+        "21 जून"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'फ्रांस'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'फ्रांस'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'फ्रांस' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'फ्रांस' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Important Days.",
+      "hintHi": "Important Days से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_important_days_1360",
+      "q": "अगस्त 20 को कौन-सा दिवस मनाया जाता है",
+      "questionText": "अगस्त 20 को कौन-सा दिवस मनाया जाता है",
+      "qHi": "अगस्त 20 को कौन-सा दिवस मनाया जाता है",
+      "questionTextHi": "अगस्त 20 को कौन-सा दिवस मनाया जाता है",
+      "o": [
+        "बराक ओबामा, अमेरिका के राष्ट्रपति",
+        "26 नवंबर",
+        "सदभावना दिवस",
+        "फ्रांस"
+      ],
+      "options": [
+        "बराक ओबामा, अमेरिका के राष्ट्रपति",
+        "26 नवंबर",
+        "सदभावना दिवस",
+        "फ्रांस"
+      ],
+      "oHi": [
+        "बराक ओबामा, अमेरिका के राष्ट्रपति",
+        "26 नवंबर",
+        "सदभावना दिवस",
+        "फ्रांस"
+      ],
+      "optionsHi": [
+        "बराक ओबामा, अमेरिका के राष्ट्रपति",
+        "26 नवंबर",
+        "सदभावना दिवस",
+        "फ्रांस"
+      ],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'सदभावना दिवस'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'सदभावना दिवस'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'सदभावना दिवस' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'सदभावना दिवस' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Important Days.",
+      "hintHi": "Important Days से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_important_days_1383",
+      "q": "जनवरी 2016 की गणतंत्र दिवस परेड में मुख्य अतिथि कौन थे",
+      "questionText": "जनवरी 2016 की गणतंत्र दिवस परेड में मुख्य अतिथि कौन थे",
+      "qHi": "जनवरी 2016 की गणतंत्र दिवस परेड में मुख्य अतिथि कौन थे",
+      "questionTextHi": "जनवरी 2016 की गणतंत्र दिवस परेड में मुख्य अतिथि कौन थे",
+      "o": [
+        "21 जून",
+        "बराक ओबामा, अमेरिका के राष्ट्रपति",
+        "सदभावना दिवस",
+        "26 नवंबर"
+      ],
+      "options": [
+        "21 जून",
+        "बराक ओबामा, अमेरिका के राष्ट्रपति",
+        "सदभावना दिवस",
+        "26 नवंबर"
+      ],
+      "oHi": [
+        "21 जून",
+        "बराक ओबामा, अमेरिका के राष्ट्रपति",
+        "सदभावना दिवस",
+        "26 नवंबर"
+      ],
+      "optionsHi": [
+        "21 जून",
+        "बराक ओबामा, अमेरिका के राष्ट्रपति",
+        "सदभावना दिवस",
+        "26 नवंबर"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'बराक ओबामा, अमेरिका के राष्ट्रपति'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'बराक ओबामा, अमेरिका के राष्ट्रपति'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'बराक ओबामा, अमेरिका के राष्ट्रपति' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'बराक ओबामा, अमेरिका के राष्ट्रपति' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Important Days.",
+      "hintHi": "Important Days से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
     }
   ],
-  "questionCount": 2
+  "questionCount": 13
 }

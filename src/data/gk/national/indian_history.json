@@ -1540,7 +1540,3437 @@
         "NDA",
         "RRB"
       ]
+    },
+    {
+      "id": "gk_ext_indian_history_123",
+      "q": "Who was the founder of the Nand dynasty?",
+      "questionText": "Who was the founder of the Nand dynasty?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Dehra dun",
+        "Mahapadmananda",
+        "2008",
+        "Smt. Sushma Swaraj"
+      ],
+      "options": [
+        "Dehra dun",
+        "Mahapadmananda",
+        "2008",
+        "Smt. Sushma Swaraj"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'Mahapadmananda'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Mahapadmananda'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Mahapadmananda' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Mahapadmananda' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_history_124",
+      "q": "By whom was the first foreign invasion in ancient India?",
+      "questionText": "By whom was the first foreign invasion in ancient India?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Kiran Bedi",
+        "Four",
+        "By Iranians",
+        "Indira Gandhi Centre for Atomic Research"
+      ],
+      "options": [
+        "Kiran Bedi",
+        "Four",
+        "By Iranians",
+        "Indira Gandhi Centre for Atomic Research"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'By Iranians'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'By Iranians'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'By Iranians' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'By Iranians' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_history_125",
+      "q": "Which emperor’s name was Devan Priyadarshi",
+      "questionText": "Which emperor’s name was Devan Priyadarshi",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Maurya Empire and Kalinga",
+        "Law of Dharma",
+        "The River Ganges",
+        "Emperor Ashoka"
+      ],
+      "options": [
+        "Maurya Empire and Kalinga",
+        "Law of Dharma",
+        "The River Ganges",
+        "Emperor Ashoka"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is 'Emperor Ashoka'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Emperor Ashoka'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Emperor Ashoka' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Emperor Ashoka' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_history_126",
+      "q": "Which was the ruler of ancient India who adopted Jainism in his last days?",
+      "questionText": "Which was the ruler of ancient India who adopted Jainism in his last days?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Slumdog Millionaire",
+        "Four",
+        "Chandragupta Maurya",
+        "1857 AD"
+      ],
+      "options": [
+        "Slumdog Millionaire",
+        "Four",
+        "Chandragupta Maurya",
+        "1857 AD"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'Chandragupta Maurya'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Chandragupta Maurya'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Chandragupta Maurya' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Chandragupta Maurya' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_history_128",
+      "q": "When did the revolution take place in Bareilly?",
+      "questionText": "When did the revolution take place in Bareilly?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Qadam Qadam Badhaye Ja",
+        "Indira Gandhi (16 July 1969 – 27 June 1970)",
+        "Grand Cordon of the Order of the Paulownia Flowers",
+        "1857 AD"
+      ],
+      "options": [
+        "Qadam Qadam Badhaye Ja",
+        "Indira Gandhi (16 July 1969 – 27 June 1970)",
+        "Grand Cordon of the Order of the Paulownia Flowers",
+        "1857 AD"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is '1857 AD'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is '1857 AD'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '1857 AD' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '1857 AD' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_history_131",
+      "q": "Who was the founder of the Gupta dynasty?",
+      "questionText": "Who was the founder of the Gupta dynasty?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Anant Gupta",
+        "Chandragupta",
+        "Indira Gandhi National Open",
+        "5 Times"
+      ],
+      "options": [
+        "Anant Gupta",
+        "Chandragupta",
+        "Indira Gandhi National Open",
+        "5 Times"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'Chandragupta'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Chandragupta'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Chandragupta' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Chandragupta' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_history_133",
+      "q": "Where did Gandhiji’s Dandi March begin?",
+      "questionText": "Where did Gandhiji’s Dandi March begin?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Battle of Buxar",
+        "Four",
+        "Indira Gandhi Centre for Atomic Research",
+        "Ahmedabad"
+      ],
+      "options": [
+        "Battle of Buxar",
+        "Four",
+        "Indira Gandhi Centre for Atomic Research",
+        "Ahmedabad"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is 'Ahmedabad'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Ahmedabad'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Ahmedabad' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Ahmedabad' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_history_159",
+      "q": "Allahabad, Haridwar, Kanpur, Patna, Varanasi (Banaras) city is situated on the bank of which river?",
+      "questionText": "Allahabad, Haridwar, Kanpur, Patna, Varanasi (Banaras) city is situated on the bank of which river?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "The River Ganges",
+        "24 (Twenty-Four)",
+        "Second Anglo-Mysore War",
+        "Battle of Buxar"
+      ],
+      "options": [
+        "The River Ganges",
+        "24 (Twenty-Four)",
+        "Second Anglo-Mysore War",
+        "Battle of Buxar"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'The River Ganges'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'The River Ganges'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'The River Ganges' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'The River Ganges' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_history_192",
+      "q": "What is the national emblem of India?",
+      "questionText": "What is the national emblem of India?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Shane Warne",
+        "Lion Capital of Ashoka",
+        "Sangeet Natak Akademi Award",
+        "Indira Gandhi Centre for Atomic Research"
+      ],
+      "options": [
+        "Shane Warne",
+        "Lion Capital of Ashoka",
+        "Sangeet Natak Akademi Award",
+        "Indira Gandhi Centre for Atomic Research"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'Lion Capital of Ashoka'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Lion Capital of Ashoka'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Lion Capital of Ashoka' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Lion Capital of Ashoka' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_history_204",
+      "q": "Who is known as the Saint of Sabarmati?",
+      "questionText": "Who is known as the Saint of Sabarmati?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Swar Kokila",
+        "Indira Gandhi",
+        "Mahatma Gandhi",
+        "Grand Cordon of the Order of the Paulownia Flowers"
+      ],
+      "options": [
+        "Swar Kokila",
+        "Indira Gandhi",
+        "Mahatma Gandhi",
+        "Grand Cordon of the Order of the Paulownia Flowers"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'Mahatma Gandhi'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Mahatma Gandhi'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Mahatma Gandhi' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Mahatma Gandhi' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_history_212",
+      "q": "Who is known as the Tiger of Mysore?",
+      "questionText": "Who is known as the Tiger of Mysore?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Six",
+        "Law of Dharma",
+        "Tipu Sultan",
+        "Bahadur Shah Zafar"
+      ],
+      "options": [
+        "Six",
+        "Law of Dharma",
+        "Tipu Sultan",
+        "Bahadur Shah Zafar"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'Tipu Sultan'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Tipu Sultan'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Tipu Sultan' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Tipu Sultan' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_history_228",
+      "q": "Who is known as the Tiger of India?",
+      "questionText": "Who is known as the Tiger of India?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Ashoka Chakra",
+        "Lord Mountbatten",
+        "Kumara Gupta",
+        "Shivaji"
+      ],
+      "options": [
+        "Ashoka Chakra",
+        "Lord Mountbatten",
+        "Kumara Gupta",
+        "Shivaji"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is 'Shivaji'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Shivaji'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Shivaji' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Shivaji' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_history_230",
+      "q": "Who is known as the Iron Lady of India?",
+      "questionText": "Who is known as the Iron Lady of India?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Indira Gandhi",
+        "1857 AD",
+        "Shane Warne",
+        "Mughal Empire vs Delhi Sultanate"
+      ],
+      "options": [
+        "Indira Gandhi",
+        "1857 AD",
+        "Shane Warne",
+        "Mughal Empire vs Delhi Sultanate"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'Indira Gandhi'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Indira Gandhi'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Indira Gandhi' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Indira Gandhi' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_history_337",
+      "q": "Which is the largest university in India?",
+      "questionText": "Which is the largest university in India?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Ravi Shankar (1968)",
+        "Indira Gandhi National Open",
+        "Ustad Ali Akbar Khan",
+        "Battle of Buxar"
+      ],
+      "options": [
+        "Ravi Shankar (1968)",
+        "Indira Gandhi National Open",
+        "Ustad Ali Akbar Khan",
+        "Battle of Buxar"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'Indira Gandhi National Open'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Indira Gandhi National Open'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Indira Gandhi National Open' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Indira Gandhi National Open' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_history_361",
+      "q": "In which year was the Quit India Movement launched?",
+      "questionText": "In which year was the Quit India Movement launched?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "1942",
+        "Snow White & 7 Dwarfs",
+        "1857 AD",
+        "Ashoka Chakra"
+      ],
+      "options": [
+        "1942",
+        "Snow White & 7 Dwarfs",
+        "1857 AD",
+        "Ashoka Chakra"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is '1942'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is '1942'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '1942' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '1942' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_history_412",
+      "q": "1857 का विद्रोह किस नाम से जाना जाता है?",
+      "questionText": "1857 का विद्रोह किस नाम से जाना जाता है?",
+      "qHi": "1857 का विद्रोह किस नाम से जाना जाता है?",
+      "questionTextHi": "1857 का विद्रोह किस नाम से जाना जाता है?",
+      "o": [
+        "प्रथम स्वतंत्रता संग्राम",
+        "असहयोग आंदोलन",
+        "भारत छोड़ो आंदोलन",
+        "नमक सत्याग्रह"
+      ],
+      "options": [
+        "प्रथम स्वतंत्रता संग्राम",
+        "असहयोग आंदोलन",
+        "भारत छोड़ो आंदोलन",
+        "नमक सत्याग्रह"
+      ],
+      "oHi": [
+        "प्रथम स्वतंत्रता संग्राम",
+        "असहयोग आंदोलन",
+        "भारत छोड़ो आंदोलन",
+        "नमक सत्याग्रह"
+      ],
+      "optionsHi": [
+        "प्रथम स्वतंत्रता संग्राम",
+        "असहयोग आंदोलन",
+        "भारत छोड़ो आंदोलन",
+        "नमक सत्याग्रह"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'प्रथम स्वतंत्रता संग्राम'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'प्रथम स्वतंत्रता संग्राम'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'प्रथम स्वतंत्रता संग्राम' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'प्रथम स्वतंत्रता संग्राम' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_history_414",
+      "q": "सिंधु घाटी सभ्यता का प्रमुख स्थल कौन सा है?",
+      "questionText": "सिंधु घाटी सभ्यता का प्रमुख स्थल कौन सा है?",
+      "qHi": "सिंधु घाटी सभ्यता का प्रमुख स्थल कौन सा है?",
+      "questionTextHi": "सिंधु घाटी सभ्यता का प्रमुख स्थल कौन सा है?",
+      "o": [
+        "हड़प्पा",
+        "पाटलिपुत्र",
+        "तक्षशिला",
+        "अयोध्या"
+      ],
+      "options": [
+        "हड़प्पा",
+        "पाटलिपुत्र",
+        "तक्षशिला",
+        "अयोध्या"
+      ],
+      "oHi": [
+        "हड़प्पा",
+        "पाटलिपुत्र",
+        "तक्षशिला",
+        "अयोध्या"
+      ],
+      "optionsHi": [
+        "हड़प्पा",
+        "पाटलिपुत्र",
+        "तक्षशिला",
+        "अयोध्या"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'हड़प्पा'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'हड़प्पा'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'हड़प्पा' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'हड़प्पा' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_history_415",
+      "q": "अशोक किस वंश से संबंधित थे?",
+      "questionText": "अशोक किस वंश से संबंधित थे?",
+      "qHi": "अशोक किस वंश से संबंधित थे?",
+      "questionTextHi": "अशोक किस वंश से संबंधित थे?",
+      "o": [
+        "मौर्य वंश",
+        "गुप्त वंश",
+        "चोल वंश",
+        "कुषाण वंश"
+      ],
+      "options": [
+        "मौर्य वंश",
+        "गुप्त वंश",
+        "चोल वंश",
+        "कुषाण वंश"
+      ],
+      "oHi": [
+        "मौर्य वंश",
+        "गुप्त वंश",
+        "चोल वंश",
+        "कुषाण वंश"
+      ],
+      "optionsHi": [
+        "मौर्य वंश",
+        "गुप्त वंश",
+        "चोल वंश",
+        "कुषाण वंश"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'मौर्य वंश'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'मौर्य वंश'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'मौर्य वंश' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'मौर्य वंश' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_history_417",
+      "q": "गुप्त वंश का संस्थापक कौन था?",
+      "questionText": "गुप्त वंश का संस्थापक कौन था?",
+      "qHi": "गुप्त वंश का संस्थापक कौन था?",
+      "questionTextHi": "गुप्त वंश का संस्थापक कौन था?",
+      "o": [
+        "समुद्रगुप्त",
+        "चंद्रगुप्त प्रथम",
+        "स्कंदगुप्त",
+        "कुमारगुप्त"
+      ],
+      "options": [
+        "समुद्रगुप्त",
+        "चंद्रगुप्त प्रथम",
+        "स्कंदगुप्त",
+        "कुमारगुप्त"
+      ],
+      "oHi": [
+        "समुद्रगुप्त",
+        "चंद्रगुप्त प्रथम",
+        "स्कंदगुप्त",
+        "कुमारगुप्त"
+      ],
+      "optionsHi": [
+        "समुद्रगुप्त",
+        "चंद्रगुप्त प्रथम",
+        "स्कंदगुप्त",
+        "कुमारगुप्त"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'चंद्रगुप्त प्रथम'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'चंद्रगुप्त प्रथम'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'चंद्रगुप्त प्रथम' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'चंद्रगुप्त प्रथम' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_history_418",
+      "q": "भारत छोड़ो आंदोलन कब शुरू हुआ?",
+      "questionText": "भारत छोड़ो आंदोलन कब शुरू हुआ?",
+      "qHi": "भारत छोड़ो आंदोलन कब शुरू हुआ?",
+      "questionTextHi": "भारत छोड़ो आंदोलन कब शुरू हुआ?",
+      "o": [
+        "1930",
+        "1942",
+        "1919",
+        "1920"
+      ],
+      "options": [
+        "1930",
+        "1942",
+        "1919",
+        "1920"
+      ],
+      "oHi": [
+        "1930",
+        "1942",
+        "1919",
+        "1920"
+      ],
+      "optionsHi": [
+        "1930",
+        "1942",
+        "1919",
+        "1920"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is '1942'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is '1942'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '1942' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '1942' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_history_422",
+      "q": "चंद्रगुप्त मौर्य के गुरु कौन थे?",
+      "questionText": "चंद्रगुप्त मौर्य के गुरु कौन थे?",
+      "qHi": "चंद्रगुप्त मौर्य के गुरु कौन थे?",
+      "questionTextHi": "चंद्रगुप्त मौर्य के गुरु कौन थे?",
+      "o": [
+        "चाणक्य",
+        "कालिदास",
+        "तानसेन",
+        "आर्यभट्ट"
+      ],
+      "options": [
+        "चाणक्य",
+        "कालिदास",
+        "तानसेन",
+        "आर्यभट्ट"
+      ],
+      "oHi": [
+        "चाणक्य",
+        "कालिदास",
+        "तानसेन",
+        "आर्यभट्ट"
+      ],
+      "optionsHi": [
+        "चाणक्य",
+        "कालिदास",
+        "तानसेन",
+        "आर्यभट्ट"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'चाणक्य'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'चाणक्य'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'चाणक्य' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'चाणक्य' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_history_423",
+      "q": "मुगल वंश की स्थापना किसने की?",
+      "questionText": "मुगल वंश की स्थापना किसने की?",
+      "qHi": "मुगल वंश की स्थापना किसने की?",
+      "questionTextHi": "मुगल वंश की स्थापना किसने की?",
+      "o": [
+        "अकबर",
+        "बाबर",
+        "हुमायूं",
+        "औरंगजेब"
+      ],
+      "options": [
+        "अकबर",
+        "बाबर",
+        "हुमायूं",
+        "औरंगजेब"
+      ],
+      "oHi": [
+        "अकबर",
+        "बाबर",
+        "हुमायूं",
+        "औरंगजेब"
+      ],
+      "optionsHi": [
+        "अकबर",
+        "बाबर",
+        "हुमायूं",
+        "औरंगजेब"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'बाबर'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'बाबर'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'बाबर' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'बाबर' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_history_425",
+      "q": "कांग्रेस की स्थापना कब हुई?",
+      "questionText": "कांग्रेस की स्थापना कब हुई?",
+      "qHi": "कांग्रेस की स्थापना कब हुई?",
+      "questionTextHi": "कांग्रेस की स्थापना कब हुई?",
+      "o": [
+        "1885",
+        "1905",
+        "1919",
+        "1942"
+      ],
+      "options": [
+        "1885",
+        "1905",
+        "1919",
+        "1942"
+      ],
+      "oHi": [
+        "1885",
+        "1905",
+        "1919",
+        "1942"
+      ],
+      "optionsHi": [
+        "1885",
+        "1905",
+        "1919",
+        "1942"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Indian Geography (41-60)",
+      "explanation": "Indian Geography (41-60)",
+      "expHi": "Indian Geography (41-60)",
+      "explanationHi": "Indian Geography (41-60)",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_history_482",
+      "q": "Who is known as the Father of the Nation?",
+      "questionText": "Who is known as the Father of the Nation?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Lord Canning",
+        "Mahatma Gandhi",
+        "Sri Gupta",
+        "Navy Blue"
+      ],
+      "options": [
+        "Lord Canning",
+        "Mahatma Gandhi",
+        "Sri Gupta",
+        "Navy Blue"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'Mahatma Gandhi'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Mahatma Gandhi'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Mahatma Gandhi' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Mahatma Gandhi' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_history_484",
+      "q": "Who founded the Maurya Empire?",
+      "questionText": "Who founded the Maurya Empire?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Chandragupta Maurya",
+        "On the bank of river Ravi",
+        "Tipu Sultan",
+        "Lord Canning"
+      ],
+      "options": [
+        "Chandragupta Maurya",
+        "On the bank of river Ravi",
+        "Tipu Sultan",
+        "Lord Canning"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'Chandragupta Maurya'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Chandragupta Maurya'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Chandragupta Maurya' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Chandragupta Maurya' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_history_485",
+      "q": "Who was the last Mughal Emperor?",
+      "questionText": "Who was the last Mughal Emperor?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Navy Blue",
+        "24 (Twenty-Four)",
+        "Bahadur Shah Zafar",
+        "Indira Gandhi Centre for Atomic Research"
+      ],
+      "options": [
+        "Navy Blue",
+        "24 (Twenty-Four)",
+        "Bahadur Shah Zafar",
+        "Indira Gandhi Centre for Atomic Research"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'Bahadur Shah Zafar'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Bahadur Shah Zafar'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Bahadur Shah Zafar' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Bahadur Shah Zafar' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_history_489",
+      "q": "Who started the Non-Cooperation Movement?",
+      "questionText": "Who started the Non-Cooperation Movement?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Mahatma Gandhi",
+        "Ravi Shankar (1968)",
+        "Ashoka Chakra",
+        "Bahadur Shah Zafar"
+      ],
+      "options": [
+        "Mahatma Gandhi",
+        "Ravi Shankar (1968)",
+        "Ashoka Chakra",
+        "Bahadur Shah Zafar"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'Mahatma Gandhi'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Mahatma Gandhi'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Mahatma Gandhi' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Mahatma Gandhi' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_history_490",
+      "q": "Quit India Movement launched in which year?",
+      "questionText": "Quit India Movement launched in which year?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Anant Gupta",
+        "Mughal Empire vs Delhi Sultanate",
+        "1942",
+        "Chandragupta"
+      ],
+      "options": [
+        "Anant Gupta",
+        "Mughal Empire vs Delhi Sultanate",
+        "1942",
+        "Chandragupta"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is '1942'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is '1942'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '1942' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '1942' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_history_524",
+      "q": "Who was the first Indian to win the Golden Globe Award?",
+      "questionText": "Who was the first Indian to win the Golden Globe Award?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Law of Dharma",
+        "Dehra dun",
+        "Snow White & 7 Dwarfs",
+        "AR. Rah man"
+      ],
+      "options": [
+        "Law of Dharma",
+        "Dehra dun",
+        "Snow White & 7 Dwarfs",
+        "AR. Rah man"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is 'AR. Rah man'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'AR. Rah man'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'AR. Rah man' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'AR. Rah man' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_history_553",
+      "q": "Who was the first Indian woman to receive Jnanapith Award?",
+      "questionText": "Who was the first Indian woman to receive Jnanapith Award?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Snow White & 7 Dwarfs",
+        "Battle of Buxar",
+        "Ashapurna Devi",
+        "Sri Gupta"
+      ],
+      "options": [
+        "Snow White & 7 Dwarfs",
+        "Battle of Buxar",
+        "Ashapurna Devi",
+        "Sri Gupta"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'Ashapurna Devi'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Ashapurna Devi'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Ashapurna Devi' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Ashapurna Devi' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_history_601",
+      "q": "Where is Indira Gandhi National Forest Academy Located?",
+      "questionText": "Where is Indira Gandhi National Forest Academy Located?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Dehra dun",
+        "Shane Warne",
+        "Bahadur Shah Zafar",
+        "Tipu Sultan"
+      ],
+      "options": [
+        "Dehra dun",
+        "Shane Warne",
+        "Bahadur Shah Zafar",
+        "Tipu Sultan"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'Dehra dun'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Dehra dun'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Dehra dun' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Dehra dun' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_history_617",
+      "q": "Who is the present CEO of HCL Technologies?",
+      "questionText": "Who is the present CEO of HCL Technologies?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Lion Capital of Ashoka",
+        "Festival of Letters",
+        "Anant Gupta",
+        "Grand Cordon of the Order of the Paulownia Flowers"
+      ],
+      "options": [
+        "Lion Capital of Ashoka",
+        "Festival of Letters",
+        "Anant Gupta",
+        "Grand Cordon of the Order of the Paulownia Flowers"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'Anant Gupta'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Anant Gupta'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Anant Gupta' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Anant Gupta' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_history_642",
+      "q": "Who established Mauryan Empire in ancient India?",
+      "questionText": "Who established Mauryan Empire in ancient India?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Tipu Sultan",
+        "Indira Gandhi (16 July 1969 – 27 June 1970)",
+        "Chandra Gupta Maurya",
+        "Ravi Shankar (1968)"
+      ],
+      "options": [
+        "Tipu Sultan",
+        "Indira Gandhi (16 July 1969 – 27 June 1970)",
+        "Chandra Gupta Maurya",
+        "Ravi Shankar (1968)"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'Chandra Gupta Maurya'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Chandra Gupta Maurya'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Chandra Gupta Maurya' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Chandra Gupta Maurya' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_history_646",
+      "q": "Which Indian city is known as “The Temple City”?",
+      "questionText": "Which Indian city is known as “The Temple City”?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Bhubaneswar, Odisha",
+        "1857 AD",
+        "Ashapurna Devi",
+        "India vs Tibet"
+      ],
+      "options": [
+        "Bhubaneswar, Odisha",
+        "1857 AD",
+        "Ashapurna Devi",
+        "India vs Tibet"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'Bhubaneswar, Odisha'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Bhubaneswar, Odisha'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Bhubaneswar, Odisha' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Bhubaneswar, Odisha' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_history_652",
+      "q": "Who introduced the two laws Vyavahar-Samta and Dand-Samta?",
+      "questionText": "Who introduced the two laws Vyavahar-Samta and Dand-Samta?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "India vs Tibet",
+        "Kiran Bedi",
+        "Lord Mountbatten",
+        "Ashoka"
+      ],
+      "options": [
+        "India vs Tibet",
+        "Kiran Bedi",
+        "Lord Mountbatten",
+        "Ashoka"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is 'Ashoka'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Ashoka'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Ashoka' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Ashoka' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_history_730",
+      "q": "Between Whom the Kalinga War was Fought?",
+      "questionText": "Between Whom the Kalinga War was Fought?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Festival of Letters",
+        "Drass (J&K)",
+        "Maurya Empire and Kalinga",
+        "Snow White & 7 Dwarfs"
+      ],
+      "options": [
+        "Festival of Letters",
+        "Drass (J&K)",
+        "Maurya Empire and Kalinga",
+        "Snow White & 7 Dwarfs"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'Maurya Empire and Kalinga'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Maurya Empire and Kalinga'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Maurya Empire and Kalinga' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Maurya Empire and Kalinga' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_history_731",
+      "q": "Who fought the Battle of Panipat?",
+      "questionText": "Who fought the Battle of Panipat?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Lord Mountbatten",
+        "Ashapurna Devi",
+        "Festival of Letters",
+        "Mughal Empire vs Delhi Sultanate"
+      ],
+      "options": [
+        "Lord Mountbatten",
+        "Ashapurna Devi",
+        "Festival of Letters",
+        "Mughal Empire vs Delhi Sultanate"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is 'Mughal Empire vs Delhi Sultanate'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Mughal Empire vs Delhi Sultanate'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Mughal Empire vs Delhi Sultanate' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Mughal Empire vs Delhi Sultanate' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_history_732",
+      "q": "Which war led to the signing of the Treaty of Mangalore between Tipu Sultan and the British East India Company on 11 March 1784?",
+      "questionText": "Which war led to the signing of the Treaty of Mangalore between Tipu Sultan and the British East India Company on 11 March 1784?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Navy Blue",
+        "Second Anglo-Mysore War",
+        "Dehra dun",
+        "Sri Gupta"
+      ],
+      "options": [
+        "Navy Blue",
+        "Second Anglo-Mysore War",
+        "Dehra dun",
+        "Sri Gupta"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'Second Anglo-Mysore War'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Second Anglo-Mysore War'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Second Anglo-Mysore War' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Second Anglo-Mysore War' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_history_733",
+      "q": "Who fought the war of the Sikkim Expedition of 1888? Important Indian Rivers",
+      "questionText": "Who fought the war of the Sikkim Expedition of 1888? Important Indian Rivers",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Indira Gandhi (16 July 1969 – 27 June 1970)",
+        "India vs Tibet",
+        "Sri Gupta",
+        "Drass (J&K)"
+      ],
+      "options": [
+        "Indira Gandhi (16 July 1969 – 27 June 1970)",
+        "India vs Tibet",
+        "Sri Gupta",
+        "Drass (J&K)"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'India vs Tibet'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'India vs Tibet'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'India vs Tibet' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'India vs Tibet' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_history_757",
+      "q": "Who was the First Female Finance Minister of India?",
+      "questionText": "Who was the First Female Finance Minister of India?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "1942",
+        "By Iranians",
+        "Indira Gandhi (16 July 1969 – 27 June 1970)",
+        "Shivaji"
+      ],
+      "options": [
+        "1942",
+        "By Iranians",
+        "Indira Gandhi (16 July 1969 – 27 June 1970)",
+        "Shivaji"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'Indira Gandhi (16 July 1969 – 27 June 1970)'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Indira Gandhi (16 July 1969 – 27 June 1970)'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Indira Gandhi (16 July 1969 – 27 June 1970)' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Indira Gandhi (16 July 1969 – 27 June 1970)' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_history_812",
+      "q": "During the March of the Indian Army, What does “Keep Stepping Forward” mean in Hindi?",
+      "questionText": "During the March of the Indian Army, What does “Keep Stepping Forward” mean in Hindi?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Qadam Qadam Badhaye Ja",
+        "King Bindusara",
+        "Kumara Gupta",
+        "Shane Warne"
+      ],
+      "options": [
+        "Qadam Qadam Badhaye Ja",
+        "King Bindusara",
+        "Kumara Gupta",
+        "Shane Warne"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'Qadam Qadam Badhaye Ja'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Qadam Qadam Badhaye Ja'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Qadam Qadam Badhaye Ja' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Qadam Qadam Badhaye Ja' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_history_823",
+      "q": "Where is the Kargil War Memorial located?",
+      "questionText": "Where is the Kargil War Memorial located?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "5 Times",
+        "Sangeet Natak Akademi Award",
+        "Mahapadmananda",
+        "Drass (J&K)"
+      ],
+      "options": [
+        "5 Times",
+        "Sangeet Natak Akademi Award",
+        "Mahapadmananda",
+        "Drass (J&K)"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is 'Drass (J&K)'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Drass (J&K)'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Drass (J&K)' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Drass (J&K)' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_history_870",
+      "q": "How many Gallantry Awards are in India?",
+      "questionText": "How many Gallantry Awards are in India?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "On the bank of river Ravi",
+        "Six",
+        "Ravi Shankar (1968)",
+        "1857 AD"
+      ],
+      "options": [
+        "On the bank of river Ravi",
+        "Six",
+        "Ravi Shankar (1968)",
+        "1857 AD"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "5) Shaurya Chakra 6) Vir Chakra",
+      "explanation": "5) Shaurya Chakra 6) Vir Chakra",
+      "expHi": "5) Shaurya Chakra 6) Vir Chakra",
+      "explanationHi": "5) Shaurya Chakra 6) Vir Chakra",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_history_871",
+      "q": "Which Award did Manmohan Singh receive from Japan in 2014?",
+      "questionText": "Which Award did Manmohan Singh receive from Japan in 2014?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Grand Cordon of the Order of the Paulownia Flowers",
+        "Verified Answer",
+        "Samudra Gupta",
+        "India vs Tibet"
+      ],
+      "options": [
+        "Grand Cordon of the Order of the Paulownia Flowers",
+        "Verified Answer",
+        "Samudra Gupta",
+        "India vs Tibet"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'Grand Cordon of the Order of the Paulownia Flowers'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Grand Cordon of the Order of the Paulownia Flowers'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Grand Cordon of the Order of the Paulownia Flowers' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Grand Cordon of the Order of the Paulownia Flowers' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_history_873",
+      "q": "Who was the First Indian to win the Grammy Award?",
+      "questionText": "Who was the First Indian to win the Grammy Award?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Ahmedabad",
+        "Qadam Qadam Badhaye Ja",
+        "Ravi Shankar (1968)",
+        "2008"
+      ],
+      "options": [
+        "Ahmedabad",
+        "Qadam Qadam Badhaye Ja",
+        "Ravi Shankar (1968)",
+        "2008"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'Ravi Shankar (1968)'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Ravi Shankar (1968)'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Ravi Shankar (1968)' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Ravi Shankar (1968)' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_history_874",
+      "q": "Which Awards are known as Wartime Gallantry Awards?",
+      "questionText": "Which Awards are known as Wartime Gallantry Awards?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Indira Gandhi",
+        "Verified Answer",
+        "Lord Mountbatten",
+        "King Bindusara"
+      ],
+      "options": [
+        "Indira Gandhi",
+        "Verified Answer",
+        "Lord Mountbatten",
+        "King Bindusara"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'Verified Answer'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Verified Answer'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Verified Answer' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Verified Answer' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_history_875",
+      "q": "Which Awards are known as Peacetime Gallantry Awards?",
+      "questionText": "Which Awards are known as Peacetime Gallantry Awards?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Verified Answer",
+        "Six",
+        "5 Times",
+        "Mahatma Gandhi"
+      ],
+      "options": [
+        "Verified Answer",
+        "Six",
+        "5 Times",
+        "Mahatma Gandhi"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'Verified Answer'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Verified Answer'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Verified Answer' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Verified Answer' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_history_886",
+      "q": "When did A. R. Rahman win the Grammy Award?",
+      "questionText": "When did A. R. Rahman win the Grammy Award?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "2008",
+        "Kumara Gupta",
+        "Shane Warne",
+        "Mughal Empire vs Delhi Sultanate"
+      ],
+      "options": [
+        "2008",
+        "Kumara Gupta",
+        "Shane Warne",
+        "Mughal Empire vs Delhi Sultanate"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is '2008'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is '2008'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '2008' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '2008' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_history_889",
+      "q": "Who Composed Raga Lajwanti?",
+      "questionText": "Who Composed Raga Lajwanti?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Ustad Ali Akbar Khan",
+        "Zubin Mehta (23 Times, Won 5)",
+        "Mughal Empire vs Delhi Sultanate",
+        "King Bindusara"
+      ],
+      "options": [
+        "Ustad Ali Akbar Khan",
+        "Zubin Mehta (23 Times, Won 5)",
+        "Mughal Empire vs Delhi Sultanate",
+        "King Bindusara"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'Ustad Ali Akbar Khan'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Ustad Ali Akbar Khan'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Ustad Ali Akbar Khan' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Ustad Ali Akbar Khan' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_history_890",
+      "q": "Which Award is given by India’s National Academy of Music, Dance & Drama?",
+      "questionText": "Which Award is given by India’s National Academy of Music, Dance & Drama?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Mahatma Gandhi",
+        "Sangeet Natak Akademi Award",
+        "India vs Tibet",
+        "Six"
+      ],
+      "options": [
+        "Mahatma Gandhi",
+        "Sangeet Natak Akademi Award",
+        "India vs Tibet",
+        "Six"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'Sangeet Natak Akademi Award'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Sangeet Natak Akademi Award'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Sangeet Natak Akademi Award' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Sangeet Natak Akademi Award' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_history_913",
+      "q": "What is the Name of the Wheel in the middle of the Indian Flag?",
+      "questionText": "What is the Name of the Wheel in the middle of the Indian Flag?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Ashoka Chakra",
+        "Lord Mountbatten",
+        "Bahadur Shah Zafar",
+        "Mughal Empire vs Delhi Sultanate"
+      ],
+      "options": [
+        "Ashoka Chakra",
+        "Lord Mountbatten",
+        "Bahadur Shah Zafar",
+        "Mughal Empire vs Delhi Sultanate"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'Ashoka Chakra'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Ashoka Chakra'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Ashoka Chakra' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Ashoka Chakra' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_history_914",
+      "q": "How many Spokes are on the Ashoka Chakra?",
+      "questionText": "How many Spokes are on the Ashoka Chakra?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Dehra dun",
+        "Bhubaneswar, Odisha",
+        "The Philippines",
+        "24 (Twenty-Four)"
+      ],
+      "options": [
+        "Dehra dun",
+        "Bhubaneswar, Odisha",
+        "The Philippines",
+        "24 (Twenty-Four)"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is '24 (Twenty-Four)'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is '24 (Twenty-Four)'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '24 (Twenty-Four)' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '24 (Twenty-Four)' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_history_916",
+      "q": "What is the Color of the Ashoka Chakra on the Indian Flag?",
+      "questionText": "What is the Color of the Ashoka Chakra on the Indian Flag?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Navy Blue",
+        "5 Times",
+        "Mahapadmananda",
+        "On the bank of river Ravi"
+      ],
+      "options": [
+        "Navy Blue",
+        "5 Times",
+        "Mahapadmananda",
+        "On the bank of river Ravi"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'Navy Blue'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Navy Blue'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Navy Blue' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Navy Blue' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_history_923",
+      "q": "What does “Ashoka Chakra” in the center of the white Signify?",
+      "questionText": "What does “Ashoka Chakra” in the center of the white Signify?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "1857 AD",
+        "Law of Dharma",
+        "Ustad Ali Akbar Khan",
+        "Samudra Gupta"
+      ],
+      "options": [
+        "1857 AD",
+        "Law of Dharma",
+        "Ustad Ali Akbar Khan",
+        "Samudra Gupta"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'Law of Dharma'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Law of Dharma'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Law of Dharma' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Law of Dharma' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_history_1005",
+      "q": "भारत का राष्ट्रीय गान किसने लिखा?",
+      "questionText": "भारत का राष्ट्रीय गान किसने लिखा?",
+      "qHi": "भारत का राष्ट्रीय गान किसने लिखा?",
+      "questionTextHi": "भारत का राष्ट्रीय गान किसने लिखा?",
+      "o": [
+        "महात्मा गांधी",
+        "रवीन्द्रनाथ टैगोर",
+        "जवाहरलाल नेहरू",
+        "सरदार पटेल"
+      ],
+      "options": [
+        "महात्मा गांधी",
+        "रवीन्द्रनाथ टैगोर",
+        "जवाहरलाल नेहरू",
+        "सरदार पटेल"
+      ],
+      "oHi": [
+        "महात्मा गांधी",
+        "रवीन्द्रनाथ टैगोर",
+        "जवाहरलाल नेहरू",
+        "सरदार पटेल"
+      ],
+      "optionsHi": [
+        "महात्मा गांधी",
+        "रवीन्द्रनाथ टैगोर",
+        "जवाहरलाल नेहरू",
+        "सरदार पटेल"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'रवीन्द्रनाथ टैगोर'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'रवीन्द्रनाथ टैगोर'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'रवीन्द्रनाथ टैगोर' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'रवीन्द्रनाथ टैगोर' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_history_1009",
+      "q": "भारत का राष्ट्रीय ध्वज किसने डिजाइन किया?",
+      "questionText": "भारत का राष्ट्रीय ध्वज किसने डिजाइन किया?",
+      "qHi": "भारत का राष्ट्रीय ध्वज किसने डिजाइन किया?",
+      "questionTextHi": "भारत का राष्ट्रीय ध्वज किसने डिजाइन किया?",
+      "o": [
+        "पिंगली वेंकैया",
+        "गांधी जी",
+        "नेहरू",
+        "टैगोर"
+      ],
+      "options": [
+        "पिंगली वेंकैया",
+        "गांधी जी",
+        "नेहरू",
+        "टैगोर"
+      ],
+      "oHi": [
+        "पिंगली वेंकैया",
+        "गांधी जी",
+        "नेहरू",
+        "टैगोर"
+      ],
+      "optionsHi": [
+        "पिंगली वेंकैया",
+        "गांधी जी",
+        "नेहरू",
+        "टैगोर"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'पिंगली वेंकैया'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'पिंगली वेंकैया'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'पिंगली वेंकैया' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'पिंगली वेंकैया' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_history_1033",
+      "q": "What is the Nickname of Lata Mangeshkar?",
+      "questionText": "What is the Nickname of Lata Mangeshkar?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Festival of Letters",
+        "24 (Twenty-Four)",
+        "Swar Kokila",
+        "Navy Blue"
+      ],
+      "options": [
+        "Festival of Letters",
+        "24 (Twenty-Four)",
+        "Swar Kokila",
+        "Navy Blue"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'Swar Kokila'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Swar Kokila'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Swar Kokila' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Swar Kokila' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_history_1034",
+      "q": "Which Battle was fought between the British East India Company and the Mughal Empire in 1764?",
+      "questionText": "Which Battle was fought between the British East India Company and the Mughal Empire in 1764?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Tipu Sultan",
+        "Anant Gupta",
+        "Battle of Buxar",
+        "Zubin Mehta (23 Times, Won 5)"
+      ],
+      "options": [
+        "Tipu Sultan",
+        "Anant Gupta",
+        "Battle of Buxar",
+        "Zubin Mehta (23 Times, Won 5)"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'Battle of Buxar'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Battle of Buxar'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Battle of Buxar' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Battle of Buxar' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_history_1035",
+      "q": "Who fought the war of the Sikkim Expedition of 1888?",
+      "questionText": "Who fought the war of the Sikkim Expedition of 1888?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Ashoka Chakra",
+        "India vs Tibet",
+        "Shane Warne",
+        "AR. Rah man"
+      ],
+      "options": [
+        "Ashoka Chakra",
+        "India vs Tibet",
+        "Shane Warne",
+        "AR. Rah man"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'India vs Tibet'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'India vs Tibet'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'India vs Tibet' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'India vs Tibet' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_history_1052",
+      "q": "How many Civilian Awards are in India?",
+      "questionText": "How many Civilian Awards are in India?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Chandragupta Maurya",
+        "Snow White & 7 Dwarfs",
+        "The Philippines",
+        "Four"
+      ],
+      "options": [
+        "Chandragupta Maurya",
+        "Snow White & 7 Dwarfs",
+        "The Philippines",
+        "Four"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is 'Four'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Four'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Four' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Four' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_history_1053",
+      "q": "How many times did Ravi Shankar win a Grammy Award?",
+      "questionText": "How many times did Ravi Shankar win a Grammy Award?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "5 Times",
+        "Ahmedabad",
+        "Ashoka Chakra",
+        "On the bank of river Ravi"
+      ],
+      "options": [
+        "5 Times",
+        "Ahmedabad",
+        "Ashoka Chakra",
+        "On the bank of river Ravi"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is '5 Times'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is '5 Times'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '5 Times' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '5 Times' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_history_1054",
+      "q": "Who is the most Nominated Person for the Grammy Award from India?",
+      "questionText": "Who is the most Nominated Person for the Grammy Award from India?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Chandra Gupta Maurya",
+        "Zubin Mehta (23 Times, Won 5)",
+        "King Bindusara",
+        "1857 AD"
+      ],
+      "options": [
+        "Chandra Gupta Maurya",
+        "Zubin Mehta (23 Times, Won 5)",
+        "King Bindusara",
+        "1857 AD"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'Zubin Mehta (23 Times, Won 5)'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Zubin Mehta (23 Times, Won 5)'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Zubin Mehta (23 Times, Won 5)' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Zubin Mehta (23 Times, Won 5)' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_history_1056",
+      "q": "For which Movie did A. R. Rahman win the Grammy Award?",
+      "questionText": "For which Movie did A. R. Rahman win the Grammy Award?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Slumdog Millionaire",
+        "The River Ganges",
+        "Bahadur Shah Zafar",
+        "Six"
+      ],
+      "options": [
+        "Slumdog Millionaire",
+        "The River Ganges",
+        "Bahadur Shah Zafar",
+        "Six"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'Slumdog Millionaire'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Slumdog Millionaire'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Slumdog Millionaire' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Slumdog Millionaire' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_history_1105",
+      "q": "महात्मा गांधी राष्ट्रीय ग्रामीण रोजगार गारण्टी अधिनियम कब पारित हुआ था",
+      "questionText": "महात्मा गांधी राष्ट्रीय ग्रामीण रोजगार गारण्टी अधिनियम कब पारित हुआ था",
+      "qHi": "महात्मा गांधी राष्ट्रीय ग्रामीण रोजगार गारण्टी अधिनियम कब पारित हुआ था",
+      "questionTextHi": "महात्मा गांधी राष्ट्रीय ग्रामीण रोजगार गारण्टी अधिनियम कब पारित हुआ था",
+      "o": [
+        "मौर्य वंश",
+        "1888",
+        "2005",
+        "बाबर"
+      ],
+      "options": [
+        "मौर्य वंश",
+        "1888",
+        "2005",
+        "बाबर"
+      ],
+      "oHi": [
+        "मौर्य वंश",
+        "1888",
+        "2005",
+        "बाबर"
+      ],
+      "optionsHi": [
+        "मौर्य वंश",
+        "1888",
+        "2005",
+        "बाबर"
+      ],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is '2005'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is '2005'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '2005' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '2005' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_history_1285",
+      "q": "कौन-सा गुप्त सम्राट विक्रमादित्य नाम से जाना जाता था",
+      "questionText": "कौन-सा गुप्त सम्राट विक्रमादित्य नाम से जाना जाता था",
+      "qHi": "कौन-सा गुप्त सम्राट विक्रमादित्य नाम से जाना जाता था",
+      "questionTextHi": "कौन-सा गुप्त सम्राट विक्रमादित्य नाम से जाना जाता था",
+      "o": [
+        "हड़प्पा",
+        "चन्द्र गुप्त-II",
+        "जहाँगीर",
+        "बाबर"
+      ],
+      "options": [
+        "हड़प्पा",
+        "चन्द्र गुप्त-II",
+        "जहाँगीर",
+        "बाबर"
+      ],
+      "oHi": [
+        "हड़प्पा",
+        "चन्द्र गुप्त-II",
+        "जहाँगीर",
+        "बाबर"
+      ],
+      "optionsHi": [
+        "हड़प्पा",
+        "चन्द्र गुप्त-II",
+        "जहाँगीर",
+        "बाबर"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'चन्द्र गुप्त-II'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'चन्द्र गुप्त-II'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'चन्द्र गुप्त-II' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'चन्द्र गुप्त-II' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_history_1305",
+      "q": "1526 ई. में हरियाणा में किस स्थान पर बाबर और इब्राहिम लोदी के बीच प्रसिद्ध युद्ध हुआ था",
+      "questionText": "1526 ई. में हरियाणा में किस स्थान पर बाबर और इब्राहिम लोदी के बीच प्रसिद्ध युद्ध हुआ था",
+      "qHi": "1526 ई. में हरियाणा में किस स्थान पर बाबर और इब्राहिम लोदी के बीच प्रसिद्ध युद्ध हुआ था",
+      "questionTextHi": "1526 ई. में हरियाणा में किस स्थान पर बाबर और इब्राहिम लोदी के बीच प्रसिद्ध युद्ध हुआ था",
+      "o": [
+        "पानीपत",
+        "जहाँगीर",
+        "हड़प्पा",
+        "पिंगली वेंकैया"
+      ],
+      "options": [
+        "पानीपत",
+        "जहाँगीर",
+        "हड़प्पा",
+        "पिंगली वेंकैया"
+      ],
+      "oHi": [
+        "पानीपत",
+        "जहाँगीर",
+        "हड़प्पा",
+        "पिंगली वेंकैया"
+      ],
+      "optionsHi": [
+        "पानीपत",
+        "जहाँगीर",
+        "हड़प्पा",
+        "पिंगली वेंकैया"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'पानीपत'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'पानीपत'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'पानीपत' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'पानीपत' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_history_1320",
+      "q": "किस मुगल सम्राट ने पहली बार अंग्रेजों को भारत में व्यापार करने एवं कारखाना स्थापित करने की अनुमति दी थी",
+      "questionText": "किस मुगल सम्राट ने पहली बार अंग्रेजों को भारत में व्यापार करने एवं कारखाना स्थापित करने की अनुमति दी थी",
+      "qHi": "किस मुगल सम्राट ने पहली बार अंग्रेजों को भारत में व्यापार करने एवं कारखाना स्थापित करने की अनुमति दी थी",
+      "questionTextHi": "किस मुगल सम्राट ने पहली बार अंग्रेजों को भारत में व्यापार करने एवं कारखाना स्थापित करने की अनुमति दी थी",
+      "o": [
+        "बाबर",
+        "1888",
+        "चंद्रगुप्त प्रथम",
+        "जहाँगीर"
+      ],
+      "options": [
+        "बाबर",
+        "1888",
+        "चंद्रगुप्त प्रथम",
+        "जहाँगीर"
+      ],
+      "oHi": [
+        "बाबर",
+        "1888",
+        "चंद्रगुप्त प्रथम",
+        "जहाँगीर"
+      ],
+      "optionsHi": [
+        "बाबर",
+        "1888",
+        "चंद्रगुप्त प्रथम",
+        "जहाँगीर"
+      ],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is 'जहाँगीर'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'जहाँगीर'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'जहाँगीर' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'जहाँगीर' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_history_1343",
+      "q": "महात्मा गांधी की हत्या कब हुई थी",
+      "questionText": "महात्मा गांधी की हत्या कब हुई थी",
+      "qHi": "महात्मा गांधी की हत्या कब हुई थी",
+      "questionTextHi": "महात्मा गांधी की हत्या कब हुई थी",
+      "o": [
+        "हड़प्पा",
+        "30 जनवरी, 1948",
+        "पानीपत",
+        "1885"
+      ],
+      "options": [
+        "हड़प्पा",
+        "30 जनवरी, 1948",
+        "पानीपत",
+        "1885"
+      ],
+      "oHi": [
+        "हड़प्पा",
+        "30 जनवरी, 1948",
+        "पानीपत",
+        "1885"
+      ],
+      "optionsHi": [
+        "हड़प्पा",
+        "30 जनवरी, 1948",
+        "पानीपत",
+        "1885"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is '30 जनवरी, 1948'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is '30 जनवरी, 1948'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '30 जनवरी, 1948' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '30 जनवरी, 1948' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_history_1354",
+      "q": "सीएसआईआर द्वारा विकसित 'दृष्टि नामक स्वदेशी विमान पट्टी आकलन दृश्य प्रणाली हाल ही में किस हवाई अड्डे पर लगाई गई है",
+      "questionText": "सीएसआईआर द्वारा विकसित 'दृष्टि नामक स्वदेशी विमान पट्टी आकलन दृश्य प्रणाली हाल ही में किस हवाई अड्डे पर लगाई गई है",
+      "qHi": "सीएसआईआर द्वारा विकसित 'दृष्टि नामक स्वदेशी विमान पट्टी आकलन दृश्य प्रणाली हाल ही में किस हवाई अड्डे पर लगाई गई है",
+      "questionTextHi": "सीएसआईआर द्वारा विकसित 'दृष्टि नामक स्वदेशी विमान पट्टी आकलन दृश्य प्रणाली हाल ही में किस हवाई अड्डे पर लगाई गई है",
+      "o": [
+        "रवीन्द्रनाथ टैगोर",
+        "इंदिरा गांधी अंतरराष्ट्रीय हवाई अड्डा, नई दिल्ली",
+        "चन्द्र गुप्त-II",
+        "मौर्य वंश"
+      ],
+      "options": [
+        "रवीन्द्रनाथ टैगोर",
+        "इंदिरा गांधी अंतरराष्ट्रीय हवाई अड्डा, नई दिल्ली",
+        "चन्द्र गुप्त-II",
+        "मौर्य वंश"
+      ],
+      "oHi": [
+        "रवीन्द्रनाथ टैगोर",
+        "इंदिरा गांधी अंतरराष्ट्रीय हवाई अड्डा, नई दिल्ली",
+        "चन्द्र गुप्त-II",
+        "मौर्य वंश"
+      ],
+      "optionsHi": [
+        "रवीन्द्रनाथ टैगोर",
+        "इंदिरा गांधी अंतरराष्ट्रीय हवाई अड्डा, नई दिल्ली",
+        "चन्द्र गुप्त-II",
+        "मौर्य वंश"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'इंदिरा गांधी अंतरराष्ट्रीय हवाई अड्डा, नई दिल्ली'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'इंदिरा गांधी अंतरराष्ट्रीय हवाई अड्डा, नई दिल्ली'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'इंदिरा गांधी अंतरराष्ट्रीय हवाई अड्डा, नई दिल्ली' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'इंदिरा गांधी अंतरराष्ट्रीय हवाई अड्डा, नई दिल्ली' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_history_1395",
+      "q": "किस देश की व्यवस्थापिका को नेशनल पीपुल्स कांग्रेस कहा जाता है",
+      "questionText": "किस देश की व्यवस्थापिका को नेशनल पीपुल्स कांग्रेस कहा जाता है",
+      "qHi": "किस देश की व्यवस्थापिका को नेशनल पीपुल्स कांग्रेस कहा जाता है",
+      "questionTextHi": "किस देश की व्यवस्थापिका को नेशनल पीपुल्स कांग्रेस कहा जाता है",
+      "o": [
+        "चाणक्य",
+        "चन्द्र गुप्त-II",
+        "चीन",
+        "रवीन्द्रनाथ टैगोर"
+      ],
+      "options": [
+        "चाणक्य",
+        "चन्द्र गुप्त-II",
+        "चीन",
+        "रवीन्द्रनाथ टैगोर"
+      ],
+      "oHi": [
+        "चाणक्य",
+        "चन्द्र गुप्त-II",
+        "चीन",
+        "रवीन्द्रनाथ टैगोर"
+      ],
+      "optionsHi": [
+        "चाणक्य",
+        "चन्द्र गुप्त-II",
+        "चीन",
+        "रवीन्द्रनाथ टैगोर"
+      ],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'चीन'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'चीन'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'चीन' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'चीन' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_history_1421",
+      "q": "चन्देरी के युद्ध में 1528 में बाबर ने किसे परास्त किया था",
+      "questionText": "चन्देरी के युद्ध में 1528 में बाबर ने किसे परास्त किया था",
+      "qHi": "चन्देरी के युद्ध में 1528 में बाबर ने किसे परास्त किया था",
+      "questionTextHi": "चन्देरी के युद्ध में 1528 में बाबर ने किसे परास्त किया था",
+      "o": [
+        "1942",
+        "बाबर",
+        "मेदनीराय",
+        "1888"
+      ],
+      "options": [
+        "1942",
+        "बाबर",
+        "मेदनीराय",
+        "1888"
+      ],
+      "oHi": [
+        "1942",
+        "बाबर",
+        "मेदनीराय",
+        "1888"
+      ],
+      "optionsHi": [
+        "1942",
+        "बाबर",
+        "मेदनीराय",
+        "1888"
+      ],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'मेदनीराय'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'मेदनीराय'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'मेदनीराय' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'मेदनीराय' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_history_1422",
+      "q": "जॉर्ज यूल ने किस वर्ष कांग्रेस के अधिवेशन की अध्यक्षता की थी",
+      "questionText": "जॉर्ज यूल ने किस वर्ष कांग्रेस के अधिवेशन की अध्यक्षता की थी",
+      "qHi": "जॉर्ज यूल ने किस वर्ष कांग्रेस के अधिवेशन की अध्यक्षता की थी",
+      "questionTextHi": "जॉर्ज यूल ने किस वर्ष कांग्रेस के अधिवेशन की अध्यक्षता की थी",
+      "o": [
+        "जहाँगीर",
+        "1888",
+        "30 जनवरी, 1948",
+        "इंदिरा गांधी अंतरराष्ट्रीय हवाई अड्डा, नई दिल्ली"
+      ],
+      "options": [
+        "जहाँगीर",
+        "1888",
+        "30 जनवरी, 1948",
+        "इंदिरा गांधी अंतरराष्ट्रीय हवाई अड्डा, नई दिल्ली"
+      ],
+      "oHi": [
+        "जहाँगीर",
+        "1888",
+        "30 जनवरी, 1948",
+        "इंदिरा गांधी अंतरराष्ट्रीय हवाई अड्डा, नई दिल्ली"
+      ],
+      "optionsHi": [
+        "जहाँगीर",
+        "1888",
+        "30 जनवरी, 1948",
+        "इंदिरा गांधी अंतरराष्ट्रीय हवाई अड्डा, नई दिल्ली"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is '1888'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is '1888'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '1888' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '1888' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_history_1467",
+      "q": "Who was the first woman recipient of Magsaysay award?",
+      "questionText": "Who was the first woman recipient of Magsaysay award?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "By Iranians",
+        "Kiran Bedi",
+        "Law of Dharma",
+        "Indira Gandhi National Open"
+      ],
+      "options": [
+        "By Iranians",
+        "Kiran Bedi",
+        "Law of Dharma",
+        "Indira Gandhi National Open"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'Kiran Bedi'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Kiran Bedi'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Kiran Bedi' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Kiran Bedi' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_history_1475",
+      "q": "Name the Indian Chief Minister who received the UN Public",
+      "questionText": "Name the Indian Chief Minister who received the UN Public",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Edward Jenner",
+        "Mughal Empire vs Delhi Sultanate",
+        "Bhubaneswar, Odisha",
+        "Service award recently"
+      ],
+      "options": [
+        "Edward Jenner",
+        "Mughal Empire vs Delhi Sultanate",
+        "Bhubaneswar, Odisha",
+        "Service award recently"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is 'Service award recently'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Service award recently'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Service award recently' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Service award recently' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_history_1480",
+      "q": "Name the Indian King Who was Known as “Napoleon of India”",
+      "questionText": "Name the Indian King Who was Known as “Napoleon of India”",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "5 Times",
+        "Samudra Gupta",
+        "Battle of Buxar",
+        "Sangeet Natak Akademi Award"
+      ],
+      "options": [
+        "5 Times",
+        "Samudra Gupta",
+        "Battle of Buxar",
+        "Sangeet Natak Akademi Award"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'Samudra Gupta'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Samudra Gupta'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Samudra Gupta' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Samudra Gupta' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_history_1488",
+      "q": "Who Founded Nalanda University?",
+      "questionText": "Who Founded Nalanda University?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Grand Cordon of the Order of the Paulownia Flowers",
+        "Ahmedabad",
+        "Kumara Gupta",
+        "5 Times"
+      ],
+      "options": [
+        "Grand Cordon of the Order of the Paulownia Flowers",
+        "Ahmedabad",
+        "Kumara Gupta",
+        "5 Times"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'Kumara Gupta'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Kumara Gupta'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Kumara Gupta' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Kumara Gupta' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_history_1506",
+      "q": "Who is the present Central Minister of External Affairs?",
+      "questionText": "Who is the present Central Minister of External Affairs?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Bhubaneswar, Odisha",
+        "AR. Rah man",
+        "Smt. Sushma Swaraj",
+        "1857 AD"
+      ],
+      "options": [
+        "Bhubaneswar, Odisha",
+        "AR. Rah man",
+        "Smt. Sushma Swaraj",
+        "1857 AD"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'Smt. Sushma Swaraj'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Smt. Sushma Swaraj'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Smt. Sushma Swaraj' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Smt. Sushma Swaraj' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_history_1510",
+      "q": "Who was the first Mauryan Ruler to conquer Deccan?",
+      "questionText": "Who was the first Mauryan Ruler to conquer Deccan?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Slumdog Millionaire",
+        "Snow White & 7 Dwarfs",
+        "King Bindusara",
+        "Verified Answer"
+      ],
+      "options": [
+        "Slumdog Millionaire",
+        "Snow White & 7 Dwarfs",
+        "King Bindusara",
+        "Verified Answer"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'King Bindusara'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'King Bindusara'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'King Bindusara' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'King Bindusara' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_history_1512",
+      "q": "Who was the founder of Gupta Dynasty?",
+      "questionText": "Who was the founder of Gupta Dynasty?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Sri Gupta",
+        "The River Ganges",
+        "Kumara Gupta",
+        "Indira Gandhi (16 July 1969 – 27 June 1970)"
+      ],
+      "options": [
+        "Sri Gupta",
+        "The River Ganges",
+        "Kumara Gupta",
+        "Indira Gandhi (16 July 1969 – 27 June 1970)"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'Sri Gupta'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Sri Gupta'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Sri Gupta' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Sri Gupta' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_history_1535",
+      "q": "What is the expansion of IGCAR?",
+      "questionText": "What is the expansion of IGCAR?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Ashoka",
+        "Mughal Empire vs Delhi Sultanate",
+        "Lord Canning",
+        "Indira Gandhi Centre for Atomic Research"
+      ],
+      "options": [
+        "Ashoka",
+        "Mughal Empire vs Delhi Sultanate",
+        "Lord Canning",
+        "Indira Gandhi Centre for Atomic Research"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is 'Indira Gandhi Centre for Atomic Research'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Indira Gandhi Centre for Atomic Research'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Indira Gandhi Centre for Atomic Research' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Indira Gandhi Centre for Atomic Research' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_history_1558",
+      "q": "Who is the first Viceroy of India?",
+      "questionText": "Who is the first Viceroy of India?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Lord Canning",
+        "Sangeet Natak Akademi Award",
+        "Mughal Empire vs Delhi Sultanate",
+        "Bhubaneswar, Odisha"
+      ],
+      "options": [
+        "Lord Canning",
+        "Sangeet Natak Akademi Award",
+        "Mughal Empire vs Delhi Sultanate",
+        "Bhubaneswar, Odisha"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'Lord Canning'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Lord Canning'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Lord Canning' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Lord Canning' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_history_1571",
+      "q": "Who was the Last British Viceroy of India?",
+      "questionText": "Who was the Last British Viceroy of India?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Snow White & 7 Dwarfs",
+        "By Iranians",
+        "Qadam Qadam Badhaye Ja",
+        "Lord Mountbatten"
+      ],
+      "options": [
+        "Snow White & 7 Dwarfs",
+        "By Iranians",
+        "Qadam Qadam Badhaye Ja",
+        "Lord Mountbatten"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is 'Lord Mountbatten'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Lord Mountbatten'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Lord Mountbatten' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Lord Mountbatten' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_history_1579",
+      "q": "Which is the first animated colour cartoon of full feature length?",
+      "questionText": "Which is the first animated colour cartoon of full feature length?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Snow White & 7 Dwarfs",
+        "AR. Rah man",
+        "Maurya Empire and Kalinga",
+        "Smt. Sushma Swaraj"
+      ],
+      "options": [
+        "Snow White & 7 Dwarfs",
+        "AR. Rah man",
+        "Maurya Empire and Kalinga",
+        "Smt. Sushma Swaraj"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'Snow White & 7 Dwarfs'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Snow White & 7 Dwarfs'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Snow White & 7 Dwarfs' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Snow White & 7 Dwarfs' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_history_1633",
+      "q": "What is the Theme of Sahitya Academy Awards 2017?",
+      "questionText": "What is the Theme of Sahitya Academy Awards 2017?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Festival of Letters",
+        "By Iranians",
+        "Zubin Mehta (23 Times, Won 5)",
+        "India vs Tibet"
+      ],
+      "options": [
+        "Festival of Letters",
+        "By Iranians",
+        "Zubin Mehta (23 Times, Won 5)",
+        "India vs Tibet"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'Festival of Letters'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Festival of Letters'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Festival of Letters' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Festival of Letters' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_history_1634",
+      "q": "Who is known as the “King of Spin”?",
+      "questionText": "Who is known as the “King of Spin”?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "By Iranians",
+        "Edward Jenner",
+        "Shane Warne",
+        "Qadam Qadam Badhaye Ja"
+      ],
+      "options": [
+        "By Iranians",
+        "Edward Jenner",
+        "Shane Warne",
+        "Qadam Qadam Badhaye Ja"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'Shane Warne'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Shane Warne'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Shane Warne' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Shane Warne' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_history_1635",
+      "q": "Where is the site of Harappa located?",
+      "questionText": "Where is the site of Harappa located?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "India vs Tibet",
+        "Indira Gandhi Centre for Atomic Research",
+        "On the bank of river Ravi",
+        "24 (Twenty-Four)"
+      ],
+      "options": [
+        "India vs Tibet",
+        "Indira Gandhi Centre for Atomic Research",
+        "On the bank of river Ravi",
+        "24 (Twenty-Four)"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'On the bank of river Ravi'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'On the bank of river Ravi'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'On the bank of river Ravi' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'On the bank of river Ravi' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_history_1640",
+      "q": "Which country institutes Magsaysay Award?",
+      "questionText": "Which country institutes Magsaysay Award?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "The Philippines",
+        "Law of Dharma",
+        "Indira Gandhi National Open",
+        "1942"
+      ],
+      "options": [
+        "The Philippines",
+        "Law of Dharma",
+        "Indira Gandhi National Open",
+        "1942"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'The Philippines'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'The Philippines'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'The Philippines' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'The Philippines' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_history_1735",
+      "q": "Who is the founder of Vaccinology?",
+      "questionText": "Who is the founder of Vaccinology?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Navy Blue",
+        "Edward Jenner",
+        "Mahapadmananda",
+        "24 (Twenty-Four)"
+      ],
+      "options": [
+        "Navy Blue",
+        "Edward Jenner",
+        "Mahapadmananda",
+        "24 (Twenty-Four)"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'Edward Jenner'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Edward Jenner'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Edward Jenner' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Edward Jenner' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_history_1774",
+      "q": "Which Battle was fought between the British East India Company and the",
+      "questionText": "Which Battle was fought between the British East India Company and the",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Qadam Qadam Badhaye Ja",
+        "Navy Blue",
+        "Maurya Empire and Kalinga",
+        "Battle of Buxar"
+      ],
+      "options": [
+        "Qadam Qadam Badhaye Ja",
+        "Navy Blue",
+        "Maurya Empire and Kalinga",
+        "Battle of Buxar"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is 'Battle of Buxar'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Battle of Buxar'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Battle of Buxar' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Battle of Buxar' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_history_1775",
+      "q": "Which war led to the signing of the Treaty of Mangalore between Tipu",
+      "questionText": "Which war led to the signing of the Treaty of Mangalore between Tipu",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Second Anglo-Mysore War",
+        "1857 AD",
+        "Mahapadmananda",
+        "Chandragupta"
+      ],
+      "options": [
+        "Second Anglo-Mysore War",
+        "1857 AD",
+        "Mahapadmananda",
+        "Chandragupta"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'Second Anglo-Mysore War'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Second Anglo-Mysore War'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Second Anglo-Mysore War' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Second Anglo-Mysore War' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian History.",
+      "hintHi": "Indian History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
     }
   ],
-  "questionCount": 10
+  "questionCount": 121
 }

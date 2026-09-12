@@ -403,7 +403,367 @@
         "Banking",
         "Railways"
       ]
+    },
+    {
+      "id": "gk_ext_international_organizations_1838",
+      "q": "How many UNESCO World Heritage Sites are in India?",
+      "questionText": "How many UNESCO World Heritage Sites are in India?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "38 (Thirty-Eight)",
+        "Akbar",
+        "Sharjah",
+        "7 (Seven)"
+      ],
+      "options": [
+        "38 (Thirty-Eight)",
+        "Akbar",
+        "Sharjah",
+        "7 (Seven)"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is '38 (Thirty-Eight)'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is '38 (Thirty-Eight)'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '38 (Thirty-Eight)' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '38 (Thirty-Eight)' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from International Organizations.",
+      "hintHi": "International Organizations से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_international_organizations_1839",
+      "q": "What is the Full Form of UNESCO?",
+      "questionText": "What is the Full Form of UNESCO?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "United Nations Educational, Scientific and Cultural Organisation",
+        "Sharjah",
+        "Assam",
+        "Akbar"
+      ],
+      "options": [
+        "United Nations Educational, Scientific and Cultural Organisation",
+        "Sharjah",
+        "Assam",
+        "Akbar"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'United Nations Educational, Scientific and Cultural Organisation'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'United Nations Educational, Scientific and Cultural Organisation'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'United Nations Educational, Scientific and Cultural Organisation' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'United Nations Educational, Scientific and Cultural Organisation' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from International Organizations.",
+      "hintHi": "International Organizations से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_international_organizations_1841",
+      "q": "Which is the only Northeast State that has 2 UNESCO World Heritage Sites?",
+      "questionText": "Which is the only Northeast State that has 2 UNESCO World Heritage Sites?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Assam",
+        "Paris",
+        "7 (Seven)",
+        "Akbar"
+      ],
+      "options": [
+        "Assam",
+        "Paris",
+        "7 (Seven)",
+        "Akbar"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'Assam'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Assam'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Assam' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Assam' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from International Organizations.",
+      "hintHi": "International Organizations से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_international_organizations_1842",
+      "q": "How many Natural UNESCO World Heritage Sites are in India?",
+      "questionText": "How many Natural UNESCO World Heritage Sites are in India?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "11",
+        "Akbar",
+        "7 (Seven)",
+        "38 (Thirty-Eight)"
+      ],
+      "options": [
+        "11",
+        "Akbar",
+        "7 (Seven)",
+        "38 (Thirty-Eight)"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is '7 (Seven)'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is '7 (Seven)'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '7 (Seven)' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '7 (Seven)' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from International Organizations.",
+      "hintHi": "International Organizations से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_international_organizations_1844",
+      "q": "How many UNESCO World Network of Biosphere Reserves does India have?",
+      "questionText": "How many UNESCO World Network of Biosphere Reserves does India have?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "38 (Thirty-Eight)",
+        "Paris",
+        "11",
+        "7 (Seven)"
+      ],
+      "options": [
+        "38 (Thirty-Eight)",
+        "Paris",
+        "11",
+        "7 (Seven)"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is '11'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is '11'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '11' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '11' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from International Organizations.",
+      "hintHi": "International Organizations से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_international_organizations_1845",
+      "q": "Who built the UNESCO World Heritage Site “Agra Fort”?",
+      "questionText": "Who built the UNESCO World Heritage Site “Agra Fort”?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Akbar",
+        "38 (Thirty-Eight)",
+        "Sharjah",
+        "Paris"
+      ],
+      "options": [
+        "Akbar",
+        "38 (Thirty-Eight)",
+        "Sharjah",
+        "Paris"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'Akbar'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Akbar'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Akbar' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Akbar' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from International Organizations.",
+      "hintHi": "International Organizations से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_international_organizations_1872",
+      "q": "Which City is named by UNESCO as the World Book capital?",
+      "questionText": "Which City is named by UNESCO as the World Book capital?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "11",
+        "Sharjah",
+        "7 (Seven)",
+        "Assam"
+      ],
+      "options": [
+        "11",
+        "Sharjah",
+        "7 (Seven)",
+        "Assam"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'Sharjah'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Sharjah'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Sharjah' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Sharjah' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from International Organizations.",
+      "hintHi": "International Organizations से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_international_organizations_1890",
+      "q": "Where is the headquarters of UNESCO located?",
+      "questionText": "Where is the headquarters of UNESCO located?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Paris",
+        "Sharjah",
+        "11",
+        "Akbar"
+      ],
+      "options": [
+        "Paris",
+        "Sharjah",
+        "11",
+        "Akbar"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'Paris'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Paris'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Paris' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Paris' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from International Organizations.",
+      "hintHi": "International Organizations से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_international_organizations_1935",
+      "q": "Which is the only Northeast State that has 2 UNESCO World Heritage",
+      "questionText": "Which is the only Northeast State that has 2 UNESCO World Heritage",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "11",
+        "Paris",
+        "Sharjah",
+        "Assam"
+      ],
+      "options": [
+        "11",
+        "Paris",
+        "Sharjah",
+        "Assam"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is 'Assam'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Assam'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Assam' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Assam' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from International Organizations.",
+      "hintHi": "International Organizations से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_international_organizations_1936",
+      "q": "How many UNESCO World Network of Biosphere Reserves does India",
+      "questionText": "How many UNESCO World Network of Biosphere Reserves does India",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Paris",
+        "11",
+        "Akbar",
+        "7 (Seven)"
+      ],
+      "options": [
+        "Paris",
+        "11",
+        "Akbar",
+        "7 (Seven)"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is '11'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is '11'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '11' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '11' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from International Organizations.",
+      "hintHi": "International Organizations से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
     }
   ],
-  "questionCount": 2
+  "questionCount": 18
 }

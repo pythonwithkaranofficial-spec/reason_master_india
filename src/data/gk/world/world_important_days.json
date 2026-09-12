@@ -262,7 +262,115 @@
         "Banking",
         "Railways"
       ]
+    },
+    {
+      "id": "gk_ext_world_important_days_1874",
+      "q": "When is World environment Day Celebrated?",
+      "questionText": "When is World environment Day Celebrated?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Mahatma Gandhi",
+        "BARC",
+        "15th September",
+        "5th June"
+      ],
+      "options": [
+        "Mahatma Gandhi",
+        "BARC",
+        "15th September",
+        "5th June"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is '5th June'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is '5th June'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '5th June' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '5th June' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from World Important Days.",
+      "hintHi": "World Important Days से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_world_important_days_1892",
+      "q": "When is the International Day of Democracy Observed?",
+      "questionText": "When is the International Day of Democracy Observed?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "DRDO",
+        "15th September",
+        "Jawaharlal Nehru",
+        "Yamuna"
+      ],
+      "options": [
+        "DRDO",
+        "15th September",
+        "Jawaharlal Nehru",
+        "Yamuna"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is '15th September'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is '15th September'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '15th September' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '15th September' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from World Important Days.",
+      "hintHi": "World Important Days से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_world_important_days_1912",
+      "q": "When is World Day for Audio-Visual Heritage Celebrated?",
+      "questionText": "When is World Day for Audio-Visual Heritage Celebrated?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "27th October",
+        "Ganga",
+        "Hockey",
+        "Godavari"
+      ],
+      "options": [
+        "27th October",
+        "Ganga",
+        "Hockey",
+        "Godavari"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is '27th October'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is '27th October'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '27th October' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '27th October' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from World Important Days.",
+      "hintHi": "World Important Days से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
     }
   ],
-  "questionCount": 2
+  "questionCount": 8
 }

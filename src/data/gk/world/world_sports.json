@@ -309,7 +309,403 @@
         "Banking",
         "Railways"
       ]
+    },
+    {
+      "id": "gk_ext_world_sports_1797",
+      "q": "Who is the first Indian woman to win an Olympic medal?",
+      "questionText": "Who is the first Indian woman to win an Olympic medal?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Karnam Malleswari",
+        "“Faster, Higher & Stronger”",
+        "Wimbledon Championship",
+        "Abhinav Bindra"
+      ],
+      "options": [
+        "Karnam Malleswari",
+        "“Faster, Higher & Stronger”",
+        "Wimbledon Championship",
+        "Abhinav Bindra"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'Karnam Malleswari'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Karnam Malleswari'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Karnam Malleswari' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Karnam Malleswari' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from World Sports.",
+      "hintHi": "World Sports से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_world_sports_1799",
+      "q": "Who is the first Indian woman to win an Olympic silver medal?",
+      "questionText": "Who is the first Indian woman to win an Olympic silver medal?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Karnam Malleswari",
+        "Greece",
+        "P.V. Sindhu",
+        "Uruguay (In the Year 1930)"
+      ],
+      "options": [
+        "Karnam Malleswari",
+        "Greece",
+        "P.V. Sindhu",
+        "Uruguay (In the Year 1930)"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'P.V. Sindhu'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'P.V. Sindhu'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'P.V. Sindhu' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'P.V. Sindhu' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from World Sports.",
+      "hintHi": "World Sports से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_world_sports_1800",
+      "q": "Who is the first Indian to win an individual gold medal at the Olympic Games?",
+      "questionText": "Who is the first Indian to win an individual gold medal at the Olympic Games?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Abhinav Bindra",
+        "Karnam Malleswari",
+        "Wimbledon",
+        "Wimbledon Championship"
+      ],
+      "options": [
+        "Abhinav Bindra",
+        "Karnam Malleswari",
+        "Wimbledon",
+        "Wimbledon Championship"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'Abhinav Bindra'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Abhinav Bindra'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Abhinav Bindra' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Abhinav Bindra' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from World Sports.",
+      "hintHi": "World Sports से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_world_sports_1803",
+      "q": "Which country won the ICC T20 World Cup 2024?",
+      "questionText": "Which country won the ICC T20 World Cup 2024?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "India",
+        "Abhinav Bindra",
+        "“Faster, Higher & Stronger”",
+        "Wimbledon Championship"
+      ],
+      "options": [
+        "India",
+        "Abhinav Bindra",
+        "“Faster, Higher & Stronger”",
+        "Wimbledon Championship"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'India'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'India'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'India' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'India' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from World Sports.",
+      "hintHi": "World Sports से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_world_sports_1830",
+      "q": "Where did Indian Hockey team won its First Gold Medal in Olympic Games?",
+      "questionText": "Where did Indian Hockey team won its First Gold Medal in Olympic Games?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "“Faster, Higher & Stronger”",
+        "India",
+        "Amsterdam [In The Year 1928]",
+        "Wimbledon"
+      ],
+      "options": [
+        "“Faster, Higher & Stronger”",
+        "India",
+        "Amsterdam [In The Year 1928]",
+        "Wimbledon"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'Amsterdam [In The Year 1928]'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Amsterdam [In The Year 1928]'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Amsterdam [In The Year 1928]' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Amsterdam [In The Year 1928]' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from World Sports.",
+      "hintHi": "World Sports से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_world_sports_1883",
+      "q": "Which was the first Country to host the Modern Olympic Games?",
+      "questionText": "Which was the first Country to host the Modern Olympic Games?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Greece",
+        "“Faster, Higher & Stronger”",
+        "India",
+        "Amsterdam [In The Year 1928]"
+      ],
+      "options": [
+        "Greece",
+        "“Faster, Higher & Stronger”",
+        "India",
+        "Amsterdam [In The Year 1928]"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'Greece'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Greece'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Greece' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Greece' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from World Sports.",
+      "hintHi": "World Sports से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_world_sports_1885",
+      "q": "What is the motto of Olympic Games?",
+      "questionText": "What is the motto of Olympic Games?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Greece",
+        "India",
+        "Uruguay (In the Year 1930)",
+        "“Faster, Higher & Stronger”"
+      ],
+      "options": [
+        "Greece",
+        "India",
+        "Uruguay (In the Year 1930)",
+        "“Faster, Higher & Stronger”"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is '“Faster, Higher & Stronger”'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is '“Faster, Higher & Stronger”'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '“Faster, Higher & Stronger”' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '“Faster, Higher & Stronger”' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from World Sports.",
+      "hintHi": "World Sports से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_world_sports_1887",
+      "q": "Which country will host the 2018 International Theatre Olympics?",
+      "questionText": "Which country will host the 2018 International Theatre Olympics?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "India",
+        "Karnam Malleswari",
+        "P.V. Sindhu",
+        "Wimbledon Championship"
+      ],
+      "options": [
+        "India",
+        "Karnam Malleswari",
+        "P.V. Sindhu",
+        "Wimbledon Championship"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'India'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'India'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'India' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'India' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from World Sports.",
+      "hintHi": "World Sports से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_world_sports_1888",
+      "q": "Which International Tennis Event is held on the Grass Court?",
+      "questionText": "Which International Tennis Event is held on the Grass Court?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "P.V. Sindhu",
+        "Greece",
+        "Amsterdam [In The Year 1928]",
+        "Wimbledon"
+      ],
+      "options": [
+        "P.V. Sindhu",
+        "Greece",
+        "Amsterdam [In The Year 1928]",
+        "Wimbledon"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is 'Wimbledon'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Wimbledon'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Wimbledon' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Wimbledon' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from World Sports.",
+      "hintHi": "World Sports से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_world_sports_1911",
+      "q": "Which is the first Country to win the Football World Cup?",
+      "questionText": "Which is the first Country to win the Football World Cup?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Greece",
+        "P.V. Sindhu",
+        "Wimbledon Championship",
+        "Uruguay (In the Year 1930)"
+      ],
+      "options": [
+        "Greece",
+        "P.V. Sindhu",
+        "Wimbledon Championship",
+        "Uruguay (In the Year 1930)"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is 'Uruguay (In the Year 1930)'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Uruguay (In the Year 1930)'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Uruguay (In the Year 1930)' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Uruguay (In the Year 1930)' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from World Sports.",
+      "hintHi": "World Sports से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_world_sports_1920",
+      "q": "Which is the Oldest Tennis Tournament in the World?",
+      "questionText": "Which is the Oldest Tennis Tournament in the World?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Amsterdam [In The Year 1928]",
+        "Wimbledon",
+        "Wimbledon Championship",
+        "Uruguay (In the Year 1930)"
+      ],
+      "options": [
+        "Amsterdam [In The Year 1928]",
+        "Wimbledon",
+        "Wimbledon Championship",
+        "Uruguay (In the Year 1930)"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'Wimbledon Championship'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Wimbledon Championship'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Wimbledon Championship' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Wimbledon Championship' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from World Sports.",
+      "hintHi": "World Sports से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
     }
   ],
-  "questionCount": 2
+  "questionCount": 17
 }

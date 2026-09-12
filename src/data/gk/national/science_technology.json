@@ -978,7 +978,3829 @@
         "NDA",
         "RRB"
       ]
+    },
+    {
+      "id": "gk_ext_science_technology_233",
+      "q": "Which is the largest planetarium in India?",
+      "questionText": "Which is the largest planetarium in India?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Birla Planetarium, Kolkata",
+        "Alexander Fleming",
+        "Charles Richter",
+        "Verified Answer"
+      ],
+      "options": [
+        "Birla Planetarium, Kolkata",
+        "Alexander Fleming",
+        "Charles Richter",
+        "Verified Answer"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'Birla Planetarium, Kolkata'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Birla Planetarium, Kolkata'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Birla Planetarium, Kolkata' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Birla Planetarium, Kolkata' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_377",
+      "q": "Who invented the telephone?",
+      "questionText": "Who invented the telephone?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Dinesh K Sarraf",
+        "Alexander Graham Bell",
+        "James Chadwick",
+        "Study of Aquatic Organisms"
+      ],
+      "options": [
+        "Dinesh K Sarraf",
+        "Alexander Graham Bell",
+        "James Chadwick",
+        "Study of Aquatic Organisms"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'Alexander Graham Bell'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Alexander Graham Bell'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Alexander Graham Bell' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Alexander Graham Bell' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_378",
+      "q": "What gas do plants absorb from the atmosphere?",
+      "questionText": "What gas do plants absorb from the atmosphere?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Bangalore",
+        "Anders Celsius",
+        "Garud Commando Force",
+        "Carbon dioxide"
+      ],
+      "options": [
+        "Bangalore",
+        "Anders Celsius",
+        "Garud Commando Force",
+        "Carbon dioxide"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is 'Carbon dioxide'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Carbon dioxide'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Carbon dioxide' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Carbon dioxide' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_381",
+      "q": "Which vitamin is obtained from sunlight?",
+      "questionText": "Which vitamin is obtained from sunlight?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Dinesh K Sarraf",
+        "Diu",
+        "Vitamin D",
+        "World Meteorological Organisation"
+      ],
+      "options": [
+        "Dinesh K Sarraf",
+        "Diu",
+        "Vitamin D",
+        "World Meteorological Organisation"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'Vitamin D'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Vitamin D'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Vitamin D' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Vitamin D' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_383",
+      "q": "Which is the heaviest naturally occurring element?",
+      "questionText": "Which is the heaviest naturally occurring element?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Dr. K. Sivan",
+        "Uranium",
+        "Satellite Tracking And Ranging Station",
+        "Arthur Wynne"
+      ],
+      "options": [
+        "Dr. K. Sivan",
+        "Uranium",
+        "Satellite Tracking And Ranging Station",
+        "Arthur Wynne"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'Uranium'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Uranium'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Uranium' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Uranium' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_384",
+      "q": "Which organ purifies blood in the human body?",
+      "questionText": "Which organ purifies blood in the human body?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Calciferol",
+        "Indian Remote-sensing Satellite (or) Indian Revenue",
+        "Kidney",
+        "Birla Planetarium, Kolkata"
+      ],
+      "options": [
+        "Calciferol",
+        "Indian Remote-sensing Satellite (or) Indian Revenue",
+        "Kidney",
+        "Birla Planetarium, Kolkata"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'Kidney'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Kidney'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Kidney' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Kidney' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_406",
+      "q": "संविधान का कौन सा भाग राज्य के नीति निदेशक तत्वों से संबंधित है?",
+      "questionText": "संविधान का कौन सा भाग राज्य के नीति निदेशक तत्वों से संबंधित है?",
+      "qHi": "संविधान का कौन सा भाग राज्य के नीति निदेशक तत्वों से संबंधित है?",
+      "questionTextHi": "संविधान का कौन सा भाग राज्य के नीति निदेशक तत्वों से संबंधित है?",
+      "o": [
+        "भाग II",
+        "भाग III",
+        "भाग IV",
+        "भाग V"
+      ],
+      "options": [
+        "भाग II",
+        "भाग III",
+        "भाग IV",
+        "भाग V"
+      ],
+      "oHi": [
+        "भाग II",
+        "भाग III",
+        "भाग IV",
+        "भाग V"
+      ],
+      "optionsHi": [
+        "भाग II",
+        "भाग III",
+        "भाग IV",
+        "भाग V"
+      ],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'भाग IV'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'भाग IV'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'भाग IV' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'भाग IV' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_446",
+      "q": "ISRO का मुख्यालय कहाँ है?",
+      "questionText": "ISRO का मुख्यालय कहाँ है?",
+      "qHi": "ISRO का मुख्यालय कहाँ है?",
+      "questionTextHi": "ISRO का मुख्यालय कहाँ है?",
+      "o": [
+        "मुंबई",
+        "बेंगलुरु",
+        "दिल्ली",
+        "चेन्नई"
+      ],
+      "options": [
+        "मुंबई",
+        "बेंगलुरु",
+        "दिल्ली",
+        "चेन्नई"
+      ],
+      "oHi": [
+        "मुंबई",
+        "बेंगलुरु",
+        "दिल्ली",
+        "चेन्नई"
+      ],
+      "optionsHi": [
+        "मुंबई",
+        "बेंगलुरु",
+        "दिल्ली",
+        "चेन्नई"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'बेंगलुरु'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'बेंगलुरु'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'बेंगलुरु' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'बेंगलुरु' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_449",
+      "q": "विटामिन C की कमी से कौन सा रोग होता है?",
+      "questionText": "विटामिन C की कमी से कौन सा रोग होता है?",
+      "qHi": "विटामिन C की कमी से कौन सा रोग होता है?",
+      "questionTextHi": "विटामिन C की कमी से कौन सा रोग होता है?",
+      "o": [
+        "रतौंधी",
+        "स्कर्वी",
+        "पोलियो",
+        "मलेरिया"
+      ],
+      "options": [
+        "रतौंधी",
+        "स्कर्वी",
+        "पोलियो",
+        "मलेरिया"
+      ],
+      "oHi": [
+        "रतौंधी",
+        "स्कर्वी",
+        "पोलियो",
+        "मलेरिया"
+      ],
+      "optionsHi": [
+        "रतौंधी",
+        "स्कर्वी",
+        "पोलियो",
+        "मलेरिया"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'स्कर्वी'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'स्कर्वी'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'स्कर्वी' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'स्कर्वी' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_455",
+      "q": "ओजोन परत किस गैस से बनी है?",
+      "questionText": "ओजोन परत किस गैस से बनी है?",
+      "qHi": "ओजोन परत किस गैस से बनी है?",
+      "questionTextHi": "ओजोन परत किस गैस से बनी है?",
+      "o": [
+        "O₂",
+        "CO₂",
+        "O₃",
+        "N₂"
+      ],
+      "options": [
+        "O₂",
+        "CO₂",
+        "O₃",
+        "N₂"
+      ],
+      "oHi": [
+        "O₂",
+        "CO₂",
+        "O₃",
+        "N₂"
+      ],
+      "optionsHi": [
+        "O₂",
+        "CO₂",
+        "O₃",
+        "N₂"
+      ],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'O₃'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'O₃'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'O₃' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'O₃' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_457",
+      "q": "भारत का पहला उपग्रह कौन सा था?",
+      "questionText": "भारत का पहला उपग्रह कौन सा था?",
+      "qHi": "भारत का पहला उपग्रह कौन सा था?",
+      "questionTextHi": "भारत का पहला उपग्रह कौन सा था?",
+      "o": [
+        "भास्कर",
+        "रोहिणी",
+        "आर्यभट्ट",
+        "INSAT"
+      ],
+      "options": [
+        "भास्कर",
+        "रोहिणी",
+        "आर्यभट्ट",
+        "INSAT"
+      ],
+      "oHi": [
+        "भास्कर",
+        "रोहिणी",
+        "आर्यभट्ट",
+        "INSAT"
+      ],
+      "optionsHi": [
+        "भास्कर",
+        "रोहिणी",
+        "आर्यभट्ट",
+        "INSAT"
+      ],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'आर्यभट्ट'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'आर्यभट्ट'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'आर्यभट्ट' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'आर्यभट्ट' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_505",
+      "q": "Chemical formula of Water?",
+      "questionText": "Chemical formula of Water?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Retinol",
+        "Landsteiner",
+        "In the Year 1844",
+        "H₂O"
+      ],
+      "options": [
+        "Retinol",
+        "Landsteiner",
+        "In the Year 1844",
+        "H₂O"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is 'H₂O'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'H₂O'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'H₂O' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'H₂O' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_507",
+      "q": "Largest organ in human body?",
+      "questionText": "Largest organ in human body?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Study of Aquatic Organisms",
+        "Alexander Graham Bell",
+        "Bangalore",
+        "Skin"
+      ],
+      "options": [
+        "Study of Aquatic Organisms",
+        "Alexander Graham Bell",
+        "Bangalore",
+        "Skin"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is 'Skin'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Skin'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Skin' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Skin' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_508",
+      "q": "Gas used in electric bulb?",
+      "questionText": "Gas used in electric bulb?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Calciferol",
+        "Jagadish Chandra Bose",
+        "Argon",
+        "Conrad Gessner"
+      ],
+      "options": [
+        "Calciferol",
+        "Jagadish Chandra Bose",
+        "Argon",
+        "Conrad Gessner"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'Argon'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Argon'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Argon' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Argon' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_512",
+      "q": "Chandrayaan-3 mission belongs to which organization?",
+      "questionText": "Chandrayaan-3 mission belongs to which organization?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Polar Satellite Launch Vehicle",
+        "Study of Relationship of Organisms with Environment",
+        "ISRO",
+        "Edmund Cartwright"
+      ],
+      "options": [
+        "Polar Satellite Launch Vehicle",
+        "Study of Relationship of Organisms with Environment",
+        "ISRO",
+        "Edmund Cartwright"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'ISRO'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'ISRO'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'ISRO' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'ISRO' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_517",
+      "q": "Who invented Richter scale?",
+      "questionText": "Who invented Richter scale?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "ISRO",
+        "Polar Satellite Launch Vehicle",
+        "Charles Richter",
+        "24th April"
+      ],
+      "options": [
+        "ISRO",
+        "Polar Satellite Launch Vehicle",
+        "Charles Richter",
+        "24th April"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'Charles Richter'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Charles Richter'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Charles Richter' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Charles Richter' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_545",
+      "q": "What is the Chemical name of Vitamin D?",
+      "questionText": "What is the Chemical name of Vitamin D?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Diu",
+        "Dinesh K Sarraf",
+        "Landsteiner",
+        "Calciferol"
+      ],
+      "options": [
+        "Diu",
+        "Dinesh K Sarraf",
+        "Landsteiner",
+        "Calciferol"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is 'Calciferol'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Calciferol'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Calciferol' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Calciferol' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_550",
+      "q": "Who was the first Chairman of Indian Atomic Energy",
+      "questionText": "Who was the first Chairman of Indian Atomic Energy",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Vitamin K",
+        "UNESCO",
+        "Verified Answer",
+        "Kacheguda Railway Station"
+      ],
+      "options": [
+        "Vitamin K",
+        "UNESCO",
+        "Verified Answer",
+        "Kacheguda Railway Station"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'Verified Answer'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Verified Answer'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Verified Answer' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Verified Answer' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_576",
+      "q": "Where is the Centre for Wind Energy Technology Located?",
+      "questionText": "Where is the Centre for Wind Energy Technology Located?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Retinol",
+        "Chennai",
+        "Sir David Brewster",
+        "Birla Planetarium, Kolkata"
+      ],
+      "options": [
+        "Retinol",
+        "Chennai",
+        "Sir David Brewster",
+        "Birla Planetarium, Kolkata"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'Chennai'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Chennai'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Chennai' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Chennai' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_579",
+      "q": "What is the Chemical name of Vitamin C?",
+      "questionText": "What is the Chemical name of Vitamin C?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Verified Answer",
+        "Ascorbic acid",
+        "Study of Aquatic Organisms",
+        "Carbon dioxide"
+      ],
+      "options": [
+        "Verified Answer",
+        "Ascorbic acid",
+        "Study of Aquatic Organisms",
+        "Carbon dioxide"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'Ascorbic acid'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Ascorbic acid'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Ascorbic acid' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Ascorbic acid' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_581",
+      "q": "Who invented Cross word puzzle?",
+      "questionText": "Who invented Cross word puzzle?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "John Napier",
+        "Conrad Gessner",
+        "Arthur Wynne",
+        "Ascorbic acid"
+      ],
+      "options": [
+        "John Napier",
+        "Conrad Gessner",
+        "Arthur Wynne",
+        "Ascorbic acid"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'Arthur Wynne'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Arthur Wynne'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Arthur Wynne' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Arthur Wynne' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_588",
+      "q": "Who is the new Chairman of Petroleum and Natural Gas Regulatory Board (PNGRB)?",
+      "questionText": "Who is the new Chairman of Petroleum and Natural Gas Regulatory Board (PNGRB)?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Dinesh K Sarraf",
+        "Benjamin Franklin",
+        "Charles Richter",
+        "In the Year 1928"
+      ],
+      "options": [
+        "Dinesh K Sarraf",
+        "Benjamin Franklin",
+        "Charles Richter",
+        "In the Year 1928"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'Dinesh K Sarraf'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Dinesh K Sarraf'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Dinesh K Sarraf' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Dinesh K Sarraf' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_616",
+      "q": "Who discovered penicillin?",
+      "questionText": "Who discovered penicillin?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Christopher Latham Sholes",
+        "Section",
+        "World Meteorological Organisation",
+        "Alexander Fleming"
+      ],
+      "options": [
+        "Christopher Latham Sholes",
+        "Section",
+        "World Meteorological Organisation",
+        "Alexander Fleming"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is 'Alexander Fleming'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Alexander Fleming'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Alexander Fleming' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Alexander Fleming' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_618",
+      "q": "Who is the present Chairman of ISRO?",
+      "questionText": "Who is the present Chairman of ISRO?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Retinol",
+        "Arthur Wynne",
+        "Dr. K. Sivan",
+        "24th April"
+      ],
+      "options": [
+        "Retinol",
+        "Arthur Wynne",
+        "Dr. K. Sivan",
+        "24th April"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'Dr. K. Sivan'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Dr. K. Sivan'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Dr. K. Sivan' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Dr. K. Sivan' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_619",
+      "q": "Who invented Centigrade Scale?",
+      "questionText": "Who invented Centigrade Scale?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Anders Celsius",
+        "Indian Remote-sensing Satellite (or) Indian Revenue",
+        "Anti Diuretic Hormone",
+        "Christopher Latham Sholes"
+      ],
+      "options": [
+        "Anders Celsius",
+        "Indian Remote-sensing Satellite (or) Indian Revenue",
+        "Anti Diuretic Hormone",
+        "Christopher Latham Sholes"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'Anders Celsius'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Anders Celsius'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Anders Celsius' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Anders Celsius' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_622",
+      "q": "What is the Expansion of ADH?",
+      "questionText": "What is the Expansion of ADH?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "United Nations Industrial Development Organisation",
+        "Anti Diuretic Hormone",
+        "Alexander Graham Bell",
+        "Kacheguda Railway Station"
+      ],
+      "options": [
+        "United Nations Industrial Development Organisation",
+        "Anti Diuretic Hormone",
+        "Alexander Graham Bell",
+        "Kacheguda Railway Station"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'Anti Diuretic Hormone'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Anti Diuretic Hormone'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Anti Diuretic Hormone' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Anti Diuretic Hormone' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_626",
+      "q": "Who invented Lightning Conductor?",
+      "questionText": "Who invented Lightning Conductor?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Benjamin Franklin",
+        "Diu",
+        "Uranium",
+        "Ghaziabad"
+      ],
+      "options": [
+        "Benjamin Franklin",
+        "Diu",
+        "Uranium",
+        "Ghaziabad"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'Benjamin Franklin'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Benjamin Franklin'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Benjamin Franklin' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Benjamin Franklin' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_627",
+      "q": "Which is the most abundant metal in the Earth’s Crust?",
+      "questionText": "Which is the most abundant metal in the Earth’s Crust?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "In the Year 1928",
+        "Aluminium",
+        "Skin",
+        "In the year 1770"
+      ],
+      "options": [
+        "In the Year 1928",
+        "Aluminium",
+        "Skin",
+        "In the year 1770"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'Aluminium'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Aluminium'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Aluminium' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Aluminium' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_630",
+      "q": "Who invented Raincoat?",
+      "questionText": "Who invented Raincoat?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Sir David Brewster",
+        "Chennai",
+        "Charles Macintosh",
+        "Kacheguda Railway Station"
+      ],
+      "options": [
+        "Sir David Brewster",
+        "Chennai",
+        "Charles Macintosh",
+        "Kacheguda Railway Station"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'Charles Macintosh'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Charles Macintosh'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Charles Macintosh' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Charles Macintosh' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_636",
+      "q": "Who invented Typewriter?",
+      "questionText": "Who invented Typewriter?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Calciferol",
+        "Dinesh K Sarraf",
+        "Christopher Latham Sholes",
+        "Aluminium"
+      ],
+      "options": [
+        "Calciferol",
+        "Dinesh K Sarraf",
+        "Christopher Latham Sholes",
+        "Aluminium"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'Christopher Latham Sholes'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Christopher Latham Sholes'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Christopher Latham Sholes' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Christopher Latham Sholes' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_645",
+      "q": "Which is the First Union Territory of India to be fully run on Solar Energy?",
+      "questionText": "Which is the First Union Territory of India to be fully run on Solar Energy?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Ascorbic acid",
+        "13 January 2015 (Rewari – Rohtak)",
+        "Diu",
+        "Ghaziabad"
+      ],
+      "options": [
+        "Ascorbic acid",
+        "13 January 2015 (Rewari – Rohtak)",
+        "Diu",
+        "Ghaziabad"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'Diu'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Diu'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Diu' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Diu' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_647",
+      "q": "Who invented the Pencil?",
+      "questionText": "Who invented the Pencil?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Lithium",
+        "Conrad Gessner",
+        "Indian Remote-sensing Satellite (or) Indian Revenue",
+        "Vitamin K"
+      ],
+      "options": [
+        "Lithium",
+        "Conrad Gessner",
+        "Indian Remote-sensing Satellite (or) Indian Revenue",
+        "Vitamin K"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'Conrad Gessner'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Conrad Gessner'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Conrad Gessner' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Conrad Gessner' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_815",
+      "q": "What is the Smallest Unit of the Indian Army called?",
+      "questionText": "What is the Smallest Unit of the Indian Army called?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Section",
+        "Arthur Wynne",
+        "Walter Hunt",
+        "World Meteorological Organisation"
+      ],
+      "options": [
+        "Section",
+        "Arthur Wynne",
+        "Walter Hunt",
+        "World Meteorological Organisation"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'Section'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Section'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Section' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Section' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_820",
+      "q": "What is the Name of the Special Force Unit of the Indian Air Force?",
+      "questionText": "What is the Name of the Special Force Unit of the Indian Air Force?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Garud Commando Force",
+        "Study of Aquatic Organisms",
+        "Jagadish Chandra Bose",
+        "Study of Life under cold conditions"
+      ],
+      "options": [
+        "Garud Commando Force",
+        "Study of Aquatic Organisms",
+        "Jagadish Chandra Bose",
+        "Study of Life under cold conditions"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'Garud Commando Force'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Garud Commando Force'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Garud Commando Force' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Garud Commando Force' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_853",
+      "q": "Where is the Rail Wheel Factory (RWF) Manufacturing unit of Indian Railways?",
+      "questionText": "Where is the Rail Wheel Factory (RWF) Manufacturing unit of Indian Railways?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "13 January 2015 (Rewari – Rohtak)",
+        "Bangalore",
+        "Retinol",
+        "Lithium"
+      ],
+      "options": [
+        "13 January 2015 (Rewari – Rohtak)",
+        "Bangalore",
+        "Retinol",
+        "Lithium"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'Bangalore'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Bangalore'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Bangalore' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Bangalore' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_861",
+      "q": "When was the first Indian Compressed Natural Gas (CNG)-Powered train Inaugurated?",
+      "questionText": "When was the first Indian Compressed Natural Gas (CNG)-Powered train Inaugurated?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Diu",
+        "13 January 2015 (Rewari – Rohtak)",
+        "Study of Life under cold conditions",
+        "In the Year 1928"
+      ],
+      "options": [
+        "Diu",
+        "13 January 2015 (Rewari – Rohtak)",
+        "Study of Life under cold conditions",
+        "In the Year 1928"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is '13 January 2015 (Rewari – Rohtak)'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is '13 January 2015 (Rewari – Rohtak)'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '13 January 2015 (Rewari – Rohtak)' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '13 January 2015 (Rewari – Rohtak)' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_983",
+      "q": "संविधान का कौन सा भाग राज्य के नीति निदेशक तत्वों से संबंधित है?",
+      "questionText": "संविधान का कौन सा भाग राज्य के नीति निदेशक तत्वों से संबंधित है?",
+      "qHi": "संविधान का कौन सा भाग राज्य के नीति निदेशक तत्वों से संबंधित है?",
+      "questionTextHi": "संविधान का कौन सा भाग राज्य के नीति निदेशक तत्वों से संबंधित है?",
+      "o": [
+        "भाग II",
+        "भाग III",
+        "भाग IV",
+        "भाग V"
+      ],
+      "options": [
+        "भाग II",
+        "भाग III",
+        "भाग IV",
+        "भाग V"
+      ],
+      "oHi": [
+        "भाग II",
+        "भाग III",
+        "भाग IV",
+        "भाग V"
+      ],
+      "optionsHi": [
+        "भाग II",
+        "भाग III",
+        "भाग IV",
+        "भाग V"
+      ],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'भाग IV'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'भाग IV'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'भाग IV' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'भाग IV' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_988",
+      "q": "सूर्य एक क्या है?",
+      "questionText": "सूर्य एक क्या है?",
+      "qHi": "सूर्य एक क्या है?",
+      "questionTextHi": "सूर्य एक क्या है?",
+      "o": [
+        "ग्रह",
+        "उपग्रह",
+        "तारा",
+        "धूमकेतु"
+      ],
+      "options": [
+        "ग्रह",
+        "उपग्रह",
+        "तारा",
+        "धूमकेतु"
+      ],
+      "oHi": [
+        "ग्रह",
+        "उपग्रह",
+        "तारा",
+        "धूमकेतु"
+      ],
+      "optionsHi": [
+        "ग्रह",
+        "उपग्रह",
+        "तारा",
+        "धूमकेतु"
+      ],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'तारा'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'तारा'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'तारा' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'तारा' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_990",
+      "q": "ISRO का मुख्यालय कहाँ है?",
+      "questionText": "ISRO का मुख्यालय कहाँ है?",
+      "qHi": "ISRO का मुख्यालय कहाँ है?",
+      "questionTextHi": "ISRO का मुख्यालय कहाँ है?",
+      "o": [
+        "मुंबई",
+        "बेंगलुरु",
+        "दिल्ली",
+        "चेन्नई"
+      ],
+      "options": [
+        "मुंबई",
+        "बेंगलुरु",
+        "दिल्ली",
+        "चेन्नई"
+      ],
+      "oHi": [
+        "मुंबई",
+        "बेंगलुरु",
+        "दिल्ली",
+        "चेन्नई"
+      ],
+      "optionsHi": [
+        "मुंबई",
+        "बेंगलुरु",
+        "दिल्ली",
+        "चेन्नई"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'बेंगलुरु'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'बेंगलुरु'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'बेंगलुरु' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'बेंगलुरु' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_993",
+      "q": "विटामिन C की कमी से कौन सा रोग होता है?",
+      "questionText": "विटामिन C की कमी से कौन सा रोग होता है?",
+      "qHi": "विटामिन C की कमी से कौन सा रोग होता है?",
+      "questionTextHi": "विटामिन C की कमी से कौन सा रोग होता है?",
+      "o": [
+        "रतौंधी",
+        "स्कर्वी",
+        "पोलियो",
+        "मलेरिया"
+      ],
+      "options": [
+        "रतौंधी",
+        "स्कर्वी",
+        "पोलियो",
+        "मलेरिया"
+      ],
+      "oHi": [
+        "रतौंधी",
+        "स्कर्वी",
+        "पोलियो",
+        "मलेरिया"
+      ],
+      "optionsHi": [
+        "रतौंधी",
+        "स्कर्वी",
+        "पोलियो",
+        "मलेरिया"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'स्कर्वी'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'स्कर्वी'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'स्कर्वी' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'स्कर्वी' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_997",
+      "q": "ओजोन परत किस गैस से बनी है?",
+      "questionText": "ओजोन परत किस गैस से बनी है?",
+      "qHi": "ओजोन परत किस गैस से बनी है?",
+      "questionTextHi": "ओजोन परत किस गैस से बनी है?",
+      "o": [
+        "O₂",
+        "CO₂",
+        "O₃",
+        "N₂"
+      ],
+      "options": [
+        "O₂",
+        "CO₂",
+        "O₃",
+        "N₂"
+      ],
+      "oHi": [
+        "O₂",
+        "CO₂",
+        "O₃",
+        "N₂"
+      ],
+      "optionsHi": [
+        "O₂",
+        "CO₂",
+        "O₃",
+        "N₂"
+      ],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'O₃'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'O₃'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'O₃' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'O₃' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_999",
+      "q": "भारत का पहला उपग्रह कौन सा था?",
+      "questionText": "भारत का पहला उपग्रह कौन सा था?",
+      "qHi": "भारत का पहला उपग्रह कौन सा था?",
+      "questionTextHi": "भारत का पहला उपग्रह कौन सा था?",
+      "o": [
+        "भास्कर",
+        "रोहिणी",
+        "आर्यभट्ट",
+        "INSAT"
+      ],
+      "options": [
+        "भास्कर",
+        "रोहिणी",
+        "आर्यभट्ट",
+        "INSAT"
+      ],
+      "oHi": [
+        "भास्कर",
+        "रोहिणी",
+        "आर्यभट्ट",
+        "INSAT"
+      ],
+      "optionsHi": [
+        "भास्कर",
+        "रोहिणी",
+        "आर्यभट्ट",
+        "INSAT"
+      ],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'आर्यभट्ट'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'आर्यभट्ट'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'आर्यभट्ट' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'आर्यभट्ट' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_1080",
+      "q": "कौनसी गैस 'नोबल गैस' (Noble gas) कहलाती है",
+      "questionText": "कौनसी गैस 'नोबल गैस' (Noble gas) कहलाती है",
+      "qHi": "कौनसी गैस 'नोबल गैस' (Noble gas) कहलाती है",
+      "questionTextHi": "कौनसी गैस 'नोबल गैस' (Noble gas) कहलाती है",
+      "o": [
+        "डॉ. एचजे भाभा",
+        "यूरेनियम",
+        "एलेक्सजेंडर फ्लेमिंग",
+        "हीलियम"
+      ],
+      "options": [
+        "डॉ. एचजे भाभा",
+        "यूरेनियम",
+        "एलेक्सजेंडर फ्लेमिंग",
+        "हीलियम"
+      ],
+      "oHi": [
+        "डॉ. एचजे भाभा",
+        "यूरेनियम",
+        "एलेक्सजेंडर फ्लेमिंग",
+        "हीलियम"
+      ],
+      "optionsHi": [
+        "डॉ. एचजे भाभा",
+        "यूरेनियम",
+        "एलेक्सजेंडर फ्लेमिंग",
+        "हीलियम"
+      ],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is 'हीलियम'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'हीलियम'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'हीलियम' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'हीलियम' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_1087",
+      "q": "​कोयला, पेट्रोलियम, प्राकृतिक गैस और यूरेनियम में से कौन-सा एक जीवाश्म ईंधन नहीं है",
+      "questionText": "​कोयला, पेट्रोलियम, प्राकृतिक गैस और यूरेनियम में से कौन-सा एक जीवाश्म ईंधन नहीं है",
+      "qHi": "​कोयला, पेट्रोलियम, प्राकृतिक गैस और यूरेनियम में से कौन-सा एक जीवाश्म ईंधन नहीं है",
+      "questionTextHi": "​कोयला, पेट्रोलियम, प्राकृतिक गैस और यूरेनियम में से कौन-सा एक जीवाश्म ईंधन नहीं है",
+      "o": [
+        "यूरेनियम",
+        "सिलिकॉन",
+        "विटामिन-सी",
+        "सेल (Cell)"
+      ],
+      "options": [
+        "यूरेनियम",
+        "सिलिकॉन",
+        "विटामिन-सी",
+        "सेल (Cell)"
+      ],
+      "oHi": [
+        "यूरेनियम",
+        "सिलिकॉन",
+        "विटामिन-सी",
+        "सेल (Cell)"
+      ],
+      "optionsHi": [
+        "यूरेनियम",
+        "सिलिकॉन",
+        "विटामिन-सी",
+        "सेल (Cell)"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'यूरेनियम'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'यूरेनियम'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'यूरेनियम' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'यूरेनियम' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_1114",
+      "q": "एक्सेल स्प्रेडशीट की मूल इकाई, जहाँ पर डाटा एन्ट्री की जाती है, कहलाती है",
+      "questionText": "एक्सेल स्प्रेडशीट की मूल इकाई, जहाँ पर डाटा एन्ट्री की जाती है, कहलाती है",
+      "qHi": "एक्सेल स्प्रेडशीट की मूल इकाई, जहाँ पर डाटा एन्ट्री की जाती है, कहलाती है",
+      "questionTextHi": "एक्सेल स्प्रेडशीट की मूल इकाई, जहाँ पर डाटा एन्ट्री की जाती है, कहलाती है",
+      "o": [
+        "तारा",
+        "आर्यभट्ट",
+        "हीलियम",
+        "सेल (Cell)"
+      ],
+      "options": [
+        "तारा",
+        "आर्यभट्ट",
+        "हीलियम",
+        "सेल (Cell)"
+      ],
+      "oHi": [
+        "तारा",
+        "आर्यभट्ट",
+        "हीलियम",
+        "सेल (Cell)"
+      ],
+      "optionsHi": [
+        "तारा",
+        "आर्यभट्ट",
+        "हीलियम",
+        "सेल (Cell)"
+      ],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is 'सेल (Cell)'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'सेल (Cell)'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'सेल (Cell)' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'सेल (Cell)' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_1188",
+      "q": "पेंसलीन की खोज किसने की थी",
+      "questionText": "पेंसलीन की खोज किसने की थी",
+      "qHi": "पेंसलीन की खोज किसने की थी",
+      "questionTextHi": "पेंसलीन की खोज किसने की थी",
+      "o": [
+        "50%",
+        "एलेक्सजेंडर फ्लेमिंग",
+        "तीन",
+        "नाइट्रस ऑक्साइड"
+      ],
+      "options": [
+        "50%",
+        "एलेक्सजेंडर फ्लेमिंग",
+        "तीन",
+        "नाइट्रस ऑक्साइड"
+      ],
+      "oHi": [
+        "50%",
+        "एलेक्सजेंडर फ्लेमिंग",
+        "तीन",
+        "नाइट्रस ऑक्साइड"
+      ],
+      "optionsHi": [
+        "50%",
+        "एलेक्सजेंडर फ्लेमिंग",
+        "तीन",
+        "नाइट्रस ऑक्साइड"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'एलेक्सजेंडर फ्लेमिंग'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'एलेक्सजेंडर फ्लेमिंग'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'एलेक्सजेंडर फ्लेमिंग' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'एलेक्सजेंडर फ्लेमिंग' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_1189",
+      "q": "अप्रैल 2015 में भारत ने अपने परमाणु संयंत्रों के लिए यूरेनियम के लिए कनाडा, जापान, फ्रांस और ऑस्ट्रेलिया में से किस देश के साथ संधि की",
+      "questionText": "अप्रैल 2015 में भारत ने अपने परमाणु संयंत्रों के लिए यूरेनियम के लिए कनाडा, जापान, फ्रांस और ऑस्ट्रेलिया में से किस देश के साथ संधि की",
+      "qHi": "अप्रैल 2015 में भारत ने अपने परमाणु संयंत्रों के लिए यूरेनियम के लिए कनाडा, जापान, फ्रांस और ऑस्ट्रेलिया में से किस देश के साथ संधि की",
+      "questionTextHi": "अप्रैल 2015 में भारत ने अपने परमाणु संयंत्रों के लिए यूरेनियम के लिए कनाडा, जापान, फ्रांस और ऑस्ट्रेलिया में से किस देश के साथ संधि की",
+      "o": [
+        "फ्रांस",
+        "यूरेनियम",
+        "कीट पतंगे",
+        "सेल (Cell)"
+      ],
+      "options": [
+        "फ्रांस",
+        "यूरेनियम",
+        "कीट पतंगे",
+        "सेल (Cell)"
+      ],
+      "oHi": [
+        "फ्रांस",
+        "यूरेनियम",
+        "कीट पतंगे",
+        "सेल (Cell)"
+      ],
+      "optionsHi": [
+        "फ्रांस",
+        "यूरेनियम",
+        "कीट पतंगे",
+        "सेल (Cell)"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'फ्रांस'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'फ्रांस'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'फ्रांस' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'फ्रांस' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_1238",
+      "q": "सिलिकॉन, सीरियम, ऐस्टैटीन और वैनेडियम में से कौन-सा तत्व सोलर सेल में उपयोग किया जाता है",
+      "questionText": "सिलिकॉन, सीरियम, ऐस्टैटीन और वैनेडियम में से कौन-सा तत्व सोलर सेल में उपयोग किया जाता है",
+      "qHi": "सिलिकॉन, सीरियम, ऐस्टैटीन और वैनेडियम में से कौन-सा तत्व सोलर सेल में उपयोग किया जाता है",
+      "questionTextHi": "सिलिकॉन, सीरियम, ऐस्टैटीन और वैनेडियम में से कौन-सा तत्व सोलर सेल में उपयोग किया जाता है",
+      "o": [
+        "भाग IV",
+        "विटामिन-सी",
+        "सिलिकॉन",
+        "डॉ. एचजे भाभा"
+      ],
+      "options": [
+        "भाग IV",
+        "विटामिन-सी",
+        "सिलिकॉन",
+        "डॉ. एचजे भाभा"
+      ],
+      "oHi": [
+        "भाग IV",
+        "विटामिन-सी",
+        "सिलिकॉन",
+        "डॉ. एचजे भाभा"
+      ],
+      "optionsHi": [
+        "भाग IV",
+        "विटामिन-सी",
+        "सिलिकॉन",
+        "डॉ. एचजे भाभा"
+      ],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'सिलिकॉन'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'सिलिकॉन'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'सिलिकॉन' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'सिलिकॉन' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_1249",
+      "q": "पीतल एक मिश्रधातु है जिसके अवयव हैं",
+      "questionText": "पीतल एक मिश्रधातु है जिसके अवयव हैं",
+      "qHi": "पीतल एक मिश्रधातु है जिसके अवयव हैं",
+      "questionTextHi": "पीतल एक मिश्रधातु है जिसके अवयव हैं",
+      "o": [
+        "98.5%",
+        "कार्बन डाइऑक्साइड",
+        "तांबा और जस्ता",
+        "बेंगलुरु"
+      ],
+      "options": [
+        "98.5%",
+        "कार्बन डाइऑक्साइड",
+        "तांबा और जस्ता",
+        "बेंगलुरु"
+      ],
+      "oHi": [
+        "98.5%",
+        "कार्बन डाइऑक्साइड",
+        "तांबा और जस्ता",
+        "बेंगलुरु"
+      ],
+      "optionsHi": [
+        "98.5%",
+        "कार्बन डाइऑक्साइड",
+        "तांबा और जस्ता",
+        "बेंगलुरु"
+      ],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'तांबा और जस्ता'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'तांबा और जस्ता'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'तांबा और जस्ता' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'तांबा और जस्ता' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_1250",
+      "q": "हीलियम, नीयोन, फ्रीयोन और जीनोन इनमें से कौन-सी गैस है जो इनर्ट गैस नहीं है",
+      "questionText": "हीलियम, नीयोन, फ्रीयोन और जीनोन इनमें से कौन-सी गैस है जो इनर्ट गैस नहीं है",
+      "qHi": "हीलियम, नीयोन, फ्रीयोन और जीनोन इनमें से कौन-सी गैस है जो इनर्ट गैस नहीं है",
+      "questionTextHi": "हीलियम, नीयोन, फ्रीयोन और जीनोन इनमें से कौन-सी गैस है जो इनर्ट गैस नहीं है",
+      "o": [
+        "कीट पतंगे",
+        "तांबा और जस्ता",
+        "हीलियम",
+        "फ्रीयोन"
+      ],
+      "options": [
+        "कीट पतंगे",
+        "तांबा और जस्ता",
+        "हीलियम",
+        "फ्रीयोन"
+      ],
+      "oHi": [
+        "कीट पतंगे",
+        "तांबा और जस्ता",
+        "हीलियम",
+        "फ्रीयोन"
+      ],
+      "optionsHi": [
+        "कीट पतंगे",
+        "तांबा और जस्ता",
+        "हीलियम",
+        "फ्रीयोन"
+      ],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is 'फ्रीयोन'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'फ्रीयोन'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'फ्रीयोन' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'फ्रीयोन' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_1253",
+      "q": "वनस्पति तेल से वनस्पति घी बनाने हेतु किस गैस का उपयोग किया जाता है",
+      "questionText": "वनस्पति तेल से वनस्पति घी बनाने हेतु किस गैस का उपयोग किया जाता है",
+      "qHi": "वनस्पति तेल से वनस्पति घी बनाने हेतु किस गैस का उपयोग किया जाता है",
+      "questionTextHi": "वनस्पति तेल से वनस्पति घी बनाने हेतु किस गैस का उपयोग किया जाता है",
+      "o": [
+        "यूरेनियम",
+        "हाइड्रोजन",
+        "विटामिन-सी",
+        "कार्बन डाइऑक्साइड"
+      ],
+      "options": [
+        "यूरेनियम",
+        "हाइड्रोजन",
+        "विटामिन-सी",
+        "कार्बन डाइऑक्साइड"
+      ],
+      "oHi": [
+        "यूरेनियम",
+        "हाइड्रोजन",
+        "विटामिन-सी",
+        "कार्बन डाइऑक्साइड"
+      ],
+      "optionsHi": [
+        "यूरेनियम",
+        "हाइड्रोजन",
+        "विटामिन-सी",
+        "कार्बन डाइऑक्साइड"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'हाइड्रोजन'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'हाइड्रोजन'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'हाइड्रोजन' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'हाइड्रोजन' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_1255",
+      "q": "भू-स्थिर उपग्रह किस दिशा में घूमता है",
+      "questionText": "भू-स्थिर उपग्रह किस दिशा में घूमता है",
+      "qHi": "भू-स्थिर उपग्रह किस दिशा में घूमता है",
+      "questionTextHi": "भू-स्थिर उपग्रह किस दिशा में घूमता है",
+      "o": [
+        "पश्चिम से पूरब",
+        "हाइड्रोजन",
+        "डॉ. एचजे भाभा",
+        "फ्रांस"
+      ],
+      "options": [
+        "पश्चिम से पूरब",
+        "हाइड्रोजन",
+        "डॉ. एचजे भाभा",
+        "फ्रांस"
+      ],
+      "oHi": [
+        "पश्चिम से पूरब",
+        "हाइड्रोजन",
+        "डॉ. एचजे भाभा",
+        "फ्रांस"
+      ],
+      "optionsHi": [
+        "पश्चिम से पूरब",
+        "हाइड्रोजन",
+        "डॉ. एचजे भाभा",
+        "फ्रांस"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'पश्चिम से पूरब'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'पश्चिम से पूरब'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'पश्चिम से पूरब' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'पश्चिम से पूरब' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_1300",
+      "q": "उन ग्रीन हाउस गैसों में कौन-सी गैसें शामिल हैं जिन्हें अन्यथा रेडियोएक्टिव रूप से सक्रिय गैस कहा जाता है",
+      "questionText": "उन ग्रीन हाउस गैसों में कौन-सी गैसें शामिल हैं जिन्हें अन्यथा रेडियोएक्टिव रूप से सक्रिय गैस कहा जाता है",
+      "qHi": "उन ग्रीन हाउस गैसों में कौन-सी गैसें शामिल हैं जिन्हें अन्यथा रेडियोएक्टिव रूप से सक्रिय गैस कहा जाता है",
+      "questionTextHi": "उन ग्रीन हाउस गैसों में कौन-सी गैसें शामिल हैं जिन्हें अन्यथा रेडियोएक्टिव रूप से सक्रिय गैस कहा जाता है",
+      "o": [
+        "कार्बन डाइऑक्साइड",
+        "सिलिकॉन",
+        "तीन",
+        "डॉ. एचजे भाभा"
+      ],
+      "options": [
+        "कार्बन डाइऑक्साइड",
+        "सिलिकॉन",
+        "तीन",
+        "डॉ. एचजे भाभा"
+      ],
+      "oHi": [
+        "कार्बन डाइऑक्साइड",
+        "सिलिकॉन",
+        "तीन",
+        "डॉ. एचजे भाभा"
+      ],
+      "optionsHi": [
+        "कार्बन डाइऑक्साइड",
+        "सिलिकॉन",
+        "तीन",
+        "डॉ. एचजे भाभा"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'कार्बन डाइऑक्साइड'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'कार्बन डाइऑक्साइड'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'कार्बन डाइऑक्साइड' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'कार्बन डाइऑक्साइड' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_1301",
+      "q": "कौन-सी गैस जल में विलीन होने पर उसे अम्लीय बना देती है",
+      "questionText": "कौन-सी गैस जल में विलीन होने पर उसे अम्लीय बना देती है",
+      "qHi": "कौन-सी गैस जल में विलीन होने पर उसे अम्लीय बना देती है",
+      "questionTextHi": "कौन-सी गैस जल में विलीन होने पर उसे अम्लीय बना देती है",
+      "o": [
+        "कीट पतंगे",
+        "तांबा और जस्ता",
+        "कार्बन डाइऑक्साइड",
+        "थियोफ्रेस्टस"
+      ],
+      "options": [
+        "कीट पतंगे",
+        "तांबा और जस्ता",
+        "कार्बन डाइऑक्साइड",
+        "थियोफ्रेस्टस"
+      ],
+      "oHi": [
+        "कीट पतंगे",
+        "तांबा और जस्ता",
+        "कार्बन डाइऑक्साइड",
+        "थियोफ्रेस्टस"
+      ],
+      "optionsHi": [
+        "कीट पतंगे",
+        "तांबा और जस्ता",
+        "कार्बन डाइऑक्साइड",
+        "थियोफ्रेस्टस"
+      ],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'कार्बन डाइऑक्साइड'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'कार्बन डाइऑक्साइड'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'कार्बन डाइऑक्साइड' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'कार्बन डाइऑक्साइड' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_1328",
+      "q": "टमाटर में कौन-सा विटामिन पाया जाता है",
+      "questionText": "टमाटर में कौन-सा विटामिन पाया जाता है",
+      "qHi": "टमाटर में कौन-सा विटामिन पाया जाता है",
+      "questionTextHi": "टमाटर में कौन-सा विटामिन पाया जाता है",
+      "o": [
+        "विटामिन-सी",
+        "तपेदिक (यक्ष्मा)",
+        "कार्बन डाइऑक्साइड",
+        "एलेक्सजेंडर फ्लेमिंग"
+      ],
+      "options": [
+        "विटामिन-सी",
+        "तपेदिक (यक्ष्मा)",
+        "कार्बन डाइऑक्साइड",
+        "एलेक्सजेंडर फ्लेमिंग"
+      ],
+      "oHi": [
+        "विटामिन-सी",
+        "तपेदिक (यक्ष्मा)",
+        "कार्बन डाइऑक्साइड",
+        "एलेक्सजेंडर फ्लेमिंग"
+      ],
+      "optionsHi": [
+        "विटामिन-सी",
+        "तपेदिक (यक्ष्मा)",
+        "कार्बन डाइऑक्साइड",
+        "एलेक्सजेंडर फ्लेमिंग"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'विटामिन-सी'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'विटामिन-सी'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'विटामिन-सी' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'विटामिन-सी' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_1339",
+      "q": "पोलियो की दवा (वैक्सीन) का आविष्कारक कौन था?",
+      "questionText": "पोलियो की दवा (वैक्सीन) का आविष्कारक कौन था?",
+      "qHi": "पोलियो की दवा (वैक्सीन) का आविष्कारक कौन था?",
+      "questionTextHi": "पोलियो की दवा (वैक्सीन) का आविष्कारक कौन था?",
+      "o": [
+        "जोनास साल्क",
+        "तारा",
+        "कार्बन डाइऑक्साइड",
+        "आर्यभट्ट"
+      ],
+      "options": [
+        "जोनास साल्क",
+        "तारा",
+        "कार्बन डाइऑक्साइड",
+        "आर्यभट्ट"
+      ],
+      "oHi": [
+        "जोनास साल्क",
+        "तारा",
+        "कार्बन डाइऑक्साइड",
+        "आर्यभट्ट"
+      ],
+      "optionsHi": [
+        "जोनास साल्क",
+        "तारा",
+        "कार्बन डाइऑक्साइड",
+        "आर्यभट्ट"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'जोनास साल्क'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'जोनास साल्क'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'जोनास साल्क' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'जोनास साल्क' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_1340",
+      "q": "कीट विज्ञान किस विषय से संबंधित है",
+      "questionText": "कीट विज्ञान किस विषय से संबंधित है",
+      "qHi": "कीट विज्ञान किस विषय से संबंधित है",
+      "questionTextHi": "कीट विज्ञान किस विषय से संबंधित है",
+      "o": [
+        "आर्यभट्ट",
+        "विटामिन-सी",
+        "बेंगलुरु",
+        "कीट पतंगे"
+      ],
+      "options": [
+        "आर्यभट्ट",
+        "विटामिन-सी",
+        "बेंगलुरु",
+        "कीट पतंगे"
+      ],
+      "oHi": [
+        "आर्यभट्ट",
+        "विटामिन-सी",
+        "बेंगलुरु",
+        "कीट पतंगे"
+      ],
+      "optionsHi": [
+        "आर्यभट्ट",
+        "विटामिन-सी",
+        "बेंगलुरु",
+        "कीट पतंगे"
+      ],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is 'कीट पतंगे'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'कीट पतंगे'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'कीट पतंगे' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'कीट पतंगे' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_1401",
+      "q": "भगवद् गीता में कर्म के कितने तत्वों का वर्णन किया गया है",
+      "questionText": "भगवद् गीता में कर्म के कितने तत्वों का वर्णन किया गया है",
+      "qHi": "भगवद् गीता में कर्म के कितने तत्वों का वर्णन किया गया है",
+      "questionTextHi": "भगवद् गीता में कर्म के कितने तत्वों का वर्णन किया गया है",
+      "o": [
+        "स्कर्वी",
+        "तीन",
+        "थियोफ्रेस्टस",
+        "नाइट्रस ऑक्साइड"
+      ],
+      "options": [
+        "स्कर्वी",
+        "तीन",
+        "थियोफ्रेस्टस",
+        "नाइट्रस ऑक्साइड"
+      ],
+      "oHi": [
+        "स्कर्वी",
+        "तीन",
+        "थियोफ्रेस्टस",
+        "नाइट्रस ऑक्साइड"
+      ],
+      "optionsHi": [
+        "स्कर्वी",
+        "तीन",
+        "थियोफ्रेस्टस",
+        "नाइट्रस ऑक्साइड"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'तीन'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'तीन'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'तीन' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'तीन' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_1403",
+      "q": "प्राकृतिक गैस में हाइड्रो​कार्बन का कितना प्रतिशत है",
+      "questionText": "प्राकृतिक गैस में हाइड्रो​कार्बन का कितना प्रतिशत है",
+      "qHi": "प्राकृतिक गैस में हाइड्रो​कार्बन का कितना प्रतिशत है",
+      "questionTextHi": "प्राकृतिक गैस में हाइड्रो​कार्बन का कितना प्रतिशत है",
+      "o": [
+        "98.5%",
+        "फ्रीयोन",
+        "स्कर्वी",
+        "डॉ. एचजे भाभा"
+      ],
+      "options": [
+        "98.5%",
+        "फ्रीयोन",
+        "स्कर्वी",
+        "डॉ. एचजे भाभा"
+      ],
+      "oHi": [
+        "98.5%",
+        "फ्रीयोन",
+        "स्कर्वी",
+        "डॉ. एचजे भाभा"
+      ],
+      "optionsHi": [
+        "98.5%",
+        "फ्रीयोन",
+        "स्कर्वी",
+        "डॉ. एचजे भाभा"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is '98.5%'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is '98.5%'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '98.5%' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '98.5%' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_1404",
+      "q": "जल गैस में कार्बन मोनोक्साइड का कितना प्रतिशत होता है",
+      "questionText": "जल गैस में कार्बन मोनोक्साइड का कितना प्रतिशत होता है",
+      "qHi": "जल गैस में कार्बन मोनोक्साइड का कितना प्रतिशत होता है",
+      "questionTextHi": "जल गैस में कार्बन मोनोक्साइड का कितना प्रतिशत होता है",
+      "o": [
+        "पश्चिम से पूरब",
+        "50%",
+        "फ्रीयोन",
+        "तांबा और जस्ता"
+      ],
+      "options": [
+        "पश्चिम से पूरब",
+        "50%",
+        "फ्रीयोन",
+        "तांबा और जस्ता"
+      ],
+      "oHi": [
+        "पश्चिम से पूरब",
+        "50%",
+        "फ्रीयोन",
+        "तांबा और जस्ता"
+      ],
+      "optionsHi": [
+        "पश्चिम से पूरब",
+        "50%",
+        "फ्रीयोन",
+        "तांबा और जस्ता"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is '50%'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is '50%'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '50%' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '50%' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_1406",
+      "q": "वनस्पति विज्ञान का जनक किसे कहा जाता है",
+      "questionText": "वनस्पति विज्ञान का जनक किसे कहा जाता है",
+      "qHi": "वनस्पति विज्ञान का जनक किसे कहा जाता है",
+      "questionTextHi": "वनस्पति विज्ञान का जनक किसे कहा जाता है",
+      "o": [
+        "थियोफ्रेस्टस",
+        "स्कर्वी",
+        "पश्चिम से पूरब",
+        "98.5%"
+      ],
+      "options": [
+        "थियोफ्रेस्टस",
+        "स्कर्वी",
+        "पश्चिम से पूरब",
+        "98.5%"
+      ],
+      "oHi": [
+        "थियोफ्रेस्टस",
+        "स्कर्वी",
+        "पश्चिम से पूरब",
+        "98.5%"
+      ],
+      "optionsHi": [
+        "थियोफ्रेस्टस",
+        "स्कर्वी",
+        "पश्चिम से पूरब",
+        "98.5%"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'थियोफ्रेस्टस'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'थियोफ्रेस्टस'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'थियोफ्रेस्टस' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'थियोफ्रेस्टस' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_1436",
+      "q": "'भारतीय परमाणु ऊर्जा आयोग' का प्रथम अध्यक्ष कौन था",
+      "questionText": "'भारतीय परमाणु ऊर्जा आयोग' का प्रथम अध्यक्ष कौन था",
+      "qHi": "'भारतीय परमाणु ऊर्जा आयोग' का प्रथम अध्यक्ष कौन था",
+      "questionTextHi": "'भारतीय परमाणु ऊर्जा आयोग' का प्रथम अध्यक्ष कौन था",
+      "o": [
+        "हीलियम",
+        "आर्यभट्ट",
+        "डॉ. एचजे भाभा",
+        "पश्चिम से पूरब"
+      ],
+      "options": [
+        "हीलियम",
+        "आर्यभट्ट",
+        "डॉ. एचजे भाभा",
+        "पश्चिम से पूरब"
+      ],
+      "oHi": [
+        "हीलियम",
+        "आर्यभट्ट",
+        "डॉ. एचजे भाभा",
+        "पश्चिम से पूरब"
+      ],
+      "optionsHi": [
+        "हीलियम",
+        "आर्यभट्ट",
+        "डॉ. एचजे भाभा",
+        "पश्चिम से पूरब"
+      ],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'डॉ. एचजे भाभा'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'डॉ. एचजे भाभा'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'डॉ. एचजे भाभा' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'डॉ. एचजे भाभा' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_1438",
+      "q": "किस रोग की रोकथाम के लिए बीसीजी का टीका लेना चाहिए",
+      "questionText": "किस रोग की रोकथाम के लिए बीसीजी का टीका लेना चाहिए",
+      "qHi": "किस रोग की रोकथाम के लिए बीसीजी का टीका लेना चाहिए",
+      "questionTextHi": "किस रोग की रोकथाम के लिए बीसीजी का टीका लेना चाहिए",
+      "o": [
+        "कार्बन डाइऑक्साइड",
+        "तपेदिक (यक्ष्मा)",
+        "यूरेनियम",
+        "तीन"
+      ],
+      "options": [
+        "कार्बन डाइऑक्साइड",
+        "तपेदिक (यक्ष्मा)",
+        "यूरेनियम",
+        "तीन"
+      ],
+      "oHi": [
+        "कार्बन डाइऑक्साइड",
+        "तपेदिक (यक्ष्मा)",
+        "यूरेनियम",
+        "तीन"
+      ],
+      "optionsHi": [
+        "कार्बन डाइऑक्साइड",
+        "तपेदिक (यक्ष्मा)",
+        "यूरेनियम",
+        "तीन"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'तपेदिक (यक्ष्मा)'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'तपेदिक (यक्ष्मा)'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'तपेदिक (यक्ष्मा)' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'तपेदिक (यक्ष्मा)' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_1439",
+      "q": "हँसाने वाली गैस (लाफिंग गैस) कौन सी होती है?",
+      "questionText": "हँसाने वाली गैस (लाफिंग गैस) कौन सी होती है?",
+      "qHi": "हँसाने वाली गैस (लाफिंग गैस) कौन सी होती है?",
+      "questionTextHi": "हँसाने वाली गैस (लाफिंग गैस) कौन सी होती है?",
+      "o": [
+        "बेंगलुरु",
+        "नाइट्रस ऑक्साइड",
+        "तारा",
+        "सेल (Cell)"
+      ],
+      "options": [
+        "बेंगलुरु",
+        "नाइट्रस ऑक्साइड",
+        "तारा",
+        "सेल (Cell)"
+      ],
+      "oHi": [
+        "बेंगलुरु",
+        "नाइट्रस ऑक्साइड",
+        "तारा",
+        "सेल (Cell)"
+      ],
+      "optionsHi": [
+        "बेंगलुरु",
+        "नाइट्रस ऑक्साइड",
+        "तारा",
+        "सेल (Cell)"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'नाइट्रस ऑक्साइड'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'नाइट्रस ऑक्साइड'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'नाइट्रस ऑक्साइड' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'नाइट्रस ऑक्साइड' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_1456",
+      "q": "When was Tooth brush invented?",
+      "questionText": "When was Tooth brush invented?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Garud Commando Force",
+        "13 January 2015 (Rewari – Rohtak)",
+        "Indian Renewable energy Development Agency",
+        "In the year 1770"
+      ],
+      "options": [
+        "Garud Commando Force",
+        "13 January 2015 (Rewari – Rohtak)",
+        "Indian Renewable energy Development Agency",
+        "In the year 1770"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is 'In the year 1770'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'In the year 1770'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'In the year 1770' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'In the year 1770' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_1465",
+      "q": "Which Vitamin is responsible for the Clotting of Blood?",
+      "questionText": "Which Vitamin is responsible for the Clotting of Blood?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "In the Year 1928",
+        "Vitamin K",
+        "Jagadish Chandra Bose",
+        "John Napier"
+      ],
+      "options": [
+        "In the Year 1928",
+        "Vitamin K",
+        "Jagadish Chandra Bose",
+        "John Napier"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'Vitamin K'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Vitamin K'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Vitamin K' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Vitamin K' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_1489",
+      "q": "What is Biogeography?",
+      "questionText": "What is Biogeography?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Study of Life under cold conditions",
+        "Study of Relationship of Organisms with Environment",
+        "H₂O",
+        "Alexander Fleming"
+      ],
+      "options": [
+        "Study of Life under cold conditions",
+        "Study of Relationship of Organisms with Environment",
+        "H₂O",
+        "Alexander Fleming"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'Study of Relationship of Organisms with Environment'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Study of Relationship of Organisms with Environment'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Study of Relationship of Organisms with Environment' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Study of Relationship of Organisms with Environment' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_1496",
+      "q": "What is Exobiology?",
+      "questionText": "What is Exobiology?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Study of Life in Outer Space",
+        "Study of Plant Nutrition & Soil Yield",
+        "In the Year 1928",
+        "Verified Answer"
+      ],
+      "options": [
+        "Study of Life in Outer Space",
+        "Study of Plant Nutrition & Soil Yield",
+        "In the Year 1928",
+        "Verified Answer"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'Study of Life in Outer Space'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Study of Life in Outer Space'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Study of Life in Outer Space' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Study of Life in Outer Space' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_1498",
+      "q": "What is the expansion of WMO?",
+      "questionText": "What is the expansion of WMO?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Indian Renewable energy Development Agency",
+        "Ghaziabad",
+        "World Meteorological Organisation",
+        "Chennai"
+      ],
+      "options": [
+        "Indian Renewable energy Development Agency",
+        "Ghaziabad",
+        "World Meteorological Organisation",
+        "Chennai"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'World Meteorological Organisation'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'World Meteorological Organisation'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'World Meteorological Organisation' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'World Meteorological Organisation' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_1530",
+      "q": "When is the National Physics Day Celebrated?",
+      "questionText": "When is the National Physics Day Celebrated?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Walter Hunt",
+        "Verified Answer",
+        "Christopher Latham Sholes",
+        "24th April"
+      ],
+      "options": [
+        "Walter Hunt",
+        "Verified Answer",
+        "Christopher Latham Sholes",
+        "24th April"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is '24th April'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is '24th April'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '24th April' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '24th April' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_1569",
+      "q": "What is the expansion of UNIDO?",
+      "questionText": "What is the expansion of UNIDO?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "United Nations Industrial Development Organisation",
+        "Landsteiner",
+        "13 January 2015 (Rewari – Rohtak)",
+        "Anti Diuretic Hormone"
+      ],
+      "options": [
+        "United Nations Industrial Development Organisation",
+        "Landsteiner",
+        "13 January 2015 (Rewari – Rohtak)",
+        "Anti Diuretic Hormone"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'United Nations Industrial Development Organisation'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'United Nations Industrial Development Organisation'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'United Nations Industrial Development Organisation' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'United Nations Industrial Development Organisation' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_1573",
+      "q": "What is the expansion of STARS?",
+      "questionText": "What is the expansion of STARS?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Garud Commando Force",
+        "Study of Life in Outer Space",
+        "Study of Aquatic Organisms",
+        "Satellite Tracking And Ranging Station"
+      ],
+      "options": [
+        "Garud Commando Force",
+        "Study of Life in Outer Space",
+        "Study of Aquatic Organisms",
+        "Satellite Tracking And Ranging Station"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is 'Satellite Tracking And Ranging Station'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Satellite Tracking And Ranging Station'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Satellite Tracking And Ranging Station' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Satellite Tracking And Ranging Station' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_1586",
+      "q": "Where is the National Centre of Organic Farming Located?",
+      "questionText": "Where is the National Centre of Organic Farming Located?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Ghaziabad",
+        "John J. Loud",
+        "Landsteiner",
+        "24th April"
+      ],
+      "options": [
+        "Ghaziabad",
+        "John J. Loud",
+        "Landsteiner",
+        "24th April"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'Ghaziabad'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Ghaziabad'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Ghaziabad' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Ghaziabad' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_1589",
+      "q": "Which is India’s first Energy Efficient Railway Station?",
+      "questionText": "Which is India’s first Energy Efficient Railway Station?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Study of Relationship of Organisms with Environment",
+        "Verified Answer",
+        "Sir David Brewster",
+        "Kacheguda Railway Station"
+      ],
+      "options": [
+        "Study of Relationship of Organisms with Environment",
+        "Verified Answer",
+        "Sir David Brewster",
+        "Kacheguda Railway Station"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is 'Kacheguda Railway Station'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Kacheguda Railway Station'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Kacheguda Railway Station' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Kacheguda Railway Station' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_1615",
+      "q": "What is the expansion of IRS?",
+      "questionText": "What is the expansion of IRS?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Dinesh K Sarraf",
+        "Indian Remote-sensing Satellite (or) Indian Revenue",
+        "Dr. K. Sivan",
+        "ISRO"
+      ],
+      "options": [
+        "Dinesh K Sarraf",
+        "Indian Remote-sensing Satellite (or) Indian Revenue",
+        "Dr. K. Sivan",
+        "ISRO"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'Indian Remote-sensing Satellite (or) Indian Revenue'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Indian Remote-sensing Satellite (or) Indian Revenue'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Indian Remote-sensing Satellite (or) Indian Revenue' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Indian Remote-sensing Satellite (or) Indian Revenue' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_1619",
+      "q": "Which is the Lightest Metal?",
+      "questionText": "Which is the Lightest Metal?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Lithium",
+        "Study of Aquatic Organisms",
+        "Kacheguda Railway Station",
+        "Carbon dioxide"
+      ],
+      "options": [
+        "Lithium",
+        "Study of Aquatic Organisms",
+        "Kacheguda Railway Station",
+        "Carbon dioxide"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'Lithium'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Lithium'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Lithium' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Lithium' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_1632",
+      "q": "What is the expansion of NSEFI?",
+      "questionText": "What is the expansion of NSEFI?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "13 January 2015 (Rewari – Rohtak)",
+        "Bangalore",
+        "National Solar Energy Federation of India",
+        "In the Year 1928"
+      ],
+      "options": [
+        "13 January 2015 (Rewari – Rohtak)",
+        "Bangalore",
+        "National Solar Energy Federation of India",
+        "In the Year 1928"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'National Solar Energy Federation of India'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'National Solar Energy Federation of India'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'National Solar Energy Federation of India' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'National Solar Energy Federation of India' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_1636",
+      "q": "Who discovered Blood Groups?",
+      "questionText": "Who discovered Blood Groups?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Diu",
+        "Study of Plant Nutrition & Soil Yield",
+        "Landsteiner",
+        "James Chadwick"
+      ],
+      "options": [
+        "Diu",
+        "Study of Plant Nutrition & Soil Yield",
+        "Landsteiner",
+        "James Chadwick"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'Landsteiner'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Landsteiner'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Landsteiner' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Landsteiner' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_1659",
+      "q": "Who invented Thermometer?",
+      "questionText": "Who invented Thermometer?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Garud Commando Force",
+        "Galileo Galilei",
+        "Section",
+        "Satellite Tracking And Ranging Station"
+      ],
+      "options": [
+        "Garud Commando Force",
+        "Galileo Galilei",
+        "Section",
+        "Satellite Tracking And Ranging Station"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'Galileo Galilei'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Galileo Galilei'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Galileo Galilei' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Galileo Galilei' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_1660",
+      "q": "What is Hydrobiology?",
+      "questionText": "What is Hydrobiology?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Study of Aquatic Organisms",
+        "Garud Commando Force",
+        "National Solar Energy Federation of India",
+        "Retinol"
+      ],
+      "options": [
+        "Study of Aquatic Organisms",
+        "Garud Commando Force",
+        "National Solar Energy Federation of India",
+        "Retinol"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'Study of Aquatic Organisms'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Study of Aquatic Organisms'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Study of Aquatic Organisms' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Study of Aquatic Organisms' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_1665",
+      "q": "Who invented Ballpoint Pen?",
+      "questionText": "Who invented Ballpoint Pen?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "24th April",
+        "Charles Macintosh",
+        "John J. Loud",
+        "Kidney"
+      ],
+      "options": [
+        "24th April",
+        "Charles Macintosh",
+        "John J. Loud",
+        "Kidney"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'John J. Loud'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'John J. Loud'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'John J. Loud' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'John J. Loud' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_1676",
+      "q": "What is Cryobiology?",
+      "questionText": "What is Cryobiology?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Benjamin Franklin",
+        "Verified Answer",
+        "Study of Life under cold conditions",
+        "ISRO"
+      ],
+      "options": [
+        "Benjamin Franklin",
+        "Verified Answer",
+        "Study of Life under cold conditions",
+        "ISRO"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'Study of Life under cold conditions'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Study of Life under cold conditions'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Study of Life under cold conditions' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Study of Life under cold conditions' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_1687",
+      "q": "Who discovered Neutron?",
+      "questionText": "Who discovered Neutron?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "James Chadwick",
+        "13 January 2015 (Rewari – Rohtak)",
+        "Indian Remote-sensing Satellite (or) Indian Revenue",
+        "Christopher Latham Sholes"
+      ],
+      "options": [
+        "James Chadwick",
+        "13 January 2015 (Rewari – Rohtak)",
+        "Indian Remote-sensing Satellite (or) Indian Revenue",
+        "Christopher Latham Sholes"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'James Chadwick'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'James Chadwick'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'James Chadwick' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'James Chadwick' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_1692",
+      "q": "What is the chemical name of Vitamin A?",
+      "questionText": "What is the chemical name of Vitamin A?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Vitamin D",
+        "Retinol",
+        "Anti Diuretic Hormone",
+        "Edmund Cartwright"
+      ],
+      "options": [
+        "Vitamin D",
+        "Retinol",
+        "Anti Diuretic Hormone",
+        "Edmund Cartwright"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'Retinol'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Retinol'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Retinol' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Retinol' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_1693",
+      "q": "What is the Expansion of PSLV?",
+      "questionText": "What is the Expansion of PSLV?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "National Solar Energy Federation of India",
+        "Vitamin D",
+        "Kacheguda Railway Station",
+        "Polar Satellite Launch Vehicle"
+      ],
+      "options": [
+        "National Solar Energy Federation of India",
+        "Vitamin D",
+        "Kacheguda Railway Station",
+        "Polar Satellite Launch Vehicle"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is 'Polar Satellite Launch Vehicle'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Polar Satellite Launch Vehicle'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Polar Satellite Launch Vehicle' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Polar Satellite Launch Vehicle' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_1701",
+      "q": "When was Pencillin discovered?",
+      "questionText": "When was Pencillin discovered?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Garud Commando Force",
+        "In the Year 1928",
+        "Study of Relationship of Organisms with Environment",
+        "Retinol"
+      ],
+      "options": [
+        "Garud Commando Force",
+        "In the Year 1928",
+        "Study of Relationship of Organisms with Environment",
+        "Retinol"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'In the Year 1928'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'In the Year 1928'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'In the Year 1928' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'In the Year 1928' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_1706",
+      "q": "Who invented Safety Pin?",
+      "questionText": "Who invented Safety Pin?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Chennai",
+        "Walter Hunt",
+        "Sir David Brewster",
+        "ISRO"
+      ],
+      "options": [
+        "Chennai",
+        "Walter Hunt",
+        "Sir David Brewster",
+        "ISRO"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'Walter Hunt'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Walter Hunt'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Walter Hunt' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Walter Hunt' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_1713",
+      "q": "Who invented Crescograph?",
+      "questionText": "Who invented Crescograph?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Jagadish Chandra Bose",
+        "Indian Renewable energy Development Agency",
+        "Satellite Tracking And Ranging Station",
+        "Indian Remote-sensing Satellite (or) Indian Revenue"
+      ],
+      "options": [
+        "Jagadish Chandra Bose",
+        "Indian Renewable energy Development Agency",
+        "Satellite Tracking And Ranging Station",
+        "Indian Remote-sensing Satellite (or) Indian Revenue"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'Jagadish Chandra Bose'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Jagadish Chandra Bose'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Jagadish Chandra Bose' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Jagadish Chandra Bose' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_1718",
+      "q": "Which Organisation institutes the Kalinga prize?",
+      "questionText": "Which Organisation institutes the Kalinga prize?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Indian Remote-sensing Satellite (or) Indian Revenue",
+        "Kidney",
+        "UNESCO",
+        "Arthur Wynne"
+      ],
+      "options": [
+        "Indian Remote-sensing Satellite (or) Indian Revenue",
+        "Kidney",
+        "UNESCO",
+        "Arthur Wynne"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'UNESCO'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'UNESCO'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'UNESCO' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'UNESCO' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_1720",
+      "q": "Who invented Logarithmn?",
+      "questionText": "Who invented Logarithmn?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "13 January 2015 (Rewari – Rohtak)",
+        "Chennai",
+        "John Napier",
+        "Jagadish Chandra Bose"
+      ],
+      "options": [
+        "13 January 2015 (Rewari – Rohtak)",
+        "Chennai",
+        "John Napier",
+        "Jagadish Chandra Bose"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'John Napier'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'John Napier'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'John Napier' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'John Napier' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_1724",
+      "q": "Who invented Kaleidoscope?",
+      "questionText": "Who invented Kaleidoscope?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Section",
+        "Landsteiner",
+        "Sir David Brewster",
+        "Retinol"
+      ],
+      "options": [
+        "Section",
+        "Landsteiner",
+        "Sir David Brewster",
+        "Retinol"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'Sir David Brewster'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Sir David Brewster'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Sir David Brewster' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Sir David Brewster' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_1744",
+      "q": "What is Agrobiology?",
+      "questionText": "What is Agrobiology?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "John J. Loud",
+        "UNESCO",
+        "Indian Remote-sensing Satellite (or) Indian Revenue",
+        "Study of Plant Nutrition & Soil Yield"
+      ],
+      "options": [
+        "John J. Loud",
+        "UNESCO",
+        "Indian Remote-sensing Satellite (or) Indian Revenue",
+        "Study of Plant Nutrition & Soil Yield"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is 'Study of Plant Nutrition & Soil Yield'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Study of Plant Nutrition & Soil Yield'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Study of Plant Nutrition & Soil Yield' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Study of Plant Nutrition & Soil Yield' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_1747",
+      "q": "Who invented Powerloom?",
+      "questionText": "Who invented Powerloom?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Edmund Cartwright",
+        "Satellite Tracking And Ranging Station",
+        "Alexander Fleming",
+        "In the year 1770"
+      ],
+      "options": [
+        "Edmund Cartwright",
+        "Satellite Tracking And Ranging Station",
+        "Alexander Fleming",
+        "In the year 1770"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'Edmund Cartwright'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Edmund Cartwright'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Edmund Cartwright' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Edmund Cartwright' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_1752",
+      "q": "When was Safety matches invented?",
+      "questionText": "When was Safety matches invented?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "In the Year 1844",
+        "Edmund Cartwright",
+        "Calciferol",
+        "Retinol"
+      ],
+      "options": [
+        "In the Year 1844",
+        "Edmund Cartwright",
+        "Calciferol",
+        "Retinol"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'In the Year 1844'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'In the Year 1844'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'In the Year 1844' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'In the Year 1844' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_1763",
+      "q": "What is the expansion of IREDA?",
+      "questionText": "What is the expansion of IREDA?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Benjamin Franklin",
+        "Uranium",
+        "Indian Renewable energy Development Agency",
+        "Verified Answer"
+      ],
+      "options": [
+        "Benjamin Franklin",
+        "Uranium",
+        "Indian Renewable energy Development Agency",
+        "Verified Answer"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'Indian Renewable energy Development Agency'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Indian Renewable energy Development Agency'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Indian Renewable energy Development Agency' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Indian Renewable energy Development Agency' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_1785",
+      "q": "Where is the Rail Wheel Factory (RWF) Manufacturing unit of Indian",
+      "questionText": "Where is the Rail Wheel Factory (RWF) Manufacturing unit of Indian",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Satellite Tracking And Ranging Station",
+        "Study of Aquatic Organisms",
+        "In the Year 1928",
+        "Bangalore"
+      ],
+      "options": [
+        "Satellite Tracking And Ranging Station",
+        "Study of Aquatic Organisms",
+        "In the Year 1928",
+        "Bangalore"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is 'Bangalore'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Bangalore'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Bangalore' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Bangalore' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_science_technology_1786",
+      "q": "When was the first Indian Compressed Natural Gas (CNG)-Powered",
+      "questionText": "When was the first Indian Compressed Natural Gas (CNG)-Powered",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "24th April",
+        "13 January 2015 (Rewari – Rohtak)",
+        "Dinesh K Sarraf",
+        "Study of Life under cold conditions"
+      ],
+      "options": [
+        "24th April",
+        "13 January 2015 (Rewari – Rohtak)",
+        "Dinesh K Sarraf",
+        "Study of Life under cold conditions"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is '13 January 2015 (Rewari – Rohtak)'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is '13 January 2015 (Rewari – Rohtak)'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '13 January 2015 (Rewari – Rohtak)' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '13 January 2015 (Rewari – Rohtak)' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Science Technology.",
+      "hintHi": "Science Technology से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
     }
   ],
-  "questionCount": 4
+  "questionCount": 117
 }

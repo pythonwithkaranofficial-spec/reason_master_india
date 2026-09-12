@@ -1181,7 +1181,1959 @@
         "CDS",
         "NDA"
       ]
+    },
+    {
+      "id": "gk_ext_books_authors_127",
+      "q": "Whose contemporary was the author of Arthashastra",
+      "questionText": "Whose contemporary was the author of Arthashastra",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Milkha Singh",
+        "Chandragupta Maurya",
+        "Bill Gates",
+        "Winston Churchill"
+      ],
+      "options": [
+        "Milkha Singh",
+        "Chandragupta Maurya",
+        "Bill Gates",
+        "Winston Churchill"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'Chandragupta Maurya'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Chandragupta Maurya'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Chandragupta Maurya' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Chandragupta Maurya' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Books Authors.",
+      "hintHi": "Books Authors से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_books_authors_385",
+      "q": "Who is the author of 'Wings of Fire'?",
+      "questionText": "Who is the author of 'Wings of Fire'?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Sarojini Naidu",
+        "Dr. A.P.J. Abdul Kalam",
+        "L.K.Advani",
+        "Charles Darwin"
+      ],
+      "options": [
+        "Sarojini Naidu",
+        "Dr. A.P.J. Abdul Kalam",
+        "L.K.Advani",
+        "Charles Darwin"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'Dr. A.P.J. Abdul Kalam'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Dr. A.P.J. Abdul Kalam'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Dr. A.P.J. Abdul Kalam' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Dr. A.P.J. Abdul Kalam' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Books Authors.",
+      "hintHi": "Books Authors से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_books_authors_391",
+      "q": "Who wrote the Indian national anthem? Page 4",
+      "questionText": "Who wrote the Indian national anthem? Page 4",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Kiran Bedi",
+        "Pandit Jawaharlal Nehru",
+        "Rabindranath Tagore",
+        "John Milton"
+      ],
+      "options": [
+        "Kiran Bedi",
+        "Pandit Jawaharlal Nehru",
+        "Rabindranath Tagore",
+        "John Milton"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'Rabindranath Tagore'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Rabindranath Tagore'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Rabindranath Tagore' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Rabindranath Tagore' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Books Authors.",
+      "hintHi": "Books Authors से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_books_authors_486",
+      "q": "Who wrote the Indian National Anthem?",
+      "questionText": "Who wrote the Indian National Anthem?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Rabindranath Tagore",
+        "Chandragupta Maurya",
+        "Pandit Jawaharlal Nehru",
+        "Chetan Bhagat"
+      ],
+      "options": [
+        "Rabindranath Tagore",
+        "Chandragupta Maurya",
+        "Pandit Jawaharlal Nehru",
+        "Chetan Bhagat"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'Rabindranath Tagore'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Rabindranath Tagore'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Rabindranath Tagore' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Rabindranath Tagore' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Books Authors.",
+      "hintHi": "Books Authors से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_books_authors_523",
+      "q": "Who wrote the book, “The God of Small Things”?",
+      "questionText": "Who wrote the book, “The God of Small Things”?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Mario Puzo",
+        "Arundathi Roy",
+        "John Keats",
+        "Nelson Mandela"
+      ],
+      "options": [
+        "Mario Puzo",
+        "Arundathi Roy",
+        "John Keats",
+        "Nelson Mandela"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "42) Expand IGNOU. Indira Gandhi National Open University",
+      "explanation": "42) Expand IGNOU. Indira Gandhi National Open University",
+      "expHi": "42) Expand IGNOU. Indira Gandhi National Open University",
+      "explanationHi": "42) Expand IGNOU. Indira Gandhi National Open University",
+      "hint": "Important authentic question from Books Authors.",
+      "hintHi": "Books Authors से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_books_authors_532",
+      "q": "Who wrote the book, “The Road Ahead”?",
+      "questionText": "Who wrote the book, “The Road Ahead”?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Bill Gates",
+        "Bankim Chandra Chatterjee",
+        "Swami Vivekananda",
+        "Charles Dickens"
+      ],
+      "options": [
+        "Bill Gates",
+        "Bankim Chandra Chatterjee",
+        "Swami Vivekananda",
+        "Charles Dickens"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'Bill Gates'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Bill Gates'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Bill Gates' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Bill Gates' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Books Authors.",
+      "hintHi": "Books Authors से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_books_authors_543",
+      "q": "Who wrote the book, “My Journey”?",
+      "questionText": "Who wrote the book, “My Journey”?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "John Ruskin",
+        "Kiran Bedi",
+        "Dr.A.P.J. Abdul Kalam",
+        "Former American President Ronald Reagon"
+      ],
+      "options": [
+        "John Ruskin",
+        "Kiran Bedi",
+        "Dr.A.P.J. Abdul Kalam",
+        "Former American President Ronald Reagon"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'Dr.A.P.J. Abdul Kalam'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Dr.A.P.J. Abdul Kalam'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Dr.A.P.J. Abdul Kalam' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Dr.A.P.J. Abdul Kalam' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Books Authors.",
+      "hintHi": "Books Authors से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_books_authors_561",
+      "q": "Who wrote the book, “Origin of Species”?",
+      "questionText": "Who wrote the book, “Origin of Species”?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Charles Darwin",
+        "Dr. A.P.J. Abdul Kalam",
+        "John Ruskin",
+        "Arundathi Roy"
+      ],
+      "options": [
+        "Charles Darwin",
+        "Dr. A.P.J. Abdul Kalam",
+        "John Ruskin",
+        "Arundathi Roy"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'Charles Darwin'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Charles Darwin'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Charles Darwin' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Charles Darwin' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Books Authors.",
+      "hintHi": "Books Authors से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_books_authors_564",
+      "q": "Who wrote the book, “Business @ The Speed of Thoughts”?",
+      "questionText": "Who wrote the book, “Business @ The Speed of Thoughts”?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Ian Lancaster Fleming",
+        "Nelson Mandela",
+        "John Ruskin",
+        "Bill Gates"
+      ],
+      "options": [
+        "Ian Lancaster Fleming",
+        "Nelson Mandela",
+        "John Ruskin",
+        "Bill Gates"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is 'Bill Gates'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Bill Gates'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Bill Gates' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Bill Gates' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Books Authors.",
+      "hintHi": "Books Authors से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_books_authors_571",
+      "q": "Who wrote the book, “Oliver Twist”?",
+      "questionText": "Who wrote the book, “Oliver Twist”?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Bill Gates",
+        "Leo Tolstoy",
+        "Charles Dickens",
+        "Rabindranath Tagore"
+      ],
+      "options": [
+        "Bill Gates",
+        "Leo Tolstoy",
+        "Charles Dickens",
+        "Rabindranath Tagore"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'Charles Dickens'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Charles Dickens'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Charles Dickens' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Charles Dickens' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Books Authors.",
+      "hintHi": "Books Authors से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_books_authors_574",
+      "q": "Who wrote the book, “Wake up India”?",
+      "questionText": "Who wrote the book, “Wake up India”?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Former Prime Minister Smt. Indira Gandhi",
+        "Annie Besant",
+        "Rabindranath Tagore",
+        "John Milton"
+      ],
+      "options": [
+        "Former Prime Minister Smt. Indira Gandhi",
+        "Annie Besant",
+        "Rabindranath Tagore",
+        "John Milton"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'Annie Besant'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Annie Besant'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Annie Besant' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Annie Besant' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Books Authors.",
+      "hintHi": "Books Authors से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_books_authors_612",
+      "q": "Who wrote the Book, “Making India Awesome”?",
+      "questionText": "Who wrote the Book, “Making India Awesome”?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Bill Clinton",
+        "Kiran Bedi",
+        "Annie Besant",
+        "Chetan Bhagat"
+      ],
+      "options": [
+        "Bill Clinton",
+        "Kiran Bedi",
+        "Annie Besant",
+        "Chetan Bhagat"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is 'Chetan Bhagat'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Chetan Bhagat'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Chetan Bhagat' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Chetan Bhagat' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Books Authors.",
+      "hintHi": "Books Authors से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_books_authors_614",
+      "q": "Who wrote the book, “A Shot at History”?",
+      "questionText": "Who wrote the book, “A Shot at History”?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Dr. A.P.J. Abdul Kalam",
+        "Chetan Bhagat",
+        "Abhinav Bindra",
+        "Former Prime Minister Smt. Indira Gandhi"
+      ],
+      "options": [
+        "Dr. A.P.J. Abdul Kalam",
+        "Chetan Bhagat",
+        "Abhinav Bindra",
+        "Former Prime Minister Smt. Indira Gandhi"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'Abhinav Bindra'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Abhinav Bindra'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Abhinav Bindra' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Abhinav Bindra' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Books Authors.",
+      "hintHi": "Books Authors से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_books_authors_629",
+      "q": "Who wrote the Book, “My Life”?",
+      "questionText": "Who wrote the Book, “My Life”?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Dr. A.P.J. Abdul Kalam",
+        "P.T. Usha",
+        "Bill Clinton",
+        "Jayakanthan"
+      ],
+      "options": [
+        "Dr. A.P.J. Abdul Kalam",
+        "P.T. Usha",
+        "Bill Clinton",
+        "Jayakanthan"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'Bill Clinton'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Bill Clinton'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Bill Clinton' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Bill Clinton' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Books Authors.",
+      "hintHi": "Books Authors से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_books_authors_634",
+      "q": "Who wrote the Book, “2 States”?",
+      "questionText": "Who wrote the Book, “2 States”?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Annie Besant",
+        "Bill Gates",
+        "Chetan Bhagat",
+        "Leo Tolstoy"
+      ],
+      "options": [
+        "Annie Besant",
+        "Bill Gates",
+        "Chetan Bhagat",
+        "Leo Tolstoy"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'Chetan Bhagat'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Chetan Bhagat'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Chetan Bhagat' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Chetan Bhagat' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Books Authors.",
+      "hintHi": "Books Authors से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_books_authors_892",
+      "q": "Who wrote “Vande Mataram” as the National Song of India?",
+      "questionText": "Who wrote “Vande Mataram” as the National Song of India?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Abhinav Bindra",
+        "Annie Besant",
+        "Bankim Chandra Chatterjee",
+        "Kiran Bedi"
+      ],
+      "options": [
+        "Abhinav Bindra",
+        "Annie Besant",
+        "Bankim Chandra Chatterjee",
+        "Kiran Bedi"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'Bankim Chandra Chatterjee'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Bankim Chandra Chatterjee'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Bankim Chandra Chatterjee' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Bankim Chandra Chatterjee' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Books Authors.",
+      "hintHi": "Books Authors से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_books_authors_1194",
+      "q": "अमंग द बिलिवर्स, इंडिया-ए-मिलियन म्यूटिनिज तथा एन एरिया ऑफ डार्कनेस पुस्तकों के लेखक कौन है",
+      "questionText": "अमंग द बिलिवर्स, इंडिया-ए-मिलियन म्यूटिनिज तथा एन एरिया ऑफ डार्कनेस पुस्तकों के लेखक कौन है",
+      "qHi": "अमंग द बिलिवर्स, इंडिया-ए-मिलियन म्यूटिनिज तथा एन एरिया ऑफ डार्कनेस पुस्तकों के लेखक कौन है",
+      "questionTextHi": "अमंग द बिलिवर्स, इंडिया-ए-मिलियन म्यूटिनिज तथा एन एरिया ऑफ डार्कनेस पुस्तकों के लेखक कौन है",
+      "o": [
+        "ब्लंट",
+        "मैला-आँचल",
+        "अर्नेस्ट हेमिंग्वे",
+        "वी.एस. नायपाल"
+      ],
+      "options": [
+        "ब्लंट",
+        "मैला-आँचल",
+        "अर्नेस्ट हेमिंग्वे",
+        "वी.एस. नायपाल"
+      ],
+      "oHi": [
+        "ब्लंट",
+        "मैला-आँचल",
+        "अर्नेस्ट हेमिंग्वे",
+        "वी.एस. नायपाल"
+      ],
+      "optionsHi": [
+        "ब्लंट",
+        "मैला-आँचल",
+        "अर्नेस्ट हेमिंग्वे",
+        "वी.एस. नायपाल"
+      ],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is 'वी.एस. नायपाल'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'वी.एस. नायपाल'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'वी.एस. नायपाल' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'वी.एस. नायपाल' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Books Authors.",
+      "hintHi": "Books Authors से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_books_authors_1202",
+      "q": "राग-दारबारी, गुनाहों का देवता, मैला-ऑचल और अंधा युग पुस्तकों में से कौन-सी पुस्तक फणीश्वरनाथ 'रेण' द्वारा रचित है",
+      "questionText": "राग-दारबारी, गुनाहों का देवता, मैला-ऑचल और अंधा युग पुस्तकों में से कौन-सी पुस्तक फणीश्वरनाथ 'रेण' द्वारा रचित है",
+      "qHi": "राग-दारबारी, गुनाहों का देवता, मैला-ऑचल और अंधा युग पुस्तकों में से कौन-सी पुस्तक फणीश्वरनाथ 'रेण' द्वारा रचित है",
+      "questionTextHi": "राग-दारबारी, गुनाहों का देवता, मैला-ऑचल और अंधा युग पुस्तकों में से कौन-सी पुस्तक फणीश्वरनाथ 'रेण' द्वारा रचित है",
+      "o": [
+        "डॉ. श्रीकांत जीचकर",
+        "वी.एस. नायपाल",
+        "ब्लंट",
+        "मैला-आँचल"
+      ],
+      "options": [
+        "डॉ. श्रीकांत जीचकर",
+        "वी.एस. नायपाल",
+        "ब्लंट",
+        "मैला-आँचल"
+      ],
+      "oHi": [
+        "डॉ. श्रीकांत जीचकर",
+        "वी.एस. नायपाल",
+        "ब्लंट",
+        "मैला-आँचल"
+      ],
+      "optionsHi": [
+        "डॉ. श्रीकांत जीचकर",
+        "वी.एस. नायपाल",
+        "ब्लंट",
+        "मैला-आँचल"
+      ],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is 'मैला-आँचल'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'मैला-आँचल'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'मैला-आँचल' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'मैला-आँचल' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Books Authors.",
+      "hintHi": "Books Authors से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_books_authors_1229",
+      "q": "'द ओल्ड मैन एण्ड द सी' नामक संक्षिप्त नॉवेल (उपन्यास) के लेखक कौन थे",
+      "questionText": "'द ओल्ड मैन एण्ड द सी' नामक संक्षिप्त नॉवेल (उपन्यास) के लेखक कौन थे",
+      "qHi": "'द ओल्ड मैन एण्ड द सी' नामक संक्षिप्त नॉवेल (उपन्यास) के लेखक कौन थे",
+      "questionTextHi": "'द ओल्ड मैन एण्ड द सी' नामक संक्षिप्त नॉवेल (उपन्यास) के लेखक कौन थे",
+      "o": [
+        "विश्वेश्वरैया",
+        "वी.एस. नायपाल",
+        "मैला-आँचल",
+        "अर्नेस्ट हेमिंग्वे"
+      ],
+      "options": [
+        "विश्वेश्वरैया",
+        "वी.एस. नायपाल",
+        "मैला-आँचल",
+        "अर्नेस्ट हेमिंग्वे"
+      ],
+      "oHi": [
+        "विश्वेश्वरैया",
+        "वी.एस. नायपाल",
+        "मैला-आँचल",
+        "अर्नेस्ट हेमिंग्वे"
+      ],
+      "optionsHi": [
+        "विश्वेश्वरैया",
+        "वी.एस. नायपाल",
+        "मैला-आँचल",
+        "अर्नेस्ट हेमिंग्वे"
+      ],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is 'अर्नेस्ट हेमिंग्वे'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'अर्नेस्ट हेमिंग्वे'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'अर्नेस्ट हेमिंग्वे' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'अर्नेस्ट हेमिंग्वे' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Books Authors.",
+      "hintHi": "Books Authors से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_books_authors_1362",
+      "q": "लिमका रेकॉर्उ पुस्तक के अनुसार भारत का 'सर्वाधिक योग्यता प्राप्त व्यक्ति' कौन है",
+      "questionText": "लिमका रेकॉर्उ पुस्तक के अनुसार भारत का 'सर्वाधिक योग्यता प्राप्त व्यक्ति' कौन है",
+      "qHi": "लिमका रेकॉर्उ पुस्तक के अनुसार भारत का 'सर्वाधिक योग्यता प्राप्त व्यक्ति' कौन है",
+      "questionTextHi": "लिमका रेकॉर्उ पुस्तक के अनुसार भारत का 'सर्वाधिक योग्यता प्राप्त व्यक्ति' कौन है",
+      "o": [
+        "पराग कुलकर्णी",
+        "मैला-आँचल",
+        "ब्लंट",
+        "डॉ. श्रीकांत जीचकर"
+      ],
+      "options": [
+        "पराग कुलकर्णी",
+        "मैला-आँचल",
+        "ब्लंट",
+        "डॉ. श्रीकांत जीचकर"
+      ],
+      "oHi": [
+        "पराग कुलकर्णी",
+        "मैला-आँचल",
+        "ब्लंट",
+        "डॉ. श्रीकांत जीचकर"
+      ],
+      "optionsHi": [
+        "पराग कुलकर्णी",
+        "मैला-आँचल",
+        "ब्लंट",
+        "डॉ. श्रीकांत जीचकर"
+      ],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is 'डॉ. श्रीकांत जीचकर'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'डॉ. श्रीकांत जीचकर'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'डॉ. श्रीकांत जीचकर' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'डॉ. श्रीकांत जीचकर' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Books Authors.",
+      "hintHi": "Books Authors से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_books_authors_1391",
+      "q": "'प्लांड इकोनॉमी फॉर इन्डिया' नामक पुस्तक के लेखक कौन थे",
+      "questionText": "'प्लांड इकोनॉमी फॉर इन्डिया' नामक पुस्तक के लेखक कौन थे",
+      "qHi": "'प्लांड इकोनॉमी फॉर इन्डिया' नामक पुस्तक के लेखक कौन थे",
+      "questionTextHi": "'प्लांड इकोनॉमी फॉर इन्डिया' नामक पुस्तक के लेखक कौन थे",
+      "o": [
+        "अर्नेस्ट हेमिंग्वे",
+        "विश्वेश्वरैया",
+        "पराग कुलकर्णी",
+        "डॉ. श्रीकांत जीचकर"
+      ],
+      "options": [
+        "अर्नेस्ट हेमिंग्वे",
+        "विश्वेश्वरैया",
+        "पराग कुलकर्णी",
+        "डॉ. श्रीकांत जीचकर"
+      ],
+      "oHi": [
+        "अर्नेस्ट हेमिंग्वे",
+        "विश्वेश्वरैया",
+        "पराग कुलकर्णी",
+        "डॉ. श्रीकांत जीचकर"
+      ],
+      "optionsHi": [
+        "अर्नेस्ट हेमिंग्वे",
+        "विश्वेश्वरैया",
+        "पराग कुलकर्णी",
+        "डॉ. श्रीकांत जीचकर"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'विश्वेश्वरैया'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'विश्वेश्वरैया'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'विश्वेश्वरैया' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'विश्वेश्वरैया' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Books Authors.",
+      "hintHi": "Books Authors से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_books_authors_1399",
+      "q": "फंडामेंटल यूनिटी ऑफ इन्डिया' के लेखक कौन हैं",
+      "questionText": "फंडामेंटल यूनिटी ऑफ इन्डिया' के लेखक कौन हैं",
+      "qHi": "फंडामेंटल यूनिटी ऑफ इन्डिया' के लेखक कौन हैं",
+      "questionTextHi": "फंडामेंटल यूनिटी ऑफ इन्डिया' के लेखक कौन हैं",
+      "o": [
+        "विश्वेश्वरैया",
+        "वी.एस. नायपाल",
+        "डॉ. श्रीकांत जीचकर",
+        "राधाकुमुद मुखर्जी"
+      ],
+      "options": [
+        "विश्वेश्वरैया",
+        "वी.एस. नायपाल",
+        "डॉ. श्रीकांत जीचकर",
+        "राधाकुमुद मुखर्जी"
+      ],
+      "oHi": [
+        "विश्वेश्वरैया",
+        "वी.एस. नायपाल",
+        "डॉ. श्रीकांत जीचकर",
+        "राधाकुमुद मुखर्जी"
+      ],
+      "optionsHi": [
+        "विश्वेश्वरैया",
+        "वी.एस. नायपाल",
+        "डॉ. श्रीकांत जीचकर",
+        "राधाकुमुद मुखर्जी"
+      ],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is 'राधाकुमुद मुखर्जी'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'राधाकुमुद मुखर्जी'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'राधाकुमुद मुखर्जी' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'राधाकुमुद मुखर्जी' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Books Authors.",
+      "hintHi": "Books Authors से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_books_authors_1402",
+      "q": "'सोशल सर्विस इन इण्डिया' नामक पुस्तक के लेखक कौन हैं",
+      "questionText": "'सोशल सर्विस इन इण्डिया' नामक पुस्तक के लेखक कौन हैं",
+      "qHi": "'सोशल सर्विस इन इण्डिया' नामक पुस्तक के लेखक कौन हैं",
+      "questionTextHi": "'सोशल सर्विस इन इण्डिया' नामक पुस्तक के लेखक कौन हैं",
+      "o": [
+        "वी.एस. नायपाल",
+        "ब्लंट",
+        "मैला-आँचल",
+        "अर्नेस्ट हेमिंग्वे"
+      ],
+      "options": [
+        "वी.एस. नायपाल",
+        "ब्लंट",
+        "मैला-आँचल",
+        "अर्नेस्ट हेमिंग्वे"
+      ],
+      "oHi": [
+        "वी.एस. नायपाल",
+        "ब्लंट",
+        "मैला-आँचल",
+        "अर्नेस्ट हेमिंग्वे"
+      ],
+      "optionsHi": [
+        "वी.एस. नायपाल",
+        "ब्लंट",
+        "मैला-आँचल",
+        "अर्नेस्ट हेमिंग्वे"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'ब्लंट'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'ब्लंट'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'ब्लंट' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'ब्लंट' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Books Authors.",
+      "hintHi": "Books Authors से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_books_authors_1430",
+      "q": "'नॉलेज इनोवेशन स्ट्रेटेजी' नामक नई पुस्तक के लेखक कौन है",
+      "questionText": "'नॉलेज इनोवेशन स्ट्रेटेजी' नामक नई पुस्तक के लेखक कौन है",
+      "qHi": "'नॉलेज इनोवेशन स्ट्रेटेजी' नामक नई पुस्तक के लेखक कौन है",
+      "questionTextHi": "'नॉलेज इनोवेशन स्ट्रेटेजी' नामक नई पुस्तक के लेखक कौन है",
+      "o": [
+        "अर्नेस्ट हेमिंग्वे",
+        "पराग कुलकर्णी",
+        "डॉ. श्रीकांत जीचकर",
+        "वी.एस. नायपाल"
+      ],
+      "options": [
+        "अर्नेस्ट हेमिंग्वे",
+        "पराग कुलकर्णी",
+        "डॉ. श्रीकांत जीचकर",
+        "वी.एस. नायपाल"
+      ],
+      "oHi": [
+        "अर्नेस्ट हेमिंग्वे",
+        "पराग कुलकर्णी",
+        "डॉ. श्रीकांत जीचकर",
+        "वी.एस. नायपाल"
+      ],
+      "optionsHi": [
+        "अर्नेस्ट हेमिंग्वे",
+        "पराग कुलकर्णी",
+        "डॉ. श्रीकांत जीचकर",
+        "वी.एस. नायपाल"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'पराग कुलकर्णी'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'पराग कुलकर्णी'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'पराग कुलकर्णी' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'पराग कुलकर्णी' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Books Authors.",
+      "hintHi": "Books Authors से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_books_authors_1450",
+      "q": "Who wrote the famous novel “James pond”?",
+      "questionText": "Who wrote the famous novel “James pond”?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Abhinav Bindra",
+        "Ian Lancaster Fleming",
+        "Milkha Singh",
+        "Bill Gates"
+      ],
+      "options": [
+        "Abhinav Bindra",
+        "Ian Lancaster Fleming",
+        "Milkha Singh",
+        "Bill Gates"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'Ian Lancaster Fleming'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Ian Lancaster Fleming'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Ian Lancaster Fleming' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Ian Lancaster Fleming' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Books Authors.",
+      "hintHi": "Books Authors से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_books_authors_1453",
+      "q": "Who wrote the book, “India at risk”?",
+      "questionText": "Who wrote the book, “India at risk”?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Jaswanth Singh",
+        "Former Prime Minister Smt. Indira Gandhi",
+        "Dr.A.P.J. Abdul Kalam",
+        "P.T. Usha"
+      ],
+      "options": [
+        "Jaswanth Singh",
+        "Former Prime Minister Smt. Indira Gandhi",
+        "Dr.A.P.J. Abdul Kalam",
+        "P.T. Usha"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'Jaswanth Singh'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Jaswanth Singh'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Jaswanth Singh' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Jaswanth Singh' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Books Authors.",
+      "hintHi": "Books Authors से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_books_authors_1472",
+      "q": "Who wrote the book, “Paradise lost”?",
+      "questionText": "Who wrote the book, “Paradise lost”?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "John Milton",
+        "Arundathi Roy",
+        "Bill Gates",
+        "Abhinav Bindra"
+      ],
+      "options": [
+        "John Milton",
+        "Arundathi Roy",
+        "Bill Gates",
+        "Abhinav Bindra"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'John Milton'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'John Milton'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'John Milton' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'John Milton' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Books Authors.",
+      "hintHi": "Books Authors से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_books_authors_1497",
+      "q": "Who wrote the Tamil Novel, “Sila Nerangalil Sila Manidhargal”?",
+      "questionText": "Who wrote the Tamil Novel, “Sila Nerangalil Sila Manidhargal”?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Jayakanthan",
+        "Nelson Mandela",
+        "Arundathi Roy",
+        "Annie Besant"
+      ],
+      "options": [
+        "Jayakanthan",
+        "Nelson Mandela",
+        "Arundathi Roy",
+        "Annie Besant"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'Jayakanthan'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Jayakanthan'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Jayakanthan' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Jayakanthan' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Books Authors.",
+      "hintHi": "Books Authors से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_books_authors_1502",
+      "q": "Who wrote the book, “Discovery of India”?",
+      "questionText": "Who wrote the book, “Discovery of India”?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Jaswanth Singh",
+        "Charles Dickens",
+        "Annie Besant",
+        "Pandit Jawaharlal Nehru"
+      ],
+      "options": [
+        "Jaswanth Singh",
+        "Charles Dickens",
+        "Annie Besant",
+        "Pandit Jawaharlal Nehru"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is 'Pandit Jawaharlal Nehru'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Pandit Jawaharlal Nehru'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Pandit Jawaharlal Nehru' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Pandit Jawaharlal Nehru' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Books Authors.",
+      "hintHi": "Books Authors से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_books_authors_1514",
+      "q": "Who wrote the Poem, “The Bird of Time”?",
+      "questionText": "Who wrote the Poem, “The Bird of Time”?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Sarojini Naidu",
+        "Former Prime Minister Smt. Indira Gandhi",
+        "Bankim Chandra Chatterjee",
+        "Chandragupta Maurya"
+      ],
+      "options": [
+        "Sarojini Naidu",
+        "Former Prime Minister Smt. Indira Gandhi",
+        "Bankim Chandra Chatterjee",
+        "Chandragupta Maurya"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'Sarojini Naidu'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Sarojini Naidu'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Sarojini Naidu' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Sarojini Naidu' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Books Authors.",
+      "hintHi": "Books Authors से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_books_authors_1515",
+      "q": "Who wrote the book, “Man- the Maker of His own Destiny”?",
+      "questionText": "Who wrote the book, “Man- the Maker of His own Destiny”?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Arundathi Roy",
+        "Sarojini Naidu",
+        "Chandragupta Maurya",
+        "Swami Vivekananda"
+      ],
+      "options": [
+        "Arundathi Roy",
+        "Sarojini Naidu",
+        "Chandragupta Maurya",
+        "Swami Vivekananda"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is 'Swami Vivekananda'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Swami Vivekananda'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Swami Vivekananda' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Swami Vivekananda' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Books Authors.",
+      "hintHi": "Books Authors से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_books_authors_1532",
+      "q": "Who wrote the book, “Man of Destiny”?",
+      "questionText": "Who wrote the book, “Man of Destiny”?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "William Shakespeare",
+        "Arundathi Roy",
+        "George Bernard Shaw",
+        "Bankim Chandra Chatterjee"
+      ],
+      "options": [
+        "William Shakespeare",
+        "Arundathi Roy",
+        "George Bernard Shaw",
+        "Bankim Chandra Chatterjee"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'George Bernard Shaw'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'George Bernard Shaw'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'George Bernard Shaw' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'George Bernard Shaw' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Books Authors.",
+      "hintHi": "Books Authors से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_books_authors_1551",
+      "q": "Who wrote the book, “As You like it”?",
+      "questionText": "Who wrote the book, “As You like it”?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Arundathi Roy",
+        "William Shakespeare",
+        "Annie Besant",
+        "Maulana Abul Kalam Azad"
+      ],
+      "options": [
+        "Arundathi Roy",
+        "William Shakespeare",
+        "Annie Besant",
+        "Maulana Abul Kalam Azad"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'William Shakespeare'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'William Shakespeare'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'William Shakespeare' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'William Shakespeare' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Books Authors.",
+      "hintHi": "Books Authors से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_books_authors_1552",
+      "q": "Who wrote the book, “Gathering Storm”?",
+      "questionText": "Who wrote the book, “Gathering Storm”?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Winston Churchill",
+        "Helen Keller",
+        "Former American President Ronald Reagon",
+        "Nelson Mandela"
+      ],
+      "options": [
+        "Winston Churchill",
+        "Helen Keller",
+        "Former American President Ronald Reagon",
+        "Nelson Mandela"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'Winston Churchill'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Winston Churchill'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Winston Churchill' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Winston Churchill' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Books Authors.",
+      "hintHi": "Books Authors से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_books_authors_1565",
+      "q": "Who wrote the book, “War and Peace”?",
+      "questionText": "Who wrote the book, “War and Peace”?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Bankim Chandra Chatterjee",
+        "Kiran Bedi",
+        "Jaswanth Singh",
+        "Leo Tolstoy"
+      ],
+      "options": [
+        "Bankim Chandra Chatterjee",
+        "Kiran Bedi",
+        "Jaswanth Singh",
+        "Leo Tolstoy"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is 'Leo Tolstoy'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Leo Tolstoy'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Leo Tolstoy' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Leo Tolstoy' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Books Authors.",
+      "hintHi": "Books Authors से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_books_authors_1575",
+      "q": "Who wrote the book, “The God Father”?",
+      "questionText": "Who wrote the book, “The God Father”?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Mario Puzo",
+        "Former American President Ronald Reagon",
+        "Sarojini Naidu",
+        "P.T. Usha"
+      ],
+      "options": [
+        "Mario Puzo",
+        "Former American President Ronald Reagon",
+        "Sarojini Naidu",
+        "P.T. Usha"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'Mario Puzo'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Mario Puzo'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Mario Puzo' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Mario Puzo' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Books Authors.",
+      "hintHi": "Books Authors से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_books_authors_1592",
+      "q": "Who wrote the book, “Seven Lamps of Architecture”?",
+      "questionText": "Who wrote the book, “Seven Lamps of Architecture”?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Rabindranath Tagore",
+        "Swami Vivekananda",
+        "Nelson Mandela",
+        "John Ruskin"
+      ],
+      "options": [
+        "Rabindranath Tagore",
+        "Swami Vivekananda",
+        "Nelson Mandela",
+        "John Ruskin"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is 'John Ruskin'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'John Ruskin'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'John Ruskin' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'John Ruskin' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Books Authors.",
+      "hintHi": "Books Authors से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_books_authors_1608",
+      "q": "Who wrote the book, “My Truth”?",
+      "questionText": "Who wrote the book, “My Truth”?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Jaswanth Singh",
+        "Former Prime Minister Smt. Indira Gandhi",
+        "Swami Vivekananda",
+        "Rabindranath Tagore"
+      ],
+      "options": [
+        "Jaswanth Singh",
+        "Former Prime Minister Smt. Indira Gandhi",
+        "Swami Vivekananda",
+        "Rabindranath Tagore"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'Former Prime Minister Smt. Indira Gandhi'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Former Prime Minister Smt. Indira Gandhi'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Former Prime Minister Smt. Indira Gandhi' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Former Prime Minister Smt. Indira Gandhi' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Books Authors.",
+      "hintHi": "Books Authors से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_books_authors_1613",
+      "q": "Who wrote the book, “Voice of Conscience”?",
+      "questionText": "Who wrote the book, “Voice of Conscience”?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Former President V.V.Giri",
+        "Kiran Bedi",
+        "Chandragupta Maurya",
+        "Annie Besant"
+      ],
+      "options": [
+        "Former President V.V.Giri",
+        "Kiran Bedi",
+        "Chandragupta Maurya",
+        "Annie Besant"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'Former President V.V.Giri'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Former President V.V.Giri'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Former President V.V.Giri' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Former President V.V.Giri' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Books Authors.",
+      "hintHi": "Books Authors से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_books_authors_1617",
+      "q": "Who wrote the book, “Isabella”?",
+      "questionText": "Who wrote the book, “Isabella”?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Former Prime Minister Smt. Indira Gandhi",
+        "John Keats",
+        "Rabindranath Tagore",
+        "P.T. Usha"
+      ],
+      "options": [
+        "Former Prime Minister Smt. Indira Gandhi",
+        "John Keats",
+        "Rabindranath Tagore",
+        "P.T. Usha"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'John Keats'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'John Keats'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'John Keats' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'John Keats' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Books Authors.",
+      "hintHi": "Books Authors से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_books_authors_1624",
+      "q": "Who wrote the book, “The Conversations with Myself”?",
+      "questionText": "Who wrote the book, “The Conversations with Myself”?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "L.K.Advani",
+        "Nelson Mandela",
+        "P.T. Usha",
+        "Helen Keller"
+      ],
+      "options": [
+        "L.K.Advani",
+        "Nelson Mandela",
+        "P.T. Usha",
+        "Helen Keller"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'Nelson Mandela'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Nelson Mandela'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Nelson Mandela' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Nelson Mandela' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Books Authors.",
+      "hintHi": "Books Authors से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_books_authors_1625",
+      "q": "Who wrote the book, “India wins Freedom”?",
+      "questionText": "Who wrote the book, “India wins Freedom”?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Chandragupta Maurya",
+        "Maulana Abul Kalam Azad",
+        "Former President V.V.Giri",
+        "Former American President Ronald Reagon"
+      ],
+      "options": [
+        "Chandragupta Maurya",
+        "Maulana Abul Kalam Azad",
+        "Former President V.V.Giri",
+        "Former American President Ronald Reagon"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'Maulana Abul Kalam Azad'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Maulana Abul Kalam Azad'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Maulana Abul Kalam Azad' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Maulana Abul Kalam Azad' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Books Authors.",
+      "hintHi": "Books Authors से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_books_authors_1654",
+      "q": "Who wrote the book, “The story of my Life”?",
+      "questionText": "Who wrote the book, “The story of my Life”?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Leo Tolstoy",
+        "Helen Keller",
+        "Swami Vivekananda",
+        "Former President V.V.Giri"
+      ],
+      "options": [
+        "Leo Tolstoy",
+        "Helen Keller",
+        "Swami Vivekananda",
+        "Former President V.V.Giri"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'Helen Keller'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Helen Keller'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Helen Keller' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Helen Keller' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Books Authors.",
+      "hintHi": "Books Authors से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_books_authors_1658",
+      "q": "Who wrote the Book, “My Country My Life”?",
+      "questionText": "Who wrote the Book, “My Country My Life”?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Bill Clinton",
+        "Chetan Bhagat",
+        "L.K.Advani",
+        "Mario Puzo"
+      ],
+      "options": [
+        "Bill Clinton",
+        "Chetan Bhagat",
+        "L.K.Advani",
+        "Mario Puzo"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'L.K.Advani'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'L.K.Advani'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'L.K.Advani' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'L.K.Advani' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Books Authors.",
+      "hintHi": "Books Authors से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_books_authors_1670",
+      "q": "Who wrote the book, “The race of My Life”?",
+      "questionText": "Who wrote the book, “The race of My Life”?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Milkha Singh",
+        "Former Prime Minister Smt. Indira Gandhi",
+        "Rabindranath Tagore",
+        "Swami Vivekananda"
+      ],
+      "options": [
+        "Milkha Singh",
+        "Former Prime Minister Smt. Indira Gandhi",
+        "Rabindranath Tagore",
+        "Swami Vivekananda"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'Milkha Singh'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Milkha Singh'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Milkha Singh' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Milkha Singh' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Books Authors.",
+      "hintHi": "Books Authors से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_books_authors_1674",
+      "q": "Who wrote the book, “Unforgettable Memories”?",
+      "questionText": "Who wrote the book, “Unforgettable Memories”?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Bankim Chandra Chatterjee",
+        "Former American President Ronald Reagon",
+        "West Bengal CM Mamata Banerjee",
+        "P.T. Usha"
+      ],
+      "options": [
+        "Bankim Chandra Chatterjee",
+        "Former American President Ronald Reagon",
+        "West Bengal CM Mamata Banerjee",
+        "P.T. Usha"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'West Bengal CM Mamata Banerjee'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'West Bengal CM Mamata Banerjee'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'West Bengal CM Mamata Banerjee' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'West Bengal CM Mamata Banerjee' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Books Authors.",
+      "hintHi": "Books Authors से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_books_authors_1698",
+      "q": "Who wrote the Book, “Golden Girl”?",
+      "questionText": "Who wrote the Book, “Golden Girl”?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Milkha Singh",
+        "Sarojini Naidu",
+        "P.T. Usha",
+        "Rabindranath Tagore"
+      ],
+      "options": [
+        "Milkha Singh",
+        "Sarojini Naidu",
+        "P.T. Usha",
+        "Rabindranath Tagore"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'P.T. Usha'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'P.T. Usha'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'P.T. Usha' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'P.T. Usha' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Books Authors.",
+      "hintHi": "Books Authors से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_books_authors_1717",
+      "q": "Who wrote the Book, “Unbreakable”?",
+      "questionText": "Who wrote the Book, “Unbreakable”?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Maulana Abul Kalam Azad",
+        "Charles Dickens",
+        "Mary Kom",
+        "Leo Tolstoy"
+      ],
+      "options": [
+        "Maulana Abul Kalam Azad",
+        "Charles Dickens",
+        "Mary Kom",
+        "Leo Tolstoy"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'Mary Kom'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Mary Kom'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Mary Kom' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Mary Kom' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Books Authors.",
+      "hintHi": "Books Authors से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_books_authors_1725",
+      "q": "Who wrote the book, “An American Life”?",
+      "questionText": "Who wrote the book, “An American Life”?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Leo Tolstoy",
+        "Former American President Ronald Reagon",
+        "Swami Vivekananda",
+        "Mario Puzo"
+      ],
+      "options": [
+        "Leo Tolstoy",
+        "Former American President Ronald Reagon",
+        "Swami Vivekananda",
+        "Mario Puzo"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'Former American President Ronald Reagon'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Former American President Ronald Reagon'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Former American President Ronald Reagon' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Former American President Ronald Reagon' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Books Authors.",
+      "hintHi": "Books Authors से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_books_authors_1736",
+      "q": "Who wrote the Book, “It is always Possible”?",
+      "questionText": "Who wrote the Book, “It is always Possible”?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "P.T. Usha",
+        "Dr. A.P.J. Abdul Kalam",
+        "Kiran Bedi",
+        "Annie Besant"
+      ],
+      "options": [
+        "P.T. Usha",
+        "Dr. A.P.J. Abdul Kalam",
+        "Kiran Bedi",
+        "Annie Besant"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'Kiran Bedi'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Kiran Bedi'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Kiran Bedi' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Kiran Bedi' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Books Authors.",
+      "hintHi": "Books Authors से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_books_authors_1754",
+      "q": "Who wrote the Book, “A Confession”?",
+      "questionText": "Who wrote the Book, “A Confession”?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Mary Kom",
+        "West Bengal CM Mamata Banerjee",
+        "Chetan Bhagat",
+        "Leo Tolstoy"
+      ],
+      "options": [
+        "Mary Kom",
+        "West Bengal CM Mamata Banerjee",
+        "Chetan Bhagat",
+        "Leo Tolstoy"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is 'Leo Tolstoy'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Leo Tolstoy'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Leo Tolstoy' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Leo Tolstoy' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Books Authors.",
+      "hintHi": "Books Authors से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_books_authors_1764",
+      "q": "Who wrote the Book, “Dare to Do! For the new Generation”?",
+      "questionText": "Who wrote the Book, “Dare to Do! For the new Generation”?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Kiran Bedi",
+        "Bill Gates",
+        "Rabindranath Tagore",
+        "Bill Clinton"
+      ],
+      "options": [
+        "Kiran Bedi",
+        "Bill Gates",
+        "Rabindranath Tagore",
+        "Bill Clinton"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'Kiran Bedi'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Kiran Bedi'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Kiran Bedi' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Kiran Bedi' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Books Authors.",
+      "hintHi": "Books Authors से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
     }
   ],
-  "questionCount": 17
+  "questionCount": 77
 }

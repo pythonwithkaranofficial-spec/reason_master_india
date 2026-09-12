@@ -426,7 +426,7 @@ export const ALL_STATES_SUMMARY: StateSummaryItem[] = [
     "lastVerified": "2026-01-01",
     "summary": "India's largest state by geographic area (10.4% of country). Home to the Thar Desert, Aravalli Range (world's oldest fold mountains), Hill Forts of Rajasthan (UNESCO), and rich Rajput history.",
     "subtopicCount": 6,
-    "mcqCount": 36
+    "mcqCount": 263
   },
   {
     "id": "sikkim",

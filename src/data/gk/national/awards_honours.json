@@ -626,7 +626,1081 @@
         "CDS",
         "NDA"
       ]
+    },
+    {
+      "id": "gk_ext_awards_honours_318",
+      "q": "Who is known as the Father of Indian Cinema?",
+      "questionText": "Who is known as the Father of Indian Cinema?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Satyajit Ray",
+        "Dadasaheb Phalke",
+        "Sachin Tendulkar",
+        "Major Somanath Sharma"
+      ],
+      "options": [
+        "Satyajit Ray",
+        "Dadasaheb Phalke",
+        "Sachin Tendulkar",
+        "Major Somanath Sharma"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'Dadasaheb Phalke'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Dadasaheb Phalke'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Dadasaheb Phalke' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Dadasaheb Phalke' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Awards Honours.",
+      "hintHi": "Awards Honours से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_awards_honours_373",
+      "q": "Which Indian received the Bharat Ratna in 2024?",
+      "questionText": "Which Indian received the Bharat Ratna in 2024?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "L.K. Advani, Karpoori Thakur",
+        "Maha Vir Chakra, Param Vir Chakra, and Vir Chakra",
+        "Former Prime Minister Mrs. Indira Gandhi",
+        "Padma Vibhushan"
+      ],
+      "options": [
+        "L.K. Advani, Karpoori Thakur",
+        "Maha Vir Chakra, Param Vir Chakra, and Vir Chakra",
+        "Former Prime Minister Mrs. Indira Gandhi",
+        "Padma Vibhushan"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'L.K. Advani, Karpoori Thakur'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'L.K. Advani, Karpoori Thakur'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'L.K. Advani, Karpoori Thakur' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'L.K. Advani, Karpoori Thakur' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Awards Honours.",
+      "hintHi": "Awards Honours से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_awards_honours_516",
+      "q": "Who invented Dynamite?",
+      "questionText": "Who invented Dynamite?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Alfred Nobel",
+        "1954",
+        "Sachin Tendulkar",
+        "Sardar Singh"
+      ],
+      "options": [
+        "Alfred Nobel",
+        "1954",
+        "Sachin Tendulkar",
+        "Sardar Singh"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'Alfred Nobel'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Alfred Nobel'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Alfred Nobel' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Alfred Nobel' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Awards Honours.",
+      "hintHi": "Awards Honours से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_awards_honours_722",
+      "q": "Who were the First Persons to receive the Bharat Ratna Award?",
+      "questionText": "Who were the First Persons to receive the Bharat Ratna Award?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "2014",
+        "1954",
+        "Padma Bhushan",
+        "Sachin Tendulkar"
+      ],
+      "options": [
+        "2014",
+        "1954",
+        "Padma Bhushan",
+        "Sachin Tendulkar"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is '1954'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is '1954'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '1954' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '1954' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Awards Honours.",
+      "hintHi": "Awards Honours से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_awards_honours_862",
+      "q": "Who received the Bharat Ratna Award in 2019?",
+      "questionText": "Who received the Bharat Ratna Award in 2019?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "2014",
+        "In the Year 1969",
+        "Walt Disney",
+        "Verified Answer"
+      ],
+      "options": [
+        "2014",
+        "In the Year 1969",
+        "Walt Disney",
+        "Verified Answer"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is 'Verified Answer'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Verified Answer'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Verified Answer' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Verified Answer' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Awards Honours.",
+      "hintHi": "Awards Honours से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_awards_honours_863",
+      "q": "Who was the First Person from Karnataka to receive the Bharat Ratna Award?",
+      "questionText": "Who was the First Person from Karnataka to receive the Bharat Ratna Award?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Major Somanath Sharma",
+        "Satyajit Ray",
+        "M. Visvesvaraya (1955)",
+        "2010"
+      ],
+      "options": [
+        "Major Somanath Sharma",
+        "Satyajit Ray",
+        "M. Visvesvaraya (1955)",
+        "2010"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'M. Visvesvaraya (1955)'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'M. Visvesvaraya (1955)'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'M. Visvesvaraya (1955)' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'M. Visvesvaraya (1955)' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Awards Honours.",
+      "hintHi": "Awards Honours से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_awards_honours_864",
+      "q": "Who was the First Person from Andhra Pradesh to receive the Bharat Ratna Award?",
+      "questionText": "Who was the First Person from Andhra Pradesh to receive the Bharat Ratna Award?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Padma Vibhushan",
+        "Benichandra Jamatia",
+        "Satyajit Ray",
+        "Sarvepalli Radhakrishnan (1954)"
+      ],
+      "options": [
+        "Padma Vibhushan",
+        "Benichandra Jamatia",
+        "Satyajit Ray",
+        "Sarvepalli Radhakrishnan (1954)"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is 'Sarvepalli Radhakrishnan (1954)'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Sarvepalli Radhakrishnan (1954)'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Sarvepalli Radhakrishnan (1954)' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Sarvepalli Radhakrishnan (1954)' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Awards Honours.",
+      "hintHi": "Awards Honours से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_awards_honours_865",
+      "q": "Which Civilian Award did Mary Kom receive in 2020?",
+      "questionText": "Which Civilian Award did Mary Kom receive in 2020?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Padma Vibhushan",
+        "Satyajit Ray",
+        "Padma Bhushan",
+        "In the Year 1969"
+      ],
+      "options": [
+        "Padma Vibhushan",
+        "Satyajit Ray",
+        "Padma Bhushan",
+        "In the Year 1969"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'Padma Vibhushan'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Padma Vibhushan'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Padma Vibhushan' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Padma Vibhushan' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Awards Honours.",
+      "hintHi": "Awards Honours से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_awards_honours_866",
+      "q": "Who was the First Person from Meghalaya to receive Padma Vibhushan Award?",
+      "questionText": "Who was the First Person from Meghalaya to receive Padma Vibhushan Award?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "2010",
+        "Sarvepalli Radhakrishnan (1954)",
+        "P. A. Sangma (2017)",
+        "Sachin Tendulkar"
+      ],
+      "options": [
+        "2010",
+        "Sarvepalli Radhakrishnan (1954)",
+        "P. A. Sangma (2017)",
+        "Sachin Tendulkar"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'P. A. Sangma (2017)'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'P. A. Sangma (2017)'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'P. A. Sangma (2017)' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'P. A. Sangma (2017)' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Awards Honours.",
+      "hintHi": "Awards Honours से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_awards_honours_867",
+      "q": "When did Sachin Tendulkar receive the Bharat Ratna Award?",
+      "questionText": "When did Sachin Tendulkar receive the Bharat Ratna Award?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Verified Answer",
+        "Satyajit Ray",
+        "Alfred Nobel",
+        "2014"
+      ],
+      "options": [
+        "Verified Answer",
+        "Satyajit Ray",
+        "Alfred Nobel",
+        "2014"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is '2014'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is '2014'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '2014' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '2014' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Awards Honours.",
+      "hintHi": "Awards Honours से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_awards_honours_868",
+      "q": "When did Aamir Khan receive the Padma Bhushan Award?",
+      "questionText": "When did Aamir Khan receive the Padma Bhushan Award?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Verified Answer",
+        "2010",
+        "In the Year 1969",
+        "Major Somanath Sharma"
+      ],
+      "options": [
+        "Verified Answer",
+        "2010",
+        "In the Year 1969",
+        "Major Somanath Sharma"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is '2010'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is '2010'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '2010' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '2010' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Awards Honours.",
+      "hintHi": "Awards Honours से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_awards_honours_869",
+      "q": "Who received the Padma Shri Award from Tripura for Literature and Education?",
+      "questionText": "Who received the Padma Shri Award from Tripura for Literature and Education?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Major Somanath Sharma",
+        "1969",
+        "Benichandra Jamatia",
+        "Alfred Nobel"
+      ],
+      "options": [
+        "Major Somanath Sharma",
+        "1969",
+        "Benichandra Jamatia",
+        "Alfred Nobel"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'Benichandra Jamatia'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Benichandra Jamatia'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Benichandra Jamatia' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Benichandra Jamatia' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Awards Honours.",
+      "hintHi": "Awards Honours से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_awards_honours_872",
+      "q": "Which Award was Lata Mangeshkar Awarded by the Government of India in 1969?",
+      "questionText": "Which Award was Lata Mangeshkar Awarded by the Government of India in 1969?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Padma Bhushan",
+        "1954",
+        "Maha Vir Chakra, Param Vir Chakra, and Vir Chakra",
+        "L.K. Advani, Karpoori Thakur"
+      ],
+      "options": [
+        "Padma Bhushan",
+        "1954",
+        "Maha Vir Chakra, Param Vir Chakra, and Vir Chakra",
+        "L.K. Advani, Karpoori Thakur"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'Padma Bhushan'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Padma Bhushan'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Padma Bhushan' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Padma Bhushan' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Awards Honours.",
+      "hintHi": "Awards Honours से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_awards_honours_876",
+      "q": "Which Awards were added to the Gallantry Awards of India after Indian Independence? Indian Awards With Establishment Date No",
+      "questionText": "Which Awards were added to the Gallantry Awards of India after Indian Independence? Indian Awards With Establishment Date No",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Maha Vir Chakra, Param Vir Chakra, and Vir Chakra",
+        "1954",
+        "Sachin Tendulkar",
+        "Padma Vibhushan"
+      ],
+      "options": [
+        "Maha Vir Chakra, Param Vir Chakra, and Vir Chakra",
+        "1954",
+        "Sachin Tendulkar",
+        "Padma Vibhushan"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Established 1 1952 2 1954 3 Kirti Chakra 1952 4 Maha Vir Chakra 1950 5 Padma Bhushan 1954 6 Padma Vibhushan 1954 7 Padma Shri 1954 8 Param Vir Chakra 1950 No. Established 9 Shaurya Chakra 1952 10 Vir Chakra 1947 List Of Major Awards In India No. 1 2 Padma Awards 3 Sardar Patel National Unity Award Military Awards No. 1 Peacetime Distinguished Service No. 2 Peacetime Gallantry Awards 3 Wartime Distinguished Service 4 Wartime Gallantry Awards 5 Wartime/Peacetime Service Awards National Awards No. 1 Women Nari Shakti Puraskar 2 No. 1 National Bravery Award No. 2 Jeevan Raksha Padak Other Renowned Awards No. 1 Medicine 2 Literature",
+      "explanation": "Established 1 1952 2 1954 3 Kirti Chakra 1952 4 Maha Vir Chakra 1950 5 Padma Bhushan 1954 6 Padma Vibhushan 1954 7 Padma Shri 1954 8 Param Vir Chakra 1950 No. Established 9 Shaurya Chakra 1952 10 Vir Chakra 1947 List Of Major Awards In India No. 1 2 Padma Awards 3 Sardar Patel National Unity Award Military Awards No. 1 Peacetime Distinguished Service No. 2 Peacetime Gallantry Awards 3 Wartime Distinguished Service 4 Wartime Gallantry Awards 5 Wartime/Peacetime Service Awards National Awards No. 1 Women Nari Shakti Puraskar 2 No. 1 National Bravery Award No. 2 Jeevan Raksha Padak Other Renowned Awards No. 1 Medicine 2 Literature",
+      "expHi": "Established 1 1952 2 1954 3 Kirti Chakra 1952 4 Maha Vir Chakra 1950 5 Padma Bhushan 1954 6 Padma Vibhushan 1954 7 Padma Shri 1954 8 Param Vir Chakra 1950 No. Established 9 Shaurya Chakra 1952 10 Vir Chakra 1947 List Of Major Awards In India No. 1 2 Padma Awards 3 Sardar Patel National Unity Award Military Awards No. 1 Peacetime Distinguished Service No. 2 Peacetime Gallantry Awards 3 Wartime Distinguished Service 4 Wartime Gallantry Awards 5 Wartime/Peacetime Service Awards National Awards No. 1 Women Nari Shakti Puraskar 2 No. 1 National Bravery Award No. 2 Jeevan Raksha Padak Other Renowned Awards No. 1 Medicine 2 Literature",
+      "explanationHi": "Established 1 1952 2 1954 3 Kirti Chakra 1952 4 Maha Vir Chakra 1950 5 Padma Bhushan 1954 6 Padma Vibhushan 1954 7 Padma Shri 1954 8 Param Vir Chakra 1950 No. Established 9 Shaurya Chakra 1952 10 Vir Chakra 1947 List Of Major Awards In India No. 1 2 Padma Awards 3 Sardar Patel National Unity Award Military Awards No. 1 Peacetime Distinguished Service No. 2 Peacetime Gallantry Awards 3 Wartime Distinguished Service 4 Wartime Gallantry Awards 5 Wartime/Peacetime Service Awards National Awards No. 1 Women Nari Shakti Puraskar 2 No. 1 National Bravery Award No. 2 Jeevan Raksha Padak Other Renowned Awards No. 1 Medicine 2 Literature",
+      "hint": "Important authentic question from Awards Honours.",
+      "hintHi": "Awards Honours से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_awards_honours_888",
+      "q": "When was Lata Mangeshkar Awarded Padma Bhushan Award?",
+      "questionText": "When was Lata Mangeshkar Awarded Padma Bhushan Award?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "1969",
+        "1954",
+        "In the Year 1969",
+        "Alfred Nobel"
+      ],
+      "options": [
+        "1969",
+        "1954",
+        "In the Year 1969",
+        "Alfred Nobel"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is '1969'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is '1969'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '1969' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '1969' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Awards Honours.",
+      "hintHi": "Awards Honours से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_awards_honours_1055",
+      "q": "Which Awards were added to the Gallantry Awards of India after Indian Independence?",
+      "questionText": "Which Awards were added to the Gallantry Awards of India after Indian Independence?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Padma Bhushan",
+        "1969",
+        "Major Somanath Sharma",
+        "Maha Vir Chakra, Param Vir Chakra, and Vir Chakra"
+      ],
+      "options": [
+        "Padma Bhushan",
+        "1969",
+        "Major Somanath Sharma",
+        "Maha Vir Chakra, Param Vir Chakra, and Vir Chakra"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is 'Maha Vir Chakra, Param Vir Chakra, and Vir Chakra'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Maha Vir Chakra, Param Vir Chakra, and Vir Chakra'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Maha Vir Chakra, Param Vir Chakra, and Vir Chakra' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Maha Vir Chakra, Param Vir Chakra, and Vir Chakra' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Awards Honours.",
+      "hintHi": "Awards Honours से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_awards_honours_1178",
+      "q": "किस देश ने हाल ही में प्रधानमंत्री नरेन्द्र मोदी को अपना सर्वोच्च नागरिक सम्मान 'अमीर अमानुल्लाह खान' पुरस्कार प्रदान किया है",
+      "questionText": "किस देश ने हाल ही में प्रधानमंत्री नरेन्द्र मोदी को अपना सर्वोच्च नागरिक सम्मान 'अमीर अमानुल्लाह खान' पुरस्कार प्रदान किया है",
+      "qHi": "किस देश ने हाल ही में प्रधानमंत्री नरेन्द्र मोदी को अपना सर्वोच्च नागरिक सम्मान 'अमीर अमानुल्लाह खान' पुरस्कार प्रदान किया है",
+      "questionTextHi": "किस देश ने हाल ही में प्रधानमंत्री नरेन्द्र मोदी को अपना सर्वोच्च नागरिक सम्मान 'अमीर अमानुल्लाह खान' पुरस्कार प्रदान किया है",
+      "o": [
+        "अफगानिस्तान",
+        "1952",
+        "पद्म विभूषण",
+        "गंगा"
+      ],
+      "options": [
+        "अफगानिस्तान",
+        "1952",
+        "पद्म विभूषण",
+        "गंगा"
+      ],
+      "oHi": [
+        "अफगानिस्तान",
+        "1952",
+        "पद्म विभूषण",
+        "गंगा"
+      ],
+      "optionsHi": [
+        "अफगानिस्तान",
+        "1952",
+        "पद्म विभूषण",
+        "गंगा"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'अफगानिस्तान'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'अफगानिस्तान'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'अफगानिस्तान' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'अफगानिस्तान' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Awards Honours.",
+      "hintHi": "Awards Honours से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_awards_honours_1210",
+      "q": "मरणोपरांत प्रथम भारत रत्न किंन्हें दिया गया",
+      "questionText": "मरणोपरांत प्रथम भारत रत्न किंन्हें दिया गया",
+      "qHi": "मरणोपरांत प्रथम भारत रत्न किंन्हें दिया गया",
+      "questionTextHi": "मरणोपरांत प्रथम भारत रत्न किंन्हें दिया गया",
+      "o": [
+        "लाल बहादुर शास्त्री",
+        "महात्मा गांधी",
+        "चेन्नई",
+        "भारत रत्न"
+      ],
+      "options": [
+        "लाल बहादुर शास्त्री",
+        "महात्मा गांधी",
+        "चेन्नई",
+        "भारत रत्न"
+      ],
+      "oHi": [
+        "लाल बहादुर शास्त्री",
+        "महात्मा गांधी",
+        "चेन्नई",
+        "भारत रत्न"
+      ],
+      "optionsHi": [
+        "लाल बहादुर शास्त्री",
+        "महात्मा गांधी",
+        "चेन्नई",
+        "भारत रत्न"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'लाल बहादुर शास्त्री'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'लाल बहादुर शास्त्री'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'लाल बहादुर शास्त्री' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'लाल बहादुर शास्त्री' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Awards Honours.",
+      "hintHi": "Awards Honours से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_awards_honours_1414",
+      "q": "हाल ही में किस भारतीय को फ्रांसीसी पुरस्कार 'लीजेन्ड ऑफ प्लेनेट' दिया गया",
+      "questionText": "हाल ही में किस भारतीय को फ्रांसीसी पुरस्कार 'लीजेन्ड ऑफ प्लेनेट' दिया गया",
+      "qHi": "हाल ही में किस भारतीय को फ्रांसीसी पुरस्कार 'लीजेन्ड ऑफ प्लेनेट' दिया गया",
+      "questionTextHi": "हाल ही में किस भारतीय को फ्रांसीसी पुरस्कार 'लीजेन्ड ऑफ प्लेनेट' दिया गया",
+      "o": [
+        "मुंशी प्रेमचंद",
+        "कोलकाता",
+        "गोदावरी",
+        "बिन्देश्वरी पाठक"
+      ],
+      "options": [
+        "मुंशी प्रेमचंद",
+        "कोलकाता",
+        "गोदावरी",
+        "बिन्देश्वरी पाठक"
+      ],
+      "oHi": [
+        "मुंशी प्रेमचंद",
+        "कोलकाता",
+        "गोदावरी",
+        "बिन्देश्वरी पाठक"
+      ],
+      "optionsHi": [
+        "मुंशी प्रेमचंद",
+        "कोलकाता",
+        "गोदावरी",
+        "बिन्देश्वरी पाठक"
+      ],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is 'बिन्देश्वरी पाठक'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'बिन्देश्वरी पाठक'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'बिन्देश्वरी पाठक' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'बिन्देश्वरी पाठक' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Awards Honours.",
+      "hintHi": "Awards Honours से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_awards_honours_1451",
+      "q": "Who won Oscar award for 36 times?",
+      "questionText": "Who won Oscar award for 36 times?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Walt Disney",
+        "Padma Bhushan",
+        "Dadasaheb Phalke",
+        "Sarvepalli Radhakrishnan (1954)"
+      ],
+      "options": [
+        "Walt Disney",
+        "Padma Bhushan",
+        "Dadasaheb Phalke",
+        "Sarvepalli Radhakrishnan (1954)"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'Walt Disney'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Walt Disney'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Walt Disney' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Walt Disney' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Awards Honours.",
+      "hintHi": "Awards Honours से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_awards_honours_1492",
+      "q": "Who was the first woman to receive Bharat Ratna?",
+      "questionText": "Who was the first woman to receive Bharat Ratna?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Verified Answer",
+        "Satyajit Ray",
+        "2010",
+        "Former Prime Minister Mrs. Indira Gandhi"
+      ],
+      "options": [
+        "Verified Answer",
+        "Satyajit Ray",
+        "2010",
+        "Former Prime Minister Mrs. Indira Gandhi"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is 'Former Prime Minister Mrs. Indira Gandhi'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Former Prime Minister Mrs. Indira Gandhi'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Former Prime Minister Mrs. Indira Gandhi' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Former Prime Minister Mrs. Indira Gandhi' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Awards Honours.",
+      "hintHi": "Awards Honours से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_awards_honours_1638",
+      "q": "Who was the first Recipient of Param Vir Chakra?",
+      "questionText": "Who was the first Recipient of Param Vir Chakra?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Major Somanath Sharma",
+        "Sardar Singh",
+        "2014",
+        "Former Prime Minister Mrs. Indira Gandhi"
+      ],
+      "options": [
+        "Major Somanath Sharma",
+        "Sardar Singh",
+        "2014",
+        "Former Prime Minister Mrs. Indira Gandhi"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'Major Somanath Sharma'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Major Somanath Sharma'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Major Somanath Sharma' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Major Somanath Sharma' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Awards Honours.",
+      "hintHi": "Awards Honours से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_awards_honours_1647",
+      "q": "In Which Year, Dadasaheb Phalke Award Instituted?",
+      "questionText": "In Which Year, Dadasaheb Phalke Award Instituted?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Sarvepalli Radhakrishnan (1954)",
+        "In the Year 1969",
+        "Major Somanath Sharma",
+        "Alfred Nobel"
+      ],
+      "options": [
+        "Sarvepalli Radhakrishnan (1954)",
+        "In the Year 1969",
+        "Major Somanath Sharma",
+        "Alfred Nobel"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'In the Year 1969'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'In the Year 1969'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'In the Year 1969' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'In the Year 1969' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Awards Honours.",
+      "hintHi": "Awards Honours से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_awards_honours_1663",
+      "q": "Who won 2017 Rajiv Gandhi khel Ratna Award for Hockey?",
+      "questionText": "Who won 2017 Rajiv Gandhi khel Ratna Award for Hockey?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Alfred Nobel",
+        "Sardar Singh",
+        "2014",
+        "2010"
+      ],
+      "options": [
+        "Alfred Nobel",
+        "Sardar Singh",
+        "2014",
+        "2010"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'Sardar Singh'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Sardar Singh'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Sardar Singh' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Sardar Singh' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Awards Honours.",
+      "hintHi": "Awards Honours से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_awards_honours_1689",
+      "q": "Who is the Youngest Recipient of Bharat Ratna Award?",
+      "questionText": "Who is the Youngest Recipient of Bharat Ratna Award?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "L.K. Advani, Karpoori Thakur",
+        "Sachin Tendulkar",
+        "Sarvepalli Radhakrishnan (1954)",
+        "Major Somanath Sharma"
+      ],
+      "options": [
+        "L.K. Advani, Karpoori Thakur",
+        "Sachin Tendulkar",
+        "Sarvepalli Radhakrishnan (1954)",
+        "Major Somanath Sharma"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'Sachin Tendulkar'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Sachin Tendulkar'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Sachin Tendulkar' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Sachin Tendulkar' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Awards Honours.",
+      "hintHi": "Awards Honours से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_awards_honours_1696",
+      "q": "Who is the first Indian to win an Oscar for Lifetime Achievement?",
+      "questionText": "Who is the first Indian to win an Oscar for Lifetime Achievement?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Satyajit Ray",
+        "2010",
+        "Former Prime Minister Mrs. Indira Gandhi",
+        "1954"
+      ],
+      "options": [
+        "Satyajit Ray",
+        "2010",
+        "Former Prime Minister Mrs. Indira Gandhi",
+        "1954"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'Satyajit Ray'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Satyajit Ray'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Satyajit Ray' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Satyajit Ray' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Awards Honours.",
+      "hintHi": "Awards Honours से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_awards_honours_1788",
+      "q": "Who received the Padma Shri Award from Tripura for Literature and",
+      "questionText": "Who received the Padma Shri Award from Tripura for Literature and",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Verified Answer",
+        "Former Prime Minister Mrs. Indira Gandhi",
+        "Benichandra Jamatia",
+        "Alfred Nobel"
+      ],
+      "options": [
+        "Verified Answer",
+        "Former Prime Minister Mrs. Indira Gandhi",
+        "Benichandra Jamatia",
+        "Alfred Nobel"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'Benichandra Jamatia'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Benichandra Jamatia'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Benichandra Jamatia' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Benichandra Jamatia' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Awards Honours.",
+      "hintHi": "Awards Honours से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_awards_honours_1789",
+      "q": "Which Award was Lata Mangeshkar Awarded by the Government of",
+      "questionText": "Which Award was Lata Mangeshkar Awarded by the Government of",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Alfred Nobel",
+        "Padma Bhushan",
+        "Satyajit Ray",
+        "L.K. Advani, Karpoori Thakur"
+      ],
+      "options": [
+        "Alfred Nobel",
+        "Padma Bhushan",
+        "Satyajit Ray",
+        "L.K. Advani, Karpoori Thakur"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'Padma Bhushan'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Padma Bhushan'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Padma Bhushan' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Padma Bhushan' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Awards Honours.",
+      "hintHi": "Awards Honours से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_awards_honours_1790",
+      "q": "Which Awards were added to the Gallantry Awards of India after Indian",
+      "questionText": "Which Awards were added to the Gallantry Awards of India after Indian",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Maha Vir Chakra, Param Vir Chakra, and Vir Chakra",
+        "Satyajit Ray",
+        "Dadasaheb Phalke",
+        "In the Year 1969"
+      ],
+      "options": [
+        "Maha Vir Chakra, Param Vir Chakra, and Vir Chakra",
+        "Satyajit Ray",
+        "Dadasaheb Phalke",
+        "In the Year 1969"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'Maha Vir Chakra, Param Vir Chakra, and Vir Chakra'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Maha Vir Chakra, Param Vir Chakra, and Vir Chakra'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Maha Vir Chakra, Param Vir Chakra, and Vir Chakra' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Maha Vir Chakra, Param Vir Chakra, and Vir Chakra' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Awards Honours.",
+      "hintHi": "Awards Honours से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
     }
   ],
-  "questionCount": 10
+  "questionCount": 42
 }

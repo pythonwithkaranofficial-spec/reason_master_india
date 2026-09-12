@@ -262,7 +262,79 @@
         "Banking",
         "Railways"
       ]
+    },
+    {
+      "id": "gk_ext_world_history_1902",
+      "q": "Who wrote the book, “Memories of II World War”?",
+      "questionText": "Who wrote the book, “Memories of II World War”?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "BARC",
+        "Winston Churchill",
+        "NASA",
+        "Ganga"
+      ],
+      "options": [
+        "BARC",
+        "Winston Churchill",
+        "NASA",
+        "Ganga"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'Winston Churchill'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Winston Churchill'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Winston Churchill' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Winston Churchill' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from World History.",
+      "hintHi": "World History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_world_history_1926",
+      "q": "Name the Atom Bomb dropped on Nagasaki during II World War",
+      "questionText": "Name the Atom Bomb dropped on Nagasaki during II World War",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Brahmaputra",
+        "Fat Man",
+        "1962",
+        "Aryabhata"
+      ],
+      "options": [
+        "Brahmaputra",
+        "Fat Man",
+        "1962",
+        "Aryabhata"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'Fat Man'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Fat Man'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Fat Man' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Fat Man' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from World History.",
+      "hintHi": "World History से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
     }
   ],
-  "questionCount": 2
+  "questionCount": 7
 }

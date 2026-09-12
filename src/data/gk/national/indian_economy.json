@@ -442,7 +442,3443 @@
         "Banking",
         "RRB"
       ]
+    },
+    {
+      "id": "gk_ext_indian_economy_158",
+      "q": "Mathura, Agra, Delhi, and Allahabad city are situated on the bank of which river?",
+      "questionText": "Mathura, Agra, Delhi, and Allahabad city are situated on the bank of which river?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Yamuna River",
+        "Small Industries Development Bank of India",
+        "D. Udaya Kumar",
+        "1935"
+      ],
+      "options": [
+        "Yamuna River",
+        "Small Industries Development Bank of India",
+        "D. Udaya Kumar",
+        "1935"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'Yamuna River'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Yamuna River'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Yamuna River' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Yamuna River' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Economy.",
+      "hintHi": "Indian Economy से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_economy_197",
+      "q": "What is the currency of India?",
+      "questionText": "What is the currency of India?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Yamuna River",
+        "Bankim Chandra Chatterji",
+        "Small Industries Development Bank of India",
+        "Indian Rupee"
+      ],
+      "options": [
+        "Yamuna River",
+        "Bankim Chandra Chatterji",
+        "Small Industries Development Bank of India",
+        "Indian Rupee"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is 'Indian Rupee'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Indian Rupee'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Indian Rupee' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Indian Rupee' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Economy.",
+      "hintHi": "Indian Economy से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_economy_442",
+      "q": "ब्रह्मपुत्र नदी किस देश से भारत में प्रवेश करती है?",
+      "questionText": "ब्रह्मपुत्र नदी किस देश से भारत में प्रवेश करती है?",
+      "qHi": "ब्रह्मपुत्र नदी किस देश से भारत में प्रवेश करती है?",
+      "questionTextHi": "ब्रह्मपुत्र नदी किस देश से भारत में प्रवेश करती है?",
+      "o": [
+        "नेपाल",
+        "भूटान",
+        "चीन",
+        "म्यांमार"
+      ],
+      "options": [
+        "नेपाल",
+        "भूटान",
+        "चीन",
+        "म्यांमार"
+      ],
+      "oHi": [
+        "नेपाल",
+        "भूटान",
+        "चीन",
+        "म्यांमार"
+      ],
+      "optionsHi": [
+        "नेपाल",
+        "भूटान",
+        "चीन",
+        "म्यांमार"
+      ],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Science & Current Affairs (61-80)",
+      "explanation": "Science & Current Affairs (61-80)",
+      "expHi": "Science & Current Affairs (61-80)",
+      "explanationHi": "Science & Current Affairs (61-80)",
+      "hint": "Important authentic question from Indian Economy.",
+      "hintHi": "Indian Economy से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_economy_461",
+      "q": "RBI का मुख्यालय कहाँ स्थित है?",
+      "questionText": "RBI का मुख्यालय कहाँ स्थित है?",
+      "qHi": "RBI का मुख्यालय कहाँ स्थित है?",
+      "questionTextHi": "RBI का मुख्यालय कहाँ स्थित है?",
+      "o": [
+        "नई दिल्ली",
+        "मुंबई",
+        "चेन्नई",
+        "कोलकाता"
+      ],
+      "options": [
+        "नई दिल्ली",
+        "मुंबई",
+        "चेन्नई",
+        "कोलकाता"
+      ],
+      "oHi": [
+        "नई दिल्ली",
+        "मुंबई",
+        "चेन्नई",
+        "कोलकाता"
+      ],
+      "optionsHi": [
+        "नई दिल्ली",
+        "मुंबई",
+        "चेन्नई",
+        "कोलकाता"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'मुंबई'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'मुंबई'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'मुंबई' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'मुंबई' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Economy.",
+      "hintHi": "Indian Economy से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_economy_465",
+      "q": "RBI की स्थापना कब हुई?",
+      "questionText": "RBI की स्थापना कब हुई?",
+      "qHi": "RBI की स्थापना कब हुई?",
+      "questionTextHi": "RBI की स्थापना कब हुई?",
+      "o": [
+        "1935",
+        "1947",
+        "1950",
+        "1960"
+      ],
+      "options": [
+        "1935",
+        "1947",
+        "1950",
+        "1960"
+      ],
+      "oHi": [
+        "1935",
+        "1947",
+        "1950",
+        "1960"
+      ],
+      "optionsHi": [
+        "1935",
+        "1947",
+        "1950",
+        "1960"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is '1935'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is '1935'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '1935' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '1935' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Economy.",
+      "hintHi": "Indian Economy से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_economy_473",
+      "q": "भारत का सबसे बड़ा सार्वजनिक क्षेत्र का बैंक कौन सा है?",
+      "questionText": "भारत का सबसे बड़ा सार्वजनिक क्षेत्र का बैंक कौन सा है?",
+      "qHi": "भारत का सबसे बड़ा सार्वजनिक क्षेत्र का बैंक कौन सा है?",
+      "questionTextHi": "भारत का सबसे बड़ा सार्वजनिक क्षेत्र का बैंक कौन सा है?",
+      "o": [
+        "PNB",
+        "SBI",
+        "BOB",
+        "Canara Bank"
+      ],
+      "options": [
+        "PNB",
+        "SBI",
+        "BOB",
+        "Canara Bank"
+      ],
+      "oHi": [
+        "PNB",
+        "SBI",
+        "BOB",
+        "Canara Bank"
+      ],
+      "optionsHi": [
+        "PNB",
+        "SBI",
+        "BOB",
+        "Canara Bank"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'SBI'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'SBI'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'SBI' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'SBI' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Economy.",
+      "hintHi": "Indian Economy से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_economy_474",
+      "q": "भारत में योजना आयोग की स्थापना कब हुई?",
+      "questionText": "भारत में योजना आयोग की स्थापना कब हुई?",
+      "qHi": "भारत में योजना आयोग की स्थापना कब हुई?",
+      "questionTextHi": "भारत में योजना आयोग की स्थापना कब हुई?",
+      "o": [
+        "1947",
+        "1950",
+        "1952",
+        "1960"
+      ],
+      "options": [
+        "1947",
+        "1950",
+        "1952",
+        "1960"
+      ],
+      "oHi": [
+        "1947",
+        "1950",
+        "1952",
+        "1960"
+      ],
+      "optionsHi": [
+        "1947",
+        "1950",
+        "1952",
+        "1960"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is '1950'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is '1950'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '1950' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '1950' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Economy.",
+      "hintHi": "Indian Economy से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_economy_509",
+      "q": "RBI was established in which year?",
+      "questionText": "RBI was established in which year?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "D. Udaya Kumar",
+        "Securities and Exchange board of India",
+        "Yamuna River",
+        "1935"
+      ],
+      "options": [
+        "D. Udaya Kumar",
+        "Securities and Exchange board of India",
+        "Yamuna River",
+        "1935"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is '1935'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is '1935'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '1935' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '1935' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Economy.",
+      "hintHi": "Indian Economy से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_economy_510",
+      "q": "GST implemented in India in which year?",
+      "questionText": "GST implemented in India in which year?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "France",
+        "M. O. Hasan Farook Maricar",
+        "1st February 2020",
+        "2017"
+      ],
+      "options": [
+        "France",
+        "M. O. Hasan Farook Maricar",
+        "1st February 2020",
+        "2017"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is '2017'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is '2017'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '2017' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '2017' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Economy.",
+      "hintHi": "Indian Economy से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_economy_514",
+      "q": "Who established the first Blood Bank?",
+      "questionText": "Who established the first Blood Bank?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "2017",
+        "15th July 2010",
+        "Mangalyaan",
+        "Bernard Fantus"
+      ],
+      "options": [
+        "2017",
+        "15th July 2010",
+        "Mangalyaan",
+        "Bernard Fantus"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is 'Bernard Fantus'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Bernard Fantus'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Bernard Fantus' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Bernard Fantus' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Economy.",
+      "hintHi": "Indian Economy से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_economy_530",
+      "q": "Who composed the National song of India “Vande Matram”?",
+      "questionText": "Who composed the National song of India “Vande Matram”?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Bernard Fantus",
+        "Bankim Chandra Chatterji",
+        "Finance Minister Arun Jaitley",
+        "M. O. Hasan Farook Maricar"
+      ],
+      "options": [
+        "Bernard Fantus",
+        "Bankim Chandra Chatterji",
+        "Finance Minister Arun Jaitley",
+        "M. O. Hasan Farook Maricar"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'Bankim Chandra Chatterji'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Bankim Chandra Chatterji'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Bankim Chandra Chatterji' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Bankim Chandra Chatterji' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Economy.",
+      "hintHi": "Indian Economy से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_economy_602",
+      "q": "What is the expansion of CBDT?",
+      "questionText": "What is the expansion of CBDT?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "France",
+        "Bankim Chandra Chatterji",
+        "State’s Share of Taxes and Duties",
+        "Central Board of Direct Taxes"
+      ],
+      "options": [
+        "France",
+        "Bankim Chandra Chatterji",
+        "State’s Share of Taxes and Duties",
+        "Central Board of Direct Taxes"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is 'Central Board of Direct Taxes'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Central Board of Direct Taxes'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Central Board of Direct Taxes' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Central Board of Direct Taxes' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Economy.",
+      "hintHi": "Indian Economy से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_economy_751",
+      "q": "What is the Ful Form of RBI?",
+      "questionText": "What is the Ful Form of RBI?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "2017",
+        "Reserve Bank of India",
+        "Small Industries Development Bank of India",
+        "Yamuna River"
+      ],
+      "options": [
+        "2017",
+        "Reserve Bank of India",
+        "Small Industries Development Bank of India",
+        "Yamuna River"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'Reserve Bank of India'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Reserve Bank of India'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Reserve Bank of India' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Reserve Bank of India' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Economy.",
+      "hintHi": "Indian Economy से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_economy_752",
+      "q": "Where is the Headquarters of the Reserve Bank of India?",
+      "questionText": "Where is the Headquarters of the Reserve Bank of India?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "2017",
+        "France",
+        "State’s Share of Taxes and Duties",
+        "Mumbai"
+      ],
+      "options": [
+        "2017",
+        "France",
+        "State’s Share of Taxes and Duties",
+        "Mumbai"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is 'Mumbai'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Mumbai'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Mumbai' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Mumbai' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Economy.",
+      "hintHi": "Indian Economy से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_economy_753",
+      "q": "When was the Indian Rupee Sign ₹ adopted by the Government of India?",
+      "questionText": "When was the Indian Rupee Sign ₹ adopted by the Government of India?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Increasing Trend",
+        "Lhasa in Tibet",
+        "15th July 2010",
+        "D. Udaya Kumar"
+      ],
+      "options": [
+        "Increasing Trend",
+        "Lhasa in Tibet",
+        "15th July 2010",
+        "D. Udaya Kumar"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is '15th July 2010'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is '15th July 2010'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '15th July 2010' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '15th July 2010' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Economy.",
+      "hintHi": "Indian Economy से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_economy_754",
+      "q": "Who designed the Indian Rupee “₹” Sign?",
+      "questionText": "Who designed the Indian Rupee “₹” Sign?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Yamuna River",
+        "Morarji Desai",
+        "D. Udaya Kumar",
+        "Bernard Fantus"
+      ],
+      "options": [
+        "Yamuna River",
+        "Morarji Desai",
+        "D. Udaya Kumar",
+        "Bernard Fantus"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'D. Udaya Kumar'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'D. Udaya Kumar'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'D. Udaya Kumar' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'D. Udaya Kumar' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Economy.",
+      "hintHi": "Indian Economy से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_economy_758",
+      "q": "What is the Largest item of Expenditure in the Union Budget 2020-21?",
+      "questionText": "What is the Largest item of Expenditure in the Union Budget 2020-21?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Small Industries Development Bank of India",
+        "State’s Share of Taxes and Duties",
+        "Mumbai",
+        "1935"
+      ],
+      "options": [
+        "Small Industries Development Bank of India",
+        "State’s Share of Taxes and Duties",
+        "Mumbai",
+        "1935"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'State’s Share of Taxes and Duties'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'State’s Share of Taxes and Duties'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'State’s Share of Taxes and Duties' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'State’s Share of Taxes and Duties' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Economy.",
+      "hintHi": "Indian Economy से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_economy_759",
+      "q": "When was the Union Budget for FY 2020-21 announced?",
+      "questionText": "When was the Union Budget for FY 2020-21 announced?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "1st February 2020",
+        "Mumbai",
+        "France",
+        "Increasing Trend"
+      ],
+      "options": [
+        "1st February 2020",
+        "Mumbai",
+        "France",
+        "Increasing Trend"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is '1st February 2020'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is '1st February 2020'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '1st February 2020' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '1st February 2020' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Economy.",
+      "hintHi": "Indian Economy से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_economy_763",
+      "q": "Who presented the Union Budget of India the Maximum Number of times?",
+      "questionText": "Who presented the Union Budget of India the Maximum Number of times?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Morarji Desai",
+        "Securities and Exchange board of India",
+        "1st February 2020",
+        "M. O. Hasan Farook Maricar"
+      ],
+      "options": [
+        "Morarji Desai",
+        "Securities and Exchange board of India",
+        "1st February 2020",
+        "M. O. Hasan Farook Maricar"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'Morarji Desai'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Morarji Desai'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Morarji Desai' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Morarji Desai' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Economy.",
+      "hintHi": "Indian Economy से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_economy_764",
+      "q": "What is the Term for the Rate at which the Reserve Bank of India lends money to Commercial Banks?",
+      "questionText": "What is the Term for the Rate at which the Reserve Bank of India lends money to Commercial Banks?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Repo Rate",
+        "Lhasa in Tibet",
+        "2017",
+        "Mumbai"
+      ],
+      "options": [
+        "Repo Rate",
+        "Lhasa in Tibet",
+        "2017",
+        "Mumbai"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'Repo Rate'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Repo Rate'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Repo Rate' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Repo Rate' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Economy.",
+      "hintHi": "Indian Economy से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_economy_769",
+      "q": "What is the Trend for the Pricing of the Bank Products in an Inflationary Trend?",
+      "questionText": "What is the Trend for the Pricing of the Bank Products in an Inflationary Trend?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Increasing Trend",
+        "Central Board of Direct Taxes",
+        "Bankim Chandra Chatterji",
+        "Small Industries Development Bank of India"
+      ],
+      "options": [
+        "Increasing Trend",
+        "Central Board of Direct Taxes",
+        "Bankim Chandra Chatterji",
+        "Small Industries Development Bank of India"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'Increasing Trend'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Increasing Trend'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Increasing Trend' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Increasing Trend' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Economy.",
+      "hintHi": "Indian Economy से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_economy_1003",
+      "q": "RBI का मुख्यालय कहाँ स्थित है?",
+      "questionText": "RBI का मुख्यालय कहाँ स्थित है?",
+      "qHi": "RBI का मुख्यालय कहाँ स्थित है?",
+      "questionTextHi": "RBI का मुख्यालय कहाँ स्थित है?",
+      "o": [
+        "नई दिल्ली",
+        "मुंबई",
+        "चेन्नई",
+        "कोलकाता"
+      ],
+      "options": [
+        "नई दिल्ली",
+        "मुंबई",
+        "चेन्नई",
+        "कोलकाता"
+      ],
+      "oHi": [
+        "नई दिल्ली",
+        "मुंबई",
+        "चेन्नई",
+        "कोलकाता"
+      ],
+      "optionsHi": [
+        "नई दिल्ली",
+        "मुंबई",
+        "चेन्नई",
+        "कोलकाता"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'मुंबई'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'मुंबई'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'मुंबई' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'मुंबई' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Economy.",
+      "hintHi": "Indian Economy से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_economy_1007",
+      "q": "RBI की स्थापना कब हुई?",
+      "questionText": "RBI की स्थापना कब हुई?",
+      "qHi": "RBI की स्थापना कब हुई?",
+      "questionTextHi": "RBI की स्थापना कब हुई?",
+      "o": [
+        "1935",
+        "1947",
+        "1950",
+        "1960"
+      ],
+      "options": [
+        "1935",
+        "1947",
+        "1950",
+        "1960"
+      ],
+      "oHi": [
+        "1935",
+        "1947",
+        "1950",
+        "1960"
+      ],
+      "optionsHi": [
+        "1935",
+        "1947",
+        "1950",
+        "1960"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is '1935'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is '1935'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '1935' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '1935' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Economy.",
+      "hintHi": "Indian Economy से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_economy_1016",
+      "q": "भारत का सबसे बड़ा सार्वजनिक क्षेत्र का बैंक कौन सा है?",
+      "questionText": "भारत का सबसे बड़ा सार्वजनिक क्षेत्र का बैंक कौन सा है?",
+      "qHi": "भारत का सबसे बड़ा सार्वजनिक क्षेत्र का बैंक कौन सा है?",
+      "questionTextHi": "भारत का सबसे बड़ा सार्वजनिक क्षेत्र का बैंक कौन सा है?",
+      "o": [
+        "PNB",
+        "SBI",
+        "BOB",
+        "Canara Bank"
+      ],
+      "options": [
+        "PNB",
+        "SBI",
+        "BOB",
+        "Canara Bank"
+      ],
+      "oHi": [
+        "PNB",
+        "SBI",
+        "BOB",
+        "Canara Bank"
+      ],
+      "optionsHi": [
+        "PNB",
+        "SBI",
+        "BOB",
+        "Canara Bank"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'SBI'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'SBI'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'SBI' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'SBI' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Economy.",
+      "hintHi": "Indian Economy से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_economy_1017",
+      "q": "भारत में योजना आयोग की स्थापना कब हुई?",
+      "questionText": "भारत में योजना आयोग की स्थापना कब हुई?",
+      "qHi": "भारत में योजना आयोग की स्थापना कब हुई?",
+      "questionTextHi": "भारत में योजना आयोग की स्थापना कब हुई?",
+      "o": [
+        "1947",
+        "1950",
+        "1952",
+        "1960"
+      ],
+      "options": [
+        "1947",
+        "1950",
+        "1952",
+        "1960"
+      ],
+      "oHi": [
+        "1947",
+        "1950",
+        "1952",
+        "1960"
+      ],
+      "optionsHi": [
+        "1947",
+        "1950",
+        "1952",
+        "1960"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is '1950'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is '1950'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '1950' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '1950' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Economy.",
+      "hintHi": "Indian Economy से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_economy_1023",
+      "q": "Who was the Composer of Vande Mataram?",
+      "questionText": "Who was the Composer of Vande Mataram?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "D. Udaya Kumar",
+        "M. O. Hasan Farook Maricar",
+        "Bankim Chandra Chatterjee",
+        "15th July 2010"
+      ],
+      "options": [
+        "D. Udaya Kumar",
+        "M. O. Hasan Farook Maricar",
+        "Bankim Chandra Chatterjee",
+        "15th July 2010"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'Bankim Chandra Chatterjee'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Bankim Chandra Chatterjee'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Bankim Chandra Chatterjee' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Bankim Chandra Chatterjee' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Economy.",
+      "hintHi": "Indian Economy से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_economy_1025",
+      "q": "Who holds the Record for the Youngest Chief Minister amongst all Union Territories of India?",
+      "questionText": "Who holds the Record for the Youngest Chief Minister amongst all Union Territories of India?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Morarji Desai",
+        "M. O. Hasan Farook Maricar",
+        "Small Industries Development Bank of India",
+        "Reserve Bank of India"
+      ],
+      "options": [
+        "Morarji Desai",
+        "M. O. Hasan Farook Maricar",
+        "Small Industries Development Bank of India",
+        "Reserve Bank of India"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'M. O. Hasan Farook Maricar'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'M. O. Hasan Farook Maricar'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'M. O. Hasan Farook Maricar' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'M. O. Hasan Farook Maricar' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Economy.",
+      "hintHi": "Indian Economy से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_economy_1039",
+      "q": "Who controls the Issuance of the Currency in India?",
+      "questionText": "Who controls the Issuance of the Currency in India?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Reserve Bank of India",
+        "1935",
+        "Mumbai",
+        "Finance Minister Arun Jaitley"
+      ],
+      "options": [
+        "Reserve Bank of India",
+        "1935",
+        "Mumbai",
+        "Finance Minister Arun Jaitley"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'Reserve Bank of India'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Reserve Bank of India'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Reserve Bank of India' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Reserve Bank of India' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Economy.",
+      "hintHi": "Indian Economy से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_economy_1074",
+      "q": "भूतापीय ऊर्जा पर आधारित मणिकरण विद्युत संयंत्र किस राज्य में अवस्थित है",
+      "questionText": "भूतापीय ऊर्जा पर आधारित मणिकरण विद्युत संयंत्र किस राज्य में अवस्थित है",
+      "qHi": "भूतापीय ऊर्जा पर आधारित मणिकरण विद्युत संयंत्र किस राज्य में अवस्थित है",
+      "questionTextHi": "भूतापीय ऊर्जा पर आधारित मणिकरण विद्युत संयंत्र किस राज्य में अवस्थित है",
+      "o": [
+        "मध्य प्रदेश",
+        "हिमाचल प्रदेश",
+        "दक्षिण-पश्चिमी व्यापारिक हवाओं का प्रवाह",
+        "बाघ"
+      ],
+      "options": [
+        "मध्य प्रदेश",
+        "हिमाचल प्रदेश",
+        "दक्षिण-पश्चिमी व्यापारिक हवाओं का प्रवाह",
+        "बाघ"
+      ],
+      "oHi": [
+        "मध्य प्रदेश",
+        "हिमाचल प्रदेश",
+        "दक्षिण-पश्चिमी व्यापारिक हवाओं का प्रवाह",
+        "बाघ"
+      ],
+      "optionsHi": [
+        "मध्य प्रदेश",
+        "हिमाचल प्रदेश",
+        "दक्षिण-पश्चिमी व्यापारिक हवाओं का प्रवाह",
+        "बाघ"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'हिमाचल प्रदेश'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'हिमाचल प्रदेश'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'हिमाचल प्रदेश' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'हिमाचल प्रदेश' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Economy.",
+      "hintHi": "Indian Economy से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_economy_1076",
+      "q": "भारत में 'केन्द्रीय गंगा प्राधिकरण' की स्थापना कब की गई थी",
+      "questionText": "भारत में 'केन्द्रीय गंगा प्राधिकरण' की स्थापना कब की गई थी",
+      "qHi": "भारत में 'केन्द्रीय गंगा प्राधिकरण' की स्थापना कब की गई थी",
+      "questionTextHi": "भारत में 'केन्द्रीय गंगा प्राधिकरण' की स्थापना कब की गई थी",
+      "o": [
+        "1985",
+        "जब बैंक दर कम कर दी जाती है",
+        "1950",
+        "मुंबई"
+      ],
+      "options": [
+        "1985",
+        "जब बैंक दर कम कर दी जाती है",
+        "1950",
+        "मुंबई"
+      ],
+      "oHi": [
+        "1985",
+        "जब बैंक दर कम कर दी जाती है",
+        "1950",
+        "मुंबई"
+      ],
+      "optionsHi": [
+        "1985",
+        "जब बैंक दर कम कर दी जाती है",
+        "1950",
+        "मुंबई"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is '1985'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is '1985'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '1985' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '1985' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Economy.",
+      "hintHi": "Indian Economy से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_economy_1088",
+      "q": "कोयला, नाभिकीय ऊर्जा, पेट्रोल और सौर ऊर्जा में से कौन-सा ऊर्जा का नवीकरणीय स्रोत है",
+      "questionText": "कोयला, नाभिकीय ऊर्जा, पेट्रोल और सौर ऊर्जा में से कौन-सा ऊर्जा का नवीकरणीय स्रोत है",
+      "qHi": "कोयला, नाभिकीय ऊर्जा, पेट्रोल और सौर ऊर्जा में से कौन-सा ऊर्जा का नवीकरणीय स्रोत है",
+      "questionTextHi": "कोयला, नाभिकीय ऊर्जा, पेट्रोल और सौर ऊर्जा में से कौन-सा ऊर्जा का नवीकरणीय स्रोत है",
+      "o": [
+        "7.2 करोड़",
+        "मध्य प्रदेश",
+        "पुष्कर",
+        "सौर ऊर्जा"
+      ],
+      "options": [
+        "7.2 करोड़",
+        "मध्य प्रदेश",
+        "पुष्कर",
+        "सौर ऊर्जा"
+      ],
+      "oHi": [
+        "7.2 करोड़",
+        "मध्य प्रदेश",
+        "पुष्कर",
+        "सौर ऊर्जा"
+      ],
+      "optionsHi": [
+        "7.2 करोड़",
+        "मध्य प्रदेश",
+        "पुष्कर",
+        "सौर ऊर्जा"
+      ],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is 'सौर ऊर्जा'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'सौर ऊर्जा'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'सौर ऊर्जा' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'सौर ऊर्जा' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Economy.",
+      "hintHi": "Indian Economy से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_economy_1096",
+      "q": "अक्टूबर 2015 में 'ई-सहयोग' योजना किस विभाग द्वारा प्रारम्भ की गई थी",
+      "questionText": "अक्टूबर 2015 में 'ई-सहयोग' योजना किस विभाग द्वारा प्रारम्भ की गई थी",
+      "qHi": "अक्टूबर 2015 में 'ई-सहयोग' योजना किस विभाग द्वारा प्रारम्भ की गई थी",
+      "questionTextHi": "अक्टूबर 2015 में 'ई-सहयोग' योजना किस विभाग द्वारा प्रारम्भ की गई थी",
+      "o": [
+        "कैमूर",
+        "आयकर (Income Tax)",
+        "बोरिस जोन्सन",
+        "मेक्सिको का नशीली दवाओं का तस्कर"
+      ],
+      "options": [
+        "कैमूर",
+        "आयकर (Income Tax)",
+        "बोरिस जोन्सन",
+        "मेक्सिको का नशीली दवाओं का तस्कर"
+      ],
+      "oHi": [
+        "कैमूर",
+        "आयकर (Income Tax)",
+        "बोरिस जोन्सन",
+        "मेक्सिको का नशीली दवाओं का तस्कर"
+      ],
+      "optionsHi": [
+        "कैमूर",
+        "आयकर (Income Tax)",
+        "बोरिस जोन्सन",
+        "मेक्सिको का नशीली दवाओं का तस्कर"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'आयकर (Income Tax)'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'आयकर (Income Tax)'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'आयकर (Income Tax)' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'आयकर (Income Tax)' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Economy.",
+      "hintHi": "Indian Economy से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_economy_1102",
+      "q": "किन्हें नवम्बर 2015 में अन्तर्राष्ट्रीय मुद्रा कोष में कार्यकारी निदेशक नियुक्त किया गया था",
+      "questionText": "किन्हें नवम्बर 2015 में अन्तर्राष्ट्रीय मुद्रा कोष में कार्यकारी निदेशक नियुक्त किया गया था",
+      "qHi": "किन्हें नवम्बर 2015 में अन्तर्राष्ट्रीय मुद्रा कोष में कार्यकारी निदेशक नियुक्त किया गया था",
+      "questionTextHi": "किन्हें नवम्बर 2015 में अन्तर्राष्ट्रीय मुद्रा कोष में कार्यकारी निदेशक नियुक्त किया गया था",
+      "o": [
+        "ब्लड डायमंड",
+        "स्पॉटलाइट",
+        "दक्षिण-पश्चिमी व्यापारिक हवाओं का प्रवाह",
+        "सुबीर गोकरण"
+      ],
+      "options": [
+        "ब्लड डायमंड",
+        "स्पॉटलाइट",
+        "दक्षिण-पश्चिमी व्यापारिक हवाओं का प्रवाह",
+        "सुबीर गोकरण"
+      ],
+      "oHi": [
+        "ब्लड डायमंड",
+        "स्पॉटलाइट",
+        "दक्षिण-पश्चिमी व्यापारिक हवाओं का प्रवाह",
+        "सुबीर गोकरण"
+      ],
+      "optionsHi": [
+        "ब्लड डायमंड",
+        "स्पॉटलाइट",
+        "दक्षिण-पश्चिमी व्यापारिक हवाओं का प्रवाह",
+        "सुबीर गोकरण"
+      ],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is 'सुबीर गोकरण'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'सुबीर गोकरण'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'सुबीर गोकरण' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'सुबीर गोकरण' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Economy.",
+      "hintHi": "Indian Economy से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_economy_1107",
+      "q": "2011 की जनगणना के अनुसार मध्य प्रदेश की जनसंख्या है",
+      "questionText": "2011 की जनगणना के अनुसार मध्य प्रदेश की जनसंख्या है",
+      "qHi": "2011 की जनगणना के अनुसार मध्य प्रदेश की जनसंख्या है",
+      "questionTextHi": "2011 की जनगणना के अनुसार मध्य प्रदेश की जनसंख्या है",
+      "o": [
+        "1985",
+        "ऐसीटिलीन",
+        "Numeric keys",
+        "7.2 करोड़"
+      ],
+      "options": [
+        "1985",
+        "ऐसीटिलीन",
+        "Numeric keys",
+        "7.2 करोड़"
+      ],
+      "oHi": [
+        "1985",
+        "ऐसीटिलीन",
+        "Numeric keys",
+        "7.2 करोड़"
+      ],
+      "optionsHi": [
+        "1985",
+        "ऐसीटिलीन",
+        "Numeric keys",
+        "7.2 करोड़"
+      ],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is '7.2 करोड़'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is '7.2 करोड़'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '7.2 करोड़' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '7.2 करोड़' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Economy.",
+      "hintHi": "Indian Economy से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_economy_1109",
+      "q": "मध्य प्रदेश की अर्थव्यवस्था (Economy) है",
+      "questionText": "मध्य प्रदेश की अर्थव्यवस्था (Economy) है",
+      "qHi": "मध्य प्रदेश की अर्थव्यवस्था (Economy) है",
+      "questionTextHi": "मध्य प्रदेश की अर्थव्यवस्था (Economy) है",
+      "o": [
+        "कैमूर",
+        "कृषि प्रधान",
+        "ऐसीटिलीन",
+        "फ्लेएम में अतनुकारी शर्करा के रूप में शर्करा का परिवहन"
+      ],
+      "options": [
+        "कैमूर",
+        "कृषि प्रधान",
+        "ऐसीटिलीन",
+        "फ्लेएम में अतनुकारी शर्करा के रूप में शर्करा का परिवहन"
+      ],
+      "oHi": [
+        "कैमूर",
+        "कृषि प्रधान",
+        "ऐसीटिलीन",
+        "फ्लेएम में अतनुकारी शर्करा के रूप में शर्करा का परिवहन"
+      ],
+      "optionsHi": [
+        "कैमूर",
+        "कृषि प्रधान",
+        "ऐसीटिलीन",
+        "फ्लेएम में अतनुकारी शर्करा के रूप में शर्करा का परिवहन"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'कृषि प्रधान'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'कृषि प्रधान'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'कृषि प्रधान' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'कृषि प्रधान' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Economy.",
+      "hintHi": "Indian Economy से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_economy_1119",
+      "q": "कौनसी श्रेणी यमुना और सोन के मध्य जलद्विभाजक का कार्य करती है",
+      "questionText": "कौनसी श्रेणी यमुना और सोन के मध्य जलद्विभाजक का कार्य करती है",
+      "qHi": "कौनसी श्रेणी यमुना और सोन के मध्य जलद्विभाजक का कार्य करती है",
+      "questionTextHi": "कौनसी श्रेणी यमुना और सोन के मध्य जलद्विभाजक का कार्य करती है",
+      "o": [
+        "सौर ऊर्जा",
+        "स्टेट बैंक ऑफ इण्डिया",
+        "1985",
+        "कैमूर"
+      ],
+      "options": [
+        "सौर ऊर्जा",
+        "स्टेट बैंक ऑफ इण्डिया",
+        "1985",
+        "कैमूर"
+      ],
+      "oHi": [
+        "सौर ऊर्जा",
+        "स्टेट बैंक ऑफ इण्डिया",
+        "1985",
+        "कैमूर"
+      ],
+      "optionsHi": [
+        "सौर ऊर्जा",
+        "स्टेट बैंक ऑफ इण्डिया",
+        "1985",
+        "कैमूर"
+      ],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is 'कैमूर'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'कैमूर'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'कैमूर' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'कैमूर' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Economy.",
+      "hintHi": "Indian Economy से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_economy_1134",
+      "q": "भारत का सबसे बड़ा व्यापारिक बैंक कौन-सा है",
+      "questionText": "भारत का सबसे बड़ा व्यापारिक बैंक कौन-सा है",
+      "qHi": "भारत का सबसे बड़ा व्यापारिक बैंक कौन-सा है",
+      "questionTextHi": "भारत का सबसे बड़ा व्यापारिक बैंक कौन-सा है",
+      "o": [
+        "बोरिस जोन्सन",
+        "स्टेट बैंक ऑफ इण्डिया",
+        "सोलर इम्पल्स-2",
+        "मेक्सिको का नशीली दवाओं का तस्कर"
+      ],
+      "options": [
+        "बोरिस जोन्सन",
+        "स्टेट बैंक ऑफ इण्डिया",
+        "सोलर इम्पल्स-2",
+        "मेक्सिको का नशीली दवाओं का तस्कर"
+      ],
+      "oHi": [
+        "बोरिस जोन्सन",
+        "स्टेट बैंक ऑफ इण्डिया",
+        "सोलर इम्पल्स-2",
+        "मेक्सिको का नशीली दवाओं का तस्कर"
+      ],
+      "optionsHi": [
+        "बोरिस जोन्सन",
+        "स्टेट बैंक ऑफ इण्डिया",
+        "सोलर इम्पल्स-2",
+        "मेक्सिको का नशीली दवाओं का तस्कर"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'स्टेट बैंक ऑफ इण्डिया'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'स्टेट बैंक ऑफ इण्डिया'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'स्टेट बैंक ऑफ इण्डिया' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'स्टेट बैंक ऑफ इण्डिया' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Economy.",
+      "hintHi": "Indian Economy से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_economy_1148",
+      "q": "नरेन्द्र मोदी, कौशिक बसु, अमर्त्य सेन और पी. चिदम्बरम इनमें से कौन 'नीति आयोग' से सम्बन्धित है",
+      "questionText": "नरेन्द्र मोदी, कौशिक बसु, अमर्त्य सेन और पी. चिदम्बरम इनमें से कौन 'नीति आयोग' से सम्बन्धित है",
+      "qHi": "नरेन्द्र मोदी, कौशिक बसु, अमर्त्य सेन और पी. चिदम्बरम इनमें से कौन 'नीति आयोग' से सम्बन्धित है",
+      "questionTextHi": "नरेन्द्र मोदी, कौशिक बसु, अमर्त्य सेन और पी. चिदम्बरम इनमें से कौन 'नीति आयोग' से सम्बन्धित है",
+      "o": [
+        "ऐसीटिलीन",
+        "चीन",
+        "नरेन्द्र मोदी",
+        "करनाल"
+      ],
+      "options": [
+        "ऐसीटिलीन",
+        "चीन",
+        "नरेन्द्र मोदी",
+        "करनाल"
+      ],
+      "oHi": [
+        "ऐसीटिलीन",
+        "चीन",
+        "नरेन्द्र मोदी",
+        "करनाल"
+      ],
+      "optionsHi": [
+        "ऐसीटिलीन",
+        "चीन",
+        "नरेन्द्र मोदी",
+        "करनाल"
+      ],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'नरेन्द्र मोदी'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'नरेन्द्र मोदी'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'नरेन्द्र मोदी' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'नरेन्द्र मोदी' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Economy.",
+      "hintHi": "Indian Economy से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_economy_1162",
+      "q": "उपभोक्ता कीमत सूचकांक पर आधारित मुद्रास्फीति की दर ​​कब बढ़ती है",
+      "questionText": "उपभोक्ता कीमत सूचकांक पर आधारित मुद्रास्फीति की दर ​​कब बढ़ती है",
+      "qHi": "उपभोक्ता कीमत सूचकांक पर आधारित मुद्रास्फीति की दर ​​कब बढ़ती है",
+      "questionTextHi": "उपभोक्ता कीमत सूचकांक पर आधारित मुद्रास्फीति की दर ​​कब बढ़ती है",
+      "o": [
+        "जब बैंक दर कम कर दी जाती है",
+        "आयकर (Income Tax)",
+        "यमन",
+        "सर्वोदय"
+      ],
+      "options": [
+        "जब बैंक दर कम कर दी जाती है",
+        "आयकर (Income Tax)",
+        "यमन",
+        "सर्वोदय"
+      ],
+      "oHi": [
+        "जब बैंक दर कम कर दी जाती है",
+        "आयकर (Income Tax)",
+        "यमन",
+        "सर्वोदय"
+      ],
+      "optionsHi": [
+        "जब बैंक दर कम कर दी जाती है",
+        "आयकर (Income Tax)",
+        "यमन",
+        "सर्वोदय"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'जब बैंक दर कम कर दी जाती है'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'जब बैंक दर कम कर दी जाती है'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'जब बैंक दर कम कर दी जाती है' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'जब बैंक दर कम कर दी जाती है' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Economy.",
+      "hintHi": "Indian Economy से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_economy_1171",
+      "q": "हरे फलों को कृत्रिम रूप से पकाने के लिए कैल्शियम कार्बोइड का प्रयोग किया जाता है, यह क्या उत्पन्न करता है",
+      "questionText": "हरे फलों को कृत्रिम रूप से पकाने के लिए कैल्शियम कार्बोइड का प्रयोग किया जाता है, यह क्या उत्पन्न करता है",
+      "qHi": "हरे फलों को कृत्रिम रूप से पकाने के लिए कैल्शियम कार्बोइड का प्रयोग किया जाता है, यह क्या उत्पन्न करता है",
+      "questionTextHi": "हरे फलों को कृत्रिम रूप से पकाने के लिए कैल्शियम कार्बोइड का प्रयोग किया जाता है, यह क्या उत्पन्न करता है",
+      "o": [
+        "ऐसीटिलीन",
+        "हिमाचल प्रदेश",
+        "कैमूर",
+        "स्पॉटलाइट"
+      ],
+      "options": [
+        "ऐसीटिलीन",
+        "हिमाचल प्रदेश",
+        "कैमूर",
+        "स्पॉटलाइट"
+      ],
+      "oHi": [
+        "ऐसीटिलीन",
+        "हिमाचल प्रदेश",
+        "कैमूर",
+        "स्पॉटलाइट"
+      ],
+      "optionsHi": [
+        "ऐसीटिलीन",
+        "हिमाचल प्रदेश",
+        "कैमूर",
+        "स्पॉटलाइट"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'ऐसीटिलीन'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'ऐसीटिलीन'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'ऐसीटिलीन' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'ऐसीटिलीन' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Economy.",
+      "hintHi": "Indian Economy से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_economy_1175",
+      "q": "युनाइटेड किंगडम को यूरोपीय संघ से अलग करने के लिए आन्दोलन का नेतृत्व किसने किया",
+      "questionText": "युनाइटेड किंगडम को यूरोपीय संघ से अलग करने के लिए आन्दोलन का नेतृत्व किसने किया",
+      "qHi": "युनाइटेड किंगडम को यूरोपीय संघ से अलग करने के लिए आन्दोलन का नेतृत्व किसने किया",
+      "questionTextHi": "युनाइटेड किंगडम को यूरोपीय संघ से अलग करने के लिए आन्दोलन का नेतृत्व किसने किया",
+      "o": [
+        "फ्लेएम में अतनुकारी शर्करा के रूप में शर्करा का परिवहन",
+        "इनमें से कोई नहीं",
+        "सर्वोदय",
+        "बोरिस जोन्सन"
+      ],
+      "options": [
+        "फ्लेएम में अतनुकारी शर्करा के रूप में शर्करा का परिवहन",
+        "इनमें से कोई नहीं",
+        "सर्वोदय",
+        "बोरिस जोन्सन"
+      ],
+      "oHi": [
+        "फ्लेएम में अतनुकारी शर्करा के रूप में शर्करा का परिवहन",
+        "इनमें से कोई नहीं",
+        "सर्वोदय",
+        "बोरिस जोन्सन"
+      ],
+      "optionsHi": [
+        "फ्लेएम में अतनुकारी शर्करा के रूप में शर्करा का परिवहन",
+        "इनमें से कोई नहीं",
+        "सर्वोदय",
+        "बोरिस जोन्सन"
+      ],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is 'बोरिस जोन्सन'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'बोरिस जोन्सन'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'बोरिस जोन्सन' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'बोरिस जोन्सन' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Economy.",
+      "hintHi": "Indian Economy से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_economy_1182",
+      "q": "पृथ्वी का पूरा चक्कर लगाने वाले प्रथम सौर-ऊर्जा चालित वायुयान का क्या नाम है",
+      "questionText": "पृथ्वी का पूरा चक्कर लगाने वाले प्रथम सौर-ऊर्जा चालित वायुयान का क्या नाम है",
+      "qHi": "पृथ्वी का पूरा चक्कर लगाने वाले प्रथम सौर-ऊर्जा चालित वायुयान का क्या नाम है",
+      "questionTextHi": "पृथ्वी का पूरा चक्कर लगाने वाले प्रथम सौर-ऊर्जा चालित वायुयान का क्या नाम है",
+      "o": [
+        "बोरिस जोन्सन",
+        "सुबीर गोकरण",
+        "सोलर इम्पल्स-2",
+        "आईसीआईसीआई"
+      ],
+      "options": [
+        "बोरिस जोन्सन",
+        "सुबीर गोकरण",
+        "सोलर इम्पल्स-2",
+        "आईसीआईसीआई"
+      ],
+      "oHi": [
+        "बोरिस जोन्सन",
+        "सुबीर गोकरण",
+        "सोलर इम्पल्स-2",
+        "आईसीआईसीआई"
+      ],
+      "optionsHi": [
+        "बोरिस जोन्सन",
+        "सुबीर गोकरण",
+        "सोलर इम्पल्स-2",
+        "आईसीआईसीआई"
+      ],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'सोलर इम्पल्स-2'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'सोलर इम्पल्स-2'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'सोलर इम्पल्स-2' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'सोलर इम्पल्स-2' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Economy.",
+      "hintHi": "Indian Economy से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_economy_1197",
+      "q": "कराधान नीति, सार्वजनिक ऋण नीति, व्यापार नीति और सार्वजनिक व्यय नीति इनमें कौन राजकोषीय नीति का एक घटक नहीं है",
+      "questionText": "कराधान नीति, सार्वजनिक ऋण नीति, व्यापार नीति और सार्वजनिक व्यय नीति इनमें कौन राजकोषीय नीति का एक घटक नहीं है",
+      "qHi": "कराधान नीति, सार्वजनिक ऋण नीति, व्यापार नीति और सार्वजनिक व्यय नीति इनमें कौन राजकोषीय नीति का एक घटक नहीं है",
+      "questionTextHi": "कराधान नीति, सार्वजनिक ऋण नीति, व्यापार नीति और सार्वजनिक व्यय नीति इनमें कौन राजकोषीय नीति का एक घटक नहीं है",
+      "o": [
+        "1935",
+        "हिमाचल प्रदेश",
+        "व्यापार नीति",
+        "अरविंद पानगड़िया"
+      ],
+      "options": [
+        "1935",
+        "हिमाचल प्रदेश",
+        "व्यापार नीति",
+        "अरविंद पानगड़िया"
+      ],
+      "oHi": [
+        "1935",
+        "हिमाचल प्रदेश",
+        "व्यापार नीति",
+        "अरविंद पानगड़िया"
+      ],
+      "optionsHi": [
+        "1935",
+        "हिमाचल प्रदेश",
+        "व्यापार नीति",
+        "अरविंद पानगड़िया"
+      ],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'व्यापार नीति'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'व्यापार नीति'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'व्यापार नीति' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'व्यापार नीति' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Economy.",
+      "hintHi": "Indian Economy से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_economy_1205",
+      "q": "जोआकिन गुजमैन उर्फ अल चापो गुजमैन है एक",
+      "questionText": "जोआकिन गुजमैन उर्फ अल चापो गुजमैन है एक",
+      "qHi": "जोआकिन गुजमैन उर्फ अल चापो गुजमैन है एक",
+      "questionTextHi": "जोआकिन गुजमैन उर्फ अल चापो गुजमैन है एक",
+      "o": [
+        "मेक्सिको का नशीली दवाओं का तस्कर",
+        "1985",
+        "बाघ",
+        "बोरिस जोन्सन"
+      ],
+      "options": [
+        "मेक्सिको का नशीली दवाओं का तस्कर",
+        "1985",
+        "बाघ",
+        "बोरिस जोन्सन"
+      ],
+      "oHi": [
+        "मेक्सिको का नशीली दवाओं का तस्कर",
+        "1985",
+        "बाघ",
+        "बोरिस जोन्सन"
+      ],
+      "optionsHi": [
+        "मेक्सिको का नशीली दवाओं का तस्कर",
+        "1985",
+        "बाघ",
+        "बोरिस जोन्सन"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'मेक्सिको का नशीली दवाओं का तस्कर'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'मेक्सिको का नशीली दवाओं का तस्कर'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'मेक्सिको का नशीली दवाओं का तस्कर' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'मेक्सिको का नशीली दवाओं का तस्कर' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Economy.",
+      "hintHi": "Indian Economy से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_economy_1207",
+      "q": "2015 में गठित नीति आयोग के उपाध्याक्ष कौन हैं",
+      "questionText": "2015 में गठित नीति आयोग के उपाध्याक्ष कौन हैं",
+      "qHi": "2015 में गठित नीति आयोग के उपाध्याक्ष कौन हैं",
+      "questionTextHi": "2015 में गठित नीति आयोग के उपाध्याक्ष कौन हैं",
+      "o": [
+        "अरविंद पानगड़िया",
+        "सर्वोदय",
+        "पुष्कर",
+        "चीन"
+      ],
+      "options": [
+        "अरविंद पानगड़िया",
+        "सर्वोदय",
+        "पुष्कर",
+        "चीन"
+      ],
+      "oHi": [
+        "अरविंद पानगड़िया",
+        "सर्वोदय",
+        "पुष्कर",
+        "चीन"
+      ],
+      "optionsHi": [
+        "अरविंद पानगड़िया",
+        "सर्वोदय",
+        "पुष्कर",
+        "चीन"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'अरविंद पानगड़िया'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'अरविंद पानगड़िया'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'अरविंद पानगड़िया' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'अरविंद पानगड़िया' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Economy.",
+      "hintHi": "Indian Economy से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_economy_1208",
+      "q": "भारतीय नौसेना तथा वायु सेना ने 2015 में ऑपरेशन 'राहत' चलाकर भारतीयों तथा अन्य को किस देश से निकला",
+      "questionText": "भारतीय नौसेना तथा वायु सेना ने 2015 में ऑपरेशन 'राहत' चलाकर भारतीयों तथा अन्य को किस देश से निकला",
+      "qHi": "भारतीय नौसेना तथा वायु सेना ने 2015 में ऑपरेशन 'राहत' चलाकर भारतीयों तथा अन्य को किस देश से निकला",
+      "questionTextHi": "भारतीय नौसेना तथा वायु सेना ने 2015 में ऑपरेशन 'राहत' चलाकर भारतीयों तथा अन्य को किस देश से निकला",
+      "o": [
+        "यमन",
+        "अरविंद पानगड़िया",
+        "मध्य प्रदेश",
+        "7.2 करोड़"
+      ],
+      "options": [
+        "यमन",
+        "अरविंद पानगड़िया",
+        "मध्य प्रदेश",
+        "7.2 करोड़"
+      ],
+      "oHi": [
+        "यमन",
+        "अरविंद पानगड़िया",
+        "मध्य प्रदेश",
+        "7.2 करोड़"
+      ],
+      "optionsHi": [
+        "यमन",
+        "अरविंद पानगड़िया",
+        "मध्य प्रदेश",
+        "7.2 करोड़"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'यमन'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'यमन'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'यमन' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'यमन' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Economy.",
+      "hintHi": "Indian Economy से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_economy_1215",
+      "q": "कौन-सा स्थान ब्रह्मा के मंदिर और पशुओं के मेले के लिए प्रसिद्ध है",
+      "questionText": "कौन-सा स्थान ब्रह्मा के मंदिर और पशुओं के मेले के लिए प्रसिद्ध है",
+      "qHi": "कौन-सा स्थान ब्रह्मा के मंदिर और पशुओं के मेले के लिए प्रसिद्ध है",
+      "questionTextHi": "कौन-सा स्थान ब्रह्मा के मंदिर और पशुओं के मेले के लिए प्रसिद्ध है",
+      "o": [
+        "दक्षिण-पश्चिमी व्यापारिक हवाओं का प्रवाह",
+        "डेकर प्रभाव",
+        "पुष्कर",
+        "1935"
+      ],
+      "options": [
+        "दक्षिण-पश्चिमी व्यापारिक हवाओं का प्रवाह",
+        "डेकर प्रभाव",
+        "पुष्कर",
+        "1935"
+      ],
+      "oHi": [
+        "दक्षिण-पश्चिमी व्यापारिक हवाओं का प्रवाह",
+        "डेकर प्रभाव",
+        "पुष्कर",
+        "1935"
+      ],
+      "optionsHi": [
+        "दक्षिण-पश्चिमी व्यापारिक हवाओं का प्रवाह",
+        "डेकर प्रभाव",
+        "पुष्कर",
+        "1935"
+      ],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'पुष्कर'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'पुष्कर'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'पुष्कर' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'पुष्कर' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Economy.",
+      "hintHi": "Indian Economy से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_economy_1218",
+      "q": "हालांकि ऐसा कोई एकल सिद्धांत नहीं जो दक्षिण पश्चिमी मॉनसून की उत्पत्ति को स्पष्ट कर सके तथापि किसके दौरान पृथ्वी और समुद्र के विशिष्ट तापन ही मूख्य प्राणाली मानी जाती है",
+      "questionText": "हालांकि ऐसा कोई एकल सिद्धांत नहीं जो दक्षिण पश्चिमी मॉनसून की उत्पत्ति को स्पष्ट कर सके तथापि किसके दौरान पृथ्वी और समुद्र के विशिष्ट तापन ही मूख्य प्राणाली मानी जाती है",
+      "qHi": "हालांकि ऐसा कोई एकल सिद्धांत नहीं जो दक्षिण पश्चिमी मॉनसून की उत्पत्ति को स्पष्ट कर सके तथापि किसके दौरान पृथ्वी और समुद्र के विशिष्ट तापन ही मूख्य प्राणाली मानी जाती है",
+      "questionTextHi": "हालांकि ऐसा कोई एकल सिद्धांत नहीं जो दक्षिण पश्चिमी मॉनसून की उत्पत्ति को स्पष्ट कर सके तथापि किसके दौरान पृथ्वी और समुद्र के विशिष्ट तापन ही मूख्य प्राणाली मानी जाती है",
+      "o": [
+        "अरविंद पानगड़िया",
+        "दक्षिण-पश्चिमी व्यापारिक हवाओं का प्रवाह",
+        "विश्व बैंक द्वारा",
+        "मध्य प्रदेश"
+      ],
+      "options": [
+        "अरविंद पानगड़िया",
+        "दक्षिण-पश्चिमी व्यापारिक हवाओं का प्रवाह",
+        "विश्व बैंक द्वारा",
+        "मध्य प्रदेश"
+      ],
+      "oHi": [
+        "अरविंद पानगड़िया",
+        "दक्षिण-पश्चिमी व्यापारिक हवाओं का प्रवाह",
+        "विश्व बैंक द्वारा",
+        "मध्य प्रदेश"
+      ],
+      "optionsHi": [
+        "अरविंद पानगड़िया",
+        "दक्षिण-पश्चिमी व्यापारिक हवाओं का प्रवाह",
+        "विश्व बैंक द्वारा",
+        "मध्य प्रदेश"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'दक्षिण-पश्चिमी व्यापारिक हवाओं का प्रवाह'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'दक्षिण-पश्चिमी व्यापारिक हवाओं का प्रवाह'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'दक्षिण-पश्चिमी व्यापारिक हवाओं का प्रवाह' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'दक्षिण-पश्चिमी व्यापारिक हवाओं का प्रवाह' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Economy.",
+      "hintHi": "Indian Economy से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_economy_1226",
+      "q": "पोषवाही (फ्लोएम) परिवहन के संबंध क्या होता है",
+      "questionText": "पोषवाही (फ्लोएम) परिवहन के संबंध क्या होता है",
+      "qHi": "पोषवाही (फ्लोएम) परिवहन के संबंध क्या होता है",
+      "questionTextHi": "पोषवाही (फ्लोएम) परिवहन के संबंध क्या होता है",
+      "o": [
+        "वर्ष 1949",
+        "1985",
+        "वाणिज्यिक क्षेत्र",
+        "फ्लेएम में अतनुकारी शर्करा के रूप में शर्करा का परिवहन"
+      ],
+      "options": [
+        "वर्ष 1949",
+        "1985",
+        "वाणिज्यिक क्षेत्र",
+        "फ्लेएम में अतनुकारी शर्करा के रूप में शर्करा का परिवहन"
+      ],
+      "oHi": [
+        "वर्ष 1949",
+        "1985",
+        "वाणिज्यिक क्षेत्र",
+        "फ्लेएम में अतनुकारी शर्करा के रूप में शर्करा का परिवहन"
+      ],
+      "optionsHi": [
+        "वर्ष 1949",
+        "1985",
+        "वाणिज्यिक क्षेत्र",
+        "फ्लेएम में अतनुकारी शर्करा के रूप में शर्करा का परिवहन"
+      ],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is 'फ्लेएम में अतनुकारी शर्करा के रूप में शर्करा का परिवहन'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'फ्लेएम में अतनुकारी शर्करा के रूप में शर्करा का परिवहन'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'फ्लेएम में अतनुकारी शर्करा के रूप में शर्करा का परिवहन' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'फ्लेएम में अतनुकारी शर्करा के रूप में शर्करा का परिवहन' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Economy.",
+      "hintHi": "Indian Economy से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_economy_1227",
+      "q": "युद्धग्रस्त क्षेत्रों से खनन कर राजद्रोही गतिविधियों के लिए बचे जाने वाले हीरे किस नाम से जाने जाते हैं",
+      "questionText": "युद्धग्रस्त क्षेत्रों से खनन कर राजद्रोही गतिविधियों के लिए बचे जाने वाले हीरे किस नाम से जाने जाते हैं",
+      "qHi": "युद्धग्रस्त क्षेत्रों से खनन कर राजद्रोही गतिविधियों के लिए बचे जाने वाले हीरे किस नाम से जाने जाते हैं",
+      "questionTextHi": "युद्धग्रस्त क्षेत्रों से खनन कर राजद्रोही गतिविधियों के लिए बचे जाने वाले हीरे किस नाम से जाने जाते हैं",
+      "o": [
+        "सोलर इम्पल्स-2",
+        "ब्लड डायमंड",
+        "1935",
+        "इनमें से कोई नहीं"
+      ],
+      "options": [
+        "सोलर इम्पल्स-2",
+        "ब्लड डायमंड",
+        "1935",
+        "इनमें से कोई नहीं"
+      ],
+      "oHi": [
+        "सोलर इम्पल्स-2",
+        "ब्लड डायमंड",
+        "1935",
+        "इनमें से कोई नहीं"
+      ],
+      "optionsHi": [
+        "सोलर इम्पल्स-2",
+        "ब्लड डायमंड",
+        "1935",
+        "इनमें से कोई नहीं"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'ब्लड डायमंड'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'ब्लड डायमंड'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'ब्लड डायमंड' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'ब्लड डायमंड' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Economy.",
+      "hintHi": "Indian Economy से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_economy_1232",
+      "q": "'हरा सूचकांक' विकसित किया गया है",
+      "questionText": "'हरा सूचकांक' विकसित किया गया है",
+      "qHi": "'हरा सूचकांक' विकसित किया गया है",
+      "questionTextHi": "'हरा सूचकांक' विकसित किया गया है",
+      "o": [
+        "अरविंद पानगड़िया",
+        "विश्व बैंक द्वारा",
+        "1935",
+        "मुम्बई इंडियन्स"
+      ],
+      "options": [
+        "अरविंद पानगड़िया",
+        "विश्व बैंक द्वारा",
+        "1935",
+        "मुम्बई इंडियन्स"
+      ],
+      "oHi": [
+        "अरविंद पानगड़िया",
+        "विश्व बैंक द्वारा",
+        "1935",
+        "मुम्बई इंडियन्स"
+      ],
+      "optionsHi": [
+        "अरविंद पानगड़िया",
+        "विश्व बैंक द्वारा",
+        "1935",
+        "मुम्बई इंडियन्स"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'विश्व बैंक द्वारा'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'विश्व बैंक द्वारा'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'विश्व बैंक द्वारा' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'विश्व बैंक द्वारा' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Economy.",
+      "hintHi": "Indian Economy से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_economy_1284",
+      "q": "किस देश में सबसे पहले कागज मुद्रा का प्रयोग किया गया",
+      "questionText": "किस देश में सबसे पहले कागज मुद्रा का प्रयोग किया गया",
+      "qHi": "किस देश में सबसे पहले कागज मुद्रा का प्रयोग किया गया",
+      "questionTextHi": "किस देश में सबसे पहले कागज मुद्रा का प्रयोग किया गया",
+      "o": [
+        "मुम्बई इंडियन्स",
+        "वर्ष 1949",
+        "Scanner",
+        "चीन"
+      ],
+      "options": [
+        "मुम्बई इंडियन्स",
+        "वर्ष 1949",
+        "Scanner",
+        "चीन"
+      ],
+      "oHi": [
+        "मुम्बई इंडियन्स",
+        "वर्ष 1949",
+        "Scanner",
+        "चीन"
+      ],
+      "optionsHi": [
+        "मुम्बई इंडियन्स",
+        "वर्ष 1949",
+        "Scanner",
+        "चीन"
+      ],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is 'चीन'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'चीन'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'चीन' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'चीन' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Economy.",
+      "hintHi": "Indian Economy से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_economy_1286",
+      "q": "भारतीय प्रीमियर लीग का आठवां संस्करण किस आईपीएल टीम ने जीता",
+      "questionText": "भारतीय प्रीमियर लीग का आठवां संस्करण किस आईपीएल टीम ने जीता",
+      "qHi": "भारतीय प्रीमियर लीग का आठवां संस्करण किस आईपीएल टीम ने जीता",
+      "questionTextHi": "भारतीय प्रीमियर लीग का आठवां संस्करण किस आईपीएल टीम ने जीता",
+      "o": [
+        "ऐसीटिलीन",
+        "बोरिस जोन्सन",
+        "मुम्बई इंडियन्स",
+        "दक्षिण-पश्चिमी व्यापारिक हवाओं का प्रवाह"
+      ],
+      "options": [
+        "ऐसीटिलीन",
+        "बोरिस जोन्सन",
+        "मुम्बई इंडियन्स",
+        "दक्षिण-पश्चिमी व्यापारिक हवाओं का प्रवाह"
+      ],
+      "oHi": [
+        "ऐसीटिलीन",
+        "बोरिस जोन्सन",
+        "मुम्बई इंडियन्स",
+        "दक्षिण-पश्चिमी व्यापारिक हवाओं का प्रवाह"
+      ],
+      "optionsHi": [
+        "ऐसीटिलीन",
+        "बोरिस जोन्सन",
+        "मुम्बई इंडियन्स",
+        "दक्षिण-पश्चिमी व्यापारिक हवाओं का प्रवाह"
+      ],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'मुम्बई इंडियन्स'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'मुम्बई इंडियन्स'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'मुम्बई इंडियन्स' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'मुम्बई इंडियन्स' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Economy.",
+      "hintHi": "Indian Economy से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_economy_1295",
+      "q": "com क्या निरुपित करता है",
+      "questionText": "com क्या निरुपित करता है",
+      "qHi": "com क्या निरुपित करता है",
+      "questionTextHi": "com क्या निरुपित करता है",
+      "o": [
+        "चीन",
+        "व्यापार नीति",
+        "SBI",
+        "वाणिज्यिक क्षेत्र"
+      ],
+      "options": [
+        "चीन",
+        "व्यापार नीति",
+        "SBI",
+        "वाणिज्यिक क्षेत्र"
+      ],
+      "oHi": [
+        "चीन",
+        "व्यापार नीति",
+        "SBI",
+        "वाणिज्यिक क्षेत्र"
+      ],
+      "optionsHi": [
+        "चीन",
+        "व्यापार नीति",
+        "SBI",
+        "वाणिज्यिक क्षेत्र"
+      ],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is 'वाणिज्यिक क्षेत्र'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'वाणिज्यिक क्षेत्र'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'वाणिज्यिक क्षेत्र' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'वाणिज्यिक क्षेत्र' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Economy.",
+      "hintHi": "Indian Economy से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_economy_1302",
+      "q": "कौन-सी विचारधारा का उद्देश्य राजनीति का आध्यात्मीकरण है",
+      "questionText": "कौन-सी विचारधारा का उद्देश्य राजनीति का आध्यात्मीकरण है",
+      "qHi": "कौन-सी विचारधारा का उद्देश्य राजनीति का आध्यात्मीकरण है",
+      "questionTextHi": "कौन-सी विचारधारा का उद्देश्य राजनीति का आध्यात्मीकरण है",
+      "o": [
+        "ब्लड डायमंड",
+        "सर्वोदय",
+        "चीन",
+        "विश्व बैंक द्वारा"
+      ],
+      "options": [
+        "ब्लड डायमंड",
+        "सर्वोदय",
+        "चीन",
+        "विश्व बैंक द्वारा"
+      ],
+      "oHi": [
+        "ब्लड डायमंड",
+        "सर्वोदय",
+        "चीन",
+        "विश्व बैंक द्वारा"
+      ],
+      "optionsHi": [
+        "ब्लड डायमंड",
+        "सर्वोदय",
+        "चीन",
+        "विश्व बैंक द्वारा"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'सर्वोदय'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'सर्वोदय'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'सर्वोदय' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'सर्वोदय' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Economy.",
+      "hintHi": "Indian Economy से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_economy_1317",
+      "q": "अकेडमी अवार्ड 2016 (ऑस्कर) में किस फिल्म को सर्वश्रेष्ठ फिल्म का खिताब मिला",
+      "questionText": "अकेडमी अवार्ड 2016 (ऑस्कर) में किस फिल्म को सर्वश्रेष्ठ फिल्म का खिताब मिला",
+      "qHi": "अकेडमी अवार्ड 2016 (ऑस्कर) में किस फिल्म को सर्वश्रेष्ठ फिल्म का खिताब मिला",
+      "questionTextHi": "अकेडमी अवार्ड 2016 (ऑस्कर) में किस फिल्म को सर्वश्रेष्ठ फिल्म का खिताब मिला",
+      "o": [
+        "स्पॉटलाइट",
+        "1935",
+        "कृषि प्रधान",
+        "Numeric keys"
+      ],
+      "options": [
+        "स्पॉटलाइट",
+        "1935",
+        "कृषि प्रधान",
+        "Numeric keys"
+      ],
+      "oHi": [
+        "स्पॉटलाइट",
+        "1935",
+        "कृषि प्रधान",
+        "Numeric keys"
+      ],
+      "optionsHi": [
+        "स्पॉटलाइट",
+        "1935",
+        "कृषि प्रधान",
+        "Numeric keys"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'स्पॉटलाइट'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'स्पॉटलाइट'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'स्पॉटलाइट' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'स्पॉटलाइट' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Economy.",
+      "hintHi": "Indian Economy से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_economy_1318",
+      "q": "नरेन्द्र मोदी सरकार द्वारा स्थापित 'नीति आयोग' किसके स्थान पर कार्यरत हुआ",
+      "questionText": "नरेन्द्र मोदी सरकार द्वारा स्थापित 'नीति आयोग' किसके स्थान पर कार्यरत हुआ",
+      "qHi": "नरेन्द्र मोदी सरकार द्वारा स्थापित 'नीति आयोग' किसके स्थान पर कार्यरत हुआ",
+      "questionTextHi": "नरेन्द्र मोदी सरकार द्वारा स्थापित 'नीति आयोग' किसके स्थान पर कार्यरत हुआ",
+      "o": [
+        "डेकर प्रभाव",
+        "चीन",
+        "योजना आयोग",
+        "नरेन्द्र मोदी"
+      ],
+      "options": [
+        "डेकर प्रभाव",
+        "चीन",
+        "योजना आयोग",
+        "नरेन्द्र मोदी"
+      ],
+      "oHi": [
+        "डेकर प्रभाव",
+        "चीन",
+        "योजना आयोग",
+        "नरेन्द्र मोदी"
+      ],
+      "optionsHi": [
+        "डेकर प्रभाव",
+        "चीन",
+        "योजना आयोग",
+        "नरेन्द्र मोदी"
+      ],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'योजना आयोग'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'योजना आयोग'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'योजना आयोग' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'योजना आयोग' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Economy.",
+      "hintHi": "Indian Economy से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_economy_1324",
+      "q": "भारतीय रिजर्व बैंक कब राज्य-स्वामित्व का संस्थान बना",
+      "questionText": "भारतीय रिजर्व बैंक कब राज्य-स्वामित्व का संस्थान बना",
+      "qHi": "भारतीय रिजर्व बैंक कब राज्य-स्वामित्व का संस्थान बना",
+      "questionTextHi": "भारतीय रिजर्व बैंक कब राज्य-स्वामित्व का संस्थान बना",
+      "o": [
+        "हिमाचल प्रदेश",
+        "वर्ष 1949",
+        "सुबीर गोकरण",
+        "स्टेट बैंक ऑफ इण्डिया"
+      ],
+      "options": [
+        "हिमाचल प्रदेश",
+        "वर्ष 1949",
+        "सुबीर गोकरण",
+        "स्टेट बैंक ऑफ इण्डिया"
+      ],
+      "oHi": [
+        "हिमाचल प्रदेश",
+        "वर्ष 1949",
+        "सुबीर गोकरण",
+        "स्टेट बैंक ऑफ इण्डिया"
+      ],
+      "optionsHi": [
+        "हिमाचल प्रदेश",
+        "वर्ष 1949",
+        "सुबीर गोकरण",
+        "स्टेट बैंक ऑफ इण्डिया"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'वर्ष 1949'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'वर्ष 1949'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'वर्ष 1949' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'वर्ष 1949' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Economy.",
+      "hintHi": "Indian Economy से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_economy_1326",
+      "q": "करिकाल, परान्तक और राजराजा में से दक्षिण भारत में चोल राजवंश का संस्थापक कौन था",
+      "questionText": "करिकाल, परान्तक और राजराजा में से दक्षिण भारत में चोल राजवंश का संस्थापक कौन था",
+      "qHi": "करिकाल, परान्तक और राजराजा में से दक्षिण भारत में चोल राजवंश का संस्थापक कौन था",
+      "questionTextHi": "करिकाल, परान्तक और राजराजा में से दक्षिण भारत में चोल राजवंश का संस्थापक कौन था",
+      "o": [
+        "इनमें से कोई नहीं",
+        "मेक्सिको का नशीली दवाओं का तस्कर",
+        "नरेन्द्र मोदी",
+        "1985"
+      ],
+      "options": [
+        "इनमें से कोई नहीं",
+        "मेक्सिको का नशीली दवाओं का तस्कर",
+        "नरेन्द्र मोदी",
+        "1985"
+      ],
+      "oHi": [
+        "इनमें से कोई नहीं",
+        "मेक्सिको का नशीली दवाओं का तस्कर",
+        "नरेन्द्र मोदी",
+        "1985"
+      ],
+      "optionsHi": [
+        "इनमें से कोई नहीं",
+        "मेक्सिको का नशीली दवाओं का तस्कर",
+        "नरेन्द्र मोदी",
+        "1985"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'इनमें से कोई नहीं'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'इनमें से कोई नहीं'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'इनमें से कोई नहीं' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'इनमें से कोई नहीं' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Economy.",
+      "hintHi": "Indian Economy से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_economy_1331",
+      "q": "'राष्ट्रीय डेयरी अनुसन्धान' संस्थान कहाँ है",
+      "questionText": "'राष्ट्रीय डेयरी अनुसन्धान' संस्थान कहाँ है",
+      "qHi": "'राष्ट्रीय डेयरी अनुसन्धान' संस्थान कहाँ है",
+      "questionTextHi": "'राष्ट्रीय डेयरी अनुसन्धान' संस्थान कहाँ है",
+      "o": [
+        "ब्लड डायमंड",
+        "स्टेट बैंक ऑफ इण्डिया",
+        "चीन",
+        "करनाल"
+      ],
+      "options": [
+        "ब्लड डायमंड",
+        "स्टेट बैंक ऑफ इण्डिया",
+        "चीन",
+        "करनाल"
+      ],
+      "oHi": [
+        "ब्लड डायमंड",
+        "स्टेट बैंक ऑफ इण्डिया",
+        "चीन",
+        "करनाल"
+      ],
+      "optionsHi": [
+        "ब्लड डायमंड",
+        "स्टेट बैंक ऑफ इण्डिया",
+        "चीन",
+        "करनाल"
+      ],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is 'करनाल'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'करनाल'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'करनाल' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'करनाल' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Economy.",
+      "hintHi": "Indian Economy से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_economy_1350",
+      "q": "भारतीय स्टेट बैंक का मुख्यालय कहां स्थित है",
+      "questionText": "भारतीय स्टेट बैंक का मुख्यालय कहां स्थित है",
+      "qHi": "भारतीय स्टेट बैंक का मुख्यालय कहां स्थित है",
+      "questionTextHi": "भारतीय स्टेट बैंक का मुख्यालय कहां स्थित है",
+      "o": [
+        "बोरिस जोन्सन",
+        "कैमूर",
+        "मुंबई",
+        "स्टेट बैंक ऑफ इण्डिया"
+      ],
+      "options": [
+        "बोरिस जोन्सन",
+        "कैमूर",
+        "मुंबई",
+        "स्टेट बैंक ऑफ इण्डिया"
+      ],
+      "oHi": [
+        "बोरिस जोन्सन",
+        "कैमूर",
+        "मुंबई",
+        "स्टेट बैंक ऑफ इण्डिया"
+      ],
+      "optionsHi": [
+        "बोरिस जोन्सन",
+        "कैमूर",
+        "मुंबई",
+        "स्टेट बैंक ऑफ इण्डिया"
+      ],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'मुंबई'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'मुंबई'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'मुंबई' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'मुंबई' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Economy.",
+      "hintHi": "Indian Economy से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_economy_1353",
+      "q": "अगस्त 2015 में कौन से बैंक ने पहली बार पूर्णतया स्वचालिता डिजिटल लॉकर 'स्मार्ट वॉल्ट' का शुभारंभ किया",
+      "questionText": "अगस्त 2015 में कौन से बैंक ने पहली बार पूर्णतया स्वचालिता डिजिटल लॉकर 'स्मार्ट वॉल्ट' का शुभारंभ किया",
+      "qHi": "अगस्त 2015 में कौन से बैंक ने पहली बार पूर्णतया स्वचालिता डिजिटल लॉकर 'स्मार्ट वॉल्ट' का शुभारंभ किया",
+      "questionTextHi": "अगस्त 2015 में कौन से बैंक ने पहली बार पूर्णतया स्वचालिता डिजिटल लॉकर 'स्मार्ट वॉल्ट' का शुभारंभ किया",
+      "o": [
+        "करनाल",
+        "ब्लड डायमंड",
+        "आईसीआईसीआई",
+        "7.2 करोड़"
+      ],
+      "options": [
+        "करनाल",
+        "ब्लड डायमंड",
+        "आईसीआईसीआई",
+        "7.2 करोड़"
+      ],
+      "oHi": [
+        "करनाल",
+        "ब्लड डायमंड",
+        "आईसीआईसीआई",
+        "7.2 करोड़"
+      ],
+      "optionsHi": [
+        "करनाल",
+        "ब्लड डायमंड",
+        "आईसीआईसीआई",
+        "7.2 करोड़"
+      ],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'आईसीआईसीआई'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'आईसीआईसीआई'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'आईसीआईसीआई' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'आईसीआईसीआई' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Economy.",
+      "hintHi": "Indian Economy से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_economy_1355",
+      "q": "ई कॉमर्स कंपनी 'विक्कर' द्वारा अपने प्रचार के लिए कौन सा नया नारा पेश किया है",
+      "questionText": "ई कॉमर्स कंपनी 'विक्कर' द्वारा अपने प्रचार के लिए कौन सा नया नारा पेश किया है",
+      "qHi": "ई कॉमर्स कंपनी 'विक्कर' द्वारा अपने प्रचार के लिए कौन सा नया नारा पेश किया है",
+      "questionTextHi": "ई कॉमर्स कंपनी 'विक्कर' द्वारा अपने प्रचार के लिए कौन सा नया नारा पेश किया है",
+      "o": [
+        "वाणिज्यिक क्षेत्र",
+        "योजना आयोग",
+        "बाघ",
+        "पुष्कर"
+      ],
+      "options": [
+        "वाणिज्यिक क्षेत्र",
+        "योजना आयोग",
+        "बाघ",
+        "पुष्कर"
+      ],
+      "oHi": [
+        "वाणिज्यिक क्षेत्र",
+        "योजना आयोग",
+        "बाघ",
+        "पुष्कर"
+      ],
+      "optionsHi": [
+        "वाणिज्यिक क्षेत्र",
+        "योजना आयोग",
+        "बाघ",
+        "पुष्कर"
+      ],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'बाघ'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'बाघ'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'बाघ' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'बाघ' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Economy.",
+      "hintHi": "Indian Economy से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_economy_1378",
+      "q": "कंप्यूटर कीबोर्ड पर संख्याओं को आसानी से टाइप करने में कौन सहायक है",
+      "questionText": "कंप्यूटर कीबोर्ड पर संख्याओं को आसानी से टाइप करने में कौन सहायक है",
+      "qHi": "कंप्यूटर कीबोर्ड पर संख्याओं को आसानी से टाइप करने में कौन सहायक है",
+      "questionTextHi": "कंप्यूटर कीबोर्ड पर संख्याओं को आसानी से टाइप करने में कौन सहायक है",
+      "o": [
+        "Numeric keys",
+        "फ्लेएम में अतनुकारी शर्करा के रूप में शर्करा का परिवहन",
+        "मुंबई",
+        "1944"
+      ],
+      "options": [
+        "Numeric keys",
+        "फ्लेएम में अतनुकारी शर्करा के रूप में शर्करा का परिवहन",
+        "मुंबई",
+        "1944"
+      ],
+      "oHi": [
+        "Numeric keys",
+        "फ्लेएम में अतनुकारी शर्करा के रूप में शर्करा का परिवहन",
+        "मुंबई",
+        "1944"
+      ],
+      "optionsHi": [
+        "Numeric keys",
+        "फ्लेएम में अतनुकारी शर्करा के रूप में शर्करा का परिवहन",
+        "मुंबई",
+        "1944"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'Numeric keys'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Numeric keys'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Numeric keys' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Numeric keys' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Economy.",
+      "hintHi": "Indian Economy से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_economy_1381",
+      "q": "किस की सहायता से चित्र, प्रतिरूप इत्यादि को कंप्यूटर में आगत कर सकते हैं",
+      "questionText": "किस की सहायता से चित्र, प्रतिरूप इत्यादि को कंप्यूटर में आगत कर सकते हैं",
+      "qHi": "किस की सहायता से चित्र, प्रतिरूप इत्यादि को कंप्यूटर में आगत कर सकते हैं",
+      "questionTextHi": "किस की सहायता से चित्र, प्रतिरूप इत्यादि को कंप्यूटर में आगत कर सकते हैं",
+      "o": [
+        "कैमूर",
+        "Scanner",
+        "व्यापार नीति",
+        "सोलर इम्पल्स-2"
+      ],
+      "options": [
+        "कैमूर",
+        "Scanner",
+        "व्यापार नीति",
+        "सोलर इम्पल्स-2"
+      ],
+      "oHi": [
+        "कैमूर",
+        "Scanner",
+        "व्यापार नीति",
+        "सोलर इम्पल्स-2"
+      ],
+      "optionsHi": [
+        "कैमूर",
+        "Scanner",
+        "व्यापार नीति",
+        "सोलर इम्पल्स-2"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'Scanner'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Scanner'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Scanner' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Scanner' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Economy.",
+      "hintHi": "Indian Economy से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_economy_1386",
+      "q": "भारतीय रिजर्व बैंक, निती आयोग और वित्त मंत्रालय इनमें से भारत की वित्त नीति का निरुपण कौन करता है",
+      "questionText": "भारतीय रिजर्व बैंक, निती आयोग और वित्त मंत्रालय इनमें से भारत की वित्त नीति का निरुपण कौन करता है",
+      "qHi": "भारतीय रिजर्व बैंक, निती आयोग और वित्त मंत्रालय इनमें से भारत की वित्त नीति का निरुपण कौन करता है",
+      "questionTextHi": "भारतीय रिजर्व बैंक, निती आयोग और वित्त मंत्रालय इनमें से भारत की वित्त नीति का निरुपण कौन करता है",
+      "o": [
+        "इनमें से कोई नहीं",
+        "डेकर प्रभाव",
+        "सर्वोदय",
+        "आयकर (Income Tax)"
+      ],
+      "options": [
+        "इनमें से कोई नहीं",
+        "डेकर प्रभाव",
+        "सर्वोदय",
+        "आयकर (Income Tax)"
+      ],
+      "oHi": [
+        "इनमें से कोई नहीं",
+        "डेकर प्रभाव",
+        "सर्वोदय",
+        "आयकर (Income Tax)"
+      ],
+      "optionsHi": [
+        "इनमें से कोई नहीं",
+        "डेकर प्रभाव",
+        "सर्वोदय",
+        "आयकर (Income Tax)"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'इनमें से कोई नहीं'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'इनमें से कोई नहीं'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'इनमें से कोई नहीं' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'इनमें से कोई नहीं' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Economy.",
+      "hintHi": "Indian Economy से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_economy_1388",
+      "q": "भारतीय रिजर्व बैंक को किस वर्ष राष्ट्रीकृत किया गया",
+      "questionText": "भारतीय रिजर्व बैंक को किस वर्ष राष्ट्रीकृत किया गया",
+      "qHi": "भारतीय रिजर्व बैंक को किस वर्ष राष्ट्रीकृत किया गया",
+      "questionTextHi": "भारतीय रिजर्व बैंक को किस वर्ष राष्ट्रीकृत किया गया",
+      "o": [
+        "मुम्बई इंडियन्स",
+        "हिमाचल प्रदेश",
+        "1949",
+        "दक्षिण-पश्चिमी व्यापारिक हवाओं का प्रवाह"
+      ],
+      "options": [
+        "मुम्बई इंडियन्स",
+        "हिमाचल प्रदेश",
+        "1949",
+        "दक्षिण-पश्चिमी व्यापारिक हवाओं का प्रवाह"
+      ],
+      "oHi": [
+        "मुम्बई इंडियन्स",
+        "हिमाचल प्रदेश",
+        "1949",
+        "दक्षिण-पश्चिमी व्यापारिक हवाओं का प्रवाह"
+      ],
+      "optionsHi": [
+        "मुम्बई इंडियन्स",
+        "हिमाचल प्रदेश",
+        "1949",
+        "दक्षिण-पश्चिमी व्यापारिक हवाओं का प्रवाह"
+      ],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is '1949'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is '1949'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '1949' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '1949' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Economy.",
+      "hintHi": "Indian Economy से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_economy_1392",
+      "q": "स्टेट बैंक ऑफ इण्डिया ने 2004 में देश का प्रथम तैरता ए.टी.एम. किस स्थान पर प्रारम्भ किया था",
+      "questionText": "स्टेट बैंक ऑफ इण्डिया ने 2004 में देश का प्रथम तैरता ए.टी.एम. किस स्थान पर प्रारम्भ किया था",
+      "qHi": "स्टेट बैंक ऑफ इण्डिया ने 2004 में देश का प्रथम तैरता ए.टी.एम. किस स्थान पर प्रारम्भ किया था",
+      "questionTextHi": "स्टेट बैंक ऑफ इण्डिया ने 2004 में देश का प्रथम तैरता ए.टी.एम. किस स्थान पर प्रारम्भ किया था",
+      "o": [
+        "1944",
+        "Numeric keys",
+        "कोच्चि",
+        "पुष्कर"
+      ],
+      "options": [
+        "1944",
+        "Numeric keys",
+        "कोच्चि",
+        "पुष्कर"
+      ],
+      "oHi": [
+        "1944",
+        "Numeric keys",
+        "कोच्चि",
+        "पुष्कर"
+      ],
+      "optionsHi": [
+        "1944",
+        "Numeric keys",
+        "कोच्चि",
+        "पुष्कर"
+      ],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'कोच्चि'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'कोच्चि'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'कोच्चि' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'कोच्चि' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Economy.",
+      "hintHi": "Indian Economy से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_economy_1393",
+      "q": "अन्तर्राष्ट्रीय मुद्रा कोष (IMF) की स्थापना किस वर्ष की गई",
+      "questionText": "अन्तर्राष्ट्रीय मुद्रा कोष (IMF) की स्थापना किस वर्ष की गई",
+      "qHi": "अन्तर्राष्ट्रीय मुद्रा कोष (IMF) की स्थापना किस वर्ष की गई",
+      "questionTextHi": "अन्तर्राष्ट्रीय मुद्रा कोष (IMF) की स्थापना किस वर्ष की गई",
+      "o": [
+        "1944",
+        "सर्वोदय",
+        "आयकर (Income Tax)",
+        "कोच्चि"
+      ],
+      "options": [
+        "1944",
+        "सर्वोदय",
+        "आयकर (Income Tax)",
+        "कोच्चि"
+      ],
+      "oHi": [
+        "1944",
+        "सर्वोदय",
+        "आयकर (Income Tax)",
+        "कोच्चि"
+      ],
+      "optionsHi": [
+        "1944",
+        "सर्वोदय",
+        "आयकर (Income Tax)",
+        "कोच्चि"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is '1944'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is '1944'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '1944' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '1944' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Economy.",
+      "hintHi": "Indian Economy से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_economy_1419",
+      "q": "किस राज्य द्वारा युवाओं को स्वरोजगार के लिए प्रेरित करने के लिए 'मुख्यमंत्री युवा स्वरोजगार योजना' चलाई जा रही है",
+      "questionText": "किस राज्य द्वारा युवाओं को स्वरोजगार के लिए प्रेरित करने के लिए 'मुख्यमंत्री युवा स्वरोजगार योजना' चलाई जा रही है",
+      "qHi": "किस राज्य द्वारा युवाओं को स्वरोजगार के लिए प्रेरित करने के लिए 'मुख्यमंत्री युवा स्वरोजगार योजना' चलाई जा रही है",
+      "questionTextHi": "किस राज्य द्वारा युवाओं को स्वरोजगार के लिए प्रेरित करने के लिए 'मुख्यमंत्री युवा स्वरोजगार योजना' चलाई जा रही है",
+      "o": [
+        "मध्य प्रदेश",
+        "मुम्बई इंडियन्स",
+        "योजना आयोग",
+        "यमन"
+      ],
+      "options": [
+        "मध्य प्रदेश",
+        "मुम्बई इंडियन्स",
+        "योजना आयोग",
+        "यमन"
+      ],
+      "oHi": [
+        "मध्य प्रदेश",
+        "मुम्बई इंडियन्स",
+        "योजना आयोग",
+        "यमन"
+      ],
+      "optionsHi": [
+        "मध्य प्रदेश",
+        "मुम्बई इंडियन्स",
+        "योजना आयोग",
+        "यमन"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'मध्य प्रदेश'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'मध्य प्रदेश'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'मध्य प्रदेश' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'मध्य प्रदेश' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Economy.",
+      "hintHi": "Indian Economy से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_economy_1432",
+      "q": "C3 पौधों में O2 की मौजूदगी में प्रकाश संश्लेषण के निषेध को क्या कहते हैं",
+      "questionText": "C3 पौधों में O2 की मौजूदगी में प्रकाश संश्लेषण के निषेध को क्या कहते हैं",
+      "qHi": "C3 पौधों में O2 की मौजूदगी में प्रकाश संश्लेषण के निषेध को क्या कहते हैं",
+      "questionTextHi": "C3 पौधों में O2 की मौजूदगी में प्रकाश संश्लेषण के निषेध को क्या कहते हैं",
+      "o": [
+        "चीन",
+        "नरेन्द्र मोदी",
+        "डेकर प्रभाव",
+        "इनमें से कोई नहीं"
+      ],
+      "options": [
+        "चीन",
+        "नरेन्द्र मोदी",
+        "डेकर प्रभाव",
+        "इनमें से कोई नहीं"
+      ],
+      "oHi": [
+        "चीन",
+        "नरेन्द्र मोदी",
+        "डेकर प्रभाव",
+        "इनमें से कोई नहीं"
+      ],
+      "optionsHi": [
+        "चीन",
+        "नरेन्द्र मोदी",
+        "डेकर प्रभाव",
+        "इनमें से कोई नहीं"
+      ],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'डेकर प्रभाव'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'डेकर प्रभाव'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'डेकर प्रभाव' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'डेकर प्रभाव' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Economy.",
+      "hintHi": "Indian Economy से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_economy_1479",
+      "q": "Name the central minister who launched GST Rates Finder App",
+      "questionText": "Name the central minister who launched GST Rates Finder App",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "1st February 2020",
+        "Reserve Bank of India",
+        "Finance Minister Arun Jaitley",
+        "Bankim Chandra Chatterji"
+      ],
+      "options": [
+        "1st February 2020",
+        "Reserve Bank of India",
+        "Finance Minister Arun Jaitley",
+        "Bankim Chandra Chatterji"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'Finance Minister Arun Jaitley'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Finance Minister Arun Jaitley'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Finance Minister Arun Jaitley' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Finance Minister Arun Jaitley' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Economy.",
+      "hintHi": "Indian Economy से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_economy_1491",
+      "q": "Which City is known as the “Forbidden City”?",
+      "questionText": "Which City is known as the “Forbidden City”?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Central Board of Direct Taxes",
+        "Securities and Exchange board of India",
+        "Yamuna River",
+        "Lhasa in Tibet"
+      ],
+      "options": [
+        "Central Board of Direct Taxes",
+        "Securities and Exchange board of India",
+        "Yamuna River",
+        "Lhasa in Tibet"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is 'Lhasa in Tibet'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Lhasa in Tibet'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Lhasa in Tibet' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Lhasa in Tibet' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Economy.",
+      "hintHi": "Indian Economy से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_economy_1609",
+      "q": "What is the expansion of SIDBI?",
+      "questionText": "What is the expansion of SIDBI?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Increasing Trend",
+        "Small Industries Development Bank of India",
+        "1st February 2020",
+        "1935"
+      ],
+      "options": [
+        "Increasing Trend",
+        "Small Industries Development Bank of India",
+        "1st February 2020",
+        "1935"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'Small Industries Development Bank of India'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Small Industries Development Bank of India'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Small Industries Development Bank of India' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Small Industries Development Bank of India' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Economy.",
+      "hintHi": "Indian Economy से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_economy_1650",
+      "q": "What is the Expansion of SEBI?",
+      "questionText": "What is the Expansion of SEBI?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "1st February 2020",
+        "Securities and Exchange board of India",
+        "Small Industries Development Bank of India",
+        "Repo Rate"
+      ],
+      "options": [
+        "1st February 2020",
+        "Securities and Exchange board of India",
+        "Small Industries Development Bank of India",
+        "Repo Rate"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'Securities and Exchange board of India'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Securities and Exchange board of India'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Securities and Exchange board of India' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Securities and Exchange board of India' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Economy.",
+      "hintHi": "Indian Economy से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_economy_1705",
+      "q": "Which is the First country to Introduce GST?",
+      "questionText": "Which is the First country to Introduce GST?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Bankim Chandra Chatterji",
+        "Small Industries Development Bank of India",
+        "France",
+        "Indian Rupee"
+      ],
+      "options": [
+        "Bankim Chandra Chatterji",
+        "Small Industries Development Bank of India",
+        "France",
+        "Indian Rupee"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'France'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'France'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'France' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'France' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Economy.",
+      "hintHi": "Indian Economy से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_economy_1748",
+      "q": "Which is India’s first Mars Orbiter Mission?",
+      "questionText": "Which is India’s first Mars Orbiter Mission?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Repo Rate",
+        "Securities and Exchange board of India",
+        "Mangalyaan",
+        "Mumbai"
+      ],
+      "options": [
+        "Repo Rate",
+        "Securities and Exchange board of India",
+        "Mangalyaan",
+        "Mumbai"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'Mangalyaan'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Mangalyaan'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Mangalyaan' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Mangalyaan' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Economy.",
+      "hintHi": "Indian Economy से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_economy_1771",
+      "q": "Who holds the Record for the Youngest Chief Minister amongst all",
+      "questionText": "Who holds the Record for the Youngest Chief Minister amongst all",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Finance Minister Arun Jaitley",
+        "State’s Share of Taxes and Duties",
+        "M. O. Hasan Farook Maricar",
+        "Morarji Desai"
+      ],
+      "options": [
+        "Finance Minister Arun Jaitley",
+        "State’s Share of Taxes and Duties",
+        "M. O. Hasan Farook Maricar",
+        "Morarji Desai"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'M. O. Hasan Farook Maricar'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'M. O. Hasan Farook Maricar'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'M. O. Hasan Farook Maricar' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'M. O. Hasan Farook Maricar' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Economy.",
+      "hintHi": "Indian Economy से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_economy_1776",
+      "q": "Who presented the Union Budget of India the Maximum Number of",
+      "questionText": "Who presented the Union Budget of India the Maximum Number of",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Morarji Desai",
+        "2017",
+        "Repo Rate",
+        "Small Industries Development Bank of India"
+      ],
+      "options": [
+        "Morarji Desai",
+        "2017",
+        "Repo Rate",
+        "Small Industries Development Bank of India"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'Morarji Desai'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Morarji Desai'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Morarji Desai' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Morarji Desai' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Economy.",
+      "hintHi": "Indian Economy से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_economy_1777",
+      "q": "What is the Term for the Rate at which the Reserve Bank of India lends",
+      "questionText": "What is the Term for the Rate at which the Reserve Bank of India lends",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Small Industries Development Bank of India",
+        "Bankim Chandra Chatterjee",
+        "Repo Rate",
+        "Morarji Desai"
+      ],
+      "options": [
+        "Small Industries Development Bank of India",
+        "Bankim Chandra Chatterjee",
+        "Repo Rate",
+        "Morarji Desai"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'Repo Rate'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Repo Rate'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Repo Rate' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Repo Rate' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Economy.",
+      "hintHi": "Indian Economy से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_economy_1779",
+      "q": "What is the Trend for the Pricing of the Bank Products in an Inflationary",
+      "questionText": "What is the Trend for the Pricing of the Bank Products in an Inflationary",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Bankim Chandra Chatterjee",
+        "France",
+        "Increasing Trend",
+        "Mangalyaan"
+      ],
+      "options": [
+        "Bankim Chandra Chatterjee",
+        "France",
+        "Increasing Trend",
+        "Mangalyaan"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'Increasing Trend'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Increasing Trend'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Increasing Trend' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Increasing Trend' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Economy.",
+      "hintHi": "Indian Economy से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
     }
   ],
-  "questionCount": 5
+  "questionCount": 90
 }

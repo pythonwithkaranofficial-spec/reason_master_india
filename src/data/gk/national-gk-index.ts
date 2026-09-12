@@ -14,7 +14,7 @@ export const ALL_NATIONAL_TOPICS_SUMMARY: GKTopicSummary[] = [
     "summary": "From the Indus Valley Civilization and Vedic eras to Mauryan, Gupta, Mughal empires, and the Indian Freedom Struggle (1857-1947).",
     "subtopicCount": 3,
     "factCount": 7,
-    "questionCount": 10,
+    "questionCount": 121,
     "subtopics": [
       {
         "id": "ancient_india",
@@ -45,7 +45,7 @@ export const ALL_NATIONAL_TOPICS_SUMMARY: GKTopicSummary[] = [
     "summary": "Preamble, Fundamental Rights, Directive Principles, President, Parliament, Judiciary, and Constitutional Amendments.",
     "subtopicCount": 2,
     "factCount": 4,
-    "questionCount": 14,
+    "questionCount": 192,
     "subtopics": [
       {
         "id": "preamble_citizenship",
@@ -70,7 +70,7 @@ export const ALL_NATIONAL_TOPICS_SUMMARY: GKTopicSummary[] = [
     "summary": "Physiography, Himalayan & Peninsular river basins, Monsoons, Soils, Forests, and Mineral resources.",
     "subtopicCount": 1,
     "factCount": 2,
-    "questionCount": 5,
+    "questionCount": 151,
     "subtopics": [
       {
         "id": "physiography_himalayas",
@@ -89,7 +89,7 @@ export const ALL_NATIONAL_TOPICS_SUMMARY: GKTopicSummary[] = [
     "summary": "NITI Aayog, Five Year Plans, Budget, Taxation (GST), RBI & Monetary Policy, Banking, and Agriculture.",
     "subtopicCount": 1,
     "factCount": 2,
-    "questionCount": 5,
+    "questionCount": 90,
     "subtopics": [
       {
         "id": "rbi_banking",
@@ -108,7 +108,7 @@ export const ALL_NATIONAL_TOPICS_SUMMARY: GKTopicSummary[] = [
     "summary": "ISRO space missions, DRDO defense systems, nuclear energy, biotechnology, and IT.",
     "subtopicCount": 1,
     "factCount": 2,
-    "questionCount": 4,
+    "questionCount": 117,
     "subtopics": [
       {
         "id": "isro_missions",
@@ -127,7 +127,7 @@ export const ALL_NATIONAL_TOPICS_SUMMARY: GKTopicSummary[] = [
     "summary": "Olympics, Asian Games, Commonwealth Games, Cricket World Cups, Trophies, and Major Dhyan Chand Khel Ratna.",
     "subtopicCount": 1,
     "factCount": 2,
-    "questionCount": 2,
+    "questionCount": 48,
     "subtopics": [
       {
         "id": "olympic_achievements",
@@ -146,7 +146,7 @@ export const ALL_NATIONAL_TOPICS_SUMMARY: GKTopicSummary[] = [
     "summary": "Ancient Sanskrit classics, Freedom struggle memoirs, and contemporary Booker and Sahitya Akademi prize-winners.",
     "subtopicCount": 1,
     "factCount": 2,
-    "questionCount": 17,
+    "questionCount": 77,
     "subtopics": [
       {
         "id": "classical_ancient_books",
@@ -165,7 +165,7 @@ export const ALL_NATIONAL_TOPICS_SUMMARY: GKTopicSummary[] = [
     "summary": "Civilian awards (Bharat Ratna, Padma), Gallantry awards, Literary, Cinema, and Sports honours.",
     "subtopicCount": 1,
     "factCount": 2,
-    "questionCount": 10,
+    "questionCount": 42,
     "subtopics": [
       {
         "id": "civilian_awards",
@@ -184,7 +184,7 @@ export const ALL_NATIONAL_TOPICS_SUMMARY: GKTopicSummary[] = [
     "summary": "Commemorative national days, anniversaries, and associated historical events.",
     "subtopicCount": 1,
     "factCount": 2,
-    "questionCount": 2,
+    "questionCount": 13,
     "subtopics": [
       {
         "id": "national_observances",
@@ -203,7 +203,7 @@ export const ALL_NATIONAL_TOPICS_SUMMARY: GKTopicSummary[] = [
     "summary": "Tiger reserves, elephant reserves, biosphere reserves, Ramsar wetland sites, and endangered fauna.",
     "subtopicCount": 1,
     "factCount": 2,
-    "questionCount": 4,
+    "questionCount": 21,
     "subtopics": [
       {
         "id": "tiger_reserves_parks",
@@ -222,7 +222,7 @@ export const ALL_NATIONAL_TOPICS_SUMMARY: GKTopicSummary[] = [
     "summary": "First officeholders, highest/longest/largest geographical wonders, national emblems, and superlatives.",
     "subtopicCount": 1,
     "factCount": 2,
-    "questionCount": 14,
+    "questionCount": 975,
     "subtopics": [
       {
         "id": "first_in_india",

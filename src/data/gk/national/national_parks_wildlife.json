@@ -353,7 +353,521 @@
         "Banking",
         "RRB"
       ]
+    },
+    {
+      "id": "gk_ext_national_parks_wildlife_201",
+      "q": "Which is the largest tiger reserve in India?",
+      "questionText": "Which is the largest tiger reserve in India?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Jim Corbett National Park",
+        "Meghalaya",
+        "West Bengal",
+        "Nagarjunsagar-Srisailam Tiger Reserve"
+      ],
+      "options": [
+        "Jim Corbett National Park",
+        "Meghalaya",
+        "West Bengal",
+        "Nagarjunsagar-Srisailam Tiger Reserve"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is 'Nagarjunsagar-Srisailam Tiger Reserve'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Nagarjunsagar-Srisailam Tiger Reserve'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Nagarjunsagar-Srisailam Tiger Reserve' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Nagarjunsagar-Srisailam Tiger Reserve' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from National Parks Wildlife.",
+      "hintHi": "National Parks Wildlife से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_national_parks_wildlife_213",
+      "q": "Which is the first national park in India?",
+      "questionText": "Which is the first national park in India?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Corbett National Park",
+        "West Bengal",
+        "Jim Corbett National Park",
+        "Assam"
+      ],
+      "options": [
+        "Corbett National Park",
+        "West Bengal",
+        "Jim Corbett National Park",
+        "Assam"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'Jim Corbett National Park'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Jim Corbett National Park'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Jim Corbett National Park' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Jim Corbett National Park' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from National Parks Wildlife.",
+      "hintHi": "National Parks Wildlife से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_national_parks_wildlife_239",
+      "q": "Which is the largest tiger reserve in India by area?",
+      "questionText": "Which is the largest tiger reserve in India by area?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Indravati Tiger Reserve",
+        "West Bengal",
+        "Nagarjunsagar-Srisailam Tiger Reserve",
+        "Meghalaya"
+      ],
+      "options": [
+        "Indravati Tiger Reserve",
+        "West Bengal",
+        "Nagarjunsagar-Srisailam Tiger Reserve",
+        "Meghalaya"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'Indravati Tiger Reserve'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Indravati Tiger Reserve'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Indravati Tiger Reserve' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Indravati Tiger Reserve' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from National Parks Wildlife.",
+      "hintHi": "National Parks Wildlife से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_national_parks_wildlife_245",
+      "q": "Which is the largest wildlife sanctuary in India?",
+      "questionText": "Which is the largest wildlife sanctuary in India?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Hemis National Park",
+        "Assam",
+        "Kumarakom Bird Sanctuary",
+        "Jim Corbett National Park"
+      ],
+      "options": [
+        "Hemis National Park",
+        "Assam",
+        "Kumarakom Bird Sanctuary",
+        "Jim Corbett National Park"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'Hemis National Park'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Hemis National Park'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Hemis National Park' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Hemis National Park' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from National Parks Wildlife.",
+      "hintHi": "National Parks Wildlife से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_national_parks_wildlife_247",
+      "q": "Which is the largest butterfly sanctuary in India?",
+      "questionText": "Which is the largest butterfly sanctuary in India?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Jim Corbett National Park",
+        "Indravati Tiger Reserve",
+        "Kaziranga National Park",
+        "Bhagwan Mahavir Wildlife Sanctuary"
+      ],
+      "options": [
+        "Jim Corbett National Park",
+        "Indravati Tiger Reserve",
+        "Kaziranga National Park",
+        "Bhagwan Mahavir Wildlife Sanctuary"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is 'Bhagwan Mahavir Wildlife Sanctuary'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Bhagwan Mahavir Wildlife Sanctuary'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Bhagwan Mahavir Wildlife Sanctuary' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Bhagwan Mahavir Wildlife Sanctuary' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from National Parks Wildlife.",
+      "hintHi": "National Parks Wildlife से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_national_parks_wildlife_283",
+      "q": "Which is the largest bird sanctuary in India?",
+      "questionText": "Which is the largest bird sanctuary in India?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Assam",
+        "Kumarakom Bird Sanctuary",
+        "Kaziranga National Park",
+        "Nagarjunsagar-Srisailam Tiger Reserve"
+      ],
+      "options": [
+        "Assam",
+        "Kumarakom Bird Sanctuary",
+        "Kaziranga National Park",
+        "Nagarjunsagar-Srisailam Tiger Reserve"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'Kumarakom Bird Sanctuary'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Kumarakom Bird Sanctuary'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Kumarakom Bird Sanctuary' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Kumarakom Bird Sanctuary' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from National Parks Wildlife.",
+      "hintHi": "National Parks Wildlife से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_national_parks_wildlife_291",
+      "q": "Which is the largest national park in India?",
+      "questionText": "Which is the largest national park in India?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Nagarjunsagar-Srisailam Tiger Reserve",
+        "Bhagwan Mahavir Wildlife Sanctuary",
+        "Hemis National Park",
+        "West Bengal"
+      ],
+      "options": [
+        "Nagarjunsagar-Srisailam Tiger Reserve",
+        "Bhagwan Mahavir Wildlife Sanctuary",
+        "Hemis National Park",
+        "West Bengal"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'Hemis National Park'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Hemis National Park'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Hemis National Park' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Hemis National Park' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from National Parks Wildlife.",
+      "hintHi": "National Parks Wildlife से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_national_parks_wildlife_535",
+      "q": "Where is the Kaziranga Park Located?",
+      "questionText": "Where is the Kaziranga Park Located?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Assam",
+        "Meghalaya",
+        "West Bengal",
+        "Nagarjunsagar-Srisailam Tiger Reserve"
+      ],
+      "options": [
+        "Assam",
+        "Meghalaya",
+        "West Bengal",
+        "Nagarjunsagar-Srisailam Tiger Reserve"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'Assam'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Assam'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Assam' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Assam' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from National Parks Wildlife.",
+      "hintHi": "National Parks Wildlife से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_national_parks_wildlife_549",
+      "q": "Which is the first National Park established in India?",
+      "questionText": "Which is the first National Park established in India?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Corbett National Park",
+        "Assam",
+        "Jim Corbett National Park",
+        "West Bengal"
+      ],
+      "options": [
+        "Corbett National Park",
+        "Assam",
+        "Jim Corbett National Park",
+        "West Bengal"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'Corbett National Park'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Corbett National Park'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Corbett National Park' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Corbett National Park' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from National Parks Wildlife.",
+      "hintHi": "National Parks Wildlife से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_national_parks_wildlife_926",
+      "q": "Where is Kaziranga National Park?",
+      "questionText": "Where is Kaziranga National Park?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Assam",
+        "Kaziranga National Park",
+        "West Bengal",
+        "Bhagwan Mahavir Wildlife Sanctuary"
+      ],
+      "options": [
+        "Assam",
+        "Kaziranga National Park",
+        "West Bengal",
+        "Bhagwan Mahavir Wildlife Sanctuary"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'Assam'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Assam'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Assam' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Assam' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from National Parks Wildlife.",
+      "hintHi": "National Parks Wildlife से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_national_parks_wildlife_1172",
+      "q": "भारत में स्थापित पहला राष्ट्रीय उद्यान कौन-सा है",
+      "questionText": "भारत में स्थापित पहला राष्ट्रीय उद्यान कौन-सा है",
+      "qHi": "भारत में स्थापित पहला राष्ट्रीय उद्यान कौन-सा है",
+      "questionTextHi": "भारत में स्थापित पहला राष्ट्रीय उद्यान कौन-सा है",
+      "o": [
+        "नई दिल्ली",
+        "जिम कॉर्बेट राष्ट्रीय उद्यान",
+        "कालिदास",
+        "1950"
+      ],
+      "options": [
+        "नई दिल्ली",
+        "जिम कॉर्बेट राष्ट्रीय उद्यान",
+        "कालिदास",
+        "1950"
+      ],
+      "oHi": [
+        "नई दिल्ली",
+        "जिम कॉर्बेट राष्ट्रीय उद्यान",
+        "कालिदास",
+        "1950"
+      ],
+      "optionsHi": [
+        "नई दिल्ली",
+        "जिम कॉर्बेट राष्ट्रीय उद्यान",
+        "कालिदास",
+        "1950"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'जिम कॉर्बेट राष्ट्रीय उद्यान'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'जिम कॉर्बेट राष्ट्रीय उद्यान'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'जिम कॉर्बेट राष्ट्रीय उद्यान' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'जिम कॉर्बेट राष्ट्रीय उद्यान' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from National Parks Wildlife.",
+      "hintHi": "National Parks Wildlife से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_national_parks_wildlife_1539",
+      "q": "Where is the Sundarban Tiger Reserve Situated?",
+      "questionText": "Where is the Sundarban Tiger Reserve Situated?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Indravati Tiger Reserve",
+        "West Bengal",
+        "Corbett National Park",
+        "Kumarakom Bird Sanctuary"
+      ],
+      "options": [
+        "Indravati Tiger Reserve",
+        "West Bengal",
+        "Corbett National Park",
+        "Kumarakom Bird Sanctuary"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'West Bengal'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'West Bengal'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'West Bengal' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'West Bengal' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from National Parks Wildlife.",
+      "hintHi": "National Parks Wildlife से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_national_parks_wildlife_1642",
+      "q": "Where is the Nokrek Biosphere Reserve Located?",
+      "questionText": "Where is the Nokrek Biosphere Reserve Located?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Meghalaya",
+        "Corbett National Park",
+        "Kaziranga National Park",
+        "Nagarjunsagar-Srisailam Tiger Reserve"
+      ],
+      "options": [
+        "Meghalaya",
+        "Corbett National Park",
+        "Kaziranga National Park",
+        "Nagarjunsagar-Srisailam Tiger Reserve"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'Meghalaya'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Meghalaya'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Meghalaya' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Meghalaya' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from National Parks Wildlife.",
+      "hintHi": "National Parks Wildlife से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_national_parks_wildlife_1651",
+      "q": "Which sanctuary is famous for one-horned Rhinoceros?",
+      "questionText": "Which sanctuary is famous for one-horned Rhinoceros?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Hemis National Park",
+        "Kaziranga National Park",
+        "Assam",
+        "Nagarjunsagar-Srisailam Tiger Reserve"
+      ],
+      "options": [
+        "Hemis National Park",
+        "Kaziranga National Park",
+        "Assam",
+        "Nagarjunsagar-Srisailam Tiger Reserve"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'Kaziranga National Park'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Kaziranga National Park'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Kaziranga National Park' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Kaziranga National Park' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from National Parks Wildlife.",
+      "hintHi": "National Parks Wildlife से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
     }
   ],
-  "questionCount": 4
+  "questionCount": 21
 }

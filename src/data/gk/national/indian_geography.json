@@ -1262,7 +1262,4737 @@
         "NDA",
         "RRB"
       ]
+    },
+    {
+      "id": "gk_ext_indian_geography_135",
+      "q": "Where is Indira Point located?",
+      "questionText": "Where is Indira Point located?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "in the Nicobar Islands",
+        "Shimla",
+        "Sarvepalli Radhakrishnan (1954)",
+        "Tropic of Cancer"
+      ],
+      "options": [
+        "in the Nicobar Islands",
+        "Shimla",
+        "Sarvepalli Radhakrishnan (1954)",
+        "Tropic of Cancer"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'in the Nicobar Islands'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'in the Nicobar Islands'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'in the Nicobar Islands' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'in the Nicobar Islands' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_138",
+      "q": "Which are the Indian states touching the border of India and Myanmar?",
+      "questionText": "Which are the Indian states touching the border of India and Myanmar?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Arunachal Pradesh, Nagaland, Manipur, and Mizoram",
+        "7 Countries (Bangladesh, Myanmar, Bhutan, China, Nepal",
+        "Tlawng River",
+        "Aravalli Range"
+      ],
+      "options": [
+        "Arunachal Pradesh, Nagaland, Manipur, and Mizoram",
+        "7 Countries (Bangladesh, Myanmar, Bhutan, China, Nepal",
+        "Tlawng River",
+        "Aravalli Range"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'Arunachal Pradesh, Nagaland, Manipur, and Mizoram'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Arunachal Pradesh, Nagaland, Manipur, and Mizoram'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Arunachal Pradesh, Nagaland, Manipur, and Mizoram' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Arunachal Pradesh, Nagaland, Manipur, and Mizoram' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_139",
+      "q": "Which are the Indian states touching the border of India and Bangladesh?",
+      "questionText": "Which are the Indian states touching the border of India and Bangladesh?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Goa",
+        "Devprayag",
+        "Mizoram, Tripura, Assam, Meghalaya, and P. Bengal",
+        "Hirakud Dam in Odisha"
+      ],
+      "options": [
+        "Goa",
+        "Devprayag",
+        "Mizoram, Tripura, Assam, Meghalaya, and P. Bengal",
+        "Hirakud Dam in Odisha"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'Mizoram, Tripura, Assam, Meghalaya, and P. Bengal'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Mizoram, Tripura, Assam, Meghalaya, and P. Bengal'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Mizoram, Tripura, Assam, Meghalaya, and P. Bengal' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Mizoram, Tripura, Assam, Meghalaya, and P. Bengal' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_140",
+      "q": "How many states of India join the border of the neighboring country?",
+      "questionText": "How many states of India join the border of the neighboring country?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Sardar Sarovar Dam",
+        "Ganges River",
+        "Godavari",
+        "17"
+      ],
+      "options": [
+        "Sardar Sarovar Dam",
+        "Ganges River",
+        "Godavari",
+        "17"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is '17'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is '17'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '17' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '17' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_144",
+      "q": "Which sea is in the south-west of India",
+      "questionText": "Which sea is in the south-west of India",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Punjab",
+        "Tehri Dam Hydroelectric Power Plant",
+        "Arabian Sea",
+        "Indus River"
+      ],
+      "options": [
+        "Punjab",
+        "Tehri Dam Hydroelectric Power Plant",
+        "Arabian Sea",
+        "Indus River"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'Arabian Sea'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Arabian Sea'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Arabian Sea' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Arabian Sea' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_146",
+      "q": "Which gulf is in the south-east of India",
+      "questionText": "Which gulf is in the south-east of India",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "from the middle",
+        "Tlawng River",
+        "Bay of Bengal",
+        "River Kosi"
+      ],
+      "options": [
+        "from the middle",
+        "Tlawng River",
+        "Bay of Bengal",
+        "River Kosi"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'Bay of Bengal'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Bay of Bengal'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Bay of Bengal' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Bay of Bengal' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_147",
+      "q": "Which state has the shortest coastline",
+      "questionText": "Which state has the shortest coastline",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Tripura",
+        "Dal Lake in Srinagar",
+        "Bangladesh",
+        "of Goa"
+      ],
+      "options": [
+        "Tripura",
+        "Dal Lake in Srinagar",
+        "Bangladesh",
+        "of Goa"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is 'of Goa'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'of Goa'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'of Goa' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'of Goa' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_154",
+      "q": "Through which part of India does the Tropic of Cancer pass?",
+      "questionText": "Through which part of India does the Tropic of Cancer pass?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "from the middle",
+        "9",
+        "Cochin",
+        "Aravalli Range"
+      ],
+      "options": [
+        "from the middle",
+        "9",
+        "Cochin",
+        "Aravalli Range"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'from the middle'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'from the middle'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'from the middle' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'from the middle' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_155",
+      "q": "Whose coastline is the longest in Indian states?",
+      "questionText": "Whose coastline is the longest in Indian states?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Gujarat",
+        "Chilika Lake",
+        "Ganges River Dolphin",
+        "Finland"
+      ],
+      "options": [
+        "Gujarat",
+        "Chilika Lake",
+        "Ganges River Dolphin",
+        "Finland"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'Gujarat'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Gujarat'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Gujarat' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Gujarat' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_156",
+      "q": "Which state has the longest coastline after Gujarat?",
+      "questionText": "Which state has the longest coastline after Gujarat?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Mizoram, Tripura, Assam, Meghalaya, and P. Bengal",
+        "of Andhra Pradesh",
+        "Chambal River",
+        "30%"
+      ],
+      "options": [
+        "Mizoram, Tripura, Assam, Meghalaya, and P. Bengal",
+        "of Andhra Pradesh",
+        "Chambal River",
+        "30%"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'of Andhra Pradesh'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'of Andhra Pradesh'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'of Andhra Pradesh' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'of Andhra Pradesh' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_157",
+      "q": "How many states of India are attached to the coastline",
+      "questionText": "How many states of India are attached to the coastline",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Bal Gangadhar Tilak",
+        "9",
+        "17",
+        "River Kosi"
+      ],
+      "options": [
+        "Bal Gangadhar Tilak",
+        "9",
+        "17",
+        "River Kosi"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is '9'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is '9'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '9' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '9' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_161",
+      "q": "Tropic of Cancer passes through how many states of India?",
+      "questionText": "Tropic of Cancer passes through how many states of India?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "8",
+        "10 Lakh",
+        "Vembanad Lake",
+        "Chilika Lake"
+      ],
+      "options": [
+        "8",
+        "10 Lakh",
+        "Vembanad Lake",
+        "Chilika Lake"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is '8'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is '8'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '8' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '8' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_162",
+      "q": "Which latitude line passes through the middle of India?",
+      "questionText": "Which latitude line passes through the middle of India?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Mizoram, Tripura, Assam, Meghalaya, and P. Bengal",
+        "Nilgiri Hills",
+        "Tropic of Cancer",
+        "Wular Lake"
+      ],
+      "options": [
+        "Mizoram, Tripura, Assam, Meghalaya, and P. Bengal",
+        "Nilgiri Hills",
+        "Tropic of Cancer",
+        "Wular Lake"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'Tropic of Cancer'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Tropic of Cancer'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Tropic of Cancer' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Tropic of Cancer' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_165",
+      "q": "Where are the Andaman-Nicobar Islands located?",
+      "questionText": "Where are the Andaman-Nicobar Islands located?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Bengaluru",
+        "Bangladesh (4,156Km)",
+        "8 States",
+        "in the Bay of Bengal"
+      ],
+      "options": [
+        "Bengaluru",
+        "Bangladesh (4,156Km)",
+        "8 States",
+        "in the Bay of Bengal"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is 'in the Bay of Bengal'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'in the Bay of Bengal'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'in the Bay of Bengal' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'in the Bay of Bengal' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_170",
+      "q": "Which state of India touches the border of China, Nepal, and Bhutan",
+      "questionText": "Which state of India touches the border of China, Nepal, and Bhutan",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "of Goa",
+        "Indus River",
+        "Chambal River",
+        "Sikkim"
+      ],
+      "options": [
+        "of Goa",
+        "Indus River",
+        "Chambal River",
+        "Sikkim"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is 'Sikkim'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Sikkim'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Sikkim' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Sikkim' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_189",
+      "q": "Which is the largest river in India?",
+      "questionText": "Which is the largest river in India?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Daman",
+        "Cardamom",
+        "Ganga",
+        "Western Ghats"
+      ],
+      "options": [
+        "Daman",
+        "Cardamom",
+        "Ganga",
+        "Western Ghats"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'Ganga'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Ganga'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Ganga' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Ganga' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_203",
+      "q": "Which is the longest river in South India?",
+      "questionText": "Which is the longest river in South India?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Aravalli Range",
+        "Godavari River",
+        "8",
+        "Darjeeling, India"
+      ],
+      "options": [
+        "Aravalli Range",
+        "Godavari River",
+        "8",
+        "Darjeeling, India"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'Godavari River'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Godavari River'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Godavari River' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Godavari River' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_207",
+      "q": "Which is the largest brackish water lake in India?",
+      "questionText": "Which is the largest brackish water lake in India?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "from the middle",
+        "Chilika Lake",
+        "8",
+        "Vembanad Lake"
+      ],
+      "options": [
+        "from the middle",
+        "Chilika Lake",
+        "8",
+        "Vembanad Lake"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'Chilika Lake'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Chilika Lake'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Chilika Lake' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Chilika Lake' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_215",
+      "q": "Which is the largest river island in India?",
+      "questionText": "Which is the largest river island in India?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Siang River",
+        "Majuli Island",
+        "7 Countries (Bangladesh, Myanmar, Bhutan, China, Nepal",
+        "Damodar River"
+      ],
+      "options": [
+        "Siang River",
+        "Majuli Island",
+        "7 Countries (Bangladesh, Myanmar, Bhutan, China, Nepal",
+        "Damodar River"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'Majuli Island'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Majuli Island'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Majuli Island' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Majuli Island' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_217",
+      "q": "Which is the largest delta in India?",
+      "questionText": "Which is the largest delta in India?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Arabian Sea",
+        "Sundarbans Delta",
+        "Bangladesh",
+        "Gujarat"
+      ],
+      "options": [
+        "Arabian Sea",
+        "Sundarbans Delta",
+        "Bangladesh",
+        "Gujarat"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'Sundarbans Delta'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Sundarbans Delta'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Sundarbans Delta' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Sundarbans Delta' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_219",
+      "q": "Which is the largest artificial lake in India?",
+      "questionText": "Which is the largest artificial lake in India?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Govind Ballabh Pant Sagar",
+        "7 Countries (Bangladesh, Myanmar, Bhutan, China, Nepal",
+        "Dal Lake in Srinagar",
+        "Afghanistan, Pakistan)"
+      ],
+      "options": [
+        "Govind Ballabh Pant Sagar",
+        "7 Countries (Bangladesh, Myanmar, Bhutan, China, Nepal",
+        "Dal Lake in Srinagar",
+        "Afghanistan, Pakistan)"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'Govind Ballabh Pant Sagar'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Govind Ballabh Pant Sagar'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Govind Ballabh Pant Sagar' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Govind Ballabh Pant Sagar' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_220",
+      "q": "Who is known as the Lokmanya?",
+      "questionText": "Who is known as the Lokmanya?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "10 Lakh",
+        "Bal Gangadhar Tilak",
+        "Tripura",
+        "4"
+      ],
+      "options": [
+        "10 Lakh",
+        "Bal Gangadhar Tilak",
+        "Tripura",
+        "4"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'Bal Gangadhar Tilak'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Bal Gangadhar Tilak'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Bal Gangadhar Tilak' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Bal Gangadhar Tilak' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_221",
+      "q": "Which is the largest dam in India?",
+      "questionText": "Which is the largest dam in India?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Tehri Dam",
+        "30%",
+        "Bhikaiji Cama",
+        "Ganges River"
+      ],
+      "options": [
+        "Tehri Dam",
+        "30%",
+        "Bhikaiji Cama",
+        "Ganges River"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'Tehri Dam'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Tehri Dam'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Tehri Dam' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Tehri Dam' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_227",
+      "q": "Which is the largest freshwater lake in India?",
+      "questionText": "Which is the largest freshwater lake in India?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Siang River",
+        "Wular Lake",
+        "Vembanad Lake",
+        "from the middle"
+      ],
+      "options": [
+        "Siang River",
+        "Wular Lake",
+        "Vembanad Lake",
+        "from the middle"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'Wular Lake'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Wular Lake'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Wular Lake' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Wular Lake' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_229",
+      "q": "Which is the largest river island in the Brahmaputra River?",
+      "questionText": "Which is the largest river island in the Brahmaputra River?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Tehri Dam Hydroelectric Power Plant",
+        "Gujarat",
+        "Hirakud Dam in Odisha",
+        "Majuli Island"
+      ],
+      "options": [
+        "Tehri Dam Hydroelectric Power Plant",
+        "Gujarat",
+        "Hirakud Dam in Odisha",
+        "Majuli Island"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is 'Majuli Island'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Majuli Island'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Majuli Island' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Majuli Island' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_237",
+      "q": "Which is the largest man-made lake in India?",
+      "questionText": "Which is the largest man-made lake in India?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Sundarbans Delta",
+        "Sardar Sarovar Dam",
+        "30%",
+        "Study of Agricultural soils"
+      ],
+      "options": [
+        "Sundarbans Delta",
+        "Sardar Sarovar Dam",
+        "30%",
+        "Study of Agricultural soils"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'Sardar Sarovar Dam'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Sardar Sarovar Dam'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Sardar Sarovar Dam' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Sardar Sarovar Dam' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_246",
+      "q": "Which is the largest saltwater lake in India?",
+      "questionText": "Which is the largest saltwater lake in India?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Devprayag",
+        "Ganges River Dolphin",
+        "Willingdon Island",
+        "Chilika Lake"
+      ],
+      "options": [
+        "Devprayag",
+        "Ganges River Dolphin",
+        "Willingdon Island",
+        "Chilika Lake"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is 'Chilika Lake'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Chilika Lake'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Chilika Lake' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Chilika Lake' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_258",
+      "q": "Which is the largest mangrove forest in India?",
+      "questionText": "Which is the largest mangrove forest in India?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Sundarbans",
+        "Western Ghats",
+        "Shimla",
+        "Tripura"
+      ],
+      "options": [
+        "Sundarbans",
+        "Western Ghats",
+        "Shimla",
+        "Tripura"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'Sundarbans'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Sundarbans'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Sundarbans' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Sundarbans' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_262",
+      "q": "Which is the largest freshwater fish in India?",
+      "questionText": "Which is the largest freshwater fish in India?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Bhikaiji Cama",
+        "Wular Lake",
+        "Chilika Lake",
+        "Ganges River Dolphin"
+      ],
+      "options": [
+        "Bhikaiji Cama",
+        "Wular Lake",
+        "Chilika Lake",
+        "Ganges River Dolphin"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is 'Ganges River Dolphin'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Ganges River Dolphin'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Ganges River Dolphin' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Ganges River Dolphin' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_264",
+      "q": "Which is the largest freshwater island in India?",
+      "questionText": "Which is the largest freshwater island in India?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Indus River",
+        "Afghanistan, Pakistan)",
+        "Majuli Island",
+        "from the middle"
+      ],
+      "options": [
+        "Indus River",
+        "Afghanistan, Pakistan)",
+        "Majuli Island",
+        "from the middle"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'Majuli Island'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Majuli Island'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Majuli Island' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Majuli Island' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_275",
+      "q": "Which is the largest artificial island in India?",
+      "questionText": "Which is the largest artificial island in India?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Ireland",
+        "Wular Lake",
+        "Willingdon Island",
+        "Goa"
+      ],
+      "options": [
+        "Ireland",
+        "Wular Lake",
+        "Willingdon Island",
+        "Goa"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'Willingdon Island'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Willingdon Island'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Willingdon Island' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Willingdon Island' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_302",
+      "q": "Which is the largest river in India by discharge?",
+      "questionText": "Which is the largest river in India by discharge?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Sarvepalli Radhakrishnan (1954)",
+        "Surendranath Tagore",
+        "Ganges River",
+        "Vembanad Lake"
+      ],
+      "options": [
+        "Sarvepalli Radhakrishnan (1954)",
+        "Surendranath Tagore",
+        "Ganges River",
+        "Vembanad Lake"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'Ganges River'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Ganges River'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Ganges River' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Ganges River' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_307",
+      "q": "Which is the largest floating market in India?",
+      "questionText": "Which is the largest floating market in India?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Narmada River",
+        "Indus River",
+        "Bangladesh (4,156Km)",
+        "Loktak Lake Floating Market"
+      ],
+      "options": [
+        "Narmada River",
+        "Indus River",
+        "Bangladesh (4,156Km)",
+        "Loktak Lake Floating Market"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is 'Loktak Lake Floating Market'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Loktak Lake Floating Market'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Loktak Lake Floating Market' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Loktak Lake Floating Market' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_313",
+      "q": "Which is the largest hydroelectric power plant in India?",
+      "questionText": "Which is the largest hydroelectric power plant in India?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "8",
+        "Finland",
+        "Tehri Dam Hydroelectric Power Plant",
+        "River Kosi"
+      ],
+      "options": [
+        "8",
+        "Finland",
+        "Tehri Dam Hydroelectric Power Plant",
+        "River Kosi"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'Tehri Dam Hydroelectric Power Plant'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Tehri Dam Hydroelectric Power Plant'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Tehri Dam Hydroelectric Power Plant' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Tehri Dam Hydroelectric Power Plant' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_332",
+      "q": "Which is the largest dam on the Narmada River in India?",
+      "questionText": "Which is the largest dam on the Narmada River in India?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Sardar Sarovar Dam",
+        "Cardamom",
+        "8",
+        "Loktak Lake Floating Market"
+      ],
+      "options": [
+        "Sardar Sarovar Dam",
+        "Cardamom",
+        "8",
+        "Loktak Lake Floating Market"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'Sardar Sarovar Dam'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Sardar Sarovar Dam'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Sardar Sarovar Dam' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Sardar Sarovar Dam' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_341",
+      "q": "Which is the largest freshwater wetland in India?",
+      "questionText": "Which is the largest freshwater wetland in India?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Chilika Lake, Odisha",
+        "Ganges River Dolphin",
+        "Indus River",
+        "Kosi"
+      ],
+      "options": [
+        "Chilika Lake, Odisha",
+        "Ganges River Dolphin",
+        "Indus River",
+        "Kosi"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'Chilika Lake, Odisha'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Chilika Lake, Odisha'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Chilika Lake, Odisha' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Chilika Lake, Odisha' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_364",
+      "q": "Which is the longest river in India?",
+      "questionText": "Which is the longest river in India?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Bhikaiji Cama",
+        "Daman",
+        "Tehri Dam Hydroelectric Power Plant",
+        "Ganga"
+      ],
+      "options": [
+        "Bhikaiji Cama",
+        "Daman",
+        "Tehri Dam Hydroelectric Power Plant",
+        "Ganga"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is 'Ganga'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Ganga'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Ganga' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Ganga' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_366",
+      "q": "Which Indian state has the longest coastline? Page 1 50 General Knowledge Questions with Answers",
+      "questionText": "Which Indian state has the longest coastline? Page 1 50 General Knowledge Questions with Answers",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "of Andhra Pradesh",
+        "Tehri Dam Hydroelectric Power Plant",
+        "Gujarat",
+        "Cardamom"
+      ],
+      "options": [
+        "of Andhra Pradesh",
+        "Tehri Dam Hydroelectric Power Plant",
+        "Gujarat",
+        "Cardamom"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'Gujarat'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Gujarat'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Gujarat' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Gujarat' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_367",
+      "q": "The Tropic of Cancer passes through how many Indian states?",
+      "questionText": "The Tropic of Cancer passes through how many Indian states?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Study of Agricultural soils",
+        "Bhikaiji Cama",
+        "8",
+        "7 Countries (Bangladesh, Myanmar, Bhutan, China, Nepal"
+      ],
+      "options": [
+        "Study of Agricultural soils",
+        "Bhikaiji Cama",
+        "8",
+        "7 Countries (Bangladesh, Myanmar, Bhutan, China, Nepal"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is '8'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is '8'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '8' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '8' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_370",
+      "q": "Name the river known as the Sorrow of Bihar",
+      "questionText": "Name the river known as the Sorrow of Bihar",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Cochin",
+        "Goa",
+        "Kosi",
+        "Gujarat"
+      ],
+      "options": [
+        "Cochin",
+        "Goa",
+        "Kosi",
+        "Gujarat"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'Kosi'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Kosi'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Kosi' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Kosi' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_371",
+      "q": "Which Indian lake is the largest in area?",
+      "questionText": "Which Indian lake is the largest in area?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Siang River",
+        "Bay of Bengal and Arabian Sea",
+        "8",
+        "Vembanad Lake"
+      ],
+      "options": [
+        "Siang River",
+        "Bay of Bengal and Arabian Sea",
+        "8",
+        "Vembanad Lake"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is 'Vembanad Lake'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Vembanad Lake'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Vembanad Lake' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Vembanad Lake' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_387",
+      "q": "Which city is known as the Silicon Valley of India?",
+      "questionText": "Which city is known as the Silicon Valley of India?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Govind Ballabh Pant Sagar",
+        "Ireland",
+        "Devprayag",
+        "Bengaluru"
+      ],
+      "options": [
+        "Govind Ballabh Pant Sagar",
+        "Ireland",
+        "Devprayag",
+        "Bengaluru"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is 'Bengaluru'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Bengaluru'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Bengaluru' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Bengaluru' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_426",
+      "q": "भारत की सबसे लंबी नदी कौन सी है?",
+      "questionText": "भारत की सबसे लंबी नदी कौन सी है?",
+      "qHi": "भारत की सबसे लंबी नदी कौन सी है?",
+      "questionTextHi": "भारत की सबसे लंबी नदी कौन सी है?",
+      "o": [
+        "यमुना",
+        "गंगा",
+        "ब्रह्मपुत्र",
+        "गोदावरी"
+      ],
+      "options": [
+        "यमुना",
+        "गंगा",
+        "ब्रह्मपुत्र",
+        "गोदावरी"
+      ],
+      "oHi": [
+        "यमुना",
+        "गंगा",
+        "ब्रह्मपुत्र",
+        "गोदावरी"
+      ],
+      "optionsHi": [
+        "यमुना",
+        "गंगा",
+        "ब्रह्मपुत्र",
+        "गोदावरी"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'गंगा'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'गंगा'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'गंगा' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'गंगा' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_430",
+      "q": "नर्मदा नदी किस दिशा में बहती है?",
+      "questionText": "नर्मदा नदी किस दिशा में बहती है?",
+      "qHi": "नर्मदा नदी किस दिशा में बहती है?",
+      "questionTextHi": "नर्मदा नदी किस दिशा में बहती है?",
+      "o": [
+        "पूर्व से पश्चिम",
+        "पश्चिम से पूर्व",
+        "उत्तर से दक्षिण",
+        "दक्षिण से उत्तर"
+      ],
+      "options": [
+        "पूर्व से पश्चिम",
+        "पश्चिम से पूर्व",
+        "उत्तर से दक्षिण",
+        "दक्षिण से उत्तर"
+      ],
+      "oHi": [
+        "पूर्व से पश्चिम",
+        "पश्चिम से पूर्व",
+        "उत्तर से दक्षिण",
+        "दक्षिण से उत्तर"
+      ],
+      "optionsHi": [
+        "पूर्व से पश्चिम",
+        "पश्चिम से पूर्व",
+        "उत्तर से दक्षिण",
+        "दक्षिण से उत्तर"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'पूर्व से पश्चिम'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'पूर्व से पश्चिम'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'पूर्व से पश्चिम' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'पूर्व से पश्चिम' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_431",
+      "q": "भारत का सबसे ऊँचा पर्वत शिखर कौन सा है?",
+      "questionText": "भारत का सबसे ऊँचा पर्वत शिखर कौन सा है?",
+      "qHi": "भारत का सबसे ऊँचा पर्वत शिखर कौन सा है?",
+      "questionTextHi": "भारत का सबसे ऊँचा पर्वत शिखर कौन सा है?",
+      "o": [
+        "नंदा देवी",
+        "कंचनजंगा",
+        "धौलागिरि",
+        "अरावली"
+      ],
+      "options": [
+        "नंदा देवी",
+        "कंचनजंगा",
+        "धौलागिरि",
+        "अरावली"
+      ],
+      "oHi": [
+        "नंदा देवी",
+        "कंचनजंगा",
+        "धौलागिरि",
+        "अरावली"
+      ],
+      "optionsHi": [
+        "नंदा देवी",
+        "कंचनजंगा",
+        "धौलागिरि",
+        "अरावली"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'कंचनजंगा'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'कंचनजंगा'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'कंचनजंगा' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'कंचनजंगा' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_432",
+      "q": "सुंदरबन डेल्टा किस नदी से बना है?",
+      "questionText": "सुंदरबन डेल्टा किस नदी से बना है?",
+      "qHi": "सुंदरबन डेल्टा किस नदी से बना है?",
+      "questionTextHi": "सुंदरबन डेल्टा किस नदी से बना है?",
+      "o": [
+        "गंगा",
+        "गोदावरी",
+        "कृष्णा",
+        "कावेरी"
+      ],
+      "options": [
+        "गंगा",
+        "गोदावरी",
+        "कृष्णा",
+        "कावेरी"
+      ],
+      "oHi": [
+        "गंगा",
+        "गोदावरी",
+        "कृष्णा",
+        "कावेरी"
+      ],
+      "optionsHi": [
+        "गंगा",
+        "गोदावरी",
+        "कृष्णा",
+        "कावेरी"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'गंगा'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'गंगा'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'गंगा' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'गंगा' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_433",
+      "q": "भारत की सबसे बड़ी झील (मीठे पानी की) कौन सी है?",
+      "questionText": "भारत की सबसे बड़ी झील (मीठे पानी की) कौन सी है?",
+      "qHi": "भारत की सबसे बड़ी झील (मीठे पानी की) कौन सी है?",
+      "questionTextHi": "भारत की सबसे बड़ी झील (मीठे पानी की) कौन सी है?",
+      "o": [
+        "वुलर झील",
+        "चिल्का झील",
+        "लोकटक झील",
+        "सांभर झील"
+      ],
+      "options": [
+        "वुलर झील",
+        "चिल्का झील",
+        "लोकटक झील",
+        "सांभर झील"
+      ],
+      "oHi": [
+        "वुलर झील",
+        "चिल्का झील",
+        "लोकटक झील",
+        "सांभर झील"
+      ],
+      "optionsHi": [
+        "वुलर झील",
+        "चिल्का झील",
+        "लोकटक झील",
+        "सांभर झील"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'वुलर झील'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'वुलर झील'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'वुलर झील' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'वुलर झील' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_435",
+      "q": "दक्कन का पठार किस भाग में स्थित है?",
+      "questionText": "दक्कन का पठार किस भाग में स्थित है?",
+      "qHi": "दक्कन का पठार किस भाग में स्थित है?",
+      "questionTextHi": "दक्कन का पठार किस भाग में स्थित है?",
+      "o": [
+        "उत्तर भारत",
+        "दक्षिण भारत",
+        "पूर्व भारत",
+        "पश्चिम भारत"
+      ],
+      "options": [
+        "उत्तर भारत",
+        "दक्षिण भारत",
+        "पूर्व भारत",
+        "पश्चिम भारत"
+      ],
+      "oHi": [
+        "उत्तर भारत",
+        "दक्षिण भारत",
+        "पूर्व भारत",
+        "पश्चिम भारत"
+      ],
+      "optionsHi": [
+        "उत्तर भारत",
+        "दक्षिण भारत",
+        "पूर्व भारत",
+        "पश्चिम भारत"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'दक्षिण भारत'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'दक्षिण भारत'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'दक्षिण भारत' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'दक्षिण भारत' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_436",
+      "q": "चिल्का झील किस राज्य में है?",
+      "questionText": "चिल्का झील किस राज्य में है?",
+      "qHi": "चिल्का झील किस राज्य में है?",
+      "questionTextHi": "चिल्का झील किस राज्य में है?",
+      "o": [
+        "ओडिशा",
+        "पश्चिम बंगाल",
+        "बिहार",
+        "असम"
+      ],
+      "options": [
+        "ओडिशा",
+        "पश्चिम बंगाल",
+        "बिहार",
+        "असम"
+      ],
+      "oHi": [
+        "ओडिशा",
+        "पश्चिम बंगाल",
+        "बिहार",
+        "असम"
+      ],
+      "optionsHi": [
+        "ओडिशा",
+        "पश्चिम बंगाल",
+        "बिहार",
+        "असम"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'ओडिशा'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'ओडिशा'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'ओडिशा' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'ओडिशा' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_439",
+      "q": "कावेरी नदी किस राज्य से निकलती है?",
+      "questionText": "कावेरी नदी किस राज्य से निकलती है?",
+      "qHi": "कावेरी नदी किस राज्य से निकलती है?",
+      "questionTextHi": "कावेरी नदी किस राज्य से निकलती है?",
+      "o": [
+        "केरल",
+        "तमिलनाडु",
+        "कर्नाटक",
+        "महाराष्ट्र"
+      ],
+      "options": [
+        "केरल",
+        "तमिलनाडु",
+        "कर्नाटक",
+        "महाराष्ट्र"
+      ],
+      "oHi": [
+        "केरल",
+        "तमिलनाडु",
+        "कर्नाटक",
+        "महाराष्ट्र"
+      ],
+      "optionsHi": [
+        "केरल",
+        "तमिलनाडु",
+        "कर्नाटक",
+        "महाराष्ट्र"
+      ],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'कर्नाटक'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'कर्नाटक'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'कर्नाटक' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'कर्नाटक' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_491",
+      "q": "Tropic of Cancer passes through how many Indian states?",
+      "questionText": "Tropic of Cancer passes through how many Indian states?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Indus River",
+        "Brahmaputra River",
+        "Arabian Sea",
+        "8 States"
+      ],
+      "options": [
+        "Indus River",
+        "Brahmaputra River",
+        "Arabian Sea",
+        "8 States"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is '8 States'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is '8 States'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '8 States' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '8 States' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_520",
+      "q": "Which City is known as the “Queen of Arabian Sea”?",
+      "questionText": "Which City is known as the “Queen of Arabian Sea”?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Govind Ballabh Pant Sagar",
+        "Cochin",
+        "Brahmaputra River",
+        "Bay of Bengal"
+      ],
+      "options": [
+        "Govind Ballabh Pant Sagar",
+        "Cochin",
+        "Brahmaputra River",
+        "Bay of Bengal"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'Cochin'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Cochin'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Cochin' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Cochin' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_529",
+      "q": "How Many Countries share their Borderline with India? 7 Countries (Bangladesh, Myanmar, Bhutan, China, Nepal",
+      "questionText": "How Many Countries share their Borderline with India? 7 Countries (Bangladesh, Myanmar, Bhutan, China, Nepal",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Gujarat",
+        "in the Nicobar Islands",
+        "Afghanistan, Pakistan)",
+        "Bay of Bengal and Arabian Sea"
+      ],
+      "options": [
+        "Gujarat",
+        "in the Nicobar Islands",
+        "Afghanistan, Pakistan)",
+        "Bay of Bengal and Arabian Sea"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'Afghanistan, Pakistan)'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Afghanistan, Pakistan)'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Afghanistan, Pakistan)' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Afghanistan, Pakistan)' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_537",
+      "q": "Where is India’s first Floating Post Office Established?",
+      "questionText": "Where is India’s first Floating Post Office Established?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Chilika Lake, Odisha",
+        "Dal Lake in Srinagar",
+        "New Amsterdam",
+        "Chilka Lake"
+      ],
+      "options": [
+        "Chilika Lake, Odisha",
+        "Dal Lake in Srinagar",
+        "New Amsterdam",
+        "Chilka Lake"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'Dal Lake in Srinagar'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Dal Lake in Srinagar'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Dal Lake in Srinagar' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Dal Lake in Srinagar' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_548",
+      "q": "Which is the Biggest Lake in India?",
+      "questionText": "Which is the Biggest Lake in India?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Yamuna River",
+        "Chilka Lake",
+        "in the Nicobar Islands",
+        "Tehri Dam Hydroelectric Power Plant"
+      ],
+      "options": [
+        "Yamuna River",
+        "Chilka Lake",
+        "in the Nicobar Islands",
+        "Tehri Dam Hydroelectric Power Plant"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'Chilka Lake'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Chilka Lake'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Chilka Lake' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Chilka Lake' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_562",
+      "q": "Which is the Capital of the Union Territory Daman & Diu?",
+      "questionText": "Which is the Capital of the Union Territory Daman & Diu?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Aravalli Range",
+        "Damodar River",
+        "8",
+        "Daman"
+      ],
+      "options": [
+        "Aravalli Range",
+        "Damodar River",
+        "8",
+        "Daman"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is 'Daman'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Daman'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Daman' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Daman' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_569",
+      "q": "Where is the Institute of Forest Genetics & Tree Breeding Located?",
+      "questionText": "Where is the Institute of Forest Genetics & Tree Breeding Located?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Province of the Snow-Clad Mountains",
+        "Coimbatore",
+        "Tropic of Cancer",
+        "Siang River"
+      ],
+      "options": [
+        "Province of the Snow-Clad Mountains",
+        "Coimbatore",
+        "Tropic of Cancer",
+        "Siang River"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'Coimbatore'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Coimbatore'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Coimbatore' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Coimbatore' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_603",
+      "q": "Name the Country that shares Longest Border with India",
+      "questionText": "Name the Country that shares Longest Border with India",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Bangladesh",
+        "4",
+        "Arunachal Pradesh, Nagaland, Manipur, and Mizoram",
+        "3"
+      ],
+      "options": [
+        "Bangladesh",
+        "4",
+        "Arunachal Pradesh, Nagaland, Manipur, and Mizoram",
+        "3"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'Bangladesh'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Bangladesh'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Bangladesh' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Bangladesh' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_632",
+      "q": "Which is known as the “Queen of Spices”?",
+      "questionText": "Which is known as the “Queen of Spices”?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Vembanad Lake",
+        "Shimla",
+        "Cardamom",
+        "Sarvepalli Radhakrishnan (1954)"
+      ],
+      "options": [
+        "Vembanad Lake",
+        "Shimla",
+        "Cardamom",
+        "Sarvepalli Radhakrishnan (1954)"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'Cardamom'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Cardamom'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Cardamom' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Cardamom' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_660",
+      "q": "Which Indian State Speaks the Konkani Language?",
+      "questionText": "Which Indian State Speaks the Konkani Language?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Tlawng River",
+        "Chilika Lake",
+        "Goa",
+        "Bay of Bengal and Arabian Sea"
+      ],
+      "options": [
+        "Tlawng River",
+        "Chilika Lake",
+        "Goa",
+        "Bay of Bengal and Arabian Sea"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'Goa'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Goa'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Goa' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Goa' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_662",
+      "q": "Which Indian State Speaks Kokborok?",
+      "questionText": "Which Indian State Speaks Kokborok?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Tripura",
+        "Tlawng River",
+        "Gujarat",
+        "Hirakud Dam in Odisha"
+      ],
+      "options": [
+        "Tripura",
+        "Tlawng River",
+        "Gujarat",
+        "Hirakud Dam in Odisha"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'Tripura'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Tripura'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Tripura' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Tripura' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_701",
+      "q": "Which Pass has been created by the Indus River?",
+      "questionText": "Which Pass has been created by the Indus River?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "River Kosi",
+        "Bay of Bengal",
+        "Gujarat",
+        "Banihal Pass"
+      ],
+      "options": [
+        "River Kosi",
+        "Bay of Bengal",
+        "Gujarat",
+        "Banihal Pass"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is 'Banihal Pass'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Banihal Pass'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Banihal Pass' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Banihal Pass' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_702",
+      "q": "With which Country does India share the Longest Border?",
+      "questionText": "With which Country does India share the Longest Border?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Damodar River",
+        "Bangladesh (4,156Km)",
+        "7 Countries (Bangladesh, Myanmar, Bhutan, China, Nepal",
+        "Wular Lake"
+      ],
+      "options": [
+        "Damodar River",
+        "Bangladesh (4,156Km)",
+        "7 Countries (Bangladesh, Myanmar, Bhutan, China, Nepal",
+        "Wular Lake"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'Bangladesh (4,156Km)'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Bangladesh (4,156Km)'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Bangladesh (4,156Km)' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Bangladesh (4,156Km)' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_704",
+      "q": "Which river holds the Paithan Hydroelectric Project that was completed with the help of Japan?",
+      "questionText": "Which river holds the Paithan Hydroelectric Project that was completed with the help of Japan?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Brahmaputra",
+        "Vembanad Lake",
+        "from the middle",
+        "Godavari River (Maharashtra)"
+      ],
+      "options": [
+        "Brahmaputra",
+        "Vembanad Lake",
+        "from the middle",
+        "Godavari River (Maharashtra)"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is 'Godavari River (Maharashtra)'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Godavari River (Maharashtra)'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Godavari River (Maharashtra)' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Godavari River (Maharashtra)' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_705",
+      "q": "Through how many States does the Tropic of Cancer Pass in India?",
+      "questionText": "Through how many States does the Tropic of Cancer Pass in India?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Vembanad Lake",
+        "7 Countries (Bangladesh, Myanmar, Bhutan, China, Nepal",
+        "Nilgiri Hills",
+        "8 States"
+      ],
+      "options": [
+        "Vembanad Lake",
+        "7 Countries (Bangladesh, Myanmar, Bhutan, China, Nepal",
+        "Nilgiri Hills",
+        "8 States"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "5) Mizoram 6) Rajasthan 7) Tripura 8) West Bengal",
+      "explanation": "5) Mizoram 6) Rajasthan 7) Tripura 8) West Bengal",
+      "expHi": "5) Mizoram 6) Rajasthan 7) Tripura 8) West Bengal",
+      "explanationHi": "5) Mizoram 6) Rajasthan 7) Tripura 8) West Bengal",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_734",
+      "q": "Name the Watershed from where all Major Rivers in India originate?",
+      "questionText": "Name the Watershed from where all Major Rivers in India originate?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Aravalli Range",
+        "Himalaya and Karakoram Ranges",
+        "Sahyadri or The Western Ghats in Western India",
+        "Vindhya & Satpura Ranges and Chotanagpur Plateau in central India"
+      ],
+      "options": [
+        "Aravalli Range",
+        "Himalaya and Karakoram Ranges",
+        "Sahyadri or The Western Ghats in Western India",
+        "Vindhya & Satpura Ranges and Chotanagpur Plateau in central India"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'Aravalli Range'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Aravalli Range'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Aravalli Range' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Aravalli Range' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_735",
+      "q": "Where do Indian Rivers pour their water?",
+      "questionText": "Where do Indian Rivers pour their water?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Chilika Lake",
+        "9",
+        "Bay of Bengal and Arabian Sea",
+        "Majuli Island"
+      ],
+      "options": [
+        "Chilika Lake",
+        "9",
+        "Bay of Bengal and Arabian Sea",
+        "Majuli Island"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'Bay of Bengal and Arabian Sea'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Bay of Bengal and Arabian Sea'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Bay of Bengal and Arabian Sea' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Bay of Bengal and Arabian Sea' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_736",
+      "q": "Which River is known as the Sindhu River?",
+      "questionText": "Which River is known as the Sindhu River?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Indus River",
+        "Chilika Lake, Odisha",
+        "Afghanistan, Pakistan)",
+        "Surendranath Tagore"
+      ],
+      "options": [
+        "Indus River",
+        "Chilika Lake, Odisha",
+        "Afghanistan, Pakistan)",
+        "Surendranath Tagore"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'Indus River'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Indus River'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Indus River' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Indus River' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_737",
+      "q": "What are the three main Himalayan Rivers?",
+      "questionText": "What are the three main Himalayan Rivers?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Sundarbans",
+        "Ganga, Indus, and the Brahmaputra",
+        "River Kosi",
+        "Mizoram, Tripura, Assam, Meghalaya, and P. Bengal"
+      ],
+      "options": [
+        "Sundarbans",
+        "Ganga, Indus, and the Brahmaputra",
+        "River Kosi",
+        "Mizoram, Tripura, Assam, Meghalaya, and P. Bengal"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'Ganga, Indus, and the Brahmaputra'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Ganga, Indus, and the Brahmaputra'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Ganga, Indus, and the Brahmaputra' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Ganga, Indus, and the Brahmaputra' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_738",
+      "q": "What is the River Brahmaputra of Assam Called in Arunachal Pradesh?",
+      "questionText": "What is the River Brahmaputra of Assam Called in Arunachal Pradesh?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Siang River",
+        "Sarvepalli Radhakrishnan (1954)",
+        "Shimla",
+        "Yamuna River"
+      ],
+      "options": [
+        "Siang River",
+        "Sarvepalli Radhakrishnan (1954)",
+        "Shimla",
+        "Yamuna River"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'Siang River'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Siang River'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Siang River' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Siang River' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_739",
+      "q": "What is the Nickname of River Kosi?",
+      "questionText": "What is the Nickname of River Kosi?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Kosi",
+        "River Kosi",
+        "Sikkim",
+        "The Sorrow of Bihar"
+      ],
+      "options": [
+        "Kosi",
+        "River Kosi",
+        "Sikkim",
+        "The Sorrow of Bihar"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is 'The Sorrow of Bihar'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'The Sorrow of Bihar'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'The Sorrow of Bihar' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'The Sorrow of Bihar' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_740",
+      "q": "Which River is known as “Dakshin Ganga”?",
+      "questionText": "Which River is known as “Dakshin Ganga”?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Godavari",
+        "New Amsterdam",
+        "Wular Lake",
+        "Brahmaputra"
+      ],
+      "options": [
+        "Godavari",
+        "New Amsterdam",
+        "Wular Lake",
+        "Brahmaputra"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'Godavari'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Godavari'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Godavari' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Godavari' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_741",
+      "q": "Which River is known as the “Sorrow of Bengal”?",
+      "questionText": "Which River is known as the “Sorrow of Bengal”?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "The Sorrow of Bihar",
+        "Yamuna River",
+        "17",
+        "Damodar River"
+      ],
+      "options": [
+        "The Sorrow of Bihar",
+        "Yamuna River",
+        "17",
+        "Damodar River"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is 'Damodar River'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Damodar River'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Damodar River' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Damodar River' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_742",
+      "q": "Which River flows beside the Taj Mahal?",
+      "questionText": "Which River flows beside the Taj Mahal?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Yamuna River",
+        "Narmada River",
+        "Brahmaputra River",
+        "Godavari River"
+      ],
+      "options": [
+        "Yamuna River",
+        "Narmada River",
+        "Brahmaputra River",
+        "Godavari River"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'Yamuna River'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Yamuna River'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Yamuna River' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Yamuna River' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_743",
+      "q": "Which River flows through Varanasi?",
+      "questionText": "Which River flows through Varanasi?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "7 Countries (Bangladesh, Myanmar, Bhutan, China, Nepal",
+        "Ganga",
+        "in the Bay of Bengal",
+        "Sarvepalli Radhakrishnan (1954)"
+      ],
+      "options": [
+        "7 Countries (Bangladesh, Myanmar, Bhutan, China, Nepal",
+        "Ganga",
+        "in the Bay of Bengal",
+        "Sarvepalli Radhakrishnan (1954)"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'Ganga'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Ganga'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Ganga' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Ganga' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_744",
+      "q": "Which Indian River Arises and Dies in the Territory of India?",
+      "questionText": "Which Indian River Arises and Dies in the Territory of India?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Chambal River",
+        "Godavari River",
+        "Ganges River Dolphin",
+        "Sundarbans Delta"
+      ],
+      "options": [
+        "Chambal River",
+        "Godavari River",
+        "Ganges River Dolphin",
+        "Sundarbans Delta"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'Chambal River'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Chambal River'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Chambal River' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Chambal River' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_745",
+      "q": "On Which River is the Indira Sagar Dam located in Madhya Pradesh?",
+      "questionText": "On Which River is the Indira Sagar Dam located in Madhya Pradesh?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Narmada River",
+        "Ireland",
+        "Afghanistan, Pakistan)",
+        "Arunachal Pradesh, Nagaland, Manipur, and Mizoram"
+      ],
+      "options": [
+        "Narmada River",
+        "Ireland",
+        "Afghanistan, Pakistan)",
+        "Arunachal Pradesh, Nagaland, Manipur, and Mizoram"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'Narmada River'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Narmada River'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Narmada River' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Narmada River' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_746",
+      "q": "Which Indian River is home to the Fresh Water Dolphins?",
+      "questionText": "Which Indian River is home to the Fresh Water Dolphins?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Devprayag",
+        "Ganga",
+        "Coimbatore",
+        "Alaknanda & Bhagirathi"
+      ],
+      "options": [
+        "Devprayag",
+        "Ganga",
+        "Coimbatore",
+        "Alaknanda & Bhagirathi"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'Ganga'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Ganga'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Ganga' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Ganga' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_747",
+      "q": "Which River flows through Delhi?",
+      "questionText": "Which River flows through Delhi?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Yamuna River",
+        "Study of Agricultural soils",
+        "Bay of Bengal",
+        "Surendranath Tagore"
+      ],
+      "options": [
+        "Yamuna River",
+        "Study of Agricultural soils",
+        "Bay of Bengal",
+        "Surendranath Tagore"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'Yamuna River'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Yamuna River'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Yamuna River' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Yamuna River' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_748",
+      "q": "What is the Confluence of the Alaknanda & Bhagirathi Rivers called?",
+      "questionText": "What is the Confluence of the Alaknanda & Bhagirathi Rivers called?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Shimla",
+        "Devprayag",
+        "Western Ghats",
+        "Godavari River"
+      ],
+      "options": [
+        "Shimla",
+        "Devprayag",
+        "Western Ghats",
+        "Godavari River"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'Devprayag'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Devprayag'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Devprayag' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Devprayag' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_749",
+      "q": "Which are the Two Headstreams of the Ganga?",
+      "questionText": "Which are the Two Headstreams of the Ganga?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Godavari River",
+        "Bal Gangadhar Tilak",
+        "Alaknanda & Bhagirathi",
+        "New Amsterdam"
+      ],
+      "options": [
+        "Godavari River",
+        "Bal Gangadhar Tilak",
+        "Alaknanda & Bhagirathi",
+        "New Amsterdam"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "No. Rivers 1 2 Karnaprayag 3 Nandaprayag 4 Rudraprayag 5 Vishnuprayag Nicknames Of Indian Rivers No. River Nickname 1 The Sorrow of Assam 2 The Sorrow of Bengal 3 Godavari River 4 Godavari River Vridha Ganga 5 Indus River Lions Mouth 6 Kosi River The Sorrow of Bihar 7 Luni River Lavanavati 8 Mahanadi River The Sorrow of Odisha 9 Mandovi River Lifeline of Goa 10 Periyar River Lifeline of Kerala 11 Teesta River Lifeline of Sikkim Indian Economy And Indian Currency",
+      "explanation": "No. Rivers 1 2 Karnaprayag 3 Nandaprayag 4 Rudraprayag 5 Vishnuprayag Nicknames Of Indian Rivers No. River Nickname 1 The Sorrow of Assam 2 The Sorrow of Bengal 3 Godavari River 4 Godavari River Vridha Ganga 5 Indus River Lions Mouth 6 Kosi River The Sorrow of Bihar 7 Luni River Lavanavati 8 Mahanadi River The Sorrow of Odisha 9 Mandovi River Lifeline of Goa 10 Periyar River Lifeline of Kerala 11 Teesta River Lifeline of Sikkim Indian Economy And Indian Currency",
+      "expHi": "No. Rivers 1 2 Karnaprayag 3 Nandaprayag 4 Rudraprayag 5 Vishnuprayag Nicknames Of Indian Rivers No. River Nickname 1 The Sorrow of Assam 2 The Sorrow of Bengal 3 Godavari River 4 Godavari River Vridha Ganga 5 Indus River Lions Mouth 6 Kosi River The Sorrow of Bihar 7 Luni River Lavanavati 8 Mahanadi River The Sorrow of Odisha 9 Mandovi River Lifeline of Goa 10 Periyar River Lifeline of Kerala 11 Teesta River Lifeline of Sikkim Indian Economy And Indian Currency",
+      "explanationHi": "No. Rivers 1 2 Karnaprayag 3 Nandaprayag 4 Rudraprayag 5 Vishnuprayag Nicknames Of Indian Rivers No. River Nickname 1 The Sorrow of Assam 2 The Sorrow of Bengal 3 Godavari River 4 Godavari River Vridha Ganga 5 Indus River Lions Mouth 6 Kosi River The Sorrow of Bihar 7 Luni River Lavanavati 8 Mahanadi River The Sorrow of Odisha 9 Mandovi River Lifeline of Goa 10 Periyar River Lifeline of Kerala 11 Teesta River Lifeline of Sikkim Indian Economy And Indian Currency",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_802",
+      "q": "How many Countries does Arunachal Pradesh Share its Border with?",
+      "questionText": "How many Countries does Arunachal Pradesh Share its Border with?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Brahmaputra River",
+        "Vembanad Lake",
+        "in the Nicobar Islands",
+        "3"
+      ],
+      "options": [
+        "Brahmaputra River",
+        "Vembanad Lake",
+        "in the Nicobar Islands",
+        "3"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is '3'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is '3'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '3' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '3' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_803",
+      "q": "How many States Share their Border with China?",
+      "questionText": "How many States Share their Border with China?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Sarvepalli Radhakrishnan (1954)",
+        "4",
+        "River Kosi",
+        "30%"
+      ],
+      "options": [
+        "Sarvepalli Radhakrishnan (1954)",
+        "4",
+        "River Kosi",
+        "30%"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "*China also shares its border with Jammu and Kashmir Union Territory",
+      "explanation": "*China also shares its border with Jammu and Kashmir Union Territory",
+      "expHi": "*China also shares its border with Jammu and Kashmir Union Territory",
+      "explanationHi": "*China also shares its border with Jammu and Kashmir Union Territory",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_805",
+      "q": "What is the Literal Meaning of Himachal Pradesh?",
+      "questionText": "What is the Literal Meaning of Himachal Pradesh?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Bal Gangadhar Tilak",
+        "Province of the Snow-Clad Mountains",
+        "Aravalli Range",
+        "Finland"
+      ],
+      "options": [
+        "Bal Gangadhar Tilak",
+        "Province of the Snow-Clad Mountains",
+        "Aravalli Range",
+        "Finland"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'Province of the Snow-Clad Mountains'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Province of the Snow-Clad Mountains'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Province of the Snow-Clad Mountains' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Province of the Snow-Clad Mountains' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_857",
+      "q": "According to the Optional Travel Insurance Scheme, How much money will be given to the Nominee of the Confirmed Railway Passenger?",
+      "questionText": "According to the Optional Travel Insurance Scheme, How much money will be given to the Nominee of the Confirmed Railway Passenger?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "10 Lakh",
+        "Ganga, Indus, and the Brahmaputra",
+        "in the Nicobar Islands",
+        "Govind Ballabh Pant Sagar"
+      ],
+      "options": [
+        "10 Lakh",
+        "Ganga, Indus, and the Brahmaputra",
+        "in the Nicobar Islands",
+        "Govind Ballabh Pant Sagar"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is '10 Lakh'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is '10 Lakh'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '10 Lakh' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '10 Lakh' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_921",
+      "q": "Who was the First Indian to raise the Indian Flag on Foreign Soil?",
+      "questionText": "Who was the First Indian to raise the Indian Flag on Foreign Soil?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Tehri Dam",
+        "Dal Lake in Srinagar",
+        "Bhikaiji Cama",
+        "Ganga, Indus, and the Brahmaputra"
+      ],
+      "options": [
+        "Tehri Dam",
+        "Dal Lake in Srinagar",
+        "Bhikaiji Cama",
+        "Ganga, Indus, and the Brahmaputra"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'Bhikaiji Cama'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Bhikaiji Cama'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Bhikaiji Cama' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Bhikaiji Cama' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_931",
+      "q": "Which River is called the Sorrow Of Assam?",
+      "questionText": "Which River is called the Sorrow Of Assam?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Brahmaputra River",
+        "Chilika Lake, Odisha",
+        "Surendranath Tagore",
+        "Province of the Snow-Clad Mountains"
+      ],
+      "options": [
+        "Brahmaputra River",
+        "Chilika Lake, Odisha",
+        "Surendranath Tagore",
+        "Province of the Snow-Clad Mountains"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'Brahmaputra River'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Brahmaputra River'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Brahmaputra River' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Brahmaputra River' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_933",
+      "q": "Which Country does Tripura Share its Border with?",
+      "questionText": "Which Country does Tripura Share its Border with?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "River Kosi",
+        "Bangladesh",
+        "Study of lakes",
+        "Vembanad Lake"
+      ],
+      "options": [
+        "River Kosi",
+        "Bangladesh",
+        "Study of lakes",
+        "Vembanad Lake"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'Bangladesh'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Bangladesh'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Bangladesh' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Bangladesh' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_1018",
+      "q": "भारत का राष्ट्रीय जलचर कौन सा है?",
+      "questionText": "भारत का राष्ट्रीय जलचर कौन सा है?",
+      "qHi": "भारत का राष्ट्रीय जलचर कौन सा है?",
+      "questionTextHi": "भारत का राष्ट्रीय जलचर कौन सा है?",
+      "o": [
+        "शार्क",
+        "व्हेल",
+        "गंगा डॉल्फिन",
+        "मगरमच्छ"
+      ],
+      "options": [
+        "शार्क",
+        "व्हेल",
+        "गंगा डॉल्फिन",
+        "मगरमच्छ"
+      ],
+      "oHi": [
+        "शार्क",
+        "व्हेल",
+        "गंगा डॉल्फिन",
+        "मगरमच्छ"
+      ],
+      "optionsHi": [
+        "शार्क",
+        "व्हेल",
+        "गंगा डॉल्फिन",
+        "मगरमच्छ"
+      ],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'गंगा डॉल्फिन'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'गंगा डॉल्फिन'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'गंगा डॉल्फिन' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'गंगा डॉल्फिन' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_1029",
+      "q": "In India, What is River “Yarlung Tsangpo” Known as?",
+      "questionText": "In India, What is River “Yarlung Tsangpo” Known as?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "30%",
+        "New Amsterdam",
+        "Alaknanda & Bhagirathi",
+        "Brahmaputra"
+      ],
+      "options": [
+        "30%",
+        "New Amsterdam",
+        "Alaknanda & Bhagirathi",
+        "Brahmaputra"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is 'Brahmaputra'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Brahmaputra'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Brahmaputra' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Brahmaputra' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_1037",
+      "q": "Which River flows through Aizawl City?",
+      "questionText": "Which River flows through Aizawl City?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Arunachal Pradesh, Nagaland, Manipur, and Mizoram",
+        "Brahmaputra",
+        "Tropic of Cancer",
+        "Tlawng River"
+      ],
+      "options": [
+        "Arunachal Pradesh, Nagaland, Manipur, and Mizoram",
+        "Brahmaputra",
+        "Tropic of Cancer",
+        "Tlawng River"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is 'Tlawng River'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Tlawng River'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Tlawng River' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Tlawng River' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_1067",
+      "q": "किन दो पर्वत श्रेणियों के मध्य कश्मीर घाटी स्थित है",
+      "questionText": "किन दो पर्वत श्रेणियों के मध्य कश्मीर घाटी स्थित है",
+      "qHi": "किन दो पर्वत श्रेणियों के मध्य कश्मीर घाटी स्थित है",
+      "questionTextHi": "किन दो पर्वत श्रेणियों के मध्य कश्मीर घाटी स्थित है",
+      "o": [
+        "गंगा",
+        "दार्जीलिंग",
+        "केरल",
+        "वृहत् हिमालय व पीर पंजाल"
+      ],
+      "options": [
+        "गंगा",
+        "दार्जीलिंग",
+        "केरल",
+        "वृहत् हिमालय व पीर पंजाल"
+      ],
+      "oHi": [
+        "गंगा",
+        "दार्जीलिंग",
+        "केरल",
+        "वृहत् हिमालय व पीर पंजाल"
+      ],
+      "optionsHi": [
+        "गंगा",
+        "दार्जीलिंग",
+        "केरल",
+        "वृहत् हिमालय व पीर पंजाल"
+      ],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is 'वृहत् हिमालय व पीर पंजाल'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'वृहत् हिमालय व पीर पंजाल'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'वृहत् हिमालय व पीर पंजाल' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'वृहत् हिमालय व पीर पंजाल' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_1072",
+      "q": "चम्बल नदी पर कौनसा जलाशय बना है",
+      "questionText": "चम्बल नदी पर कौनसा जलाशय बना है",
+      "qHi": "चम्बल नदी पर कौनसा जलाशय बना है",
+      "questionTextHi": "चम्बल नदी पर कौनसा जलाशय बना है",
+      "o": [
+        "उत्तर-पूर्वी",
+        "राणा प्रताप सागर",
+        "कर्नाटक",
+        "दार्जीलिंग"
+      ],
+      "options": [
+        "उत्तर-पूर्वी",
+        "राणा प्रताप सागर",
+        "कर्नाटक",
+        "दार्जीलिंग"
+      ],
+      "oHi": [
+        "उत्तर-पूर्वी",
+        "राणा प्रताप सागर",
+        "कर्नाटक",
+        "दार्जीलिंग"
+      ],
+      "optionsHi": [
+        "उत्तर-पूर्वी",
+        "राणा प्रताप सागर",
+        "कर्नाटक",
+        "दार्जीलिंग"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'राणा प्रताप सागर'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'राणा प्रताप सागर'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'राणा प्रताप सागर' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'राणा प्रताप सागर' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_1077",
+      "q": "'साइलेन्ट वैली परियोजना' (Silent Valley Project) किस राज्य से सम्बन्धित है",
+      "questionText": "'साइलेन्ट वैली परियोजना' (Silent Valley Project) किस राज्य से सम्बन्धित है",
+      "qHi": "'साइलेन्ट वैली परियोजना' (Silent Valley Project) किस राज्य से सम्बन्धित है",
+      "questionTextHi": "'साइलेन्ट वैली परियोजना' (Silent Valley Project) किस राज्य से सम्बन्धित है",
+      "o": [
+        "सोन",
+        "गंगा",
+        "दार्जीलिंग",
+        "केरल"
+      ],
+      "options": [
+        "सोन",
+        "गंगा",
+        "दार्जीलिंग",
+        "केरल"
+      ],
+      "oHi": [
+        "सोन",
+        "गंगा",
+        "दार्जीलिंग",
+        "केरल"
+      ],
+      "optionsHi": [
+        "सोन",
+        "गंगा",
+        "दार्जीलिंग",
+        "केरल"
+      ],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is 'केरल'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'केरल'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'केरल' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'केरल' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_1118",
+      "q": "मध्य प्रदेश की सबसे ऊँची चोटी 'धूपगढ़' (Dhupgarh) स्थित है",
+      "questionText": "मध्य प्रदेश की सबसे ऊँची चोटी 'धूपगढ़' (Dhupgarh) स्थित है",
+      "qHi": "मध्य प्रदेश की सबसे ऊँची चोटी 'धूपगढ़' (Dhupgarh) स्थित है",
+      "questionTextHi": "मध्य प्रदेश की सबसे ऊँची चोटी 'धूपगढ़' (Dhupgarh) स्थित है",
+      "o": [
+        "गंगा डाल्फिन",
+        "महादेव पहाड़ियों में",
+        "तमिलनाडु एवं आन्ध्र प्रदेश",
+        "गंगा"
+      ],
+      "options": [
+        "गंगा डाल्फिन",
+        "महादेव पहाड़ियों में",
+        "तमिलनाडु एवं आन्ध्र प्रदेश",
+        "गंगा"
+      ],
+      "oHi": [
+        "गंगा डाल्फिन",
+        "महादेव पहाड़ियों में",
+        "तमिलनाडु एवं आन्ध्र प्रदेश",
+        "गंगा"
+      ],
+      "optionsHi": [
+        "गंगा डाल्फिन",
+        "महादेव पहाड़ियों में",
+        "तमिलनाडु एवं आन्ध्र प्रदेश",
+        "गंगा"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'महादेव पहाड़ियों में'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'महादेव पहाड़ियों में'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'महादेव पहाड़ियों में' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'महादेव पहाड़ियों में' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_1120",
+      "q": "मध्य प्रदेश का एकमात्र हिल स्टेशन 'पचमढ़ी' कहाँ स्थित है",
+      "questionText": "मध्य प्रदेश का एकमात्र हिल स्टेशन 'पचमढ़ी' कहाँ स्थित है",
+      "qHi": "मध्य प्रदेश का एकमात्र हिल स्टेशन 'पचमढ़ी' कहाँ स्थित है",
+      "questionTextHi": "मध्य प्रदेश का एकमात्र हिल स्टेशन 'पचमढ़ी' कहाँ स्थित है",
+      "o": [
+        "सिक्किम",
+        "महादेव पहाड़ियाँ",
+        "पूर्व से पश्चिम",
+        "उत्तर-पूर्वी"
+      ],
+      "options": [
+        "सिक्किम",
+        "महादेव पहाड़ियाँ",
+        "पूर्व से पश्चिम",
+        "उत्तर-पूर्वी"
+      ],
+      "oHi": [
+        "सिक्किम",
+        "महादेव पहाड़ियाँ",
+        "पूर्व से पश्चिम",
+        "उत्तर-पूर्वी"
+      ],
+      "optionsHi": [
+        "सिक्किम",
+        "महादेव पहाड़ियाँ",
+        "पूर्व से पश्चिम",
+        "उत्तर-पूर्वी"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'महादेव पहाड़ियाँ'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'महादेव पहाड़ियाँ'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'महादेव पहाड़ियाँ' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'महादेव पहाड़ियाँ' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_1121",
+      "q": "'तवा' किस नदी की सहायक नदी है",
+      "questionText": "'तवा' किस नदी की सहायक नदी है",
+      "qHi": "'तवा' किस नदी की सहायक नदी है",
+      "questionTextHi": "'तवा' किस नदी की सहायक नदी है",
+      "o": [
+        "कर्नाटक",
+        "दार्जीलिंग",
+        "दक्षिण भारत",
+        "नर्मदा"
+      ],
+      "options": [
+        "कर्नाटक",
+        "दार्जीलिंग",
+        "दक्षिण भारत",
+        "नर्मदा"
+      ],
+      "oHi": [
+        "कर्नाटक",
+        "दार्जीलिंग",
+        "दक्षिण भारत",
+        "नर्मदा"
+      ],
+      "optionsHi": [
+        "कर्नाटक",
+        "दार्जीलिंग",
+        "दक्षिण भारत",
+        "नर्मदा"
+      ],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is 'नर्मदा'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'नर्मदा'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'नर्मदा' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'नर्मदा' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_1123",
+      "q": "चम्बल घाटी मध्य प्रदेश के किस भौतिक विभाग में स्थित है",
+      "questionText": "चम्बल घाटी मध्य प्रदेश के किस भौतिक विभाग में स्थित है",
+      "qHi": "चम्बल घाटी मध्य प्रदेश के किस भौतिक विभाग में स्थित है",
+      "questionTextHi": "चम्बल घाटी मध्य प्रदेश के किस भौतिक विभाग में स्थित है",
+      "o": [
+        "मध्य भारत पठार",
+        "मानसून प्रकार",
+        "ओडिशा",
+        "गंगा डॉल्फिन"
+      ],
+      "options": [
+        "मध्य भारत पठार",
+        "मानसून प्रकार",
+        "ओडिशा",
+        "गंगा डॉल्फिन"
+      ],
+      "oHi": [
+        "मध्य भारत पठार",
+        "मानसून प्रकार",
+        "ओडिशा",
+        "गंगा डॉल्फिन"
+      ],
+      "optionsHi": [
+        "मध्य भारत पठार",
+        "मानसून प्रकार",
+        "ओडिशा",
+        "गंगा डॉल्फिन"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'मध्य भारत पठार'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'मध्य भारत पठार'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'मध्य भारत पठार' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'मध्य भारत पठार' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_1124",
+      "q": "मध्य प्रदेश की जलवायु किस प्रकार की है",
+      "questionText": "मध्य प्रदेश की जलवायु किस प्रकार की है",
+      "qHi": "मध्य प्रदेश की जलवायु किस प्रकार की है",
+      "questionTextHi": "मध्य प्रदेश की जलवायु किस प्रकार की है",
+      "o": [
+        "मानसून प्रकार",
+        "गंगा डाल्फिन",
+        "उत्तर-पूर्वी",
+        "वुलर झील"
+      ],
+      "options": [
+        "मानसून प्रकार",
+        "गंगा डाल्फिन",
+        "उत्तर-पूर्वी",
+        "वुलर झील"
+      ],
+      "oHi": [
+        "मानसून प्रकार",
+        "गंगा डाल्फिन",
+        "उत्तर-पूर्वी",
+        "वुलर झील"
+      ],
+      "optionsHi": [
+        "मानसून प्रकार",
+        "गंगा डाल्फिन",
+        "उत्तर-पूर्वी",
+        "वुलर झील"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'मानसून प्रकार'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'मानसून प्रकार'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'मानसून प्रकार' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'मानसून प्रकार' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_1198",
+      "q": "गंगा की सहायक नदियां में से कौन सी नदी उत्तर की ओर प्रवाहित होती है",
+      "questionText": "गंगा की सहायक नदियां में से कौन सी नदी उत्तर की ओर प्रवाहित होती है",
+      "qHi": "गंगा की सहायक नदियां में से कौन सी नदी उत्तर की ओर प्रवाहित होती है",
+      "questionTextHi": "गंगा की सहायक नदियां में से कौन सी नदी उत्तर की ओर प्रवाहित होती है",
+      "o": [
+        "तमिलनाडु एवं आन्ध्र प्रदेश",
+        "कर्नाटक",
+        "सोन",
+        "दक्षिण भारत"
+      ],
+      "options": [
+        "तमिलनाडु एवं आन्ध्र प्रदेश",
+        "कर्नाटक",
+        "सोन",
+        "दक्षिण भारत"
+      ],
+      "oHi": [
+        "तमिलनाडु एवं आन्ध्र प्रदेश",
+        "कर्नाटक",
+        "सोन",
+        "दक्षिण भारत"
+      ],
+      "optionsHi": [
+        "तमिलनाडु एवं आन्ध्र प्रदेश",
+        "कर्नाटक",
+        "सोन",
+        "दक्षिण भारत"
+      ],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'सोन'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'सोन'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'सोन' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'सोन' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_1231",
+      "q": "खाने पानी की मगर, ऑबिल रिड्ले टर्टल, गंगा डाल्फिन और घड़ियाल में से कौन-सा एक, भारत का राष्ट्रीय जलीय प्रणली है",
+      "questionText": "खाने पानी की मगर, ऑबिल रिड्ले टर्टल, गंगा डाल्फिन और घड़ियाल में से कौन-सा एक, भारत का राष्ट्रीय जलीय प्रणली है",
+      "qHi": "खाने पानी की मगर, ऑबिल रिड्ले टर्टल, गंगा डाल्फिन और घड़ियाल में से कौन-सा एक, भारत का राष्ट्रीय जलीय प्रणली है",
+      "questionTextHi": "खाने पानी की मगर, ऑबिल रिड्ले टर्टल, गंगा डाल्फिन और घड़ियाल में से कौन-सा एक, भारत का राष्ट्रीय जलीय प्रणली है",
+      "o": [
+        "उत्तर-पूर्वी",
+        "गंगा",
+        "गंगा डाल्फिन",
+        "कंचनजंगा"
+      ],
+      "options": [
+        "उत्तर-पूर्वी",
+        "गंगा",
+        "गंगा डाल्फिन",
+        "कंचनजंगा"
+      ],
+      "oHi": [
+        "उत्तर-पूर्वी",
+        "गंगा",
+        "गंगा डाल्फिन",
+        "कंचनजंगा"
+      ],
+      "optionsHi": [
+        "उत्तर-पूर्वी",
+        "गंगा",
+        "गंगा डाल्फिन",
+        "कंचनजंगा"
+      ],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'गंगा डाल्फिन'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'गंगा डाल्फिन'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'गंगा डाल्फिन' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'गंगा डाल्फिन' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_1308",
+      "q": "हरियाणा के किस भाग में शिवालिक पर्वत श्रेणियाँ स्थित हैं",
+      "questionText": "हरियाणा के किस भाग में शिवालिक पर्वत श्रेणियाँ स्थित हैं",
+      "qHi": "हरियाणा के किस भाग में शिवालिक पर्वत श्रेणियाँ स्थित हैं",
+      "questionTextHi": "हरियाणा के किस भाग में शिवालिक पर्वत श्रेणियाँ स्थित हैं",
+      "o": [
+        "कर्नाटक",
+        "उत्तर-पूर्वी",
+        "पूर्व से पश्चिम",
+        "दक्षिण भारत"
+      ],
+      "options": [
+        "कर्नाटक",
+        "उत्तर-पूर्वी",
+        "पूर्व से पश्चिम",
+        "दक्षिण भारत"
+      ],
+      "oHi": [
+        "कर्नाटक",
+        "उत्तर-पूर्वी",
+        "पूर्व से पश्चिम",
+        "दक्षिण भारत"
+      ],
+      "optionsHi": [
+        "कर्नाटक",
+        "उत्तर-पूर्वी",
+        "पूर्व से पश्चिम",
+        "दक्षिण भारत"
+      ],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'उत्तर-पूर्वी'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'उत्तर-पूर्वी'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'उत्तर-पूर्वी' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'उत्तर-पूर्वी' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_1323",
+      "q": "लाल मिट्टी सामान्यता किन राज्यों में पाई जाती है",
+      "questionText": "लाल मिट्टी सामान्यता किन राज्यों में पाई जाती है",
+      "qHi": "लाल मिट्टी सामान्यता किन राज्यों में पाई जाती है",
+      "questionTextHi": "लाल मिट्टी सामान्यता किन राज्यों में पाई जाती है",
+      "o": [
+        "तमिलनाडु एवं आन्ध्र प्रदेश",
+        "केरल",
+        "महादेव पहाड़ियाँ",
+        "गंगा डॉल्फिन"
+      ],
+      "options": [
+        "तमिलनाडु एवं आन्ध्र प्रदेश",
+        "केरल",
+        "महादेव पहाड़ियाँ",
+        "गंगा डॉल्फिन"
+      ],
+      "oHi": [
+        "तमिलनाडु एवं आन्ध्र प्रदेश",
+        "केरल",
+        "महादेव पहाड़ियाँ",
+        "गंगा डॉल्फिन"
+      ],
+      "optionsHi": [
+        "तमिलनाडु एवं आन्ध्र प्रदेश",
+        "केरल",
+        "महादेव पहाड़ियाँ",
+        "गंगा डॉल्फिन"
+      ],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'तमिलनाडु एवं आन्ध्र प्रदेश'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'तमिलनाडु एवं आन्ध्र प्रदेश'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'तमिलनाडु एवं आन्ध्र प्रदेश' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'तमिलनाडु एवं आन्ध्र प्रदेश' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_1376",
+      "q": "हिमालय पर्ततारोही संस्थान कहां स्थित है",
+      "questionText": "हिमालय पर्ततारोही संस्थान कहां स्थित है",
+      "qHi": "हिमालय पर्ततारोही संस्थान कहां स्थित है",
+      "questionTextHi": "हिमालय पर्ततारोही संस्थान कहां स्थित है",
+      "o": [
+        "तमिलनाडु एवं आन्ध्र प्रदेश",
+        "ओडिशा",
+        "दार्जीलिंग",
+        "वृहत् हिमालय व पीर पंजाल"
+      ],
+      "options": [
+        "तमिलनाडु एवं आन्ध्र प्रदेश",
+        "ओडिशा",
+        "दार्जीलिंग",
+        "वृहत् हिमालय व पीर पंजाल"
+      ],
+      "oHi": [
+        "तमिलनाडु एवं आन्ध्र प्रदेश",
+        "ओडिशा",
+        "दार्जीलिंग",
+        "वृहत् हिमालय व पीर पंजाल"
+      ],
+      "optionsHi": [
+        "तमिलनाडु एवं आन्ध्र प्रदेश",
+        "ओडिशा",
+        "दार्जीलिंग",
+        "वृहत् हिमालय व पीर पंजाल"
+      ],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'दार्जीलिंग'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'दार्जीलिंग'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'दार्जीलिंग' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'दार्जीलिंग' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_1426",
+      "q": "चोलामू झील किस प्रान्त में है",
+      "questionText": "चोलामू झील किस प्रान्त में है",
+      "qHi": "चोलामू झील किस प्रान्त में है",
+      "questionTextHi": "चोलामू झील किस प्रान्त में है",
+      "o": [
+        "ओडिशा",
+        "गंगा",
+        "कंचनजंगा",
+        "सिक्किम"
+      ],
+      "options": [
+        "ओडिशा",
+        "गंगा",
+        "कंचनजंगा",
+        "सिक्किम"
+      ],
+      "oHi": [
+        "ओडिशा",
+        "गंगा",
+        "कंचनजंगा",
+        "सिक्किम"
+      ],
+      "optionsHi": [
+        "ओडिशा",
+        "गंगा",
+        "कंचनजंगा",
+        "सिक्किम"
+      ],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is 'सिक्किम'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'सिक्किम'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'सिक्किम' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'सिक्किम' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_1445",
+      "q": "Which Indian state has the longest coastline?",
+      "questionText": "Which Indian state has the longest coastline?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Gujarat",
+        "Goa",
+        "Tropic of Cancer",
+        "Sundarbans"
+      ],
+      "options": [
+        "Gujarat",
+        "Goa",
+        "Tropic of Cancer",
+        "Sundarbans"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'Gujarat'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Gujarat'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Gujarat' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Gujarat' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_1448",
+      "q": "Where is Himalayan Mountaineering Institute located?",
+      "questionText": "Where is Himalayan Mountaineering Institute located?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "3",
+        "9",
+        "Darjeeling, India",
+        "Tehri Dam"
+      ],
+      "options": [
+        "3",
+        "9",
+        "Darjeeling, India",
+        "Tehri Dam"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'Darjeeling, India'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Darjeeling, India'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Darjeeling, India' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Darjeeling, India' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_1454",
+      "q": "What is Limnology?",
+      "questionText": "What is Limnology?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Indus River",
+        "Kosi",
+        "Study of lakes",
+        "Tripura"
+      ],
+      "options": [
+        "Indus River",
+        "Kosi",
+        "Study of lakes",
+        "Tripura"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'Study of lakes'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Study of lakes'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Study of lakes' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Study of lakes' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_1468",
+      "q": "Which country is known as “the Land of Thousand lakes”?",
+      "questionText": "Which country is known as “the Land of Thousand lakes”?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Wular Lake",
+        "Finland",
+        "Coimbatore",
+        "of Andhra Pradesh"
+      ],
+      "options": [
+        "Wular Lake",
+        "Finland",
+        "Coimbatore",
+        "of Andhra Pradesh"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'Finland'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Finland'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Finland' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Finland' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_1487",
+      "q": "How Many Countries share their Borderline with India?",
+      "questionText": "How Many Countries share their Borderline with India?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Chambal River",
+        "Godavari River (Maharashtra)",
+        "7 Countries (Bangladesh, Myanmar, Bhutan, China, Nepal",
+        "from the middle"
+      ],
+      "options": [
+        "Chambal River",
+        "Godavari River (Maharashtra)",
+        "7 Countries (Bangladesh, Myanmar, Bhutan, China, Nepal",
+        "from the middle"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is '7 Countries (Bangladesh, Myanmar, Bhutan, China, Nepal'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is '7 Countries (Bangladesh, Myanmar, Bhutan, China, Nepal'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '7 Countries (Bangladesh, Myanmar, Bhutan, China, Nepal' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '7 Countries (Bangladesh, Myanmar, Bhutan, China, Nepal' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_1490",
+      "q": "Which is the Junction Point of Eastern and Western Ghats?",
+      "questionText": "Which is the Junction Point of Eastern and Western Ghats?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Banihal Pass",
+        "Ganga, Indus, and the Brahmaputra",
+        "Nilgiri Hills",
+        "Arabian Sea"
+      ],
+      "options": [
+        "Banihal Pass",
+        "Ganga, Indus, and the Brahmaputra",
+        "Nilgiri Hills",
+        "Arabian Sea"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'Nilgiri Hills'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Nilgiri Hills'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Nilgiri Hills' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Nilgiri Hills' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_1493",
+      "q": "Which is the Longest Dam in India?",
+      "questionText": "Which is the Longest Dam in India?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "3",
+        "Devprayag",
+        "from the middle",
+        "Hirakud Dam in Odisha"
+      ],
+      "options": [
+        "3",
+        "Devprayag",
+        "from the middle",
+        "Hirakud Dam in Odisha"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is 'Hirakud Dam in Odisha'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Hirakud Dam in Odisha'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Hirakud Dam in Odisha' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Hirakud Dam in Odisha' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_1518",
+      "q": "Which is considered as a hot spot of Biodiversity in India?",
+      "questionText": "Which is considered as a hot spot of Biodiversity in India?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Aravalli Range",
+        "Sardar Sarovar Dam",
+        "Western Ghats",
+        "Tehri Dam"
+      ],
+      "options": [
+        "Aravalli Range",
+        "Sardar Sarovar Dam",
+        "Western Ghats",
+        "Tehri Dam"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'Western Ghats'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Western Ghats'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Western Ghats' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Western Ghats' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_1519",
+      "q": "How much Earth’s Surface is covered by the Forests?",
+      "questionText": "How much Earth’s Surface is covered by the Forests?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Darjeeling, India",
+        "Wular Lake",
+        "30%",
+        "Mizoram, Tripura, Assam, Meghalaya, and P. Bengal"
+      ],
+      "options": [
+        "Darjeeling, India",
+        "Wular Lake",
+        "30%",
+        "Mizoram, Tripura, Assam, Meghalaya, and P. Bengal"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is '30%'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is '30%'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '30%' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर '30%' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_1520",
+      "q": "Which state has the Largest Coastline in India?",
+      "questionText": "Which state has the Largest Coastline in India?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Tripura",
+        "Gujarat",
+        "Loktak Lake Floating Market",
+        "Nilgiri Hills"
+      ],
+      "options": [
+        "Tripura",
+        "Gujarat",
+        "Loktak Lake Floating Market",
+        "Nilgiri Hills"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'Gujarat'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Gujarat'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Gujarat' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Gujarat' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_1525",
+      "q": "Which is the Longest River of Southern India?",
+      "questionText": "Which is the Longest River of Southern India?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Bay of Bengal and Arabian Sea",
+        "Province of the Snow-Clad Mountains",
+        "Godavari",
+        "Nilgiri Hills"
+      ],
+      "options": [
+        "Bay of Bengal and Arabian Sea",
+        "Province of the Snow-Clad Mountains",
+        "Godavari",
+        "Nilgiri Hills"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'Godavari'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Godavari'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Godavari' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Godavari' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_1549",
+      "q": "Where is the Himalayan Forest Research Institute Located?",
+      "questionText": "Where is the Himalayan Forest Research Institute Located?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Ganges River Dolphin",
+        "Bal Gangadhar Tilak",
+        "Shimla",
+        "Coimbatore"
+      ],
+      "options": [
+        "Ganges River Dolphin",
+        "Bal Gangadhar Tilak",
+        "Shimla",
+        "Coimbatore"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'Shimla'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Shimla'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Shimla' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Shimla' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_1559",
+      "q": "What was the earlier name of New York City?",
+      "questionText": "What was the earlier name of New York City?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Brahmaputra",
+        "New Amsterdam",
+        "of Andhra Pradesh",
+        "Narmada River"
+      ],
+      "options": [
+        "Brahmaputra",
+        "New Amsterdam",
+        "of Andhra Pradesh",
+        "Narmada River"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'New Amsterdam'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'New Amsterdam'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'New Amsterdam' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'New Amsterdam' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_1606",
+      "q": "Which country is known as “the Emerald Island”?",
+      "questionText": "Which country is known as “the Emerald Island”?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Govind Ballabh Pant Sagar",
+        "Daman",
+        "3",
+        "Ireland"
+      ],
+      "options": [
+        "Govind Ballabh Pant Sagar",
+        "Daman",
+        "3",
+        "Ireland"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is 'Ireland'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Ireland'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Ireland' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Ireland' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_1695",
+      "q": "What is Agrology?",
+      "questionText": "What is Agrology?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Godavari",
+        "Bay of Bengal and Arabian Sea",
+        "Study of Agricultural soils",
+        "Chilika Lake"
+      ],
+      "options": [
+        "Godavari",
+        "Bay of Bengal and Arabian Sea",
+        "Study of Agricultural soils",
+        "Chilika Lake"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'Study of Agricultural soils'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Study of Agricultural soils'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Study of Agricultural soils' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Study of Agricultural soils' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_1711",
+      "q": "Which River is known as the “Sorrow of Bihar”?",
+      "questionText": "Which River is known as the “Sorrow of Bihar”?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Damodar River",
+        "Finland",
+        "River Kosi",
+        "Sarvepalli Radhakrishnan (1954)"
+      ],
+      "options": [
+        "Damodar River",
+        "Finland",
+        "River Kosi",
+        "Sarvepalli Radhakrishnan (1954)"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'River Kosi'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'River Kosi'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'River Kosi' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'River Kosi' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "easy",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_1759",
+      "q": "Which Indian State is Known as “The State of 5 Rivers”?",
+      "questionText": "Which Indian State is Known as “The State of 5 Rivers”?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Cochin",
+        "Finland",
+        "Punjab",
+        "Goa"
+      ],
+      "options": [
+        "Cochin",
+        "Finland",
+        "Punjab",
+        "Goa"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 2,
+      "correctIndex": 2,
+      "exp": "Correct verified answer is 'Punjab'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Punjab'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Punjab' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Punjab' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_1762",
+      "q": "Who is the first Indian to pass the ICS exam?",
+      "questionText": "Who is the first Indian to pass the ICS exam?",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Ganges River Dolphin",
+        "Cardamom",
+        "Chilka Lake",
+        "Surendranath Tagore"
+      ],
+      "options": [
+        "Ganges River Dolphin",
+        "Cardamom",
+        "Chilka Lake",
+        "Surendranath Tagore"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 3,
+      "correctIndex": 3,
+      "exp": "Correct verified answer is 'Surendranath Tagore'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Surendranath Tagore'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Surendranath Tagore' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Surendranath Tagore' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_1773",
+      "q": "Which river holds the Paithan Hydroelectric Project that was completed",
+      "questionText": "Which river holds the Paithan Hydroelectric Project that was completed",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Godavari River (Maharashtra)",
+        "Coimbatore",
+        "River Kosi",
+        "Indus River"
+      ],
+      "options": [
+        "Godavari River (Maharashtra)",
+        "Coimbatore",
+        "River Kosi",
+        "Indus River"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 0,
+      "correctIndex": 0,
+      "exp": "Correct verified answer is 'Godavari River (Maharashtra)'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Godavari River (Maharashtra)'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Godavari River (Maharashtra)' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Godavari River (Maharashtra)' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "hard",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
+    },
+    {
+      "id": "gk_ext_indian_geography_1787",
+      "q": "Who was the First Person from Andhra Pradesh to receive the Bharat",
+      "questionText": "Who was the First Person from Andhra Pradesh to receive the Bharat",
+      "qHi": "",
+      "questionTextHi": "",
+      "o": [
+        "Tehri Dam",
+        "Sarvepalli Radhakrishnan (1954)",
+        "Devprayag",
+        "Ganges River Dolphin"
+      ],
+      "options": [
+        "Tehri Dam",
+        "Sarvepalli Radhakrishnan (1954)",
+        "Devprayag",
+        "Ganges River Dolphin"
+      ],
+      "oHi": [],
+      "optionsHi": [],
+      "a": 1,
+      "correctIndex": 1,
+      "exp": "Correct verified answer is 'Sarvepalli Radhakrishnan (1954)'. Highly relevant for competitive exams.",
+      "explanation": "Correct verified answer is 'Sarvepalli Radhakrishnan (1954)'. Highly relevant for competitive exams.",
+      "expHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Sarvepalli Radhakrishnan (1954)' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "explanationHi": "इस प्रश्न का सही और प्रामाणिक उत्तर 'Sarvepalli Radhakrishnan (1954)' है। परीक्षा की दृष्टि से यह अत्यंत महत्वपूर्ण है।",
+      "hint": "Important authentic question from Indian Geography.",
+      "hintHi": "Indian Geography से संबंधित महत्वपूर्ण परीक्षा उपयोगी प्रश्न।",
+      "difficulty": "medium",
+      "examTags": [
+        "UPSC",
+        "SSC CGL",
+        "State PCS",
+        "RRB"
+      ]
     }
   ],
-  "questionCount": 5
+  "questionCount": 151
 }
